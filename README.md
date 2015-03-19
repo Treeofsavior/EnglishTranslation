@@ -24,7 +24,8 @@ You may also create new issues to discuss the translations with other translator
 
 
 ## Game Screenshots
-<img src="http://blog.treeofsavior.com/en/wp-content/uploads/sites/4/2015/03/globalversion_1.jpg-1024x563.jpg"/>
+<img src="http://blog.treeofsavior.com/en/wp-content/uploads/sites/4/2015/03/2-1024x594.jpg"/>
+<img src="http://blog.treeofsavior.com/en/wp-content/uploads/sites/4/2015/03/1-1024x595.jpg"/>
 <img src="http://blog.treeofsavior.com/en/wp-content/uploads/sites/4/2015/03/globalversion_2.jpg-1024x563.jpg"/>
 <img src="http://blog.treeofsavior.com/en/wp-content/uploads/sites/4/2015/03/globalversion_31.jpg1-1024x563.jpg"/>
 
