@@ -15,7 +15,9 @@ We welcome your contributions in form of pull requests.
 
 To prevent the situation where many people would translate the same lines, please comment and indicate which lines you'd be contributing to in the "Lines for Translation" issue found in the 'Issues' menu so that others would skip those lines.
 
-You may also create new issues to discuss matters about translations with other translators. Please note that issues not related to translation may be deleted without notice. 
+You may also create new issues to discuss the translations with other translators. Please note that issues not related to translation may be deleted without notice. 
+
+
 <img src="https://lh4.googleusercontent.com/YGwDvBpboqxwxWIEibS85PHXcV-wnPQvMMLQC17m3wY=w1028-h478-no"/>
 
 
