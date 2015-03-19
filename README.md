@@ -11,7 +11,7 @@ You can read about our plans for the international version of Tree of Savior in 
 
 ## Contributions
 
-We welcome your contributions in form of issues or pull requests. You may also visit the [Tree of Savior Forums](http://forum.treeofsavior.com/) to discuss the translations. 
+We welcome your contributions in form of issues or pull requests. To prevent the situation where many people would translate the same lines, please comment and indicate which lines you'd be contributing to in the "Lines for Translation" issue found in the 'Issues' menu so that others would skip those lines.
 
 
 ## Game Screenshots
