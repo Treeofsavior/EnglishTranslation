@@ -6,7 +6,7 @@ This repository is dedicated to translating Tree of Savior game texts from **Kor
 
 We hope our disclosing of game texts and opening this repository will pave a quicker way for our non-English speaking fans to enjoy the game in their native languages in the future. 
 
-You can read about our plans for the international version of Tree of Savior in our [Dev Blog](http://http://blog.treeofsavior.com/en/)
+You can read about our plans for the international version of Tree of Savior in our [Dev Blog](http://blog.treeofsavior.com/en/)
 
 
 ## Contributions
