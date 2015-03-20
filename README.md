@@ -20,7 +20,11 @@ You may also create new issues to discuss the translations with other translator
 
 <img src="https://lh4.googleusercontent.com/YGwDvBpboqxwxWIEibS85PHXcV-wnPQvMMLQC17m3wY=w1028-h478-no"/>
 
+#### Don't know Korean but still want to contribute?  
 
+If you don't understand Korean but still want to contribute to translating TOS, you may use machine translators like google or bing translator and edit the translations. It may not give you accurate translations every single time but it usually does work and gives you results that are pretty useful with a bit of a touch up. 
+
+**Tip :** When using machine translator 'Korean -> Japanese -> English' will get you much better results than 'Korean -> English'. 
 
 
 ## Game Screenshots
