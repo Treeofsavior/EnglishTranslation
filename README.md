@@ -4,7 +4,7 @@
 
 2. **We will only be accepting translation(not proofreading) pull requests for now.** We felt that it would be more efficient for proofreading to take place after translations are done so our priority at this point would be completing the translations first. But please do feel free to comment on the pull requests as usual. **(NEW)**
 
-3. ETC.tsv, ETC_en.tsv was removed from the repository. Thank you for your contributions. **(NEW)**
+3. ETC.tsv and ETC_en.tsv were removed from the repository. Thank you for your contributions. **(NEW)**
 
 4. Be sure to take a look at the [**Wiki**](https://github.com/Treeofsavior/EnglishTranslation/wiki) page for guides and reminders before sending us your translations.
 
