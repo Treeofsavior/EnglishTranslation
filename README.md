@@ -1,6 +1,12 @@
-##Notice
+##NOTICE (Updated 03-25-2015)
 
-Be sure to take a look at the [**Wiki**](https://github.com/Treeofsavior/EnglishTranslation/wiki) page for guides and reminders before sending us your translations.
+1. Quest related translation file (QUEST_LV_100.tsv) has been updated with more contents. We hope it would help you have a better grasp of the game context until actual gameplay is possible. **(NEW)**
+
+2. **We will only be accepting translation(not proofreading) pull requests for now.** We felt that it would be more efficient for proofreading to take place after translations are done so our priority at this point would be completing the translations first. But please do feel free to comment on the pull requests as usual. **(NEW)**
+
+3. ETC.tsv and ETC_en.tsv were removed from the repository. Thank you for your contributions. **(NEW)**
+
+4. Be sure to take a look at the [**Wiki**](https://github.com/Treeofsavior/EnglishTranslation/wiki) page for guides and reminders before sending us your translations.
 
 <center><img src="https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-xap1/v/t1.0-9/969383_419497041509849_21485321_n.jpg?oh=0a0920080697b6fbb91c626ff5ed9aef&oe=55BDD765&__gda__=1434192791_d222694d664092275371caeb98405af5"/></center>
 # Tree of Savior Open Text Client (OTC)   
