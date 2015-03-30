@@ -1,6 +1,6 @@
-##NOTICE (Updated 03-26-2015)
+##NOTICE (Updated 03-30-2015)
 
-1. We have uploaded full game texts which includes both proper and machine translations. Feel free to translate, proofread, and edit the files uploaded. **(NEW)**
+1. Based on the feedbacks we received regarding machine translations, we have updated the files with blank spaces like before. **(NEW)**
 
 2. We'd like to hear from you! Please send us your feedbacks and suggestions through the issue [**here**](https://github.com/Treeofsavior/EnglishTranslation/issues/60)
 
