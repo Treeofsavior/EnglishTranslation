@@ -4898,8 +4898,8 @@ ETC_20150323_009898	Notice:NOTICE_Dm_!:Can't get anything!:5/NPCDead
 ETC_20150323_009899	DoTimeAction:Gathering a dandelion:2:None
 ETC_20150323_009900	PCSelfDown:10/Notice:NOTICE_Dm_!:Dandelion root has been lost!:5/NPCDead
 ETC_20150323_009901	PCSelfDown:10/Notice:NOTICE_Dm_!:Dandelion root is broken!!:5/NPCDead/Func:SCR_FARM47_HERB_ROOT_EVENT
-ETC_20150323_009902	DoTimeAction:Cooking Monster Meat:5:None
-ETC_20150323_009903	AnimNPC:Local:OPEN:0/Notice:NOTICE_Dm_!:The meat has been cooked! Wait 5 seconds to obtain the beef jerky!:3/Sleep:5/AnimNPC:Local:OPEN:0/EffectNPC:Local:F_smoke135_dark:2:BOT/Property:1/PropertyAdd:1/GiveItem:FARM47_1_SQ_060_ITEM_2:1:0/TakeItem:FARM47_1_SQ_060_ITEM_1:1:0
+ETC_20150323_009902	DoTimeAction:Drying Monster Meat:5:None
+ETC_20150323_009903	AnimNPC:Local:OPEN:0/Notice:NOTICE_Dm_!:The meat has been dried! Wait 5 seconds to obtain the beef jerky!:3/Sleep:5/AnimNPC:Local:OPEN:0/EffectNPC:Local:F_smoke135_dark:2:BOT/Property:1/PropertyAdd:1/GiveItem:FARM47_1_SQ_060_ITEM_2:1:0/TakeItem:FARM47_1_SQ_060_ITEM_1:1:0
 ETC_20150323_009904	DoTimeAction:Collection:2:MAKING:None
 ETC_20150323_009905	
 ETC_20150323_009906	
