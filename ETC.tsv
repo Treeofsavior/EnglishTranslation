@@ -4888,19 +4888,19 @@ ETC_20150323_009888	Offered flower
 ETC_20150323_009889	Crystal Processing Device
 ETC_20150323_009890	Use Elementalist Attributes
 ETC_20150323_009891	Hunt boss with party members.
-ETC_20150323_009892	
-ETC_20150323_009893	
-ETC_20150323_009894	
-ETC_20150323_009895	
-ETC_20150323_009896	
-ETC_20150323_009897	
-ETC_20150323_009898	
-ETC_20150323_009899	
-ETC_20150323_009900	
-ETC_20150323_009901	
-ETC_20150323_009902	
-ETC_20150323_009903	
-ETC_20150323_009904	
+ETC_20150323_009892	DoTimeAction:Gathering Wood:3:#SITGROPESET2:None
+ETC_20150323_009893	Property:1/PropertyAdd:1/GiveItem:SIAULIAI50_WOOD_PIECE:1:0/NPCKill/EffectNPC:Local:F_pc_making_finish_white:2:BOT/Notice:NOTICE_Dm_Clear:Obtained Wood!:3
+ETC_20150323_009894	DoTimeAction:Full Dummy:2:SITGROPE:None
+ETC_20150323_009895	Property:1/PropertyAdd:1/GiveItem:FARM47_4_SQ_040_ITEM_1:1:0/NPCDead/EffectNPC:Local:F_pc_making_finish_white:2:BOT/Notice:NOTICE_Dm_Clear:I found the biscuits!:5
+ETC_20150323_009896	NPCDead/Sleep:500/Notice:NOTICE_Dm_!:Nothing visible!:5
+ETC_20150323_009897	DoTimeAction:Wood Carving:4:CUTVINE_LOOP:None
+ETC_20150323_009898	Notice:NOTICE_Dm_!:Can't get anything!:5/NPCDead
+ETC_20150323_009899	DoTimeAction:Choosing a dandelion:2:None
+ETC_20150323_009900	PCSelfDown:10/Notice:NOTICE_Dm_!:Dandelion root has been lost!:5/NPCDead
+ETC_20150323_009901	PCSelfDown:10/Notice:NOTICE_Dm_!:Dandelion root is broken!!:5/NPCDead/Func:SCR_FARM47_HERB_ROOT_EVENT
+ETC_20150323_009902	DoTimeAction:Cooking Monster Meat:5:None
+ETC_20150323_009903	AnimNPC:Local:OPEN:0/Notice:NOTICE_Dm_!:The meat has been cooked! Wait 5 seconds to obtain the beef jerky!:3/Sleep:5/AnimNPC:Local:OPEN:0/EffectNPC:Local:F_smoke135_dark:2:BOT/Property:1/PropertyAdd:1/GiveItem:FARM47_1_SQ_060_ITEM_2:1:0/TakeItem:FARM47_1_SQ_060_ITEM_1:1:0
+ETC_20150323_009904	DoTimeAction:Recovery:2:MAKING:None
 ETC_20150323_009905	
 ETC_20150323_009906	
 ETC_20150323_009907	
