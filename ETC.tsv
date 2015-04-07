@@ -234,10 +234,10 @@ ETC_20150317_005233	Once touch the food pile then RiverFeed appear!
 ETC_20150317_005234	Carrion worm
 ETC_20150317_005235	Pilgrim Janus
 ETC_20150317_005236	Hey! Who are you?
-ETC_20150317_005237	Tree Root Crystal of Laziness //namecheck
-ETC_20150317_005238	Protection device for the crystal root of laziness appeared!{nl}Destroy them all within time limit!
+ETC_20150317_005237	Tree Root Crystal of Fatigue
+ETC_20150317_005238	Protection device for the Root Crystal of Fatigue appeared!{nl}Destroy them all within time limit!
 ETC_20150317_005239	Protection device for the crystal root
-ETC_20150317_005240	Modified tree root crystal has fired suddendly! {nl} Get some stuff to extinguish this fire from monsters.
+ETC_20150317_005240	Modified Tree Root Crystal has fired suddendly! {nl} Get some stuff to extinguish this fire from monsters.
 ETC_20150317_005241	Modified tree root turned into a cactusvel!{nl}Defeat the Cactusvel!
 ETC_20150317_005242	Pilgrim Grazzios
 ETC_20150317_005243	Defeat all the monsters summoned by the soul of pilgrim within the time limit!
@@ -4185,7 +4185,7 @@ ETC_20150317_009185	[Hackapell Master] {nl} Flint Boulder
 ETC_20150317_009186	[Druid Master] {nl} Gina Green
 ETC_20150317_009187	[Officer] {nl} Daline
 ETC_20150317_009188	[Pyromancer Master] {nl} Abreh Melinn
-ETC_20150317_009189	[Highland Master] {nl} Douglas Black
+ETC_20150317_009189	[Highlander Master] {nl} Douglas Black
 ETC_20150317_009190	
 ETC_20150317_009191	Practice Post(Fire)
 ETC_20150317_009192	Practice Post (Poison)
@@ -4389,7 +4389,7 @@ ETC_20150317_009389
 ETC_20150317_009390	Pilgrim Julius turned into an archorn!
 ETC_20150317_009391	
 ETC_20150317_009392	Dead Body of Mattas Pilgrim*
-ETC_20150317_009393	Tree Root Crystal of Laziness //namecheck
+ETC_20150317_009393	Tree Root Crystal of Fatigue
 ETC_20150317_009394	
 ETC_20150317_009395	
 ETC_20150317_009396	Scattered Tree Root Crystal Core
@@ -4667,7 +4667,7 @@ ETC_20150323_009667	Use the branch!
 ETC_20150323_009668	Get rid of the Yonazolem!
 ETC_20150323_009669	You touched the rotten meat and Reaverpede appeared!
 ETC_20150323_009670	Son! Stay awak..
-ETC_20150323_009671	The barrier protecting Tree Root Crystal of Laziness appeared!{nl}Better destroy it all before it disappear.
+ETC_20150323_009671	The barrier protecting Tree Root Crystal of Fatigue appeared!{nl}Better destroy it all before it disappear.
 ETC_20150323_009672	The fire looks like it would die out soon.{nl}Get more kindlings from the monsters and keep the fire alive.
 ETC_20150323_009673	Kill the Merge that entrapped the soul!
 ETC_20150323_009674	Finally.. Am I free? 
@@ -4888,19 +4888,19 @@ ETC_20150323_009888	Offered flower
 ETC_20150323_009889	Crystal Processing Device
 ETC_20150323_009890	Use Elementalist Attributes
 ETC_20150323_009891	Hunt boss with party members.
-ETC_20150323_009892	
-ETC_20150323_009893	
-ETC_20150323_009894	
-ETC_20150323_009895	
-ETC_20150323_009896	
-ETC_20150323_009897	
-ETC_20150323_009898	
-ETC_20150323_009899	
-ETC_20150323_009900	
-ETC_20150323_009901	
-ETC_20150323_009902	
-ETC_20150323_009903	
-ETC_20150323_009904	
+ETC_20150323_009892	DoTimeAction:Gathering Wood:3:#SITGROPESET2:None
+ETC_20150323_009893	Property:1/PropertyAdd:1/GiveItem:SIAULIAI50_WOOD_PIECE:1:0/NPCKill/EffectNPC:Local:F_pc_making_finish_white:2:BOT/Notice:NOTICE_Dm_Clear:Obtained Wood!:3
+ETC_20150323_009894	DoTimeAction:Full Dummy:2:SITGROPE:None
+ETC_20150323_009895	Property:1/PropertyAdd:1/GiveItem:FARM47_4_SQ_040_ITEM_1:1:0/NPCDead/EffectNPC:Local:F_pc_making_finish_white:2:BOT/Notice:NOTICE_Dm_Clear:I found the biscuits!:5
+ETC_20150323_009896	NPCDead/Sleep:500/Notice:NOTICE_Dm_!:Nothing visible!:5
+ETC_20150323_009897	DoTimeAction:Wood Carving:4:CUTVINE_LOOP:None
+ETC_20150323_009898	Notice:NOTICE_Dm_!:Can't get anything!:5/NPCDead
+ETC_20150323_009899	DoTimeAction:Gathering a dandelion:2:None
+ETC_20150323_009900	PCSelfDown:10/Notice:NOTICE_Dm_!:Dandelion root has been lost!:5/NPCDead
+ETC_20150323_009901	PCSelfDown:10/Notice:NOTICE_Dm_!:Dandelion root is broken!!:5/NPCDead/Func:SCR_FARM47_HERB_ROOT_EVENT
+ETC_20150323_009902	DoTimeAction:Drying Monster Meat:5:None
+ETC_20150323_009903	AnimNPC:Local:OPEN:0/Notice:NOTICE_Dm_!:The meat has been dried! Wait 5 seconds to obtain the beef jerky!:3/Sleep:5/AnimNPC:Local:OPEN:0/EffectNPC:Local:F_smoke135_dark:2:BOT/Property:1/PropertyAdd:1/GiveItem:FARM47_1_SQ_060_ITEM_2:1:0/TakeItem:FARM47_1_SQ_060_ITEM_1:1:0
+ETC_20150323_009904	DoTimeAction:Collection:2:MAKING:None
 ETC_20150323_009905	
 ETC_20150323_009906	
 ETC_20150323_009907	
