@@ -4537,9 +4537,9 @@ ETC_20150323_009537	Summoned
 ETC_20150323_009538	Squire Armor Repair Prop
 ETC_20150323_009539	Squire Armor Repair Signboard
 ETC_20150323_009540	Squire Sign Board
-ETC_20150323_009541	Squire Work Table
+ETC_20150323_009541	Squire work table
 ETC_20150323_009542	Squire Anvil
-ETC_20150323_009543	Mass AI
+ETC_20150323_009543	
 ETC_20150323_009544	Armaos 
 ETC_20150323_009545	Glutton
 ETC_20150323_009546	Succubus
@@ -4667,7 +4667,7 @@ ETC_20150323_009667	Use the branch!
 ETC_20150323_009668	Get rid of the Yonazolem!
 ETC_20150323_009669	You touched the rotten meat and Reaverpede appeared!
 ETC_20150323_009670	Son! Stay awak..
-ETC_20150323_009671	The barrier protecting Tree Root Crystal of Fatigue appeared!{nl}Better destroy it all before it disappear.
+ETC_20150323_009671	The barrier protecting Tree Root Crystal of Laziness appeared!{nl}Better destroy it all before it disappear.
 ETC_20150323_009672	The fire looks like it would die out soon.{nl}Get more kindlings from the monsters and keep the fire alive.
 ETC_20150323_009673	Kill the Merge that entrapped the soul!
 ETC_20150323_009674	Finally.. Am I free? 
@@ -4764,7 +4764,7 @@ ETC_20150323_009764	Energy of Astral body can be felt for sure
 ETC_20150323_009765	Dismal Energy 
 ETC_20150323_009766	Dismal energy strengthens the monsters
 ETC_20150323_009767	Houberg Hover
-ETC_20150323_009768	Terms of Service
+ETC_20150323_009768	
 ETC_20150323_009769	
 ETC_20150323_009770	Obedience
 ETC_20150323_009771	This monster is enslaved!
@@ -4888,665 +4888,958 @@ ETC_20150323_009888	Offered flower
 ETC_20150323_009889	Crystal Processing Device
 ETC_20150323_009890	Use Elementalist Attributes
 ETC_20150323_009891	Hunt boss with party members.
-ETC_20150323_009892	DoTimeAction:Gathering Wood:3:#SITGROPESET2:None
-ETC_20150323_009893	Property:1/PropertyAdd:1/GiveItem:SIAULIAI50_WOOD_PIECE:1:0/NPCKill/EffectNPC:Local:F_pc_making_finish_white:2:BOT/Notice:NOTICE_Dm_Clear:Obtained Wood!:3
-ETC_20150323_009894	DoTimeAction:Full Dummy:2:SITGROPE:None
-ETC_20150323_009895	Property:1/PropertyAdd:1/GiveItem:FARM47_4_SQ_040_ITEM_1:1:0/NPCDead/EffectNPC:Local:F_pc_making_finish_white:2:BOT/Notice:NOTICE_Dm_Clear:I found the biscuits!:5
-ETC_20150323_009896	NPCDead/Sleep:500/Notice:NOTICE_Dm_!:Nothing visible!:5
-ETC_20150323_009897	DoTimeAction:Wood Carving:4:CUTVINE_LOOP:None
-ETC_20150323_009898	Notice:NOTICE_Dm_!:Can't get anything!:5/NPCDead
-ETC_20150323_009899	DoTimeAction:Gathering a dandelion:2:None
-ETC_20150323_009900	PCSelfDown:10/Notice:NOTICE_Dm_!:Dandelion root has been lost!:5/NPCDead
-ETC_20150323_009901	PCSelfDown:10/Notice:NOTICE_Dm_!:Dandelion root is broken!!:5/NPCDead/Func:SCR_FARM47_HERB_ROOT_EVENT
-ETC_20150323_009902	DoTimeAction:Drying Monster Meat:5:None
-ETC_20150323_009903	AnimNPC:Local:OPEN:0/Notice:NOTICE_Dm_!:The meat has been dried! Wait 5 seconds to obtain the beef jerky!:3/Sleep:5/AnimNPC:Local:OPEN:0/EffectNPC:Local:F_smoke135_dark:2:BOT/Property:1/PropertyAdd:1/GiveItem:FARM47_1_SQ_060_ITEM_2:1:0/TakeItem:FARM47_1_SQ_060_ITEM_1:1:0
-ETC_20150323_009904	DoTimeAction:Collection:2:MAKING:None
-ETC_20150323_009905	
-ETC_20150323_009906	
-ETC_20150323_009907	
-ETC_20150323_009908	
-ETC_20150323_009909	
-ETC_20150323_009910	
-ETC_20150323_009911	
-ETC_20150323_009912	
-ETC_20150323_009913	
-ETC_20150323_009914	
-ETC_20150323_009915	
-ETC_20150323_009916	
-ETC_20150323_009917	
-ETC_20150323_009918	
-ETC_20150323_009919	
-ETC_20150323_009920	
-ETC_20150323_009921	
-ETC_20150323_009922	
-ETC_20150323_009923	
-ETC_20150323_009924	
-ETC_20150323_009925	
-ETC_20150323_009926	
-ETC_20150323_009927	
-ETC_20150323_009928	
-ETC_20150323_009929	
-ETC_20150323_009930	
-ETC_20150323_009931	
-ETC_20150323_009932	
-ETC_20150323_009933	
-ETC_20150323_009934	
-ETC_20150323_009935	
-ETC_20150323_009936	
-ETC_20150323_009937	
-ETC_20150323_009938	
-ETC_20150323_009939	
-ETC_20150323_009940	
-ETC_20150323_009941	
-ETC_20150323_009942	
-ETC_20150323_009943	
-ETC_20150323_009944	
-ETC_20150323_009945	
-ETC_20150323_009946	
-ETC_20150323_009947	
-ETC_20150323_009948	
-ETC_20150323_009949	
-ETC_20150323_009950	
-ETC_20150323_009951	
-ETC_20150323_009952	
-ETC_20150323_009953	
-ETC_20150323_009954	
-ETC_20150323_009955	
-ETC_20150323_009956	
-ETC_20150323_009957	
-ETC_20150323_009958	
-ETC_20150323_009959	
-ETC_20150323_009960	
-ETC_20150323_009961	
-ETC_20150323_009962	
-ETC_20150323_009963	
-ETC_20150323_009964	
-ETC_20150323_009965	
-ETC_20150323_009966	
-ETC_20150323_009967	
-ETC_20150323_009968	
-ETC_20150323_009969	
-ETC_20150323_009970	
-ETC_20150323_009971	
-ETC_20150323_009972	
-ETC_20150323_009973	
-ETC_20150323_009974	
-ETC_20150323_009975	
-ETC_20150323_009976	
-ETC_20150323_009977	
-ETC_20150323_009978	
-ETC_20150323_009979	
-ETC_20150323_009980	
-ETC_20150323_009981	
-ETC_20150323_009982	
-ETC_20150323_009983	
-ETC_20150323_009984	
-ETC_20150323_009985	
-ETC_20150323_009986	
-ETC_20150323_009987	
-ETC_20150323_009988	
-ETC_20150323_009989	
-ETC_20150323_009990	
-ETC_20150323_009991	
-ETC_20150323_009992	
-ETC_20150323_009993	
-ETC_20150323_009994	
-ETC_20150323_009995	
-ETC_20150323_009996	
-ETC_20150323_009997	
-ETC_20150323_009998	
-ETC_20150323_009999	
-ETC_20150323_010000	Throw burning Dandel into the magic square
-ETC_20150323_010001	Put godess statue on the magic square
-ETC_20150323_010002	Get some wood sticks from around fences
-ETC_20150323_010003	Fill a jar
-ETC_20150323_010004	Get farming tool - Plow
-ETC_20150323_010005	Get farming tool - Hoe
-ETC_20150323_010006	Get farming tool - Spade
-ETC_20150323_010007	Get farming tool - Pickax
-ETC_20150323_010008	Get farming tool - Pitchfork
-ETC_20150323_010009	Pull out dandelion
-ETC_20150323_010010	Throw rocks to break the magic square
-ETC_20150323_010011	Gather signatures of famer
-ETC_20150323_010012	Warehouse Fee
-ETC_20150323_010013	N/A
-ETC_20150323_010014	Manufacture Instruction - Antidote
-ETC_20150323_010015	Job change to Elementalist
-ETC_20150323_010016	Card Composite
-ETC_20150323_010017	Please write a message.
-ETC_20150323_010018	Visit the Barrack
-ETC_20150323_010019	Game Start
-ETC_20150323_010020	Purchase Store for User
-ETC_20150323_010021	Buff Store
-ETC_20150323_010022	The maker is using a skill.
-ETC_20150323_010023	Item refinement is completed
+ETC_20150323_009892	DoTimeAction:Collecting wood:3:#SITGROPESET2:None
+ETC_20150323_009893	Property:1/PropertyAdd:1/GiveItem:SIAULIAI50_WOOD_PIECE:1:0/NPCKill/EffectNPC:Local:F_pc_making_finish_white:2:BOT/Notice:NOTICE_Dm_Clear:Acquired wood!:3
+ETC_20150323_009894	DoTimeAction:Searching Grass:2:SITGROPE:None
+ETC_20150323_009895	Property:1/PropertyAdd:1/GiveItem:FARM47_4_SQ_040_ITEM_1:1:0/NPCDead/EffectNPC:Local:F_pc_making_finish_white:2:BOT/Notice:NOTICE_Dm_Clear:Found Hardtack!:5
+ETC_20150323_009896	NPCDead/Sleep:500/Notice:NOTICE_Dm_!:Can't see anything!:5
+ETC_20150323_009897	DoTimeAction:Cutting wood to use as club:4:CUTVINE_LOOP:None
+ETC_20150323_009898	Notice:NOTICE_Dm_!:Did not get anything!:5/NPCDead
+ETC_20150323_009899	DoTimeAction:Picking Dandelion:2:None
+ETC_20150323_009900	PCSelfDown:10/Notice:NOTICE_Dm_!:Dandelion root is cut off!:5/NPCDead
+ETC_20150323_009901	PCSelfDown:10/Notice:NOTICE_Dm_!:Dandelion root is cut off!!:5/NPCDead/Func:SCR_FARM47_HERB_ROOT_EVENT
+ETC_20150323_009902	DoTimeAction:Drying meat of monster:5:None
+ETC_20150323_009903	AnimNPC:Local:OPEN:0/Notice:NOTICE_Dm_!:Meat is drying! Open the lid after 5 seconds to get meat jerkey!:3/Sleep:5/AnimNPC:Local:OPEN:0/EffectNPC:Local:F_smoke135_dark:2:BOT/Property:1/PropertyAdd:1/GiveItem:FARM47_1_SQ_060_ITEM_2:1:0/TakeItem:FARM47_1_SQ_060_ITEM_1:1:0
+ETC_20150323_009904	DoTimeAction:Retrieving:2:MAKING:None
+ETC_20150323_009905	According to rumors around Fedimian, when the pilgrims passed by the Pilgrim Path
+ETC_20150323_009906	Survivors of the Fallen City lost their belongings or their lives in the Altar Way while going to Fedimian. According to the survivors
+ETC_20150323_009907	Revelators are exploring the different fallen parts of the world to find assignments of the Goddess. What seems to be a sanctuary was found in the Altar Way. If you can find something restore and use it again, you will be a hero to those who travel this area. 
+ETC_20150323_009908	According to the scout's reports, there were spell devices found in Forest of Prayer. They tried to activate it but there were too many monsters around so they had to run for their lives. Someone has to activate the spell device and check what powers it has.
+ETC_20150323_009909	Pass Tenet Garden and move to Katyn Forest Entrance
+ETC_20150323_009910	Place the Pot of Sun in Ramstis Ridge
+ETC_20150323_009911	Find reference related to Naktis
+ETC_20150323_009912	Get baby leaf of Asellu
+ETC_20150323_009913	Get kindlings from Kowag
+ETC_20150323_009914	Insert kindlings in Tree Root Crystal
+ETC_20150323_009915	Separate soul of pilgrims from the monster and attack the Tree Root Crystal.
+ETC_20150323_009916	Test the medicine on the monsters in Altar Way
+ETC_20150323_009917	Lure the monsters to the sanctuary and kill them
+ETC_20150323_009918	Destroy the Demon summon circle
+ETC_20150323_009919	Find the badge of sactuary and burn it
+ETC_20150323_009920	Get the Reed extract crystal from Triambolos that live off Reed Roots
+ETC_20150323_009921	Collect the sap gathered in first pot
+ETC_20150323_009922	Collect the sap gathered in second pot
+ETC_20150323_009923	Collect the sap gathered in third pot
+ETC_20150323_009924	Get antidote from people in Akmens Ridge
+ETC_20150323_009925	Release the seal of Viesha Altar
+ETC_20150323_009926	Find the document for transforming to demons in the Sanctuary
+ETC_20150323_009927	Defend against the demons while the demon transformation scroll is being completed
+ETC_20150323_009928	Get the Fourth Key of Mayvern in Gaule Altar
+ETC_20150323_009929	Remove things of the demon
+ETC_20150323_009930	Unidentified device
+ETC_20150323_009931	Win the combat with Priest of Evidence
+ETC_20150323_009932	Find the sacred words
+ETC_20150323_009933	Listen to the story of Demon Monarch Houberg
+ETC_20150323_009934	Grasp the situation
+ETC_20150323_009935	Seal the contaminating gap
+ETC_20150323_009936	Release seal of Rwalda
+ETC_20150323_009937	Release seal of Casa
+ETC_20150323_009938	Release seal of Rada
+ETC_20150323_009939	Find Houberg hidden among the monsters
+ETC_20150323_009940	Seal Houberg
+ETC_20150323_009941	Find Goddess Vakarine
+ETC_20150323_009942	Enfore demons to obey
+ETC_20150323_009943	Dominate demons
+ETC_20150323_009944	Collet Token of Star
+ETC_20150323_009945	Check status of the ground
+ETC_20150323_009946	Collect materials for medicine
+ETC_20150323_009947	Existence of singularity
+ETC_20150323_009948	Research the smooth pile of soil
+ETC_20150323_009949	Box that does not open
+ETC_20150323_009950	Long term provision
+ETC_20150323_009951	Pick young dandelion
+ETC_20150323_009952	Get rid of competitor
+ETC_20150323_009953	Diary of a Girl
+ETC_20150323_009954	I need eggs
+ETC_20150323_009955	Farm under Disaster
+ETC_20150323_009956	Cure Grape Addiction
+ETC_20150323_009957	Give antidote to addicted farmer
+ETC_20150323_009958	Lead the farmers to Druid
+ETC_20150323_009959	Block the beast with the beast's blood
+ETC_20150323_009960	Bring the Green Winged Frog to Telepath
+ETC_20150323_009961	Opening the Magic Box (1)
+ETC_20150323_009962	Between crops and weeds
+ETC_20150323_009963	Change that can't return
+ETC_20150323_009964	A Different Story (1)
+ETC_20150323_009965	Kill the monster Gorde Shaton summoned
+ETC_20150323_009966	This is also purification
+ETC_20150323_009967	Block the Undergroudn Tunnel
+ETC_20150323_009968	Culprit of the Underground Maze
+ETC_20150323_009969	Take Farm Soldier Upham to chief Vuros
+ETC_20150323_009970	Pass by Gate Route and Sirdgela Forest and move to Kvailas Forest
+ETC_20150323_009971	Move to Geli Plateau
+ETC_20150323_009972	Lunatic effect of Gitis Pioneer (1)
+ETC_20150323_009973	Lunatic effect of Gitis Pioneer (2)
+ETC_20150323_009974	Antidote(1)
+ETC_20150323_009975	Get Ridimet grass
+ETC_20150323_009976	Cure the people gone mad
+ETC_20150323_009977	Louise's Farmland (1)
+ETC_20150323_009978	Louise's Farmland (2)
+ETC_20150323_009979	Get wood
+ETC_20150323_009980	Dig through the grass and look for hidden food
+ETC_20150323_009981	Stun Scorpio to faint and extract poison
+ETC_20150323_009982	Get sweet herbs
+ETC_20150323_009983	Make sure the snacks don't spoil
+ETC_20150323_009984	Remove the strange aura
+ETC_20150323_009985	Look around the area Arunas mentioned
+ETC_20150323_009986	Look around the surrounding crops
+ETC_20150323_009987	Make magic circle with the wood given by Arunas
+ETC_20150323_009988	Burn Baron's shaman doll in the magic jcircle
+ETC_20150323_009989	Remove the Protection Stone with Strange Aura
+ETC_20150323_009990	Fill the first empty bottle with Evil aura of Yellow Ellum
+ETC_20150323_009991	Fill the second empty bottle with Evil aura of Kepo Seed
+ETC_20150323_009992	Bury the bottle filled with evil aura on the right of the magic circle
+ETC_20150323_009993	Bury the bottle filled with evil aura on the left of the magic circle
+ETC_20150323_009994	Absorb the living monsters to the magic circle
+ETC_20150323_009995	Avoid the monster's attacks and destroy the liquor barrel within time limit
+ETC_20150323_009996	Get the head of wooden hammer
+ETC_20150323_009997	Get the handle of wooden hammer
+ETC_20150323_009998	Open the liquor barrel
+ETC_20150323_009999	Test the incomplete magic circle on the monsters
+ETC_20150323_010000	Throw in the brning Dandel in the magic circle
+ETC_20150323_010001	Place the Goddess Statue on the magic circle
+ETC_20150323_010002	Find wooden club from surrounding fence
+ETC_20150323_010003	Fill the poison pot
+ETC_20150323_010004	Get farm tools - Plow
+ETC_20150323_010005	Get farm tools - Hoe
+ETC_20150323_010006	Get farm tools - Spade
+ETC_20150323_010007	Get farm tools - Pickax
+ETC_20150323_010008	Get farm tools - Pitchfork
+ETC_20150323_010009	Pull the Dandelion
+ETC_20150323_010010	Throw stone and break the magic circle
+ETC_20150323_010011	Get signature of farmers on the compact
+ETC_20150323_010012	Storage use fee
+ETC_20150323_010013	
+ETC_20150323_010014	Recipe - antidote
+ETC_20150323_010015	Elementalist Advancement
+ETC_20150323_010016	Card Synthesis
+ETC_20150323_010017	Enter Greetings
+ETC_20150323_010018	Visit Barrack
+ETC_20150323_010019	Start Game
+ETC_20150323_010020	User Buy-in Shop
+ETC_20150323_010021	Buff Shop
+ETC_20150323_010022	Crafter is still using the skill.
+ETC_20150323_010023	Item refinery complete
 ETC_20150323_010024	Consume
-ETC_20150323_010025	Hire for a mercenary
-ETC_20150323_010026	
-ETC_20150323_010027	
-ETC_20150323_010028	
-ETC_20150323_010029	
-ETC_20150323_010030	
-ETC_20150323_010031	
-ETC_20150323_010032	
-ETC_20150323_010033	
-ETC_20150323_010034	
-ETC_20150323_010035	
-ETC_20150323_010036	
-ETC_20150323_010037	
-ETC_20150323_010038	
-ETC_20150323_010039	
-ETC_20150323_010040	
-ETC_20150323_010041	
-ETC_20150323_010042	
-ETC_20150323_010043	
-ETC_20150323_010044	
-ETC_20150323_010045	
-ETC_20150323_010046	
-ETC_20150323_010047	
-ETC_20150323_010048	
-ETC_20150323_010049	
-ETC_20150323_010050	
-ETC_20150323_010051	
-ETC_20150323_010052	
-ETC_20150323_010053	
-ETC_20150323_010054	
-ETC_20150323_010055	
-ETC_20150323_010056	
-ETC_20150323_010057	
-ETC_20150323_010058	
-ETC_20150323_010059	
-ETC_20150323_010060	
-ETC_20150323_010061	
-ETC_20150323_010062	
-ETC_20150323_010063	
-ETC_20150323_010064	
-ETC_20150323_010065	
-ETC_20150323_010066	
-ETC_20150323_010067	
-ETC_20150323_010068	
-ETC_20150323_010069	
-ETC_20150323_010070	
-ETC_20150323_010071	
-ETC_20150323_010072	
-ETC_20150323_010073	
-ETC_20150323_010074	
-ETC_20150323_010075	
-ETC_20150323_010076	
-ETC_20150323_010077	
-ETC_20150323_010078	
-ETC_20150323_010079	
-ETC_20150323_010080	
-ETC_20150323_010081	
-ETC_20150323_010082	
-ETC_20150323_010083	
-ETC_20150323_010084	
-ETC_20150323_010085	
-ETC_20150323_010086	
-ETC_20150323_010087	
-ETC_20150323_010088	
-ETC_20150323_010089	
-ETC_20150323_010090	
-ETC_20150323_010091	
-ETC_20150323_010092	
-ETC_20150323_010093	
-ETC_20150323_010094	
-ETC_20150323_010095	
-ETC_20150323_010096	
-ETC_20150323_010097	
-ETC_20150323_010098	
-ETC_20150323_010099	
-ETC_20150323_010100	
-ETC_20150323_010101	
-ETC_20150323_010102	
-ETC_20150323_010103	
-ETC_20150323_010104	
-ETC_20150323_010105	
-ETC_20150323_010106	
-ETC_20150323_010107	
-ETC_20150323_010108	
-ETC_20150323_010109	
-ETC_20150323_010110	
-ETC_20150323_010111	
-ETC_20150323_010112	
-ETC_20150323_010113	
-ETC_20150323_010114	
-ETC_20150323_010115	
-ETC_20150323_010116	
-ETC_20150323_010117	
-ETC_20150323_010118	
-ETC_20150323_010119	
-ETC_20150323_010120	
-ETC_20150323_010121	
-ETC_20150323_010122	
-ETC_20150323_010123	
-ETC_20150323_010124	
-ETC_20150323_010125	
-ETC_20150323_010126	
-ETC_20150323_010127	
-ETC_20150323_010128	
-ETC_20150323_010129	
-ETC_20150323_010130	
-ETC_20150323_010131	
-ETC_20150323_010132	
-ETC_20150323_010133	
-ETC_20150323_010134	
-ETC_20150323_010135	
-ETC_20150323_010136	
-ETC_20150323_010137	
-ETC_20150323_010138	
-ETC_20150323_010139	
-ETC_20150323_010140	
-ETC_20150323_010141	
-ETC_20150323_010142	
-ETC_20150323_010143	
-ETC_20150323_010144	
-ETC_20150323_010145	
-ETC_20150323_010146	
-ETC_20150323_010147	
-ETC_20150323_010148	
-ETC_20150323_010149	
-ETC_20150323_010150	
-ETC_20150323_010151	
-ETC_20150323_010152	
-ETC_20150323_010153	
-ETC_20150323_010154	
-ETC_20150323_010155	
-ETC_20150323_010156	
-ETC_20150323_010157	
-ETC_20150323_010158	
-ETC_20150323_010159	
-ETC_20150323_010160	
-ETC_20150323_010161	
-ETC_20150323_010162	
-ETC_20150323_010163	
-ETC_20150323_010164	
-ETC_20150323_010165	
-ETC_20150323_010166	
-ETC_20150323_010167	
-ETC_20150323_010168	
-ETC_20150323_010169	
-ETC_20150323_010170	
-ETC_20150323_010171	
-ETC_20150323_010172	
-ETC_20150323_010173	
-ETC_20150323_010174	
-ETC_20150323_010175	
-ETC_20150323_010176	
-ETC_20150323_010177	
-ETC_20150323_010178	
-ETC_20150323_010179	
-ETC_20150323_010180	
-ETC_20150323_010181	
-ETC_20150323_010182	
-ETC_20150323_010183	
-ETC_20150323_010184	
-ETC_20150323_010185	
-ETC_20150323_010186	
-ETC_20150323_010187	
-ETC_20150323_010188	
-ETC_20150323_010189	
-ETC_20150323_010190	
-ETC_20150323_010191	
-ETC_20150323_010192	
-ETC_20150323_010193	
-ETC_20150323_010194	
-ETC_20150323_010195	
-ETC_20150323_010196	
-ETC_20150323_010197	
-ETC_20150323_010198	
-ETC_20150323_010199	
-ETC_20150323_010200	
-ETC_20150323_010201	
-ETC_20150323_010202	
-ETC_20150323_010203	
-ETC_20150323_010204	
-ETC_20150323_010205	
-ETC_20150323_010206	
-ETC_20150323_010207	
-ETC_20150323_010208	
-ETC_20150323_010209	
-ETC_20150323_010210	
-ETC_20150323_010211	
-ETC_20150323_010212	
-ETC_20150323_010213	
-ETC_20150323_010214	
-ETC_20150323_010215	
-ETC_20150323_010216	
-ETC_20150323_010217	
-ETC_20150323_010218	
-ETC_20150323_010219	
-ETC_20150323_010220	
-ETC_20150323_010221	
-ETC_20150323_010222	
-ETC_20150323_010223	
-ETC_20150323_010224	
-ETC_20150323_010225	
-ETC_20150323_010226	
-ETC_20150323_010227	
-ETC_20150323_010228	
-ETC_20150323_010229	
-ETC_20150323_010230	
-ETC_20150323_010231	
-ETC_20150323_010232	
-ETC_20150323_010233	
-ETC_20150323_010234	
-ETC_20150323_010235	
-ETC_20150323_010236	
-ETC_20150323_010237	
-ETC_20150323_010238	
-ETC_20150323_010239	
-ETC_20150323_010240	
-ETC_20150323_010241	
-ETC_20150323_010242	
-ETC_20150323_010243	
-ETC_20150323_010244	
-ETC_20150323_010245	
-ETC_20150323_010246	
-ETC_20150323_010247	
-ETC_20150323_010248	
-ETC_20150323_010249	
-ETC_20150323_010250	
-ETC_20150323_010251	
-ETC_20150323_010252	
-ETC_20150323_010253	
-ETC_20150323_010254	
-ETC_20150323_010255	
-ETC_20150323_010256	
-ETC_20150323_010257	
-ETC_20150323_010258	
-ETC_20150323_010259	
-ETC_20150323_010260	
-ETC_20150323_010261	
-ETC_20150323_010262	
-ETC_20150323_010263	
-ETC_20150323_010264	
-ETC_20150323_010265	
-ETC_20150323_010266	
-ETC_20150323_010267	
-ETC_20150323_010268	
-ETC_20150323_010269	
-ETC_20150323_010270	
-ETC_20150323_010271	
-ETC_20150323_010272	
-ETC_20150323_010273	
-ETC_20150323_010274	
-ETC_20150323_010275	
-ETC_20150323_010276	
-ETC_20150323_010277	
-ETC_20150323_010278	
-ETC_20150323_010279	
-ETC_20150323_010280	
-ETC_20150323_010281	
-ETC_20150323_010282	
-ETC_20150323_010283	
-ETC_20150323_010284	
-ETC_20150323_010285	
-ETC_20150323_010286	
-ETC_20150323_010287	
-ETC_20150323_010288	
-ETC_20150323_010289	
-ETC_20150323_010290	
-ETC_20150323_010291	
-ETC_20150323_010292	
-ETC_20150323_010293	
-ETC_20150323_010294	
-ETC_20150323_010295	
-ETC_20150323_010296	
-ETC_20150323_010297	
-ETC_20150323_010298	
-ETC_20150323_010299	
-ETC_20150323_010300	
-ETC_20150323_010301	
-ETC_20150323_010302	
-ETC_20150323_010303	
-ETC_20150323_010304	
-ETC_20150323_010305	
-ETC_20150323_010306	
-ETC_20150323_010307	
-ETC_20150323_010308	
-ETC_20150323_010309	
-ETC_20150323_010310	
-ETC_20150323_010311	
-ETC_20150323_010312	
-ETC_20150323_010313	
-ETC_20150323_010314	
-ETC_20150323_010315	
-ETC_20150323_010316	
-ETC_20150323_010317	
-ETC_20150323_010318	
-ETC_20150323_010319	
-ETC_20150323_010320	
-ETC_20150323_010321	
-ETC_20150323_010322	
-ETC_20150323_010323	
-ETC_20150323_010324	
-ETC_20150323_010325	
-ETC_20150323_010326	
-ETC_20150323_010327	
-ETC_20150323_010328	
-ETC_20150323_010329	
-ETC_20150323_010330	
-ETC_20150323_010331	
-ETC_20150323_010332	
-ETC_20150323_010333	
-ETC_20150323_010334	
-ETC_20150323_010335	
-ETC_20150323_010336	
-ETC_20150323_010337	
-ETC_20150323_010338	
-ETC_20150323_010339	
-ETC_20150323_010340	
-ETC_20150323_010341	
+ETC_20150323_010025	Hire as mercenary
+ETC_20150323_010026	{Price} NXP will be consumed to hire for {Minute} minutes. Do you wish to continue?
+ETC_20150323_010027	Dismiss Mercenary
+ETC_20150323_010028	Hiring fee will not be refunded. Are you sure you want to dismiss? 
+ETC_20150323_010029	Wrong equipment. Please check the title. 
+ETC_20150323_010030	{gr gradation2}{s19}{ol}{b}{#ffcc00}Right-click : Sell/ Buy Button{/}{/}{nl}Press down the right click for long to sell multiple quantity of the item.{nl}Double click to sell all.{nl}　{nl}{b}{#ffcc00}Left-click : Cancel / Return Button{/}{/}{nl}Press down the left click for long to cancel multiple quantity of the item.{nl} Double left-click to sell all.
+ETC_20150323_010031	Consume material should have the same or more stars that the item to combine.
+ETC_20150323_010032	This item cannot be upgraded. 
+ETC_20150323_010033	This item is already upgraded.
+ETC_20150323_010034	Item upgrade!
+ETC_20150323_010035	Potential is consumed when upgrading items. Do you wish to continue? 
+ETC_20150323_010036	Buff duration
+ETC_20150323_010037	Food distribution table can be installed near the basecamp only
+ETC_20150323_010038	Only one basecamp can be installed
+ETC_20150323_010039	Weapon repair effect
+ETC_20150323_010040	Armor repair effect
+ETC_20150323_010041	Anvil upgrade
+ETC_20150323_010042	Add physical attack of companion by {Value}
+ETC_20150323_010043	%d Players
+ETC_20150323_010044	 received your buff.
+ETC_20150323_010045	 had the item repaired.
+ETC_20150323_010046	Collecting young leaves
+ETC_20150323_010047	Collected young leaved but accidentally cut yourself by the tough leaf!
+ETC_20150323_010048	You have a cut on your hand by the tough leaf!
+ETC_20150323_010049	You threw the music box to where it was
+ETC_20150323_010050	An old music box was found from the pile of grass
+ETC_20150323_010051	Collected the young leaves of Aselu
+ETC_20150323_010052	Going through the pile of food
+ETC_20150323_010053	Get more food waste from the pile of food in Ishplash Plaza
+ETC_20150323_010054	There is no monster
+ETC_20150323_010055	Destroying the core of Crystal
+ETC_20150323_010056	The core of Crystal exploded.
+ETC_20150323_010057	Destroyed the core of Crystal and earned Stamina!
+ETC_20150323_010058	There was an abnormal reaction from the Core of Crystal and Old Hook Appeared!
+ETC_20150323_010059	Successfully destroyed mutated Tree Root Crystal!
+ETC_20150323_010060	Touched the wrong Tree Root Crystal and movement speed decreased!
+ETC_20150323_010061	Don't lie! I will finish you too!
+ETC_20150323_010062	You think I will forgive you? 
+ETC_20150323_010063	I will destroy you too!
+ETC_20150323_010064	You think I will fall for it? Come on and fight!
+ETC_20150323_010065	Picking flower
+ETC_20150323_010066	Picked a beautiful flower.
+ETC_20150323_010067	You tried to calm the restrained soul but he was overwhelmed with rage and turned into a monster!
+ETC_20150323_010068	I still.. can't forgive!
+ETC_20150323_010069	How can you.. do that to me!
+ETC_20150323_010070	We were your colleagues and you betrayed us!
+ETC_20150323_010071	Receive blessings of sanctuary. You can run faster for 30 seconds.
+ETC_20150323_010072	Offer 100 silver
+ETC_20150323_010073	Offer 500 silver
+ETC_20150323_010074	Offer 100 silver
+ETC_20150323_010075	Receive blessings of sanctuary. You can run faster for 60 seconds.
+ETC_20150323_010076	Receive blessings of sanctuary. You can run faster for 120 seconds.
+ETC_20150323_010077	Offered 100 silver
+ETC_20150323_010078	Offered 500 silver
+ETC_20150323_010079	Offered 1000 silver
+ETC_20150323_010080	Offered 40 silver
+ETC_20150323_010081	Offered 50 silver
+ETC_20150323_010082	Received blessings of the sanctuary. Attack power is increased!
+ETC_20150323_010083	Detected monster that swallowed the badge!{nl}Press V key to use the mark of faith!
+ETC_20150323_010084	Monster polluting the sanctuary
+ETC_20150323_010085	Monster that swallowed the badge appeared!
+ETC_20150323_010086	Recceived blessings of the sanctuary. Attack power increases for 10 seconds!
+ETC_20150323_010087	Recceived blessings of the sanctuary. Receive Divine power for 10 seconds!
+ETC_20150323_010088	Poison is spurting!
+ETC_20150323_010089	Cannot offer nor receive blessings!
+ETC_20150323_010090	Receive blessings of the sanctuary. Restored HP!
+ETC_20150323_010091	Triambolo living off the reed root appeared!
+ETC_20150323_010092	Acquired core of the reed sap!
+ETC_20150323_010093	Acquired 5 food waste.
+ETC_20150323_010094	Monsters are eating the food waste.
+ETC_20150323_010095	It is not respoding to the food waste.
+ETC_20150323_010096	Stepped on the pit of Cactusvel and fell under the curse!
+ETC_20150323_010097	Stepped on the pollutant and fainted!
+ETC_20150323_010098	Please help..
+ETC_20150323_010099	It is not reacting. Try it on a different mosnter.
+ETC_20150323_010100	Monster hiding in the root appeared!
+ETC_20150323_010101	Swept by the reed with poison and fainted!
+ETC_20150323_010102	Injured by the reed and is slowing down!
+ETC_20150323_010103	Sleeping gas is rising suddenly!
+ETC_20150323_010104	Cannot find anything!
+ETC_20150323_010105	Found the badge of the Sanctuary!
+ETC_20150323_010106	Cannot find the badge of the Sacntuary!
+ETC_20150323_010107	Witas' rcurse is making you fall asleep!
+ETC_20150323_010108	The soul is returing to the Goddess.
+ETC_20150323_010109	Released the sould retrained by the mosnter!
+ETC_20150323_010110	You already have enough food waste.
+ETC_20150323_010111	Persuade the tired Draperiun!
+ETC_20150323_010112	You went through the food pile and it exploded!
+ETC_20150323_010113	Acquired kindling! {nl}Put it in the fire for the Tree Root Crystal to burn!
+ETC_20150323_010114	Adding kindlings
+ETC_20150323_010115	Flame is blazing up!
+ETC_20150323_010116	Successfully burned Tree Root Crystal.
+ETC_20150323_010117	Trapped the evil aura in the box.
+ETC_20150323_010118	The evil aura is being absorbed to the box.
+ETC_20150323_010119	It will automatically explode when you take the core of Tree Root Crystal from the monster!
+ETC_20150323_010120	Tree Root Crystal Reacting
+ETC_20150323_010121	Soul of Pilgrim entrapped by the monster is released!{nl}Destroy the entrapped soul of pilgrim to release him!
+ETC_20150323_010122	Trapped Soul of Pilgrim
+ETC_20150323_010123	Lure the monster and consume its HP before extracting the soul
+ETC_20150323_010124	Successfully destroyed Demon's Magic Circle
+ETC_20150323_010125	The flower dried up and died!
+ETC_20150323_010126	Picking up the small portrait agian
+ETC_20150323_010127	Picked up the small portrait again
+ETC_20150323_010128	Throwing the smal portrait
+ETC_20150323_010129	Threw the small portrait in the tombstone
+ETC_20150323_010130	Took out handkerchief from the box.
+ETC_20150323_010131	Placed the handkerchief back in the box. You can take it out again. 
+ETC_20150323_010132	There is no key {nl}Find the key from the mosnters. 
+ETC_20150323_010133	Soul of the Pilgrim is attacking the crystal!
+ETC_20150323_010134	Monster's HP is too high!
+ETC_20150323_010135	The altar is cooled enough!
+ETC_20150323_010136	Destroying the Magic circle
+ETC_20150323_010137	Cannot be used in the outskirts of Fedimian!
+ETC_20150323_010138	Time available to use is over
+ETC_20150323_010139	Get the patterned stonea gain to enter. 
+ETC_20150323_010140	Approach the stunned Scorpio and extract posion!
+ETC_20150323_010141	Extracting poison
+ETC_20150323_010142	Extracted the poison!
+ETC_20150323_010143	Cannot extract poison from unstunned Scropio!
+ETC_20150323_010144	Getting sweet herbs
+ETC_20150323_010145	Acquired sweet herbs!
+ETC_20150323_010146	Poked by the thorns of sweet herbs!
+ETC_20150323_010147	Arrived in the area where the food spoils
+ETC_20150323_010148	Go to Maryus and get new snack breads!
+ETC_20150323_010149	Snack bread did not spoil! Give it to Dalyus!
+ETC_20150323_010150	The snack bread spoiled! Throw it away and get new bread from Malyus!
+ETC_20150323_010151	Throwing away spoiled bread
+ETC_20150323_010152	Orange Hamming that suddenly appeared
+ETC_20150323_010153	Orange Hamming appeared when you threw the spoiled bread!
+ETC_20150323_010154	Faint for a while because of the foul odor!
+ETC_20150323_010155	Rubbing to make it disappear
+ETC_20150323_010156	Looks like the strange aura disappeared!
+ETC_20150323_010157	Maybe it wasn't real! Find another one!
+ETC_20150323_010158	No strange aura seems to be found!
+ETC_20150323_010159	Picking the crops
+ETC_20150323_010160	Nothing seems to be wrong with the crops
+ETC_20150323_010161	The leaves are cut and can't check. Pick another one!
+ETC_20150323_010162	The crops are dead and turned dark!
+ETC_20150323_010163	Making sloppy magic circle with woods
+ETC_20150323_010164	Burning the charm
+ETC_20150323_010165	Getting rid of the strange jewel
+ETC_20150323_010166	Got rid of the jewel and received damage!
+ETC_20150323_010167	Got rid of the jewel and the monster appeared!
+ETC_20150323_010168	Burying the first bottle
+ETC_20150323_010169	Burying the second bottle
+ETC_20150323_010170	Magic circle absored the evil aura of the monster!
+ETC_20150323_010171	Goddess Statue malfunctioned and moved you somewhere else!
+ETC_20150323_010172	Goddess Statue malfuntioned and your movement slows down for 5 seconds!
+ETC_20150323_010173	Digged out the head of the Goddess Statue without hassle!
+ETC_20150323_010174	Pot is installed so the mosnters will be lured. The pots will disappear after 20 seconds.
+ETC_20150323_010175	Poison pot installed
+ETC_20150323_010176	Fell under sleep spell by the curse of sealing magic circle!
+ETC_20150323_010177	Ran out of stones. Go to Albyna and get more stones
+ETC_20150323_010178	The magic circle is destroyed!
+ETC_20150323_010179	Sealing Magic Circle
+ETC_20150323_010180	Successfully threw in the stones!
+ETC_20150323_010181	Failed to throw in the stones!
+ETC_20150323_010182	Installing magic circle
+ETC_20150323_010183	Persuading the farmer
+ETC_20150323_010184	Give
+ETC_20150323_010185	I don't have it
+ETC_20150323_010186	I have it! I'll show you
+ETC_20150323_010187	I don't want to show it
+ETC_20150323_010188	Threw in the stones but the magic circle exploded!
+ETC_20150323_010189	This is not right magic circle
+ETC_20150323_010190	Successfully threw in the stone into the magic circle but fell asleep!
+ETC_20150323_010191	The magic circle makes the monsters that attack people to go in rest! {nl}Report this to Jonas!
+ETC_20150323_010192	Soul of the monster
+ETC_20150323_010193	Magic circle is not reacting
+ETC_20150323_010194	Monster is trying to run away!
+ETC_20150323_010195	Placing the Goddess Statue
+ETC_20150323_010196	Get the Goddess Statue
+ETC_20150323_010197	Making a wooden hammer
+ETC_20150323_010198	Getting materials for hammer
+ETC_20150323_010199	Did not find usable wood!
+ETC_20150323_010200	Orange Dandel appeared instead of usable wood!
+ETC_20150323_010201	Explaining about the compact
+ETC_20150323_010202	Gladly give
+ETC_20150323_010203	Waste of money
+ETC_20150323_010204	Give to take a close look
+ETC_20150323_010205	Don't give. It might be stolen
+ETC_20150323_010206	Give 5000 silver
+ETC_20150323_010207	Can't do if money is requested
+ETC_20150323_010208	Give 2000 silver
+ETC_20150323_010209	Cannot give any money
+ETC_20150323_010210	Give
+ETC_20150323_010211	Will never give any
+ETC_20150323_010212	Give 5000 vis to use as medicine
+ETC_20150323_010213	Cannot do favors that involve money
+ETC_20150323_010214	Breaking the container
+ETC_20150323_010215	Fluttering dust is provoking the monster
+ETC_20150323_010216	Essense of the soul is blowing in the air like the dust
+ETC_20150323_010217	It's a very old and dirty scripture
+ETC_20150323_010218	Found details about Naktis
+ETC_20150323_010219	Did not find details about Naktis. {nl}Need to go through it again.
+ETC_20150323_010220	Seems good enough to use as medicine
+ETC_20150323_010221	Use the key
+ETC_20150323_010222	Just leave it
+ETC_20150323_010223	Used the key and opened the device
+ETC_20150323_010224	I know where the key is
+ETC_20150323_010225	I know where the key is hidden by the people
+ETC_20150323_010226	You have to find it quickly
+ETC_20150323_010227	Now is the only chance
+ETC_20150323_010228	Transformation successful! {nl}Lure the subordinates of Naktis to Gaule Altar.
+ETC_20150323_010229	Ok
+ETC_20150323_010230	Ask about the second device
+ETC_20150323_010231	How to charge the sign of spiritual power
+ETC_20150323_010232	How to get the third key
+ETC_20150323_010233	It is too withered to use as medicine
+ETC_20150323_010234	Found the details on how to transform to demon
+ETC_20150323_010235	Seems like it is full of useless things
+ETC_20150323_010236	Subordinate of Naktis destroyed Galue Altar
+ETC_20150323_010237	About the Plan
+ETC_20150323_010238	About the documents related to demons
+ETC_20150323_010239	Now I can breathe
+ETC_20150323_010240	Catch them
+ETC_20150323_010241	Get back my powers from them
+ETC_20150323_010242	Ugh..{nl}Am I free? 
+ETC_20150323_010243	Where is Goddess Vakarine? 
+ETC_20150323_010244	How can I believe you? 
+ETC_20150323_010245	What are you going to do now? 
+ETC_20150323_010246	Here..{nl}Come closer..
+ETC_20150323_010247	I was fooled like you..{nl}Revelator..
+ETC_20150323_010248	Removed the small contaminating crack.
+ETC_20150323_010249	Released the Rwalda seal.
+ETC_20150323_010250	Release the Casa Seal.
+ETC_20150323_010251	Release the Rada Seal.
+ETC_20150323_010252	The monster is not reacting.
+ETC_20150323_010253	You can't guide the body when its eyes are open.
+ETC_20150323_010254	Already guiding another body.
+ETC_20150323_010255	There are no more details related to Naktis
+ETC_20150323_010256	Retrieving the book of priest
+ETC_20150323_010257	Retrieving key of Mayvern
+ETC_20150323_010258	Using key of Mayvern
+ETC_20150323_010259	Use Purifying Scroll
+ETC_20150323_010260	Give me more meat!
+ETC_20150323_010261	I'm starving!
+ETC_20150323_010262	I can't eat any more..
+ETC_20150323_010263	The altar is activated
+ETC_20150323_010264	Activating the altar
+ETC_20150323_010265	Kill the demons near the sign of spiritual power to charge the sign.
+ETC_20150323_010266	Checking device
+ETC_20150323_010267	The demons are guarding it
+ETC_20150323_010268	Using key
+ETC_20150323_010269	Retrieving murky holy water
+ETC_20150323_010270	Successfully retrieved murky holy water
+ETC_20150323_010271	Can see the altar with the holy water
+ETC_20150323_010272	Use the medicine
+ETC_20150323_010273	Get rid of the demon monsters while the sign of purification is marked
+ETC_20150323_010274	the footstep is falling down
+ETC_20150323_010275	Identity of the candle
+ETC_20150323_010276	Secret of Mayvern
+ETC_20150323_010277	The footstep is pressed down
+ETC_20150323_010278	Setting up the fence
+ETC_20150323_010279	Monsters appeared while repairing!
+ETC_20150323_010280	Retrieve the big plant suppressor
+ETC_20150323_010281	Intall small plant suppressor
+ETC_20150323_010282	Collecting soil samples
+ETC_20150323_010283	Inspecting the pile of soil
+ETC_20150323_010284	Opening the box
+ETC_20150323_010285	Tried to force it but it won't open
+ETC_20150323_010286	Picking dandelion
+ETC_20150323_010287	Searching the bundle
+ETC_20150323_010288	Name of an unknown person is written.
+ETC_20150323_010289	Gathering grapes
+ETC_20150323_010290	Gathering golden grapes
+ETC_20150323_010291	Golden grapes is losing its glow.
+ETC_20150323_010292	Golden grapes became useless.
+ETC_20150323_010293	Looking into the rubbish
+ETC_20150323_010294	Opening the wooden box
+ETC_20150323_010295	Going through the bush
+ETC_20150323_010296	Curing addiction
+ETC_20150323_010297	Addicted Farmer
+ETC_20150323_010298	Thank you! You saved me!
+ETC_20150323_010299	I will never forget your kindness!
+ETC_20150323_010300	Thank you! You saved me!
+ETC_20150323_010301	I will never forget your kindness!
+ETC_20150323_010302	Using training stick
+ETC_20150323_010303	Successfully trained the monster!
+ETC_20150323_010304	There is already a trained monster.
+ETC_20150323_010305	Good job.
+ETC_20150323_010306	This will be enough.
+ETC_20150323_010307	Getting water
+ETC_20150323_010308	Spraying herbicide
+ETC_20150323_010309	Inspecting the bag
+ETC_20150323_010310	Cannot find anything
+ETC_20150323_010311	Going into the undergound tunnel
+ETC_20150323_010312	Picking up the medicine pouch
+ETC_20150323_010313	This does not look like a medicine pouch
+ETC_20150323_010314	Soldier left behind
+ETC_20150323_010315	Making antidote
+ETC_20150323_010316	Antidote compelte! {nl}Give it to Gitis.
+ETC_20150323_010317	Collected all materials. {nl}Mix it into the medicine Hunter Master gave you to make antidote.
+ETC_20150323_010318	Deliver the antidote
+ETC_20150323_010319	Successfully delivered
+ETC_20150323_010320	Failed to deliver
+ETC_20150323_010321	The excitement has calmed down
+ETC_20150323_010322	Don't give me weird medicine like this!
+ETC_20150323_010323	Doesn't feel good. 
+ETC_20150323_010324	Bad aura is coming from the pile of grass
+ETC_20150323_010325	Demon summon crystal
+ETC_20150323_010326	Buff removing item
+ETC_20150323_010327	Item is currently equipped.
+ETC_20150323_010328	You cannot register more than one of each type.
+ETC_20150323_010329	Buyer does not want this item.
+ETC_20150323_010330	Do you wish to continue? 
+ETC_20150323_010331	Awakening Option
+ETC_20150323_010332	Can only be used in Tenet Garden
+ETC_20150323_010333	Can only be used in Ramstis Ridge Area
+ETC_20150323_010334	{@st42b}Advancement Date : 
+ETC_20150323_010335	{@st42b}Play Time : 
+ETC_20150323_010336	Villagers were demons.{nl}Run away to portal of Veja Ravine.
+ETC_20150323_010337	Cathedral completion stone
+ETC_20150323_010338	Briquetting
+ETC_20150323_010339	Black 
+ETC_20150323_010340	Blue 
+ETC_20150323_010341	Pink
 ETC_20150323_010342	Long Ponytail
-ETC_20150323_010343	Long Wave Twin Tail
-ETC_20150323_010344	
-ETC_20150323_010345	
-ETC_20150323_010346	
-ETC_20150323_010347	
-ETC_20150323_010348	
-ETC_20150323_010349	
-ETC_20150323_010350	
-ETC_20150323_010351	
-ETC_20150323_010352	
-ETC_20150323_010353	
-ETC_20150323_010354	
-ETC_20150323_010355	
-ETC_20150323_010356	
-ETC_20150323_010357	
-ETC_20150323_010358	
-ETC_20150323_010359	
-ETC_20150323_010360	
-ETC_20150323_010361	
-ETC_20150323_010362	
-ETC_20150323_010363	
-ETC_20150323_010364	
-ETC_20150323_010365	
-ETC_20150323_010366	
-ETC_20150323_010367	
-ETC_20150323_010368	
-ETC_20150323_010369	
-ETC_20150323_010370	
-ETC_20150323_010371	
-ETC_20150323_010372	
-ETC_20150323_010373	
-ETC_20150323_010374	
-ETC_20150323_010375	
-ETC_20150323_010376	
-ETC_20150323_010377	
-ETC_20150323_010378	
-ETC_20150323_010379	
-ETC_20150323_010380	
-ETC_20150323_010381	
-ETC_20150323_010382	
-ETC_20150323_010383	
-ETC_20150323_010384	
-ETC_20150323_010385	
-ETC_20150323_010386	
-ETC_20150323_010387	
-ETC_20150323_010388	
-ETC_20150323_010389	
-ETC_20150323_010390	
-ETC_20150323_010391	
-ETC_20150323_010392	
-ETC_20150323_010393	
-ETC_20150323_010394	
-ETC_20150323_010395	
-ETC_20150323_010396	
-ETC_20150323_010397	
-ETC_20150323_010398	
-ETC_20150323_010399	
-ETC_20150323_010400	
-ETC_20150323_010401	
-ETC_20150323_010402	
-ETC_20150323_010403	
-ETC_20150323_010404	
-ETC_20150323_010405	
-ETC_20150323_010406	
-ETC_20150323_010407	
-ETC_20150323_010408	
-ETC_20150323_010409	
-ETC_20150323_010410	
-ETC_20150323_010411	
-ETC_20150323_010412	
-ETC_20150323_010413	
-ETC_20150323_010414	
-ETC_20150323_010415	
-ETC_20150323_010416	
-ETC_20150323_010417	
-ETC_20150326_010418	
-ETC_20150326_010419	
-ETC_20150326_010420	
-ETC_20150326_010421	
-ETC_20150326_010422	
-ETC_20150326_010423	
-ETC_20150326_010424	
-ETC_20150326_010425	
-ETC_20150326_010426	
-ETC_20150326_010427	
-ETC_20150326_010428	
-ETC_20150326_010429	
-ETC_20150326_010430	
-ETC_20150326_010431	
-ETC_20150326_010432	
-ETC_20150326_010433	
-ETC_20150326_010434	
-ETC_20150326_010435	
-ETC_20150326_010436	
-ETC_20150326_010437	
-ETC_20150326_010438	
-ETC_20150326_010439	
-ETC_20150326_010440	
-ETC_20150326_010441	
-ETC_20150326_010442	
-ETC_20150326_010443	
-ETC_20150326_010444	
-ETC_20150326_010445	
-ETC_20150326_010446	
-ETC_20150326_010447	
-ETC_20150326_010448	
-ETC_20150326_010449	
-ETC_20150326_010450	
-ETC_20150326_010451	
-ETC_20150326_010452	
-ETC_20150326_010453	
-ETC_20150326_010454	
-ETC_20150326_010455	
-ETC_20150326_010456	
-ETC_20150326_010457	
-ETC_20150326_010458	
-ETC_20150326_010459	
-ETC_20150326_010460	
-ETC_20150326_010461	
-ETC_20150326_010462	
-ETC_20150326_010463	
-ETC_20150326_010464	
-ETC_20150326_010465	
-ETC_20150326_010466	
-ETC_20150326_010467	
-ETC_20150326_010468	
-ETC_20150326_010469	
-ETC_20150326_010470	
-ETC_20150326_010471	
-ETC_20150326_010472	
-ETC_20150326_010473	
-ETC_20150326_010474	
-ETC_20150326_010475	
-ETC_20150326_010476	
-ETC_20150326_010477	
-ETC_20150326_010478	
-ETC_20150326_010479	
-ETC_20150326_010480	
-ETC_20150326_010481	
-ETC_20150326_010482	
-ETC_20150326_010483	
-ETC_20150326_010484	
-ETC_20150326_010485	
-ETC_20150326_010486	
-ETC_20150326_010487	
-ETC_20150327_010488	
-ETC_20150327_010489	
-ETC_20150327_010490	
-ETC_20150327_010491	
-ETC_20150327_010492	
-ETC_20150327_010493	
-ETC_20150327_010494	
-ETC_20150327_010495	
-ETC_20150327_010496	
-ETC_20150327_010497	
-ETC_20150327_010498	
-ETC_20150327_010499	
-ETC_20150327_010500	
-ETC_20150327_010501	
-ETC_20150327_010502	
-ETC_20150327_010503	
-ETC_20150327_010504	
-ETC_20150327_010505	
-ETC_20150327_010506	
-ETC_20150327_010507	
-ETC_20150327_010508	
-ETC_20150327_010509	
-ETC_20150327_010510	
-ETC_20150327_010511	
-ETC_20150327_010512	
-ETC_20150327_010513	
-ETC_20150327_010514	
-ETC_20150327_010515	
-ETC_20150327_010516	
-ETC_20150327_010517	
-ETC_20150327_010518	seal
-ETC_20150327_010519	
-ETC_20150327_010520	
-ETC_20150327_010521	
-ETC_20150327_010522	
-ETC_20150327_010523	
-ETC_20150327_010524	
-ETC_20150327_010525	
-ETC_20150327_010526	
-ETC_20150327_010527	
-ETC_20150327_010528	
-ETC_20150327_010529	
-ETC_20150327_010530	
-ETC_20150327_010531	
-ETC_20150327_010532	
-ETC_20150327_010533	
-ETC_20150327_010534	
-ETC_20150327_010535	
-ETC_20150327_010536	
-ETC_20150327_010537	
-ETC_20150327_010538	
-ETC_20150327_010539	
-ETC_20150327_010540	
-ETC_20150327_010541	
-ETC_20150327_010542	
-ETC_20150327_010543	
-ETC_20150327_010544	
-ETC_20150327_010545	
-ETC_20150327_010546	
-ETC_20150327_010547	
-ETC_20150327_010548	
-ETC_20150327_010549	
-ETC_20150327_010550	
-ETC_20150327_010551	
-ETC_20150327_010552	
-ETC_20150327_010553	Wagon Manager
+ETC_20150323_010343	Long Wave Twintail
+ETC_20150323_010344	Dvasia Peak_1_2
+ETC_20150323_010345	Priest
+ETC_20150323_010346	Badge Signature
+ETC_20150323_010347	Platform of Love
+ETC_20150323_010348	Old book
+ETC_20150323_010349	Torn page
+ETC_20150323_010350	Old document
+ETC_20150323_010351	Tiltas Valley
+ETC_20150323_010352	Earth Fortress 59_2
+ETC_20150323_010353	Earth Fortress 59_3
+ETC_20150323_010354	Earth Fortress 59_1
+ETC_20150323_010355	Mongen x
+ETC_20150323_010356	Demons Prison District 3
+ETC_20150323_010357	Demons Prison District 5
+ETC_20150323_010358	Demons Prison District 2
+ETC_20150323_010359	Demons Prison District 4
+ETC_20150323_010360	Small continating crack
+ETC_20150323_010361	Leader Horacius★
+ETC_20150323_010362	Food Dryer ★
+ETC_20150323_010363	Food Storage
+ETC_20150323_010364	Sealing Magic Circle ★
+ETC_20150323_010365	Head of Goddess Statue ★
+ETC_20150323_010366	Wing of Goddess Statue ★
+ETC_20150323_010367	Incomplete Magic Circle ★
+ETC_20150323_010368	Event outside incomplete magic circle 
+ETC_20150323_010369	[Baron Allerno family]{nl}    Asta
+ETC_20150323_010370	Baron secretary Arunas
+ETC_20150323_010371	Baron Allerno ★
+ETC_20150323_010372	Baron secretary Benyus
+ETC_20150323_010373	Power Supply ★
+ETC_20150323_010374	Sloppy sealing magic circle
+ETC_20150323_010375	Warehouse of baron ★
+ETC_20150323_010376	Detect strange aura
+ETC_20150323_010377	Place to bury the bottle
+ETC_20150323_010378	Metiken appearance trigger
+ETC_20150323_010379	Place to install magic circle
+ETC_20150323_010380	Contaminated pile of soil
+ETC_20150323_010381	Dandelion ont yet fully grown
+ETC_20150323_010382	Old bundle
+ETC_20150323_010383	Grape Vines
+ETC_20150323_010384	Potion trigger
+ETC_20150323_010385	Wooden box
+ETC_20150323_010386	Addicted Tenant Farmer
+ETC_20150323_010387	Farm Soldier Upham
+ETC_20150323_010388	Underground Tunnel Entrance
+ETC_20150323_010389	Underground Tunnel Exit
+ETC_20150323_010390	Medicine pouch
+ETC_20150323_010391	Boss Trigger
+ETC_20150323_010392	Safety Zone Trigger
+ETC_20150323_010393	Gitis Farm
+ETC_20150323_010394	Tripede
+ETC_20150323_010395	Mutated Tree Root Crystal of Laziness*
+ETC_20150323_010396	Raging Soul of Pilgrim*
+ETC_20150323_010397	Someone's journal
+ETC_20150323_010398	Forest of Prayer Notice
+ETC_20150323_010399	Pile of fallen leaves
+ETC_20150323_010400	Shop Stand
+ETC_20150323_010401	Devout Tree Notice
+ETC_20150323_010402	Dallas' Body
+ETC_20150323_010403	Pot with boiling medicine
+ETC_20150323_010404	[Cronomancer Master]{nl}  Lucid Winterspoon
+ETC_20150323_010405	[Elementalist Master]{nl}        Wikan Celestik
+ETC_20150323_010406	Pile of wood
+ETC_20150323_010407	Farmland49_2
+ETC_20150323_010408	Sack
+ETC_20150323_010409	Spoiled Food Event
+ETC_20150323_010410	Sleeping Scorpio
+ETC_20150323_010411	Place to install small plant suppressor
+ETC_20150323_010412	Place to install fence
+ETC_20150323_010413	Blurred Astral Body
+ETC_20150323_010414	Mongen x
+ETC_20150323_010415	Statue guiding the soul
+ETC_20150323_010416	Blurred Box
+ETC_20150323_010417	Bleak shadow
+ETC_20150401_010418	Capture Luxodon
+ETC_20150401_010419	Melatinun
+ETC_20150401_010420	Wood Goblin of Earth
+ETC_20150401_010421	Crewmabo of Earth
+ETC_20150401_010422	Old Kepa of Earth
+ETC_20150401_010423	Spetra of Earth
+ETC_20150401_010424	Apparition of Earth
+ETC_20150401_010425	Raflower of Earth
+ETC_20150401_010426	Shredded of Earth
+ETC_20150401_010427	Deadborns Cap of Earth
+ETC_20150401_010428	Hallowventer of Earth
+ETC_20150401_010429	Temple Shooter of Earth
+ETC_20150401_010430	Canceril of Earth
+ETC_20150401_010431	Archon of Earth
+ETC_20150401_010432	Catacomb Candle Spider 
+ETC_20150401_010433	Confined Yonoum
+ETC_20150401_010434	Confined Long Sleeve Tree
+ETC_20150401_010435	Catacomb Mushcarfung
+ETC_20150401_010436	Confined Firent
+ETC_20150401_010437	Ashrong
+ETC_20150401_010438	Cornuts
+ETC_20150401_010439	Papayam
+ETC_20150401_010440	Terapede
+ETC_20150401_010441	Crocoman
+ETC_20150401_010442	Skull
+ETC_20150401_010443	Offering box
+ETC_20150401_010444	Russian Blue
+ETC_20150401_010445	Grape Ellum
+ETC_20150401_010446	Farm Keposeed
+ETC_20150401_010447	Guards Graveyard
+ETC_20150401_010448	2nd Demon Prison
+ETC_20150401_010449	Underground Mausoleum Workers' Lodge
+ETC_20150401_010450	Underground Mausoleum Guard
+ETC_20150401_010451	Underground Mausoleum Storage
+ETC_20150401_010452	Residence of the Fallen Legwyin Family
+ETC_20150401_010453	Secret Statue
+ETC_20150401_010454	Warehouse Farmer
+ETC_20150401_010455	Attack and destroy the magic circle!
+ETC_20150401_010456	Take kindlings from the Orage Dandel to keep the fire alive!
+ETC_20150401_010457	What is this taste? 
+ETC_20150401_010458	The crops suddenly dies and turned dark!
+ETC_20150401_010459	Oh..no..
+ETC_20150401_010460	Alchemist Circle 2 required
+ETC_20150401_010461	Alchemist Circle 3 required
+ETC_20150401_010462	Druid Circle 2 required
+ETC_20150401_010463	Druid Circle 3 required
+ETC_20150401_010464	Fletcher Circle 2 required
+ETC_20150401_010465	Fletcher Circle 3 required
+ETC_20150401_010466	Monk Circle 2 required
+ETC_20150401_010467	Monk Circle 3 required
+ETC_20150401_010468	Necromancer Circle 2 required
+ETC_20150401_010469	Necromancer Circle 3 required
+ETC_20150401_010470	Rogue Circle 2 required
+ETC_20150401_010471	Rogue Circle 3 required
+ETC_20150401_010472	Let's try to kill the mosnters
+ETC_20150401_010473	Try to use black hair
+ETC_20150401_010474	Icon image + black hair open
+ETC_20150401_010475	Detect force of the astral body
+ETC_20150401_010476	Eyes of seeing astral body
+ETC_20150401_010477	Get rid of the bleak shadow
+ETC_20150401_010478	Bleak aura has weakened. Monsters become weak. 
+ETC_20150401_010479	Effect of antigravity
+ETC_20150401_010480	Feels lighter.
+ETC_20150401_010481	Trace of starlight
+ETC_20150401_010482	Seems like it can light something.
+ETC_20150401_010483	Tricked by Medenia's creed crystal!
+ETC_20150401_010484	Contribution
+ETC_20150401_010485	Contributed to purifying the area. Use the abandoned altar!
+ETC_20150401_010486	Steps of the Soul
+ETC_20150401_010487	Became as light as the soul through the power of the altar! You can move faster.
+ETC_20150401_010488	Holy Immunity
+ETC_20150401_010489	This monster is immune to the holy power of the altar!
+ETC_20150401_010490	Spell of Fire
+ETC_20150401_010491	Killed the monster and acquired spell of fire!
+ETC_20150401_010492	Seal
+ETC_20150401_010493	This monster is sealed. It will not wake up unless with a strong impact.
+ETC_20150401_010494	Slip
+ETC_20150401_010495	Slipping!
+ETC_20150401_010496	Realize
+ETC_20150401_010497	Numbers keep popping into mind.
+ETC_20150401_010498	Energy of light
+ETC_20150401_010499	Absored enery of light. HP is restored faster!
+ETC_20150401_010500	scipt check function
+ETC_20150401_010501	development function. do not use.
+ETC_20150401_010502	Strong spell protection
+ETC_20150401_010503	Teh strong spell protection is blocking all attacks. 
+ETC_20150401_010504	Retreat shoot
+ETC_20150401_010505	Necklace of the 5 sins
+ETC_20150401_010506	Superior Titanium Claw
+ETC_20150401_010507	Companion Superior Quilt Coat
+ETC_20150401_010508	Companion Superior Leather Armor
+ETC_20150401_010509	Companion Superior Scale Mail
+ETC_20150401_010510	Aurelius
+ETC_20150401_010511	Fedimian Item Merchant
+ETC_20150401_010512	Fedimian Equipment Merchant
+ETC_20150401_010513	Fedimian Blacksmith
+ETC_20150401_010514	Fedimian Mercenary Officer
+ETC_20150401_010515	Fedimian Accessory Merchant
+ETC_20150401_010516	Fedimian Manager
+ETC_20150401_010517	Fedimian Village Lady
+ETC_20150401_010518	Goddess Austeja
+ETC_20150401_010519	OBB Pillar
+ETC_20150401_010520	Dungeon Event Manager
+ETC_20150401_010521	Joseph Rock
+ETC_20150401_010522	Magic Purifier
+ETC_20150401_010523	Valley Barrier Chain
+ETC_20150401_010524	Valley Device 8
+ETC_20150401_010525	DoTimeAction:Collecting wood:3:#SITGROPESET2:SSN_HATE_AROUND
+ETC_20150401_010526	DoTimeAction:Searching the grass:2:#SITGROPESET:None
+ETC_20150401_010527	NPCDead/Sleep:500/Notice:NOTICE_Dm_!:Cannot find anything.:5
+ETC_20150401_010528	DoTimeAction:Picking Niole:2:None
+ETC_20150401_010529	PCSelfDown:10/Notice:NOTICE_Dm_!:Niole root is cut off!:5/NPCDead
+ETC_20150401_010530	PCSelfDown:10/Notice:NOTICE_Dm_!:Niole root is cut off!!:5/NPCDead/Func:SCR_FARM47_HERB_ROOT_EVENT
+ETC_20150401_010531	IvnItem:FARM47_1_SQ_060_ITEM_1:1:0/DoTimeAction:Drying monster meat:3:MAKING:None
+ETC_20150401_010532	Get rid of the mosnter hit with flare
+ETC_20150401_010533	Get the fourth key of Mayvern from Gaule altar
+ETC_20150401_010534	Use Creed crystal of Medayna
+ETC_20150401_010535	Demon Prison zone exit event
+ETC_20150401_010536	Deliver without spoiling the bread
+ETC_20150401_010537	Get rid of the strange energy
+ETC_20150401_010538	Pull out some crops and check if it is growing well
+ETC_20150401_010539	Kill Orange Dandel and take the kindlings
+ETC_20150401_010540	Put the kindlings in the magic circle to keep the fire alive
+ETC_20150401_010541	Check the crops
+ETC_20150401_010542	Get wood from the fence nearby
+ETC_20150401_010543	Pistol Shield Stance
+ETC_20150401_010544	Pistol Substitue Stance
+ETC_20150401_010545	Recipe-Crude Bastard Sword
+ETC_20150401_010546	Recipe-Superior Crossbow
+ETC_20150401_010547	Recipe- Superior Scale Glvoes
+ETC_20150401_010548	Recipe- Superior Scale Boots
+ETC_20150401_010549	Recipe- Superior Scale Leggings
+ETC_20150401_010550	Recipe- Superior Scale Mail
+ETC_20150401_010551	Recipe- Superior Grima Gloves
+ETC_20150401_010552	Recipe- Superior Grima Boots
+ETC_20150401_010553	Recipe- Superior Grima Robe
+ETC_20150401_010554	Recipe- Superior Kite Shield
+ETC_20150401_010555	Done cooking food
+ETC_20150401_010556	Charge amount: {Value}
+ETC_20150401_010557	Repair complete
+ETC_20150401_010558	The gem is higher than the seller's skill
+ETC_20150401_010559	Squire Shop
+ETC_20150401_010560	Gem Roasting Shop
+ETC_20150401_010561	Offering items can only be sold in town.
+ETC_20150401_010562	Repairing
+ETC_20150401_010563	Repairing Weapon
+ETC_20150401_010564	Repairing Armor
+ETC_20150401_010565	Roastin gGem
+ETC_20150401_010566	HP increases by {Value}% for {Time} Minutes
+ETC_20150401_010567	SP increases by {Value}% for {Time} Minutes
+ETC_20150401_010568	SP recovery time decreases by {Value} seconds for {Time} Minutes
+ETC_20150401_010569	HP recovery time decreases by {Value} seconds for {Time} Minutes
+ETC_20150401_010570	Click to use the title.
+ETC_20150401_010571	Collecting sweet herb
+ETC_20150401_010572	Arrived at the area where food spoils.
+ETC_20150401_010573	Return to Maryus and get new bread.
+ETC_20150401_010574	Bread is safe. Give it to Dalyus.
+ETC_20150401_010575	Bread is spoiled. {nl}Throw away the spoiled bread and get new bread from Maryus.
+ETC_20150401_010576	Throwing spoiled bread
+ETC_20150401_010577	The hammings smelled the bread and are coming to attack!
+ETC_20150401_010578	Rubbed away the strange energy!
+ETC_20150401_010579	Making woodpile
+ETC_20150401_010580	Threw in the stone!
+ETC_20150401_010581	Nothing happened
+ETC_20150401_010582	Nothing happened! Bring another mosnter!
+ETC_20150401_010583	The fire is installed. Burn the shaman doll!
+ETC_20150401_010584	You need the bottle with the monster's energy!
+ETC_20150401_010585	Failed to destroy the box in time!
+ETC_20150401_010586	Opening the liquior barrelk
+ETC_20150401_010587	Creating reaction
+ETC_20150401_010588	The dark crops are coming alive again! Report about it Jonas!
+ETC_20150401_010589	Failed to protect fire within time!
+ETC_20150401_010590	Acquired wing of Orange Dandel! Try using this to keep the fire alive!
+ETC_20150401_010591	Adding kindlings
+ETC_20150401_010592	Magic circle disappeared!
+ETC_20150401_010593	Using demon transformation scroll
+ETC_20150401_010594	Praying
+ETC_20150401_010595	Slight energy is felt from the altar.
+ETC_20150401_010596	Steps are lighter with the power of the altar!
+ETC_20150401_010597	Added spell power to the abandoned altar.
+ETC_20150401_010598	Nothing is happening.
+ETC_20150401_010599	Charging altar
+ETC_20150401_010600	Picking up
+ETC_20150401_010601	You already have explosives!
+ETC_20150401_010602	Acquired explosives.
+ETC_20150401_010603	Loading explosives
+ETC_20150401_010604	Loaded explosived on the wagon.
+ETC_20150401_010605	You don't have explosives.
+ETC_20150401_010606	Moving out of the Isolated Area.
+ETC_20150401_010607	Abandoned wagon
+ETC_20150401_010608	Broken rock
+ETC_20150401_010609	Shout the name of King!
+ETC_20150401_010610	Shout the name of Goddess Ausrine!
+ETC_20150401_010611	Shout the name of Goddess Zemyna!
+ETC_20150401_010612	Shout the name of Goddess Vakarine!
+ETC_20150401_010613	Shout the name of Goddess Laima!
+ETC_20150401_010614	Shout the name of Goddess Gabija!
+ETC_20150401_010615	Try shouting the name.
+ETC_20150401_010616	Hail Zachariel!
+ETC_20150401_010617	Hail Ausrine!
+ETC_20150401_010618	Hail Zemyna!
+ETC_20150401_010619	Hail Vakarine!
+ETC_20150401_010620	Hail Laima!
+ETC_20150401_010621	Hail Gabija!
+ETC_20150401_010622	Remembered a number {nl}
+ETC_20150401_010623	Corrupted Insect Egg
+ETC_20150401_010624	Seal of Archon is weakened.
+ETC_20150401_010625	Archon is released from the seal!
+ETC_20150401_010626	Activating
+ETC_20150401_010627	Magic purifier activated!
+ETC_20150401_010628	Magi purifying in 
+ETC_20150401_010629	seconds.
+ETC_20150401_010630	Completed purifying Magi. {nl}Energy of light is permeating the Undergroudn Mausoleum Workers Lodge
+ETC_20150401_010631	Barrier of the chapel is released!
+ETC_20150401_010632	Altar is activated already.
+ETC_20150401_010633	Critical power of light is activated in the monsters of the chapel.
+ETC_20150401_010634	You can only have 1 of this item.
+ETC_20150401_010635	Lighting the candle
+ETC_20150401_010636	Released the Seal of Guidance!
+ETC_20150401_010637	Released the Seal of Protection!
+ETC_20150401_010638	Released the Seal of Blessings!
+ETC_20150401_010639	Absorbing
+ETC_20150401_010640	Controlling altar
+ETC_20150401_010641	Stench of Abomination is starting to fill the Catacomb!
+ETC_20150401_010642	Stench of Abomination is filled the Catacomb!
+ETC_20150401_010643	Traces of light around will disappear soon!
+ETC_20150401_010644	All seals of the residence is recovered!
+ETC_20150401_010645	Demons are gathering in the Guards Graveyard again!
+ETC_20150401_010646	Bad energy is flowing from the grass
+ETC_20150401_010647	Spell suppressing crystal
+ETC_20150401_010648	Putting down on the floor
+ETC_20150401_010649	Attacks are useless because of the protection screen
+ETC_20150401_010650	Glakuman was drawn to the spell and is going to appear. {nl} Get ready
+ETC_20150401_010651	Spell Summon Crystal is transgering stong energy to the mosnters
+ETC_20150401_010652	Cannot use it now.
+ETC_20150401_010653	This skill can't be used in combat mode.
+ETC_20150401_010654	Shout
+ETC_20150401_010655	Warehouse Keeper
+ETC_20150401_010656	Guidance of Star
+ETC_20150401_010657	Protection of Star
+ETC_20150401_010658	Blessings of Star
+ETC_20150401_010659	Star Tower guiding device
+ETC_20150401_010660	Statue protecting the star
+ETC_20150401_010661	Antigravity magic circle
+ETC_20150401_010662	Star lamp with spell
+ETC_20150401_010663	Giant Star Stone
+ETC_20150401_010664	Abandoned altar
+ETC_20150401_010665	TypeD_Buff Manager
+ETC_20150401_010666	Abandoned Altar
+ETC_20150401_010667	Undergroudn Mausoleum Altar
+ETC_20150401_010668	TypeBSuccess manager
+ETC_20150401_010669	Wreckage of the collapse
+ETC_20150401_010670	Boss Area Manager
+ETC_20150401_010671	Wagon Manager
+ETC_20150401_010672	Stone Manager
+ETC_20150401_010673	28
+ETC_20150401_010674	Unstable Spell seal crystal
+ETC_20150401_010675	Crop check trigger
+ETC_20150401_010676	Spell power device★
+ETC_20150401_010677	NPC for rope NPC
+ETC_20150401_010678	mongen z
+ETC_20150401_010679	Farm worker
+ETC_20150406_010680	Farm Ellum
+ETC_20150406_010681	Outer World Puragi
+ETC_20150406_010682	Outer World Kepa Raider
+ETC_20150406_010683	Outer World Vubbe Fighter
+ETC_20150406_010684	Outer World Rodelin
+ETC_20150406_010685	Outer World Cronewt
+ETC_20150406_010686	Outer World Large Panto Thrower
+ETC_20150406_010687	Outer World Glizardon
+ETC_20150406_010688	Outer World Moya
+ETC_20150406_010689	Outer World White Operer
+ETC_20150406_010690	Outer World Loftlem
+ETC_20150406_010691	Outer World While Harpeia
+ETC_20150406_010692	Outer World Stone Whale
+ETC_20150406_010693	Outer World Spector Monarch
+ETC_20150406_010694	Outer World Magburk
+ETC_20150406_010695	Outer World Fire Rod
+ETC_20150406_010696	Outer World Netherbovine
+ETC_20150406_010697	Outer World Mentiken
+ETC_20150406_010698	Outer World Mushwort
+ETC_20150406_010699	Statue of Goddess Ausrine D
+ETC_20150406_010700	Statue of Goddess Ausrine E
+ETC_20150406_010701	Pyromancer Room
+ETC_20150406_010702	Banquet Hall
+ETC_20150406_010703	Get kindlings from Orange Dandel and keep the fire alive!
+ETC_20150406_010704	The monsters seems to have smelled the purifying liquid. Monsters are attacking!
+ETC_20150406_010705	Ughh.. My strength..
+ETC_20150406_010706	Got rid of it all!
+ETC_20150406_010707	Did you think you can take my soul? 
+ETC_20150406_010708	Houberg!
+ETC_20150406_010709	Wake up, Revelator.
+ETC_20150406_010710	You must tell the Goddess about Houberg running away
+ETC_20150406_010711	Come Cupotles
+ETC_20150406_010712	Dye(white)
+ETC_20150406_010713	Dye(blue)
+ETC_20150406_010714	Dye(pink)
+ETC_20150406_010715	Dye(black)
+ETC_20150406_010716	encroaching mind
+ETC_20150406_010717	Houberg is encroaching the mind!
+ETC_20150406_010718	Base camp
+ETC_20150406_010719	Face back to the enemy and fire the gun.
+ETC_20150406_010720	Star Tower Celestial Globe
+ETC_20150406_010721	Star Tower Sandglass
+ETC_20150406_010722	Star Tower Lantern
+ETC_20150406_010723	Valley Area Soil
+ETC_20150406_010724	Pile of Food (Large)
+ETC_20150406_010725	Pile of Food (Medium)
+ETC_20150406_010726	Pile of Food (Small)
+ETC_20150406_010727	Pile of Food (Extra Small)
+ETC_20150406_010728	Mutated Tree Root Crystal
+ETC_20150406_010729	Mutated Tree Foor Crystal 2
+ETC_20150406_010730	Soil sample
+ETC_20150406_010731	Pile of soil
+ETC_20150406_010732	Young Dandelion
+ETC_20150406_010733	Wooden box
+ETC_20150406_010734	Underground Tunnel Entrance 1
+ETC_20150406_010735	Underground Tunnel Entrance 2
+ETC_20150406_010736	Leather bag
+ETC_20150406_010737	DoTimeAction:Searching for wooden stick:4:CUTVINE_LOOP:None
+ETC_20150406_010738	IvnItem:FARM47_1_SQ_060_ITEM_1:1:0/DoTimeAction:Making jerkey:3:MAKING:None
+ETC_20150406_010739	Make magic circle with the wood Arunas gave
+ETC_20150406_010740	Burn the shaman doll in the magic circle
+ETC_20150406_010741	Open the liquor barrel with wooden hammer
+ETC_20150406_010742	Kill orange dandel and get kindlings
+ETC_20150406_010743	Put the kindlings in the burning magic circle and keep the fire alive
+ETC_20150406_010744	Borrow farming tools - Plow
+ETC_20150406_010745	Borrow farming tools - Hoe
+ETC_20150406_010746	Borrow farming tools - Spade
+ETC_20150406_010747	Borrow farming tools - Pickax
+ETC_20150406_010748	Collet Niole with roots in Liaum Uphill
+ETC_20150406_010749	Make jerkey in Drying Room
+ETC_20150406_010750	Destroy the magic circle with magic stone of blessing
+ETC_20150406_010751	No!
+ETC_20150406_010752	Recipe - Dunkel Bastard Sword
+ETC_20150406_010753	Food distribution table can be installed near the basecamp only.
+ETC_20150406_010754	Only one basecamp can be installed.
+ETC_20150406_010755	Rubbed and removed the nasty energy.
+ETC_20150406_010756	This must be the strange energy.
+ETC_20150406_010757	Checking the crops
+ETC_20150406_010758	The leaf is cut and can check into details. {nl}Pull out another one!
+ETC_20150406_010759	Crops are dead and turned dark!
+ETC_20150406_010760	Making sloppy magic circle with wood
+ETC_20150406_010761	Burning the shaman doll
+ETC_20150406_010762	Removing the strange crystal
+ETC_20150406_010763	The crystal exploded and hurt you!
+ETC_20150406_010764	Power of fragment moved you to the wrong place!
+ETC_20150406_010765	Power of fragment slows you down for 5 seconds!
+ETC_20150406_010766	Safely digged out head of statue!
+ETC_20150406_010767	Mosnters are gathering around the posion pot!
+ETC_20150406_010768	Fell under the curse of magic circle and is falling asleep.
+ETC_20150406_010769	Ran out of magic stone of blessing. {nl}Get magic stones from Albyna.
+ETC_20150406_010770	Building magic circle with wood
+ETC_20150406_010771	Show letter of Horacius
+ETC_20150406_010772	Ther is no such thing
+ETC_20150406_010773	Threw the magic stone!
+ETC_20150406_010774	Magic stone cast a sleeping magic!
+ETC_20150406_010775	Strange energy got rid of monsters attacking the people. {nl}Report about it to Jonas.
+ETC_20150406_010776	You need to bring the monsters to see reaction.
+ETC_20150406_010777	Nothing happened. Bring the monster.
+ETC_20150406_010778	Looking for materials to make hammer
+ETC_20150406_010779	Did not find suitable materials!
+ETC_20150406_010780	Dandels came out instead of usable materials!
+ETC_20150406_010781	You need a bottle with the monster's spell.
+ETC_20150406_010782	Did not destroy the box within time!
+ETC_20150406_010783	Opening the liquor barrel
+ETC_20150406_010784	Observing monster's reactions
+ETC_20150406_010785	Withered crops are lively again.{nl}Tell Baras about this!
+ETC_20150406_010786	The fire went out.
+ETC_20150406_010787	Acquired wing of Orange Dandel.{nl}Put the wing to keep the fire alive!
+ETC_20150406_010788	Talk to the guardian first
+ETC_20150406_010789	Invalid coordinates. Cannot create Houberg.
+ETC_20150406_010790	Bloot.. How can I forget the betrayer who made me like this.
+ETC_20150406_010791	I will do whatever it takes to get revenge.
+ETC_20150406_010792	I will enjoy the last of betrayer.
+ETC_20150406_010793	Nuaile? That little thign grew this big.
+ETC_20150406_010794	How dare you touch my soul.
+ETC_20150406_010795	The fragment of seal Nuaile has is originally mine. I will cooperate. 
+ETC_20150406_010796	He betrayed? That's outrageous.
+ETC_20150406_010797	I can feel the calling..
+ETC_20150406_010798	I can feel a familiar energy..
+ETC_20150406_010799	Talk to Bokor Master!
+ETC_20150406_010800	Successfully collected the grape roots
+ETC_20150406_010801	Touched the grapes and posion is flowing.
+ETC_20150406_010802	Tama hiding near the roots appeared
+ETC_20150406_010803	Succesfully trained the frog!
+ETC_20150406_010804	You already have a trained frog!
+ETC_20150406_010805	Found the seed bag of Louis.
+ETC_20150406_010806	Let's go!
+ETC_20150406_010807	Thank you. I can go alone from here.
+ETC_20150406_010808	Cannot make any item with current fragments.
+ETC_20150406_010809	Ground Crystal Powder (20 Crystal fragments)
+ETC_20150406_010810	Air purifier crystal (20 Crystal fragments)
+ETC_20150406_010811	Crystal of Speed (150 Crystal fragments)
+ETC_20150406_010812	Crystal of Life (200 Crystal fragments)
+ETC_20150406_010813	Crystal of Peace (200 Crystal fragments)
+ETC_20150406_010814	Crystal of Luck (400 Crystal fragments)
+ETC_20150406_010815	Red Vibrating Crystal (500 Crystal fragments)
+ETC_20150406_010816	Blue Vibrating Crystal(500 Crystal fragments)
+ETC_20150406_010817	Yellow Vibrating Crystal (500 Crystal fragments)
+ETC_20150406_010818	Growth upgraded Crystal  (1000 Crystal fragments)
+ETC_20150406_010819	You do not have enough crystal fragments.
+ETC_20150406_010820	Vibrate the magic crystal. (20 crystal fragments)
+ETC_20150406_010821	Stop.
+ETC_20150406_010822	Opening the bad.
+ETC_20150406_010823	Hazardous gas will leak from the broken purifier soon.
+ETC_20150406_010824	Device is activating. It's dangerous!
+ETC_20150406_010825	Red Crystal Pillar is vibrating!
+ETC_20150406_010826	Blue Crystal Pillar is vibrating!
+ETC_20150406_010827	Yellow Crystal Pillar is vibrating!
+ETC_20150406_010828	You do not have the tools. {nl}Search the 1st floor. 
+ETC_20150406_010829	You do not have enough amount.
+ETC_20150406_010830	You already used the scroll in this area!
+ETC_20150406_010831	Solve the Guardian's question again
+ETC_20150406_010832	Crystal Processing Device
+ETC_20150406_010833	Magical Music Crystal
+ETC_20150406_010834	Lost bag of Miner
+ETC_20150406_010835	Lump of Crystal
+ETC_20150406_010836	Broken Purifier
+ETC_20150406_010837	Music Trigger
+ETC_20150406_010838	Red Crystal Pillar
+ETC_20150406_010839	Blue Crystal Pillar
+ETC_20150406_010840	Yellow Crystal Pillar
+ETC_20150406_010841	Warning Sign
+ETC_20150406_010842	Magic Circle ★
+ETC_20150406_010843	Spell Power Source ★
+ETC_20150406_010844	Crop trigger
+ETC_20150406_010845	Pouch that fell
+ETC_20150406_010846	To the other side
