@@ -911,7 +911,7 @@ ETC_20150317_005910	You can check your current location using the {img M 40 40} 
 ETC_20150317_005911	{nl} {nl}Minimap icon displays the information of current location  and {nl} NPC. {nl}{img minimap_leader 25 25} : This icon displays your current location. {nl}{img minimap_1_MAIN 25 25} : It displays the target area of quest in progress. {nl}{img minimap_0 25 25} : It displays the importan NPC's location in current area. {nl}{img minimap_goddess 25 25} : It displays the warp device in current area. {nl}{img minimap_board 25 25} : This bulletin board displays the important imformation in current area. {nl}{img minimap_portal 25 25} : It displays the path to move the other area.{nl} {nl}
 ETC_20150317_005912	The area never went is not displayed in map.
 ETC_20150317_005913	The completed area of exploration is displayed in map.
-ETC_20150317_005914	You can check World Map to use {img N 40 40} key.{nl} The area never went will not be displayed, but the completed area of exploration is displayed in World Map.
+ETC_20150317_005914	You can check the World Map using the{img N 40 40} key.{nl} The area never went will not be displayed, but the completed area of exploration is displayed in World Map.
 ETC_20150317_005915	You can check the map of relevant area to drag mouse to the activated area.
 ETC_20150317_005916	Basic Info
 ETC_20150317_005917	Inventory
@@ -3767,41 +3767,41 @@ ETC_20150317_008767	Death Animation
 ETC_20150317_008768	Keyboard navigation Tip
 ETC_20150317_008769	Use the arrow keys to move your character.
 ETC_20150317_008770	Jump Tip
-ETC_20150317_008771	Use X key to jump.
+ETC_20150317_008771	Press X to jump.
 ETC_20150317_008772	Attack Tip
-ETC_20150317_008773	Use Z key to attack.
-ETC_20150317_008774	Stats (STR) Tip
-ETC_20150317_008775	STR increases physical and critical attack damage.
-ETC_20150317_008776	Stats (CON) Tip
-ETC_20150317_008777	CON increases max HP, HP recovery, max inventory weight, critical resistance, and shield block rate.
-ETC_20150317_008778	Stats (INT) Tip
-ETC_20150317_008779	INT increases spell damage.
-ETC_20150317_008780	Stat (SPI) Tip
-ETC_20150317_008781	SPR increases max SP and SP recovery.
-ETC_20150317_008782	Stat (DEX) Tip
-ETC_20150317_008783	DEX increases chance of critical hit and evasion.
-ETC_20150317_008784	Continuos attack Tip
-ETC_20150317_008785	Hold down the Z key to attack continuously.
+ETC_20150317_008773	Press Z to attack.
+ETC_20150317_008774	STR Stat Tip
+ETC_20150317_008775	The Strength stat increases your physical damage and critical damage. 
+ETC_20150317_008776	VIT Stat Tip
+ETC_20150317_008777	The Vitality stat increases your max HP, HP recovery rate, inventory weight, critical resistance and shield block rate.
+ETC_20150317_008778	INT Stat Tip
+ETC_20150317_008779	The Intelligence stat increases your magic attack.
+ETC_20150317_008780	SPR Stat Tip
+ETC_20150317_008781	The Spirit stat increases your max SP and SP recovery rate.
+ETC_20150317_008782	DEX Stat Tip
+ETC_20150317_008783	The Dexterity stat increases your accuracy, critical chance and avodability.
+ETC_20150317_008784	Continuous Attack Tip
+ETC_20150317_008785	Hold down Z to attack continuously.
 ETC_20150317_008786	Stamina Tip
-ETC_20150317_008787	When STA is 0, character cannot run.
-ETC_20150317_008788	Stamina recovery Tip
-ETC_20150317_008789	Destroy Tree Roots Crystals or use the Stamina Pills to recover STA.
+ETC_20150317_008787	When your STA has reached 0, you will stop running.
+ETC_20150317_008788	Stamina Recovery Tip
+ETC_20150317_008789	Destroy Tree Roots Crystals in fields or use Stamina Pills to recover your STA.
 ETC_20150317_008790	Overkill Tip
 ETC_20150317_008791	When the monster is the same level and attack damage is twice the monster's HP, overkill is triggered and you earn bonus EXP.
 ETC_20150317_008792	Rest Mode Tip
-ETC_20150317_008793	You can rest by pressing the Insert key. During rest mode, HP, SP, STA recovery increases.
+ETC_20150317_008793	Press the Insert key to rest. In rest mode, your HP, SP and STA recovery increases.
 ETC_20150317_008794	Bonfire Tip
-ETC_20150317_008795	If you make bonfire during rest mode, recovery of all the characters resting around the bonfire will also increase.
+ETC_20150317_008795	When nearby a bonfire in rest mode, the recovery of all characters resting will increase.
 ETC_20150317_008796	Crafting Tip
-ETC_20150317_008797	You can craft items in rest mode if you have recipe and materials
-ETC_20150317_008798	Upgrade Tip
-ETC_20150317_008799	You can use the anvil to upgrade weapons and armors.
-ETC_20150317_008800	Item Durability Tip
-ETC_20150317_008801	Item Durability decreases by trading item, adding sockets, equipping amulets, or failing to upgrade.
+ETC_20150317_008797	You can craft items in rest mode if you have the recipes and materials.
+ETC_20150317_008798	Enhancement Tip
+ETC_20150317_008799	Use the anvil to enhance your weapons and armor to become stronger.
+ETC_20150317_008800	Potential Tip
+ETC_20150317_008801	The Potential of an item decreases by player trading, adding sockets, equipping magic amulets or failing enhancement.
 ETC_20150317_008802	Chat Window Tip
-ETC_20150317_008803	Press the Enter key to open the Chat window. After the chat is complete press Enter again to close the Chat window.
+ETC_20150317_008803	Press the Enter key to open the chatting window. After you're done chatting, press Enter again to close the window.
 ETC_20150317_008804	Megaphone Tip
-ETC_20150317_008805	Entering /y before your chat broadcasts your message. Megaphone is consumed.
+ETC_20150317_008805	Entering /y before your chat allows you to broadcast your message. The Megaphone item is required to do so.
 ETC_20150317_008806	Repair Tip
 ETC_20150317_008807	You can repair equipments with low durability through the blacksmiths located in town.
 ETC_20150317_008808	Shop System Tip
@@ -3809,11 +3809,11 @@ ETC_20150317_008809	You can buy and sell items through the merchants in town.
 ETC_20150317_008810	Return Tip
 ETC_20150317_008811	You can return to the quest NPC immediately by using the 'Backspace' key or pressing the 'Go back' button.
 ETC_20150317_008812	Attributes Tip
-ETC_20150317_008813	You can learn job-specific attributes from the Master NPC's. Find the Master NPC's in each area.
+ETC_20150317_008813	You can learn job-specific attributes from the Master NPCs. Look for the Master NPC's in each area.
 ETC_20150317_008814	Shiny Monster Tip
-ETC_20150317_008815	Shiny Monster drop items up to more than ten times the normal monsters.
+ETC_20150317_008815	Shiny Monsters can drop items up to more than ten times than normal monsters.
 ETC_20150317_008816	Town Tip
-ETC_20150317_008817	Various merchants and Class Masters are located in town.
+ETC_20150317_008817	Various merchants and master NPC for each class are located in a village.
 ETC_20150317_008818	Warp move_1 Tip
 ETC_20150317_008819	You can move to other areas through Goddess Vakarine Statue.
 ETC_20150317_008820	Warp move_2 Tip
@@ -3823,41 +3823,41 @@ ETC_20150317_008823	During your adventure, you can find hidden treasure chests. 
 ETC_20150317_008824	Video Recording Tip
 ETC_20150317_008825	Press F12 to record a gameplay video.
 ETC_20150317_008826	Screenshot Tip
-ETC_20150317_008827	Press the Print Screen key to take screenshots.
+ETC_20150317_008827	Press Print Screen to take screenshots.
 ETC_20150317_008828	Character Info Tip
-ETC_20150317_008829	You can check the character information using the F1 key.
+ETC_20150317_008829	Press F1 to view your character information.
 ETC_20150317_008830	Inventory Tip
-ETC_20150317_008831	Press the F2 Key to open your inventory window.
-ETC_20150317_008832	Classes, Skills, and Attributes Tip
-ETC_20150317_008833	You can view the class, skill, and attribute information using F3 key.
+ETC_20150317_008831	Press F2 to open your inventory to see the items and silver you own.
+ETC_20150317_008832	Classes, Skills and Attributes Tip
+ETC_20150317_008833	Press F1 to view info on your class, skills, and attributes.
 ETC_20150317_008834	Adventure Journal Tip
-ETC_20150317_008835	You can check the cumulative record of your gameplay using the F4 key.
+ETC_20150317_008835	Press F4 to view your cumulative record of gameplay.
 ETC_20150317_008836	Quest Tip
-ETC_20150317_008837	You can check ongoing quest info using the F5 key.
+ETC_20150317_008837	Press F5 to view information on quests in progress.
 ETC_20150317_008838	Party Tip
-ETC_20150317_008839	You can check party info using the F6 key.
+ETC_20150317_008839	Press F6 to view your party.
 ETC_20150317_008840	Party Request Tip
-ETC_20150317_008841	Right click on anotherother player's character to send a party request. When the request is accepted, you can play together in a party.
+ETC_20150317_008841	Right click on another player's character to send a party request. When the request is accepted, you can play together in a party.
 ETC_20150317_008842	Public Party List Tip
 ETC_20150317_008843	It shows the list of current parties in the game. Click on the list to join the party.
 ETC_20150317_008844	Buddy List Tip
-ETC_20150317_008845	Press F7 to viewBuddy List information.
+ETC_20150317_008845	Press F7 to view your buddy list.
 ETC_20150317_008846	Pose Tip
-ETC_20150317_008847	Press F8 key to edit or register the macroes.
-ETC_20150317_008848	Companion Information Tip
-ETC_20150317_008849	Press the F9 key to view the current status of companion.
+ETC_20150317_008847	Press F8 to apply a pose or macro.
+ETC_20150317_008848	Companion Infor Tip
+ETC_20150317_008849	Press F9 to view the current status of your Companion.
 ETC_20150317_008850	Help Tip
-ETC_20150317_008851	Press F10 to view the Help list.
+ETC_20150317_008851	Press F10 to view the help list.
 ETC_20150317_008852	Companion Tip
 ETC_20150317_008853	You can adopt or train Companions through the Companion Merchant NPC.
 ETC_20150317_008854	Player Trading Tip
 ETC_20150317_008855	Right-click on another player to make trade requests.
 ETC_20150317_008856	Area Map Tip
-ETC_20150317_008857	Using the M key, you can view the current area map.
+ETC_20150317_008857	Press M to view the current area map.
 ETC_20150317_008858	World Map Tip
-ETC_20150317_008859	Using the N key, you can view the world map.
+ETC_20150317_008859	Press N to view the world map.
 ETC_20150317_008860	Resurrection Tip
-ETC_20150317_008861	The durability of equipped items decreases when the character becomes incapable of combat.
+ETC_20150317_008861	The durability of equipped items decreases once the character becomes incapable of combat.
 ETC_20150317_008862	Advancement Tip
 ETC_20150317_008863	
 ETC_20150317_008864	Mission Tip
@@ -3865,7 +3865,7 @@ ETC_20150317_008865	Use the mission item purchased from the mercenary commision 
 ETC_20150317_008866	Field Boss Tip
 ETC_20150317_008867	A field boss can sometimes appear in some areas.
 ETC_20150317_008868	Elemental Attributes Tip
-ETC_20150317_008869	Monsters have 1 of the 6 attributes : Fire, Ice, Earth, Darkness, Poison and Electric.
+ETC_20150317_008869	Monsters have 1 of the 6 elemental attributes : Fire, Ice, Earth, Darkness, Poison or Electric.
 ETC_20150317_008870	Resistance Tip
 ETC_20150317_008871	Attacking with countering properties of each monster can cause more damage.
 ETC_20150317_008872	Archer Tip
