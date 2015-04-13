@@ -2,11 +2,9 @@
 
 1. [**Wiki**](https://github.com/Treeofsavior/EnglishTranslation/wiki) has been updated with new names for NPCs and sub-areas. **(NEW)**
 
-2. Based on the feedbacks we received regarding machine translations, we have updated the files with blank spaces like before. 
+2. We'd like to hear from you! Please send us your feedbacks and suggestions through the issue [**here**](https://github.com/Treeofsavior/EnglishTranslation/issues/60)
 
-3. We'd like to hear from you! Please send us your feedbacks and suggestions through the issue [**here**](https://github.com/Treeofsavior/EnglishTranslation/issues/60)
-
-4. Be sure to take a look at the [**Wiki**](https://github.com/Treeofsavior/EnglishTranslation/wiki) page for guides and reminders before sending us your translations.
+3. Be sure to take a look at the [**Wiki**](https://github.com/Treeofsavior/EnglishTranslation/wiki) page for guides and reminders before sending us your translations.
 
 <center><img src="https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-xap1/v/t1.0-9/969383_419497041509849_21485321_n.jpg?oh=0a0920080697b6fbb91c626ff5ed9aef&oe=55BDD765&__gda__=1434192791_d222694d664092275371caeb98405af5"/></center>
 # Tree of Savior Open Text Client (OTC)   
