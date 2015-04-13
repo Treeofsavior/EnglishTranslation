@@ -908,7 +908,7 @@ ETC_20150317_005907	{nl} {nl} Use the {img Alt 40 40} key to stop character move
 ETC_20150317_005908	Use the {img SPACE_BIG 60 40} key to face the current target.
 ETC_20150317_005909	You can check your current location and important areas using the map.
 ETC_20150317_005910	You can check your current location using the {img M 40 40} key.{nl} {nl}
-ETC_20150317_005911	{nl} {nl}Minimap icon displays the information of current location  and {nl} NPC. {nl}{img minimap_leader 25 25} : This icon displays your current location. {nl}{img minimap_1_MAIN 25 25} : It displays the target area of quest in progress. {nl}{img minimap_0 25 25} : It displays the importan NPC's location in current area. {nl}{img minimap_goddess 25 25} : It displays the warp device in current area. {nl}{img minimap_board 25 25} : This bulletin board displays the important imformation in current area. {nl}{img minimap_portal 25 25} : It displays the path to move the other area.{nl} {nl}
+ETC_20150317_005911	{nl} {nl}Minimap icon displays the information of current location  and {nl} NPC. {nl}{img minimap_leader 25 25} : This icon displays your current location. {nl}{img minimap_1_MAIN 25 25} : It displays the target area of quest in progress. {nl}{img minimap_0 25 25} : It displays the location of important NPCs in current area. {nl}{img minimap_goddess 25 25} : It displays the warp device in current area. {nl}{img minimap_board 25 25} : This bulletin board displays the important imformation in current area. {nl}{img minimap_portal 25 25} : It displays the path to move the other area.{nl} {nl}
 ETC_20150317_005912	The area never went is not displayed in map.
 ETC_20150317_005913	The completed area of exploration is displayed in map.
 ETC_20150317_005914	You can check the World Map using the{img N 40 40} key.{nl} The area never went will not be displayed, but the completed area of exploration is displayed in World Map.
@@ -916,11 +916,11 @@ ETC_20150317_005915	You can check the map of relevant area to drag mouse to the 
 ETC_20150317_005916	Basic Info
 ETC_20150317_005917	Inventory
 ETC_20150317_005918	You can check the possessed wealth, weight and equipped items through the inventory.
-ETC_20150317_005919	You can open an inventory menu to use {img F2 40 40} key.
-ETC_20150317_005920	{nl} {nl} The top of inventroy is the equipments that current character have equiped in parts.
+ETC_20150317_005919	You can open an inventory menu by pressing the {img F2 40 40} key.
+ETC_20150317_005920	{nl} {nl} The top of inventroy is the equipments that current character have equipped in parts.
 ETC_20150317_005921	{nl} {nl}The bottom is items in current inventory.{nl}These items of inventory will be displayed groups.{nl} {nl}
 ETC_20150317_005922	{nl} {nl} The most bottom displays the total weight of inventory's items and possessed medal and silver.{nl} {nl}
-ETC_20150317_005923	You can check your quests using the Quest window.
+ETC_20150317_005923	You can check your quests using the quest window.
 ETC_20150317_005924	Use {Img F5 40 40} key to view the list of quests in progress. {Nl} {nl}
 ETC_20150317_005925	{Nl} {nl} Quest Status {nl} {img minimap_1_MAIN 24 24}: Main quest available {nl} {img minimap_2_MAIN 24 24}: Main quest in progress {nl} {img minimap_3_MAIN 24 24}: Main quest ready to complete {nl} {img minimap_1_SUB 24 24}: Sub-quest available {nl} {img minimap_2_SUB 24 24}: Sub-quest in progress {nl} {img minimap_3_SUB 24 24}: Sub-quest ready to complete { nl} {nl}
 ETC_20150317_005926	Select the quest to view detailed quest information.
@@ -1006,23 +1006,23 @@ ETC_20150317_006005	button to proceed with item crafting.
 ETC_20150317_006006	The item wil appear in your inventroy when crafting is successful.
 ETC_20150317_006007	Shop System
 ETC_20150317_006008	You can buy and sell items through merchant NPCs.
-ETC_20150317_006009	You can find merchant NPCs around town
+ETC_20150317_006009	You can find merchant NPCs around the city
 ETC_20150317_006010	Find the merchant NPCs located in safe zone areas. {nl} {nl}
 ETC_20150317_006011	You can trade items with NPC through the item trade menu of bottom. A settlement after left click the items you want to buy to set the types and quantities{nl}[Sell] : A settlement after left click the items you want to sell in inventory to set the types and quantities{nl} {nl}
 ETC_20150317_006012	Hold down the {img Shift 45 45} key and right-click to trade multiple quantities at a time. {nl} {nl}
 ETC_20150317_006013	Items sold in the store can be bought back.
 ETC_20150317_006014	{nl} {nl} Buy back items sold by mistake by right-clicking on the item. {nl} {nl}
-ETC_20150317_006015	Status Points
-ETC_20150317_006016	Character's status can be upgraded to use the status's point from leveling up.
-ETC_20150317_006017	Use the {img F1 40 40} key to open the character info window to check your current status.
-ETC_20150317_006018	Use Status Points to increase STR/CON/INT/SPR/DEX. you can grow your character {nl} {nl} STR: Increase Physical Damage, Critical Damage {nl} {nl} CON: Increase HP, HP Recovery, Block, Critical Resistance, Max inventory weight {nl} {nl} INT: Increase Magic Damage, Penetration Block {nl} {nl} SPR: Increase SP. SP Recovery {nl} {nl} DEX: Increase Accuracy, Evasion, Chance of Critical {nl}
-ETC_20150317_006019	Each status can be upgraded to use points for status.
+ETC_20150317_006015	Ability Points
+ETC_20150317_006016	Use your Ability Points (AP) obtained by leveling up, into stats of your character to progress.
+ETC_20150317_006017	Press {img F1 40 40} to open your character's info to check your current progress.
+ETC_20150317_006018	Using Ability Points to increase STR/CON/INT/SPR/DEX. you can grow your character. {nl} {nl} STR: Increase in Physical Attack and Critical Attack {nl} {nl} CON: Increase in max HP, HP Recovery, Block, Critical Resistance and Max inventory weight {nl} {nl} INT: Increase in Magic Attack and Block Penetration {nl} {nl} SPR: Increase in max SP and SP Recovery {nl} {nl} DEX: Increase in Accuracy, Evasion and Critical Chance {nl}
+ETC_20150317_006019	When distributing Ability Points, you can strengthen the corresponding abilities.
 ETC_20150317_006020	You can preview the effects of the status change
 ETC_20150317_006021	in the information tab.
 ETC_20150317_006022	Convenience Function
 ETC_20150317_006023	Use warp to quickly move to your desired area.
 ETC_20150317_006024	Activating
-ETC_20150317_006025	Goddess Statues in Towns
+ETC_20150317_006025	Goddess Statues in cities
 ETC_20150317_006026	or
 ETC_20150317_006027	enables you to warp to other areas.
 ETC_20150317_006028	Approach the Statue to activate it.
@@ -1328,7 +1328,7 @@ ETC_20150317_006327	China
 ETC_20150317_006328	Taiwan
 ETC_20150317_006329	Thailand
 ETC_20150317_006330	Singapore
-ETC_20150317_006331	Usa
+ETC_20150317_006331	USA
 ETC_20150317_006332	Found the Siauliai Field.
 ETC_20150317_006333	Aebsova Field
 ETC_20150317_006334	Hyth Cliff
@@ -2160,17 +2160,17 @@ ETC_20150317_007160	Galley Plateau
 ETC_20150317_007161	Empty NPC 2 times
 ETC_20150317_007162	Giltine
 ETC_20150317_007163	Mission Gate
-ETC_20150317_007164	Saule Goddess 1
+ETC_20150317_007164	Saule Goddess2
 ETC_20150317_007165	Seven Valley Stone Staute 1
 ETC_20150317_007166	Seven Valley Stone Staute 2
-ETC_20150317_007167	Saule Namushindo 1
+ETC_20150317_007167	Saule God1
 ETC_20150317_007168	Treasure Box1
 ETC_20150317_007169	Treasure Box3
 ETC_20150317_007170	Treasure Box4
 ETC_20150317_007171	Treasure Box5
-ETC_20150317_007172	Seven Valley Village head
-ETC_20150317_007173	Saule goddess 2
-ETC_20150317_007174	Saule Namushindo 2
+ETC_20150317_007172	Seven Valley Village Chief
+ETC_20150317_007173	Saule Goddess2
+ETC_20150317_007174	Saule God2
 ETC_20150317_007175	Paladin FollowersC1
 ETC_20150317_007176	Paladin FollowersC2
 ETC_20150317_007177	Paladin FollowersC3
@@ -2181,7 +2181,7 @@ ETC_20150317_007181	Paladin FollowersB4
 ETC_20150317_007182	Seven Valley Man 1
 ETC_20150317_007183	Seven Valley Man 2
 ETC_20150317_007184	Seven Valley Man 3
-ETC_20150317_007185	Female Guards
+ETC_20150317_007185	Female Guard
 ETC_20150317_007186	Spiny Flower
 ETC_20150317_007187	Large Spiny Flower
 ETC_20150317_007188	Galley Plateau Barrier
@@ -4522,7 +4522,7 @@ ETC_20150317_009522	Maggot
 ETC_20150317_009523	Inner Catacombs
 ETC_20150317_009524	Catacombs Outskirts
 ETC_20150317_009525	IMC_Guard
-ETC_20150320_009526	When distributing Ability Points, you can strengthen corresponding abilities. {nl}{nl}
+ETC_20150320_009526	When distributing Ability Points, you can strengthen the corresponding abilities. {nl}{nl}
 ETC_20150323_009527	Orange Popolion
 ETC_20150323_009528	Orange Gribaru
 ETC_20150323_009529	Marionette
@@ -4708,7 +4708,7 @@ ETC_20150323_009708	Come, my meinies!
 ETC_20150323_009709	I will block this area.
 ETC_20150323_009710	Get Houberg!
 ETC_20150323_009711	It's time to return, Houberg
-ETC_20150323_009712	GIve it up, Hourberg!
+ETC_20150323_009712	Give it up, Hourberg!
 ETC_20150323_009713	Vakarine wants you.
 ETC_20150323_009714	That's not for you to worry about
 ETC_20150323_009715	Valtross
@@ -5166,7 +5166,7 @@ ETC_20150323_010166	Got rid of the jewel and received damage!
 ETC_20150323_010167	Got rid of the jewel and the monster appeared!
 ETC_20150323_010168	Burying the first bottle
 ETC_20150323_010169	Burying the second bottle
-ETC_20150323_010170	Magic circle absored the evil aura of the monster!
+ETC_20150323_010170	Magic circle absorbed the evil aura of the monster!
 ETC_20150323_010171	You have been moved elsewhere due to a malfunction of the Goddess Statue!
 ETC_20150323_010172	Your movement has slowed down for 5 seconds due to a malfunction of the Goddess Statue!
 ETC_20150323_010173	Digged out the head of the Goddess Statue without hassle!
@@ -5179,7 +5179,7 @@ ETC_20150323_010179	Sealing Magic Circle
 ETC_20150323_010180	Successfully threw in the stones!
 ETC_20150323_010181	Failed to throw in the stones!
 ETC_20150323_010182	Installing Magic Circle
-ETC_20150323_010183	Persuading the farmer
+ETC_20150323_010183	Persuading the Farmer
 ETC_20150323_010184	Give
 ETC_20150323_010185	I don't have it
 ETC_20150323_010186	I have it! I'll show you
@@ -5192,7 +5192,7 @@ ETC_20150323_010192	Soul of the monster
 ETC_20150323_010193	Magic circle is not reacting
 ETC_20150323_010194	Monster is trying to run away!
 ETC_20150323_010195	Placing the Goddess Statue
-ETC_20150323_010196	Acquire the Goddess Statue
+ETC_20150323_010196	Receive the Goddess Statue
 ETC_20150323_010197	Making a wooden hammer
 ETC_20150323_010198	Getting materials for hammer
 ETC_20150323_010199	Did not find usable wood!
@@ -5252,9 +5252,9 @@ ETC_20150323_010252	The monster is not reacting.
 ETC_20150323_010253	You can't guide the body when its eyes are open.
 ETC_20150323_010254	Already guiding another body.
 ETC_20150323_010255	There are no more details related to Naktis
-ETC_20150323_010256	Retrieving the book of priest
-ETC_20150323_010257	Retrieving key of Mayvern
-ETC_20150323_010258	Using key of Mayvern
+ETC_20150323_010256	Retrieving Priest's Book
+ETC_20150323_010257	Retrieving Key of Mayvern
+ETC_20150323_010258	Using Key of Mayvern
 ETC_20150323_010259	Use Purifying Scroll
 ETC_20150323_010260	Give me more meat!
 ETC_20150323_010261	I'm starving!
@@ -5269,7 +5269,7 @@ ETC_20150323_010269	Retrieving murky holy water
 ETC_20150323_010270	Successfully retrieved murky holy water
 ETC_20150323_010271	Can see the altar with the holy water
 ETC_20150323_010272	Use the medicine
-ETC_20150323_010273	Get rid of the demon monsters while the sign of purification is marked
+ETC_20150323_010273	Defeat the demon monsters while the sign of purification is marked
 ETC_20150323_010274	the footstep is falling down
 ETC_20150323_010275	Identity of the candle
 ETC_20150323_010276	Secret of Mayvern
@@ -5287,8 +5287,8 @@ ETC_20150323_010287	Searching the bundle
 ETC_20150323_010288	Name of an unknown person is written.
 ETC_20150323_010289	Gathering grapes
 ETC_20150323_010290	Gathering golden grapes
-ETC_20150323_010291	Golden grapes is losing its glow.
-ETC_20150323_010292	Golden grapes became useless.
+ETC_20150323_010291	The golden grapes are losing its glow.
+ETC_20150323_010292	The golden grapes became useless.
 ETC_20150323_010293	Looking into the rubbish
 ETC_20150323_010294	Opening the wooden box
 ETC_20150323_010295	Going through the bush
@@ -5378,15 +5378,15 @@ ETC_20150323_010378	Metiken appearance trigger
 ETC_20150323_010379	Place to install magic circle
 ETC_20150323_010380	Contaminated pile of soil
 ETC_20150323_010381	Dandelion ont yet fully grown
-ETC_20150323_010382	Old bundle
+ETC_20150323_010382	Old Bundle
 ETC_20150323_010383	Grape Vines
 ETC_20150323_010384	Potion trigger
-ETC_20150323_010385	Wooden box
+ETC_20150323_010385	Wooden Box
 ETC_20150323_010386	Addicted Tenant Farmer
 ETC_20150323_010387	Farm Soldier Upham
 ETC_20150323_010388	Underground Tunnel Entrance
 ETC_20150323_010389	Underground Tunnel Exit
-ETC_20150323_010390	Medicine pouch
+ETC_20150323_010390	Medicine Pouch
 ETC_20150323_010391	Boss Trigger
 ETC_20150323_010392	Safety Zone Trigger
 ETC_20150323_010393	Gitis Farm
@@ -5400,8 +5400,8 @@ ETC_20150323_010400	Shop Stand
 ETC_20150323_010401	Devout Tree Notice
 ETC_20150323_010402	Dallas' Body
 ETC_20150323_010403	Pot with boiling medicine
-ETC_20150323_010404	[Cronomancer Master]{nl}  Lucid Winterspoon
-ETC_20150323_010405	[Elementalist Master]{nl} Wikan Celestik
+ETC_20150323_010404	[Chronomancer Master]{nl}  Lucid Winterspoon
+ETC_20150323_010405	[Elementalist Master]{nl} Wican Celestic
 ETC_20150323_010406	Pile of wood
 ETC_20150323_010407	Farmland49_2
 ETC_20150323_010408	Sack
@@ -5428,10 +5428,10 @@ ETC_20150401_010428	Hallowventer of Earth
 ETC_20150401_010429	Temple Shooter of Earth
 ETC_20150401_010430	Canceril of Earth
 ETC_20150401_010431	Archon of Earth
-ETC_20150401_010432	Catacomb Candle Spider 
+ETC_20150401_010432	Catacombs Candle Spider 
 ETC_20150401_010433	Confined Yonoum
 ETC_20150401_010434	Confined Long Sleeve Tree
-ETC_20150401_010435	Catacomb Mushcarfung
+ETC_20150401_010435	Catacombs Mushcarfung
 ETC_20150401_010436	Confined Firent
 ETC_20150401_010437	Ashrong
 ETC_20150401_010438	Cornuts
@@ -5487,19 +5487,19 @@ ETC_20150401_010487	Became as light as the soul through the power of the altar! 
 ETC_20150401_010488	Holy Immunity
 ETC_20150401_010489	This monster is immune to the holy power of the altar!
 ETC_20150401_010490	Spell of Fire
-ETC_20150401_010491	Killed the monster and acquired spell of fire!
+ETC_20150401_010491	Defeated the monster and obtained the Spell of Fire
 ETC_20150401_010492	Seal
 ETC_20150401_010493	This monster is sealed. It will not wake up unless with a strong impact.
 ETC_20150401_010494	Slip
 ETC_20150401_010495	Slipping!
 ETC_20150401_010496	Realize
 ETC_20150401_010497	Numbers keep popping into mind.
-ETC_20150401_010498	Energy of light
+ETC_20150401_010498	Energy of Light
 ETC_20150401_010499	Absored enery of light. HP is restored faster!
 ETC_20150401_010500	scipt check function
 ETC_20150401_010501	development function. do not use.
-ETC_20150401_010502	Strong spell protection
-ETC_20150401_010503	Teh strong spell protection is blocking all attacks. 
+ETC_20150401_010502	Powerful Magic Barrier
+ETC_20150401_010503	Any attack is blocked due to the barrier of this powerful magic.
 ETC_20150401_010504	Retreat shoot
 ETC_20150401_010505	Necklace of the 5 sins
 ETC_20150401_010506	Superior Titanium Claw
