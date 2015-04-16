@@ -1,10 +1,12 @@
-##NOTICE (Updated 04-13-2015)
+##NOTICE (Updated 04-16-2015)
 
-1. [**Wiki**](https://github.com/Treeofsavior/EnglishTranslation/wiki) has been updated with new names for NPCs and sub-areas. **(NEW)**
+1. Scroll down for a preview of how real-time translation works in game! **(NEW)**
 
-2. We'd like to hear from you! Please send us your feedbacks and suggestions through the issue [**here**](https://github.com/Treeofsavior/EnglishTranslation/issues/60)
+2. [**Wiki**](https://github.com/Treeofsavior/EnglishTranslation/wiki) has been updated with new names for NPCs and sub-areas. 
 
-3. Be sure to take a look at the [**Wiki**](https://github.com/Treeofsavior/EnglishTranslation/wiki) page for guides and reminders before sending us your translations.
+3. We'd like to hear from you! Please send us your feedbacks and suggestions through the issue [**here**](https://github.com/Treeofsavior/EnglishTranslation/issues/60)
+
+4. Be sure to take a look at the [**Wiki**](https://github.com/Treeofsavior/EnglishTranslation/wiki) page for guides and reminders before sending us your translations.
 
 <center><img src="https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-xap1/v/t1.0-9/969383_419497041509849_21485321_n.jpg?oh=0a0920080697b6fbb91c626ff5ed9aef&oe=55BDD765&__gda__=1434192791_d222694d664092275371caeb98405af5"/></center>
 # Tree of Savior Open Text Client (OTC)   
@@ -16,6 +18,12 @@ We hope our disclosing of game texts and opening this repository will pave a qui
 
 You can read about our plans for the international version of Tree of Savior in our [Dev Blog](http://blog.treeofsavior.com/en/)
 
+
+## Real-Time Translation
+Here's a sneak preview of how real-time translation would function in game. (may be subject to changes)
+
+Use Ctrl+Shft+Mouse Click on text to edit
+![real time](http://blog.treeofsavior.com/en/wp-content/uploads/sites/4/2015/04/sample4.gif)
 
 ## Contributions
 
