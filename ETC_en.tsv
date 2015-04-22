@@ -1453,8 +1453,8 @@ ETC_20150317_001452	IME installed is not supported. Please send the name of IME 
 ETC_20150317_001453	Please use the keyboard that supports the language required by the operating system.
 ETC_20150317_001454	The graphics card or hardware does not support hardware acceleration. {nl} Please check the acceleration compatibility.
 ETC_20150317_001455	Please adjust screen resolution to at least 1024x768 and color quality to 16-bit or 32-bit.
-ETC_20150317_001456	Client shut down due to an error in the display driver {nl} Please contact the display manufacturer for inquiries.
-ETC_20150317_001457	Client shut down to an error in the sound driver. {nl} Please install or reinstall the sound driver.
+ETC_20150317_001456	The client shutdown due to an error in the display driver {nl} Please contact the display manufacturer for inquiries.
+ETC_20150317_001457	The client shutdown due to an error in the sound driver. {nl} Please install or reinstall the sound driver.
 ETC_20150317_001458	Background data does not exist. Please download all data and try again.
 ETC_20150317_001459	You cannot whisper to yourself.
 ETC_20150317_001460	Chat can not exceed {Max} bytes. Number of emoticons usable are limited because it may take several bytes.
@@ -1531,8 +1531,8 @@ ETC_20150317_001530	You have sent the friend request message to the character. {
 ETC_20150317_001531	Friend request time period has exceeded. Friend request cancelled.
 ETC_20150317_001532	Cannot enter as the number of players exceeded.
 ETC_20150317_001533	Attempt to reconnect %02d times..
-ETC_20150317_001534	Your account has been blocked from entering the game due to specific reasons.{nl} Please send a ticket to a customer service staff for details.
-ETC_20150317_001535	Your character has been blocked from entering the game due to specific reasons.{nl} Please send a ticket to a customer service staff for details.
+ETC_20150317_001534	Your account has been blocked from entering the game due to specific reasons.{nl} Please send a ticket to Customer Service for details.
+ETC_20150317_001535	Your character has been blocked from entering the game due to specific reasons.{nl} Please send a ticket to Customer Service for details.
 ETC_20150317_001536	{ItemName} Item is not sufficient.
 ETC_20150317_001537	This place, please move to the herbivorous you will not be able to use {nl} another location
 ETC_20150317_001538	{Auto_2} recovery will be completed after {Auto_1} seconds
@@ -1541,7 +1541,7 @@ ETC_20150317_001540	Account ID can not contain spaces
 ETC_20150317_001541	Because there is no proper equipment, you will not be able to use the skills
 ETC_20150317_001542	Out of the range distance of herbivorous subject
 ETC_20150317_001543	Cannot use it yet
-ETC_20150317_001544	Cannot generate anymore.
+ETC_20150317_001544	Cannot create anymore.
 ETC_20150317_001545	Enchantment error (error code: {Auto_1})
 ETC_20150317_001546	Duel status activated. {nl}The squad will be withdrawn automatically.
 ETC_20150317_001547	The duel status has been cancelled.
@@ -1647,7 +1647,7 @@ ETC_20150317_001646	Do you really want to exit?
 ETC_20150317_001647	{S20}{ol}{#ff1100} The attribute that can not be bought.
 ETC_20150317_001648	You cannot wear items with 0 durability.
 ETC_20150317_001649	Delete
-ETC_20150317_001650	Server disconnected. Please try againlater.
+ETC_20150317_001650	Server disconnected. Please try again later.
 ETC_20150317_001651	{Year}YYYY {Month}MM {Day}DD {Hour} hr {Min} min {Sec}sec
 ETC_20150317_001652	I Read More
 ETC_20150317_001653	You cannot change equipment before picking up thrown item.
@@ -1658,7 +1658,7 @@ ETC_20150317_001657	{Min} minutes
 ETC_20150317_001658	{Sec} seconds
 ETC_20150317_001659	Please enter a title.
 ETC_20150317_001660	Learning
-ETC_20150317_001661	You must consume all the skill points before Advancement
+ETC_20150317_001661	You must consume all your skill points before you can advance.
 ETC_20150317_001662	Man
 ETC_20150317_001663	Woman
 ETC_20150317_001664	{Month} months
@@ -1670,39 +1670,39 @@ ETC_20150317_001669	Must be at least {LEN} characters.
 ETC_20150317_001670	Must be less than {LEN} characters.
 ETC_20150317_001671	Contains one or more characters that are not allowed.
 ETC_20150317_001672	You cannot ride during rest mode.
-ETC_20150317_001673	You cannot ride on fainted companion.
-ETC_20150317_001674	You do not have a CBT user.
+ETC_20150317_001673	You cannot ride on a fainted companion.
+ETC_20150317_001674	The customer is not a CBT user.
 ETC_20150317_001675	It has been van by the administrator.
 ETC_20150317_001676	{Name} ({Mapname} / {ChNo} channel)
 ETC_20150317_001677	It is a skill that can not be manufactured.
 ETC_20150317_001678	
-ETC_20150317_001679	You do not have enough Potential to enhance item
-ETC_20150317_001680	The item cannot be enhanced
-ETC_20150317_001681	Item cannot be enhanced anymore
+ETC_20150317_001679	You do not have enough Potential to enhance this item
+ETC_20150317_001680	This item cannot be enhanced
+ETC_20150317_001681	Can no longer be enhanced
 ETC_20150317_001682	Only enhancement potential is 0 item can craft.
 ETC_20150317_001683	If the enhancement potential is less 0 can be destroyed.
 ETC_20150317_001684	{s18}{ol} If fail the item enhancement of armors, bracelets, necklaces more than {#ffffcc}+{Auto_1} level then the potential will be consumed and Item is destroyed if potential is zero. Do you want to enhance?
 ETC_20150317_001685	New enhancement
-ETC_20150317_001686	Enhancement successful
-ETC_20150317_001687	Failed to enhance Item
+ETC_20150317_001686	The item was successfully enhanced
+ETC_20150317_001687	The item failed to enhance
 ETC_20150317_001688	Add to the above slot to enhance item
-ETC_20150317_001689	Start Upgrade
-ETC_20150317_001690	Cancel enhancement
+ETC_20150317_001689	Start Enhancement
+ETC_20150317_001690	Cancel Enhancement
 ETC_20150317_001691	Deposit
 ETC_20150317_001692	Reinforce
 ETC_20150317_001693	Click the item to enhance
-ETC_20150317_001694	Reinforce success !!!
-ETC_20150317_001695	Reinforce failed !!!
+ETC_20150317_001694	Enhancement Succeeded!!!
+ETC_20150317_001695	Enhancement Failed!!!
 ETC_20150317_001696	No empty socket matching the type
 ETC_20150317_001697	Please drag the item to enhance
-ETC_20150317_001698	Card Sythesis
-ETC_20150317_001699	Gem Upgrade
+ETC_20150317_001698	Card Enhancement
+ETC_20150317_001699	Gem Enhancement
 ETC_20150317_001700	You cannot mount any more.
-ETC_20150317_001701	Item has been destroyed due to death penalty.
+ETC_20150317_001701	The item has been destroyed due to death penalty.
 ETC_20150317_001702	Enhance
 ETC_20150317_001703	{s18}{ol} If fail the item enhancement of weapons more than {#ffffcc}+{Auto_1} level then the potential will be consumed and Item is destroyed if potential is zero. Do you want to enhance?
-ETC_20150317_001704	Use {Auto_1} item to start manufacturing. Do you want to continue?
-ETC_20150317_001705	{@st42) Manufacturing
+ETC_20150317_001704	Use {Auto_1} item to start crafting. Do you want to continue?
+ETC_20150317_001705	{@st42) When crafting
 ETC_20150317_001706	Your movement has cancelled the crafting of the item.
 ETC_20150317_001707	Crafting complete!
 ETC_20150317_001708	The name of the production item, can be up to {Auto_1} characters.
@@ -1711,17 +1711,17 @@ ETC_20150317_001710	Tree
 ETC_20150317_001711	Quest
 ETC_20150317_001712	Weapon
 ETC_20150317_001713	Armor
-ETC_20150317_001714	Two-hand Sword
+ETC_20150317_001714	Two-handed Sword
 ETC_20150317_001715	Bow
 ETC_20150317_001716	Catapult
-ETC_20150317_001717	One-hand Sword
+ETC_20150317_001717	One-handed Sword
 ETC_20150317_001718	Cane
 ETC_20150317_001719	Blunt
-ETC_20150317_001720	Others
+ETC_20150317_001720	ETC
 ETC_20150317_001721	Spear
 ETC_20150317_001722	Wand
-ETC_20150317_001723	{nl} Do you want to add socket?
-ETC_20150317_001724	{nl} Are you sure you want to extract the gem?
+ETC_20150317_001723	{nl} Do you want to add a socket?
+ETC_20150317_001724	{nl} Do you want to extract the gem?
 ETC_20150317_001725	Would you like to create the item?
 ETC_20150317_001726	Material
 ETC_20150317_001727	Ring
@@ -1741,49 +1741,49 @@ ETC_20150317_001740	Swordsman
 ETC_20150317_001741	Archer
 ETC_20150317_001742	Cleric
 ETC_20150317_001743	Wizard
-ETC_20150317_001744	This item is impossible
+ETC_20150317_001744	This item is untradeable.
 ETC_20150317_001745	This item is not equipped with gems.
 ETC_20150317_001746	Please select a socket.
 ETC_20150317_001747	Show all
 ETC_20150317_001748	Consume Item
 ETC_20150317_001749	This
 ETC_20150317_001750	Money
-ETC_20150317_001751	SubWeapon
+ETC_20150317_001751	Sub-weapon
 ETC_20150317_001752	Rod
 ETC_20150317_001753	Coat
 ETC_20150317_001754	Hat
-ETC_20150317_001755	Two-hand Spear
+ETC_20150317_001755	Two-handed Spear
 ETC_20150317_001756	Place items on a window
 ETC_20150317_001757	Gem
 ETC_20150317_001758	Socket
 ETC_20150317_001759	{nl}{nl}Number of magic amulets that can be equipped : {Remain}
 ETC_20150317_001760	Please select the item to repair
 ETC_20150317_001761	There is no item to repair.
-ETC_20150317_001762	The type of item is impossible.
-ETC_20150317_001763	Is able to be wear
+ETC_20150317_001762	This type of item is untradeable.
+ETC_20150317_001763	Equippable
 ETC_20150317_001764	You do not have enough potentials to trade.
 ETC_20150317_001765	Please select an item.
 ETC_20150317_001766	Do you want to consume the selected items to create poison?
 ETC_20150317_001767	Cannot be used within the same area.
 ETC_20150317_001768	Item in buff
 ETC_20150317_001769	Types
-ETC_20150317_001770	Companion equipment
+ETC_20150317_001770	Companion Equipment
 ETC_20150317_001771	Repair Complete
-ETC_20150317_001772	Companion Armors
-ETC_20150317_001773	Companion weapon
+ETC_20150317_001772	Companion Armor
+ETC_20150317_001773	Companion Weapon
 ETC_20150317_001774	Helmet
 ETC_20150317_001775	Cooldown : {Sec} seconds
-ETC_20150317_001776	Weapon Effects
-ETC_20150317_001777	Effects when equipped sub weapons
-ETC_20150317_001778	Effects when equipped Tops, Pants
-ETC_20150317_001779	Effects when equipped Boots
-ETC_20150317_001780	Effects when equipped gloves
-ETC_20150317_001781	Max Attack
-ETC_20150317_001782	Min Attack
-ETC_20150317_001783	Defend Rate
+ETC_20150317_001776	Effect when equipped with a weapon
+ETC_20150317_001777	Effect when equipped with a secondary weapon
+ETC_20150317_001778	Effect when equipped with a Top, Pants
+ETC_20150317_001779	Effect when equipped with boots
+ETC_20150317_001780	Effect when equipped with gloves
+ETC_20150317_001781	Maximum Attack
+ETC_20150317_001782	Minimum Attack
+ETC_20150317_001783	Defense Rate
 ETC_20150317_001784	Evasion rate
 ETC_20150317_001785	Fire Attack Rate
-ETC_20150317_001786	Skill capacity value
+ETC_20150317_001786	Skill Ability
 ETC_20150317_001787	Weight : {All} / {Max}
 ETC_20150317_001788	Weight ({Rate}%)
 ETC_20150317_001789	Can't add sockets
@@ -1796,7 +1796,7 @@ ETC_20150317_001795	Max SP {Auto_2} permanently increase when using {Auto_1}
 ETC_20150317_001796	Get on
 ETC_20150317_001797	Demotion
 ETC_20150317_001798	Pet
-ETC_20150317_001799	Information
+ETC_20150317_001799	Info
 ETC_20150317_001800	You are far from the companion.
 ETC_20150317_001801	Please select the PC to take the companion.
 ETC_20150317_001802	You are with [{Name}] companion.
@@ -1806,8 +1806,8 @@ ETC_20150317_001805	Together
 ETC_20150317_001806	Please get off the companion to feed it.
 ETC_20150317_001807	Physical Attack
 ETC_20150317_001808	Physical Defense
-ETC_20150317_001809	Add defense when mounted
-ETC_20150317_001810	Add evasion when mounted
+ETC_20150317_001809	Increased defense when mounted
+ETC_20150317_001810	Increased evasion when mounted
 ETC_20150317_001811	Receive bonus HP when mounted
 ETC_20150317_001812	STR
 ETC_20150317_001813	CON
@@ -1820,17 +1820,17 @@ ETC_20150317_001819	Critical
 ETC_20150317_001820	DEX
 ETC_20150317_001821	You cannot ride the companion while sitting
 ETC_20150317_001822	The companion cannot be equipped
-ETC_20150317_001823	Add physical attack when mounted
-ETC_20150317_001824	Add magic attack when mounted
-ETC_20150317_001825	Add attack {Value} of companion
-ETC_20150317_001826	Add HP {Value} of companion
-ETC_20150317_001827	Add defense {Value} of companion
-ETC_20150317_001828	Add accuracy {Value} of companion
+ETC_20150317_001823	Increased physical attack when mounted
+ETC_20150317_001824	Increased magic attack when mounted
+ETC_20150317_001825	Increased attack {Value} of companion
+ETC_20150317_001826	Increased HP {Value} of companion
+ETC_20150317_001827	Increased defense {Value} of companion
+ETC_20150317_001828	Increased accuracy {Value} of companion
 ETC_20150317_001829	There is no companion summoned.
 ETC_20150317_001830	Please get off the companion first.
-ETC_20150317_001831	Dormant
+ETC_20150317_001831	Standby
 ETC_20150317_001832	Active
-ETC_20150317_001833	You do not have any feed.
+ETC_20150317_001833	You do not have any food.
 ETC_20150317_001834	Feed
 ETC_20150317_001835	This companion does not eat this food.
 ETC_20150317_001836	I was successful in companion sale. I am waiting in accommodation.
@@ -1866,7 +1866,7 @@ ETC_20150317_001865	Guild request
 ETC_20150317_001866	Innkeeper
 ETC_20150317_001867	Roulette
 ETC_20150317_001868	Place
-ETC_20150317_001869	Termination time
+ETC_20150317_001869	End Time
 ETC_20150317_001870	%v person
 ETC_20150317_001871	Area
 ETC_20150317_001872	Acquire
@@ -1877,7 +1877,7 @@ ETC_20150317_001876	Acquired items
 ETC_20150317_001877	Accessories
 ETC_20150317_001878	Set
 ETC_20150317_001879	Recipe
-ETC_20150317_001880	Active skills
+ETC_20150317_001880	Active Skill
 ETC_20150317_001881	Passive Skill
 ETC_20150317_001882	1. Write the messages to promote sales.
 ETC_20150317_001883	2. Insert the items to sell into the slot of bottom.
@@ -1967,7 +1967,7 @@ ETC_20150317_001966	Do you want to decide?
 ETC_20150317_001967	Whisper
 ETC_20150317_001968	Right-click to equip
 ETC_20150317_001969	Right-click to sell
-ETC_20150317_001970	Right click to disable
+ETC_20150317_001970	Right-click to disable
 ETC_20150317_001971	 Level or higher
 ETC_20150317_001972	Repair Cost
 ETC_20150317_001973	{Auto_2} of {Auto_1} items used.
@@ -1984,7 +1984,7 @@ ETC_20150317_001983	And deselect
 ETC_20150317_001984	Are you sure to use points to increase {Auto_1} ?
 ETC_20150317_001985	Are you sure to consume points to increase ability?
 ETC_20150317_001986	Would you like to consume points to learn new skill?
-ETC_20150317_001987	Available skill points
+ETC_20150317_001987	Available Skill Points
 ETC_20150317_001988	Category
 ETC_20150317_001989	Passive
 ETC_20150317_001990	Enhance skill
@@ -1994,8 +1994,8 @@ ETC_20150317_001993	Point
 ETC_20150317_001994	You do not have enough slots.
 ETC_20150317_001995	Quest List
 ETC_20150317_001996	Obtained Adventure Journal
-ETC_20150317_001997	{#000000} Item not recorded in diary.
-ETC_20150317_001998	Monster not recorded in diary.
+ETC_20150317_001997	{#000000} Item not recorded in journal.
+ETC_20150317_001998	Monster not recorded in journal.
 ETC_20150317_001999	Lance Mastery
 ETC_20150317_002000	Marksmanship
 ETC_20150317_002001	Tactical action
@@ -2003,7 +2003,7 @@ ETC_20150317_002002	Physical Training
 ETC_20150317_002003	None
 ETC_20150317_002004	No increase
 ETC_20150317_002005	Lost
-ETC_20150317_002006	Glove
+ETC_20150317_002006	Gloves
 ETC_20150317_002007	Boots
 ETC_20150317_002008	Left hand
 ETC_20150317_002009	Right
@@ -2025,16 +2025,16 @@ ETC_20150317_002024	Time added
 ETC_20150317_002025	I want to import the items
 ETC_20150317_002026	{Auto_1} Month {Auto_2} day
 ETC_20150317_002027	Failed to break record
-ETC_20150317_002028	Mercenary archer
+ETC_20150317_002028	Mercenary Archer
 ETC_20150317_002029	{Auto_1} ea left
 ETC_20150317_002030	{Auto_1} has destroyed the enemy's towers. Coins will be rewarded to the team.
 ETC_20150317_002031	{Auto_1} has destroyed allies's tower.
 ETC_20150317_002032	{Auto_1} appeared. Defeat it to receive many rewards.
-ETC_20150317_002033	{Auto_1} killed {Auto_2}.
+ETC_20150317_002033	{Auto_1} defeated {Auto_2}.
 ETC_20150317_002034	Siege volunteers will be summoned.
 ETC_20150317_002035	Reduce Time
 ETC_20150317_002036	Your class level have reached {Auto_1}
-ETC_20150317_002037	You can Advance to {Auto_1}
+ETC_20150317_002037	You can advance to {Auto_1}
 ETC_20150317_002038	Go to {Auto_1}
 ETC_20150317_002039	{Auto_2} {Auto_1}
 ETC_20150317_002040	Hit {Auto_1} times
@@ -2042,7 +2042,7 @@ ETC_20150317_002041	No attack
 ETC_20150317_002042	OverKill
 ETC_20150317_002043	Main
 ETC_20150317_002044	Sub
-ETC_20150317_002045	Received rewards!!!
+ETC_20150317_002045	Received reward(s)!!!
 ETC_20150317_002046	Gift given by {Giver} to {Target}
 ETC_20150317_002047	Number
 ETC_20150317_002048	Receive
@@ -2144,21 +2144,21 @@ ETC_20150317_002143	Finding sheet of paper
 ETC_20150317_002144	Found sheet of Wizard's book!
 ETC_20150317_002145	Could't find the sheet of Wizard's book
 ETC_20150317_002146	Emotional Carve Owl
-ETC_20150317_002147	Sword Master appeared! Try looking around
-ETC_20150317_002148	Wizard master appeared! Try looking around
-ETC_20150317_002149	Archer Master appeared! Try looking around
-ETC_20150317_002150	Cleric master appeared! Try looking around
+ETC_20150317_002147	The Sword Master appeared! Try looking around
+ETC_20150317_002148	The Wizard Master appeared! Try looking around
+ETC_20150317_002149	The Archer Master appeared! Try looking around
+ETC_20150317_002150	The Cleric Master appeared! Try looking around
 ETC_20150317_002151	Dandel : Dandel : 51 / Dandel: Dandel : 51 / Dandel : Dandel : 51 / zigri_purple : Black Zigri : 54
 ETC_20150317_002152	Wendigo that came out from the gap
-ETC_20150317_002153	What kind of place Femidian?
+ETC_20150317_002153	What kind of place is Femidian?
 ETC_20150317_002154	Divine district and Business district
-ETC_20150317_002155	Central Zemyna goddess Statue
+ETC_20150317_002155	Central Zemyna Goddess Statue
 ETC_20150317_002156	Identity of the old man
 ETC_20150317_002157	Food of Femidian
-ETC_20150317_002158	Talk to the summoned guardian of Zachary to unseal!
-ETC_20150317_002159	Status points have been added!
+ETC_20150317_002158	Talk to the summoned guardian of Zachariel to unseal!
+ETC_20150317_002159	Ability Point has been added!
 ETC_20150317_002160	Nothing happens!
-ETC_20150317_002161	You kicked the box and Red Vubbe Fighter appeared!
+ETC_20150317_002161	You kicked the box and a Red Vubbe Fighter appeared!
 ETC_20150317_002162	Canyon Amalas is saved!
 ETC_20150317_002163	You are addicted to Canon Amalas and it makes your mind seem at loss.
 ETC_20150317_002164	Unsealed!
@@ -2263,9 +2263,9 @@ ETC_20150317_002262	A lighting fighter curses the sanctum
 ETC_20150317_002263	The lighting fighter appeared as the power of faith's mark!
 ETC_20150317_002264	Blessed from Sanctum, It is able to make a power attack during 10 sec!
 ETC_20150317_002265	Blessed from Sanctum, You will be received the spirit of divine during 10 sec!
-ETC_20150317_002266	Worship the statue of goddess
+ETC_20150317_002266	Worship the Goddess Statue
 ETC_20150317_002267	Use warp
-ETC_20150317_002268	Worshiping
+ETC_20150317_002268	Worshipping
 ETC_20150317_002269	Picking flowers for offering
 ETC_20150317_002270	Found the flowers!
 ETC_20150317_002271	I lost in the fragrance of flowers.
@@ -2382,7 +2382,7 @@ ETC_20150317_002381	Please lead to the goddess
 ETC_20150317_002382	Absorb energy of the guardian
 ETC_20150317_002383	Moving.
 ETC_20150317_002384	Do not move.
-ETC_20150317_002385	{@st59} Increase SP, SP recovery {/}
+ETC_20150317_002385	{@st59} Increase SP and SP recovery {/}
 ETC_20150317_002386	Quest {nl} Complete
 ETC_20150317_002387	I saw it. This is certainly not deadborn
 ETC_20150317_002388	I said it's not a deadborn
@@ -2587,11 +2587,11 @@ ETC_20150317_002586	Break Rim Blow
 ETC_20150317_002587	Adjust Rim Blow
 ETC_20150317_002588	Close Shot Penalty
 ETC_20150317_002589	Wood engraving Attack
-ETC_20150317_002590	Withdraw from guild
-ETC_20150317_002591	Party invitation
-ETC_20150317_002592	I failed to create the party
-ETC_20150317_002593	Party name already exists
-ETC_20150317_002594	Withdrew from party
+ETC_20150317_002590	Leave Guild
+ETC_20150317_002591	Party Request
+ETC_20150317_002592	Failed to create a party
+ETC_20150317_002593	The name of the party already exists
+ETC_20150317_002594	Quit the party
 ETC_20150317_002595	Questionnaire title is too long
 ETC_20150317_002596	Question
 ETC_20150317_002597	Vote
@@ -2602,7 +2602,7 @@ ETC_20150317_002601	Party level has increased to {Auto_1}
 ETC_20150317_002602	{Auto_1} Party Raid has started {nl} Press button to join
 ETC_20150317_002603	Joined {Auto_1} party
 ETC_20150317_002604	Created {Auto_1} party
-ETC_20150317_002605	{Inviter} san has invited you to the party. Would you like to register?
+ETC_20150317_002605	{Inviter} san has invited you to a party. Would you like to register?
 ETC_20150317_002606	{PC} is already a member of a party
 ETC_20150317_002607	You are not a member of a party
 ETC_20150317_002608	Do you want to leave the party?
@@ -2618,7 +2618,7 @@ ETC_20150317_002617	{@st41} Register Limit{/}
 ETC_20150317_002618	{@st41} Password {/}
 ETC_20150317_002619	{@st41} Preferred Class {/}
 ETC_20150317_002620	{@st41b} Random {/}
-ETC_20150317_002621	{@st41b} Knight only {/}
+ETC_20150317_002621	{@st41b} Warrior only {/}
 ETC_20150317_002622	{@st41b} Wizard only {/}
 ETC_20150317_002623	{@st41b} Archer only {/}
 ETC_20150317_002624	{@st41b} Cleric only {/}
@@ -2641,16 +2641,16 @@ ETC_20150317_002640	NXP is missing.
 ETC_20150317_002641	The mike cannot exceed {MaxByte} bytes.
 ETC_20150317_002642	The party does not exist.
 ETC_20150317_002643	Expel
-ETC_20150317_002644	Withdraw
-ETC_20150317_002645	Party information
-ETC_20150317_002646	Give leader permission
+ETC_20150317_002644	Leave
+ETC_20150317_002645	Party Info
+ETC_20150317_002646	Make Party Leader
 ETC_20150317_002647	has rejected the party request.
 ETC_20150317_002648	Do you want to join the party?
 ETC_20150317_002649	The mike cannot exceed {MaxLen} characters.
 ETC_20150317_002650	You already belong to a party
 ETC_20150317_002651	There is no party joined.
 ETC_20150317_002652	All
-ETC_20150317_002653	The party member is not enough.
+ETC_20150317_002653	There are not enough party members.
 ETC_20150317_002654	Available time of next quest
 ETC_20150317_002655	Quest can be progress.
 ETC_20150317_002656	Reconnection wait time
@@ -2670,7 +2670,7 @@ ETC_20150317_002669	Party Quest region.
 ETC_20150317_002670	User does not exist, or not connected.
 ETC_20150317_002671	Please enter the team name of the player you want to invite.
 ETC_20150317_002672	{TargetName} and {Count} people
-ETC_20150317_002673	Auction start
+ETC_20150317_002673	Start Auction
 ETC_20150317_002674	Failed to start auction
 ETC_20150317_002675	Another auction is in progress
 ETC_20150317_002676	No bidder
@@ -4182,7 +4182,7 @@ ETC_20150317_004181	{nl} shortcut: {#0000FF}
 ETC_20150317_004182	You can use the potion items, you will be able to recover the {nl} SP.
 ETC_20150317_004183	You can use the potion items you will be able to recover stamina.
 ETC_20150317_004184	{s18}{#001100}You can raise your character's stats {nl} when leveling up.
-ETC_20150317_004185	Please press the apply {nl} after increasing stats by using buttons.
+ETC_20150317_004185	Click apply {nl} after increasing stats by using buttons.
 ETC_20150317_004186	{s18}{#001100}{a @UI_TUTO_MORU} Please enhance the items to right click on the anvil
 ETC_20150317_004187	{s18}{#001100} Instant stores the price more expensive {nl} than the regular stores.
 ETC_20150317_004188	The number of links cannot be more than three.
@@ -4711,16 +4711,16 @@ ETC_20150317_004710	Special compensation
 ETC_20150317_004711	{S20}{#050505} Attack:
 ETC_20150317_004712	{S20}{#050505} Defense:
 ETC_20150317_004713	You do not have enough silver.
-ETC_20150317_004714	It is a Advancement quest that has not been implemented yet.
+ETC_20150317_004714	It is an Advancement quest that has not been implemented yet.
 ETC_20150317_004715	Chat
-ETC_20150317_004716	{@st61} common dialog
+ETC_20150317_004716	{@st61} Normal Chat
 ETC_20150317_004717	And conversation
-ETC_20150317_004718	General conversation
-ETC_20150317_004719	Party chat
+ETC_20150317_004718	Normal Chat
+ETC_20150317_004719	Party Chat
 ETC_20150317_004720	Organization
-ETC_20150317_004721	Invite to conversation
+ETC_20150317_004721	Invite to Chat
 ETC_20150317_004722	System
-ETC_20150317_004723	{@st61} new chat message has arrived! {/}
+ETC_20150317_004723	{@st61} A new chat message has arrived! {/}
 ETC_20150317_004724	Minimum:
 ETC_20150317_004725	Maximum:
 ETC_20150317_004726	{@st43} silver 0
@@ -4729,7 +4729,7 @@ ETC_20150317_004728	Discarded
 ETC_20150317_004729	(Warp purchase order)
 ETC_20150317_004730	Silver
 ETC_20150317_004731	{@st41b}Check{/}
-ETC_20150317_004732	{@st59} consumes Silver to move to the area. {/}
+ETC_20150317_004732	{@st59} consumes silver to move to the area. {/}
 ETC_20150317_004733	{@st59} to move to the area. {/}
 ETC_20150317_004734	Map
 ETC_20150317_004735	Map Explored
@@ -4742,26 +4742,26 @@ ETC_20150317_004741	No data
 ETC_20150317_004742	No rank last week
 ETC_20150317_004743	Hunting
 ETC_20150317_004744	{@st64} Let's apply that approach to the NPC dialogue with \ ScpArgMsg ("Auto_SeuPeiSeuBa \")!
-ETC_20150317_004745	{@st43} Try using these keys to control your character!
+ETC_20150317_004745	{@st43} Learn the basic controls of the game!
 ETC_20150317_004746	(In the block)
-ETC_20150317_004747	Select the {@st41b} Reward: {/}
+ETC_20150317_004747	Select your {@st41b} reward: {/}
 ETC_20150317_004748	No items
 ETC_20150317_004749	{@st41} Monster Kill Top 100
 ETC_20150317_004750	{@st41} Damage Top 100
 ETC_20150317_004751	{@st41} Money Money Top 100
-ETC_20150317_004752	{@st41} Level Up Top 100
-ETC_20150317_004753	{@st48}{s20} adventure journal Top 100
-ETC_20150317_004754	{@st41}{#f0dcaa} average damage
-ETC_20150317_004755	{@st41b} ranking
-ETC_20150317_004756	{@st41}{#f0dcaa} average Kill
-ETC_20150317_004757	{@st41}{#f0dcaa} average level
-ETC_20150317_004758	{@st41}{#f0dcaa} average silver
+ETC_20150317_004752	{@st41} Level-up Top 100
+ETC_20150317_004753	{@st48}{s20} Adventure Journal Top 100
+ETC_20150317_004754	{@st41}{#f0dcaa} Average damage
+ETC_20150317_004755	{@st41b} Ranking
+ETC_20150317_004756	{@st41}{#f0dcaa} Average Kill
+ETC_20150317_004757	{@st41}{#f0dcaa} Average level
+ETC_20150317_004758	{@st41}{#f0dcaa} Average silver
 ETC_20150317_004759	One obtains
 ETC_20150317_004760	(Active)
 ETC_20150317_004761	Ice
 ETC_20150317_004762	{@st41} icon
 ETC_20150317_004763	{@st41}List
-ETC_20150317_004764	{@st54}{b} Select Rewards{/}
+ETC_20150317_004764	{@st54}{b} Select Reward{/}
 ETC_20150317_004765	Nudoku I was mounting the Son Bol pocket in Kochi.
 ETC_20150317_004766	Nudoku is available in Kochi!
 ETC_20150317_004767	Can be used in the tree Ferri!
@@ -4806,29 +4806,29 @@ ETC_20150317_004805	I drink stimulants
 ETC_20150317_004806	Bram table was disappears aura of turbidity is installed.
 ETC_20150317_004807	During clearly won
 ETC_20150317_004808	Repair
-ETC_20150317_004809	Auxiliary equipment such
-ETC_20150317_004810	One-hand Sword
-ETC_20150317_004811	Two-hand Sword
-ETC_20150317_004812	Load class
-ETC_20150317_004813	Staff kind
-ETC_20150317_004814	Faruryu
-ETC_20150317_004815	Crossbow class
-ETC_20150317_004816	Blunt object class
-ETC_20150317_004817	One Drew
-ETC_20150317_004818	Spear
-ETC_20150317_004819	Spear2
-ETC_20150317_004820	Shield class
-ETC_20150317_004821	Dagger class
+ETC_20150317_004809	Secondary Equipment
+ETC_20150317_004810	One-handed Sword
+ETC_20150317_004811	Two-handed Sword
+ETC_20150317_004812	Rod
+ETC_20150317_004813	Staff
+ETC_20150317_004814	Bow
+ETC_20150317_004815	Catapult
+ETC_20150317_004816	Blunt
+ETC_20150317_004817	Wand
+ETC_20150317_004818	One-handed Spear
+ETC_20150317_004819	Two-handed Spear
+ETC_20150317_004820	Shield
+ETC_20150317_004821	Dagger
 ETC_20150317_004822	No, this taste?
 ETC_20150317_004823	I have a great taste!
-ETC_20150317_004824	Lamy Chi~o butyrate ~O Breakfast
+ETC_20150317_004824	*munch munch gulp gulp*
 ETC_20150317_004825	Learn the characteristics that can wear the attached item.
 ETC_20150317_004826	Learn immediately
-ETC_20150317_004827	Buy Items for Companion
+ETC_20150317_004827	Buy items for Companion
 ETC_20150317_004828	Adopt Companion
 ETC_20150317_004829	Train Companion
-ETC_20150317_004830	Not available in the Klaipeda.
-ETC_20150317_004831	Tool shop
+ETC_20150317_004830	Not available in Klaipeda.
+ETC_20150317_004831	Tools Shop
 ETC_20150317_004832	Benefits of having a Companion
 ETC_20150317_004833	Please defeat monsters to protect the Asmodian summoned team ahead.
 ETC_20150317_004834	Barrier behavior of form plastic hill! {nl}
@@ -4870,7 +4870,7 @@ ETC_20150317_004869	Today, It is already running request
 ETC_20150317_004870	Accepted the requests
 ETC_20150317_004871	You have exceeded the request to be carry
 ETC_20150317_004872	You have exceeded your accept limit of daily request
-ETC_20150317_004873	Start Quests
+ETC_20150317_004873	Start Request
 ETC_20150317_004874	Begin start the requests
 ETC_20150317_004875	Please use the item
 ETC_20150317_004876	Silver is not enough
@@ -5203,7 +5203,7 @@ ETC_20150317_005202	I will not go easy on you!
 ETC_20150317_005203	Please defeat Rogue Master!
 ETC_20150317_005204	Here I go!
 ETC_20150317_005205	Please defeat Rocktortuga and obtain the natural agate stone!
-ETC_20150317_005206	Please defeat Schwarze Reiter!
+ETC_20150317_005206	Please defeat Schwarzer Reiter!
 ETC_20150317_005207	Please defeat Deadbone!
 ETC_20150317_005208	Please defeat Rajatoad!
 ETC_20150317_005209	Monsters have appeared!
@@ -5781,7 +5781,7 @@ ETC_20150317_005780	Rage of Helgacercle
 ETC_20150317_005781	Increase in defense
 ETC_20150317_005782	Rage of Arkon
 ETC_20150317_005783	Stickiness
-ETC_20150317_005784	Movement Speed has decreases due to stickiness.
+ETC_20150317_005784	Movement Speed has decreased due to stickiness.
 ETC_20150317_005785	In a state of rage. Your defense has increased.
 ETC_20150317_005786	Enhance Defense
 ETC_20150317_005787	Temporarily increases your defense.
@@ -6012,12 +6012,12 @@ ETC_20150317_006011	You can trade items with NPC through the item trade menu of 
 ETC_20150317_006012	Hold down the {img Shift 45 45} key and right-click to trade multiple quantities at a time. {nl} {nl}
 ETC_20150317_006013	Items sold in the store can be bought back.
 ETC_20150317_006014	{nl} {nl} Buy back items sold by mistake by right-clicking on the item. {nl} {nl}
-ETC_20150317_006015	Ability Points
+ETC_20150317_006015	Ability Point
 ETC_20150317_006016	Use your Ability Points (AP) obtained by leveling up, into stats of your character to progress.
 ETC_20150317_006017	Press {img F1 40 40} to open your character's info to check your current progress.
-ETC_20150317_006018	Using Ability Points to increase STR/CON/INT/SPR/DEX. you can grow your character. {nl} {nl} STR: Increase in Physical Attack and Critical Attack {nl} {nl} CON: Increase in max HP, HP Recovery, Block, Critical Resistance and Max inventory weight {nl} {nl} INT: Increase in Magic Attack and Block Penetration {nl} {nl} SPR: Increase in max SP and SP Recovery {nl} {nl} DEX: Increase in Accuracy, Evasion and Critical Chance {nl}
-ETC_20150317_006019	When distributing Ability Points, you can strengthen the corresponding abilities.
-ETC_20150317_006020	You can preview the effects of the status change
+ETC_20150317_006018	Use Ability Points to increase STR/CON/INT/SPR/DEX. you can grow your character. {nl} {nl} STR: Increase in Physical Attack and Critical Attack {nl} {nl} CON: Increase in max HP, HP Recovery, Block, Critical Resistance and max Inventory Weight {nl} {nl} INT: Increase in Magic Attack and Block Penetration {nl} {nl} SPR: Increase in max SP and SP Recovery {nl} {nl} DEX: Increase in Accuracy, Evasion and Critical Chance {nl}
+ETC_20150317_006019	When distributing Ability Points, you can upgrade the corresponding abilities.
+ETC_20150317_006020	You can preview the effects of an ability when you d
 ETC_20150317_006021	in the information tab.
 ETC_20150317_006022	Convenience Function
 ETC_20150317_006023	Use warp to quickly move to your desired area.
@@ -8773,8 +8773,8 @@ ETC_20150317_008772	Attack Tip
 ETC_20150317_008773	Press Z to attack.
 ETC_20150317_008774	STR Stat Tip
 ETC_20150317_008775	The Strength stat increases your physical damage and critical damage. 
-ETC_20150317_008776	VIT Stat Tip
-ETC_20150317_008777	The Vitality stat increases your max HP, HP recovery rate, inventory weight, critical resistance and shield block rate.
+ETC_20150317_008776	CON Stat Tip
+ETC_20150317_008777	The Constitution stat increases your max HP, HP recovery rate, inventory weight, critical resistance and shield block rate.
 ETC_20150317_008778	INT Stat Tip
 ETC_20150317_008779	The Intelligence stat increases your magic attack.
 ETC_20150317_008780	SPR Stat Tip
@@ -9523,7 +9523,7 @@ ETC_20150317_009522	Maggot
 ETC_20150317_009523	Inner Catacombs
 ETC_20150317_009524	Catacombs Outskirts
 ETC_20150317_009525	IMC_Guard
-ETC_20150320_009526	When distributing Ability Points, you can strengthen the corresponding abilities. {nl}{nl}
+ETC_20150320_009526	When distributing Ability Points, you can upgrade the corresponding abilities. {nl}{nl}
 ETC_20150323_009527	Orange Popolion
 ETC_20150323_009528	Orange Gribaru
 ETC_20150323_009529	Marionette
@@ -9801,7 +9801,7 @@ ETC_20150323_009800	Increases STA by +25 for 30 minutes.
 ETC_20150323_009801	Yogurt
 ETC_20150323_009802	Increases Movement Speed by +1 for 30 minutes.
 ETC_20150323_009803	Use multiple skills to suppress overkill.
-ETC_20150323_009804	Use Ability Points obtained through leveling up to strengthen your character's abilities. 
+ETC_20150323_009804	Use Ability Points obtained through leveling up to upgrade your character's abilities. 
 ETC_20150323_009805	Elementalist
 ETC_20150323_009806	Vinas camp
 ETC_20150323_009807	Rishkio City
