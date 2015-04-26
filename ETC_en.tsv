@@ -1490,7 +1490,7 @@ ETC_20150317_001489	Cannot be equipped by male characters. {nl}Please check item
 ETC_20150317_001490	Cannot be equipped by female characters. {nl}Please check item description for possible equip gender and level
 ETC_20150317_001491	The character name must be at least %s characters.
 ETC_20150317_001492	The character name must be less than %s characters.
-ETC_20150317_001493	{S18}{ol}{#ffffcc} Password incorrect
+ETC_20150317_001493	{S18}{ol}{#ffffcc} Password is incorrect
 ETC_20150317_001494	You cannot join the game. Your level does not match the level requirements.
 ETC_20150317_001495	You do not have permission
 ETC_20150317_001496	The room does not exist. {nl}Please update the room list.
@@ -1519,7 +1519,7 @@ ETC_20150317_001518	You cannot use the stance yet.
 ETC_20150317_001519	You have tried to connect to a server which is not registered.{nl}Please ask the publisher.
 ETC_20150317_001520	Please enter the account ID
 ETC_20150317_001521	{S18}{ol}{#ffffcc} Please enter the account password
-ETC_20150317_001522	You cannot move to other channel now.
+ETC_20150317_001522	You cannot move to another channel now.
 ETC_20150317_001523	You cannot build a structure near another structure.
 ETC_20150317_001524	You cannot add a new buddy because your buddy list is full.
 ETC_20150317_001525	You cannot send a buddy request, because the character is waiting for the buddy request of another character. {nl} Please try again later.
@@ -1536,7 +1536,7 @@ ETC_20150317_001535	Your character has been blocked from entering the game due t
 ETC_20150317_001536	The item {ItemName} is not sufficient.
 ETC_20150317_001537	This place, please move to the herbivorous you will not be able to use {nl} another location
 ETC_20150317_001538	{Auto_2} recovery will be completed after {Auto_1} seconds
-ETC_20150317_001539	Inventory is full. You cannot receive basic items.
+ETC_20150317_001539	You cannot receive basic items because your inventory is full.
 ETC_20150317_001540	Account ID can not contain spaces
 ETC_20150317_001541	Because there is no proper equipment, you will not be able to use the skills
 ETC_20150317_001542	Out of the range distance of herbivorous subject
@@ -1581,9 +1581,9 @@ ETC_20150317_001580	Too close
 ETC_20150317_001581	{S20}{ol}{#46ffc8} You do not have enough stamina.
 ETC_20150317_001582	Object needed for the skill is not available.
 ETC_20150317_001583	You cannot equip secondary equipment when wearing a two-handed weapon.
-ETC_20150317_001584	You cannot use 'Return' during rest mode.
+ETC_20150317_001584	You cannot use 'Return' during Rest Mode.
 ETC_20150317_001585	Another character has taken the request.
-ETC_20150317_001586	Previous game did not end.
+ETC_20150317_001586	The previous game did not end.
 ETC_20150317_001587	{#ffFF00} Please click the target item {/}
 ETC_20150317_001588	{Auto_3} - {Auto_4} Damage from {Auto_1} to {Auto_2}
 ETC_20150317_001589	{Auto_2} - {Auto_3} Damage {Auto_1}
@@ -1640,20 +1640,20 @@ ETC_20150317_001639	Rank {Auto_1}
 ETC_20150317_001640	Not available in current map.
 ETC_20150317_001641	[{The}] feature is enabled.
 ETC_20150317_001642	[{Ability}] triggered!
-ETC_20150317_001643	Remaining time: {Auto_1}
+ETC_20150317_001643	Remaining Time: {Auto_1}
 ETC_20150317_001644	Today's Tip :
-ETC_20150317_001645	You cannot equip the equipment in that slot.
+ETC_20150317_001645	You cannot equip your equipment in that slot.
 ETC_20150317_001646	Do you really want to quit?
 ETC_20150317_001647	{S20}{ol}{#ff1100} The attribute cannot be bought.
-ETC_20150317_001648	You cannot wear items with 0 durability.
+ETC_20150317_001648	You cannot equip items with 0 durability.
 ETC_20150317_001649	Delete
 ETC_20150317_001650	Server disconnected. Please try again later.
-ETC_20150317_001651	{Year}YYYY {Month}MM {Day}DD {Hour} hr {Min} min {Sec}sec
+ETC_20150317_001651	{Year} {Month} {Day} {Hour} hr {Min} min {Sec} sec
 ETC_20150317_001652	Read more
-ETC_20150317_001653	You cannot change equipment before picking up thrown item.
-ETC_20150317_001654	{Month} MM {Day}DD
-ETC_20150317_001655	{Day} day
-ETC_20150317_001656	{Hour} hour
+ETC_20150317_001653	You cannot change your equipment before picking up thrown item.
+ETC_20150317_001654	{Month} {Day}
+ETC_20150317_001655	{Day}
+ETC_20150317_001656	{Hour} hours
 ETC_20150317_001657	{Min} minutes
 ETC_20150317_001658	{Sec} seconds
 ETC_20150317_001659	Please enter a title.
@@ -1669,12 +1669,12 @@ ETC_20150317_001668	A skill that can be used only while riding companion.
 ETC_20150317_001669	Must be at least {LEN} characters.
 ETC_20150317_001670	Must be less than {LEN} characters.
 ETC_20150317_001671	Contains one or more characters that are not allowed.
-ETC_20150317_001672	You cannot ride during rest mode.
+ETC_20150317_001672	You cannot ride during Rest Mode.
 ETC_20150317_001673	You cannot ride on a fainted companion.
 ETC_20150317_001674	The customer is not a CBT user.
 ETC_20150317_001675	It has been van by the administrator.
 ETC_20150317_001676	{Name} ({Mapname} / {ChNo} channel)
-ETC_20150317_001677	It is a skill that can not be manufactured.
+ETC_20150317_001677	This skill cannot be crafted.
 ETC_20150317_001678	
 ETC_20150317_001679	You do not have enough Potential to enhance this item
 ETC_20150317_001680	This item cannot be enhanced
@@ -1701,10 +1701,10 @@ ETC_20150317_001700	You cannot mount any more.
 ETC_20150317_001701	The item has been destroyed due to death penalty.
 ETC_20150317_001702	Enhance
 ETC_20150317_001703	{s18}{ol} If fail the item enhancement of weapons more than {#ffffcc}+{Auto_1} level then the potential will be consumed and Item is destroyed if potential is zero. Do you want to enhance?
-ETC_20150317_001704	Use {Auto_1} item to start crafting. Do you want to continue?
+ETC_20150317_001704	Use the {Auto_1} item to start crafting. Do you want to continue?
 ETC_20150317_001705	{@st42) When crafting
 ETC_20150317_001706	Your movement has cancelled the crafting of the item.
-ETC_20150317_001707	Crafting completed!
+ETC_20150317_001707	Crafting Completed!
 ETC_20150317_001708	The name of the crafted item can be up to {Auto_1} characters.
 ETC_20150317_001709	The memo of the crafted item can be up to {Auto_1} characters.
 ETC_20150317_001710	Tree
@@ -1722,11 +1722,11 @@ ETC_20150317_001721	Spear
 ETC_20150317_001722	Wand
 ETC_20150317_001723	{nl} Do you want to add a socket?
 ETC_20150317_001724	{nl} Do you want to extract the gem?
-ETC_20150317_001725	Would you like to create the item?
+ETC_20150317_001725	Would you like to create this item?
 ETC_20150317_001726	Material
 ETC_20150317_001727	Ring
 ETC_20150317_001728	Choose this combination for the alchemy?
-ETC_20150317_001729	Target item
+ETC_20150317_001729	Target Item
 ETC_20150317_001730	Combining items..
 ETC_20150317_001731	Obtained item
 ETC_20150317_001732	Drag and drop the card into the slot to equip it.
@@ -1844,14 +1844,14 @@ ETC_20150317_001843	Message
 ETC_20150317_001844	[Notice]
 ETC_20150317_001845	Full
 ETC_20150317_001846	Logout
-ETC_20150317_001847	{Ul} items! {/}
+ETC_20150317_001847	{Ul} item! {/}
 ETC_20150317_001848	Hunting Count
 ETC_20150317_001849	Emerged Area
 ETC_20150317_001850	Times
 ETC_20150317_001851	Damage
 ETC_20150317_001852	{Ul}Maximum Attack! {/}
 ETC_20150317_001853	{Ul}Maximum Damage! {/}
-ETC_20150317_001854	Lv
+ETC_20150317_001854	Level
 ETC_20150317_001855	Obtained Quantity
 ETC_20150317_001856	Obtained Monsters
 ETC_20150317_001857	Buy from shop
@@ -1890,7 +1890,7 @@ ETC_20150317_001889	Temporary Event
 ETC_20150317_001890	Acquired
 ETC_20150317_001891	You already have it.
 ETC_20150317_001892	Field boss appeared!
-ETC_20150317_001893	Items
+ETC_20150317_001893	Item
 ETC_20150317_001894	Map
 ETC_20150317_001895	Performance
 ETC_20150317_001896	Mike
@@ -1968,7 +1968,7 @@ ETC_20150317_001967	Whisper
 ETC_20150317_001968	Right-click to equip
 ETC_20150317_001969	Right-click to sell
 ETC_20150317_001970	Right-click to remove
-ETC_20150317_001971	 Level or higher
+ETC_20150317_001971	Level or higher
 ETC_20150317_001972	Repair Cost
 ETC_20150317_001973	{Auto_2} of {Auto_1} items used.
 ETC_20150317_001974	Item Rarity
@@ -2737,7 +2737,7 @@ ETC_20150317_002736	Magic Attack
 ETC_20150317_002737	Magic Defense
 ETC_20150317_002738	Create an additional slot when equipped
 ETC_20150317_002739	Gender
-ETC_20150317_002740	Maximum Sockets
+ETC_20150317_002740	Maximum Socket(s)
 ETC_20150317_002741	Sell to shop
 ETC_20150317_002742	Trade with player
 ETC_20150317_002743	Enhance Potential
@@ -4194,10 +4194,10 @@ ETC_20150317_004193	{@st43} Mercenary Contract {/}
 ETC_20150317_004194	{@st43} Action Pose {/}
 ETC_20150317_004195	{@st42}{b}{#ff9900} Mystagogue :
 ETC_20150317_004196	] Studying properties.. (
-ETC_20150317_004197	Remaining Minutes)
+ETC_20150317_004197	Remaining minutes)
 ETC_20150317_004198	] Attribute learned soon! (1 minute)
-ETC_20150317_004199	Minutes required
-ETC_20150317_004200	Seconds required
+ETC_20150317_004199	minutes required
+ETC_20150317_004200	seconds required
 ETC_20150317_004201	{@st42b} Silver
 ETC_20150317_004202	{@st42_yellow}{s16} Top Level Master!
 ETC_20150317_004203	{@st42_yellow}{s16} Studying Attribute..
@@ -5503,13 +5503,13 @@ ETC_20150317_005502	Defeated 500 boss monsters.
 ETC_20150317_005503	Walking Dead
 ETC_20150317_005504	Achieved by resurrecting at least 100 times using NXP.
 ETC_20150317_005505	Crafting Beginner
-ETC_20150317_005506	Succeeded crafting 10 times. Feels pretty good.
+ETC_20150317_005506	Succeeded in crafting 10 times. Feels pretty good.
 ETC_20150317_005507	Crafting Apprentice
-ETC_20150317_005508	Succeeded crafting 50 times. Getting more used to crafting.
+ETC_20150317_005508	Succeeded in crafting 50 times. Getting more used to crafting.
 ETC_20150317_005509	Crafting Expert
-ETC_20150317_005510	Succeeded crafting 100 times. Slowly building up wealth.
+ETC_20150317_005510	Succeeded in crafting 100 times. Slowly building up wealth.
 ETC_20150317_005511	Crafting God
-ETC_20150317_005512	Succeeded crafting 300 times. No words can describe this feeling.
+ETC_20150317_005512	Succeeded in crafting 300 times. No words can describe this feeling.
 ETC_20150317_005513	Challenger
 ETC_20150317_005514	Knocked out 3 players.
 ETC_20150317_005515	Gladiator
@@ -5969,7 +5969,7 @@ ETC_20150317_005968	Monster Info
 ETC_20150317_005969	When you are nearby a monster, you can check its monster info.
 ETC_20150317_005970	The monster's level, name and its HP can be viewed through the Monster Info window.
 ETC_20150317_005971	Certain classes have access to additional information on monsters.
-ETC_20150317_005972	Consumes HP/SP/Stamina can be recovered through the following options.
+ETC_20150317_005972	Consumed HP/SP/Stamina can be recovered through the following options.
 ETC_20150317_005973	[Spontaneous Recovery] :
 ETC_20150317_005974	Based on stat
 ETC_20150317_005975	HP Recovery rate
@@ -5980,12 +5980,12 @@ ETC_20150317_005979	Potions have cooldown times before you can re-use.
 ETC_20150317_005980	[Tree Root Crystal] : Destroy Tree Root Crystals to recover Stamina.
 ETC_20150317_005981	Tree Root Crystals are randomly generated around the field.
 ETC_20150317_005982	[Rest Mode] : Using the bonfire during Rest Mode speeds up your recovery.
-ETC_20150317_005983	Recovery in Rest mode is faster than Natural recovery and it is even faster if you use bonfire during Rest mode.
+ETC_20150317_005983	Recovery in Rest Mode is faster than Natural recovery and it is even faster if you use bonfire during Rest Mode.
 ETC_20150317_005984	Overkill will be activated if you kill the monster with a strong finish.
 ETC_20150317_005985	Overkill will be activated if you make the more damage to use a strong finish compared to the rest of monsters's HP.
-ETC_20150317_005986	You can restore a stamina to destroy the tree root crystal.
+ETC_20150317_005986	Destroying a Tree Root Crystal recovers your Stamina.
 ETC_20150317_005987	There are many Tree Root Crystals in every field.
-ETC_20150317_005988	If you destroy the Tree Root Crystals, the Stamina of all the players around will be replenished
+ETC_20150317_005988	The Stamina of all the players around you will be replenished if you destroy the Tree Root Crystals.
 ETC_20150317_005989	Overheat
 ETC_20150317_005990	The particulary skills make the overheat when used over a certain number of times.
 ETC_20150317_005991	If Overheat is triggered, cooldown time occurs in that skill and you will not be able to use it for a while.
@@ -6119,19 +6119,19 @@ ETC_20150317_006118	can be removed again by
 ETC_20150317_006119	Caution: Potential is consumed when you remove gems.
 ETC_20150317_006120	Resurrection
 ETC_20150317_006121	You can use a resurrection skill to revive a dead character.
-ETC_20150317_006122	A character dies when his/her HP reaches 0
+ETC_20150317_006122	Your character will die when its HP reaches 0.
 ETC_20150317_006123	gets in a state of
 ETC_20150317_006124	status will allow you to choose the revival method.
-ETC_20150317_006125	You can add an useful effect to an obtained weapon by attaching a magic amulet to it.
+ETC_20150317_006125	You can add a useful effect to an obtained weapon by attaching a magic amulet to it.
 ETC_20150317_006126	Installing
 ETC_20150317_006127	and
 ETC_20150317_006128	You can attach a magic amulet to an item.
 ETC_20150317_006129	Magic amulet slot may vary per equipment.
 ETC_20150317_006130	The attached magic amulet can't be removed.
-ETC_20150317_006131	Magic amulets can't be enhanced.
+ETC_20150317_006131	A Magic Amulet cannot be enhanced.
 ETC_20150317_006132	You can obtain the magic amulet to kill the monster in field.
 ETC_20150317_006133	You can use the bonfire to recover HP quickly or craft items, combine gems, and etc.
-ETC_20150317_006134	In rest mode, select
+ETC_20150317_006134	During Rest Mode, select
 ETC_20150317_006135	Build Bonfire
 ETC_20150317_006136	to use the bonfire.
 ETC_20150317_006137	You need items to start the bonfire.{nl} You can choose where to build the fire by using numeric keys {img key1 40 40} ~ {img key9 40 40} . {nl} Items for bonfire can be bought through
@@ -8203,17 +8203,17 @@ ETC_20150317_008202	Bartas's Daughter
 ETC_20150317_008203	Cherise
 ETC_20150317_008204	A low lanking soldier. She likes Roy of guard officer as like the other female solider.
 ETC_20150317_008205	Roy
-ETC_20150317_008206	Guard Captain. Many girls were fascinated with his beauty. 
+ETC_20150317_008206	Guard Captain. Many girls are fascinated with his beauty. 
 ETC_20150317_008207	Recipe - Oak Wood
-ETC_20150317_008208	Recipe for crafting wood used for the wooden statues.
+ETC_20150317_008208	Recipe for crafting wood used for the wooden statues
 ETC_20150317_008209	Recipe - Ash Wood
 ETC_20150317_008210	Recipe - Pine Wood
 ETC_20150317_008211	Recipe - Cedar Wood
 ETC_20150317_008212	Recipe - Drake String
 ETC_20150317_008213	Recipe for crafting materials
-ETC_20150317_008214	Recipe - White mucus
+ETC_20150317_008214	Recipe - White Mucus
 ETC_20150317_008215	Recipe - Flor
-ETC_20150317_008216	Recipe - Rough bone powder
+ETC_20150317_008216	Recipe - Rough Bone Powder
 ETC_20150317_008217	Recipe - Tendon
 ETC_20150317_008218	Recipe - Spell Device
 ETC_20150317_008219	Recipe - Pyro Stone
@@ -8222,8 +8222,8 @@ ETC_20150317_008221	Recipe - Hardener
 ETC_20150317_008222	Recipe - Tough Tendon
 ETC_20150317_008223	Recipe - Resinate
 ETC_20150317_008224	Recipe - Bokor doll
-ETC_20150317_008225	Recipe for making Bokor Doll
-ETC_20150317_008226	Recipe for crafting equipment.
+ETC_20150317_008225	Recipe for crafting a Bokor Doll
+ETC_20150317_008226	Recipe for crafting equipment
 ETC_20150317_008227	Recipe - Kaskara
 ETC_20150317_008228	Recipe - Cinquedea
 ETC_20150317_008229	Recipe - Sabre
@@ -8542,12 +8542,12 @@ ETC_20150317_008541	Recipe - Shade Dancer
 ETC_20150317_008542	Recipe - Wind Runner
 ETC_20150317_008543	Recipe - Banshee Veil
 ETC_20150317_008544	Recipe - Wild Leather Gloves
-ETC_20150317_008545	Recipe - Leather Armor of Followers
+ETC_20150317_008545	Recipe - Follower's Leather Armor
 ETC_20150317_008546	Recipe - Vejo Boots
 ETC_20150317_008547	Recipe - Rokas Leather Armor
 ETC_20150317_008548	Recipe - Rokas Mail
 ETC_20150317_008549	Recipe - Rokas Robe
-ETC_20150317_008550	Recipe - Nependus Globe
+ETC_20150317_008550	Recipe - Nependus Gloves
 ETC_20150317_008551	Recipe - For Mine Armor
 ETC_20150317_008552	Recipe - Riena Pants
 ETC_20150317_008553	Recipe - Riena Robe
@@ -8567,7 +8567,7 @@ ETC_20150317_008566	Recipe - Oak Shield
 ETC_20150317_008567	Recipe - Savage Shield
 ETC_20150317_008568	Recipe - Jalia Kite Shield
 ETC_20150317_008569	Recipe - Heavy Kite Shield
-ETC_20150317_008570	Recipe - Bead shield
+ETC_20150317_008570	Recipe - Bead Shield
 ETC_20150317_008571	Recipe - Circle Guard
 ETC_20150317_008572	Recipe - Ludas Shield
 ETC_20150317_008573	Recipe - Wall Guard
@@ -8602,18 +8602,18 @@ ETC_20150317_008601	Recipe - Poison Bangle
 ETC_20150317_008602	Recipe - Plants Bracelet
 ETC_20150317_008603	Recipe - Control Bangle
 ETC_20150317_008604	Recipe - Hunter Bangle
-ETC_20150317_008605	Recipe - Buresa Ob Archer
+ETC_20150317_008605	Recipe - Bracer of Archer
 ETC_20150317_008606	Recipe - Wizard Bracelet
 ETC_20150317_008607	Recipe - Rapid Bangle
 ETC_20150317_008608	Recipe - Glass Bracelet
 ETC_20150317_008609	Recipe - Gladiator Band
-ETC_20150317_008610	Recipe - Bracelet Ob Linne
-ETC_20150317_008611	Recipe - Fora
-ETC_20150317_008612	Recipe - Faure
-ETC_20150317_008613	Recipe - Sissel Bracelet
-ETC_20150317_008614	Recipe - Jakariel Bangle
+ETC_20150317_008610	Recipe - Bracelet of Linne
+ETC_20150317_008611	Recipe - Pora
+ETC_20150317_008612	Recipe - Pore
+ETC_20150317_008613	Recipe - Cicel Bracelet
+ETC_20150317_008614	Recipe - Zakariel Bangle
 ETC_20150317_008615	Recipe - Nesting Chick
-ETC_20150317_008616	Recipe for crafting a costume.
+ETC_20150317_008616	Recipe for crafting a costume
 ETC_20150317_008617	Recipe - Steel Helmet
 ETC_20150317_008618	Recipe - Goat Horn
 ETC_20150317_008619	Recipe - Red Horn
@@ -8780,37 +8780,37 @@ ETC_20150317_008779	The Intelligence stat increases your magic attack.
 ETC_20150317_008780	SPR Stat Tip
 ETC_20150317_008781	The Spirit stat increases your max SP and SP recovery rate.
 ETC_20150317_008782	DEX Stat Tip
-ETC_20150317_008783	The Dexterity stat increases your accuracy, critical chance and avodability.
+ETC_20150317_008783	The Dexterity stat increases your accuracy, critical chance and evasion.
 ETC_20150317_008784	Continuous Attack Tip
 ETC_20150317_008785	Hold down Z to attack continuously.
 ETC_20150317_008786	Stamina Tip
-ETC_20150317_008787	When your STA has reached 0, you will stop running.
+ETC_20150317_008787	You will stop running when your STA has reached 0.
 ETC_20150317_008788	Stamina Recovery Tip
 ETC_20150317_008789	Destroy Tree Roots Crystals in fields or use Stamina Pills to recover your STA.
 ETC_20150317_008790	Overkill Tip
 ETC_20150317_008791	When the monster is the same level and attack damage is twice the monster's HP, overkill is triggered and you earn bonus EXP.
 ETC_20150317_008792	Rest Mode Tip
-ETC_20150317_008793	Press the Insert key to rest. In rest mode, your HP, SP and STA recovery increases.
+ETC_20150317_008793	Press the Insert key to rest. During Rest Mode your HP, SP and STA recovery increases.
 ETC_20150317_008794	Bonfire Tip
-ETC_20150317_008795	When nearby a bonfire in rest mode, the recovery of all characters resting will increase.
+ETC_20150317_008795	When nearby a bonfire during Rest Mode, the recovery of all characters resting will increase.
 ETC_20150317_008796	Crafting Tip
-ETC_20150317_008797	You can craft items in rest mode if you have the recipes and materials.
+ETC_20150317_008797	You can craft items during Rest Mode if you have the required recipes and materials.
 ETC_20150317_008798	Enhancement Tip
 ETC_20150317_008799	Use the anvil to enhance your weapons and armor to become stronger.
 ETC_20150317_008800	Potential Tip
 ETC_20150317_008801	The Potential of an item decreases by player trading, adding sockets, equipping magic amulets or failing an enhancement.
 ETC_20150317_008802	Chat Window Tip
-ETC_20150317_008803	Press the Enter key to open the chatting window. After you're done chatting, press Enter again to close the window.
+ETC_20150317_008803	Press Enter to open the chatting window. After you're done chatting, press Enter again to close the window.
 ETC_20150317_008804	Megaphone Tip
 ETC_20150317_008805	Entering /y before your chat allows you to broadcast your message. The Megaphone item is required to do so.
 ETC_20150317_008806	Repair Tip
-ETC_20150317_008807	You can repair equipments with low durability through the blacksmiths located in town.
+ETC_20150317_008807	You can repair equipments with low durability through a blacksmith located in the city.
 ETC_20150317_008808	Shop System Tip
-ETC_20150317_008809	You can buy and sell items through the merchants in town.
+ETC_20150317_008809	You can buy and sell items through the merchants located in the city.
 ETC_20150317_008810	Return Tip
-ETC_20150317_008811	You can return to the quest NPC immediately by using the 'Backspace' key or pressing the 'Go back' button.
+ETC_20150317_008811	You can return to the quest NPC immediately by using the 'Backspace' key or pressing the 'Go Back' button.
 ETC_20150317_008812	Attributes Tip
-ETC_20150317_008813	You can learn job-specific attributes from the Master NPCs. Look for the Master NPC's in each area.
+ETC_20150317_008813	You can learn job-specific attributes from the Master NPCs. Look for the Master NPCs in each area.
 ETC_20150317_008814	Shiny Monster Tip
 ETC_20150317_008815	Shiny Monsters can drop items up to more than ten times than normal monsters.
 ETC_20150317_008816	Town Tip
@@ -8887,7 +8887,7 @@ ETC_20150317_008886	Press the Alt key to stop movement immediately.
 ETC_20150317_008887	Press the Space bar key during battle to face the current target.
 ETC_20150317_008888	When boarding the companion, character's stats will increase in proportion to the ability of companion.ETC_20150312_005342
 ETC_20150317_008889	Card Synthesis (Coming Soon)
-ETC_20150317_008890	Arrow crafting skill is required.
+ETC_20150317_008890	Arrow Crafting skill is required.
 ETC_20150317_008891	Set the current equipment level.
 ETC_20150317_008892	Adds 2 item quality levels
 ETC_20150317_008893	Search for a particular level
@@ -10936,8 +10936,8 @@ ETC_20150414_010935	Schwaze Reiters maneuver quickly. They specialize in diverse
 ETC_20150414_010936	Maneuvering Attack
 ETC_20150414_010937	Fletchers make and use special arrows. Various arrows result to powerful attacks depending on the type of enemy and combat situation.
 ETC_20150414_010938	Attack, Craft
-ETC_20150414_010939	Eung-sa
-ETC_20150414_010940	Eung-sa controls the Hawk. Hawks amay be fussy abut they become reliable companions when trained well.
+ETC_20150414_010939	Falconer
+ETC_20150414_010940	The Falconer controls the Hawk. Hawks may be fussy abut they become reliable companions when trained well.
 ETC_20150414_010941	Druids are clerics that use the power of nature. They control the grass to help allies of transform into monsters and use monsters's skill.
 ETC_20150414_010942	Oracles are priests that use foresight. They can predict or interfere with enemy's attacks and determine their fate.
 ETC_20150414_010943	Search Trigger
@@ -10980,7 +10980,7 @@ ETC_20150414_010979	Use Alchemist Attribute
 ETC_20150414_010980	Buy Alchemist Items
 ETC_20150414_010981	Buy Fletcher Items
 ETC_20150414_010982	World Formation
-ETC_20150414_010983	Use Eung-sa Attribute
+ETC_20150414_010983	Use Falconer Attribute
 ETC_20150414_010984	IvnItem:FARM47_1_SQ_060_ITEM_1:1/DoTimeAction:Making meat jerkey:3:MAKING:None
 ETC_20150414_010985	AnimNPC:Local:OPEN:0/Notice:NOTICE_Dm_!:Made jerkey!:3/Sleep:5000/AnimNPC:Local:CLOSE:0/EffectNPC:Local:F_smoke135_dark:2:BOT/GiveItem:FARM47_1_SQ_060_ITEM_2:1/TakeItem:FARM47_1_SQ_060_ITEM_1:1/Property:2/PropertyAdd:1
 ETC_20150414_010986	Stop Rexipher
@@ -11103,14 +11103,14 @@ ETC_20150414_011102	Recipe - Key Pendant
 ETC_20150414_011103	Recipe - Silver Bracelet
 ETC_20150414_011104	Recipe - Superior Pearl Bracelet
 ETC_20150414_011105	Recipe - Rune Bracelet
-ETC_20150414_011106	Eung-sa Advancement
-ETC_20150414_011107	Dispeller craft attribute required.
-ETC_20150414_011108	Craft arrow
-ETC_20150414_011109	Craft Arrow attribute required.
+ETC_20150414_011106	Falconer Advancement
+ETC_20150414_011107	Requires the Dispeller Craft attribute.
+ETC_20150414_011108	Craft Arrow
+ETC_20150414_011109	Requires the Craft Arrow attribute.
 ETC_20150414_011110	Basecamp does not exist.
 ETC_20150414_011111	{Auto_1} required
 ETC_20150414_011112	Cannot install offering box in this area.
-ETC_20150414_011113	New patch available. Client will be restarted for update.
+ETC_20150414_011113	A new patch is available. The client will shutdown for the update.
 ETC_20150414_011114	Only one food distribution table can be installed at once.
 ETC_20150414_011115	Cannot mount on this companion.
 ETC_20150414_011116	Restart from basecamp
@@ -11198,7 +11198,7 @@ ETC_20150414_011197	Cannot set up basecamp in this area.
 ETC_20150414_011198	[Oracle Master]{nl}Apolonjia Barbora
 ETC_20150414_011199	[Warehouse Keeper]{nl} Rita
 ETC_20150414_011200	Mysterious Box of Legwyin Family
-ETC_20150414_011201	Chapel altar
+ETC_20150414_011201	Chapel Altar
 ETC_20150414_011202	TypeB_Controller
 ETC_20150414_011203	Seal Device Controller
 ETC_20150414_011204	Seal Device
@@ -11208,6 +11208,6 @@ ETC_20150414_011207	Small Contageous gap
 ETC_20150414_011208	Unstable Magic circle
 ETC_20150414_011209	Spell device
 ETC_20150414_011210	Body of Pilgrim Mattas ★
-ETC_20150414_011211	[Eung-sa Master]{nl} Genklas Metai
+ETC_20150414_011211	[Falconer Master]{nl} Genklas Metai
 ETC_20150414_011212	Search Skill Trigger
 
