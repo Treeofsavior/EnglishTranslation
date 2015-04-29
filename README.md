@@ -1,6 +1,6 @@
-##NOTICE (Updated 04-20-2015)
+##NOTICE (Updated 04-29-2015)
 
-1. Translation files have been updated. Some lines have been added or removed. **(NEW)**
+1. Translation files have been updated. **(NEW)**
 
 2. Scroll down for a preview of how real-time translation works in game! 
 
