@@ -1679,9 +1679,9 @@ ETC_20150317_001678
 ETC_20150317_001679	You do not have enough Potential to enhance this item
 ETC_20150317_001680	This item cannot be enhanced
 ETC_20150317_001681	Can no longer be enhanced
-ETC_20150317_001682	Only enhancement potential is 0 item can craft.
-ETC_20150317_001683	If the enhancement potential is less 0 can be destroyed.
-ETC_20150317_001684	{s18}{ol} If fail the item enhancement of armors, bracelets, necklaces more than {#ffffcc}+{Auto_1} level then the potential will be consumed and Item is destroyed if potential is zero. Do you want to enhance?
+ETC_20150317_001682	Only items with a Potential of over 0 can be enhanced.
+ETC_20150317_001683	If the Potential falls below 0, the item will be destroyed.
+ETC_20150317_001684	{s18}{ol}If the enhancement of armor, bracelets or necklaces above level {#ffffcc}+{Auto_1} fails, its Potential will be consumed. When the Potential falls below 0, the item will be destroyed. Do you want to enhance?
 ETC_20150317_001685	New Enhancement
 ETC_20150317_001686	The item was successfully enhanced
 ETC_20150317_001687	The item failed to enhance
@@ -1693,17 +1693,17 @@ ETC_20150317_001692	Re-enhance
 ETC_20150317_001693	Click an item to enhance
 ETC_20150317_001694	Enhancement Succeeded!!!
 ETC_20150317_001695	Enhancement Failed!!!
-ETC_20150317_001696	No empty socket matching the type
-ETC_20150317_001697	Please drag the item to enhance
+ETC_20150317_001696	No empty socket matching this type
+ETC_20150317_001697	Please drag the item you wish to enhance
 ETC_20150317_001698	Card Enhancement
 ETC_20150317_001699	Gem Enhancement
 ETC_20150317_001700	You cannot mount any more.
 ETC_20150317_001701	The item has been destroyed due to death penalty.
 ETC_20150317_001702	Enhance
-ETC_20150317_001703	{s18}{ol} If fail the item enhancement of weapons more than {#ffffcc}+{Auto_1} level then the potential will be consumed and Item is destroyed if potential is zero. Do you want to enhance?
+ETC_20150317_001703	{s18}{ol}If the enhancement of weapons above level {#ffffcc}+{Auto_1} fails, its Potential will be consumed. When the Potential falls below 0, the item will be destroyed. Do you want to enhance?
 ETC_20150317_001704	Use the {Auto_1} item to start crafting. Do you want to continue?
 ETC_20150317_001705	{@st42) When crafting
-ETC_20150317_001706	Your movement has cancelled the crafting of the item.
+ETC_20150317_001706	Your movement has cancelled the crafting process.
 ETC_20150317_001707	Crafting Completed!
 ETC_20150317_001708	The name of the crafted item can be up to {Auto_1} characters.
 ETC_20150317_001709	The memo of the crafted item can be up to {Auto_1} characters.
@@ -1711,10 +1711,10 @@ ETC_20150317_001710	Tree
 ETC_20150317_001711	Quest
 ETC_20150317_001712	Weapon
 ETC_20150317_001713	Armor
-ETC_20150317_001714	Two-handed Sword
+ETC_20150317_001714	Two-Handed Sword
 ETC_20150317_001715	Bow
-ETC_20150317_001716	Catapult
-ETC_20150317_001717	One-handed Sword
+ETC_20150317_001716	Crossbow
+ETC_20150317_001717	One-Handed Sword
 ETC_20150317_001718	Cane
 ETC_20150317_001719	Blunt
 ETC_20150317_001720	ETC
