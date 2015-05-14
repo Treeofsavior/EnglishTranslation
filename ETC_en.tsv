@@ -1501,7 +1501,7 @@ ETC_20150317_001500	You do not have enough players to start the mission.
 ETC_20150317_001501	This warp location has been successfully saved.
 ETC_20150317_001502	This warp point has already been saved.
 ETC_20150317_001503	The server end is not completed {nl}or you have logged in from another computer. {nl}End the connection.
-ETC_20150317_001504	When you delete the character,{nl} the equipped item will also be deleted.{nl} Are you sure you want to delete?
+ETC_20150317_001504	When you delete the character,{nl} all equipped items will also be deleted.{nl} Are you sure you want to delete?
 ETC_20150317_001505	New job has been added.
 ETC_20150317_001506	{Auto_1} {Auto_2} item(s) obtained.
 ETC_20150317_001507	Disconnected with mission server.
@@ -1512,13 +1512,13 @@ ETC_20150317_001511	You have exceeded the number of players for the team.
 ETC_20150317_001512	Currently I chose Zone waypoint
 ETC_20150317_001513	You cannot create room as the level does not match the level requirement of the game.
 ETC_20150317_001514	{s18}{ol}{#ffffcc} Reached the maximum number of characters capable of producing {nl} To create a new character, you must delete the existing character
-ETC_20150317_001515	You do no thave enough character points.{nl}You can earn character points through quests or missions.
+ETC_20150317_001515	You do no have enough character points.{nl}You can earn character points through quests or missions.
 ETC_20150317_001516	Leader is unable to learn this stance. {nl}Please check available job to obtain the stance in Stance promotion description.
 ETC_20150317_001517	The stance has already been obtained.
 ETC_20150317_001518	You cannot use the stance yet.
-ETC_20150317_001519	You have tried to connect to a server which is not registered.{nl}Please ask the publisher.
+ETC_20150317_001519	You have tried to connect to a server which is not registered.{nl}Please contact the publisher.
 ETC_20150317_001520	Please enter your account ID
-ETC_20150317_001521	{S18}{ol}{#ffffcc} Please enter the account password
+ETC_20150317_001521	{S18}{ol}{#ffffcc} Please enter your account password
 ETC_20150317_001522	You cannot move to another channel now.
 ETC_20150317_001523	You cannot build a structure near another structure.
 ETC_20150317_001524	You cannot add a new buddy because your buddy list is full.
@@ -1538,7 +1538,7 @@ ETC_20150317_001537	This place, please move to the herbivorous you will not be a
 ETC_20150317_001538	{Auto_2} recovery will be completed after {Auto_1} seconds
 ETC_20150317_001539	You cannot receive basic items because your inventory is full.
 ETC_20150317_001540	Account ID can not contain spaces
-ETC_20150317_001541	Because there is no proper equipment, you will not be able to use the skills
+ETC_20150317_001541	Because there is no proper equipment, you will not be able to use these skills
 ETC_20150317_001542	Out of the range distance of herbivorous subject
 ETC_20150317_001543	You cannot use it yet
 ETC_20150317_001544	Cannot create anymore
@@ -1553,7 +1553,7 @@ ETC_20150317_001552	Cannot be used while moving
 ETC_20150317_001553	Outside of the field of view
 ETC_20150317_001554	You don't have sufficient HP
 ETC_20150317_001555	{Auto_1} Buff needed
-ETC_20150317_001556	Can be used only during non-combat status
+ETC_20150317_001556	Can only be used outside of combat. 
 ETC_20150317_001557	Cannot be used in current status
 ETC_20150317_001558	{S20}{ol}{#ffffcc}{gr gradation1} You need to get a little closer {/}
 ETC_20150317_001559	Password exceeds the maximum length allowed
@@ -1564,15 +1564,15 @@ ETC_20150317_001563	Used {Auto_1} {Auto_2} item(s)
 ETC_20150317_001564	Equipped with {Auto_1}
 ETC_20150317_001565	Destroyed {Auto_1} {Auto_2} items(s)
 ETC_20150317_001566	Gained {Auto_1} EXP
-ETC_20150317_001567	Herbivorous has been canceled because of the move
+ETC_20150317_001567	Herbivorous has been canceled due to movement.
 ETC_20150317_001568	Strength is insufficient
 ETC_20150317_001569	Starting map not available.
 ETC_20150317_001570	Request Failed
 ETC_20150317_001571	The character who is the party leader cannot be deleted.
 ETC_20150317_001572	Create Character
-ETC_20150317_001573	You need to learn the required attributes to use the weapon.
+ETC_20150317_001573	You need to learn the required attributes to use this weapon.
 ETC_20150317_001574	Item purchased
-ETC_20150317_001575	Failed to purchase item! The item is sold out
+ETC_20150317_001575	Failed to purchase item! It has already been sold out.
 ETC_20150317_001576	Failed to purchase item! There is not enough quantity available. Available quantity is {Auto_1}
 ETC_20150317_001577	Failed to purchase item! You have insufficient funds.
 ETC_20150317_001578	Failed to purchase item! Seller has cancelled or has removed it from the list.
