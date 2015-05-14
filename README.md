@@ -1,14 +1,12 @@
-##NOTICE (Updated 04-29-2015)
+##NOTICE (Updated 05-14-2015)
 
 1. Translation file list have been updated. **(NEW)**
 
 2. Scroll down for a preview of how real-time translation works in game! 
 
-3. [**Wiki**](https://github.com/Treeofsavior/EnglishTranslation/wiki) has been updated with new names for NPCs and sub-areas. 
+3. We'd like to hear from you! Please send us your feedbacks and suggestions through the issue [**here**](https://github.com/Treeofsavior/EnglishTranslation/issues/308)[**Wiki**](https://github.com/Treeofsavior/EnglishTranslation/wiki) has been updated with new names for NPCs and sub-areas. 
 
-4. We'd like to hear from you! Please send us your feedbacks and suggestions through the issue [**here**](https://github.com/Treeofsavior/EnglishTranslation/issues/60)
-
-5. Be sure to take a look at the [**Wiki**](https://github.com/Treeofsavior/EnglishTranslation/wiki) page for guides and reminders before sending us your translations.
+4. Be sure to take a look at the [**Wiki**](https://github.com/Treeofsavior/EnglishTranslation/wiki) page for guides and reminders before sending us your translations.
 
 <center><img src="https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-xap1/v/t1.0-9/969383_419497041509849_21485321_n.jpg?oh=0a0920080697b6fbb91c626ff5ed9aef&oe=55BDD765&__gda__=1434192791_d222694d664092275371caeb98405af5"/></center>
 # Tree of Savior Open Text Client (OTC)   
