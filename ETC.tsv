@@ -5771,27 +5771,27 @@ ETC_20150317_005770	Defense has increased.
 ETC_20150317_005771	Movement Speed has increased.
 ETC_20150317_005772	Attack has increased.
 ETC_20150317_005773	Armor
-ETC_20150317_005774	All damage received will reflect 20% back to the attacker.
-ETC_20150317_005776	Creates a protective barrier that blocks incoming attacks within a set period of time.
+ETC_20150317_005774	All damage received will temporarily reflect 20% back to the attacker.
+ETC_20150317_005776	Creates a protective barrier that temporarily blocks all incoming damage.
 ETC_20150317_005777	Movement Speed has decreased.
 ETC_20150317_005778	Attack Decrease
 ETC_20150317_005779	Attack has decreased.
 ETC_20150317_005780	Rage of Helgacercle
-ETC_20150317_005781	Increase in defense
+ETC_20150317_005781	Defense increased
 ETC_20150317_005782	Rage of Arkon
 ETC_20150317_005783	Stickiness
 ETC_20150317_005784	Movement Speed has decreased due to stickiness.
 ETC_20150317_005785	In a state of rage. Your defense has increased.
 ETC_20150317_005786	Enhance Defense
 ETC_20150317_005787	Temporarily increases your defense.
-ETC_20150317_005788	Enhance Movement Speed
+ETC_20150317_005788	Increase Movement Speed
 ETC_20150317_005789	Temporarily increases your movement speed.
 ETC_20150317_005790	Return
 ETC_20150317_005791	Crystal Thorn
 ETC_20150317_005792	Continuous Recovery
 ETC_20150317_005793	HP recovers by 20% every 10 seconds.
 ETC_20150317_005794	Defense Max
-ETC_20150317_005795	Attack Max
+ETC_20150317_005795	Max Attack
 ETC_20150317_005796	Strength Decrease
 ETC_20150317_005797	Your strength has decreased.
 ETC_20150317_005798	Slowed movement and mental strength is reduced.
@@ -5799,7 +5799,7 @@ ETC_20150317_005799	Poison Cloud
 ETC_20150317_005800	A state of continuous equipment damage.
 ETC_20150317_005801	Poison Cloud.
 ETC_20150317_005802	Blood Dots Stimulation
-ETC_20150317_005803	Defense power was reduced but attack power increased.
+ETC_20150317_005803	Defense was reduced but Attack has increased
 ETC_20150317_005804	Great Item
 ETC_20150317_005805	Catch the great item
 ETC_20150317_005806	Apply Poison
@@ -5811,14 +5811,14 @@ ETC_20150317_005811	Fury
 ETC_20150317_005812	Attack is increased by 100%.{nl}Immune to knockback and knockdown.
 ETC_20150317_005813	Revenge
 ETC_20150317_005814	Counter attack is possible.
-ETC_20150317_005815	Movement Speed decrease by 50%
+ETC_20150317_005815	Movement Speed has decreased by 50%
 ETC_20150317_005816	Cannot Attack
 ETC_20150317_005817	Shock
-ETC_20150317_005818	Defense decreased, Movement Speed decreased
+ETC_20150317_005818	Defense and Movement Speed has decreased
 ETC_20150317_005819	Exhaust
 ETC_20150317_005820	I have used up all of my strength, I should rest. My defense has also dropped.
 ETC_20150317_005821	Invincibility
-ETC_20150317_005822	You are using the Invincibility skill. You cannot attack a monster.
+ETC_20150317_005822	You temporarily become invincible, but cannot execute any attacks.
 ETC_20150317_005823	Kubus
 ETC_20150317_005824	Kubus : Flame
 ETC_20150317_005825	Fire attribute resistance of Kubus will rise.
@@ -5858,7 +5858,7 @@ ETC_20150317_005858	Transpose Buff
 ETC_20150317_005859	Convert monster's HP into attack
 ETC_20150317_005860	During throw
 ETC_20150317_005861	During throw
-ETC_20150317_005862	A state of continuous flame damage.
+ETC_20150317_005862	Receiving continuous damage
 ETC_20150317_005863	HP Restricted
 ETC_20150317_005864	Poison Bleeding
 ETC_20150317_005865	Create Poison Field
@@ -5892,7 +5892,7 @@ ETC_20150317_005892	Detailed Description
 ETC_20150317_005893	Additional description of the image
 ETC_20150317_005894	Basic Functions
 ETC_20150317_005895	Movement
-ETC_20150317_005896	By using the arrow keys, you can freely move to any direction.
+ETC_20150317_005896	By using the arrow keys, you can freely move in any direction.
 ETC_20150317_005897	Arrow Keys
 ETC_20150317_005898	are used to move you character. {nl} {img arrowkey_up 40 40} {img arrowkey_down 40 40} {img arrowkey_left 40 40} {img arrowkey_right 40 40}
 ETC_20150317_005899	combinations can enable you to move diagonally. {nl} {img arrowkey_up 40 40} {img arrowkey_down 40 40} {img arrowkey_left 40 40} {img arrowkey_right 40 40}
@@ -5909,8 +5909,8 @@ ETC_20150317_005909	You can check your current location and important areas usin
 ETC_20150317_005910	You can check your current location by pressing {img M 40 40}.{nl} {nl}
 ETC_20150317_005911	{nl} {nl}The minimap icon displays the information of your current location in the area {nl} Show NPC {nl}{img minimap_leader 25 25} : This icon displays your current location. {nl}{img minimap_1_MAIN 25 25} : It displays the target area of a quest in progress. {nl}{img minimap_0 25 25} : It displays the location of important NPCs in the current area. {nl}{img minimap_goddess 25 25} : It displays the warp device in the current area. {nl}{img minimap_board 25 25} : This bulletin board displays the important imformation in the current area. {nl}{img minimap_portal 25 25} : It displays the path to move the other area.{nl} {nl}
 ETC_20150317_005912	The area never went is not displayed in map.
-ETC_20150317_005913	The completed area of exploration is displayed in map.
-ETC_20150317_005914	You can check the World Map by pressing {img N 40 40}.{nl} The area never went will not be displayed, but the completed area of exploration is displayed in World Map.
+ETC_20150317_005913	Only discovered areas are displayed on the map.
+ETC_20150317_005914	You can check the World Map by pressing {img N 40 40}.{nl} Only discovered areas are displayed on the map.
 ETC_20150317_005915	You can check the map of relevant area to drag mouse to the activated area.
 ETC_20150317_005916	Basic Info
 ETC_20150317_005917	Inventory
