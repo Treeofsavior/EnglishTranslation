@@ -4267,15 +4267,15 @@ ETC_20150317_004266	Moni
 ETC_20150317_004267	You can use the key
 ETC_20150317_004268	You can use your skills
 ETC_20150317_004269	Space bar \
-ETC_20150317_004270	{@st41}Dialog start key {/}
+ETC_20150317_004270	{@st41} Dialog start key {/}
 ETC_20150317_004271	{@st41} Movement Direction {/}
 ETC_20150317_004272	{@st41} Attack{/}
 ETC_20150317_004273	{@st41} Jump {/}
 ETC_20150317_004274	{@st41} Diagonal Movement {/}
 ETC_20150317_004275	{@st41} Use together! {/}
-ETC_20150317_004276	{@st59}Although party player away from us, It does not disappear from the list {/}
+ETC_20150317_004276	{@st59} Even if a party member is far away, it won't disappear from the party list{/}
 ETC_20150317_004277	{@st59}If the state of quest proceeds is same with party, then share the quest{nl} This function will be activated when you check both character options. {/}
-ETC_20150317_004278	{@st59} The experience of hunting is shared with party{/}This function will be activated when you check both character options. {/}
+ETC_20150317_004278	{@st59} Experience from killing monsters is shared between party members. {/}To enable this feature, all party members must activate it in the options. {/}
 ETC_20150317_004279	Please select one or more conditions.
 ETC_20150317_004280	{Auto_1}{nl} if meet the rules, then apply the following rules
 ETC_20150317_004281	Please enter a value.
@@ -4285,20 +4285,20 @@ ETC_20150317_004284	{A TOGGLE_PCMACRO_COND}{ul} and {/}{/}
 ETC_20150317_004285	Please select the operation of one or more.
 ETC_20150317_004286	Please enter a name for the rule one or more characters.
 ETC_20150317_004287	[{Auto_1}]: This rule name is already exists.
-ETC_20150317_004288	{s22} Do you want to really give up the request?
+ETC_20150317_004288	{s22} Do you really want to abandon this quest?
 ETC_20150317_004289	{s22} This quest is not progress.
-ETC_20150317_004290	{nl} {nl}{s18}{ol}{#ffffcc} Really {@st41}[{Auto_1}]{/}{s18}{ol}{#ffffcc} Do want to give up the quest? {nl}You cannot restart after giving up the quest.
-ETC_20150317_004291	{nl} {nl}{s18}{ol}{#ffffcc} Really {@st41} [{Auto_1}] {/}{s18}{ol}{#ffffcc} Do you want to give up the quest?
-ETC_20150317_004292	{@st59} Once check, A quest notification menu should appear at right of screen{nl} Quest Notification menu is available to register up to 5 {/}
+ETC_20150317_004290	{nl} {nl}{s18}{ol}{#ffffcc} Really {@st41}[{Auto_1}]{/}{s18}{ol}{#ffffcc} Do you really want to abandon this quest? {nl}The quest can no longer be restarted after abandoning. 
+ETC_20150317_004291	{nl} {nl}{s18}{ol}{#ffffcc} Really {@st41} [{Auto_1}] {/}{s18}{ol}{#ffffcc} Do you really want to abandon this quest?
+ETC_20150317_004292	{@st59} Once checked, a quest tracker will appear on the right{nl} Up to 5 quests can be enabled at once {/}
 ETC_20150317_004293	Available{/}
 ETC_20150317_004294	In progress {/}
 ETC_20150317_004295	Get rewarded {/}
-ETC_20150317_004296	{@st43} Carry out missions
+ETC_20150317_004296	{@st43} Carry out the mission
 ETC_20150317_004297	{@st41} Reward(s)
 ETC_20150317_004298	{@st41b} Experience :
 ETC_20150317_004299	{@st41} Required item
 ETC_20150317_004300	{@st45tw} Forfeit
-ETC_20150317_004301	Do you want to move {nl} the area?
+ETC_20150317_004301	Do you want to move {nl} to this area?
 ETC_20150317_004302	{Auto_1} buff (completed)
 ETC_20150317_004303	{Auto_1} buff
 ETC_20150317_004304	{Auto_1} (Not installed)
@@ -4313,7 +4313,7 @@ ETC_20150317_004312	{@st41} repeat quests finalized {/}
 ETC_20150317_004313	{@st41} Select a reward
 ETC_20150317_004314	{@st41} Reward(s) {/}
 ETC_20150317_004315	{s16} {ol} {Auto_1} {Auto_2} ea
-ETC_20150317_004316	{@st41b} Increase of select number
+ETC_20150317_004316	{@st41b} Increase selected number
 ETC_20150317_004317	(NXP {Auto_1} consumption)
 ETC_20150317_004318	Total Price: {Auto_1}
 ETC_20150317_004319	Learn
@@ -4338,9 +4338,9 @@ ETC_20150317_004337	's Bulletin Board
 ETC_20150317_004338	Reset Ability Points
 ETC_20150317_004339	NXP is required.{nl}Are you sure you want to reset?
 ETC_20150317_004340	{@st59} Increased Physical Attack and Critical Attack{/}
-ETC_20150317_004341	{@st59} Increased HP, HP Recovery rate, Critical Resistance and Max Inventory Slot{/}
+ETC_20150317_004341	{@st59} Increased HP, HP Recovery rate, Critical Resistance and Max Inventory Slots{/}
 ETC_20150317_004342	{@st59} Increased Magic Damage and Block Penetration{/}
-ETC_20150317_004343	{@st59} Increased Accuracy, Evasion and Critical {/}
+ETC_20150317_004343	{@st59} Increased Accuracy, Evasion and Critical Attack {/}
 ETC_20150317_004344	] Do you want to use this card?
 ETC_20150317_004345	Distance
 ETC_20150317_004346	{s16}{ol} Defense {/}{/}{/}{nl}{s18}{ol}
@@ -4353,11 +4353,11 @@ ETC_20150317_004352	This name is already taken
 ETC_20150317_004353	Please enter a log
 ETC_20150317_004354	Please enter a log
 ETC_20150317_004355	Author : {Auto_1}{nl} Date : Value of {Auto_2}{nl} [{Auto_3}{Auto_4}{/}] change to {nl} [{Auto_5}{Auto_6}{/}] -> [{Auto_7}{ Auto_8}{/}] {nl}{nl}{#ffFF00} log {/}{nl}{Auto_9}
-ETC_20150317_004356	The value number has saved.
-ETC_20150317_004357	Walking speed
+ETC_20150317_004356	The number value was saved.
+ETC_20150317_004357	Walking Speed
 ETC_20150317_004358	Run Speed
 ETC_20150317_004359	Fixed Speed
-ETC_20150317_004360	{@st42b}{#FFFF00} Change the angle by a mouse click {/}
+ETC_20150317_004360	{@st42b}{#FFFF00} Left-click to change the angle {/}
 ETC_20150317_004361	{@st42} Move :(Control + Drag), Delete (Right-click){/}
 ETC_20150317_004362	{@st42b} Please enter a location name {/}
 ETC_20150317_004363	{@st42b} This name is already taken{/}
@@ -4372,8 +4372,8 @@ ETC_20150317_004371	{@st42b} Delete Range {/}
 ETC_20150317_004372	{@st42b} Remove {/}
 ETC_20150317_004373	{@st42b} Visit {/}
 ETC_20150317_004374	There is no GenType
-ETC_20150317_004375	Appoint Fixed skills
-ETC_20150317_004376	Remove fixed Skills
+ETC_20150317_004375	Appoint fixed skills
+ETC_20150317_004376	Remove fixed skills
 ETC_20150317_004377	{@st42b} Drag a zen type {/}
 ETC_20150317_004378	Menu
 ETC_20150317_004379	Change the number
@@ -4390,7 +4390,7 @@ ETC_20150317_004389	Happen Error
 ETC_20150317_004390	There is no node information
 ETC_20150317_004391	The total count in the buff :
 ETC_20150317_004392	Advancement Quest of job.xml is not set up(None)
-ETC_20150317_004393	No socket or being used
+ETC_20150317_004393	There's no socket or it's currently being used
 ETC_20150317_004394	Missing rank.
 ETC_20150317_004395	N/A
 ETC_20150317_004396	Obtained Attribute Point
@@ -4414,15 +4414,15 @@ ETC_20150317_004413	Delay :
 ETC_20150317_004414	Stand by NPC creation
 ETC_20150317_004415	It disappear after 120 seconds of NPC creation
 ETC_20150317_004416	Coordinates :
-ETC_20150317_004417	Dangerous soul
+ETC_20150317_004417	Dangerous Soul
 ETC_20150317_004418	You cannot rest Sequoio to be damaged!
-ETC_20150317_004419	I am not going to let you to mess up!
+ETC_20150317_004419	I am not gonna let you mess this up!
 ETC_20150317_004420	Thanks for your help ...
 ETC_20150317_004421	Guards of Vacenin
 ETC_20150317_004422	Captured Souls
 ETC_20150317_004423	Please lead me to the Goddess!
 ETC_20150317_004424	Wake up!
-ETC_20150317_004425	We didn't know that the demon came here again!
+ETC_20150317_004425	We didn't know that the demon has returned!
 ETC_20150317_004426	Why do you not help us?
 ETC_20150317_004427	How can we wake this guy up?
 ETC_20150317_004428	Soldier's Soul
