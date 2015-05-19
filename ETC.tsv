@@ -5914,13 +5914,13 @@ ETC_20150317_005914	You can check the World Map by pressing {img N 40 40}.{nl} O
 ETC_20150317_005915	You can check the map of relevant area to drag mouse to the activated area.
 ETC_20150317_005916	Basic Info
 ETC_20150317_005917	Inventory
-ETC_20150317_005918	You can check the items and materials you own, the weight, and equipped items through your inventory.
+ETC_20150317_005918	Your inventory displays items and materials you own, currently equipped items and its weight.
 ETC_20150317_005919	You can open the inventory window by pressing {img F2 40 40}.
 ETC_20150317_005920	{nl} {nl}The upper row of your inventory displays the variety of equipped items on your character. 
 ETC_20150317_005921	{nl} {nl}The middle row of your inventory displays items.{nl}These items are displayed by different categories.{nl} {nl}
-ETC_20150317_005922	{nl} {nl}The bottom row of your inventory displays the total weight of the items and the medals and silver you own..{nl} {nl}
+ETC_20150317_005922	{nl} {nl}The bottom row of your inventory displays the total weight of your items and the medals and silver you own.{nl} {nl}
 ETC_20150317_005923	You can check the information on your quests through the quest window.
-ETC_20150317_005924	Press {img F5 40 40} key to view the list of quests in progress. {nl} {nl}
+ETC_20150317_005924	Press the {img F5 40 40} key to view the list of quests in progress. {nl} {nl}
 ETC_20150317_005925	{nl} {nl} Quest Status {nl} {img minimap_1_MAIN 24 24}: Main Quest Available {nl} {img minimap_2_MAIN 24 24}: Main Quest In Progress {nl} {img minimap_3_MAIN 24 24}: Main Quest Completed {nl} {img minimap_1_SUB 24 24}: Subquest Available {nl} {img minimap_2_SUB 24 24}: Subquest In Progress {nl} {img minimap_3_SUB 24 24}: Subquest Completed { nl} {nl}
 ETC_20150317_005926	Select the quest to view detailed quest information.
 ETC_20150317_005927	If the Forfeit button is prompted, you can
@@ -5932,14 +5932,14 @@ ETC_20150317_005932	the quest immediately by using the Restart button. {nl} {nl}
 ETC_20150317_005933	You can manage the skills of your character through the skill window.
 ETC_20150317_005934	You can open the skill window by pressing {img F3 40 40}.
 ETC_20150317_005935	Click the {img skillup 40 40} button to raise the level of a skill.
-ETC_20150317_005936	The level of your skill will increase after you clicked on 'Apply'.
-ETC_20150317_005937	Skills that you have learnt will be added to the keyboard slot.
+ETC_20150317_005936	The level of your skill will increase after you click on 'Apply'.
+ETC_20150317_005937	Skills that you have learned will be added to the keyboard slot.
 ETC_20150317_005938	Learn attributes from Master NPCs to make your character stronger.
 ETC_20150317_005939	You can learn the attributes from a Master NPC of each class.
 ETC_20150317_005940	{nl} {nl} You need silver to learn attributes. Also, each attribute requires time to master. {nl} {nl}
-ETC_20150317_005941	You can use attributes when it is complete mastering it.
-ETC_20150317_005942	{nl} {nl} Attributes are automatically registered when you start learning. You cannot learn new attributes until you finish mastering attribute.{nl} {nl}
-ETC_20150317_005943	{nl} {nl} You can check the attributes that you mastered at the bottom of the skill window. {nl} {nl}
+ETC_20150317_005941	Attributes can be used after they have been mastered.
+ETC_20150317_005942	{nl} {nl} Attributes are automatically registered when you start learning. Only one attribute can be trained at the same time.{nl} {nl}
+ETC_20150317_005943	{nl} {nl} Attributes you have already mastered can be found at the bottom of the skill window. {nl} {nl}
 ETC_20150317_005944	{nl} {nl} Attributes can be enabled or disabled depending on the situation. {nl} {nl}
 ETC_20150317_005945	Adventure Journal
 ETC_20150317_005946	You can check the progress of your game and character rankings through the Adventure Journal.
@@ -5947,12 +5947,12 @@ ETC_20150317_005947	Press {img F4 40 40} to open the Adventure Journal window.
 ETC_20150317_005948	{nl} {nl}You can check the updated score and ranking of each group in the Adventure Journal.{nl} {nl}
 ETC_20150317_005949	The achievement of adventure journal is placed at city
 ETC_20150317_005950	Bybora's Wings
-ETC_20150317_005951	You can get from the NPC.
-ETC_20150317_005952	You can make a party and play with the other player.
+ETC_20150317_005951	You can get this from an NPC.
+ETC_20150317_005952	You can create a party to play with other players.
 ETC_20150317_005953	Approach the character to make a party and left click of mouse
 ETC_20150317_005954	Party Invite
 ETC_20150317_005955	You can create a party to select.
-ETC_20150317_005956	Creating a party is only possible when you aren't in a party.{nl} A party will be automatically created after the other player accept the party invite.
+ETC_20150317_005956	Creating a party is only possible when you aren't in a party.{nl} A party will be automatically created after the other player accepts the party invite.
 ETC_20150317_005957	Click the party's portrait of the left top in order to see the information of the invited character
 ETC_20150317_005958	Party Info
 ETC_20150317_005959	You can check it with
@@ -5965,7 +5965,7 @@ ETC_20150317_005965	If you want to leave a party
 ETC_20150317_005966	Can leave the party to select.
 ETC_20150317_005967	Combat
 ETC_20150317_005968	Monster Info
-ETC_20150317_005969	When you are nearby a monster, you can check its monster info.
+ETC_20150317_005969	Displays a nearby monster's information
 ETC_20150317_005970	The monster's level, name and its HP can be viewed through the Monster Info window.
 ETC_20150317_005971	Certain classes have access to additional information on monsters.
 ETC_20150317_005972	Consumed HP/SP/Stamina can be recovered through the following options.
@@ -5975,34 +5975,34 @@ ETC_20150317_005975	HP Recovery rate
 ETC_20150317_005976	Proportional recovering
 ETC_20150317_005977	Spontaneous Recovery is slow compared to other recovery methods, but it does not require the player to do anything.
 ETC_20150317_005978	[Potion Recovery] : Recover HP/SP/Stamina immediately using potions.
-ETC_20150317_005979	Potions have cooldown times before you can re-use.
+ETC_20150317_005979	Potions have a cooldown timer before they can be re-used.
 ETC_20150317_005980	[Tree Root Crystal] : Destroy Tree Root Crystals to recover Stamina.
 ETC_20150317_005981	Tree Root Crystals are randomly generated around the field.
 ETC_20150317_005982	[Rest Mode] : Using the bonfire during Rest Mode speeds up your recovery.
 ETC_20150317_005983	Recovery during Rest Mode is faster than Spontaneous Recovery, and it is even faster if you use a bonfire during Rest Mode.
 ETC_20150317_005984	Overkill will be activated if you kill the monster with a strong finish.
-ETC_20150317_005985	Overkill will be activated if you make the more damage to use a strong finish compared to the rest of monsters's HP.
+ETC_20150317_005985	Overkill will be activated if you do more damage with a powerful attack to a monster than its remaining HP.
 ETC_20150317_005986	Destroying a Tree Root Crystal recovers your Stamina.
 ETC_20150317_005987	There are many Tree Root Crystals in every field.
 ETC_20150317_005988	The Stamina of all the players around you will be replenished if you destroy the Tree Root Crystals.
 ETC_20150317_005989	Overheat
-ETC_20150317_005990	The particulary skills make the overheat when used over a certain number of times.
+ETC_20150317_005990	Some particular skills may overheat when used over a certain number of times.
 ETC_20150317_005991	If Overheat is triggered, cooldown time occurs in that skill and you will not be able to use it for a while.
-ETC_20150317_005992	The Overheat will happen when the gage of bottom on icon is charged.
-ETC_20150317_005993	You can make a power attack to use with mixed the skills to avoid making overheat.
+ETC_20150317_005992	Overheat will trigger when the gauge icon on the bottom is fully charged.
+ETC_20150317_005993	To prevent skills from overheating, you can alternate between using power attacks and basic attacks.
 ETC_20150317_005994	Overheat can be suppressed to use many skills.
-ETC_20150317_005995	Once happened overheat then you can use the relevant skill for a while.
+ETC_20150317_005995	Once overheated, you won't be able to use the affected skill for a while.
 ETC_20150317_005996	The used number of relevant skill will be initialize after a while.
 ETC_20150317_005997	Item Crafting
-ETC_20150317_005998	You can make useful items if you have the recipe.
-ETC_20150317_005999	will automatically add craftable items.
-ETC_20150317_006000	You can get the recipes by killing monsters, trading with merchants, or completing quests.
+ETC_20150317_005998	You can craft useful items if you have the required recipes.
+ETC_20150317_005999	Using a recipe will automatically add it to the list of craftable items.
+ETC_20150317_006000	You can acquire recipes by killing monsters, trading with merchants, or completing quests.
 ETC_20150317_006001	{nl} {nl} To begin crafting, press {img insert 40 40} to switch to Rest Mode and then press
-ETC_20150317_006002	button to start crafting.
+ETC_20150317_006002	the button to start crafting.
 ETC_20150317_006003	You can begin crafting only when you have all the necessary materials.
-ETC_20150317_006004	If you have all the materials in your inventory, press
-ETC_20150317_006005	button to proceed with item crafting.
-ETC_20150317_006006	The item wil appear in your inventory when crafting is successful.
+ETC_20150317_006004	If you have all the required materials in your inventory, press
+ETC_20150317_006005	the button to proceed with item crafting.
+ETC_20150317_006006	The item will appear in your inventory when crafting is successful.
 ETC_20150317_006007	Shop System
 ETC_20150317_006008	You can buy and sell items through the merchant NPCs.
 ETC_20150317_006009	You can find merchant NPCs around the city
@@ -6012,9 +6012,9 @@ ETC_20150317_006012	Hold down {img Shift 45 45} and right-click to trade multipl
 ETC_20150317_006013	Items sold in the store can be bought back.
 ETC_20150317_006014	{nl} {nl} Buy back items sold by mistake by right-clicking on the item. {nl} {nl}
 ETC_20150317_006015	Ability Point
-ETC_20150317_006016	Use Ability Points (AP) obtained by leveling up, into stats of your character to progress.
+ETC_20150317_006016	Use Ability Points (AP) obtained by leveling up to increase your character's stats.
 ETC_20150317_006017	Press {img F1 40 40} to open your character's info to check your current progress.
-ETC_20150317_006018	Use Ability Points to increase STR/CON/INT/SPR/DEX to let your character grow. {nl} {nl} STR: Increase in Physical Attack and Critical Attack {nl} {nl} CON: Increase in max HP, HP Recovery, Block, Critical Resistance and max Inventory Weight {nl} {nl} INT: Increase in Magic Attack and Block Penetration {nl} {nl} SPR: Increase in max SP and SP Recovery {nl} {nl} DEX: Increase in Accuracy, Evasion and Critical Chance {nl}
+ETC_20150317_006018	Use Ability Points to increase STR/CON/INT/SPR/DEX to make your character stronger. {nl} {nl} STR: Increases Physical Attack and Critical Attack {nl} {nl} CON: Increases max HP, HP Recovery, Block, Critical Resistance and max Inventory Weight {nl} {nl} INT: Increases Magic Attack and Block Penetration {nl} {nl} SPR: Increases max SP and SP Recovery {nl} {nl} DEX: Increases Accuracy, Evasion and Critical Chance {nl}
 ETC_20150317_006019	When distributing Ability Points, you can upgrade the corresponding abilities.
 ETC_20150317_006020	You can preview the effects of an ability when you d
 ETC_20150317_006021	in the information tab.
@@ -6025,24 +6025,24 @@ ETC_20150317_006025	Goddess Statues in cities
 ETC_20150317_006026	or
 ETC_20150317_006027	enables you to warp to other areas.
 ETC_20150317_006028	Approach the Statue to activate it.
-ETC_20150317_006029	You can warp to activated areas through Goddess Vakarine Statue.
+ETC_20150317_006029	You can warp to activated areas using the Goddess Vakarine Statue.
 ETC_20150317_006030	Also, using the Warp Scroll will enable you to use the warp function immediately.
-ETC_20150317_006031	When you use the Warp Scroll, areas you can move to are limited to areas where the Statue is activated.
-ETC_20150317_006032	Using the Warp Scroll again will move you to your last location.
+ETC_20150317_006031	When using the Warp Scroll, you can only warp to areas with activated statues. 
+ETC_20150317_006032	By using the Warp Scroll again, you will be warped to your last location.
 ETC_20150317_006033	Warp Scrolls can be acquired through shop or quest rewards.
-ETC_20150317_006034	Use the 'Return' button to complete the quests easily.
+ETC_20150317_006034	You can use the 'Return' button to complete quests more easily and faster.
 ETC_20150317_006035	When you complete quests,
-ETC_20150317_006036	button will be activated.
+ETC_20150317_006036	this button will be activated.
 ETC_20150317_006037	Return Button
 ETC_20150317_006038	You can teleport to the Quest NPC right away by clicking the ({img questinfo_return 40 40}) button.
-ETC_20150317_006039	or you can use the shortcuts key
+ETC_20150317_006039	or you can use the shortcut key
 ETC_20150317_006040	Backspace
 ETC_20150317_006041	key
-ETC_20150317_006042	to return to quest NPC.
+ETC_20150317_006042	to return to the quest NPC.
 ETC_20150317_006043	Field Event
 ETC_20150317_006044	Worshiping the Goddess Statue will benefit you.
 ETC_20150317_006045	Each Goddess Statue will give you effects for your benefit.
-ETC_20150317_006046	Each Goddess Statue in the world have special powers.
+ETC_20150317_006046	Each Goddess Statue in the world has special powers.
 ETC_20150317_006047	is used to warp to other areas.
 ETC_20150317_006048	To use the warp function, the
 ETC_20150317_006049	of the area should be activated.
@@ -6057,8 +6057,8 @@ ETC_20150317_006057	You have to use the keys to open the level 2 treasure chest 
 ETC_20150317_006058	You can obtain the keys through quest progress.
 ETC_20150317_006059	Equipment Enhancement
 ETC_20150317_006060	You can enhance your equipment through the enhancement system.
-ETC_20150317_006061	Open your inventory by pressing {img F2 40 40}, and on the
-ETC_20150317_006062	item, {img mouseclick_right 40 40} to begin the enhancement on your equipment.
+ETC_20150317_006061	Open your inventory by pressing {img F2 40 40}
+ETC_20150317_006062	and {img mouseclick_right 40 40} the item to begin enhancing your equipment.
 ETC_20150317_006063	You can buy items from the Merchant NPC or by hunting monsters.
 ETC_20150317_006064	After using the anvil, the Equipment Enhancement window will appear when you select your equipment.
 ETC_20150317_006065	In the Equipment Enhancement window, when you click
