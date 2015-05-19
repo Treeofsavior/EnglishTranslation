@@ -4,7 +4,7 @@
 
 2. Scroll down for a preview of how real-time translation works in game! 
 
-3. We'd like to hear from you! Please send us your feedbacks and suggestions through the issue [**here**](https://github.com/Treeofsavior/EnglishTranslation/issues/308)[**Wiki**](https://github.com/Treeofsavior/EnglishTranslation/wiki) has been updated with new names for NPCs and sub-areas. 
+3. We'd like to hear from you! Please send us your feedbacks and suggestions through the issue [**here**](https://github.com/Treeofsavior/EnglishTranslation/issues/308) [**Wiki**](https://github.com/Treeofsavior/EnglishTranslation/wiki) has been updated with new names for NPCs and sub-areas. 
 
 4. Be sure to take a look at the [**Wiki**](https://github.com/Treeofsavior/EnglishTranslation/wiki) page for guides and reminders before sending us your translations.
 
