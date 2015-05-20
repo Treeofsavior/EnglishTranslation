@@ -1,15 +1,15 @@
-##NOTICE (Updated 05-19-2015)
+##NOTICE (Updated 05-20-2015)
 
-You can translate through Google Spreadsheet as well.
-[**here**](https://docs.google.com/spreadsheets/d/1kbbkUbkRttqY_lH542vt5l9L7IO9W9s3GwS4YA0xRmg/edit?usp=sharing).
+1. To make the translation process more convenient and accessible, we've also opened a Google Spreadsheet for translations. You can check it [**here**](https://docs.google.com/spreadsheets/d/1kbbkUbkRttqY_lH542vt5l9L7IO9W9s3GwS4YA0xRmg/edit?usp=sharing).
+Please check it out and let us know what you think in this [**Issue**](https://github.com/Treeofsavior/EnglishTranslation/issues/348).  
 
-1. Translation files have been updated. **(NEW)**
+2. Translation files have been updated. **(NEW)**
 
-2. Scroll down for a preview of how real-time translation works in game! 
+3. Scroll down for a preview of how real-time translation works in game! 
 
-3. We'd like to hear from you! Please send us your feedbacks and suggestions through the issue [**here**](https://github.com/Treeofsavior/EnglishTranslation/issues/308). [**Wiki**](https://github.com/Treeofsavior/EnglishTranslation/wiki) has been updated with new names for NPCs and sub-areas. 
+4. We'd like to hear from you! Please send us your feedbacks and suggestions through the issue [**here**](https://github.com/Treeofsavior/EnglishTranslation/issues/308). [**Wiki**](https://github.com/Treeofsavior/EnglishTranslation/wiki) has been updated with new names for NPCs and sub-areas. 
 
-4. Be sure to take a look at the [**Wiki**](https://github.com/Treeofsavior/EnglishTranslation/wiki) page for guides and reminders before sending us your translations.
+5. Be sure to take a look at the [**Wiki**](https://github.com/Treeofsavior/EnglishTranslation/wiki) page for guides and reminders before sending us your translations.
 
 <center><img src="https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-xap1/v/t1.0-9/969383_419497041509849_21485321_n.jpg?oh=0a0920080697b6fbb91c626ff5ed9aef&oe=55BDD765&__gda__=1434192791_d222694d664092275371caeb98405af5"/></center>
 # Tree of Savior Open Text Client (OTC)   
