@@ -1,6 +1,6 @@
 ##NOTICE (Updated 05-19-2015)
 
-You can translate through Google Spreadsheet
+You can translate through Google Spreadsheet as well.
 [**here**](https://docs.google.com/spreadsheets/d/1kbbkUbkRttqY_lH542vt5l9L7IO9W9s3GwS4YA0xRmg/edit?usp=sharing).
 
 1. Translation files have been updated. **(NEW)**
