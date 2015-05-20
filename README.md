@@ -1,7 +1,7 @@
 ##NOTICE (Updated 05-20-2015)
 
 1. To make the translation process more convenient and accessible, we've also opened a Google Spreadsheet for translations. You can check it [**here**](https://docs.google.com/spreadsheets/d/1kbbkUbkRttqY_lH542vt5l9L7IO9W9s3GwS4YA0xRmg/edit?usp=sharing).
-Please check it out and let us know what you think in this [**Issue**](https://github.com/Treeofsavior/EnglishTranslation/issues/348).  
+Please try it out and let us know what you think in this [**Issue**](https://github.com/Treeofsavior/EnglishTranslation/issues/348).  
 
 2. Translation files have been updated. **(NEW)**
 
