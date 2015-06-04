@@ -1,15 +1,12 @@
-##NOTICE (Updated 05-28-2015)
+##NOTICE (Updated 06-04-2015)
 
-1. To make the translation process more convenient and accessible, we've also opened a Google Spreadsheet for translations. You can check it [**here**](https://docs.google.com/spreadsheets/d/1kbbkUbkRttqY_lH542vt5l9L7IO9W9s3GwS4YA0xRmg/edit?usp=sharing).
-Please try it out and let us know what you think in this [**Issue**](https://github.com/Treeofsavior/EnglishTranslation/issues/348).  
+1. Boss Monster Names werea added in Wiki. 
 
-2. Boss Monster Names have been updated into Wiki. **(NEW)**
+2. Scroll down for a preview of how real-time translation works in game! 
 
-3. Scroll down for a preview of how real-time translation works in game! 
+3. We'd like to hear from you! Please send us your feedbacks and suggestions through the issue [**here**](https://github.com/Treeofsavior/EnglishTranslation/issues/308). 
 
-4. We'd like to hear from you! Please send us your feedbacks and suggestions through the issue [**here**](https://github.com/Treeofsavior/EnglishTranslation/issues/308). [**Wiki**](https://github.com/Treeofsavior/EnglishTranslation/wiki) has been updated with new names for NPCs and sub-areas. 
-
-5. Be sure to take a look at the [**Wiki**](https://github.com/Treeofsavior/EnglishTranslation/wiki) page for guides and reminders before sending us your translations.
+4. Be sure to take a look at the [**Wiki**](https://github.com/Treeofsavior/EnglishTranslation/wiki) page for guides and reminders before sending us your translations.
 
 <center><img src="https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-xap1/v/t1.0-9/969383_419497041509849_21485321_n.jpg?oh=0a0920080697b6fbb91c626ff5ed9aef&oe=55BDD765&__gda__=1434192791_d222694d664092275371caeb98405af5"/></center>
 # Tree of Savior Open Text Client (OTC)   
