@@ -1,12 +1,14 @@
-##NOTICE (Updated 06-04-2015)
+##NOTICE (Updated 06-08-2015)
 
-1. Boss Monster Names werea added in Wiki. 
+1. Please share with us your opinion on which font you think would be most suitable for Tree of Savior English Client in our steam discussion [**here**] (http://steamcommunity.com/workshop/filedetails/discussion/441500423/615086038681198451/). **(NEW)**
+   
+2. Latest translations files have been updated. **(NEW)**
 
-2. Scroll down for a preview of how real-time translation works in game! 
+3. Scroll down for a preview of how real-time translation works in game! 
 
-3. We'd like to hear from you! Please send us your feedbacks and suggestions through the issue [**here**](https://github.com/Treeofsavior/EnglishTranslation/issues/308). 
+4. We'd like to hear from you! Please send us your feedbacks and suggestions through the issue [**here**](https://github.com/Treeofsavior/EnglishTranslation/issues/308). 
 
-4. Be sure to take a look at the [**Wiki**](https://github.com/Treeofsavior/EnglishTranslation/wiki) page for guides and reminders before sending us your translations.
+5. Be sure to take a look at the [**Wiki**](https://github.com/Treeofsavior/EnglishTranslation/wiki) page for guides and reminders before sending us your translations.
 
 <center><img src="https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-xap1/v/t1.0-9/969383_419497041509849_21485321_n.jpg?oh=0a0920080697b6fbb91c626ff5ed9aef&oe=55BDD765&__gda__=1434192791_d222694d664092275371caeb98405af5"/></center>
 # Tree of Savior Open Text Client (OTC)   
