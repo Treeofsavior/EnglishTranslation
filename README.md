@@ -2,7 +2,7 @@
 
 1. Please share with us your opinion on which font you think would be most suitable for Tree of Savior English Client in our steam discussion [**here**] (http://steamcommunity.com/workshop/filedetails/discussion/441500423/615086038681198451/). **(NEW)**
 
-<center><img src="http://zenasis.blog.me/220391272829"/></center> 
+<center><img src="https://zenasis.blog.me/220391272829"/></center> 
 
    
 2. Latest translations files have been updated. **(NEW)**
