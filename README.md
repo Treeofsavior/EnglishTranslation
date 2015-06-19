@@ -1,9 +1,8 @@
-##NOTICE (Updated 06-15-2015)
+##NOTICE (Updated 06-19-2015)
+1. Latest translations files have been updated. **(NEW)**
 
-1. Please share with us your opinion on the possible fonts for Tree of Savior English Client in our steam discussion [**here**] (http://steamcommunity.com/sharedfiles/filedetails/updates/441500423/1434366411/). **(NEW)**
+2. Please share with us your opinion on the possible fonts for Tree of Savior English Client in our steam discussion [**here**] (http://steamcommunity.com/sharedfiles/filedetails/updates/441500423/1434366411/). **(NEW)**
 <center><img src="http://blogfiles.naver.net/20150615_138/zenasis_1434379701849fkUYf_JPEG/compare_fonts_3_%281%29.jpg"/></center> 
-
-2. Latest translations files have been updated. **(NEW)**
 
 3. Scroll down for a preview of how real-time translation works in game! 
 
