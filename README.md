@@ -1,6 +1,6 @@
 ##NOTICE (Updated 06-25-2015)
 
-1. The Official TOS Forum is now open! It has a category dedicated to translations so please use the Official Forum for a more convenient discussion regarding TOS translations. Click [HERE](https://forum.treeofsavior.com/) to check out the Official TOS Forum. 
+1. The Official TOS Forum is now open! It has a category dedicated to translations so please use the Official Forum for a more convenient discussion regarding TOS translations. Click [**HERE**](https://forum.treeofsavior.com/) to check out the Official TOS Forum. **(NEW)**
 
 1. Latest translations files have been updated. **(NEW)**
 
