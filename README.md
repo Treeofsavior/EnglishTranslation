@@ -1,17 +1,16 @@
-##NOTICE (Updated 06-25-2015)
+##NOTICE (Updated 06-29-2015)
 
-1. The Official TOS Forum is now open! It has a category dedicated to translations so please use the Official Forum for a more convenient discussion regarding TOS translations. Click [**HERE**](https://forum.treeofsavior.com/) to check out the Official TOS Forum. **(NEW)**
+1. We will be updating the translation files with new names on July 1. You may read the details about it [**HERE**](https://github.com/Treeofsavior/EnglishTranslation/issues/419) **(NEW)**
 
-1. Latest translations files have been updated. **(NEW)**
+2. The Official TOS Forum is now open! It has a category dedicated to translations so please use the Official Forum for a more convenient discussion regarding TOS translations. Click [**HERE**](https://forum.treeofsavior.com/) to check out the Official TOS Forum. **(NEW)**
 
-2. Please share with us your opinion on the possible fonts for Tree of Savior English Client in our steam discussion [**here**] (http://steamcommunity.com/sharedfiles/filedetails/updates/441500423/1434366411/). **(NEW)**
-<center><img src="http://blogfiles.naver.net/20150615_138/zenasis_1434379701849fkUYf_JPEG/compare_fonts_3_%281%29.jpg"/></center> 
+3. Latest translations files have been updated. **(NEW)**
 
-3. Scroll down for a preview of how real-time translation works in game! 
+4. Scroll down for a preview of how real-time translation works in game! 
 
-4. We'd like to hear from you! Please send us your feedbacks and suggestions through the issue [**here**](https://github.com/Treeofsavior/EnglishTranslation/issues/308). 
+5. We'd like to hear from you! Please send us your feedbacks and suggestions through the issue [**here**](https://github.com/Treeofsavior/EnglishTranslation/issues/308). 
 
-5. Be sure to take a look at the [**Wiki**](https://github.com/Treeofsavior/EnglishTranslation/wiki) page for guides and reminders before sending us your translations.
+6. Be sure to take a look at the [**Wiki**](https://github.com/Treeofsavior/EnglishTranslation/wiki) page for guides and reminders before sending us your translations.
 
 <center><img src="https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-xap1/v/t1.0-9/969383_419497041509849_21485321_n.jpg?oh=0a0920080697b6fbb91c626ff5ed9aef&oe=55BDD765&__gda__=1434192791_d222694d664092275371caeb98405af5"/></center>
 # Tree of Savior Open Text Client (OTC)   
