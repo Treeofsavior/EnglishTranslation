@@ -8,7 +8,7 @@
 
 4. Scroll down for a preview of how real-time translation works in game! 
 
-5. We'd like to hear from you! Please send us your feedbacks and suggestions through the issue [**here**](https://github.com/Treeofsavior/EnglishTranslation/issues/308). 
+5. We'd like to hear from you! Please send us your feedbacks and suggestions through the issue [**HERE**](https://github.com/Treeofsavior/EnglishTranslation/issues/308). 
 
 6. Be sure to take a look at the [**Wiki**](https://github.com/Treeofsavior/EnglishTranslation/wiki) page for guides and reminders before sending us your translations.
 
