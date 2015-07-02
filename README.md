@@ -1,8 +1,8 @@
-##NOTICE (Updated 06-29-2015)
+##NOTICE (Updated 07-02-2015)
 
-1. We will be updating the translation files with new names on July 1. You may read the details about it [**HERE**](https://github.com/Treeofsavior/EnglishTranslation/issues/419) **(NEW)**
+1. Translation files have been renamed and updated. We have kept the history but you will have to fork the updated branch again before making pull requests. **(NEW)**
 
-2. The Official TOS Forum is now open! It has a category dedicated to translations so please use the Official Forum for a more convenient discussion regarding TOS translations. Click [**HERE**](https://forum.treeofsavior.com/) to check out the Official TOS Forum. **(NEW)**
+2. Have you checked out our official Forums? Click [**HERE**](https://forum.treeofsavior.com/) move to the forums for discussion. 
 
 3. Latest translations files have been updated. **(NEW)**
 
