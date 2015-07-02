@@ -4,7 +4,7 @@
 
 2. Have you checked out our official Forums? Click [**HERE**](https://forum.treeofsavior.com/) move to the forums for discussion. 
 
-3. Latest translations files have been updated. **(NEW)**
+3. Please use the latest file version before editing the translations :)
 
 4. Scroll down for a preview of how real-time translation works in game! 
 
