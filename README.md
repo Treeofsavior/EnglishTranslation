@@ -1,4 +1,4 @@
-##NOTICE (Updated 07-02-2015)
+##NOTICE (Updated 07-02-2015) (español)
 
 1. Translation files have been renamed and updated. We have kept the history (except ones from today) but you will have to fork the updated branch again before making pull requests. English files are no longer labeled with '_en' while the Korean files now use '_kor' **(NEW)**
 
