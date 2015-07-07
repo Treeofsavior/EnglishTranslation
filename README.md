@@ -1,6 +1,6 @@
-##NOTICE (Updated 07-06-2015)
+##NOTICE (Updated 07-07-2015)
 
-1. Translation files have been renamed and updated. We have kept the history (except ones from today) but you will have to fork the updated branch again before making pull requests. English files are no longer labeled with '_en' while the Korean files now use '_kor' **(NEW)**
+1. Translation files have been **UPDATED**. There may be some lines with unusual spacings to fit the actual game UI's. **(NEW)**
 
 2. Have you checked out our official Forums? Click [**HERE**](https://forum.treeofsavior.com/) move to the forums for discussion. Please login and click on the github icon to link your github account to it as well.
 
