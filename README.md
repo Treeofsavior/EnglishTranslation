@@ -1,8 +1,8 @@
-##NOTICE (Updated 07-02-2015)
+##NOTICE (Updated 07-06-2015)
 
 1. Translation files have been renamed and updated. We have kept the history (except ones from today) but you will have to fork the updated branch again before making pull requests. English files are no longer labeled with '_en' while the Korean files now use '_kor' **(NEW)**
 
-2. Have you checked out our official Forums? Click [**HERE**](https://forum.treeofsavior.com/) move to the forums for discussion. 
+2. Have you checked out our official Forums? Click [**HERE**](https://forum.treeofsavior.com/) move to the forums for discussion. Please login and click on the github icon to link your github account to it as well.
 
 3. Please use the latest file version before editing the translations :)
 
@@ -43,9 +43,9 @@ You may also create new issues to discuss the translations with other translator
 
 #### Don't know Korean but still want to contribute?  
 
-If you don't understand Korean but still want to contribute to translating TOS, you may use machine translators like google or bing translator and edit the translations. It may not give you accurate translations every single time but it usually does work and gives you results that are pretty useful with a bit of a touch up. 
+You can still contribute by editing translation errors :)
 
-**Tip :** When using machine translator 'Korean -> Japanese -> English' will get you much better results than 'Korean -> English'. 
+**Tip:** The translations should be kept as short as possible to fit in game UI. 
 
 
 ## Game Screenshots
