@@ -1,4 +1,4 @@
-##NOTICE (Updated 07-07-2015)
+##NOTICE (Updated 07-10-2015)
 
 1. Translation files have been **UPDATED**. There may be some lines with unusual spacings to fit the actual game UI's. **(NEW)**
 
