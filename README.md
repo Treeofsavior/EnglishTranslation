@@ -1,8 +1,8 @@
-##NOTICE (Updated 07-13-2015)
+##NOTICE (Updated 07-14-2015)
 
 1. We'd like to know your thoughts on marking edited lines. Please let us know through the issue [**HERE**](https://github.com/Treeofsavior/EnglishTranslation/issues/476)
 
-2. Translation files have been **UPDATED**. There may be some lines with unusual spacings to fit the actual game UI's. **(NEW)**
+2. Translation files have been **UPDATED**. There may be some lines with unusual spacings to fit the actual game UI's. We had to make inevitable changes to the line codes for lines dated after 20150511. **(NEW)**
 
 3. Have you checked out our official Forums? Click [**HERE**](https://forum.treeofsavior.com/) move to the forums for discussion. Please login and click on the github icon to link your github account to it as well.
 
