@@ -2556,7 +2556,7 @@ ETC_20150317_002555	While using to change the horsepower
 ETC_20150317_002556	Things that were recovered
 ETC_20150317_002557	Labor was not detected
 ETC_20150317_002558	Labor has been detected
-ETC_20150317_002559	
+ETC_20150317_002559	Use Magic Scroll
 ETC_20150317_002560	There is no reaction
 ETC_20150317_002561	Monster fainted
 ETC_20150317_002562	Monster exploded
@@ -2599,7 +2599,7 @@ ETC_20150317_002598	Set of access rights
 ETC_20150317_002599	Cannot join anymore
 ETC_20150317_002600	The party has acquired {Auto_1} EXP
 ETC_20150317_002601	Party level has increased to {Auto_1}
-ETC_20150317_002602	{Auto_1} Party Raid has started {nl} Press a button to participate
+ETC_20150317_002602	{Auto_1} Party Raid has started {nl} Press the button to join
 ETC_20150317_002603	Joined {Auto_1}'s party
 ETC_20150317_002604	Created {Auto_1} party
 ETC_20150317_002605	{Inviter} has invited you to a party. Would you like to join?
@@ -2607,14 +2607,14 @@ ETC_20150317_002606	{PC} is already a member of a party
 ETC_20150317_002607	You are not a member of a party
 ETC_20150317_002608	Do you want to leave the party?
 ETC_20150317_002609	Your party leader wants to disband the party {nl} Are you sure you want to disband the party?
-ETC_20150317_002610	Party has been disbanded
+ETC_20150317_002610	The party has been disbanded
 ETC_20150317_002611	{@st41b} If you are not a member of a party, check the information below to create a new one {/}
 ETC_20150317_002612	{@st41} Words of thanks {/}
 ETC_20150317_002613	{@st41} Name {/}
 ETC_20150317_002614	{@st43} Party Settings {/}
-ETC_20150317_002615	{@st41} Members Limited {/}
+ETC_20150317_002615	{@st41} Member Limit {/}
 ETC_20150317_002616	{@st41b} Max {/}
-ETC_20150317_002617	{@st41} Register Limit{/}
+ETC_20150317_002617	{@st41} Entry Limit{/}
 ETC_20150317_002618	{@st41} Password {/}
 ETC_20150317_002619	{@st41} Preferred Class {/}
 ETC_20150317_002620	{@st41b} Random {/}
@@ -2628,16 +2628,16 @@ ETC_20150317_002627	{@st41b} Private {/}
 ETC_20150317_002628	My Page
 ETC_20150317_002629	Last Visit
 ETC_20150317_002630	Open board and logout
-ETC_20150317_002631	Coin cycle
-ETC_20150317_002632	No Coin you can give.
-ETC_20150317_002633	Please enter the number of Coins shown.
+ETC_20150317_002631	NXP cycle
+ETC_20150317_002632	You do not have NXP to give.
+ETC_20150317_002633	Enter the amount of NPX you wish to gift.
 ETC_20150317_002634	{Auto_2} ~ {Auto_1} ea
-ETC_20150317_002635	I received {Count} Coins as a gift from {Giver}.
-ETC_20150317_002636	I gifted {Count} Coins to {Receiver}.
-ETC_20150317_002637	{Giver} Mr. Gift Coins is missing.
-ETC_20150317_002638	{Receiver} can no longer receive Coins for today.
+ETC_20150317_002635	You received (Count) NXP as a gift from {Giver}.
+ETC_20150317_002636	I gifted {Count} NXP to {Receiver}.
+ETC_20150317_002637	{Giver} has not enough NXP to gift.
+ETC_20150317_002638	{Receiver} can no longer receive NXP for today.
 ETC_20150317_002639	Fluid body of {Auto_1}
-ETC_20150317_002640	You do not have enough Coins.
+ETC_20150317_002640	You do not have enough NXP.
 ETC_20150317_002641	The mike cannot exceed {MaxByte} bytes.
 ETC_20150317_002642	The party does not exist.
 ETC_20150317_002643	Expel
@@ -2726,7 +2726,7 @@ ETC_20150317_002725	Durability
 ETC_20150317_002726	Splash
 ETC_20150317_002727	Accuracy
 ETC_20150317_002728	Critical Resistance
-ETC_20150317_002729	
+ETC_20150317_002729	Splash Defense
 ETC_20150317_002730	INT
 ETC_20150317_002731	SPR
 ETC_20150317_002732	Skill Attack
@@ -2798,7 +2798,7 @@ ETC_20150317_002797	Attack for Cloth Armor Type
 ETC_20150317_002798	Attack for Leather Armor Type
 ETC_20150317_002799	Attack for Plate Armor Type
 ETC_20150317_002800	Attack for Fluid Armor Type
-ETC_20150317_002801	
+ETC_20150317_002801	Magic Penetration
 ETC_20150317_002802	Item EXP
 ETC_20150317_002803	Shooting Distance
 ETC_20150317_002804	Speed
@@ -2844,15 +2844,15 @@ ETC_20150317_002843	Leather
 ETC_20150317_002844	Metal
 ETC_20150317_002845	Chain
 ETC_20150317_002846	Fluid
-ETC_20150317_002847	
-ETC_20150317_002848	
-ETC_20150317_002849	
-ETC_20150317_002850	
-ETC_20150317_002851	
-ETC_20150317_002852	Barracks theme has been changed.
-ETC_20150317_002853	Team name change successful
-ETC_20150317_002854	Team name change failed
-ETC_20150317_002855	Please enter your team name. Your team name will be the name seen by other players.
+ETC_20150317_002847	You are already somebody's mercenary.
+ETC_20150317_002848	The mercenary's level is higher than the PC's level.
+ETC_20150317_002849	The mercenary has been hired.
+ETC_20150317_002850	The mercenary was let go.
+ETC_20150317_002851	This mercenary is already hired.
+ETC_20150317_002852	The theme of your Barracks has been changed.
+ETC_20150317_002853	You have successfully changed your team name.
+ETC_20150317_002854	You have failed to change your team name.
+ETC_20150317_002855	Enter your team name. Your team name will be the name seen by other players.
 ETC_20150317_002856	This team name already exists.
 ETC_20150317_002857	Collection Effects
 ETC_20150317_002858	List of acquired
@@ -2889,7 +2889,7 @@ ETC_20150317_002888	Already in your Buddy List.
 ETC_20150317_002889	You have a new Buddy Request.
 ETC_20150317_002890	Request Received
 ETC_20150317_002891	Request Sent
-ETC_20150317_002892	Request Rejected
+ETC_20150317_002892	Request Declined
 ETC_20150317_002893	Buddies who are registered to TOS
 ETC_20150317_002894	Buddies who do not play TOS
 ETC_20150317_002895	Someone you may know
@@ -2905,7 +2905,7 @@ ETC_20150317_002904	Please enter the team name to block.
 ETC_20150317_002905	The name of your group is too long.
 ETC_20150317_002906	The contents of your memo is too long.
 ETC_20150317_002907	Memo Settings
-ETC_20150317_002908	Group Settings ??
+ETC_20150317_002908	Group Settings ▶
 ETC_20150317_002909	Enter Memo
 ETC_20150317_002910	Group Settings
 ETC_20150317_002911	Buddy Request
@@ -2922,7 +2922,7 @@ ETC_20150317_002921	More info
 ETC_20150317_002922	Position
 ETC_20150317_002923	Rank
 ETC_20150317_002924	{From} wants to trade with you.
-ETC_20150317_002925	The trade request was rejected.
+ETC_20150317_002925	The trade request was declined.
 ETC_20150317_002926	The trade was canceled.
 ETC_20150317_002927	The trade was successful.
 ETC_20150317_002928	Send a trade request to {To}.
@@ -3028,13 +3028,13 @@ ETC_20150317_003027	Get rid of the Matsums charging in!
 ETC_20150317_003028	Completed deploying the Solar Essence!
 ETC_20150317_003029	Offering
 ETC_20150317_003030	You have already made an offering!
-ETC_20150317_003031	
+ETC_20150317_003031	This area already uses a shield.
 ETC_20150317_003032	Exploring..
 ETC_20150317_003033	Distance from the target:
 ETC_20150317_003034	Releasing
 ETC_20150317_003035	This anvil does not match this type of equipment.
 ETC_20150317_003036	The rating of the anvil is low.
-ETC_20150317_003037	Player
+ETC_20150317_003037	[
 ETC_20150317_003038	} has it!
 ETC_20150317_003039	You cannot pass through this area yet!
 ETC_20150317_003040	Collect bomb flower
@@ -3049,7 +3049,7 @@ ETC_20150317_003048	Obtained Canyon Bomb (disposable)!
 ETC_20150317_003049	You already have that item
 ETC_20150317_003050	Obtained Canyon Bomb!
 ETC_20150317_003051	Box is locked!
-ETC_20150317_003052	->
+ETC_20150317_003052	's
 ETC_20150317_003053	Silver
 ETC_20150317_003054	Trying to drop item without monster
 ETC_20150317_003055	Skill is not available
@@ -3100,7 +3100,7 @@ ETC_20150317_003099	There can be no one left behind!
 ETC_20150317_003100	Let's accomplish it!
 ETC_20150317_003101	You're funny!
 ETC_20150317_003102	Wont that guy also need a name?
-ETC_20150317_003103	Blessings of the Goddess!
+ETC_20150317_003103	Blessing of the Goddess!
 ETC_20150317_003104	Vacenin troop is a top notch troop
 ETC_20150317_003105	I'll watch out from behind!
 ETC_20150317_003106	And we have devoted our help!
@@ -3208,7 +3208,7 @@ ETC_20150317_003207	Help!
 ETC_20150317_003208	I can't get out!
 ETC_20150317_003209	Please destroy this!
 ETC_20150317_003210	Collect flame vapor
-ETC_20150317_003211	Ego of Grita
+ETC_20150317_003211	Grita's Reflection
 ETC_20150317_003212	Be careful!
 ETC_20150317_003213	You're in danger!
 ETC_20150317_003214	What's that?
@@ -3285,9 +3285,9 @@ ETC_20150317_003284	Released the loyal servants
 ETC_20150317_003285	Defeat the General Bear!
 ETC_20150317_003286	Lure the Tomb Warriors into the trap and kill them!
 ETC_20150317_003287	This path is not allowed for you
-ETC_20150317_003288	Please get rid of the summoned monsters!
+ETC_20150317_003288	Defeat the summoned monsters!
 ETC_20150317_003289	Defeat the monsters!
-ETC_20150317_003290	Get rid of Medakia!
+ETC_20150317_003290	Defeat Medakia!
 ETC_20150317_003291	Charging soul
 ETC_20150317_003292	Pouring the source of magic power
 ETC_20150317_003293	The jar is full!
@@ -3296,7 +3296,7 @@ ETC_20150317_003295	High level taser
 ETC_20150317_003296	Recovery Device
 ETC_20150317_003297	Low level taser
 ETC_20150317_003298	Suppressor
-ETC_20150317_003299	Get rid of Medakia by using the magic device!
+ETC_20150317_003299	Defeat Medakia by using the magic device!
 ETC_20150317_003300	Do not destroy the inhibiting group!
 ETC_20150317_003301	Defeat the Royal Mausoleum Warriors!
 ETC_20150317_003302	Defeat the monsters!
