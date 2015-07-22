@@ -11551,7 +11551,7 @@ ETC_20150428_011551	The helper's level is higher than the character level.
 ETC_20150428_011552	The helper has been hired.
 ETC_20150428_011553	The helper was let go.
 ETC_20150428_011554	There is a helper already hired.
-ETC_20150428_011555	It can be only registered through the Magic Association NPC.
+ETC_20150428_011555	It can be only registered through the Mage Society NPC.
 ETC_20150428_011556	You can not use it while moving.
 ETC_20150428_011557	You do not have enough SP.
 ETC_20150428_011558	You do not have enough STA.
@@ -13250,7 +13250,7 @@ ETC_20150717_013250	Use {img N 40 40} key to open World Map.
 ETC_20150717_013251	Areas you haven't been to will not be shown in the World Map,{nl}while areas you have already been to will be activated.
 ETC_20150717_013252	Moving your mouse over the activated area will show the map that the character has completed.
 ETC_20150717_013253	You can check your items, equipments, money, and weight through the Inventory.
-ETC_20150717_013254	Use {img F2 40 40}키 key to open Inventory window.
+ETC_20150717_013254	Use {img F2 40 40} key to open Inventory window.
 ETC_20150717_013255	Upper area of the Inventory window shows items that the character equipped.
 ETC_20150717_013256	Below are the item that the character holds.
 ETC_20150717_013257	Items in Inventory are arranged by item types.
@@ -13345,53 +13345,51 @@ ETC_20150717_013345	button enables you to reset all items registered for Buy and
 ETC_20150717_013346	{img mouseclick_right 40 40} on the item from 'Items Sold' below to buy back item delete it from the list.
 ETC_20150717_013347	You need the Anvil and money to Enhance equipments.
 ETC_20150717_013348	can be purchased form Item Merchant or obtained from monsters.
-ETC_20150717_013349	When you {img mouseclick_right 40 40} on the Anvil and click the equipment, Enhancement window will appear. Select
+ETC_20150717_013349	Press {img mouseclick_right 40 40} on the Anvil, then select an equipment item to open the Enhancement window. Select
 ETC_20150717_013350	and
 ETC_20150717_013351	will appear. Hit the
 ETC_20150717_013352	three times to Enhance the item.
-ETC_20150717_013353	If enhancement of weapons above level +4 fails, its Potential will be consumed. When the Potential falls below 0, the item will be destroyed.
-ETC_20150717_013354	For armors, bracelets, and necklaces, enhancement penalty applies above +2.
+ETC_20150717_013353	When enhancing +4 weapons and above, Potential will be consumed on failure. The item will be destroyed when Potential falls below zero.
+ETC_20150717_013354	Enhancement penalties begin above +2 for armors, bracelets, and necklaces.
 ETC_20150717_013355	You can't use an item with 0 durability.
-ETC_20150717_013356	"You can repair item with low durability through the Repair window.{nl}Select item then click Repair and pay the fee to restore the item's durability to max. 
-"
-ETC_20150717_013357	"A repair fee will be charged. Higher ranked items are usually more expensive to repair.
-"
+ETC_20150717_013356	Repair items in the Repair window.{nl}Select an item, then click Repair to restore durability to 100%.
+ETC_20150717_013357	A repair fee will be charged. Higher ranked items are usually more expensive to repair.
 ETC_20150717_013358	Use Gems on your items for additional effects.
-ETC_20150717_013359	Gems can be obtained from dugeons for additional item effects.
-ETC_20150717_013360	Gems can be upgraded through Gem Enhancement. Gem Abrasives or other Gems are required to Enhance Gems.
-ETC_20150717_013361	Insert Gems in the item sockets to add item effects.
+ETC_20150717_013359	Gems used for extra item effects can be obtained from dungeons.
+ETC_20150717_013360	Gems can be upgraded through Gem Enhancement. Gem Abrasives or other Gems are required.
+ETC_20150717_013361	Insert Gems in the item sockets to add additional effects.
 ETC_20150717_013362	Some items may not have sockets.
-ETC_20150717_013363	For such items, you can add sockets through the Blacksmith NPC.
-ETC_20150717_013364	Adding sockets will require socket processing fees and the item's potential will be reduced by 1.
-ETC_20150717_013365	{img mouseclick_right 40 40} on the Gem to see in which items the Gem can be inserted.
+ETC_20150717_013363	You can add Gem sockets at the Blacksmith NPC.
+ETC_20150717_013364	Adding sockets will consume a fee and reduce the item's Potential by 1.
+ETC_20150717_013365	Press {img mouseclick_right 40 40} on the Gem to see in which items are compatible.
 ETC_20150717_013366	Click on the item to insert the Gem.
-ETC_20150717_013367	You can check the inserted Gems through in the item's tooltips.
+ETC_20150717_013367	Hover the cursor over an item to view its current Gems.
 ETC_20150717_013368	You can remove inserted Gems by
 ETC_20150717_013369	through the Blacksmith NPC.
 ETC_20150717_013370	The Gem's level will be lowered by 1 when removed.
-ETC_20150717_013371	SubWeapon refers to the items equipped on Character's right hand.
-ETC_20150717_013372	When SubWeapon is equipped, press {img C 40 40} key to use the it.
-ETC_20150717_013373	Your character will use the SubWeapon to attack.
-ETC_20150717_013374	If the SubWeapon has special effects, weapon effects will be triggered.
-ETC_20150717_013375	Trade between players
+ETC_20150717_013371	A Sub-Weapon is an item in the Character's right hand.
+ETC_20150717_013372	Press {img C 40 40} to use an equipped Sub-Weapon.
+ETC_20150717_013373	Your character will attack with the Sub-Weapon.
+ETC_20150717_013374	If the Sub-Weapon has special properties, weapon effects will apply.
+ETC_20150717_013375	Trading between players
 ETC_20150717_013376	You can trade your items with other players.
-ETC_20150717_013377	[Trade] {img mouseclick_right 40 40} on the player you want to trade with and select Trade.
-ETC_20150717_013378	Select item to trade by {img mouseclick_right 40 40} on the item from inventory.
-ETC_20150717_013379	Cross-check the items added for trade and press Accept and Confirm to complete the trade.
-ETC_20150717_013380	[Market] It is a system for trading items with other players.
-ETC_20150717_013381	You can use the Market through Market Manager.
-ETC_20150717_013382	You can check the items sold by other players and purchase items from the list.
-ETC_20150717_013383	Items purchased are sent to Item Inbox.
-ETC_20150717_013384	To sell, you must register and list the items for sale.
-ETC_20150717_013385	{img mouseclick_right 40 40} on the item you want to sell from your inventory, then set the selling price.
+ETC_20150717_013377	[Trade] Press {img mouseclick_right 40 40} on the player you want to trade with and select Trade.
+ETC_20150717_013378	Select an item to trade by pressing {img mouseclick_right 40 40} on the item in your inventory.
+ETC_20150717_013379	Double-check the items on offer and press Accept and Confirm to complete the trade.
+ETC_20150717_013380	[Market] The Market allows you to trade items with many other players.
+ETC_20150717_013381	You can use the Market through the Market Manager.
+ETC_20150717_013382	You can look at items offered by other players, and purchase items from the list.
+ETC_20150717_013383	Items purchased are sent to the Item Inbox.
+ETC_20150717_013384	To sell items, you must register and list the items for sale.
+ETC_20150717_013385	Press {img mouseclick_right 40 40} on the item you want to sell from your inventory, then set the selling price.
 ETC_20150717_013386	is used to warp between Goddess Statues when activated.
 ETC_20150717_013387	You must approach the Goddess Statue to activate it.
-ETC_20150717_013388	You can use the activated Goddess Statue to teleport to other areas where the Goddess Statue is activated.
+ETC_20150717_013388	You can use the active Goddess Statue to teleport to other areas with an active Goddess Statue.
 ETC_20150717_013389	You can also use the Warp Scroll to warp immediately.
-ETC_20150717_013390	Warp Scrolls can be bought from the shop or obtained from quests.
+ETC_20150717_013390	Warp Scrolls can be bought from shops or obtained from quests.
 ETC_20150717_013391	or use the {img backspace 40 40}(backspace) key {nl}
 ETC_20150717_013392	can be obtained through various ways and
-ETC_20150717_013393	[Magic Association Klaipeda Branch] Henricka
+ETC_20150717_013393	[Mage Society Klaipeda Branch] Henryka
 ETC_20150717_013394	NPC activates the Collection.
 ETC_20150717_013395	You can check the registered decks through
 ETC_20150717_013396	NPC.
@@ -13402,10 +13400,10 @@ ETC_20150717_013400	Items added can be removed by using {img mouseclick_right 40
 ETC_20150717_013401	Removing items from a Complete Collection will make the Collection become incomplete and the Collection effect will be removed.
 ETC_20150717_013402	Collect effects are enabled only when the Collection is completed.
 ETC_20150717_013403	How to retrieve supply box
-ETC_20150717_013404	Aside from adoption, the Companion Merchant also sells Companion's food and trains the Companions.
+ETC_20150717_013404	Aside from adoption, you can also buy food for your Companion or train them at the Companion Merchant.
 ETC_20150717_013405	You can adopt a Companion if you have enough money.
 ETC_20150717_013406	You can bring only one Companion at a time.
-ETC_20150717_013407	Companions receive EXP by helping the character in battle. {nl}{nl}Companions consume Stamina when you bring them along. Companion's movement speed will decrease when there is no Stamina. {nl}{nl}Press the swich button to change the Companion's status to rest mode. {nl}Turn the switch again to activate the Companion.
+ETC_20150717_013407	Companions receive EXP by helping the character in battle. {nl}{nl}Companions consume Stamina when you bring them along. Companion's movement speed will decrease when there is no Stamina. {nl}{nl}Press the switch button to change the Companion's status to rest mode. {nl}Turn the switch again to activate the Companion.
 ETC_20150717_013408	You can train your Companion to become stronger.
 ETC_20150717_013409	Train your Companion through the Companion Merchant to increase its abilities. A Training fee is required.
 ETC_20150717_013410	You can recover Companion's Stamina by feeding the Companion. HP will be recovered fully and Stamina will be recovered partially.
@@ -13413,10 +13411,10 @@ ETC_20150717_013411	You can buy Companion Food from the Companion Merchant.
 ETC_20150717_013412	Monsters found in dungeons will attack characters on sight.
 ETC_20150717_013413	Gather more players to form a party and face the challenge!
 ETC_20150717_013414	will revive you in the dungeon entrance outside.
-ETC_20150717_013415	Be careful when you're deep inside a dungeon!
+ETC_20150717_013415	Be careful when you delve into a dungeon!
 ETC_20150717_013416	You can obtain Gems by hunting in dungeons.
-ETC_20150717_013417	Be careful, as the gems may be lost when you die.
-ETC_20150717_013418	Worship the Goddess to receive benefitial effects.
+ETC_20150717_013417	Watch out! Gems can be lost on death!
+ETC_20150717_013418	Worship the Goddess to receive beneficial effects.
 ETC_20150717_013419	is used to warp to other areas.
 ETC_20150717_013420	gives Status Points.
 ETC_20150717_013421	Community
@@ -13424,14 +13422,14 @@ ETC_20150717_013422	Social Function
 ETC_20150717_013423	Use the Social Function to interact with other players.
 ETC_20150717_013424	[Helper] You can leave your character to be used as Helpers when you logout. You need to be at least Rank 3 and iCoin is consumed.
 ETC_20150717_013425	Other players may hire you as Helpers by paying iCoins.
-ETC_20150717_013426	Helpers follows its host character and helps in combat.
-ETC_20150717_013427	[Friend] Use F7 key to open Friends window. Players can add each other to Friends List.
+ETC_20150717_013426	A Helper will follow the host character and assist in combat.
+ETC_20150717_013427	[Friend] Press the F7 key to open Friends window. Players can add each other to Friends List.
 ETC_20150717_013428	Friends can see each other's online status and location.
-ETC_20150717_013429	[Like] {img mouseclick_right 40 40} on other characters and press
+ETC_20150717_013429	[Like] Press {img mouseclick_right 40 40} on a character and press
 ETC_20150717_013430	to use the Like function.
 ETC_20150717_013431	between characters will increase friendship and meet each other more often when matching parties.
 ETC_20150717_013432	Add Magic Amulet on weapons and shields for additional effects.
-ETC_20150717_013433	You can receive additional EXP when Overkill is triggered.
+ETC_20150717_013433	You can receive additional EXP on an Overkill.
 ETC_20150717_013434	ETC_20150317_006744
 ETC_20150717_013435	ETC_20150317_006918
 ETC_20150717_013436	ETC_20150317_007007
