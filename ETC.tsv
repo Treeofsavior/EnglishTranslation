@@ -1580,7 +1580,7 @@ ETC_20150317_001579	Failed to purchase item! An unknown error has occurred.
 ETC_20150317_001580	Too close
 ETC_20150317_001581	{S20}{ol}{#46ffc8} You do not have enough stamina.
 ETC_20150317_001582	Object needed for the skill is not available.
-ETC_20150317_001583	You cannot equip secondary equipment when wearing a two-handed weapon.
+ixETC_20150317_001583	You cannot equip secondary equipment when wearing a Two-Hand weapon.
 ETC_20150317_001584	You cannot use 'Return' during Rest Mode.
 ETC_20150317_001585	Another character has taken the request.
 ETC_20150317_001586	The previous game did not end.
@@ -1711,13 +1711,13 @@ ETC_20150317_001710	Tree
 ETC_20150317_001711	Quest
 ETC_20150317_001712	Weapon
 ETC_20150317_001713	Armor
-ETC_20150317_001714	Two-Handed Sword
+ixETC_20150317_001714	Two-Hand Sword
 ETC_20150317_001715	Bow
 ETC_20150317_001716	Crossbow
-ETC_20150317_001717	One-Handed Sword
+ixETC_20150317_001717	One-Hand Sword
 ETC_20150317_001718	Wand
 ETC_20150317_001719	Blunt
-ETC_20150317_001720	ETC
+ixETC_20150317_001720	Others
 ETC_20150317_001721	Spear
 ETC_20150317_001722	Wand
 ETC_20150317_001723	{nl} Do you want to add a socket?
@@ -1752,7 +1752,7 @@ ETC_20150317_001751	Sub-weapon
 ETC_20150317_001752	Rod
 ETC_20150317_001753	Coat
 ETC_20150317_001754	Hat
-ETC_20150317_001755	Two-Handed Spear
+ixETC_20150317_001755	Two-Hand Spear
 ETC_20150317_001756	Place items in the window
 ETC_20150317_001757	Gem
 ETC_20150317_001758	Socket
@@ -1913,7 +1913,7 @@ ETC_20150317_001912	{@st59} Click for more information {/}
 ETC_20150317_001913	The next level requires the same class advancement.
 ETC_20150317_001914	Use Skill Points to increase skill level.
 ETC_20150317_001915	Equipment
-ETC_20150317_001916	Disabled
+ixETC_20150317_001916	Disable
 ETC_20150317_001917	Enable
 ETC_20150317_001918	Individual Loot
 ETC_20150317_001919	In Order
@@ -2771,10 +2771,10 @@ ETC_20150317_002770	Holy Attack
 ETC_20150317_002771	Dark Attack
 ETC_20150317_002772	Movement Speed
 ETC_20150317_002773	HP Recovery
-ETC_20150317_002774	Attack for Plant Type
-ETC_20150317_002775	Attack for Beast Type
-ETC_20150317_002776	Attack for Demon Type
-ETC_20150317_002777	Attack for Mutant Type
+ixETC_20150317_002774	Attack on Plant Type
+ixETC_20150317_002775	Attack on Beast Type
+ixETC_20150317_002776	Attack on Demon Type
+ixETC_20150317_002777	Attack on Mutant Type
 ETC_20150317_002778	Wind Attack
 ETC_20150317_002779	Fire Resistance
 ETC_20150317_002780	Ice Resistance
@@ -2789,20 +2789,20 @@ ETC_20150317_002788	3% chance of receiving continuous damage amounting to 20% of
 ETC_20150317_002789	4% chance of additional resistance +100 of all when attacked by magic
 ETC_20150317_002790	Lightning Attribute Attack
 ETC_20150317_002791	Knockback Power
-ETC_20150317_002792	Attack for Small Type
-ETC_20150317_002793	Attack for Medium Type
-ETC_20150317_002794	Attack for Large Type
+ixETC_20150317_002792	Attack on Small Type
+ixETC_20150317_002793	Attack on Medium Type
+ixETC_20150317_002794	Attack on Large Type
 ETC_20150317_002795	Block
 ETC_20150317_002796	Block Penetration
-ETC_20150317_002797	Attack for Cloth Armor Type
-ETC_20150317_002798	Attack for Leather Armor Type
-ETC_20150317_002799	Attack for Plate Armor Type
-ETC_20150317_002800	Attack for Fluid Armor Type
+ixETC_20150317_002797	Attack on Cloth Armor Type
+ixETC_20150317_002798	Attack on Leather Armor Type
+ixETC_20150317_002799	Attack on Plate Armor Type
+ixETC_20150317_002800	Attack on Fluid Armor Type
 ETC_20150317_002801	Magic Penetration
 ETC_20150317_002802	Item EXP
 ETC_20150317_002803	Shooting Distance
 ETC_20150317_002804	Speed
-ETC_20150317_002805	Attack for Insect Type
+ixETC_20150317_002805	Attack on Insect Type
 ETC_20150317_002806	Earth Attack
 ETC_20150317_002807	Earth Resistance
 ETC_20150317_002808	Physical damage when mounted
@@ -2820,9 +2820,9 @@ ETC_20150317_002819	{S22}{ol}Next quest level: {Auto_1}
 ETC_20150317_002820	Area : 
 ETC_20150317_002821	{@st45w3}{s18}{Auto_1}{Auto_2} ea {/}
 ETC_20150317_002822	{@st41}Reward(s) received:
-ETC_20150317_002823	{@st64} Approach the NPC and use
+ixETC_20150317_002823	{@st64} Approach the NPC and use 
 ETC_20150317_002824	Space Bar
-ETC_20150317_002825	to start the conversation
+ixETC_20150317_002825	 to start conversation
 ETC_20150317_002826	Give up quest
 ETC_20150317_002827	Forfeit
 ETC_20150317_002828	Warp to completion area
@@ -2880,7 +2880,7 @@ ETC_20150317_002879	Set items
 ETC_20150317_002880	Acquired
 ETC_20150317_002881	Score earned
 ETC_20150317_002882	Boss
-ETC_20150317_002883	Day
+ixETC_20150317_002883	Date
 ETC_20150317_002884	Click to go to the item page.
 ETC_20150317_002885	Recent
 ETC_20150317_002886	Help
@@ -4208,8 +4208,8 @@ ETC_20150317_004207	Video recording
 ETC_20150317_004208	Are you sure you want to change your hairstyle? (Requires 100 iCoins)
 ETC_20150317_004209	day(s)
 ETC_20150317_004210	hour(s)
-ETC_20150317_004211	minute(s)
-ETC_20150317_004212	second(s)
+ixETC_20150317_004211	min
+ixETC_20150317_004212	sec
 ETC_20150317_004213	Select
 ETC_20150317_004214	{nl}Are you ready to advance your character?{nl}(Cannot be changed until the next advancement.)
 ETC_20150317_004215	{@st44}Next Class Rank Information
@@ -4268,11 +4268,11 @@ ETC_20150317_004267	You can use the key
 ETC_20150317_004268	You can use your skills
 ETC_20150317_004269	Space bar \
 ETC_20150317_004270	{@st41} Dialog start key {/}
-ETC_20150317_004271	{@st41} Movement Direction {/}
+ixETC_20150317_004271	{@st41} Movement {/}
 ETC_20150317_004272	{@st41} Attack{/}
 ETC_20150317_004273	{@st41} Jump {/}
 ETC_20150317_004274	{@st41} Diagonal Movement {/}
-ETC_20150317_004275	{@st41} Use together! {/}
+ixETC_20150317_004275	{@st41} = diagonal {/}
 ETC_20150317_004276	{@st59} Even if a party member is far away, it won't disappear from the party list{/}
 ETC_20150317_004277	{@st59}If the state of quest proceeds is same with party, then share the quest{nl} This function will be activated when you check both character options. {/}
 ETC_20150317_004278	{@st59} Experience from killing monsters is shared between party members. {/}To enable this feature, all party members must activate it in the options. {/}
@@ -4807,16 +4807,16 @@ ETC_20150317_004806	Bram table was disappears aura of turbidity is installed.
 ETC_20150317_004807	During clearly won
 ETC_20150317_004808	Repair
 ETC_20150317_004809	Secondary Equipment
-ETC_20150317_004810	One-Handed Sword
-ETC_20150317_004811	Two-Handed Sword
+ixETC_20150317_004810	One-Hand Sword
+ixETC_20150317_004811	Two-Hand Sword
 ETC_20150317_004812	Rod
 ETC_20150317_004813	Staff
 ETC_20150317_004814	Bow
 ETC_20150317_004815	Crossbow
 ETC_20150317_004816	Blunt
 ETC_20150317_004817	Wand
-ETC_20150317_004818	One-Handed Spear
-ETC_20150317_004819	Two-Handed Spear
+ixETC_20150317_004818	One-Hand Spear
+ixETC_20150317_004819	Two-Hand Spear
 ETC_20150317_004820	Shield
 ETC_20150317_004821	Dagger
 ETC_20150317_004822	No, this taste?
@@ -5895,12 +5895,12 @@ ETC_20150317_005894	Basic Functions
 ETC_20150317_005895	Movement
 ETC_20150317_005896	            You can move by using the arrow keys.
 ETC_20150317_005897	Arrow Keys
-ETC_20150317_005898	 are used to move you character. {nl}                     {img arrowkey_up 40 40} {img arrowkey_down 40 40} {img arrowkey_left 40 40} {img arrowkey_right 40 40}
-ETC_20150317_005899	 combinations are used to move diagonally. {nl}                     {img arrowkey_up 40 40} {img arrowkey_down 40 40} {img arrowkey_left 40 40} {img arrowkey_right 40 40}
+ixETC_20150317_005898	 {img arrowkey_up 40 40} {img arrowkey_down 40 40} {img arrowkey_left 40 40} {img arrowkey_right 40 40} are used to move you character. 
+ixETC_20150317_005899	  {img arrowkey_up 40 40} {img arrowkey_down 40 40} {img arrowkey_left 40 40} {img arrowkey_right 40 40} {nl}combinations enable you to move diagonally.
 ETC_20150317_005900	{nl} {nl}Characters consume Stamina when moving.
 ETC_20150317_005901	   Use jump to go over obstacles or climb higher areas.
 ETC_20150317_005902	Press {img X 40 40} to make your character jump.
-ETC_20150317_005903	Attack and inflict damage to enemies within range.
+ixETC_20150317_005903	            Attack enemies within your attack range.
 ETC_20150317_005904	Press {img Z 40 40} for normal attack.
 ETC_20150317_005905	Hold down or keep pressing {img Z 40 40} to continuously attack.
 ETC_20150317_005906	{nl} {nl} Press {img Ctrl 40 40} to lock target.
@@ -6172,7 +6172,7 @@ ETC_20150317_006172	to move to the dungeon entrance. {nl} Be careful when you're
 ETC_20150317_006173	Gems can be obtained by hunting monsters and bosses in dungeons. {nl} Be careful, as the gems may be lost when you die.
 ETC_20150317_006174	Equipment
 ETC_20150317_006175	Sub-Weapon
-ETC_20150317_006176	Consume
+ixETC_20150317_006176	Consumable
 ETC_20150317_006177	Companion Equipment
 ETC_20150317_006178	N/A
 ETC_20150317_006179	Spray - Black
@@ -8128,23 +8128,23 @@ ETC_20150317_008128	Square
 ETC_20150317_008129	Diamond
 ETC_20150317_008130	Star
 ETC_20150317_008131	Empty
-ETC_20150317_008132	Two-Handed Sword Stance
-ETC_20150317_008133	One-handed Sword Stance
-ETC_20150317_008134	One-Handed Sword Shield Stance
-ETC_20150317_008135	Two-Handed Bow Stance
+ixETC_20150317_008132	Two-Hand Sword Stance
+ixETC_20150317_008133	One-Hand Sword Stance
+ixETC_20150317_008134	One-Hand Sword Shield Stance
+ixETC_20150317_008135	Two-Hand Bow Stance
 ETC_20150317_008136	Blunt Shield Stance
 ETC_20150317_008137	Blunt Stance
-ETC_20150317_008138	Wizard One-Handed Staff
+ixETC_20150317_008138	Wizard One-Hand Staff
 ETC_20150317_008139	Sorcerer Stance
 ETC_20150317_008140	Archer without bow Stance
 ETC_20150317_008141	Crossbow Stance
 ETC_20150317_008142	0
 ETC_20150317_008143	Secondary Bow Stance
 ETC_20150317_008144	Bow Shield Stance
-ETC_20150317_008145	One-Handed Spear Stance
-ETC_20150317_008146	One-Handed Spear Shield Stance
-ETC_20150317_008147	Two-Handed Spear Stance
-ETC_20150317_008148	Wizard Two-Handed Staff
+ixETC_20150317_008145	One-Hand Spear Stance
+ixETC_20150317_008146	One-Hand Spear Shield Stance
+ixETC_20150317_008147	Two-Hand Spear Stance
+ixETC_20150317_008148	Wizard Two-Hand Staff
 ETC_20150317_008149	Bar Stance
 ETC_20150317_008150	Kill to monster
 ETC_20150317_008151	Attack to monster
@@ -8268,8 +8268,8 @@ ETC_20150317_008268	Recipe - Wizard Slayer
 ETC_20150317_008269	Recipe - Lucyduce
 ETC_20150317_008270	Recipe - Hell & Heaven
 ETC_20150317_008271	Recipe - Nulis
-ETC_20150317_008272	Recipe - Smith Two-Handed Sword
-ETC_20150317_008273	Recipe - Klavis Two-Handed Sword
+ixETC_20150317_008272	Recipe - Smith Two-Hand Sword
+ixETC_20150317_008273	Recipe - Klavis Two-Hand Sword
 ETC_20150317_008274	Recipe - Cane Lowver
 ETC_20150317_008275	Recipe - Cane
 ETC_20150317_008276	Recipe - Crook
@@ -9515,7 +9515,7 @@ ETC_20150317_009515	Hidden trigger for 5th advancement Psychokino_Linker_Alchemi
 ETC_20150317_009516	Miner's manager Bringker
 ETC_20150317_009517	Start Trigger
 ETC_20150317_009518	Medium Boss Golem Trigger
-ETC_20150317_009519	[Hoplite Master]{nl} Adidas Baylor
+ixETC_20150317_009519	[Hoplite Master]{nl}    Adidas Baylor
 ETC_20150317_009520	For Krivis' 4th advancement quest track
 ETC_20150317_009521	Rocktortuga Spawn Trigger
 ETC_20150317_009522	Maggot
@@ -10913,7 +10913,7 @@ ETC_20150414_010914	Voices: Voice of the King
 ETC_20150414_010915	Secret codes come across your mind.
 ETC_20150414_010916	Charge Monster Power
 ETC_20150414_010917	Spider Web
-ETC_20150414_010918	Highlanders are tough fighters who use two-handed swords. They make enemies collide with each other or the terrain, so they are great for handling multiple enemies.
+ixETC_20150414_010918	Highlanders are tough fighters who use Two-Hand swords. They make enemies collide with each other or the terrain, so they are great for handling multiple enemies.
 ETC_20150414_010919	Centurions command the battle with formations. They control other soldiers to use different formations depending on the situation.
 ETC_20150414_010920	Corsairs are specialized in dual-wielding and ambushing enemies from behind. Anyone who joins the Corsairs' party becomes a pirate.
 ETC_20150414_010921	Attack, Party
@@ -11167,10 +11167,10 @@ ETC_20150414_011168	Save me!
 ETC_20150414_011169	Summon monster
 ETC_20150414_011170	Enter party description
 ETC_20150414_011171	Amount entered is more than the amount you have, or you entered a negative number.
-ETC_20150414_011172	Equip Two-handed Sword
-ETC_20150414_011173	Equip One-handed Sword
-ETC_20150414_011174	Equip One-handed Sword and Shield
-ETC_20150414_011175	Equip Two-handed Bow
+ixETC_20150414_011172	Equip Two-Hand Sword
+ixETC_20150414_011173	Equip One-Hand Sword
+ixETC_20150414_011174	Equip One-Hand Sword and Shield
+ixETC_20150414_011175	Equip Two-Hand Bow
 ETC_20150414_011176	Equip Blunt and Shield
 ETC_20150414_011177	Equip Shield
 ETC_20150414_011178	Equip Sorcerer
@@ -11179,10 +11179,10 @@ ETC_20150414_011180	Equip Crossbow
 ETC_20150414_011181	Equip Double Bow
 ETC_20150414_011182	Equip Sub-bow
 ETC_20150414_011183	Equip Bow and Shield
-ETC_20150414_011184	Equip One-handed Spear
-ETC_20150414_011185	Equip One-handed Spear and Shield
-ETC_20150414_011186	Equip Two-handed Spear
-ETC_20150414_011187	Equip Two-handed Staff
+ixETC_20150414_011184	Equip One-Hand Spear
+ixETC_20150414_011185	Equip One-Hand Spear and Shield
+ixETC_20150414_011186	Equip Two-Hand Spear
+ixETC_20150414_011187	Equip Two-Hand Staff
 ETC_20150414_011188	Equip Pistol and Shield
 ETC_20150414_011189	Equip Pistol Sub-weapon
 ETC_20150414_011190	Pub status
@@ -11386,7 +11386,7 @@ ETC_20150428_011387	Recipe - Firangi
 ETC_20150428_011388	Recipe - Thorn Cutter
 ETC_20150428_011389	Recipe - Zweihander
 ETC_20150428_011390	Recipe - Executioner's Sword
-ETC_20150428_011391	Recipe - Lumai Two-Handed Sword
+ixETC_20150428_011391	Recipe - Lumai Two-Hand Sword
 ETC_20150428_011392	Recipe - Elder Sword
 ETC_20150428_011393	Recipe - Meteor Sword
 ETC_20150428_011394	Recipe - Ring Rod
@@ -11439,7 +11439,7 @@ ETC_20150428_011440	FAQ : Changing Channels{nl}1) You can change channels by cli
 ETC_20150428_011441	FAQ : Rest Mode{nl}1) Use "insert" key to switch to Rest Mode. {nl}2) HP, SP, STA is recovered. {nl}3) You can set up a camp fire, manufacture items, enhance gems, combine cards, etc in Rest Mode{nl} You need "firewood" to build a bonfire. {nl} HP, SP, STA is recovered faster when you use a bonfire.{nl}Other functions will be added in the future.
 ETC_20150428_011442	FAQ : Durability and Potential{nl}1) Durability : It will start to decrease a bit when you play with the equipment on.{nl}    When the durability decreases under the certain level, the item's icon will be displayed on the right side of quick slot.{nl}   When the durability completely diminishes, you won't be benefited from the equipment's effects.{nl}2) Potential : It will decrease when you are trading an equipment item or enhance an item, and the item with it's potential all depleted will can't be traded nor enhanced.
 ETC_20150428_011443	FAQ : Enhancement{nl}1) Weapons and armors can be enhanced using the anvil. {nl}2) You can buy anvils from the Tools Merchants in town. {nl}3) Silver is required everytime you enhance an item.{nl}4)The enhancement of weapons and armor has a 100% success rate till +5 and +3 respectively. The chance of failure after the next enhancement will increase.{nl} If an enhancement fails, your enhancement level will reset and the Potential of your item decreases.
-ETC_20150428_011444	FAQ : Attributes{nl}1) There are attributes that you can learn from the Masters of your class. {nl}2) You can learn different types of attributes depending on the class. {nl} For example, if you advance to Highlander, you can learn two-handed sword attributes from Highlander Master and use two-handed swords. {nl}3) Masters who teach attributes are located all around the map.
+ixETC_20150428_011444	FAQ : Attributes{nl}1) There are attributes that you can learn from the Masters of your class. {nl}2) You can learn different types of attributes depending on the class. {nl} For example, if you advance to Highlander, you can learn Two-Hand sword attributes from Highlander Master and use Two-Hand swords. {nl}3) Masters who teach attributes are located all around the map.
 ETC_20150428_011445	FAQ : Charge Skill{nl}1) Charge skills are triggered only when you press down the quick slot button of the skill. {nl}2) Skill is canceled when you are attacked while using the skill.
 ETC_20150428_011446	FAQ : System Menu{nl}1) You can change to "Joypad UI Mode" from game settings when using Joypad. {nl}2) You can play using "Low-spec Mode" if your computer has low system requirements.
 ETC_20150428_011447	FAQ : Chatting{nl}1) Shout: Enter "/y" before your message to show your message to all players. {nl} But, you need the "Megaphone" to do so. {nl}2) Party Chat: Enter "/p" before your message to chat with your party. {nl}Whisper: Enter "/w Team Name" before your message to talk privately with the player of that Team Name.
@@ -11452,8 +11452,8 @@ ETC_20150428_011453	Search word should be at least {LEN} characters.
 ETC_20150428_011454	Sending successful. Thank you.
 ETC_20150428_011455	Failed to send.
 ETC_20150428_011456	Card is not equipped. Cannot be summoned.
-ETC_20150428_011457	One-Handed Blunt
-ETC_20150428_011458	One-Handed Spear
+ixETC_20150428_011457	One-Hand Blunt
+ixETC_20150428_011458	One-Hand Spear
 ETC_20150428_011459	Pistol
 ETC_20150428_011460	Artifact
 ETC_20150428_011461	Select the character to take the companion.
@@ -13226,25 +13226,25 @@ ETC_20150717_013227
 ETC_20150717_013228	
 ETC_20150717_013229	
 ETC_20150717_013230	
-ETC_20150717_013231	
+ixETC_20150717_013231	 are used for Character movement. You can move your character freely using these keys.
 ETC_20150717_013232	Choose the control mode from Game Settings.
-ETC_20150717_013233	For Joypad, use the Control Pad to move.
-ETC_20150717_013234	For Mouse, click on the area where you want to move the character.
-ETC_20150717_013235	When using the mouse, you can also move using the {img W 40 40}, {img A 40 40}, {img S 40 40}, {img D 40 40} keys
+ixETC_20150717_013233	Joypad : use the Control Pad to move.
+ixETC_20150717_013234	Mouse : click the on ground where you want {nl}                 your character to move.
+ixETC_20150717_013235	When using the mouse, you can also move using {img W 40 40}, {img A 40 40}, {img S 40 40}, {img D 40 40} 
 ETC_20150717_013236	Press the same arrow key twice to dash when using Swordsman types.
-ETC_20150717_013237	Using Dash increases your movement speed but Stamina is also consumed faster.
-ETC_20150717_013238	Use Jump to cross over obstacles or up higher places.
+ixETC_20150717_013237	Using Dash increases your movement speed but it will consume more Stamina.
+ixETC_20150717_013238	                 Use Jump to cross over obstacles {nl}                         or jump to higher places.
 ETC_20150717_013239	Use {img X 40 40} key to Jump.
-ETC_20150717_013240	When using mouse, you can Jump by using {img space 40 40}.
-ETC_20150717_013241	When using Joypad, you can Jump by using preset keys.
-ETC_20150717_013242	Use {img Z 40 40} key for basic attack.
-ETC_20150717_013243	When using mouse, you can attack by using {img Z 40 40} key or clicking on the enemy.
-ETC_20150717_013244	Use {img ctrl 40 40} key to lock target.
-ETC_20150717_013245	Use {img Alt 40 40} key to immediately stop your character movement.
+ixETC_20150717_013240	Mouse : use {img space 40 40} to Jump
+ixETC_20150717_013241	Joypad : use pre-set keys to Jump
+ixETC_20150717_013242	Use {img Z 40 40} for basic attack.
+ixETC_20150717_013243	Mouse : click on the enemy  or use {img Z 40 40} to attack.
+ixETC_20150717_013244	You can Lock target by using {img ctrl 40 40} 
+ixETC_20150717_013245	Use {img Alt 40 40} to immediately stop your character.
 ETC_20150717_013246	Use {img space 40 40} to face your target.
-ETC_20150717_013247	When using Joypad, you can attack by using the preset key.
-ETC_20150717_013248	Use the Map to check your current location and other current areas.
-ETC_20150717_013249	Use {img M 40 40} key to check the map of your current area.
+ixETC_20150717_013247	Joypad : use pre-set keys to attack
+ixETC_20150717_013248	        Maps are used to check your current location {nl}                        and other important areas.
+ixETC_20150717_013249	Check the map of current location by using {img M 40 40}
 ETC_20150717_013250	Use {img N 40 40} key to open World Map.
 ETC_20150717_013251	Areas you haven't been to will not be shown in the World Map,{nl}while areas you have already been to will be activated.
 ETC_20150717_013252	Moving your mouse over the activated area will show the map that the character has completed.
