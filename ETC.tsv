@@ -4566,27 +4566,27 @@ ETC_20150317_004565	Quest Type = ScpArgMsg ("Auto__SeoBeu_")
 ETC_20150317_004566	Quest Type = ScpArgMsg ("Auto__BanBogHyeong_")
 ETC_20150317_004567	Number of repetitions = ScpArgMsg ("Auto__MuHan_BanBog_")
 ETC_20150317_004568	Repeat Count = "
-ETC_20150317_004569	Start Method of Quest = ScpArgMsg ("Auto_NPCwa_DaeHwa")
-ETC_20150317_004570	Start Method of Quest = ScpArgMsg ("Auto__
-ETC_20150317_004571	Start Method of Quest = ScpArgMsg ("Auto_
-ETC_20150317_004572	Termination Method of Quest = ScpArgMsg ("Auto_NPCwa_DaeHwa")
-ETC_20150317_004573	Termination Method of Quest = ScpArgMsg("Auto_MogJeog_DalSeong_Si_HaeDang_KweSeuTeu_SeSyeonoBeuJegTeueSeo_JaDongeuLo_wanLyoCheoLi")
+xETC_20150317_004569	Quest Start Form = ScpArgMsg ("Auto_NPCwa_DaeHwa")
+xETC_20150317_004570	Quest Start Form = ScpArgMsg ("Auto__
+xETC_20150317_004571	Quest Start Form = ScpArgMsg ("Auto_
+xETC_20150317_004572	Quest Termination Form = ScpArgMsg ("Auto_NPCwa_DaeHwa")
+xETC_20150317_004573	Quest Termination Form = ScpArgMsg("Auto_MogJeog_DalSeong_Si_HaeDang_KweSeuTeu_SeSyeonoBeuJegTeueSeo_JaDongeuLo_wanLyoCheoLi")
 ETC_20150317_004574	Main Property of Quest = "
-ETC_20150317_004575	Session object of Quest = "
+xETC_20150317_004575	Quest Session Object = "
 ETC_20150317_004576	Start NPC = ScpArgMsg ("Auto_
 ETC_20150317_004577	Start NPC coordinates MZ
 ETC_20150317_004578	Start NPC coordinates SETPOS
 ETC_20150317_004579	Start NPC = ScpArgMsg ("Auto__eopeum_")
 ETC_20150317_004580	Progress NPC = ScpArgMsg ("Auto_
-ETC_20150317_004581	Progression NPC coordinate MZ
-ETC_20150317_004582	NPC coordinate progress SETPOS
+xETC_20150317_004581	Progress NPC coordinate MZ
+xETC_20150317_004582	Progress NPC coordinate SETPOS
 ETC_20150317_004583	Progress NPC = ScpArgMsg ("Auto__eopeum_")
 ETC_20150317_004584	Complete NPC = ScpArgMsg ("Auto_
 ETC_20150317_004585	Complete NPC Coordinates MZ
 ETC_20150317_004586	Complete NPC Coordinates SETPOS
 ETC_20150317_004587	Complete NPC = ScpArgMsg ("Auto__eopeum_")
 ETC_20150317_004588	Recommended Level = "
-ETC_20150317_004589	Level higher than = "
+xETC_20150317_004589	Level above = "
 ETC_20150317_004590	Level below = "
 ETC_20150317_004591	Peripheral check 1 = ScpArgMsg ("Auto_
 ETC_20150317_004592	Job 1 = "
@@ -4595,17 +4595,17 @@ ETC_20150317_004594	Job 3 = "
 ETC_20150317_004595	Job 4 = "
 ETC_20150317_004596	Gender = ScpArgMsg ("Auto_NamSeong")
 ETC_20150317_004597	Gender = ScpArgMsg ("Auto_yeoSeong")
-ETC_20150317_004598	Setting of Quest Conditions = ScpArgMsg ("Auto_MoDu_ManJog_ (AND)")
-ETC_20150317_004599	Setting of Quest Conditions = ScpArgMsg ("Auto_HaNaMan_ManJog_ (OR)")
+xETC_20150317_004598	Quest Conditions Setting = ScpArgMsg ("Auto_MoDu_ManJog_ (AND)")
+xETC_20150317_004599	Quest Conditions Setting = ScpArgMsg ("Auto_HaNaMan_ManJog_ (OR)")
 ETC_20150317_004600	/ Progress Rate:
 ETC_20150317_004601	Error ?? "
-ETC_20150317_004602	Setting of Buff Conditions = ScpArgMsg ("Auto_MoDu_ManJog_ (AND)")
-ETC_20150317_004603	Setting of Buff Conditions = ScpArgMsg ("Auto_HaNaMan_ManJog_ (OR)")
-ETC_20150317_004604	Setting of Wear Item Conditions = ScpArgMsg ("Auto_MoDu_ManJog_ (AND)")
-ETC_20150317_004605	Setting of Wear Item Conditions = ScpArgMsg ("Auto_HaNaMan_ManJog_ (OR)")
-ETC_20150317_004606	Setting of Item Conditions = ScpArgMsg ("Auto_MoDu_ManJog_ (AND)")
-ETC_20150317_004607	Setting of Item Conditions = ScpArgMsg ("Auto_HaNaMan_ManJog_ (OR)")
-ETC_20150317_004608	Check method of Period = ScpArgMsg ("Auto_
+xETC_20150317_004602	Buff Conditions Setting = ScpArgMsg ("Auto_MoDu_ManJog_ (AND)")
+xETC_20150317_004603	Buff Conditions Setting = ScpArgMsg ("Auto_HaNaMan_ManJog_ (OR)")
+xETC_20150317_004604	Wearable Item Conditions Setting = ScpArgMsg ("Auto_MoDu_ManJog_ (AND)")
+xETC_20150317_004605	Wearable Item Conditions Setting = ScpArgMsg ("Auto_HaNaMan_ManJog_ (OR)")
+xETC_20150317_004606	Item Conditions Setting = ScpArgMsg ("Auto_MoDu_ManJog_ (AND)")
+xETC_20150317_004607	Item Conditions Setting = ScpArgMsg ("Auto_HaNaMan_ManJog_ (OR)")
+xETC_20150317_004608	Check Method of Period = ScpArgMsg ("Auto_
 ETC_20150317_004609	Check Method of Period = Each sub period (OR condition). "
 ETC_20150317_004610	Sub1 period = "
 ETC_20150317_004611	Sub2 period = "
@@ -4623,25 +4623,25 @@ ETC_20150317_004622	Check Method of Period = Every particular day and time is on
 ETC_20150317_004623	Check Method of Period = Every hour is only possible to proceed (Or condition) "
 ETC_20150317_004624	Content = "
 ETC_20150317_004625	Level = "
-ETC_20150317_004626	Setting of Item Conditions = ScpArgMsg ("Auto_MoDu_ManJog_ (AND)")
-ETC_20150317_004627	Setting of Item Conditions = ScpArgMsg ("Auto_HaNaMan_ManJog_ (OR)")
-ETC_20150317_004628	The ClassName of = "
+xETC_20150317_004626	Item Conditions Setting = ScpArgMsg ("Auto_MoDu_ManJog_ (AND)")
+xETC_20150317_004627	Item Conditions Setting= ScpArgMsg ("Auto_HaNaMan_ManJog_ (OR)")
+xETC_20150317_004628	ClassName of = "
 ETC_20150317_004629	MonTactics of = "
-ETC_20150317_004630	Probability of = ScpArgMsg ("Auto_
+xETC_20150317_004630	Chance of = ScpArgMsg ("Auto_
 ETC_20150317_004631	Monster InvItem2
-ETC_20150317_004632	ClassName of InvItem2 a monster = "
-ETC_20150317_004633	MonTactics of InvItem2 a monster = "
-ETC_20150317_004634	Probability of InvItem2 monster = ScpArgMsg ("Auto_
+ETC_20150317_004632	ClassName of InvItem2 monster = "
+ETC_20150317_004633	MonTactics of InvItem2 monster = "
+xETC_20150317_004634	Chance of InvItem2 monster = ScpArgMsg ("Auto_
 ETC_20150317_004635	Monster InvItem3
-ETC_20150317_004636	ClassName of InvItem3 a monster = "
-ETC_20150317_004637	MonTactics of InvItem3 a monster = "
-ETC_20150317_004638	InvItem3 Probability of monster = ScpArgMsg ("Auto_
+ETC_20150317_004636	ClassName of InvItem3 monster = "
+ETC_20150317_004637	MonTactics of InvItem3 monster = "
+xETC_20150317_004638	InvItem3 Chance of monster = ScpArgMsg ("Auto_
 ETC_20150317_004639	InvItem4 Monster
-ETC_20150317_004640	InvItem4 ClassName of a monster = "
-ETC_20150317_004641	InvItem4 MonTactics of a monster = "
-ETC_20150317_004642	InvItem4 Probability of monster = ScpArgMsg ("Auto_
-ETC_20150317_004643	Setting of kill monsters conditions = ScpArgMsg ("Auto_MoDu_ManJog_ (AND)")
-ETC_20150317_004644	Setting of kill monsters conditions = ScpArgMsg ("Auto_HaNaMan_ManJog_ (OR)")
+ETC_20150317_004640	InvItem4 ClassName of monster = "
+ETC_20150317_004641	InvItem4 MonTactics of monster = "
+xETC_20150317_004642	InvItem4 Chance of monster = ScpArgMsg ("Auto_
+xETC_20150317_004643	Monster Kill Conditions setting = ScpArgMsg ("Auto_MoDu_ManJog_ (AND)")
+xETC_20150317_004644	Monster Kill Conditions setting = ScpArgMsg ("Auto_HaNaMan_ManJog_ (OR)")
 ETC_20150317_004645	MonKill1 = "Monster Name:
 ETC_20150317_004646	/ Target Kill Count:
 ETC_20150317_004647	MonKill2 = "Monster Name:
@@ -4663,30 +4663,30 @@ ETC_20150317_004662	EXP = "
 ETC_20150317_004663	N/A
 ETC_20150317_004664	He
 ETC_20150317_004665	and the {Auto_1} statement is linked 2 Itodan
-ETC_20150317_004666	There is a new argument, make two groups!
-ETC_20150317_004667	I do not have a new argument!
+xETC_20150317_004666	There is two new arguments!
+xETC_20150317_004667	No new argument!
 ETC_20150317_004668	My seed Anne
-ETC_20150317_004669	Number of monsters killed in level:
+ETC_20150317_004669	Number of monsters killed per level:
 ETC_20150317_004670	Killed
-ETC_20150317_004671	Number of Level Monster:
-ETC_20150317_004672	The average consumption of time when one animal level:
+xETC_20150317_004671	Monster Level:
+xETC_20150317_004672	Average time spent on hunting one monster per level:
 ETC_20150317_004673	(In seconds)
-ETC_20150317_004674	Time it took to level up:
+xETC_20150317_004674	Time taken to level up:
 ETC_20150317_004675	Simple_AI has not been applied!
 ETC_20150317_004676	Basic data ClassID:
 ETC_20150317_004677	ClassID:
 ETC_20150317_004678	/ Application site:
-ETC_20150317_004679	Color set ClassName:
-ETC_20150317_004680	Red color values:
-ETC_20150317_004681	/ Value of Green:
-ETC_20150317_004682	/ Blue values ??of
-ETC_20150317_004683	I want to change the color. The values ??of the arguments ClassID:
-ETC_20150317_004684	#NAME?
-ETC_20150317_004685	You will not be able to proceed any further...!
-ETC_20150317_004686	Please say Te:
-ETC_20150317_004687	Please enter accurately:
-ETC_20150317_004688	while you pull out
-ETC_20150317_004689	During knock
+xETC_20150317_004679	Use data from ColorSet ClassName:
+xETC_20150317_004680	Red values:
+xETC_20150317_004681	/ Green values :
+xETC_20150317_004682	/ Blue values 
+xETC_20150317_004683	Change the color. Element values ClassID:
+xETC_20150317_004684	 then	-- Not associated with the quest QuestName 
+xETC_20150317_004685	You cannot proceed any further...!
+xETC_20150317_004686	Please copy:
+xETC_20150317_004687	Please enter correctly:
+xETC_20150317_004688	Selecting
+xETC_20150317_004689	Knocking
 ETC_20150317_004690	{S16}{#f0dcaa} Level {nl}
 ETC_20150317_004691	Sorcerer
 ETC_20150317_004692	Number of selected items
@@ -4695,26 +4695,26 @@ ETC_20150317_004694	{nl}{#ff0000} The code is not supported. Please check the Da
 ETC_20150317_004695	{#050505}{s18}{b} When socketed:
 ETC_20150317_004696	{#050505}{s22}{b} When equipped:
 ETC_20150317_004697	{@st42} Use
-ETC_20150317_004698	Shop for sale
-ETC_20150317_004699	Shop not for sale
-ETC_20150317_004700	Individual tradable
-ETC_20150317_004701	Individual transaction impossible
-ETC_20150317_004702	And when attached to the card socket,
-ETC_20150317_004703	This anvil does not match this type of equipment
+xETC_20150317_004698	Able to sell in shop
+xETC_20150317_004699	Unable to sell in shop
+xETC_20150317_004700	Private transaction possible
+xETC_20150317_004701	Private transaction impossible
+xETC_20150317_004702	When equipping card sockets,
+xETC_20150317_004703	This anvil is incompatible with this type of equipment
 ETC_20150317_004704	Event
-ETC_20150317_004705	Devils
+ETC_20150317_004705	Demons
 ETC_20150317_004706	Where are you???
-ETC_20150317_004707	Unconfirmed
-ETC_20150317_004708	{@st42b} full risk index
+xETC_20150317_004707	Unidentified
+xETC_20150317_004708	{@st42b} Complete Adventure Index
 ETC_20150317_004709	{@st42b} My Adventure
-ETC_20150317_004710	Special compensation
+xETC_20150317_004710	Special Compensation
 ETC_20150317_004711	{S20}{#050505} Attack:
 ETC_20150317_004712	{S20}{#050505} Defense:
 ETC_20150317_004713	You do not have enough silver.
 ETC_20150317_004714	This advancement quest has not been implemented yet.
 ETC_20150317_004715	Chat
 ETC_20150317_004716	{@st61} Normal Chat
-ETC_20150317_004717	And conversation
+xETC_20150317_004717	 Chatting with
 ETC_20150317_004718	Normal Chat
 ETC_20150317_004719	Party Chat
 ETC_20150317_004720	Group
@@ -4727,23 +4727,23 @@ ETC_20150317_004726	{@st43} Silver 0
 ETC_20150317_004727	{@st43} Silver
 ETC_20150317_004728	Discarded
 ETC_20150317_004729	(Warp Scroll)
-ETC_20150317_004730	
+ETC_20150317_004730	Silver consumption
 ETC_20150317_004731	{@st41b}Confirm{/}
-ETC_20150317_004732	{@st59} consumes silver to move to the area. {/}
-ETC_20150317_004733	{@st59} to move to the\ area. {/}
+ETC_20150317_004732	{@st59} consumes silver to move to the selected area. {/}
+xETC_20150317_004733	{@st59} move to the selected area. {/}
 ETC_20150317_004734	Map
-ETC_20150317_004735	Map Explored
+xETC_20150317_004735	Area Explored
 ETC_20150317_004736	{S20}{#00f00F} My Ranking:
 ETC_20150317_004737	Acquisition
-ETC_20150317_004738	No order
+xETC_20150317_004738	Unranked
 ETC_20150317_004739	Acquisition
 ETC_20150317_004740	{S20}{ol}{#00f00F} My Ranking:
 ETC_20150317_004741	No data
 ETC_20150317_004742	No rank last week
 ETC_20150317_004743	Hunting
-ETC_20150317_004744	{@st64} Let's apply that approach to the NPC dialogue with \ ScpArgMsg ("Auto_SeuPeiSeuBa \")!
+xETC_20150317_004744	{@st64} Let's approach the NPC and interact via \ ScpArgMsg ("Auto_SeuPeiSeuBa \")!
 ETC_20150317_004745	{@st43} Learn the basic controls!
-ETC_20150317_004746	(In the block)
+xETC_20150317_004746	(Blocking)
 ETC_20150317_004747	Select your {@st41b} reward: {/}
 ETC_20150317_004748	No items
 ETC_20150317_004749	{@st41} Monster Kill Top 100
@@ -4756,25 +4756,25 @@ ETC_20150317_004755	{@st41b} Ranking
 ETC_20150317_004756	{@st41}{#f0dcaa} Average kills
 ETC_20150317_004757	{@st41}{#f0dcaa} Average level
 ETC_20150317_004758	{@st41}{#f0dcaa} Average silver
-ETC_20150317_004759	One obtains
+xETC_20150317_004759	x obtained
 ETC_20150317_004760	(Active)
 ETC_20150317_004761	Ice
 ETC_20150317_004762	{@st41} icon
 ETC_20150317_004763	{@st41}List
 ETC_20150317_004764	{@st54}{b} Select Reward{/}
-ETC_20150317_004765	Nudoku I was mounting the Son Bol pocket in Kochi.
-ETC_20150317_004766	Nudoku is available in Kochi!
-ETC_20150317_004767	Can be used in the tree Ferri!
-ETC_20150317_004768	Horsepower charge (
-ETC_20150317_004769	During charging
-ETC_20150317_004770	Pocket Bukkake
-ETC_20150317_004771	Bob came out from the body of the tree Feliciano!
-ETC_20150317_004772	Nudoku pocket was covered Kochi
-ETC_20150317_004773	Use effect in the vicinity of the Asmodian summoned enabled occurs!
-ETC_20150317_004774	Visible flower powder in collection
-ETC_20150317_004775	There is no PC
-ETC_20150317_004776	I drink a visible pollen stimulants
-ETC_20150317_004777	Meshumumaruko was found in the visible flowers!
+xETC_20150317_004765	Bagworm was covered with a Son Bol pocket.
+xETC_20150317_004766	Can be used on a Bagworm!
+xETC_20150317_004767	Can be used on a Truffle!
+xETC_20150317_004768	Magic charge (
+xETC_20150317_004769	Charging
+xETC_20150317_004770	Cover up with a bag
+xETC_20150317_004771	A barb was released from Truffle's body!
+xETC_20150317_004772	Bagworm in a bag
+xETC_20150317_004773	The effects of a Demon summon will occur around the vicinity!
+xETC_20150317_004774	Collecting Thorn Flower Pollen
+xETC_20150317_004775	No PC
+xETC_20150317_004776	Drink Thorn Flower Pollen Stimulant
+xETC_20150317_004777	Meshumuma appeared in the thorny flowers!
 ETC_20150317_004778	Matsum: Meshumu: 50 / Matsum: Meshumu: 50 / Matsum: Meshumu: 50 / Matsum_Big: Meshumuma: 51
 ETC_20150317_004779	Regarding the five Goddesses
 ETC_20150317_004780	About Goddess Ausrine
@@ -4783,28 +4783,28 @@ ETC_20150317_004782	About Goddess Gabija
 ETC_20150317_004783	About Goddess Zemyna
 ETC_20150317_004784	About Goddess Vakarine
 ETC_20150317_004785	Ask about the Divine Day
-ETC_20150317_004786	Ask what happened next
-ETC_20150317_004787	I found the lever handle!
-ETC_20150317_004788	I found the information about the flow of horsepower.
-ETC_20150317_004789	Special information cannot be found.
-ETC_20150317_004790	Please remove the trap which attracts the monster!
-ETC_20150317_004791	More monsters are approaching, it is dangerous.
-ETC_20150317_004792	Purifying contaminated area
-ETC_20150317_004793	Purified Demon's contaminated area!
-ETC_20150317_004794	I failed to strengthen the doll
-ETC_20150317_004795	
-ETC_20150317_004796	Shaman dolls for destruction
-ETC_20150317_004797	Great eyes have whispered you to the right person is a Watono.
-ETC_20150317_004798	Part of the fragmentation barrier is insufficient!
+xETC_20150317_004786	Ask what happened from that day on
+xETC_20150317_004787	Found a fixed iron lever handle!
+xETC_20150317_004788	Found information about the flow of magic.
+xETC_20150317_004789	Unable to find special information.
+xETC_20150317_004790	Please remove the Monster Lure!
+xETC_20150317_004791	It will be dangerous if we get any closer.
+xETC_20150317_004792	Purifying infected area
+xETC_20150317_004793	Purified Demon infected area!
+xETC_20150317_004794	Failed to enhance the doll
+xETC_20150317_004795	Summoned Panto Wizard
+xETC_20150317_004796	Shaman Dolls of Destruction
+xETC_20150317_004797	The Ruler's eyes whispered to you that the right person has came.
+xETC_20150317_004798	Lacking Broken Barrier fragments!
 ETC_20150317_004799	Junior Spirit
-ETC_20150317_004800	The work was fully collected!
-ETC_20150317_004801	Saule Goddess. please protect me
-ETC_20150317_004802	Saule Goddess. Please lend me your power to overcome my crisis
-ETC_20150317_004803	that the miracle happens...
-ETC_20150317_004804	To strengthen visible pollen stimulants
-ETC_20150317_004805	I drink stimulants
-ETC_20150317_004806	Bram table was disappears aura of turbidity is installed.
-ETC_20150317_004807	During clearly won
+xETC_20150317_004800	Fully collected fragments!
+xETC_20150317_004801	Goddess Saule, please protect me.
+xETC_20150317_004802	Goddess Saule, please lend me your power to overcome my crisis.
+xETC_20150317_004803	Miracles happen...
+xETC_20150317_004804	Enhance Thorn Flower Pollen stimulants
+xETC_20150317_004805	Drink stimulants
+xETC_20150317_004806	The murky aura that Bramble planted disappeared.
+xETC_20150317_004807	Acquiring divine revelation
 ETC_20150317_004808	Repair
 ETC_20150317_004809	Secondary Equipment
 ETC_20150317_004810	One-Handed Sword
@@ -4819,10 +4819,10 @@ ETC_20150317_004818	One-Handed Spear
 ETC_20150317_004819	Two-Handed Spear
 ETC_20150317_004820	Shield
 ETC_20150317_004821	Dagger
-ETC_20150317_004822	No, this taste?
+xETC_20150317_004822	Ugh, what's this taste?
 ETC_20150317_004823	It's so good!
 ETC_20150317_004824	*munch munch gulp gulp*
-ETC_20150317_004825	Learn the characteristics that can wear the attached item.
+xETC_20150317_004825	You must learn the necessary skill to wear the selected item.
 ETC_20150317_004826	Learn immediately
 ETC_20150317_004827	Buy items for Companion
 ETC_20150317_004828	Adopt Companion
@@ -4830,48 +4830,48 @@ ETC_20150317_004829	Train Companion
 ETC_20150317_004830	Not available in Klaipeda.
 ETC_20150317_004831	Tool Shop
 ETC_20150317_004832	Benefits of having a Companion
-ETC_20150317_004833	Please defeat monsters to protect the Asmodian summoned team ahead.
-ETC_20150317_004834	Barrier behavior of form plastic hill! {nl}
+xETC_20150317_004833	Protect the demon summoners by defeating the monsters ahead.
+xETC_20150317_004834	Barrier of Pompra Hill activated!{nl}
 ETC_20150317_004835	Collecting Freshwater
-ETC_20150317_004836	Yes I fell into fender scan confusion state. You need to collect the now freshwater!
-ETC_20150317_004837	Is allowed to neutralize your fender vinegar, you will need to collect fresh water.
-ETC_20150317_004838	In good whetstone collection quality
-ETC_20150317_004839	I won the sound my tree!
-ETC_20150317_004840	There was no tree of skipping.
-ETC_20150317_004841	Discriminating
+xETC_20150317_004836	Nefender fell into a confusion state. Collect freshwater to cure it!
+xETC_20150317_004837	You need to collect fresh water in order to heal Nefender.
+xETC_20150317_004838	Concentrating Quality Grindstone
+xETC_20150317_004839	Obtained Tree of Sound!
+xETC_20150317_004840	There was no Tree of Sound.
+xETC_20150317_004841	Appraising
 ETC_20150317_004842	Mother
 ETC_20150317_004843	Obtained a synthetic poison!
-ETC_20150317_004844	Hidden Monsters
-ETC_20150317_004845	The monster has been released
-ETC_20150317_004846	Rubbing
-ETC_20150317_004847	You can use the smoke bombs
+xETC_20150317_004844	Hidden Monster
+xETC_20150317_004845	Allowed the monster to escape
+xETC_20150317_004846	Making stone rubbing
+xETC_20150317_004847	You can use smoke bombs
 ETC_20150317_004848	Did not take more than five!
 ETC_20150317_004849	Caught more than five!
 ETC_20150317_004850	Monster [
 ETC_20150317_004851	] was provoked!
-ETC_20150317_004852	Success of field training of Phalaxn!
+xETC_20150317_004852	Successful Phalanx field training!
 ETC_20150317_004853	This information has already been collected
-ETC_20150317_004854	I drew rubbings
-ETC_20150317_004855	Gathered the rubbing.{nl}Return to Smith Epigraphist!
-ETC_20150317_004856	defeated all interfered Infrobirk{nl}Start the rubbing working!
-ETC_20150317_004857	You are too far away from the soul jar.{nl}In order to collect more souls, you have to come closer and kill them.
+xETC_20150317_004854	Gathering stone rubbings
+xETC_20150317_004855	Gathered stone rubbings.{nl}Return to the Epigraph Smith!
+xETC_20150317_004856	Defeated all interfering InfroBark{nl}Start crafting via stone rubbing!
+ETC_20150317_004857	Your soul jar is too far away.{nl}Please move closer in order to obtain souls.
 ETC_20150317_004858	Forest of Thorns
-ETC_20150317_004859	Defeated Devilglove who interfered with the monument. {nl}Please check the contents of the monument.
-ETC_20150317_004860	Stat has risen by 1 point by using the Jeubek.
+ETC_20150317_004859	Defeated Devilglove who was disturbing the monument. {nl}Check the contents of the monument.
+xETC_20150317_004860	Stat has risen by 1 point by using the Jeubek technique.
 ETC_20150317_004861	What happened?
 ETC_20150317_004862	What should we do?
-ETC_20150317_004863	I request the magic support
-ETC_20150317_004864	Removed the summoning circle of the demon!
+xETC_20150317_004863	Requested for magic support
+xETC_20150317_004864	Removed the demon summoning circle!
 ETC_20150317_004865	Hurry up! Activate the barrier!
-ETC_20150317_004866	Huff and Puff
+xETC_20150317_004866	*huff huff*
 ETC_20150317_004867	Collected fresh water!
 ETC_20150317_004868	This request has already been accepted
 ETC_20150317_004869	You have already finished this daily request
 ETC_20150317_004870	Request accepted
 ETC_20150317_004871	You have exceeded the maximum amount of active requests
 ETC_20150317_004872	You have exceeded the maximum amount of active daily requests
-ETC_20150317_004873	Start request
-ETC_20150317_004874	Start at the beginning of the request
+xETC_20150317_004873	Start request
+xETC_20150317_004874	Requirements to start request
 ETC_20150317_004875	Please use the item
 ETC_20150317_004876	You do not have enough Silver
 ETC_20150317_004877	Insufficient iCoins
@@ -4898,115 +4898,115 @@ ETC_20150317_004897	Luring Baby Panto
 ETC_20150317_004898	Looks like the Baby Panto remembered something and started running somewhere!
 ETC_20150317_004899	Please send your commander my favor.
 ETC_20150317_004900	Shaman Dolls of Purification
-ETC_20150317_004901	Asmodian contaminated land
+xETC_20150317_004901	Demon Infected Land
 ETC_20150317_004902	The Panto Totem can not be destroyed as it is surrounded by Demons.
 ETC_20150317_004903	Defeated Simorph!
 ETC_20150317_004904	Purifying shaman dolls defeated the Carnivore!
-ETC_20150317_004905	Purifying shaman dolls found the contaminated area!
+xETC_20150317_004905	Purifying shaman dolls found the Infected Land!
 ETC_20150317_004906	Thank you, my old friend.
-ETC_20150317_004907	About Holy material of cure
+ETC_20150317_004907	About the Healing Holy material
 ETC_20150317_004908	About the first Paladin
 ETC_20150317_004909	About future plans
 ETC_20150317_004910	Quit
-ETC_20150317_004911	The Demons Soul has been destroyed.
-ETC_20150317_004912	Recharging the weak barriers strength!
-ETC_20150317_004913	Souls of Demon is divided by holy strength.{nl}Kill the divided souls!
+xETC_20150317_004911	Demon souls extinguished.
+xETC_20150317_004912	Recharging the weak barriers!
+xETC_20150317_004913	Demon Souls were divided by holy energy.{nl}Kill the divided souls!
 ETC_20150317_004914	Activating Barrier
-ETC_20150317_004915	Separated Demon Souls
-ETC_20150317_004916	The strength of the barrier can be activated{nl}if the weaken monsters are nearby.
-ETC_20150317_004917	Obtained a piece of the destroyed barrier.
-ETC_20150317_004918	The forests barrier was recharged using the Demon Souls.
-ETC_20150317_004919	The barrier can be recharged by killing Demons nearby.
-ETC_20150317_004920	Charging of the weakened barrier was completed.
-ETC_20150317_004921	Graffiting
-ETC_20150317_004922	You have finished drawing the pentagram in the summoning circle.
-ETC_20150317_004923	A brainwashed Panto
-ETC_20150317_004924	
+xETC_20150317_004915	Divided Demon Souls
+xETC_20150317_004916	The barrier powers will be activated{nl}when weakened monsters are nearby.
+xETC_20150317_004917	Obtained a Broken Barrier fragment.
+xETC_20150317_004918	The weakened barrier was recharged using the Demon Souls.
+xETC_20150317_004919	The barrier can be recharged by killing Demons nearby.
+xETC_20150317_004920	Finished recharging weakened barrier.
+xETC_20150317_004921	Marking
+xETC_20150317_004922	Finished marking a summoning circle pentagram.
+xETC_20150317_004923	Brainwashed Panto
+xETC_20150317_004924	Successfully brainwashed Red Panto Spearman. Defeat it!
 ETC_20150317_004925	Defeated Big Panto Spearman!
 ETC_20150317_004926	Not enough evil water.
-ETC_20150317_004927	Obtained the purified water.
+xETC_20150317_004927	Obtained purified water.
 ETC_20150317_004928	Obtained evil water.
 ETC_20150317_004929	Acquired enough purified essences.
 ETC_20150317_004930	Attaching
-ETC_20150317_004931	Attached the spirit bomb to Glizardon!
+xETC_20150317_004931	Attached a Spirit Bomb on Glizardon!
 ETC_20150317_004932	Drank the Holy Water of Romuda.{nl}You have become invisible for a while!
-ETC_20150317_004933	Installed the Spirit Stone.{nl}Recharge it by attracting Demons near it!
-ETC_20150317_004934	Putting into the piece
-ETC_20150317_004935	I was put into the work.
-ETC_20150317_004936	It is already pillar part is sandwiched.
-ETC_20150317_004937	Not enough pieces!
-ETC_20150317_004938	Revelator came here to be die by himself
-ETC_20150317_004939	
-ETC_20150317_004940	Tell them Gesti need you
-ETC_20150317_004941	Tell them I found it interesting
-ETC_20150317_004942	We have to go someplaces
-ETC_20150317_004943	We are late. Look smart
-ETC_20150317_004944	It's nothing
-ETC_20150317_004945	If you do not want to, just tell me
-ETC_20150317_004946	All right.. Let's go
-ETC_20150317_004947	You are a little strange..
-ETC_20150317_004948	Convincing success!{nl}Take the Apsauga to the Altar
+xETC_20150317_004933	Inserted Spirit Stone.{nl}Recharge it by luring demons near it!
+xETC_20150317_004934	Placing fragments
+xETC_20150317_004935	fragments placed.
+xETC_20150317_004936	Already placed fragments.
+xETC_20150317_004937	Not enough fragments!
+xETC_20150317_004938	The Revelators came here to provide death to me.
+xETC_20150317_004939	Treatment{n1}You gained a feeling of confidence.
+xETC_20150317_004940	Gesti is looking for you.
+xETC_20150317_004941	I found something interesting
+xETC_20150317_004942	There's a place we need to go to.
+xETC_20150317_004943	We are late. Look smart.
+xETC_20150317_004944	It's nothing.
+xETC_20150317_004945	If you do not want to, just tell me.
+xETC_20150317_004946	All right... Let's go.
+xETC_20150317_004947	You are a little strange...
+xETC_20150317_004948	Conversion successful!{nl}Take Apsaw to the Altar
 ETC_20150317_004949	You are chasing the player
-ETC_20150317_004950	How far do we have to go?
-ETC_20150317_004951	Say you'll approach the altar's beads
-ETC_20150317_004952	Say Goodbye
-ETC_20150317_004953	Please wait a second
+xETC_20150317_004950	How far do I have to go?
+xETC_20150317_004951	Approach the altar's orb.
+xETC_20150317_004952	Say farewell
+ETC_20150317_004953	Please wait a second.
 ETC_20150317_004954	Do I wait here?
-ETC_20150317_004955	Tell Apsauga to approach the altar{nl}by talking to him again
-ETC_20150317_004956	Discovered by Corylus!{nl}show the cloven hoof.
-ETC_20150317_004957	Converted the demons!
-ETC_20150317_004958	The strength of globejas is already activating!
-ETC_20150317_004959	Transformation!{nl}Lure the Apsauge into the altar by persuading Pawndel and Pawnd!
-ETC_20150317_004960	You created a crude exploration bar
-ETC_20150317_004961	Exploration Place
-ETC_20150317_004962	Exploring
-ETC_20150317_004963	You found the exploration point.
-ETC_20150317_004964	You found the fragment of the first tombstone!
-ETC_20150317_004965	collecting fragments
-ETC_20150317_004966	You received the the historical dust fragments!
-ETC_20150317_004967	Igniting
-ETC_20150317_004968	You have obtained the sap of the Ambulo Tree!
-ETC_20150317_004969	I've installed the sap collector!
-ETC_20150317_004970	Show me the contents of Rukly's memorial
-ETC_20150317_004971	Comfort
-ETC_20150317_004972	You have removed the summon position of Demon.{nl} Please report to Caryetos followers!
-ETC_20150317_004973	You have obtained charcoals of long arm tree!
-ETC_20150317_004974	Charcoals of long arm tree are not enough.
-ETC_20150317_004975	You obtained third rubbing.
-ETC_20150317_004976	Working
-ETC_20150317_004977	You were noticed by Infrobirk!
-ETC_20150317_004978	The roasted arrowheads are created!
-ETC_20150317_004979	You obtained the experimental material!
-ETC_20150317_004980	The attempt to mind control the Lizardman was successful.
-ETC_20150317_004981	The attempt to mind control the Infrobirk was successful.
-ETC_20150317_004982	Mind-controlled Infrobirk
-ETC_20150317_004983	Mind-controlled Lizardman
-ETC_20150317_004984	You obtained the items.
-ETC_20150317_004985	The Domination Stone is already in use
+xETC_20150317_004955	Tell Apsaw to approach the altar{nl}by talking to him again
+xETC_20150317_004956	A Corylus found you!{nl}Your identity has been revealed.
+xETC_20150317_004957	Converted the demon monster!
+xETC_20150317_004958	The power of Globejas is already activating!
+xETC_20150317_004959	Transform!{nl}Lure the Apsaw into the altar by persuading Pawndel and Pawndo!
+xETC_20150317_004960	You created a crude investigation bar
+xETC_20150317_004961	Investigation Site
+xETC_20150317_004962	Investigating
+xETC_20150317_004963	You found an Investigation Site.
+xETC_20150317_004964	You found the first tombstone fragment!
+xETC_20150317_004965	Collecting fragments
+xETC_20150317_004966	You obtained dusty ruin fragments!
+xETC_20150317_004967	Igniting
+xETC_20150317_004968	Obtained some TreeAmbulo sap!
+xETC_20150317_004969	Installed a sap collector!
+xETC_20150317_004970	Read Rukly's memorial tombstone.
+xETC_20150317_004971	Consoling
+xETC_20150317_004972	You have dispelled the demon's magic circle.{nl} Report back to the followers of Caryetos!
+xETC_20150317_004973	Obtained a long charcoal cross!
+xETC_20150317_004974	Not enough long charcoal crosses.
+xETC_20150317_004975	Obtained the third rubbing stone.
+xETC_20150317_004976	Crafting
+xETC_20150317_004977	You were revealed by InfroBark!
+xETC_20150317_004978	Crafted tempered arrowheads!
+xETC_20150317_004979	Obtained experimental ingredients!
+xETC_20150317_004980	The Lizardman was successfully hypnotized!
+xETC_20150317_004981	The InfroBark was successfully hypnotized!
+xETC_20150317_004982	Hypnotized InfroBark
+xETC_20150317_004983	Hypnotized Lizardman
+xETC_20150317_004984	Obtained a waterweed
+xETC_20150317_004985	The Supremacy Stone is already in use
 ETC_20150317_004986	Hey you! And you interested?
-ETC_20150317_004987	Measuring
-ETC_20150317_004988	The response of petrifaction alarming is uncommon!
-ETC_20150317_004989	
-ETC_20150317_004990	
-ETC_20150317_004991	Delivering
-ETC_20150317_004992	You have delivered the bottle which has a password engraved on it.
+xETC_20150317_004987	Measuring
+xETC_20150317_004988	The response of mineral detector is unusual!
+xETC_20150317_004989	There was no response from the detector.
+ETC_20150317_004990	You acquired stolen flint.
+xETC_20150317_004991	Delivering
+xETC_20150317_004992	Delivered the jug with a engraved passcode.
 ETC_20150317_004993	Where did you find such clean water?
 ETC_20150317_004994	I will drink this after work. Thank you!
 ETC_20150317_004995	We helped you. It's no problem...
-ETC_20150317_004996	I've have never seen water bottle. drink well
-ETC_20150317_004997	Premier Eminent Hooray!
-ETC_20150317_004998	
-ETC_20150317_004999	Covering
-ETC_20150317_005000	I covered it in scented stone powder!
-ETC_20150317_005001	Incense Stone Powder has already been applied!
-ETC_20150317_005002	Checking the records...
-ETC_20150317_005003	
-ETC_20150317_005004	Rubbing...
-ETC_20150317_005005	Produced a rubbing of the petrified book!
-ETC_20150317_005006	
-ETC_20150317_005007	Checking consciousness...
+xETC_20150317_004996	I've have never seen that jug. Let me take a sip.
+xETC_20150317_004997	Long live Premier Eminent!
+xETC_20150317_004998	The Goddess quenched my thirst.
+xETC_20150317_004999	Applying
+xETC_20150317_005000	Applied the Scented Stone Powder!
+xETC_20150317_005001	Scented Stone Powder has already been applied!
+xETC_20150317_005002	Checking records...
+xETC_20150317_005003	Checking memento...
+xETC_20150317_005004	Rubbing stone onto paper...
+xETC_20150317_005005	Crafted a book from stone rubbing!
+xETC_20150317_005006	Threw anti-petrification potion!
+xETC_20150317_005007	Diagnosing
 ETC_20150317_005008	She already seems unconscious.
-ETC_20150317_005009	
+xETC_20150317_005009	Consoled the guards.
 ETC_20150317_005010	Thank you.
 ETC_20150317_005011	I can't see anything.
 ETC_20150317_005012	I can't move!
@@ -5014,24 +5014,24 @@ ETC_20150317_005013	I want to see my mother.
 ETC_20150317_005014	Why do I have to die?!
 ETC_20150317_005015	O' Goddess, help me...
 ETC_20150317_005016	Is there anyone who can help?!
-ETC_20150317_005017	Using the liberation potion...
-ETC_20150317_005018	
-ETC_20150317_005019	You have lit the hearth!
-ETC_20150317_005020	You obtained the records about the Ruklys era.
+xETC_20150317_005017	Applying Spirit Liberation potion...
+xETC_20150317_005018	Making fire
+xETC_20150317_005019	Lit the hearth!
+xETC_20150317_005020	You have obtained records about the Ruklys era.
 ETC_20150317_005021	{@st41}Open your inventory by pressing the {img F2 40 40} key and use the EXP card. {nl} {@st50} The {img icon_item_expcard 40 40} EXP card will reward you with experience points. {/}
-ETC_20150317_005022	The tombstone lanterns are being attacked by the guardians!
-ETC_20150317_005023	Bearkaras' suppressed power has returned!
+xETC_20150317_005022	The Royal Mausoleum lanterns are being attacked by the guardians!
+xETC_20150317_005023	Bearkaras' restrained power has returned!
 ETC_20150317_005024	Panto_Rsword: Hot Panto Fighter: 50/Panto_Rspear: Hot Panto Spearman: 50/Panto_Rhand: Hot Panto: 50/Panto_Rstaff: Hot Panto Wizard: 51
-ETC_20150317_005025	Crafting the item
-ETC_20150317_005026	Ask about the Revelator
+xETC_20150317_005025	Crafting item
+ETC_20150317_005026	Ask about the Revelators
 ETC_20150317_005027	Ask about the current situation
 ETC_20150317_005028	Ask about the Divine Day that took place four years ago.
 ETC_20150317_005029	Ask about the disappearance of the Goddess
 ETC_20150317_005030	Ask what happened
-ETC_20150317_005031	I think you forgot to mention the Goddess Laima
+ETC_20150317_005031	I think you forgot to mention Goddess Laima
 ETC_20150317_005032	You found a map with the King's Seal!
-ETC_20150317_005033	
-ETC_20150317_005034	About the Magician's Tower
+xETC_20150317_005033	The villagers are all demons. Runaway via Grass Brook Side Exit.
+xETC_20150317_005034	About the Mage Tower
 ETC_20150317_005035	About the Cursed City
 ETC_20150317_005036	About the Fedimian
 ETC_20150317_005037	About the Cathedral
