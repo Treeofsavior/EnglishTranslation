@@ -1,4 +1,4 @@
-##NOTICE (Updated 07-14-2015)
+##NOTICE (Updated 07-23-2015)
 
 1. We'd like to hear your thoughts on setting Guidelines for the translations in Github. Please share your suggestions with us  [**HERE**](https://github.com/Treeofsavior/EnglishTranslation/issues/540
 
