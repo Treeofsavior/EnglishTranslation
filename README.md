@@ -1,6 +1,6 @@
 ##NOTICE (Updated 07-23-2015)
 
-1. We'd like to hear your thoughts on setting Guidelines for the translations in Github. Please share your suggestions with us  [**HERE**](https://github.com/Treeofsavior/EnglishTranslation/issues/540
+1. We'd like to hear your thoughts on setting Guidelines for the translations in Github. Please share your suggestions with us  [**HERE**](https://github.com/Treeofsavior/EnglishTranslation/issues/540)
 
 2. Translation files have been **UPDATED**. There may be some lines with unusual spacings to fit the actual game UI's. We had to make inevitable changes to the line codes for lines dated after 20150511. **(NEW)**
 
