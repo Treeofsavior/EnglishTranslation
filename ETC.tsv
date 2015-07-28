@@ -1760,7 +1760,7 @@ ETC_20150317_001759	{nl}{nl}Number of magic amulets that can be equipped: {Remai
 ETC_20150317_001760	Please select the item to repair.
 ETC_20150317_001761	There is no item to repair.
 ETC_20150317_001762	Not possible on this type of item.
-ETC_20150317_001763	, Equipable
+ixETC_20150317_001763	 can equip
 ETC_20150317_001764	You do not have enough Potential to trade.
 ETC_20150317_001765	Please select an item.
 ETC_20150317_001766	Do you want to consume the selected items to create poison?
@@ -2862,7 +2862,7 @@ ETC_20150317_002861	Collection
 ETC_20150317_002862	Collection has been registered.
 ETC_20150317_002863	Only through the NPC can be registered.
 ETC_20150317_002864	Obtained {Auto_2} from {Auto_1}
-ETC_20150317_002865	- Total
+ETC_20150317_002865	#NAME?
 ETC_20150317_002866	Explored
 ETC_20150317_002867	{Auto_1} Quest(s) cleared
 ETC_20150317_002868	{Auto_1} NPC(s) met
@@ -3561,7 +3561,7 @@ ETC_20150317_003560	Show directions to the West Forest Camp
 ETC_20150317_003561	Company Ullman Warrior
 ETC_20150317_003562	Dionia
 ETC_20150317_003563	Thorn ball
-ETC_20150317_003564	Move between camps:
+ixETC_20150317_003564	Move between camps : 
 ETC_20150317_003565	Activated
 ETC_20150317_003566	Index UI
 ETC_20150317_003567	Item maintenance
@@ -3646,7 +3646,7 @@ ETC_20150317_003645	s treasure chest
 ETC_20150317_003646	Found treasure chest
 ETC_20150317_003647	Results: Recognizing same type confirmed!
 ETC_20150317_003648	The jar will be destroyed if you move further away!
-ETC_20150317_003649	Move between camps: Activate Klaipeda
+ixETC_20150317_003649	Move between camps : Activate Klaipeda
 ETC_20150317_003650	Obtained anvil for weapon enhancement
 ETC_20150317_003651	Pbj of killed monster is not found
 ETC_20150317_003652	Use key to absorbed magic circle scroll {nl} then kill monster on top of the magic circle to charge crystal
@@ -4692,8 +4692,8 @@ ETC_20150317_004691	Sorcerer
 ETC_20150317_004692	Number of selected items
 ETC_20150317_004693	Default
 ETC_20150317_004694	{nl}{#ff0000} The code is not supported. Please check the Datatree_tooltipset {nl}
-ETC_20150317_004695	{#050505}{s18}{b} When socketed:
-ETC_20150317_004696	{#050505}{s22}{b} When equipped:
+ETC_20150317_004695	{#050505}{s18}{b} Socket Effect :
+ETC_20150317_004696	{#050505}{s22}{b} Item Effect :
 ETC_20150317_004697	{@st42} Use
 ETC_20150317_004698	Shop for sale
 ETC_20150317_004699	Shop not for sale
@@ -4882,7 +4882,7 @@ ETC_20150317_004881	Default session:
 ETC_20150317_004882	Other sessions:
 ETC_20150317_004883	Session List by made NPC creation without basic session
 ETC_20150317_004884	Please check the details of quest by pressing the key{nl}{@st50}Detailed information can be found through the help
-ETC_20150317_004885	is used to teleport to Quest NPC.{nl}{@st50}You may also click on the {img questinfo_return 40 40} button{/}
+ixETC_20150317_004885	 enables you to teleport back to Quest NPC.{nl}{@st50}You may also click on the {img questinfo_return 40 40} button{/}
 ETC_20150317_004886	{@st50}Key of the Quest Information{/}
 ETC_20150317_004887	The shaman doll of destruction has destroyed the Panto totem!
 ETC_20150317_004888	The holy beads have been charged by attacking the Demon forces.
@@ -6184,7 +6184,7 @@ ETC_20150317_006183	Spray - Orange
 ETC_20150317_006184	Spray - Yellow
 ETC_20150317_006185	Spray - Green
 ETC_20150317_006186	Red Gem
-ETC_20150317_006187	A gem that can be found in a dungeon. It is able to enhance equipment by equipping it in a socket.  When charged it exerts a stronger force. Right-click to equip it to an equipment of your choice.
+ETC_20150317_006187	A gem that can be found in a dungeon. {nl}It is able to enhance equipment by equipping it in a socket. {nl}When charged it exerts a stronger force. Right-click to equip it to an equipment of your choice
 ETC_20150317_006188	Blue Gem
 ETC_20150317_006189	Green Gem
 ETC_20150317_006190	Yellow Gem
@@ -6256,7 +6256,7 @@ ETC_20150317_006255	Barbarians are reckless and aggressive warriors who are not 
 ETC_20150317_006256	Cataphract
 ETC_20150317_006257	Cataphracts use two hand spears. They are the cavalry who break through and scatter the enemy formations.
 ETC_20150317_006258	Corsair
-ETC_20150317_006259	Doppelsöldner
+ETC_20150317_006259	Doppelsoeldner
 ETC_20150317_006260	Rodelero
 ETC_20150317_006261	Rodeleros ambush and disintegrate enemies. Their defensive skills using shields are effective for blocking long range attacks.
 ETC_20150317_006262	Squire
@@ -7199,7 +7199,7 @@ ETC_20150317_007198	Summon Magic Dolls
 ETC_20150317_007199	Floryjonas
 ETC_20150317_007200	Companion Traders
 ETC_20150317_007201	Elementalist Master
-ETC_20150317_007202	Doppelsöldner Master
+ETC_20150317_007202	Doppelsoeldner Master
 ETC_20150317_007203	Baby Panto
 ETC_20150317_007204	Crystal Basket
 ETC_20150317_007205	Asleeped Nepenthes
@@ -7346,7 +7346,7 @@ ETC_20150317_007345	Use Pardoner Attributes
 ETC_20150317_007346	Buy Pardoner Items
 ETC_20150317_007347	Use Sorcerer Attributes
 ETC_20150317_007348	Use Necromancer Attributes
-ETC_20150317_007349	Use Doppelsöldner Attributes
+ETC_20150317_007349	Use Doppelsoeldner Attributes
 ETC_20150317_007350	Use Chronomancer Attributes
 ETC_20150317_007351	Attack +%d
 ETC_20150317_007352	Improves Critical Hit Rating by +%d
@@ -7468,20 +7468,20 @@ ETC_20150317_007467	Create bonfire (4)
 ETC_20150317_007468	Commander Vacenin (3)
 ETC_20150317_007469	Trading Info
 ETC_20150317_007470	Collect abandoned robbed tools 
-ETC_20150317_007471	Bait for Demon (4)	Last Mission (4)
+ETC_20150317_007471	Bait for Demon (4)
 ETC_20150317_007472	Search for relics (1)
 ETC_20150317_007473	Search for relics (2)
 ETC_20150317_007474	Unended request (5)
 ETC_20150317_007475	Styptic of monster
 ETC_20150317_007476	Disappeared Guard
 ETC_20150317_007477	Collect Valley Apynys
-ETC_20150317_007478	Detour block (1)	Light the fire(1)
+ETC_20150317_007478	Detour block (1)
 ETC_20150317_007479	Detour block (2)
-ETC_20150317_007480	Perfect defense (1)	The liberation of the magic(1)
-ETC_20150317_007481	Perfect defense (2)	The liberation of the magic(2)
-ETC_20150317_007482	Perfect defense (3)	The liberation of the magic(3)
+ETC_20150317_007480	Perfect defense (1)
+ETC_20150317_007481	Perfect defense (2)
+ETC_20150317_007482	Perfect defense (3)
 ETC_20150317_007483	Collect a energy of guardian
-ETC_20150317_007484	Additional Pollution Prevention	Prevent the pollution
+ETC_20150317_007484	Additional Pollution Prevention
 ETC_20150317_007485	Search for follower Tomas (1)
 ETC_20150317_007486	Search for follower Tomas (2)
 ETC_20150317_007487	Obtain a diary of Coben's brother
@@ -7523,7 +7523,7 @@ ETC_20150317_007522	Pilgrim memorial stone Writing
 ETC_20150317_007523	Solder's body Collection
 ETC_20150317_007524	Collection the butterfly scent of butterfly tomb
 ETC_20150317_007525	Check the neglected wagon
-ETC_20150317_007526	Memorial Ceremony (4)	Prayer for the Soul
+ETC_20150317_007526	Memorial Ceremony (4)
 ETC_20150317_007527	Guided Soul
 ETC_20150317_007528	Save the soul
 ETC_20150317_007529	Induce the souls
@@ -7535,9 +7535,9 @@ ETC_20150317_007534	Search for a Great Pillar (1)
 ETC_20150317_007535	Search for a Great Pillar (2)
 ETC_20150317_007536	Search for a Great Pillar (3)
 ETC_20150317_007537	Absorb the royal cube to break the Boowook around Royal Mausoleum cube.
-ETC_20150317_007538	Trial of King Zachariel the Great (1)	Recycle(1)
+ETC_20150317_007538	Trial of King Zachariel the Great (1)
 ETC_20150317_007539	Royal Mausoleum Guard Power Source Consecration to container
-ETC_20150317_007540	Trial of King Zachariel the Great (2)	Recycle(2)
+ETC_20150317_007540	Trial of King Zachariel the Great (2)
 ETC_20150317_007541	Recharge a soul pot to attract Mecania
 ETC_20150317_007542	Listen to the advice of King Zachariel the Great
 ETC_20150317_007543	Absorption Stone Charge Rate
@@ -7570,16 +7570,16 @@ ETC_20150317_007569	Ruklys of memorial (3)
 ETC_20150317_007570	Curiosity kills a epigraphist (1)
 ETC_20150317_007571	Curiosity kills a epigraphist (2)
 ETC_20150317_007572	Lydia Schaffen is leaving zeolite (1)
-ETC_20150317_007573	Activated Guard Device	Deviated Guardian
+ETC_20150317_007573	Activated Guard Device
 ETC_20150317_007574	Rexipher treatment
 ETC_20150317_007575	Chafer's Attack
-ETC_20150317_007576	Key to open the Skill window and learn skills
-ETC_20150317_007577	Bait for Demons (1)	Last Mission (1)
-ETC_20150317_007578	Bait for Demons (2)	Last Mission (2)
-ETC_20150317_007579	Bait for Demons (3)	Last Mission (3)
+ixETC_20150317_007576	 - Press this to open Skill window and learn skills
+ETC_20150317_007577	Bait for Demons (1)
+ETC_20150317_007578	Bait for Demons (2)
+ETC_20150317_007579	Bait for Demons (3)
 ETC_20150317_007580	Defeat the monster to use a experimental bait
-ETC_20150317_007581	Bait for Demons (5)	Last Mission (5)
-ETC_20150317_007582	By corner of Katin Forest	Remote area of Katyn Forest
+ETC_20150317_007581	Bait for Demons (5)
+ETC_20150317_007582	By corner of Katin Forest
 ETC_20150317_007583	Retrieve Supplies
 ETC_20150317_007584	A stray soldier
 ETC_20150317_007585	Wake up the asleep Boowook
@@ -7589,7 +7589,7 @@ ETC_20150317_007588	Revealment
 ETC_20150317_007589	First Soldier
 ETC_20150317_007590	Request from Drasius
 ETC_20150317_007591	Second Soldier
-ETC_20150317_007592	Offer worship to Zemyna Goddess Statue 
+ixETC_20150317_007592	Offer worship to Goddess Zemyna Statue 
 ETC_20150317_007593	Advice of Laimonas (4)
 ETC_20150317_007594	To Klaipeda
 ETC_20150317_007595	Third Soldier
@@ -7641,10 +7641,10 @@ ETC_20150317_007640	Request of recoder (2)
 ETC_20150317_007641	Historian sacrificed
 ETC_20150317_007642	Relice Record of Royal Mausoleum
 ETC_20150317_007643	Collect the dried tree branches in Thorn Forest
-ETC_20150317_007644	Place to fire	Precious Things of the Solder (3)
-ETC_20150317_007645	Guard Citizen	Attack of the Red Goblin
+ETC_20150317_007644	Place to fire
+ETC_20150317_007645	Guard Citizen
 ETC_20150317_007646	Story of an old owl statue
-ETC_20150317_007647	Recurrent Grudge	One more time
+ETC_20150317_007647	Recurrent Grudge
 ETC_20150317_007648	Awaken the memories of the sleeping owl statue
 ETC_20150317_007649	Mercenary of valley
 ETC_20150317_007650	Special Device of Valley
@@ -7669,15 +7669,15 @@ ETC_20150317_007668	Check the beacon mound
 ETC_20150317_007669	Gnarly Herbs
 ETC_20150317_007670	Historian's Danger
 ETC_20150317_007671	Retrieve the research supplies
-ETC_20150317_007672	Activate 1st purification device	Purifying 1st Gallery
-ETC_20150317_007673	Purifier held by the monster	Entrance Purifier's missing parts
+ETC_20150317_007672	Activate 1st purification device
+ETC_20150317_007673	Purifier held by the monster
 ETC_20150317_007674	Hidden Purifier parts
-ETC_20150317_007675	Activate purifier in 1st Gallery passage	Activate the Passage Purifier (1)
-ETC_20150317_007676	Miner's master keeping the path	Activate the Passage Purifier (2)
-ETC_20150317_007677	Activate purifier in 1st Gallery passage (3)	Activate the Passage Purifier (3)
-ETC_20150317_007678	Problem of the circulation purifier in 2nd mine	Problem of circulation purifier (1)
-ETC_20150317_007679	Problem of energy transmission device	Secondary Purifier stopped working (2)
-ETC_20150317_007680	Detroyer of the main purifier (4)	Destroyer of the Main Purifier (3)
+ETC_20150317_007675	Activate purifier in 1st Gallery passage
+ETC_20150317_007676	Miner's master keeping the path
+ETC_20150317_007677	Activate purifier in 1st Gallery passage (3)
+ETC_20150317_007678	Problem of the circulation purifier in 2nd mine
+ETC_20150317_007679	Problem of energy transmission device
+ETC_20150317_007680	Detroyer of the main purifier (4)
 ETC_20150317_007681	Repair Scarecrow 
 ETC_20150317_007682	Repair Scarecrow (2)
 ETC_20150317_007683	Repair the Scarecrow
@@ -7696,17 +7696,17 @@ ETC_20150317_007695	N/A
 ETC_20150317_007696	N/A
 ETC_20150317_007697	N/A
 ETC_20150317_007698	N/A
-ETC_20150317_007699	Difficult Couple (2)	It's because of the Honey (2)
-ETC_20150317_007700	Sparnas dominated a brewery	Sparnas that invaded the bee farm
-ETC_20150317_007701	Lost Search Tool	Help me farm
+ETC_20150317_007699	Difficult Couple (2)
+ETC_20150317_007700	Sparnas dominated a brewery
+ETC_20150317_007701	Lost Search Tool
 ETC_20150317_007702	Seeding
 ETC_20150317_007703	Recharge a divine magic power
-ETC_20150317_007704	Demon Master Tautreemas Sealed 	For the arrival of Disaster
+ETC_20150317_007704	Demon Master Tautreemas Sealed 
 ETC_20150317_007705	Treat the dazzled Revelator
-ETC_20150317_007706	Suspicious Pot (1)	Sealed Soul (1)
-ETC_20150317_007707	Suspicious Pot (2)	Sealed Soul (2)
-ETC_20150317_007708	Suspicious Pot (3)	Sealed Soul (3)
-ETC_20150317_007709	Suspicious Chair	I want to go out
+ETC_20150317_007706	Suspicious Pot (1)
+ETC_20150317_007707	Suspicious Pot (2)
+ETC_20150317_007708	Suspicious Pot (3)
+ETC_20150317_007709	Suspicious Chair
 ETC_20150317_007710	Suspicious Paper (1)
 ETC_20150317_007711	Suspicious Paper (2)
 ETC_20150317_007712	Suspicious Box (1)
@@ -7781,7 +7781,7 @@ ETC_20150317_007780	Protect yourself from monsters is attacking
 ETC_20150317_007781	Kill High Vubbe and get the wooden arrow
 ETC_20150317_007782	Input the wooden arrow to fire
 ETC_20150317_007783	Steel the booty of Siaulamb
-ETC_20150317_007784	 key is used to open Information window. 
+ixETC_20150317_007784	 - press this key to use Status Points.
 ETC_20150317_007785	To Klaipeda (5)
 ETC_20150317_007786	Recapture Eastern Woods (2)
 ETC_20150317_007787	Guard of Royal Path(2)
@@ -7846,16 +7846,16 @@ ETC_20150317_007845	Victim Liberation
 ETC_20150317_007846	Truth transmission of Ruklys
 ETC_20150317_007847	Use a Petrifaction Fusion
 ETC_20150317_007848	Cordiality of Moje Dcell (3)
-ETC_20150317_007849	The first Thorn Gate (1)	Playing with Fire (1)
-ETC_20150317_007850	The first Thorn Gate (2)	Playing with Fire (2)
-ETC_20150317_007851	The second Thorn Gate (1)	fight venom with venom (1)
-ETC_20150317_007852	Chafer Decoy	My ring!
-ETC_20150317_007853	The second Thorn Gate (2)	Fight venom with venom (2)
-ETC_20150317_007854	The third Thorn Gate (1)	In the Name of Faith (1)
+ETC_20150317_007849	The first Thorn Gate (1)
+ETC_20150317_007850	The first Thorn Gate (2)
+ETC_20150317_007851	The second Thorn Gate (1)
+ETC_20150317_007852	Chafer Decoy
+ETC_20150317_007853	The second Thorn Gate (2)
+ETC_20150317_007854	The third Thorn Gate (1)
 ETC_20150317_007855	Recharge a magic crystal
-ETC_20150317_007856	The third Thorn Gate (2)	In the Name of Faith (2)
-ETC_20150317_007857	The third Thorn Gate (3)	In the Name of Faith (3)
-ETC_20150317_007858	The first Thorn Gate (3)	Playing with Fire (3)
+ETC_20150317_007856	The third Thorn Gate (2)
+ETC_20150317_007857	The third Thorn Gate (3)
+ETC_20150317_007858	The first Thorn Gate (3)
 ETC_20150317_007859	Melt a thorn tunnel to use an acidity solution
 ETC_20150317_007860	Remove the thorn vine to use a magic crystal
 ETC_20150317_007861	Open the front temple gate (1)
@@ -7882,18 +7882,18 @@ ETC_20150317_007881	Collection the sap with spiritual power
 ETC_20150317_007882	Check the charm effect to Panto spearman
 ETC_20150317_007883	Defeat the Big Panto Thrower to control a Panto
 ETC_20150317_007884	Panto came over on our side
-ETC_20150317_007885	Capture the suspicious movement 	Just a little help
-ETC_20150317_007886	Capture the suspicious movement (1)	Can't do anything
-ETC_20150317_007887	Capture the suspicious movement (2)	Skill of Interference
-ETC_20150317_007888	Capture the suspicious movement (3)	Don't panic
-ETC_20150317_007889	Capture the suspicious movement (4)	Unexpected Research
-ETC_20150317_007890	Capture the suspicious movement (5)	Something blasphemous
-ETC_20150317_007891	Surprise Attack of Maegro	Raid of Merog
-ETC_20150317_007892	Load of Bramble, Gaigalas	Root of Svieta Hills
+ETC_20150317_007885	Capture the suspicious movement 
+ETC_20150317_007886	Capture the suspicious movement (1)
+ETC_20150317_007887	Capture the suspicious movement (2)
+ETC_20150317_007888	Capture the suspicious movement (3)
+ETC_20150317_007889	Capture the suspicious movement (4)
+ETC_20150317_007890	Capture the suspicious movement (5)
+ETC_20150317_007891	Surprise Attack of Maegro
+ETC_20150317_007892	Load of Bramble, Gaigalas
 ETC_20150317_007893	Create a enhanced thorn pollen stimulant to mix with a Maegro's Mspittle and a Pollen stimulant
-ETC_20150317_007894	Load of Bramble, Molich	Root of Tinkanta Vacant Lot
-ETC_20150317_007895	Bramble punished	Bramble Strategy (3)
-ETC_20150317_007896	Activate a Obelisk	Activate Obelisk (3)
+ETC_20150317_007894	Load of Bramble, Molich
+ETC_20150317_007895	Bramble punished
+ETC_20150317_007896	Activate a Obelisk
 ETC_20150317_007897	It is not rocking to Beholder
 ETC_20150317_007898	Portal do not open (1)
 ETC_20150317_007899	Defeat the monster reacted the altar's power
@@ -7921,7 +7921,7 @@ ETC_20150317_007920	Surprise Attack of Demons
 ETC_20150317_007921	Monitor a pilgrim's reaction after eating a meat
 ETC_20150317_007922	Operate a purification's altar
 ETC_20150317_007923	Cold Bishop (1)
-ETC_20150317_007924	Cold Bishop (2)	Farewell, my friend(3)
+ETC_20150317_007924	Cold Bishop (2)
 ETC_20150317_007925	Fine the receipe written how to transform monsters
 ETC_20150317_007926	Block the monster's attack while making a drug
 ETC_20150317_007927	Tell Demons the Mayvern's device position
@@ -8644,7 +8644,7 @@ ETC_20150317_008643	Centurion Advancement
 ETC_20150317_008644	Barbarian Advancement
 ETC_20150317_008645	Cataphract Advancement
 ETC_20150317_008646	Corsair Advancement
-ETC_20150317_008647	Doppelsöldner Advancement
+ETC_20150317_008647	Doppelsoeldner Advancement
 ETC_20150317_008648	Rodelero Advancement
 ETC_20150317_008649	Squire Advancement
 ETC_20150317_008650	Murmillo Advancement
@@ -9200,7 +9200,7 @@ ETC_20150317_009199	[Blacksmith]{nl}       Zaras
 ETC_20150317_009200	[Peltasta Master]{nl}     Maria Leed
 ETC_20150317_009201	[Cryomancer Master]{nl}    Aleister Crowley
 ETC_20150317_009202	[Quarrel Shooter Master]{nl}              Ream Toiler
-ETC_20150317_009203	[Ranger Master]{nl}       Nemocen
+ixETC_20150317_009203	[Ranger Master]{nl}       Nemoken
 ETC_20150317_009204	[Swordsman Master]{nl}              Rashua
 ETC_20150317_009205	[Wizard Master]{nl}        Lucia
 ETC_20150317_009206	[Archer Master]{nl} Edmundas Tiller
@@ -9753,7 +9753,6 @@ ETC_20150323_009752	You've robbed 10 treasure chests.
 ETC_20150323_009753	Treasure Hunter : Master
 ETC_20150323_009754	You've robbed 100 treasure chests.
 xETC_20150323_009755	Hanaming kill count
-xETC_20150323_009756	
 ETC_20150323_009757	Party Quest Count
 ETC_20150323_009758	Altar Group Buff
 ETC_20150323_009759	Purification Contribution
@@ -10919,7 +10918,7 @@ ixETC_20150414_010918	Highlanders are tough fighters who use Two-Hand swords. Th
 ETC_20150414_010919	Centurions command the battle with formations. They control other soldiers to use different formations depending on the situation.
 ETC_20150414_010920	Corsairs are specialized in dual-wielding and ambushing enemies from behind. Anyone who joins the Corsairs' party becomes a pirate.
 ETC_20150414_010921	Attack, Party
-ETC_20150414_010922	Doppelsöldners are mercenaries who endure high risk for high rewards. They dangerously expose themselves to the enemies and receive high attack power or high EXP.
+ETC_20150414_010922	Doppelsoeldners are mercenaries who endure high risk for high rewards. They dangerously expose themselves to the enemies and receive high attack power or high EXP.
 ETC_20150414_010923	Squires are warriors who support fellow soldiers. They support by repairing and enhancing others' weapons or install a basecamp to aid the team.
 ETC_20150414_010924	Support, Craft, Party
 ETC_20150414_010925	Attack, Support
@@ -11495,7 +11494,7 @@ ETC_20150428_011494	{count3} enhancement
 ETC_20150428_011495	{character1} of team obtained {count1}silver{nl} the second rank:
 ETC_20150428_011496	{character2} of team obtained {count2}silver{nl} the third rank:
 ETC_20150428_011497	{character3} of team obtained {count3}silver
-ETC_20150428_011498	You can not give up in progress or complete quest standby.
+ETC_20150428_011498	You canbot abandone quest unless it is in progress or on standby to complete. 
 oETC_20150428_011499	Warp Movement Area Ranking
 oETC_20150428_011500	Monster Kill Area Ranking
 oETC_20150428_011501	Revelator Combat Disabled Area Ranking
@@ -11520,7 +11519,7 @@ xETC_20150428_011519	All magical powers were absorbed.
 oETC_20150428_011520	Activate the Chapel Altar to kill the monsters!
 xETC_20150428_011521	Open the door
 oETC_20150428_011522	Attacks are impossible because of the magic barrier
-ETC_20150428_011523	Monsters that headed the magical power attack!
+ETC_20150428_011523	Glackuman drawn to the spell is attacking!
 oETC_20150428_011524	The Spell Summon Crystal is transferring strong energy to the monsters.
 oETC_20150428_011525	Air Purification Crystal (50 Crystal Fragments)
 oETC_20150428_011526	Crystal of Quickness (80 Crystal Fragments)
@@ -11533,7 +11532,7 @@ oETC_20150428_011532	Red Crystal is resonating!
 oETC_20150428_011533	Blue Crystal is resonating!
 oETC_20150428_011534	Yellow Crystal is resonating!
 xETC_20150428_011535	The grapes are already withered.
-ETC_20150428_011536	Failed to guide the demimode.
+ETC_20150428_011536	Failed to guide the soldier left behind. 
 xETC_20150428_011537	Unable to resonate the crystal yet.
 xETC_20150428_011538	The crystal is already resonating.
 oETC_20150428_011539	Moving to the entrance of the Royal Mausoleum
@@ -11568,7 +11567,7 @@ oETC_20150428_011567	Would you like to hire a helper?{nl}Consumes iCoin per minu
 oETC_20150428_011568	{@st43} Helper Contract{/}
 oETC_20150428_011569	Helper Contract
 oETC_20150428_011570	Summoned Panto Guide
-xETC_20150428_011571	Usable only in block 2 of the Crystal Mine.
+xETC_20150428_011571	Usable only in Crystal Mine Lot 2.
 xETC_20150428_011572	The Panto Archer has fallen to the brainwashing curse! {nl} Defeat it!
 xETC_20150428_011573	Gained confidence from defeating monster.{nl} Use the Demon Transfer Scroll!
 oETC_20150428_011574	Picked up the paper off the floor. You can read it in your inventory.
@@ -12745,517 +12744,516 @@ ETC_20150714_012744	You've collected the rubber copies.{nl}Go back to the Epigra
 ETC_20150714_012745	You defeated all InfroBurks that are interrupting!{nl}Start the process of making copies!
 ETC_20150714_012746	You are too far away from the spiritual pots{nl}To collect the spirits, defeat them from more near distance
 ETC_20150714_012747	You defeated the Devilglobes that are disturbing you while checking the tombstone{nl}Check what's written on the tombstone
-ETC_20150714_012748	
-ETC_20150714_012749	
-ETC_20150714_012750	
-ETC_20150714_012751	
-ETC_20150714_012752	
-ETC_20150714_012753	
-ETC_20150714_012754	
-ETC_20150714_012755	
-ETC_20150714_012756	
-ETC_20150714_012757	
-ETC_20150714_012758	
-ETC_20150714_012759	
-ETC_20150714_012760	
-ETC_20150714_012761	
-ETC_20150714_012762	
-ETC_20150714_012763	
-ETC_20150714_012764	
-ETC_20150714_012765	
-ETC_20150714_012766	
-ETC_20150714_012767	
-ETC_20150714_012768	
-ETC_20150714_012769	
-ETC_20150714_012770	
-ETC_20150714_012771	
-ETC_20150714_012772	
-ETC_20150714_012773	
-ETC_20150714_012774	
-ETC_20150714_012775	
-ETC_20150714_012776	
-ETC_20150714_012777	
-ETC_20150714_012778	
-ETC_20150714_012779	
-ETC_20150714_012780	
-ETC_20150714_012781	
-ETC_20150714_012782	
-ETC_20150714_012783	
-ETC_20150714_012784	
-ETC_20150714_012785	
-ETC_20150714_012786	
-ETC_20150714_012787	
-ETC_20150714_012788	
-ETC_20150714_012789	
-ETC_20150714_012790	
-ETC_20150714_012791	
-ETC_20150714_012792	
-ETC_20150714_012793	
-ETC_20150714_012794	
-ETC_20150714_012795	
-ETC_20150714_012796	
-ETC_20150714_012797	
-ETC_20150714_012798	
-ETC_20150714_012799	
-ETC_20150714_012800	
-ETC_20150714_012801	
-ETC_20150714_012802	
-ETC_20150714_012803	
-ETC_20150714_012804	
-ETC_20150714_012805	
-ETC_20150714_012806	
-ETC_20150714_012807	
-ETC_20150714_012808	
-ETC_20150714_012809	
-ETC_20150714_012810	
-ETC_20150714_012811	
-ETC_20150714_012812	
-ETC_20150714_012813	
-ETC_20150714_012814	
-ETC_20150714_012815	
-ETC_20150714_012816	
-ETC_20150714_012817	
-ETC_20150714_012818	
-ETC_20150714_012819	
-ETC_20150714_012820	
-ETC_20150714_012821	
-ETC_20150714_012822	
-ETC_20150714_012823	
-ETC_20150714_012824	
-ETC_20150714_012825	
-ETC_20150714_012826	
-ETC_20150714_012827	
-ETC_20150714_012828	
-ETC_20150714_012829	
-ETC_20150714_012830	
-ETC_20150714_012831	
-ETC_20150714_012832	
-ETC_20150714_012833	
-ETC_20150714_012834	
-ETC_20150714_012835	
-ETC_20150714_012836	
-ETC_20150714_012837	
-ETC_20150714_012838	
-ETC_20150714_012839	
-ETC_20150714_012840	
-ETC_20150714_012841	
-ETC_20150714_012842	
-ETC_20150714_012843	
-ETC_20150714_012844	
-ETC_20150714_012845	
-ETC_20150714_012846	
-ETC_20150714_012847	
-ETC_20150714_012848	
-ETC_20150714_012849	
-ETC_20150714_012850	
-ETC_20150714_012851	
-ETC_20150714_012852	
-ETC_20150714_012853	
-ETC_20150714_012854	
-ETC_20150714_012855	
-ETC_20150714_012856	
-ETC_20150714_012857	
-ETC_20150714_012858	
-ETC_20150714_012859	
-ETC_20150714_012860	
-ETC_20150714_012861	
-ETC_20150714_012862	
-ETC_20150714_012863	
-ETC_20150714_012864	
-ETC_20150714_012865	
-ETC_20150714_012866	
-ETC_20150714_012867	
-ETC_20150714_012868	
-ETC_20150714_012869	
-ETC_20150714_012870	
-ETC_20150714_012871	
-ETC_20150714_012872	
-ETC_20150714_012873	
-ETC_20150714_012874	
-ETC_20150714_012875	
-ETC_20150714_012876	
-ETC_20150714_012877	
-ETC_20150714_012878	
-ETC_20150714_012879	
-ETC_20150714_012880	
-ETC_20150714_012881	
-ETC_20150714_012882	
-ETC_20150714_012883	
-ETC_20150714_012884	
-ETC_20150714_012885	
-ETC_20150714_012886	
-ETC_20150714_012887	
-ETC_20150714_012888	
-ETC_20150714_012889	
-ETC_20150714_012890	
-ETC_20150714_012891	
-ETC_20150714_012892	
-ETC_20150714_012893	
-ETC_20150714_012894	
-ETC_20150714_012895	
-ETC_20150714_012896	
-ETC_20150714_012897	
-ETC_20150714_012898	
-ETC_20150714_012899	
-ETC_20150714_012900	
-ETC_20150714_012901	
-ETC_20150714_012902	
-ETC_20150714_012903	
-ETC_20150714_012904	
-ETC_20150714_012905	
-ETC_20150714_012906	
-ETC_20150714_012907	
-ETC_20150714_012908	
-ETC_20150714_012909	
-ETC_20150714_012910	
-ETC_20150714_012911	
-ETC_20150714_012912	
-ETC_20150714_012913	
-ETC_20150714_012914	
-ETC_20150714_012915	
-ETC_20150714_012916	
-ETC_20150714_012917	
-ETC_20150714_012918	
-ETC_20150714_012919	
-ETC_20150714_012920	
-ETC_20150714_012921	
-ETC_20150714_012922	
-ETC_20150714_012923	
-ETC_20150714_012924	
-ETC_20150714_012925	
-ETC_20150714_012926	
-ETC_20150714_012927	
-ETC_20150714_012928	
-ETC_20150714_012929	
-ETC_20150714_012930	
-ETC_20150714_012931	
-ETC_20150714_012932	
-ETC_20150714_012933	
-ETC_20150714_012934	
-ETC_20150714_012935	
-ETC_20150714_012936	
-ETC_20150714_012937	
-ETC_20150714_012938	
-ETC_20150714_012939	
-ETC_20150714_012940	
-ETC_20150714_012941	
-ETC_20150714_012942	
-ETC_20150714_012943	
-ETC_20150714_012944	
-ETC_20150714_012945	
-ETC_20150714_012946	
-ETC_20150714_012947	
-ETC_20150714_012948	
-ETC_20150714_012949	
-ETC_20150714_012950	
-ETC_20150714_012951	
-ETC_20150714_012952	
-ETC_20150714_012953	
-ETC_20150714_012954	
-ETC_20150714_012955	
-ETC_20150714_012956	
-ETC_20150714_012957	
-ETC_20150714_012958	
-ETC_20150714_012959	
-ETC_20150714_012960	
-ETC_20150714_012961	
-ETC_20150714_012962	
-ETC_20150714_012963	
-ETC_20150714_012964	
-ETC_20150714_012965	
-ETC_20150714_012966	
-ETC_20150714_012967	
-ETC_20150714_012968	
-ETC_20150714_012969	
-ETC_20150714_012970	
-ETC_20150714_012971	
-ETC_20150714_012972	
-ETC_20150714_012973	
-ETC_20150714_012974	
-ETC_20150714_012975	
-ETC_20150714_012976	
-ETC_20150714_012977	
-ETC_20150714_012978	
-ETC_20150714_012979	
-ETC_20150714_012980	
-ETC_20150714_012981	
-ETC_20150714_012982	
-ETC_20150714_012983	
-ETC_20150714_012984	
-ETC_20150714_012985	
-ETC_20150714_012986	
-ETC_20150714_012987	
-ETC_20150714_012988	
-ETC_20150714_012989	
-ETC_20150714_012990	
-ETC_20150714_012991	
-ETC_20150714_012992	
-ETC_20150714_012993	
-ETC_20150714_012994	
-ETC_20150714_012995	
-ETC_20150714_012996	
-ETC_20150714_012997	
-ETC_20150714_012998	
-ETC_20150714_012999	
-ETC_20150714_013000	
-ETC_20150714_013001	
-ETC_20150714_013002	
-ETC_20150714_013003	
-ETC_20150714_013004	
-ETC_20150714_013005	
-ETC_20150714_013006	
-ETC_20150714_013007	
-ETC_20150714_013008	
-ETC_20150714_013009	
-ETC_20150714_013010	
-ETC_20150714_013011	
-ETC_20150714_013012	
-ETC_20150714_013013	
-ETC_20150714_013014	
-ETC_20150714_013015	
-ETC_20150714_013016	
-ETC_20150714_013017	
-ETC_20150714_013018	
-ETC_20150714_013019	
-ETC_20150714_013020	
-ETC_20150714_013021	
-ETC_20150714_013022	
-ETC_20150714_013023	
-ETC_20150714_013024	
-ETC_20150714_013025	
-ETC_20150714_013026	
-ETC_20150714_013027	
-ETC_20150714_013028	
-ETC_20150714_013029	
-ETC_20150714_013030	
-ETC_20150714_013031	
+ETC_20150714_012748	Your stat increased by 1 after using Bigi of Zbeck
+ETC_20150714_012749	You've charged Holy Bead by attacking the demons
+ETC_20150714_012750	Gesti is near{nl}Be careful not to get caught!
+ETC_20150714_012751	You've obtained the pieces of the barrier.{nl}Insert them into the center pole
+ETC_20150714_012752	You can't destroy it due to the energy of the demon that is surrounding Panto Totem.
+ETC_20150714_012753	The spirit of the demon has been dissipated.
+ETC_20150714_012754	The spirits of the demons were detached due to the holy power.{nl}Defeat the detached spirits!
+ETC_20150714_012755	The power of the barrier can be only activated when the weakened monsters are nearby
+ETC_20150714_012756	You've obtained the pieces of the destroyed barrier
+ETC_20150714_012757	You've charged the tree base barrier using the spirits of the demons
+ETC_20150714_012758	You should defeat the demons near the barrier to charge the barrier.
+ETC_20150714_012759	You charged the tree base barrier a bit
+ETC_20150714_012760	You've scribbled on the summon magic field
+ETC_20150714_012761	You don't have enough evil essences
+ETC_20150714_012762	You've obtained the purified essence
+ETC_20150714_012763	You've obtained the evil essences
+ETC_20150714_012764	You've obtained enough purified essences
+ETC_20150714_012765	You've drunk Romuva Sacred Water.{nl}You won't be visible to the demons temporarily!
+ETC_20150714_012766	You've set the holy stones{nl}Lure the demons to recharge the holy stones!
+ETC_20150714_012767	You've inserted the piece
+ETC_20150714_012768	This pole is already inserted with the piece
+ETC_20150714_012769	You gained confidence by defeating it{nl}Use the demon transforming scroll!
+ETC_20150714_012770	You've been detected by Corylus!{nl}You've been identified!
+ETC_20150714_012771	You've found the location of the exploration.
+ETC_20150714_012772	You've eliminated the demon magic field well enough{nl}Report to the follower Kayetonas!
+ETC_20150714_012773	You don't have enough Long Branches Charcoal
+ETC_20150714_012774	You've obtained the third rubber copy
+ETC_20150714_012775	You've obtained the petrified good
+ETC_20150714_012776	You've handed over the water bottle that is engraved with the password
+ETC_20150714_012777	The goddesses are relieving my thirst
+ETC_20150714_012778	You've used the petrification dissolution but the petrified part didn't change
+ETC_20150714_012779	It seems to be unconcious
+ETC_20150714_012780	The soldier closed his eyes peacefully
+ETC_20150714_012781	This petrification detector is already checked
+ETC_20150714_012782	Use the absorbing scroll
+ETC_20150714_012783	Collecting the grass leaves
+ETC_20150714_012784	You've collected Bellas grass leaves
+ETC_20150714_012785	You've obtained an usable petrificaton detector
+ETC_20150714_012786	This detector can't be used at all
+ETC_20150714_012787	Rubbing the juice of the grass leaves
+ETC_20150714_012788	You've rubbed Bellas grass leaves onto Amanda's crates
+ETC_20150714_012789	It is already rubbed with grass leaves' juice
+ETC_20150714_012790	You've obtained Schilt Essence
+ETC_20150714_012791	The lamp of the royal tomb is being attacked by the guardians
+ETC_20150714_012792	The restrained power of Bearkaras has returned
+ETC_20150714_012793	The identities of the villagers were demons.{nl}Run away to the portal at Veya Valley!
+ETC_20150714_012794	You've picked up the paper that was dropped on the ground.{nl}You can read it from your inventory.
+ETC_20150714_012795	You've picked up the book that was dropped on the ground.{nl}You can read it from your inventory.
+ETC_20150714_012796	You've picked up the paper that was dropped on the ground.{nl}You can read it from your inventory.
+ETC_20150714_012797	He pulled it out.
+ETC_20150714_012798	He saved it.
+ETC_20150714_012799	You are far away from the distribution table. Try from more near location to eat the food.
+ETC_20150714_012800	N/A
+ETC_20150714_012801	N/A
+ETC_20150714_012802	N/A
+ETC_20150714_012803	N/A
+ETC_20150714_012804	N/A
+ETC_20150714_012805	N/A
+ETC_20150714_012806	N/A
+ETC_20150714_012807	N/A
+ETC_20150714_012808	N/A
+ETC_20150714_012809	N/A
+ETC_20150714_012810	N/A
+ETC_20150714_012811	N/A
+ETC_20150714_012812	N/A
+ETC_20150714_012813	N/A
+ETC_20150714_012814	N/A
+ETC_20150714_012815	N/A
+ETC_20150714_012816	N/A
+ETC_20150714_012817	N/A
+ETC_20150714_012818	N/A
+ETC_20150714_012819	N/A
+ETC_20150714_012820	N/A
+ETC_20150714_012821	N/A
+ETC_20150714_012822	N/A
+ETC_20150714_012823	N/A
+ETC_20150714_012824	N/A
+ETC_20150714_012825	N/A
+ETC_20150714_012826	N/A
+ETC_20150714_012827	N/A
+ETC_20150714_012828	N/A
+ETC_20150714_012829	N/A
+ETC_20150714_012830	N/A
+ETC_20150714_012831	N/A
+ETC_20150714_012832	N/A
+ETC_20150714_012833	N/A
+ETC_20150714_012834	N/A
+ETC_20150714_012835	N/A
+ETC_20150714_012836	N/A
+ETC_20150714_012837	N/A
+ETC_20150714_012838	N/A
+ETC_20150714_012839	N/A
+ETC_20150714_012840	N/A
+ETC_20150714_012841	N/A
+ETC_20150714_012842	N/A
+ETC_20150714_012843	N/A
+ETC_20150714_012844	N/A
+ETC_20150714_012845	N/A
+ETC_20150714_012846	N/A
+ETC_20150714_012847	N/A
+ETC_20150714_012848	N/A
+ETC_20150714_012849	N/A
+ETC_20150714_012850	N/A
+ETC_20150714_012851	N/A
+ETC_20150714_012852	N/A
+ETC_20150714_012853	N/A
+ETC_20150714_012854	N/A
+ETC_20150714_012855	N/A
+ETC_20150714_012856	N/A
+ETC_20150714_012857	N/A
+ETC_20150714_012858	N/A
+ETC_20150714_012859	N/A
+ETC_20150714_012860	N/A
+ETC_20150714_012861	N/A
+ETC_20150714_012862	N/A
+ETC_20150714_012863	N/A
+ETC_20150714_012864	N/A
+ETC_20150714_012865	N/A
+ETC_20150714_012866	N/A
+ETC_20150714_012867	N/A
+ETC_20150714_012868	N/A
+ETC_20150714_012869	N/A
+ETC_20150714_012870	N/A
+ETC_20150714_012871	N/A
+ETC_20150714_012872	N/A
+ETC_20150714_012873	N/A
+ETC_20150714_012874	N/A
+ETC_20150714_012875	N/A
+ETC_20150714_012876	N/A
+ETC_20150714_012877	N/A
+ETC_20150714_012878	N/A
+ETC_20150714_012879	N/A
+ETC_20150714_012880	N/A
+ETC_20150714_012881	N/A
+ETC_20150714_012882	N/A
+ETC_20150714_012883	N/A
+ETC_20150714_012884	N/A
+ETC_20150714_012885	N/A
+ETC_20150714_012886	N/A
+ETC_20150714_012887	N/A
+ETC_20150714_012888	N/A
+ETC_20150714_012889	N/A
+ETC_20150714_012890	N/A
+ETC_20150714_012891	N/A
+ETC_20150714_012892	N/A
+ETC_20150714_012893	N/A
+ETC_20150714_012894	N/A
+ETC_20150714_012895	N/A
+ETC_20150714_012896	N/A
+ETC_20150714_012897	N/A
+ETC_20150714_012898	N/A
+ETC_20150714_012899	N/A
+ETC_20150714_012900	N/A
+ETC_20150714_012901	N/A
+ETC_20150714_012902	N/A
+ETC_20150714_012903	N/A
+ETC_20150714_012904	N/A
+ETC_20150714_012905	N/A
+ETC_20150714_012906	N/A
+ETC_20150714_012907	N/A
+ETC_20150714_012908	N/A
+ETC_20150714_012909	N/A
+ETC_20150714_012910	N/A
+ETC_20150714_012911	N/A
+ETC_20150714_012912	N/A
+ETC_20150714_012913	N/A
+ETC_20150714_012914	N/A
+ETC_20150714_012915	N/A
+ETC_20150714_012916	N/A
+ETC_20150714_012917	N/A
+ETC_20150714_012918	N/A
+ETC_20150714_012919	N/A
+ETC_20150714_012920	N/A
+ETC_20150714_012921	N/A
+ETC_20150714_012922	N/A
+ETC_20150714_012923	N/A
+ETC_20150714_012924	N/A
+ETC_20150714_012925	N/A
+ETC_20150714_012926	N/A
+ETC_20150714_012927	N/A
+ETC_20150714_012928	N/A
+ETC_20150714_012929	N/A
+ETC_20150714_012930	N/A
+ETC_20150714_012931	N/A
+ETC_20150714_012932	N/A
+ETC_20150714_012933	N/A
+ETC_20150714_012934	N/A
+ETC_20150714_012935	N/A
+ETC_20150714_012936	N/A
+ETC_20150714_012937	N/A
+ETC_20150714_012938	N/A
+ETC_20150714_012939	N/A
+ETC_20150714_012940	N/A
+ETC_20150714_012941	N/A
+ETC_20150714_012942	N/A
+ETC_20150714_012943	N/A
+ETC_20150714_012944	N/A
+ETC_20150714_012945	N/A
+ETC_20150714_012946	N/A
+ETC_20150714_012947	N/A
+ETC_20150714_012948	N/A
+ETC_20150714_012949	N/A
+ETC_20150714_012950	N/A
+ETC_20150714_012951	N/A
+ETC_20150714_012952	N/A
+ETC_20150714_012953	N/A
+ETC_20150714_012954	N/A
+ETC_20150714_012955	N/A
+ETC_20150714_012956	N/A
+ETC_20150714_012957	N/A
+ETC_20150714_012958	N/A
+ETC_20150714_012959	N/A
+ETC_20150714_012960	N/A
+ETC_20150714_012961	N/A
+ETC_20150714_012962	N/A
+ETC_20150714_012963	N/A
+ETC_20150714_012964	N/A
+ETC_20150714_012965	N/A
+ETC_20150714_012966	N/A
+ETC_20150714_012967	N/A
+ETC_20150714_012968	N/A
+ETC_20150714_012969	N/A
+ETC_20150714_012970	N/A
+ETC_20150714_012971	N/A
+ETC_20150714_012972	N/A
+ETC_20150714_012973	N/A
+ETC_20150714_012974	N/A
+ETC_20150714_012975	N/A
+ETC_20150714_012976	N/A
+ETC_20150714_012977	N/A
+ETC_20150714_012978	N/A
+ETC_20150714_012979	N/A
+ETC_20150714_012980	N/A
+ETC_20150714_012981	N/A
+ETC_20150714_012982	N/A
+ETC_20150714_012983	N/A
+ETC_20150714_012984	N/A
+ETC_20150714_012985	N/A
+ETC_20150714_012986	N/A
+ETC_20150714_012987	N/A
+ETC_20150714_012988	N/A
+ETC_20150714_012989	N/A
+ETC_20150714_012990	N/A
+ETC_20150714_012991	N/A
+ETC_20150714_012992	N/A
+ETC_20150714_012993	N/A
+ETC_20150714_012994	N/A
+ETC_20150714_012995	N/A
+ETC_20150714_012996	N/A
+ETC_20150714_012997	N/A
+ETC_20150714_012998	N/A
+ETC_20150714_012999	N/A
+ETC_20150714_013000	N/A
+ETC_20150714_013001	N/A
+ETC_20150714_013002	N/A
+ETC_20150714_013003	N/A
+ETC_20150714_013004	N/A
+ETC_20150714_013005	N/A
+ETC_20150714_013006	N/A
+ETC_20150714_013007	N/A
+ETC_20150714_013008	N/A
+ETC_20150714_013009	N/A
+ETC_20150714_013010	N/A
+ETC_20150714_013011	N/A
+ETC_20150714_013012	N/A
+ETC_20150714_013013	N/A
+ETC_20150714_013014	N/A
+ETC_20150714_013015	N/A
+ETC_20150714_013016	N/A
+ETC_20150714_013017	N/A
+ETC_20150714_013018	N/A
+ETC_20150714_013019	N/A
+ETC_20150714_013020	N/A
+ETC_20150714_013021	N/A
+ETC_20150714_013022	N/A
+ETC_20150714_013023	N/A
+ETC_20150714_013024	N/A
+ETC_20150714_013025	N/A
+ETC_20150714_013026	N/A
+ETC_20150714_013027	N/A
+ETC_20150714_013028	N/A
+ETC_20150714_013029	N/A
+ETC_20150714_013030	N/A
+ETC_20150714_013031	N/A
 ETC_20150714_013032	Monster Group
 ETC_20150714_013033	View type
 ETC_20150714_013034	Target
-ETC_20150714_013035	
-ETC_20150714_013036	
+ETC_20150714_013035	N/A
+ETC_20150714_013036	N/A
 ETC_20150714_013037	Script
 ETC_20150714_013038	Save changes
-ETC_20150714_013039	
-ETC_20150714_013040	
-ETC_20150714_013041	
-ETC_20150714_013042	
-ETC_20150714_013043	
-ETC_20150714_013044	
-ETC_20150714_013045	
-ETC_20150714_013046	
-ETC_20150714_013047	
-ETC_20150714_013048	
-ETC_20150714_013049	
-ETC_20150714_013050	
-ETC_20150714_013051	
-ETC_20150714_013052	
-ETC_20150714_013053	
-ETC_20150714_013054	
-ETC_20150714_013055	
-ETC_20150714_013056	
-ETC_20150714_013057	
-ETC_20150714_013058	
-ETC_20150714_013059	
-ETC_20150714_013060	
-ETC_20150714_013061	
-ETC_20150714_013062	
-ETC_20150714_013063	
-ETC_20150714_013064	
-ETC_20150714_013065	
-ETC_20150714_013066	
-ETC_20150714_013067	
-ETC_20150714_013068	
-ETC_20150714_013069	
-ETC_20150714_013070	
-ETC_20150714_013071	
-ETC_20150714_013072	
-ETC_20150714_013073	
-ETC_20150714_013074	
-ETC_20150714_013075	
-ETC_20150714_013076	
-ETC_20150714_013077	
-ETC_20150714_013078	
-ETC_20150714_013079	
-ETC_20150714_013080	
-ETC_20150714_013081	
-ETC_20150714_013082	
-ETC_20150714_013083	
-ETC_20150714_013084	
-ETC_20150714_013085	
-ETC_20150714_013086	
-ETC_20150714_013087	
-ETC_20150714_013088	
-ETC_20150714_013089	
-ETC_20150714_013090	
-ETC_20150714_013091	
-ETC_20150714_013092	
-ETC_20150714_013093	
-ETC_20150714_013094	
-ETC_20150714_013095	
-ETC_20150714_013096	
-ETC_20150714_013097	
-ETC_20150714_013098	
-ETC_20150714_013099	
-ETC_20150714_013100	
-ETC_20150714_013101	
-ETC_20150714_013102	
-ETC_20150714_013103	
-ETC_20150714_013104	
-ETC_20150714_013105	
+ETC_20150714_013039	N/A
+ETC_20150714_013040	N/A
+ETC_20150714_013041	N/A
+ETC_20150714_013042	N/A
+ETC_20150714_013043	N/A
+ETC_20150714_013044	N/A
+ETC_20150714_013045	N/A
+ETC_20150714_013046	N/A
+ETC_20150714_013047	N/A
+ETC_20150714_013048	N/A
+ETC_20150714_013049	N/A
+ETC_20150714_013050	N/A
+ETC_20150714_013051	N/A
+ETC_20150714_013052	N/A
+ETC_20150714_013053	N/A
+ETC_20150714_013054	N/A
+ETC_20150714_013055	N/A
+ETC_20150714_013056	N/A
+ETC_20150714_013057	N/A
+ETC_20150714_013058	N/A
+ETC_20150714_013059	N/A
+ETC_20150714_013060	N/A
+ETC_20150714_013061	N/A
+ETC_20150714_013062	N/A
+ETC_20150714_013063	N/A
+ETC_20150714_013064	N/A
+ETC_20150714_013065	N/A
+ETC_20150714_013066	N/A
+ETC_20150714_013067	N/A
+ETC_20150714_013068	N/A
+ETC_20150714_013069	N/A
+ETC_20150714_013070	N/A
+ETC_20150714_013071	N/A
+ETC_20150714_013072	N/A
+ETC_20150714_013073	N/A
+ETC_20150714_013074	N/A
+ETC_20150714_013075	N/A
+ETC_20150714_013076	N/A
+ETC_20150714_013077	N/A
+ETC_20150714_013078	N/A
+ETC_20150714_013079	N/A
+ETC_20150714_013080	N/A
+ETC_20150714_013081	N/A
+ETC_20150714_013082	N/A
+ETC_20150714_013083	N/A
+ETC_20150714_013084	N/A
+ETC_20150714_013085	N/A
+ETC_20150714_013086	N/A
+ETC_20150714_013087	N/A
+ETC_20150714_013088	N/A
+ETC_20150714_013089	N/A
+ETC_20150714_013090	N/A
+ETC_20150714_013091	N/A
+ETC_20150714_013092	N/A
+ETC_20150714_013093	N/A
+ETC_20150714_013094	N/A
+ETC_20150714_013095	N/A
+ETC_20150714_013096	N/A
+ETC_20150714_013097	N/A
+ETC_20150714_013098	N/A
+ETC_20150714_013099	N/A
+ETC_20150714_013100	N/A
+ETC_20150714_013101	N/A
+ETC_20150714_013102	N/A
+ETC_20150714_013103	N/A
+ETC_20150714_013104	N/A
+ETC_20150714_013105	N/A
 ETC_20150714_013106	Quest Progress
-ETC_20150714_013107	
-ETC_20150714_013108	
-ETC_20150714_013109	
-ETC_20150714_013110	
-ETC_20150714_013111	
-ETC_20150714_013112	
-ETC_20150714_013113	
-ETC_20150714_013114	
-ETC_20150714_013115	
-ETC_20150714_013116	
-ETC_20150714_013117	
-ETC_20150714_013118	
-ETC_20150714_013119	
-ETC_20150714_013120	
-ETC_20150714_013121	
+ETC_20150714_013107	N/A
+ETC_20150714_013108	N/A
+ETC_20150714_013109	N/A
+ETC_20150714_013110	N/A
+ETC_20150714_013111	N/A
+ETC_20150714_013112	N/A
+ETC_20150714_013113	N/A
+ETC_20150714_013114	Treasure Chest LV5
+ETC_20150714_013115	Treasure Chest LV4
+ETC_20150714_013116	Wooden Box
+ETC_20150714_013117	Strange Lump
+ETC_20150714_013118	Searching Hunter
+ETC_20150714_013119	Portal Power Generator
+ETC_20150714_013120	Schilt Amplifier
+ETC_20150714_013121	Petrification Detector Sample
 ETC_20150714_013122	Isolated Laboratory
-ETC_20150714_013123	
-ETC_20150714_013124	
-ETC_20150714_013125	
-ETC_20150714_013126	
-ETC_20150714_013127	
-ETC_20150714_013128	
-ETC_20150714_013129	
-ETC_20150714_013130	
+ETC_20150714_013123	Outside of Isolation Camp
+ETC_20150714_013124	Petrified Frosts' Effects
+ETC_20150714_013125	Magical Steam
+ETC_20150714_013126	Monster Genx
+ETC_20150714_013127	Demons' Sealed Sphere
+ETC_20150714_013128	Blue Magical Crystal
+ETC_20150714_013129	Red Magical Crystal
+ETC_20150714_013130	Yellow Magical Crystal
 ETC_20150714_013131	Hidden North Area Manager
 ETC_20150714_013132	Hidden South Area Manager
-ETC_20150714_013133	
-ETC_20150714_013134	
+ETC_20150714_013133	Green Crystal Controller
+ETC_20150714_013134	White Crystal Controller
 ETC_20150714_013135	Baboon
-ETC_20150714_013136	
+ETC_20150714_013136	Guardian Bros
 ETC_20150714_013137	Abandoned beehives
 ETC_20150714_013138	Addicted monk
 ETC_20150714_013139	(Temporary) Amanda 1
 ETC_20150714_013140	(Temporary) Amanda 2
 ETC_20150714_013141	(Temporary) Amanda 3
-ETC_20150714_013142	
-ETC_20150714_013143	
-ETC_20150714_013144	
-ETC_20150714_013145	
-ETC_20150714_013146	
-ETC_20150714_013147	
-ETC_20150714_013148	
-ETC_20150714_013149	
-ETC_20150714_013150	
-ETC_20150714_013151	
-ETC_20150714_013152	
-ETC_20150714_013153	
-ETC_20150714_013154	
-ETC_20150714_013155	
-ETC_20150714_013156	
-ETC_20150714_013157	
-ETC_20150714_013158	
-ETC_20150714_013159	
-ETC_20150714_013160	
-ETC_20150714_013161	
-ETC_20150714_013162	
-ETC_20150714_013163	
-ETC_20150714_013164	
-ETC_20150714_013165	
-ETC_20150714_013166	
-ETC_20150714_013167	
-ETC_20150714_013168	
-ETC_20150714_013169	
-ETC_20150714_013170	
+ETC_20150714_013142	Demon Box
+ETC_20150714_013143	[Kingdom Military]{nl}  Guard
+ETC_20150714_013144	[Kingdom Military]{nl}   Retia
+ETC_20150714_013145	[Amanda Tomb Robbers]{nl}  Hubertas
+ETC_20150714_013146	[Kingdom Military]{nl}  Gofden
+ETC_20150714_013147	  [Kaliss Knitage]{nl}Cryomancer Costas
+ETC_20150714_013148	[Amanda Tomb Robbers]{nl}   Rudolfas
+ETC_20150714_013149	Petrified Kingdom Military Advance Party
+ETC_20150714_013150	Discarded Petrification Detector
+ETC_20150714_013151	Bella Grass
+ETC_20150714_013152	Amanda Tomb Robbers' Crate
+ETC_20150714_013153	[Kaliss Knightage]{nl}Chronomancer Sabina
+ETC_20150714_013154	[Kingdom Military]{nl} Nomabis
+ETC_20150714_013155	[Kingdom Military]{nl}  Rail
+ETC_20150714_013156	Petrified Soldier
+ETC_20150714_013157	[Kingdom Military]{nl}  Rofdel
+ETC_20150714_013158	[Kaliss Knightage]{nl}  Assitant Chief Hans
+ETC_20150714_013159	[Amanda Tomb Robbers]{nl}  Stephonas
+ETC_20150714_013160	The Notice Board of the Kingdom Military
+ETC_20150714_013161	The Propaganda of Kingdom Military
+ETC_20150714_013162	[Kaliss Knightage]{nl}Bilhelmina Carriot
+ETC_20150714_013163	[Kaliss Knightage]{nl}  Knight
+ETC_20150714_013164	[Kaliss Knightage]{nl}  Bokor Editor
+ETC_20150714_013165	[Kaliss Knightage]{nl}   Alchemist Saliamonas
+ETC_20150714_013166	[Kaliss Knightage]{nl}    Amanda
+ETC_20150714_013167	Thorny Bushes
+ETC_20150714_013168	Magic Condenser
+ETC_20150714_013169	Field Gen
+ETC_20150714_013170	The corpse of the pilgrim Mathas
 ETC_20150714_013171	The first tree
 ETC_20150714_013172	The second tree
 ETC_20150714_013173	The third tree
-ETC_20150714_013174	
+ETC_20150714_013174	REMAINS37_2_SQ_080_The trigger to create a session
 ETC_20150714_013175	Jeubek's Box
-ETC_20150714_013176	
+ETC_20150714_013176	Sealed Archon
 ETC_20150714_013177	Relics Archive
-ETC_20150714_013178	
-ETC_20150714_013179	
+ETC_20150714_013178	The lamp of the proof
+ETC_20150714_013179	The artifacts of sealed Balryus
 ETC_20150714_013180	Teleport Device
 ETC_20150714_013181	Black Shadow
 ETC_20150714_013182	Wandering Spirit
-ETC_20150714_013183	
+ETC_20150714_013183	The crystal of the hardened astral body
 ETC_20150714_013184	Storage Box
-ETC_20150717_013185	ETC_20150317_000229
-ETC_20150717_013186	
-ETC_20150717_013187	
-ETC_20150717_013188	
+ETC_20150717_013185	Black Umbrella Moss
+ETC_20150717_013186	Burning Fire Rod
+ETC_20150717_013187	Harpia in wrath
+ETC_20150717_013188	Starving Ellaganos
 ETC_20150717_013189	
 ETC_20150717_013190	
 ETC_20150717_013191	
 ETC_20150717_013192	
 ETC_20150717_013193	
 ETC_20150717_013194	
-ETC_20150717_013195	
-ETC_20150717_013196	ETC_20150428_011584
-ETC_20150717_013197	
-ETC_20150717_013198	
-ETC_20150717_013199	
-ETC_20150717_013200	
-ETC_20150717_013201	
-ETC_20150717_013202	
-ETC_20150717_013203	
-ETC_20150717_013204	
-ETC_20150717_013205	
-ETC_20150717_013206	
-ETC_20150717_013207	
-ETC_20150717_013208	
-ETC_20150717_013209	
-ETC_20150717_013210	
-ETC_20150717_013211	
-ETC_20150717_013212	
-ETC_20150717_013213	
-ETC_20150717_013214	
-ETC_20150717_013215	
-ETC_20150717_013216	
-ETC_20150717_013217	
-ETC_20150717_013218	
-ETC_20150717_013219	
-ETC_20150717_013220	
-ETC_20150717_013221	
-ETC_20150717_013222	
-ETC_20150717_013223	
-ETC_20150717_013224	
-ETC_20150717_013225	
-ETC_20150717_013226	
-ETC_20150717_013227	
-ETC_20150717_013228	
-ETC_20150717_013229	
-ETC_20150717_013230	
-<<<<<<< HEAD
-ixETC_20150717_013231	 are used for Character movement. You can move your character freely using these keys.
-ETC_20150717_013232	Choose the control mode in Game Settings.
-ixETC_20150717_013233	Joypad : Use the Control Pad to move.
-ixETC_20150717_013234	Mouse : Click the on ground where you want {nl}                 your character to move.
-ixETC_20150717_013235	When using the mouse, you can also move using {img W 40 40}, {img A 40 40}, {img S 40 40}, {img D 40 40} 
-ETC_20150717_013236	Press the same arrow key twice to dash when using Swordsman types.
-ixETC_20150717_013237	Using Dash makes you move faster but it will consume more Stamina.
-ixETC_20150717_013238	You can Jump to higher places or over obstacles.
-ETC_20150717_013239	Press {img X 40 40} key to Jump.
-ixETC_20150717_013240	Mouse : Press {img space 40 40} to Jump
-ixETC_20150717_013241	Joypad : Press preset keys to Jump
-ixETC_20150717_013242	Press {img Z 40 40} for basic attack.
-ixETC_20150717_013243	Mouse : Click on the enemy  or press {img Z 40 40} to attack.
-ixETC_20150717_013244	Press {img ctrl 40 40} to lock-on to a target.
-ixETC_20150717_013245	Press {img Alt 40 40} to stop your character immediately.
-ETC_20150717_013246	Press {img space 40 40} to face your target.
-ixETC_20150717_013247	Joypad : Use pre-set keys to attack
-ixETC_20150717_013248	        Maps are used to check your current location {nl}                        and other important areas.
-ixETC_20150717_013249	Check the map of current location by using {img M 40 40}
-ETC_20150717_013250	Use {img N 40 40} key to open World Map.
-ETC_20150717_013251	Areas you have not explored will not be shown on the World Map.
-ETC_20150717_013252	Hover your mouse over a revealed area to display completion.
-ETC_20150717_013253	Your Inventory will show your items, equipment, money, and carry weight.
-ETC_20150717_013254	Press {img F2 40 40} to open your Inventory.
-ETC_20150717_013255	The upper part of the Inventory screen shows your current equipment.
-ETC_20150717_013256	The lower part shows items you are currently carrying.
-ETC_20150717_013257	Items in Inventory are arranged by item types.
+ETC_20150717_013195	Grimm Reaper
+ETC_20150717_013196	The 2nd Demons' Prison
+ETC_20150717_013197	Where did that kind of monster appear from...
+ETC_20150717_013198	Hold up little more!{nl}I will gather some people!
+ETC_20150717_013199	The petrified frosts are coming!{nl}Destroy the obstacles or jump over them to move to a safe place!
+ETC_20150717_013200	Trigger for the completion
+ETC_20150717_013201	As you were trying to repair the detector, the monsters rushed in!
+ETC_20150717_013202	Weakened Petrified Frosts
+ETC_20150717_013203	Intensive Spirits' Device has been destroyed and lots of monsters are rushing in!
+ETC_20150717_013204	Defeat Salamanders that are going after Protective Shell activating device
+ETC_20150717_013205	As the magic stabilizing device activated, the monsters rushed in! 
+ETC_20150717_013206	Protect Grita while she is controlling the magic of the tower!
+ETC_20150717_013207	Defeat Grinender that blocked the stairs to the 5th floor!
+ETC_20150717_013208	Well done. Grita.
+ETC_20150717_013209	Kingdom Military Guard Dellus
+ETC_20150717_013210	Weapon Box
+ETC_20150717_013211	Let's retrieve the base!
+ETC_20150717_013212	What! It's the box.
+ETC_20150717_013213	Do I have anything to sell.
+ETC_20150717_013214	Only documents.
+ETC_20150717_013215	The energy of the night has weakened
+ETC_20150717_013216	The monsters at the declined Legwyn Family's Mansion are becoming weak.
+ETC_20150717_013217	Reflect the light
+ETC_20150717_013218	As the lamp shined, you can see the monters that were hidden
+ETC_20150717_013219	You lighted up the bonfire for the spirits
+ETC_20150717_013220	The buff that stops a person from talking for a while
+ETC_20150717_013221	Spirit leaving out
+ETC_20150717_013222	You are losing the spirit. So you feel exhausted.
+ETC_20150717_013223	Bomb Effects
+ETC_20150717_013224	Bomb Effects
+ETC_20150717_013225	The curse of the suspicious sculpture
+ETC_20150717_013226	The blessing of the suspicious Todem
+ETC_20150717_013227	The curse of the suspicious crystal
+ETC_20150717_013228	The blessing of the suspicious stone pole
+ETC_20150717_013229	The blessing of the suspicious tombstone
+ETC_20150717_013230	The blessing of the unknown crystal pole
+ETC_20150717_013231	You can move freely using
+ETC_20150717_013232	Choose the control mode from Game Settings.
+ETC_20150717_013233	For Joypad, use the Control Pad to move.
+ETC_20150717_013234	For Mouse, click on the area where you want to move the character. 
+ETC_20150717_013235	When using the mouse, you can also move using the {img W 40 40}, {img A 40 40}, {img S 40 40}, {img D 40 40} keys
+ETC_20150717_013236	Press the same arrow key twice to dash when using Swordsman types. 
+ETC_20150717_013237	Using Dash increases your movement speed but Stamina is also consumed faster. 
+ETC_20150717_013238	Use Jump to cross over obstacles or up higher places. 
+ETC_20150717_013239	Use {img X 40 40} key to Jump.
+ETC_20150717_013240	When using mouse, you can Jump by using {img space 40 40}.
+ETC_20150717_013241	When using Joypad, you can Jump by using preset keys.
+ETC_20150717_013242	Use {img Z 40 40} key for basic attack.
+ETC_20150717_013243	When using mouse, you can attack by using {img Z 40 40} key or clicking on the enemy. 
+ETC_20150717_013244	Use {img ctrl 40 40} key to lock target. 
+ETC_20150717_013245	Use {img Alt 40 40} key to immediately stop your character movement. 
+ETC_20150717_013246	Use {img space 40 40} to face your target. 
+ETC_20150717_013247	When using Joypad, you can attack by using the preset key. 
+ETC_20150717_013248	Use the Map to check your current location and other current areas. 
+ETC_20150717_013249	Use {img M 40 40} key to check the map of your current area. 
+ETC_20150717_013250	Use {img N 40 40} key to open World Map. 
+ETC_20150717_013251	Areas you haven't been to will not be shown in the World Map,{nl}while areas you have already been to will be activated. 
+ETC_20150717_013252	Moving your mouse over the activated area will show the map that the character has completed. 
+ETC_20150717_013253	You can check your items, equipments, money, and weight through the Inventory. 
+ETC_20150717_013254	Use {img F2 40 40}키 key to open Inventory window. 
+ETC_20150717_013255	Upper area of the Inventory window shows items that the character equipped. 
+ETC_20150717_013256	Below are the item that the character holds.
+ETC_20150717_013257	Items in Inventory are arranged by item types. 
 ETC_20150717_013258	Press Arrange to arrange inventory by name.
 ETC_20150717_013259	Use the search function to quickly find items.
 ETC_20150717_013260	The lower ares shows total carry weight of your items, funds, and iCoins.
@@ -13294,7 +13292,7 @@ ETC_20150717_013292	Some classes may require you to train Weapon Mastery before 
 ETC_20150717_013293	Revive dead characters by using Resurrection.
 ETC_20150717_013294	A character will die when its HP reaches 0 and become
 ETC_20150717_013295	. {nl}{nl}
-ETC_20150717_013296	- you can select from different options to revive. {nl}{nl} - Respawn from nearest Revival Point : Revive in the starting location of the map. For dungeons, you will revive outside its entrance. {nl}{nl} Respawn here : Revive where the character died. Requires 1 iCoin. {nl}
+ETC_20150717_013296	- you can select from different options to revive. {nl}{nl} - Respawn from nearest Revival Point : Revive in the starting location of the map. For dungeons, you will revive outside its entrance. {nl}{nl} Respawn here : Revive where the character died. Req
 ETC_20150717_013297	Gems in your inventory will be dropped when you die inside a dungeon.
 ETC_20150717_013298	You can earn Achievements through character's activities and receive rewards.
 ETC_20150717_013299	You can see your characer's Achievements by pressing {img F1 40 40} to open the Character window, and going to the Achievements tab.
@@ -13339,8 +13337,8 @@ ETC_20150717_013337	You can add names or memos on crafted items.
 ETC_20150717_013338	Shop System
 ETC_20150717_013339	You can find Merchant NPCs in your travels.
 ETC_20150717_013340	Use the trade window to trade items with NPCs.{nl}{nl}[Buy] : Select the items you want to buy with {img mouseclick_right 40 40}, then press
-ETC_20150717_013341	
-ETC_20150717_013342	button to trade. To trade multiple items, use {img mouseclick_right 40 40} to set quantity. {nl}{nl}[Sell]: {img mouseclick_right 40 40} on the items you want to sell from your inventory, and set quantity, then press
+ETC_20150717_013341	Settle
+ixETC_20150717_013342	 button to trade. {nl}To trade multiple items, use {img mouseclick_right 40 40} to set quantity. {nl}{nl}[Sell]: {img mouseclick_right 40 40} on the items you want to sell from your inventory, and set quantity, then press
 ETC_20150717_013343	button to trade. {nl}Double {img mouseclick_right 40 40} to sell all of that item.
 ETC_20150717_013344	Empty
 ETC_20150717_013345	button enables you to reset all items registered for Buy and Sell.
@@ -13431,71 +13429,71 @@ ETC_20150717_013429	[Like] Press {img mouseclick_right 40 40} on another charact
 ETC_20150717_013430	to use the Like function.
 ETC_20150717_013431	between characters will increase friendship and meet each other more often when matching parties.
 ETC_20150717_013432	Add Magic Amulet on weapons and shields for additional effects.
-ETC_20150717_013433	You can receive additional EXP on an Overkill.
-ETC_20150717_013434	ETC_20150317_006744
-ETC_20150717_013435	ETC_20150317_006918
-ETC_20150717_013436	ETC_20150317_007007
-ETC_20150717_013437	ETC_20150317_007009
-ETC_20150717_013438	
-ETC_20150717_013439	ETC_20150401_010511
-ETC_20150717_013440	
-ETC_20150717_013441	
-ETC_20150717_013442	
-ETC_20150717_013443	
-ETC_20150717_013444	
-ETC_20150717_013445	ETC_20150317_007395
-ETC_20150717_013446	
-ETC_20150717_013447	
-ETC_20150717_013448	
-ETC_20150717_013449	
-ETC_20150717_013450	
-ETC_20150717_013451	
-ETC_20150717_013452	
-ETC_20150717_013453	
-ETC_20150717_013454	
-ETC_20150717_013455	
-ETC_20150717_013456	
-ETC_20150717_013457	
-ETC_20150717_013458	
-ETC_20150717_013459	
-ETC_20150717_013460	ETC_20150714_012109
-ETC_20150717_013461	
-ETC_20150717_013462	ETC_20150714_012140
-ETC_20150717_013463	
-ETC_20150717_013464	ETC_20150714_012155
-ETC_20150717_013465	ETC_20150714_012161
-ETC_20150717_013466	
-ETC_20150717_013467	
-ETC_20150717_013468	
-ETC_20150717_013469	
-ETC_20150717_013470	
-ETC_20150717_013471	
-ETC_20150717_013472	
-ETC_20150717_013473	
-ETC_20150717_013474	
-ETC_20150717_013475	
-ETC_20150717_013476	
-ETC_20150717_013477	
-ETC_20150717_013478	
-ETC_20150717_013479	
-ETC_20150717_013480	
-ETC_20150717_013481	
-ETC_20150717_013482	
-ETC_20150717_013483	
-ETC_20150717_013484	
-ETC_20150717_013485	
-ETC_20150717_013486	
-ETC_20150717_013487	
-ETC_20150717_013488	
-ETC_20150717_013489	
-ETC_20150717_013490	
-ETC_20150717_013491	
-ETC_20150717_013492	
-ETC_20150717_013493	
-ETC_20150717_013494	
-ETC_20150717_013495	
-ETC_20150717_013496	
-ETC_20150717_013497	
+ETC_20150717_013433	You can receive additional EXP when Overkill is triggered. 
+ETC_20150717_013434	Magic Control Room
+ETC_20150717_013435	Item Merchant, Emilia
+ETC_20150717_013436	City Item Merchant
+ETC_20150717_013437	Item Merchant1
+ETC_20150717_013438	Silhouette Crystal
+ETC_20150717_013439	Fedimian Item Merchant
+ETC_20150717_013440	Grita Pheonix
+ETC_20150717_013441	NPC_Fire Rod
+ETC_20150717_013442	Empty NPC for the petrified city
+ETC_20150717_013443	NPC_Kepa_Temporal Use
+ETC_20150717_013444	The hidden trigger for the petrified frosts
+ETC_20150717_013445	Boss Hunting Mission
+ETC_20150717_013446	Request Office Mission
+ETC_20150717_013447	Talk to Fedimian Mercenary, Ramda who is also the receptionist at the Request Office and enter the mission.
+ETC_20150717_013448	DoTimeAction:Looking for the parts:3:SITGROPE:None
+ETC_20150717_013449	Property:1/PropertyAdd:1/EffectNPC:Local:F_pc_making_finish_white:1:TOP/Notice:NOTICE_Dm_GetItem:You've found the parts!:5/NPCDead
+ETC_20150717_013450	Notice:NOTICE_Dm_!:You didn't find anything!:5/NPCDead
+ETC_20150717_013451	DoTimeAction:Collecting:3:SITGROPE:None
+ETC_20150717_013452	Property:1/PropertyAdd:1/GiveItem:FLASH_58_SQ_020_ITEM_1:1/EffectNPC:Local:F_pc_making_finish_white:1:TOP/Notice:NOTICE_Dm_Clear:You've obtained Poisonous plants!:5
+ETC_20150717_013453	NPCDead/Notice:NOTICE_Dm_!:You couldn't obtain anything!:5
+ETC_20150717_013454	DoTimeAction:Colleting the petrification liquid  powders:5:GROPE:None
+ETC_20150717_013455	Property:1/PropertyAdd:1/GiveItem:FLASH_58_SQ_050_ITEM_2:1/EffectNPC:Local:F_pc_making_finish_white:1:TOP/NPCDead/Notice:NOTICE_Dm_Clear:You've obtained the petrification liquid powders!:5
+ETC_20150717_013456	NPCDead/Notice:NOTICE_Dm_!:You've failed to obtain the petrification liquid powders!:5
+ETC_20150717_013457	Func:SCR_FLASH_58_PETRIFICATION_MON_PRECHCEK/DoTimeAction:Pulling out the monster's core:3:SITGROPE:None
+ETC_20150717_013458	Property:1/PropertyAdd:1/GiveItem:FLASH_58_SQ_060_ITEM_1:1/EffectNPC:Local:FLASH_58_SQ_060_ITEM_1:1:TOP/NPCDead/Notice:NOTICE_Dm_Clear:Obtained the core!:5
+ETC_20150717_013459	Notice:NOTICE_Dm_!:You haven't obtained anything:5
+ETC_20150717_013460	Release the petrified victims at Vienti Fortress
+ETC_20150717_013461	The past of Crystal Mine[Alchemist Advancement]
+ETC_20150717_013462	Pass the corridor by dispersing the monsters
+ETC_20150717_013463	Search through the corpses of the Kingdom Military guards and collect usable equipment
+ETC_20150717_013464	Obtain diluting solution from the Item Merchant in Fedimian
+ETC_20150717_013465	Lure InfroGalasMage using the food boxes to collect sticky resin
+ETC_20150717_013466	Move to a safe place
+ETC_20150717_013467	Check the first petrification device
+ETC_20150717_013468	Check the second petrification device
+ETC_20150717_013469	Check the third petrification device
+ETC_20150717_013470	Check the fourth petrification device
+ETC_20150717_013471	Obtain the parts from the monsters or the soldiers
+ETC_20150717_013472	Obtain poisonous plants
+ETC_20150717_013473	Obtain petrification liquid powders
+ETC_20150717_013474	Obtain the core from the petrified monsters
+ETC_20150717_013475	Throw the core to the terminal (1)
+ETC_20150717_013476	Throw the core to the terminal (2)
+ETC_20150717_013477	Throw the core to the terminal (3)
+ETC_20150717_013478	Obtain the detonator from the monsters
+ETC_20150717_013479	Saknis Fields Hidden Event Requirements Session
+ETC_20150717_013480	Gitis Settlement Area Hidden Event Requirements Session
+ETC_20150717_013481	Sunset Flag Forest Hidden Event Session
+ETC_20150717_013482	Zachariel Intersections Hidden Event Requirements Session
+ETC_20150717_013483	Vieta Valley Hidden Event Requirements Session
+ETC_20150717_013484	Manual-Shetrigailla's Orb
+ETC_20150717_013485	Manual-Austas
+ETC_20150717_013486	Manual-Kindzal
+ETC_20150717_013487	Manual-Naktis
+ETC_20150717_013488	Manual-Grinas Rod
+ETC_20150717_013489	Manual-Temere
+ETC_20150717_013490	Manual-Black Staff
+ETC_20150717_013491	Manual-Accuracy Crossbow
+ETC_20150717_013492	Manual-Veteran Crossbow
+ETC_20150717_013493	Manual-Handgun
+ETC_20150717_013494	Veteran
+ETC_20150717_013495	Expert
+ETC_20150717_013496	Challenger
+ETC_20150717_013497	Champion
 ETC_20150717_013498	FAQ : Enhancement{nl}1) Weapons and armors can be enhanced using the anvil. {nl}2) You can buy anvils from the Tools Merchants in town. {nl}3) Silver is required everytime you enhance an item.{nl}4)The enhancement of weapons and armor has a 100% success rate till +5 and +3 respectively. The chance of failure after the next enhancement will increase.{nl} If an enhancement fails, your enhancement level will reset and the Potential of your item decreases.
 ETC_20150717_013499	Card Battle Tip
 ETC_20150717_013500	in chat menu
@@ -13526,88 +13524,91 @@ ETC_20150717_013524	{gr gradation2}{s19}{ol}{b}{#ffcc00}Right-click: Sell / Buy 
 ETC_20150717_013525	You will move to another channel due to full.
 ETC_20150717_013526	If the enhancement of armor, bracelets or necklaces above level {#ffffcc}+{Auto_1} fails, its Potential will be consumed. When the Potential falls below 0, the item will be destroyed. Do you want to enhance?
 ETC_20150717_013527	If the enhancement of weapons above level {#ffffcc}+{Auto_1} fails, its Potential will be consumed. When the Potential falls below 0, the item will be destroyed. Do you want to enhance?
-ETC_20150717_013528	
-ETC_20150717_013529	
-ETC_20150717_013530	
+ETC_20150717_013528	Will be entered automatically after 5 secs
+ETC_20150717_013529	When you go out of the dungeon, you will fail Awaken. Are you going to really go out?
+ETC_20150717_013530	You've obtained Silvers
 ETC_20150717_013531	You do not have the class required to use this companion.
 ETC_20150717_013532	You do not have the attributes required to use this companion.
-ETC_20150717_013533	
-ETC_20150717_013534	
-ETC_20150717_013535	
-ETC_20150717_013536	
-ETC_20150717_013537	
-ETC_20150717_013538	ETC_20150714_012357
-ETC_20150717_013539	ETC_20150714_012358
-ETC_20150717_013540	ETC_20150714_012374
-ETC_20150717_013541	
-ETC_20150717_013542	
-ETC_20150717_013543	
-ETC_20150717_013544	
-ETC_20150717_013545	
-ETC_20150717_013546	
-ETC_20150717_013547	
-ETC_20150717_013548	
-ETC_20150717_013549	
-ETC_20150717_013550	
-ETC_20150717_013551	
-ETC_20150717_013552	
+ETC_20150717_013533	{ThemeName} ({Count}Name)
+ETC_20150717_013534	Like +1
+ETC_20150717_013535	{Name} likes {Who}!
+ETC_20150717_013536	{@st41b}Retrieval Item
+ETC_20150717_013537	Use
+ETC_20150717_013538	After smelling the food, Infrogalas Mages are rushing in
+ETC_20150717_013539	Lured Infrogalas Mage
+ETC_20150717_013540	You've obtained the sticky resin!
+ETC_20150717_013541	Looking at the detector
+ETC_20150717_013542	Detector is not working!
+ETC_20150717_013543	Detector is working well
+ETC_20150717_013544	You've stumbled by the petrified frost!{nl}Try Again!
+ETC_20150717_013545	You are moving as if you are being pulled!
+ETC_20150717_013546	You can't get near due to the malfunctioning of the terminal!
+ETC_20150717_013547	It is not the monster with the detonator!
+ETC_20150717_013548	Petrified Frosts have come! Avoid them fast!
+ETC_20150717_013549	The lamp is shining bright{nl}
+ETC_20150717_013550	It will last for secs
+ETC_20150717_013551	You don't have enough old oil pockets
+ETC_20150717_013552	Magical Purification device is already activated
 ETC_20150717_013553	Released the Seal of Guidance and summoned Guardian!
 ETC_20150717_013554	Released the Seal of Protection and Terra Nymph are charging in!
 ETC_20150717_013555	Released the Seal of Blessing and the monsters in residence are weakening.
-ETC_20150717_013556	
-ETC_20150717_013557	
-ETC_20150717_013558	
-ETC_20150717_013559	
-ETC_20150717_013560	
-ETC_20150717_013561	
-ETC_20150717_013562	
-ETC_20150717_013563	
-ETC_20150717_013564	
-ETC_20150717_013565	
-ETC_20150717_013566	
-ETC_20150717_013567	
-ETC_20150717_013568	
-ETC_20150717_013569	
-ETC_20150717_013570	
-ETC_20150717_013571	
-ETC_20150717_013572	
-ETC_20150717_013573	
-ETC_20150717_013574	
-ETC_20150717_013575	
-ETC_20150717_013576	
-ETC_20150717_013577	
-ETC_20150717_013578	
-ETC_20150717_013579	
-ETC_20150717_013580	
-ETC_20150717_013581	
-ETC_20150717_013582	
-ETC_20150717_013583	
-ETC_20150717_013584	
-ETC_20150717_013585	
-ETC_20150717_013586	
-ETC_20150717_013587	
-ETC_20150717_013588	
-ETC_20150717_013589	
-ETC_20150717_013590	
-ETC_20150717_013591	
-ETC_20150717_013592	
-ETC_20150717_013593	
-ETC_20150717_013594	
-ETC_20150717_013595	
-ETC_20150717_013596	
-ETC_20150717_013597	
-ETC_20150717_013598	
+ETC_20150717_013556	You've found the documents about magic generating stones
+ETC_20150717_013557	Resetting with Balyus' magic
+ETC_20150717_013558	You don't have enough crystal pieces
+ETC_20150717_013559	The poison in this spring is not enough
+ETC_20150717_013560	Let's take a rest for a while
+ETC_20150717_013561	An old book is there
+ETC_20150717_013562	Explosive
+ETC_20150717_013563	Eliminating the Explosive
+ETC_20150717_013564	You've found an unexploded bomb!{nl}Talk with Sapper Master who knows a lot about explosives
+ETC_20150717_013565	You've found an unexploded bomb!{nl}Let's use the tool box that can be used to eliminate the unexploded bombs
+ETC_20150717_013566	You've eliminated the unexploded bomb!
+ETC_20150717_013567	Using the tool box
+ETC_20150717_013568	You've set the explosive
+ETC_20150717_013569	Could not protect Amanda
+ETC_20150717_013570	You've dedicated the item as an offering
+ETC_20150717_013571	The item is not in the inventory
+ETC_20150717_013572	You've received the blessing from the suspicious crystal
+ETC_20150717_013573	Put the shade of Big Grieva
+ETC_20150717_013574	Put the strain of Big Siaulamb
+ETC_20150717_013575	Put the mask of Siaulamb
+ETC_20150717_013576	Put the core of Zolem
+ETC_20150717_013577	Put the hook
+ETC_20150717_013578	Put the core of grave Golems
+ETC_20150717_013579	Just go.
+ETC_20150717_013580	Put the wing of Dandell
+ETC_20150717_013581	Put the shells Kepos
+ETC_20150717_013582	Put the stems of Ashulongs
+ETC_20150717_013583	Put the shells of old Kepas
+ETC_20150717_013584	Put the leaves of Krumabos
+ETC_20150717_013585	Put the bells of Ellums
+ETC_20150717_013586	The monsters nearby are rushing in!
+ETC_20150717_013587	You've obtained the blessing from the suspicious tombstone
+ETC_20150717_013588	Suspicious Crystal Pole
+ETC_20150717_013589	You've received the blessing from the suspicious stone pole
+ETC_20150717_013590	All equipment
+ETC_20150717_013591	This game is rated for 12 years or older
+ETC_20150717_013592	There is no empty slot
+ETC_20150717_013593	When you are mounted on a companion, card duels are not possible.
+ETC_20150717_013594	Mouse Mode may not be feasible for Swordsman, Cleric type classes.
+ETC_20150717_013595	The rule of distributing items has been changed to {Change}.
+ETC_20150717_013596	The rule of distributing EXP has been changed to {Change}.
+ETC_20150717_013597	Quest Share has been changed to {Change}.
+ETC_20150717_013598	You've sent an invitation message.
 ETC_20150717_013599	There is an instant shop registered {nl}Register instant shop through the Tools Merchant.
 ETC_20150717_013600	You have lit the bonefire!
-ETC_20150717_013601	
+ETC_20150717_013601	It is already in fire!
 ETC_20150717_013602	[Tools Merchant]{nl}     Anna
-ETC_20150717_013603	[Tools Merchant]{nl}     Mirina
+ETC_20150717_013603	[Tools Merchant]{nl}           Mirina
 ETC_20150717_013604	Spell Control Magic Circle.
-ETC_20150717_013605	
-ETC_20150717_013606	
-ETC_20150717_013607	
-ETC_20150717_013608	
-ETC_20150717_013609	
-ETC_20150717_013610	
-ETC_20150717_013611	
-
+ETC_20150717_013605	The guard that fell behind
+ETC_20150717_013606	The corpse of the Kingdom Military Guard
+ETC_20150717_013607	No Monter Gen
+ETC_20150717_013608	Inner Fortress District
+ETC_20150717_013609	Petrified Monster
+ETC_20150717_013610	Suspicious Crystal
+ETC_20150717_013611	Suspicious Sculpture
+ETC_20150717_013612	This game is rated ESRB Teen.
+ETC_20150717_013613	{How} Silvers obtained.
+ETC_20150717_013614	{@st59}Increase Max SP, SP recovery, Block penetration{/}
+ETC_20150717_013615	{@st59}Increase Magic ATK{/}
