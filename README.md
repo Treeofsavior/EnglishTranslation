@@ -1,4 +1,18 @@
-##NOTICE (Updated 07-23-2015)
+##NOTICE (Updated 07-27-2015)
+
+We’d like to thank our Contributors in helping us shape the English version of Tree of Savior. 
+As a token of our appreciation, we will be securing Beta Keys for our Github Contributors in the upcoming Tree of Savior Beta Test.
+
+If you have contributed at least 100 lines by July 26, you will receive 3 Beta Keys via email regardless of your selection as Tester in the Official Website.
+
+In order to receive the keys, PLEASE MAKE SURE YOU AUTHENTICATE AND LINK your Github ID to the official website’s account. 
+If the accounts are not linked by July 30, you WILL NOT be able to receive the Beta Keys.
+
+You may check the list of those who qualify for the Beta Keys [**HERE**](https://github.com/Treeofsavior/EnglishTranslation/issues/559)
+
+Thank you and please continue to send us your support and interest for Tree of Savior.
+
+
 
 1. We'd like to hear your thoughts on setting Guidelines for the translations in Github. Please share your suggestions with us  [**HERE**](https://github.com/Treeofsavior/EnglishTranslation/issues/540)
 
