@@ -1670,7 +1670,7 @@ ETC_20150317_001669	Must be at least {LEN} characters.
 ETC_20150317_001670	Must be less than {LEN} characters.
 ETC_20150317_001671	Contains one or more characters that are not allowed.
 ETC_20150317_001672	You cannot ride during Rest Mode.
-ETC_20150317_001673	You cannot ride on a fainted companion.
+ETC_20150317_001673	You cannot ride on a stunned companion.
 ETC_20150317_001674	The customer is not a CBT user.
 ETC_20150317_001675	It has been banned by the administrator.
 ETC_20150317_001676	{Name} ({Mapname} / channel {ChNo})
@@ -2217,7 +2217,7 @@ ETC_20150317_002216	Obatined a stamina to succeed dismatling the core of crystal
 ETC_20150317_002217	As the side effect of the core of crystal, The old hook appeared!
 ETC_20150317_002218	Amulet pieces are combined to form one amulet!
 ETC_20150317_002219	Succeed to dismantle Transformed tree root crystal 
-ETC_20150317_002220	Touched the wrong tree root crystal and fainted!
+xETC_20150317_002220	Touched the wrong tree root crystal and was stunned!
 ETC_20150317_002221	Touched the wrong tree root crystal and fell asleep!
 ETC_20150317_002222	Touched the wrong tree root crystal and the speed slowed down.
 ETC_20150317_002223	I will freeze to the touch the wrong roots to fix it!
@@ -2279,7 +2279,7 @@ ETC_20150317_002278	You collected all the dewdrops in the leather pouch!
 ETC_20150317_002279	Digging the roots
 ETC_20150317_002280	Red Treeambulo
 ETC_20150317_002281	Red Treeambulo appeared from root of reeds.
-ETC_20150317_002282	You've been stunned by the root's poison and fainted!
+xETC_20150317_002282	You've been stunned by the root's poison!
 ETC_20150317_002283	Obatined the monster's dead skin cell
 ETC_20150317_002284	Installing jar
 ETC_20150317_002285	Collecting sap
@@ -2314,7 +2314,7 @@ ETC_20150317_002313	The garbage is full.{nl}First to use the garbage and then re
 ETC_20150317_002314	Found Piece of Vubbe's Clothes! {nl} This might be a clue!
 ETC_20150317_002315	The quest failed since the refugees have become exhausted! {nl} This quest can not be restarted for five minutes.
 ETC_20150317_002316	Failed the quest due to timeout! {nl} This quest can not be restarted for five minutes.
-ETC_20150317_002317	Using the sentence of space
+xETC_20150317_002317	Using the Crest of Emptiness
 ETC_20150317_002318	Use it in a surrounding pillar which has a similar shape.
 ETC_20150317_002319	The barrier has already been released!
 ETC_20150317_002320	Get Suteisu to worship the die Mina!
@@ -2558,7 +2558,7 @@ ETC_20150317_002557	Labor was not detected
 ETC_20150317_002558	Labor has been detected
 ETC_20150317_002559	Use Magic Scroll
 ETC_20150317_002560	There is no reaction
-ETC_20150317_002561	Monster fainted
+xETC_20150317_002561	Monster stunned
 ETC_20150317_002562	Monster exploded
 ETC_20150317_002563	Mise to prove that you are the person clearly
 ETC_20150317_002564	Door is opened. Please won the revelation
@@ -3017,7 +3017,7 @@ ETC_20150317_003016	Ride on
 ETC_20150317_003017	Using
 ETC_20150317_003018	First reaction: Movement speed decrease
 ETC_20150317_003019	Second reaction: Addiction
-ETC_20150317_003020	Third reaction: Faint
+xETC_20150317_003020	Third reaction: Stun
 ETC_20150317_003021	No special reaction
 ETC_20150317_003022	Installing
 ETC_20150317_003023	No effects
@@ -4833,8 +4833,8 @@ ETC_20150317_004832	Benefits of having a Companion
 ETC_20150317_004833	Protect the demon summoners by defeating the monsters ahead.
 xETC_20150317_004834	Barrier of Pompra Hill activated!{nl}
 ETC_20150317_004835	Collecting Freshwater
-xETC_20150317_004836	Nefender fell into a confusion state. Collect freshwater to cure it!
-xETC_20150317_004837	You need to collect fresh water in order to heal Nefender.
+xETC_20150317_004836	The Nefender fell into a confusion state. Collect freshwater to cure it!
+xETC_20150317_004837	You need to collect fresh water in order to heal the Nefender.
 xETC_20150317_004838	Concentrating Quality Grindstone
 xETC_20150317_004839	Obtained Tree of Sound!
 xETC_20150317_004840	There was no Tree of Sound.
@@ -5690,7 +5690,7 @@ ETC_20150317_005689	Scented Stone Powder has been applied! Luring a powerful mon
 ETC_20150317_005690	Promotional Material Attached
 ETC_20150317_005691	The kingdom's army's promotional material is attached on it!
 ETC_20150317_005692	Body Odor Obtained
-ETC_20150317_005693	Nefenders has fainted!
+ETC_20150317_005693	Nefenders is stunned!
 ETC_20150317_005694	Wide Area Shooting
 ETC_20150317_005695	Desperate Sprint
 ETC_20150317_005696	Running away for life
@@ -7726,28 +7726,28 @@ ETC_20150317_007725	Find the Paladin Master again (1)
 ETC_20150317_007726	Mission of Paladin Master
 ETC_20150317_007727	Verification Damage (1)
 ETC_20150317_007728	Pick the herb asked by Cleric Master
-ETC_20150317_007729	Offer worship to Goddess Vakarine Statue in Fedimian
-ETC_20150317_007730	Manage the Goddess Vakarine Statue in Fedimian
-ETC_20150317_007731	Manage the Statue of Vakarine in Klaipeda
-ETC_20150317_007732	Remove the source of contamination
-ETC_20150317_007733	Use the crest with girl around portal
-ETC_20150317_007734	Chamber of Secrets - Swordsman type_conditions
-ETC_20150317_007735	Chamber of Secrets - Wizard type_conditions
-ETC_20150317_007736	Chamber of Secrets - Archer type_conditions
-ETC_20150317_007737	Chamber of Secrets - Cleric type _conditions
-ETC_20150317_007738	Purpose of the secret box
-ETC_20150317_007739	I match Magician Owyn quiz
-ETC_20150317_007740	Answer the quiz of Dazzlementer Cordelier 
-ETC_20150317_007741	Answer the quiz of Transmuter Furryode
-ETC_20150317_007742	Collect a sheet of wizard's book from experiment of tower of wizard 3st
-ETC_20150317_007743	For fail and success
-ETC_20150317_007744	Enter numbers to chat window.
-ETC_20150317_007745	N/A
+xETC_20150317_007729	Offer worship to the Goddess Vakarine Statue in Fedimian
+oETC_20150317_007730	Manage the Goddess Vakarine Statue in Fedimian
+oETC_20150317_007731	Manage the Statue of Vakarine in Klaipeda
+oETC_20150317_007732	Remove the source of contamination
+xETC_20150317_007733	Use the Crest of Emptiness towards the girl near the portal
+xETC_20150317_007734	Sanctum of Secrecy - Swordsman type_conditions
+xETC_20150317_007735	Sanctum of Secrecy - Wizard type_conditions
+xETC_20150317_007736	Sanctum of Secrecy - Archer type_conditions
+xETC_20150317_007737	Sanctum of Secrecy - Cleric type_conditions
+oETC_20150317_007738	Purpose of the secret box
+xETC_20150317_007739	Passed Magician Owyn quiz
+oETC_20150317_007740	Answer the quiz of Dazzlementer Cordelier 
+oETC_20150317_007741	Answer the quiz of Transmuter Furryode
+xETC_20150317_007742	Collect a sheet from a wizard's book inside the laboratory on Mage's Tower 3rd Floor.
+xETC_20150317_007743	For fail and success use
+xETC_20150317_007744	Enter numbers to the chat window.
+xETC_20150317_007745	For fanfare use
 ETC_20150317_007746	Defend yourself from the attacking monsters
 ETC_20150317_007747	Read to the tombstone of Dykyne path on left
 ETC_20150317_007748	Evil Goddess Statue
 ETC_20150317_007749	Julius what modified to Draperiun to return back somehow
-ETC_20150317_007750	Collect the young leaf of Asellucho
+xETC_20150317_007750	Collect young leaves from Asellucho
 ETC_20150317_007751	Clean the rotten food piles
 ETC_20150317_007752	Find a scattered Tree roots crystal Nuclear
 ETC_20150317_007753	Collect the back moss through Kowak
@@ -7930,7 +7930,7 @@ ETC_20150317_007929	Release the seal of barrier candlestick on left
 ETC_20150317_007930	Release the seal of barrier candlestick on right
 ETC_20150317_007931	Find a hidden path to use a key
 ETC_20150317_007932	Surprise Attack
-ETC_20150317_007933	Fight with the priest of proof for win
+xETC_20150317_007933	Fight with the Priest of Evidence and win
 ETC_20150317_007934	Street Coner Block
 ETC_20150317_007935	Find the cathedral's things (1)
 ETC_20150317_007936	Find the cathedral's things
@@ -9753,6 +9753,7 @@ ETC_20150323_009752	You've robbed 10 treasure chests.
 ETC_20150323_009753	Treasure Hunter : Master
 ETC_20150323_009754	You've robbed 100 treasure chests.
 xETC_20150323_009755	Hanaming kill count
+ETC_20150323_009756	
 ETC_20150323_009757	Party Quest Count
 ETC_20150323_009758	Altar Group Buff
 ETC_20150323_009759	Purification Contribution
@@ -9772,8 +9773,8 @@ ETC_20150323_009772	Incapacitated
 ETC_20150323_009773	Incapacitated by General Rune.
 ETC_20150323_009774	Possession
 ETC_20150323_009775	Houberg is possessed by this monster.
-ETC_20150323_009776	Scorpio Faint
-ETC_20150323_009777	Scorpio has fainted!
+xETC_20150323_009776	Stunned Scorpio
+xETC_20150323_009777	Scorpio has been stunned!
 ETC_20150323_009778	Recharge Poison
 ETC_20150323_009779	This monster's poison is being absorbed by the pot!
 ETC_20150323_009780	Absorbed!
@@ -9896,108 +9897,108 @@ ETC_20150323_009896	NPCDead/Sleep:500/Notice:NOTICE_Dm_!:Nothing can be seen!:5
 ETC_20150323_009897	DoTimeAction:Cutting the trees that will be used for round woodsticks:4:CUTVINE_LOOP:None
 ETC_20150323_009898	Notice:NOTICE_Dm_!:Did not get anything!:5/NPCDead
 ETC_20150323_009899	DoTimeAction:Extracting Dandelions:2:None
-ETC_20150323_009900	PCSelfDown:10/Notice:NOTICE_Dm_!:Roots of Dandelions have been disconnected!:5/NPCDead
-ETC_20150323_009901	PCSelfDown:10/Notice:NOTICE_Dm_!:Roots of Dandelions have been disconnected!!:5/NPCDead/Func:SCR_FARM47_HERB_ROOT_EVENT
-ETC_20150323_009902	DoTimeAction:Drying after putting the meats of monsters inside:5:None
-ETC_20150323_009903	AnimNPC:Local:OPEN:0/Notice:NOTICE_Dm_!:The meats are being dried! The beef jerkies are going to come out when the lid opens after 5 secs!\:3/Sleep:5/AnimNPC:Local:OPEN:0/EffectNPC:Local:F_smoke135_dark:2:BOT/Property:1/PropertyAdd:1/GiveItem:FARM47_1_SQ_060_ITEM_2:1:0/TakeItem:FARM47_1_SQ_060_ITEM_1:1:0
-ETC_20150323_009904	DoTimeAction:Retrieving:2:MAKING:None
-ETC_20150323_009905	According to rumors around Fedimian, when the pilgrims passed by the Pilgrim Path
-ETC_20150323_009906	Survivors of the Fallen City lost their belongings or their lives in the Altar Way while going to Fedimian. According to the survivors
-ETC_20150323_009907	Revelators are exploring the different fallen parts of the world to find assignments of the Goddess. What seems to be a sanctuary was found in the Altar Way. If you can find something restore and use it again, you will be a hero to those who travel this area. 
-ETC_20150323_009908	According to the scout's reports, there were spell devices found in Forest of Prayer. They tried to activate it but there were too many monsters around so they had to run for their lives. Someone has to activate the spell device and check what powers it has.
-ETC_20150323_009909	Pass Tenet Garden and move to Katyn Forest Entrance
-ETC_20150323_009910	Place the Pot of Sun in Ramstis Ridge
-ETC_20150323_009911	Find reference related to Naktis
-ETC_20150323_009912	Get baby leaf of Asellu
-ETC_20150323_009913	Get kindlings from Kowag
-ETC_20150323_009914	Insert kindlings in Tree Root Crystal
-ETC_20150323_009915	Separate soul of pilgrims from the monster and attack the Tree Root Crystal.
-ETC_20150323_009916	Test the medicine on the monsters in Altar Way
-ETC_20150323_009917	Lure the monsters to the sanctuary and kill them
-ETC_20150323_009918	Destroy the Demon summon circle
-ETC_20150323_009919	Find the badge of sanctuary and burn it
-ETC_20150323_009920	Get the Reed extract crystal from Triambolos that live off Reed Roots
-ETC_20150323_009921	Collect the sap gathered in first pot
-ETC_20150323_009922	Collect the sap gathered in second pot
-ETC_20150323_009923	Collect the sap gathered in third pot
-ETC_20150323_009924	Get antidote from people in Akmens Ridge
-ETC_20150323_009925	Remove the seal of Viesa Altar
-ETC_20150323_009926	Find the document for transforming to demons in the Sanctuary
-ETC_20150323_009927	Defend against the demons while the Demon Transformation Scroll is being completed
-ETC_20150323_009928	Obtain the 4th key of Maven from Gaule Altar
-ETC_20150323_009929	Remove things of the demon
-ETC_20150323_009930	Unknown Device
-ETC_20150323_009931	Win the combat with Priest of Evidence
-ETC_20150323_009932	Find the sacred words
-ETC_20150323_009933	Listen to the story of Demon Monarch Houberg
-ETC_20150323_009934	Grasp the situation
-ETC_20150323_009935	Close the space of crossover
-ETC_20150323_009936	Release seal of Rwalda
-ETC_20150323_009937	Release seal of Casa
-ETC_20150323_009938	Release seal of Rada
-ETC_20150323_009939	Find Haubuck among the monsters
-ETC_20150323_009940	Seal Houberg
-ETC_20150323_009941	Find Goddess Vakarine
-ETC_20150323_009942	Make the demon monsters obey you
-ETC_20150323_009943	Rule the demons
-ETC_20150323_009944	Collect Token of Star
-ETC_20150323_009945	Check status of the ground
-ETC_20150323_009946	Collect materials for medicine
-ETC_20150323_009947	Existence of singularity
-ETC_20150323_009948	Research the smooth pile of soil
-ETC_20150323_009949	The box that can't be opened
-ETC_20150323_009950	Longterm solution
-ETC_20150323_009951	Pick young dandelion
-ETC_20150323_009952	Eliminate the competitor
-ETC_20150323_009953	Diary of a Girl
-ETC_20150323_009954	Need an egg
-ETC_20150323_009955	Farm under Disaster
-ETC_20150323_009956	Cure the grape addiction
-ETC_20150323_009957	Give antidote to addicted farmer
-ETC_20150323_009958	Guide the farmers near Druid
-ETC_20150323_009959	Block the beast with the beast's blood
-ETC_20150323_009960	Bring the Green Winged Frog to Telepath
-ETC_20150323_009961	Open the Magic Box(1)
-ETC_20150323_009962	Difference between crops and weeds
-ETC_20150323_009963	The change that can't be reversed
-ETC_20150323_009964	It's different from what I heard(1)
-ETC_20150323_009965	Defeat the monster taht Gorde Shatton summoned
-ETC_20150323_009966	This is also purification
-ETC_20150323_009967	Block the Underground Tunnel
-ETC_20150323_009968	Culprit of the Underground Maze
-ETC_20150323_009969	Take Farm Soldier Upham to Chief Vuros
-ETC_20150323_009970	Pass by Gate Route and Sirdgela Forest and move to Kvailas Forest
+xETC_20150323_009900	PCSelfDown:10/Notice:NOTICE_Dm_!:Roots of Dandelions have been cut!:5/NPCDead
+xETC_20150323_009901	PCSelfDown:10/Notice:NOTICE_Dm_!:Roots of Dandelions have been cut!!:5/NPCDead/Func:SCR_FARM47_HERB_ROOT_EVENT
+xETC_20150323_009902	DoTimeAction:Drying after putting the monster meats inside:5:None
+oETC_20150323_009903	AnimNPC:Local:OPEN:0/Notice:NOTICE_Dm_!:The meats are being dried! The beef jerkies are going to come out when the lid opens after 5 secs!\:3/Sleep:5/AnimNPC:Local:OPEN:0/EffectNPC:Local:F_smoke135_dark:2:BOT/Property:1/PropertyAdd:1/GiveItem:FARM47_1_SQ_060_ITEM_2:1:0/TakeItem:FARM47_1_SQ_060_ITEM_1:1:0
+oETC_20150323_009904	DoTimeAction:Retrieving:2:MAKING:None
+oETC_20150323_009905	According to rumors around Fedimian, when the pilgrims passed by the Pilgrim Path
+xETC_20150323_009906	According to the survivors, survivors of the Fallen City lost their belongings or their lives in the Altar Way while going to Fedimian.
+xETC_20150323_009907	Revelators are exploring the different fallen parts of the world to find assignments of the Goddess. What seems to be a sanctuary was found in the Altar Way. If you can find something restore and use it again, you will be a hero to those who travel this area. 
+xETC_20150323_009908	According to the scout's reports, there were spell devices found in the Forest of Prayer. They tried to activate it but there were too many monsters around so they had to run for their lives. Someone has to activate the spell device and check what powers it has.
+oETC_20150323_009909	Pass Tenet Garden and move to Katyn Forest Entrance
+oETC_20150323_009910	Place the Pot of Sun in Ramstis Ridge
+oETC_20150323_009911	Find reference related to Naktis
+xETC_20150323_009912	Get young leaves from Asellu
+oETC_20150323_009913	Get kindlings from Kowag
+xETC_20150323_009914	Insert kindlings in the Tree Root Crystal
+xETC_20150323_009915	Free the Pilgrim's soul from the monster and attack the Tree Root Crystal.
+oETC_20150323_009916	Test the medicine on the monsters in Altar Way
+oETC_20150323_009917	Lure the monsters to the sanctuary and kill them
+oETC_20150323_009918	Destroy the Demon summon circle
+xETC_20150323_009919	Find the Badge of Sanctuary and burn it
+xETC_20150323_009920	Get the Reed extract crystal from the Triambolos that live off the Reed Roots
+xETC_20150323_009921	Collect the sap in the first pot
+xETC_20150323_009922	Collect the sap in the second pot
+xETC_20150323_009923	Collect the sap in the third pot
+xETC_20150323_009924	Get the antidote from the people at Akmens Ridge
+oETC_20150323_009925	Remove the seal of Viesa Altar
+xETC_20150323_009926	Find the document about the method of demon transformation in the Sanctuary
+oETC_20150323_009927	Defend against the demons while the Demon Transformation Scroll is being completed
+oETC_20150323_009928	Obtain the 4th key of Maven from Gaule Altar
+xETC_20150323_009929	Remove demon goods
+xETC_20150323_009930	Inscrutable Machine Equipment	QUEST_LV_0200_20150323_004338
+xETC_20150323_009931	Won the fight with the Priest of Evidence
+oETC_20150323_009932	Find the sacred words
+oETC_20150323_009933	Listen to the story of Demon Monarch Houberg
+oETC_20150323_009934	Grasp the situation
+xETC_20150323_009935	Seal the small, growing crevice
+xETC_20150323_009936	Release Seal of Rwalda
+xETC_20150323_009937	Release Seal of Casa
+xETC_20150323_009938	Release Seal of Rada
+oETC_20150323_009939	Find Haubuck among the monsters
+oETC_20150323_009940	Seal Houberg
+oETC_20150323_009941	Find Goddess Vakarine
+xETC_20150323_009942	Subordinate demon monsters
+xETC_20150323_009943	Demonic rule
+xETC_20150323_009944	Token of Star Collection
+oETC_20150323_009945	Check status of the ground
+xETC_20150323_009946	Collect ingredients for medicine
+oETC_20150323_009947	Existence of singularity
+xETC_20150323_009948	Examine the smooth pile of soil
+xETC_20150323_009949	Unopenable box
+xETC_20150323_009950	Long-term countermeasures
+xETC_20150323_009951	Pick young dandelions
+oETC_20150323_009952	Eliminate the competitor
+oETC_20150323_009953	Diary of a Girl
+oETC_20150323_009954	Need an egg
+oETC_20150323_009955	Farm under Disaster
+oETC_20150323_009956	Cure the grape addiction
+xETC_20150323_009957	Give the antidote to the addicted farmer
+xETC_20150323_009958	Guide the farmer beside the Druid
+xETC_20150323_009959	Stop the beast with the beast's blood
+xETC_20150323_009960	Bring along the Green Winged Frog via Telepathy
+oETC_20150323_009961	Open the Magic Box(1)
+xETC_20150323_009962	Differences between crops and weeds
+xETC_20150323_009963	Changes that can't be reversed
+xETC_20150323_009964	That's different from what I heard(1)
+xETC_20150323_009965	Defeat the monster summoned by Gorde Shatton
+xETC_20150323_009966	No matter how you look at it, this is still purification.
+oETC_20150323_009967	Block the Underground Tunnel
+oETC_20150323_009968	Culprit of the Underground Maze
+xETC_20150323_009969	Escort Farm Soldier Upham to Chief Vuros
+xETC_20150323_009970	Move to Kvailas Forest through Gate Route and Sirdgela Forest.
 ETC_20150323_009971	Move to Gele Plauteau
-ETC_20150323_009972	Wide explosion phenomenon at Gitis Settlement Area(1)
-ETC_20150323_009973	Wide explosion phenomenon at Gitis Settlement Area(2)
-ETC_20150323_009974	Antidote(1)
-ETC_20150323_009975	Get Ridimet grass
-ETC_20150323_009976	Cure the people gone mad
-ETC_20150323_009977	The Farmland of Louise(1)
-ETC_20150323_009978	The Farmland of Louise(2)
-ETC_20150323_009979	Get wood
-ETC_20150323_009980	Dig through the grass and look for hidden food
-ETC_20150323_009981	Stun Scorpio to faint and extract poison
-ETC_20150323_009982	Get sweet herbs
-ETC_20150323_009983	Try not to spoil the rice cake
-ETC_20150323_009984	Eliminate the strange energy
-ETC_20150323_009985	Look around the area Arunas mentioned
-ETC_20150323_009986	Look through the nearby crops
-ETC_20150323_009987	Create the magic field using the woods that Arunas gave to you
-ETC_20150323_009988	Burn the baron's spell doll at the magic field
+oETC_20150323_009972	Wide explosion phenomenon at Gitis Settlement Area(1)	QUEST_LV_0200_20150323_004442
+oETC_20150323_009973	Wide explosion phenomenon at Gitis Settlement Area(2)	QUEST_LV_0200_20150323_004444
+oETC_20150323_009974	Antidote(1)	QUEST_LV_0100_20150317_003211
+xETC_20150323_009975	Get Ridimet Grass
+xETC_20150323_009976	Cure the hysterical people
+xETC_20150323_009977	Louise's Farmland(1)	QUEST_LV_0200_20150323_004461
+xETC_20150323_009978	Louise's Farmland(2)
+xETC_20150323_009979	Get lumber
+xETC_20150323_009980	Dig through the grass and scavenge for hidden food
+xETC_20150323_009981	Stun the Scorpio and extract its poison
+oETC_20150323_009982	Get sweet herbs
+oETC_20150323_009983	Try not to spoil the rice cake
+oETC_20150323_009984	Eliminate the strange energy
+oETC_20150323_009985	Look around the area Arunas mentioned
+oETC_20150323_009986	Look through the nearby crops
+xETC_20150323_009987	Create a magic circle using the lumber that Arunas gave you
+xETC_20150323_009988	Burn the baron's spell doll at the magic circle
 ETC_20150323_009989	Remove the Protection Stone with Strange Aura
-ETC_20150323_009990	Put the vicious energy of yellow Ellum into the first empty bottle
-ETC_20150323_009991	Put the vicious energy of Keposeed into the second empty bottle
-ETC_20150323_009992	Bury the bottle with the vicious energy to the right side of the magic field
-ETC_20150323_009993	Bury the bottle with the vicious energy to the left side of the magic field
-ETC_20150323_009994	Absorb the living monsters to the magic circle
-ETC_20150323_009995	Avoid the attacks of monsters and destroy the alcohol containers within the time limit
-ETC_20150323_009996	Get the head of wooden hammer
-ETC_20150323_009997	Get the handle of wooden hammer
-ETC_20150323_009998	Open the alcohol container
-ETC_20150323_009999	Test the incomplete magic circle on the monsters
-ETC_20150323_010000	Throw Dandell into the burning magic field
-ETC_20150323_010001	Put the statue of the goddess onto the magic field
+xETC_20150323_009990	Put the Yellow Ellom's evil energy into the first empty bottle
+xETC_20150323_009991	Put the Keposeed's evil energy into the second empty bottle
+xETC_20150323_009992	Bury the bottle containing evil energy to the right side of the magic circle
+xETC_20150323_009993	Bury the bottle containing evil energy to the left side of the magic circle
+xETC_20150323_009994	Lure the living monsters to the magic circle
+xETC_20150323_009995	Avoid monster attacks and destroy the alcohol containers within the time limit
+xETC_20150323_009996	Get the wooden hammer head
+xETC_20150323_009997	Get the wooden hammer handle
+xETC_20150323_009998	Open alcohol container
+oETC_20150323_009999	Test the incomplete magic circle on the monsters
+xETC_20150323_010000	Throw Dandell into the burning magic circle
+ETC_20150323_010001	Put the statue of the goddess onto the magic circle
 ETC_20150323_010002	Obtain round wood sticks from nearby fences
 ETC_20150323_010003	Fill in the poison pots
 ETC_20150323_010004	Obtain the farming tool - Plow
@@ -10006,7 +10007,7 @@ ETC_20150323_010006	Obtain the farming tool - Spade
 ETC_20150323_010007	Obtain the farming tool - Picktax
 ETC_20150323_010008	Obtain the farming tool - Pitchfork
 ETC_20150323_010009	Extract the dandelions
-ETC_20150323_010010	Throw the stones to destroy the magic field
+xETC_20150323_010010	Throw the stones to destroy the magic circle
 ETC_20150323_010011	Get signature of farmers on the compact
 ETC_20150323_010012	Storage use fee
 ETC_20150323_010013	Not linked node's height position control value when ride on the companion 
@@ -10244,7 +10245,7 @@ ETC_20150323_010244	How can I trust you?
 ETC_20150323_010245	Now what are you going to do?
 ETC_20150323_010246	Here..{nl}Come closer..
 ETC_20150323_010247	You've been deceived lke me...{nl}Revelator...
-ETC_20150323_010248	You've eliminated the small space of the crossover.
+ETC_20150323_010248	You've eliminated the small, growing crevice.
 ETC_20150323_010249	Released the Rwalda seal.
 ETC_20150323_010250	Release the Casa Seal.
 ETC_20150323_010251	Release the Rada Seal.
@@ -10356,7 +10357,7 @@ ETC_20150323_010356	Demons Prison District 3
 ETC_20150323_010357	Demons Prison District 5
 ETC_20150323_010358	Demons Prison District 2
 ETC_20150323_010359	Demons Prison District 4
-ETC_20150323_010360	Small space of the crossover
+ETC_20150323_010360	Small, growing crevice
 ETC_20150323_010361	Leader Horaceus★
 ETC_20150323_010362	Food Drier★
 ETC_20150323_010363	Food Storage
@@ -12339,7 +12340,7 @@ ETC_20150714_012339	You can make the rubber copy after defeating all monsters
 ETC_20150714_012340	Poisonous effect is present!
 ETC_20150714_012341	It seems that the poison if ineffective!
 ETC_20150714_012342	Pulling out hair
-ETC_20150714_012343	Fainted Wendigo Archer
+xETC_20150714_012343	Stunned Wendigo Archer
 ETC_20150714_012344	Shaking off the dust
 ETC_20150714_012345	Looking for adequate stones
 ETC_20150714_012346	You've found adequate stones!
@@ -12373,7 +12374,7 @@ ETC_20150714_012373	You've found the gold plate!
 ETC_20150714_012374	You've obtained the sticky fluid!
 ETC_20150714_012375	You haven't obtained anything!
 ETC_20150714_012376	Hallowventer Curse Speller under the gold plate
-ETC_20150714_012377	You've shot Wendigo with the paralyzing needle!{nl}Pull out the hairs of fainted Wendigo Archer in 10 secs!
+xETC_20150714_012377	You've shot the Wendigo with the paralyzing needle!{nl}Pull out the hairs of the stunned Wendigo Archer in 10 secs!
 ETC_20150714_012378	You've shaken off the dust well! Now make the rubber copy
 ETC_20150714_012379	Go
 ETC_20150714_012380	Don't want to go now. Maybe later.
