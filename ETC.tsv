@@ -1670,7 +1670,7 @@ ETC_20150317_001669	Must be at least {LEN} characters.
 ETC_20150317_001670	Must be less than {LEN} characters.
 ETC_20150317_001671	Contains one or more characters that are not allowed.
 ETC_20150317_001672	You cannot ride during Rest Mode.
-ETC_20150317_001673	You cannot ride on a stunned companion.
+ETC_20150317_001673	You cannot ride on a fainted companion.
 ETC_20150317_001674	The customer is not a CBT user.
 ETC_20150317_001675	It has been banned by the administrator.
 ETC_20150317_001676	{Name} ({Mapname} / channel {ChNo})
@@ -2217,9 +2217,9 @@ ETC_20150317_002216	Obatined a stamina to succeed dismatling the core of crystal
 ETC_20150317_002217	As the side effect of the core of crystal, The old hook appeared!
 ETC_20150317_002218	Amulet pieces are combined to form one amulet!
 ETC_20150317_002219	Succeed to dismantle Transformed tree root crystal 
-xETC_20150317_002220	Touched the wrong tree root crystal and was stunned!
-ETC_20150317_002221	Touched the wrong tree root crystal and fell asleep!
-ETC_20150317_002222	Touched the wrong tree root crystal and the speed slowed down.
+xETC_20150317_002220	Fainted from touching the wrong tree root crystal!
+xETC_20150317_002221	Fell asleep from touching the wrong tree root crystal!
+xETC_20150317_002222	Slowed from touching the wrong tree root crystal!
 ETC_20150317_002223	I will freeze to the touch the wrong roots to fix it!
 ETC_20150317_002224	I will make you regret!The bad guys!
 ETC_20150317_002225	Betrayer..I would not forgive you!I will get back at you for this even my bone break.
@@ -2279,7 +2279,7 @@ ETC_20150317_002278	You collected all the dewdrops in the leather pouch!
 ETC_20150317_002279	Digging the roots
 ETC_20150317_002280	Red Treeambulo
 ETC_20150317_002281	Red Treeambulo appeared from root of reeds.
-xETC_20150317_002282	You've been stunned by the root's poison!
+xETC_20150317_002282	You were fainted by the root's poison!
 ETC_20150317_002283	Obatined the monster's dead skin cell
 ETC_20150317_002284	Installing jar
 ETC_20150317_002285	Collecting sap
@@ -2558,7 +2558,7 @@ ETC_20150317_002557	Labor was not detected
 ETC_20150317_002558	Labor has been detected
 ETC_20150317_002559	Use Magic Scroll
 ETC_20150317_002560	There is no reaction
-xETC_20150317_002561	Monster stunned
+xETC_20150317_002561	Monster fainted
 ETC_20150317_002562	Monster exploded
 ETC_20150317_002563	Mise to prove that you are the person clearly
 ETC_20150317_002564	Door is opened. Please won the revelation
@@ -3017,12 +3017,12 @@ ETC_20150317_003016	Ride on
 ETC_20150317_003017	Using
 ETC_20150317_003018	First reaction: Movement speed decrease
 ETC_20150317_003019	Second reaction: Addiction
-xETC_20150317_003020	Third reaction: Stun
+xETC_20150317_003020	Third reaction: Faint
 ETC_20150317_003021	No special reaction
 ETC_20150317_003022	Installing
 ETC_20150317_003023	No effects
 ETC_20150317_003024	Available only in opened, closed Crystal Mine
-ETC_20150317_003025	:Stunned! Defeat.
+xETC_20150317_003025	:Fainted! Defeat.
 ETC_20150317_003026	Lantern_mushroom: Jibiew Griba: 50 / Lantern_mushroom: Jibiew Griba: 50 / Lantern_mushroom: Jibiew Griba: 50 / Lantern_mushroom_Big: Big Draw Bar: 51
 ETC_20150317_003027	Get rid of the Matsums charging in!
 ETC_20150317_003028	Completed deploying the Solar Essence!
@@ -5690,7 +5690,7 @@ ETC_20150317_005689	Scented Stone Powder has been applied! Luring a powerful mon
 ETC_20150317_005690	Promotional Material Attached
 ETC_20150317_005691	The kingdom's army's promotional material is attached on it!
 ETC_20150317_005692	Body Odor Obtained
-ETC_20150317_005693	Nefenders is stunned!
+ETC_20150317_005693	Nefenders has fainted!
 ETC_20150317_005694	Wide Area Shooting
 ETC_20150317_005695	Desperate Sprint
 ETC_20150317_005696	Running away for life
@@ -9773,8 +9773,8 @@ ETC_20150323_009772	Incapacitated
 ETC_20150323_009773	Incapacitated by General Rune.
 ETC_20150323_009774	Possession
 ETC_20150323_009775	Houberg is possessed by this monster.
-xETC_20150323_009776	Stunned Scorpio
-xETC_20150323_009777	Scorpio has been stunned!
+xETC_20150323_009776	Fainted Scorpio
+xETC_20150323_009777	Scorpio has fainted!
 ETC_20150323_009778	Recharge Poison
 ETC_20150323_009779	This monster's poison is being absorbed by the pot!
 ETC_20150323_009780	Absorbed!
@@ -10137,10 +10137,10 @@ ETC_20150323_010136	Destroying the Magic Circle
 ETC_20150323_010137	Cannot be used in the outskirts of Fedimian!
 ETC_20150323_010138	Time available to use is over
 ETC_20150323_010139	Get the patterned stones gain entrance. 
-ETC_20150323_010140	Approach the stunned Scorpio and extract poison!
+ETC_20150323_010140	Approach the fainted Scorpio and extract poison!
 ETC_20150323_010141	Extracting poison
 ETC_20150323_010142	Extracted the poison!
-ETC_20150323_010143	Cannot extract poison from an unstunned Scorpio!
+ETC_20150323_010143	Cannot extract poison from an unfainted Scorpio!
 ETC_20150323_010144	Nipping off Sweet Herbs
 ETC_20150323_010145	Obtained Sweet Herbs!
 ETC_20150323_010146	Poked by the thorns of Sweet Herbs!
@@ -12374,7 +12374,7 @@ ETC_20150714_012373	You've found the gold plate!
 ETC_20150714_012374	You've obtained the sticky fluid!
 ETC_20150714_012375	You haven't obtained anything!
 ETC_20150714_012376	Hallowventer Curse Speller under the gold plate
-xETC_20150714_012377	You've shot the Wendigo with the paralyzing needle!{nl}Pull out the hairs of the stunned Wendigo Archer in 10 secs!
+xETC_20150714_012377	You've shot the Wendigo with the fainting needle!{nl}Pull out the hairs of the fainted Wendigo Archer in 10 secs!
 ETC_20150714_012378	You've shaken off the dust well! Now make the rubber copy
 ETC_20150714_012379	Go
 ETC_20150714_012380	Don't want to go now. Maybe later.
