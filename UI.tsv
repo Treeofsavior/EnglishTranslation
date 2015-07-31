@@ -84,45 +84,45 @@ UI_20150317_000083	{@st41b}Attack {@sti7}%s{/}
 UI_20150317_000084	{@st41b}Support {@sti7}%s{/}
 UI_20150317_000085	{@st41b}Difficulty{@sti7}%s{/}
 UI_20150317_000086	{@st59}Close the Class Information window{/}
-UI_20150317_000087	Alarm of Advancement
+UI_20150317_000087	Advancement Alarm
 UI_20150317_000088	{@st43} Advancement
 UI_20150317_000089	{@sti7}{s14} Character {/}
 UI_20150317_000090	{@sti8}{s14} Class {/}
 UI_20150317_000091	{@st44}Chat{/}
 UI_20150317_000092	To. WWWWWWWW and 1 other
-UI_20150317_000093	General: / s {nl} Call details: / y contents {nl} Party: / p {nl} whisper contents: / w Carrick name Contents
-UI_20150317_000094	{@st41}Normal Chat{/}
+UI_20150317_000093	General: /s <text> {nl} Shout: /y <text> {nl} Party: /p <text>{nl} Whisper: /w character's username <text>
+UI_20150317_000094	{@st41}All Chat{/}
 UI_20150317_000095	{@59}Quit{/}
 UI_20150317_000096	{@59}Invite{/}
-UI_20150317_000097	{@st59}ALL{/}
+UI_20150317_000097	{@st59}All{/}
 UI_20150317_000098	{@st59}Normal (/s chat){/}
 UI_20150317_000099	{@st59}Shout (/y chat){/}
 UI_20150317_000100	{@st59}Party (/p chat){/}
-UI_20150317_000101	{@st59} whisper (/ w team name, say) {/}
+UI_20150317_000101	{@st59}Whisper (/w team name chat){/}
 UI_20150317_000102	{@st59}Adjust Chat Window{/}
 UI_20150317_000103	{@st43}{s22}Chat Macro{/}
 UI_20150317_000104	{@st43}Macro{/}
 UI_20150317_000105	{@st59b} Macro {nl} {@st59s} - How to use: {nl} 1. Register the gesture icon to the gesture slots at the bottom {nl} 2. Write your phrase and save {nl} 3. Use the short cut key to use the phrase and make gesture at the same time {/}
 UI_20150317_000106	{@st59}Close Macro{/}
-UI_20150317_000107	{@st41b} Save {/}
-UI_20150317_000108	{@st59}Save registered contents{/}
-UI_20150317_000109	{@st41b} Cancel {/}
-UI_20150317_000110	{@st59}Cancel registered contents{/}
+UI_20150317_000107	{@st41b}Save {/}
+UI_20150317_000108	{@st59}Save your changes{/}
+UI_20150317_000109	{@st41b}Cancel {/}
+UI_20150317_000110	{@st59}Cancel your changes{/}
 UI_20150317_000111	{@st42}Chat Settings
 UI_20150317_000112	{@st42}Transparency
 UI_20150317_000113	Show chat balloon
-UI_20150317_000114	Shout at the top of the screen displays information
+UI_20150317_000114	Show shouts at the top of your screen
 UI_20150317_000115	{@st43}Cheat List{/}
 UI_20150317_000116	{@st42b}Item{/}
 UI_20150317_000117	 {@st42b}Monster{/}
 UI_20150317_000118	{@st42b}Move map{/}
 UI_20150317_000119	{@st42b}Combat Order{/}
 UI_20150317_000120	{@st41b}Close{/}
-UI_20150317_000121	{s16}{b}Double click or click the Create button to create items.
+UI_20150317_000121	{s16}{b}Create items by clicking on the Create button or double-click.
 UI_20150317_000122	{s16}{b}ea
 UI_20150317_000123	{s16}{b}Lv.
 UI_20150317_000124	{@st41b}Search{/}
-UI_20150317_000125	{s16}{b}Double click or click the Create button to summon monsters.
+UI_20150317_000125	{s16}{b}Summon monsters by clicking on the Create button or double-click.
 UI_20150317_000126	{s16}{b}ea
 UI_20150317_000127	{s16}{b}Choose desired area.
 UI_20150317_000128	{s18}{b}View Minimap{/}
@@ -140,30 +140,30 @@ UI_20150317_000139	{@st49}{a SAVE_EDIT_SPRAY}Save{/}{/}
 UI_20150317_000140	{@st49}{a LOAD_EDIT_SPRAY}Import{/}{/}
 UI_20150317_000141	{@st49}Close{/}
 UI_20150317_000142	{@st43} Companion Adoption
-UI_20150317_000143	{@st59} Enter the name of the pre-sale to receive a companion {/}
+UI_20150317_000143	{@st59} Enter the name of your newly adopted companion {/}
 UI_20150317_000144	{@st41b}Name{/}
 UI_20150317_000145	{@st41b}Price %s{/}
-UI_20150317_000146	{@st59} close companion Moth pre-sale window {/}
+UI_20150317_000146	{@st59}Close the Companion Adoption window {/}
 UI_20150317_000147	{@st41b}Adopt
 UI_20150317_000148	{@st59}Confirm adoption {/}
 UI_20150317_000149	{@st43}Companion Shop
-UI_20150317_000150	{@st59}Close Companion Shop{/}
+UI_20150317_000150	{@st59}Close the Companion Shop{/}
 UI_20150317_000151	{@st43}Other Character Info{/}{@st42}
-UI_20150317_000152	{@st59}Close Character Information{/}
+UI_20150317_000152	{@st59}Close the Character Information{/}
 UI_20150317_000153	{@st41b}Information
 UI_20150317_000154	{@st41b}Record
 UI_20150317_000155	Team Name
 UI_20150317_000156	Character Name
 UI_20150317_000157	{#Ffff00}%s{/}Rank %s {#ffff00}%s{/}Level
-UI_20150317_000158	Fighter
+UI_20150317_000158	Warrior
 UI_20150317_000159	Adventure {#ffff00}%s{/} (Rank{#ffff00}%s{/}/%s)
 UI_20150317_000160	Adventure {#ffff00}%s{/} ({#ffff00}Unranked{/})
 UI_20150317_000161	Achievements {#ffff00}%s{/}ea
 UI_20150317_000162	Settings
 UI_20150317_000163	Clear the tab title to delete the tab.
-UI_20150317_000164	{@st49}ALL{/}
+UI_20150317_000164	{@st49}All{/}
 UI_20150317_000165	{@st49}System{/}
-UI_20150317_000166	{@st49}Dialogue{/}
+UI_20150317_000166	{@st49}Talk{/}
 UI_20150317_000167	{@st49}Combat{/}
 UI_20150317_000168	{@st49}Item{/}
 UI_20150317_000169	{@st43}Credits{/}
@@ -171,25 +171,25 @@ UI_20150317_000170	{@st43}Target fixed {/}
 UI_20150317_000171	NPC Name
 UI_20150317_000172	Compare
 UI_20150317_000173	Illustration
-UI_20150317_000174	Selection Dialogue
+UI_20150317_000174	Select Talk
 UI_20150317_000175	Text Help
-UI_20150317_000176	{@st41}Create Items{/}
-UI_20150317_000177	{@st45tw2}Creating item...
+UI_20150317_000176	{@st41}Item Crafting{/}
+UI_20150317_000177	{@st45tw2}Crafting item...
 UI_20150317_000178	%r seconds
 UI_20150317_000179	{@st41}Cancel{/}
 UI_20150317_000180	{@st45tw2}Quantity{/}
-UI_20150317_000181	{@st45tw2}Do you want to create the item?
+UI_20150317_000181	{@st45tw2}Do you want to craft this item?
 UI_20150317_000182	{@st41}Decide{/}
 UI_20150317_000183	Quest Information
-UI_20150317_000184	{@st59}Cancel transaction{/}
+UI_20150317_000184	{@st59}Cancel Trade{/}
 UI_20150317_000185	{@st43}Personal Trade{/}
-UI_20150317_000186	My list of transactions
+UI_20150317_000186	My Trading List
 UI_20150317_000187	Silver : %s
 UI_20150317_000188	Enter
 UI_20150317_000189	{@st41}Accept
 UI_20150317_000190	{@st41}Confirm
-UI_20150317_000191	Other party's(%s) Transaction List
-UI_20150317_000192	Other player's name
+UI_20150317_000191	Other character's(%s) Trading List
+UI_20150317_000192	Other character's Name
 UI_20150317_000193	{s18}{ol} {gr gradation1}Field Event{/}
 UI_20150317_000194	{s20}{ol}Defeat the Vubbe Tribe! Would you like to join?
 UI_20150317_000195	{s20}{ol}%s Would you like to join?
@@ -197,36 +197,36 @@ UI_20150317_000196	{s20}{ol}Participants: (1/5)
 UI_20150317_000197	{s20}{ol}Participants : (%s/%s)
 UI_20150317_000198	{s20}{ol}The game will start after 1 second.
 UI_20150317_000199	{s20}{ol}The game starts after %s seconds.
-UI_20150317_000200	Do not show for the day.
+UI_20150317_000200	Do not show this today anymore.
 UI_20150317_000201	Do not show Field Events.
 UI_20150317_000202	Join Game
-UI_20150317_000203	Start game with other players.
+UI_20150317_000203	Start a game with other players.
 UI_20150317_000204	Do not join the game.
 UI_20150317_000205	Spray Presets
 UI_20150317_000206	{@st49}Select{/}
 UI_20150317_000207	{@st49}Cancel{/}
 UI_20150317_000208	{@st49}Delete{/}
-UI_20150317_000209	Enter the name of file to save.
-UI_20150317_000210	{@st43}Friend
-UI_20150317_000211	{@st59}Close Friend List{/}
-UI_20150317_000212	{@st59b} Friend {nl} {@st59s} - Make friends with other players {nl} - Check the status of your friends in List tab {nl} - Check invite, reject, block in Manage tab {/}
-UI_20150317_000213	{@st41b}Show online friends only{/}
+UI_20150317_000209	Enter the name of the file to save.
+UI_20150317_000210	{@st43}Buddy
+UI_20150317_000211	{@st59}Close Buddy List{/}
+UI_20150317_000212	{@st59b}Buddy{nl} {@st59s} - Become buddies with other players in the game. {nl} - Go to the Buddy List tab to check the status on your buddies. {nl} - In the Manage tab, you can invite, decline, block and perform other actions related to your buddies. {/}
+UI_20150317_000213	{@st41b}Show online buddies{/}
 UI_20150317_000214	{@st41b}List
 UI_20150317_000215	{@st41b}Manage
-UI_20150317_000216	{@st41b}Send Friend Request
+UI_20150317_000216	{@st41b}Send Buddy Request
 UI_20150317_000217	{@st41b}Block
 UI_20150317_000218	{@st59}Search{/}
 UI_20150317_000219	{@st44}Guild{/}
 UI_20150317_000220	Guild
 UI_20150317_000221	List
-UI_20150317_000222	News
+UI_20150317_000222	New Announcement
 UI_20150317_000223	Guild Mission
 UI_20150317_000224	Members Online
 UI_20150317_000225	{@st44}Create Guild{/}
 UI_20150317_000226	{@st42}Create{/}
 UI_20150317_000227	{@st42}Close{/}
-UI_20150317_000228	{@st42}ALL{/}
-UI_20150317_000229	{@st42}Today Rankings{/}
+UI_20150317_000228	{@st42}All{/}
+UI_20150317_000229	{@st42}Today's Rankings{/}
 UI_20150317_000230	{@st42}Weekly Rankings{/}
 UI_20150317_000231	{@st56} rank {/}
 UI_20150317_000232	{@st56}Points{/}
@@ -240,20 +240,20 @@ UI_20150317_000239	Close the Hall of Fame
 UI_20150317_000240	Enter the ID to search
 UI_20150317_000241	{@st59} Stamina {/}
 UI_20150317_000242	{@st43}Help List{/}
-UI_20150317_000243	{@st59}Close Help List window{/}
+UI_20150317_000243	{@st59}Close the Help List window{/}
 UI_20150317_000244	{@st59b} Help List {nl} {@st59s}- Read help topics again {nl}  - Select topic to view details {/}
 UI_20150317_000245	{@st43}{s22}Help{/}
 UI_20150317_000246	{@st47_b}{b}Help Topics{/}
 UI_20150317_000247	{@st42b}Simple Help Contents{/}
 UI_20150317_000248	{@st59}View details{/}
-UI_20150317_000249	Please enter quantity
+UI_20150317_000249	Please enter the quantity
 UI_20150317_000250	{@st59}Enter the contents{/}
 UI_20150317_000251	{@st41b}OK
 UI_20150317_000252	{@st59}Confirm {/}
 UI_20150317_000253	{@st41b}Close
 UI_20150317_000254	{@st59}Cancel {/}
 UI_20150317_000255	{@st43}Warp{/}
-UI_20150317_000256	{@st59}Close Warp Window{/}
+UI_20150317_000256	{@st59}Close the Warp Window{/}
 UI_20150317_000257	Warp {@st59b} {nl} {@st59s} - systems that can warp their visit to the region {nl} - When there are more than 2 Warp Warp function is activated {nl} {/}
 UI_20150317_000258	{@st41}Current location : %s{/}
 UI_20150317_000259	{@st43}{s22}Warp{/}
@@ -279,9 +279,9 @@ UI_20150317_000278	{@st59}Bracelet 2 {/}
 UI_20150317_000279	{@st59}Armband{/}
 UI_20150317_000280	{@st59}Search with name entered {/}
 UI_20150317_000281	Weight
-UI_20150317_000282	
+UI_20150317_000282	{@st43}Equipment Buff{/}
 UI_20150317_000283	{@st59}Close the Item Repair UI{/}
-UI_20150317_000284	{@st42}Availble for Buff
+UI_20150317_000284	{@st42}Available Equipment Buff List
 UI_20150317_000285	{@st42}Consume{/}
 UI_20150317_000286	{@st42}Run
 UI_20150317_000287	{@st42}Target Item{/}
@@ -294,7 +294,7 @@ UI_20150317_000293	{@st59}Enter quantity{/}
 UI_20150317_000294	Monster HP Bar
 UI_20150317_000295	{@st44}Item set acquired{/}
 UI_20150317_000296	Keyboard Warrior
-UI_20150317_000297	Kiel
+UI_20150317_000297	Kill
 UI_20150317_000298	99 minutes 99 seconds
 UI_20150317_000299	38000 points
 UI_20150317_000300	Enhanced Speed Potion
@@ -315,7 +315,7 @@ UI_20150317_000314	{@st43}{s22}Name
 UI_20150317_000315	{@st43}{s22}Score
 UI_20150317_000316	{@st41}Details{/}
 UI_20150317_000317	{@st43}Start Crafting{/}
-UI_20150317_000318	{@st59}Start manufacturing item.{/}
+UI_20150317_000318	{@st59}Start item crafting.{/}
 UI_20150317_000319	{@st44}Keypad{/}
 UI_20150317_000320	{@st42}Time limit
 UI_20150317_000321	{@st56}Kill{/}
@@ -354,16 +354,16 @@ UI_20150317_000353	{ol}Sound
 UI_20150317_000354	{@st41}Create Minimap{/}
 UI_20150317_000355	{@st55}Area Map
 UI_20150317_000356	{@st43}{s22}Market{/}
-UI_20150317_000357	Market {@st43} {s24} {/}
+UI_20150317_000357	{@st43}{s24}Market{/}
 UI_20150317_000358	{@st42b}Group{/}
 UI_20150317_000359	{@st42b}Type{/}
-UI_20150317_000360	{@st42b}Equip Level{/}
+UI_20150317_000360	{@st42b}Req. Level{/}
 UI_20150317_000361	{@st42b}Enhanced level{/}
 UI_20150317_000362	{@st42b}Name
 UI_20150317_000363	{@st41b}Item Cabinet%s
-UI_20150317_000364	{@st41b}Sell
+UI_20150317_000364	{@st41b}Selling List
 UI_20150317_000365	{@st41b}Search
-UI_20150317_000366	{@st59}Close Market window{/}
+UI_20150317_000366	{@st59}Close the Market window{/}
 UI_20150317_000367	{@st42b} Show order
 UI_20150317_000368	{@st41b}Items for Sale
 UI_20150317_000369	{@st43}{s22}Item Cabinet
@@ -420,8 +420,8 @@ UI_20150317_000419	Number of fragments
 UI_20150317_000420	Parts 1
 UI_20150317_000421	Parts 2
 UI_20150317_000422	Parts 3
-UI_20150317_000423	Congratulations! Your level increased.
-UI_20150317_000424	Items Alert
+UI_20150317_000423	Congratulations! Your level has increased.
+UI_20150317_000424	Items Alarm
 UI_20150317_000425	{@st64}Details{/}
 UI_20150317_000426	How to Play
 UI_20150317_000427	{@st42b}      Move character up, down, left, right{/}
@@ -480,8 +480,8 @@ UI_20150317_000479	{@st41b}Name : {@sti9}%s{/}
 UI_20150317_000480	Friendship{@sti9}%s{@st41b} : {@sti9}%s {@st41b}Level{/}
 UI_20150317_000481	EXP {@st41b} {/}
 UI_20150317_000482	{@st41b} stamina {/}
-UI_20150317_000483	Intimacy {@st41b} {/}
-UI_20150317_000484	{@st41b}Attritbutes and Information
+UI_20150317_000483	Closeness {@st41b} {/}
+UI_20150317_000484	{@st41b}Attributes and Information
 UI_20150317_000485	{@st43}Companion{/}
 UI_20150317_000486	{@st59b} companion {nl} {@st59s} - clicking an item in the list to view details {/}
 UI_20150317_000487	{@st59}Close Companion{/}
@@ -518,7 +518,7 @@ UI_20150317_000517	{@st41}Combination
 UI_20150317_000518	{@st43}Quest{/}
 UI_20150317_000519	Quest {@st59b} {nl}{@st59s}- Register to quest notice when there is a new quest {nl} - Yellow for main quest, Blue for sub-quest {nl} - The arrow on the character's foot leads to quest location {nl} - 'Return' icon is displayed when the quest is complete {nl}    (teleport to quest NPC using backspace or mouse click) {nl} - Check the box in front of the quest name to add/remove from the quest notice {/}
 UI_20150317_000520	{@st41b}In Progress{/}
-UI_20150317_000521	{@st41b}Abandon{/}
+UI_20150317_000521	{@st41b}Forfeit{/}
 UI_20150317_000522	{@st43}{s22}Quest Information{/}
 UI_20150317_000523	Mission Complete
 UI_20150317_000524	{@st41}Complete{/}
@@ -537,18 +537,18 @@ UI_20150317_000536	Which quest would you like to go back to?
 UI_20150317_000537	{@st41b}Quest class name{/}
 UI_20150317_000538	{@st59}Expand slot {/}
 UI_20150317_000539	{@st59}Reduce slot{/}
-UI_20150317_000540	
+UI_20150317_000540	{@st59}Summon Companion.{/}
 UI_20150317_000541	{@st44}Menu{/}
 UI_20150317_000542	{@st60}Select Character{/}
-UI_20150317_000543	{@st60}Log Out{/}
+UI_20150317_000543	{@st60}Logout{/}
 UI_20150317_000544	{@st60}Exit Game{/}
 UI_20150317_000545	{@st60}Game Settings{/}
-UI_20150317_000546	{@st60}Return{/}
+UI_20150317_000546	{@st60}Go Back{/}
 UI_20150317_000547	{@st41}Skip Tutorial{/}
 UI_20150317_000548	{@st41}Select Character{/}
-UI_20150317_000549	{@st41}Log Out{/}
+UI_20150317_000549	{@st41}Logout{/}
 UI_20150317_000550	{@st41}Exit game{/}
-UI_20150317_000551	{@st41}Return{/}
+UI_20150317_000551	{@st41}Go Back{/}
 UI_20150317_000552	{@st43}{s22}Gather Raid!
 UI_20150317_000553	{@st41b}Monsters are approaching the outskirts of the town castle. Only you can solve this problem.
 UI_20150317_000554	{@st43}{s22}Game Settings{/}
@@ -573,7 +573,7 @@ UI_20150317_000572	{@st41b}Item to enhance
 UI_20150317_000573	{@st41b}Anvil
 UI_20150317_000574	{@st41}{s20}Anvil Hit Count :{@st43} %s
 UI_20150317_000575	{@st41} {s20}Price : %s
-UI_20150317_000576	{@st41b}Enhance{/}
+UI_20150317_000576	{@st41b}Enhancement{/}
 UI_20150317_000577	{@st59}Start item enhancement.{/}
 UI_20150317_000578	{@st59}Close item enhancement{/}
 UI_20150317_000579	Are you sure you want to enhance with the selected {@st41b} {@sti9}%s ea {/} items?{/}
@@ -583,8 +583,8 @@ UI_20150317_000582	{S24}{b}{#000000}Enhancement complete!
 UI_20150317_000583	{@st41}Enhance again{/}
 UI_20150317_000584	{@st41}Close{/}
 UI_20150317_000585	{s18}{ol}{gr gradation1}Repair Equipment{/}
-UI_20150317_000586	Equipment worn
-UI_20150317_000587	Equipment in possession
+UI_20150317_000586	Equipped Equipment
+UI_20150317_000587	Carried Equipment
 UI_20150317_000588	{Gr gradation1}Select All{/}
 UI_20150317_000589	Select All
 UI_20150317_000590	{Gr gradation1}Repair{/}
@@ -705,17 +705,17 @@ UI_20150317_000704	{s20}{#050505}Describe whatever
 UI_20150317_000705	{@st41} All {/}
 UI_20150317_000706	{@st41} Party {/}
 UI_20150317_000707	{@st41} Monster {/}
-UI_20150317_000708	{@st41b}{#f0dcaa}Remaining Status Points ▶ {@st46}%s
-UI_20150317_000709	{@st59b}My Information{nl}{@st59s}- Status : Earn points by level up and use it to enhance 5 abilities. {nl}- Information : Character info based on current status and equipment {nl}- Title : Can be earned by accomplishing Achievements {nl} {/}
+UI_20150317_000708	{@st41b}{#f0dcaa}Remaining Ability Points ▶ {@st46}%s
+UI_20150317_000709	{@st59b}My Information{nl}{@st59s}- Ability : By leveling up, you can earn points that you can use to enhance the 5 available abilities to become more powerful.. {nl}- Information : Character info based on current status and equipment {nl}- Title : Can be earned by accomplishing Achievements {nl} {/}
 UI_20150317_000710	{@st41b}Info{/}
 UI_20150317_000711	{@st41b}Title{/}
 UI_20150317_000712	Show Class
 UI_20150317_000713	Show Character Name
 UI_20150317_000714	{@st59}Change character name{/}
 UI_20150317_000715	{@st41b}Apply
-UI_20150317_000716	{@st59}Apply status distribution{/}
+UI_20150317_000716	{@st59}Apply Ability allocation{/}
 UI_20150317_000717	{@st41b}Cancel
-UI_20150317_000718	{@st59}Cancel status distribution{/}
+UI_20150317_000718	{@st59}Cancel Ability allocation{/}
 UI_20150317_000719	PC Name
 UI_20150317_000720	{@st41_yellow}Level: {@st41}%s{/}
 UI_20150317_000721	{@st41_yellow}Mercenary skills
@@ -725,7 +725,7 @@ UI_20150317_000724	{@st43}Stat{/}
 UI_20150317_000725	systemmenu_vertical tentative removal
 UI_20150317_000726	{@st59}Character Information (F1){/}
 UI_20150317_000727	{@st59}Inventory (F2){/}
-UI_20150317_000728	{@st59}Class and Skills (F3){/}
+UI_20150317_000728	{@st59}Class and Skill (F3){/}
 UI_20150317_000729	{@st59}Adventure Journal (F4){/}
 UI_20150317_000730	{@st59}Quest (F5){/}
 UI_20150317_000731	{@st59}Party (F6){/}
@@ -744,10 +744,10 @@ UI_20150317_000743	{@st41b}Show EXP acquired{/}
 UI_20150317_000744	{@st41b}Show Character Name{/}
 UI_20150317_000745	{@st41b} Show Team Name only {/}
 UI_20150317_000746	{@st41b}Show Quest Guide{/}
-UI_20150317_000747	{@st43}Screen{/}
+UI_20150317_000747	{@st43}Resolution{/}
 UI_20150317_000748	{@st43}Graphics{/}
 UI_20150317_000749	{@st41b}Full screen{/}
-UI_20150317_000750	{@st41b}Window mode{/}
+UI_20150317_000750	{@st41b}Windowed mode{/}
 UI_20150317_000751	{@st43}Sound{/}
 UI_20150317_000752	{@st41b}Sound Effects Volume (%s){/}
 UI_20150317_000753	{@st41b}BGM Volume (%s){/}
@@ -984,12 +984,12 @@ UI_20150317_000983	{@st59}Hair8{/}
 UI_20150317_000984	{@st59}Hair9{/}
 UI_20150317_000985	{@st59}Hair10{/}
 UI_20150317_000986	{@St43b}Class Select{/}
-UI_20150317_000987	{@st59}Sword Man{/}
+UI_20150317_000987	{@st59}Swordsman{/}
 UI_20150317_000988	{@st59}Wizard{/}
 UI_20150317_000989	{@st59}Archer{/}
 UI_20150317_000990	{@st59}Cleric{/}
-UI_20150317_000991	{@St41b}Barrack Visit{/}
-UI_20150317_000992	{@St59}Visit the Barrack of other player.{/}
+UI_20150317_000991	{@St41b}Visit Barrack {/}
+UI_20150317_000992	{@St59}Visit the Barrack of another player.{/}
 UI_20150317_000993	{@St41b}Logout{/}
 UI_20150317_000994	{@St59}Move to login screen{/}
 UI_20150317_000995	{@St41b}Exit Game{/}
