@@ -14,7 +14,7 @@ Thank you and please continue to send us your support and interest for Tree of S
 
 
 
-1. We've added SKILL and UI files. Be sure to [**CHECK THE ISSUE FOR GUIDELINES**](https://github.com/Treeofsavior/EnglishTranslation/issues/596) before you edit them. 
+1. We've added SKILL and UI files. Be sure to [**CHECK THE ISSUE FOR GUIDELINES**](https://github.com/Treeofsavior/EnglishTranslation/issues/596) before you edit them. **(NEW)**
 
 2. Translation files have been **UPDATED**. There may be some lines with unusual spacings to fit the actual game UI's. We had to make inevitable changes to the line codes for lines dated after 20150511. **(NEW)**
 
