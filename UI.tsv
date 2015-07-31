@@ -1009,8 +1009,8 @@ UI_20150317_001008	{@St44}New Window Name{/}
 UI_20150317_001009	{@St43}{s40}{gr gradation4}Character Creation{/}
 UI_20150317_001010	{@St59}Create a character{/}
 UI_20150317_001011	{@St59}Cancel creating new character{/}
-UI_20150317_001012	{@St59}Close the menu of input team name{/}
-UI_20150317_001013	{@St59}Create a team with the name entered{/}
+UI_20150317_001012	{@St59}Close the team name input menu{/}
+UI_20150317_001013	{@St59}Create a team with the entered name{/}
 UI_20150317_001014	{@St43}{s30}{#f0dcaa}Enter your Team Name!
 UI_20150317_001015	{@St41b}       The Team Name represents your characters.{nl}      It is the common name used within the game.{nl}               Team Name may be changed later on.{/}
 UI_20150317_001016	Loading Background
@@ -1083,7 +1083,7 @@ UI_20150317_001082	Fire Swords
 UI_20150317_001083	For adenomas hwageuk
 UI_20150317_001084	Puncture sex
 UI_20150317_001085	Yeonhwagyo
-UI_20150317_001086	{S16}Gender and Apperance
+UI_20150317_001086	{S16}Gender and Appearance
 UI_20150317_001087	Male
 UI_20150317_001088	Female
 UI_20150317_001089	Hair Adjustment
@@ -1132,15 +1132,15 @@ UI_20150317_001131	N/A
 UI_20150317_001132	%S race
 UI_20150317_001133	N/A
 UI_20150317_001134	Untradeable
-UI_20150317_001135	Not reinforce
+UI_20150317_001135	Not reinforceable
 UI_20150317_001136	N/A
 UI_20150317_001137	Item Name
 UI_20150317_001138	N/A
-UI_20150317_001139	More than a few level
-UI_20150317_001140	Everyone can equipe
+UI_20150317_001139	More than a few level(s)
+UI_20150317_001140	Equippable by all
 UI_20150317_001141	Max Socket %s ea
 UI_20150317_001142	Item Name
-UI_20150317_001143	Price of Shop Sell : %s Silver
+UI_20150317_001143	Shop Sell Value : %s Silver
 UI_20150317_001144	How much
 UI_20150317_001145	{@St42b}Full Exploration Rate of Siauliai{/}
 UI_20150317_001146	{@St42b}West Forest Area Explored{/}
@@ -1187,13 +1187,13 @@ UI_20150317_001186	Cleric / Archer
 UI_20150317_001187	Share Quest : {#FFFF00}%s{/}
 UI_20150317_001188	N/A
 UI_20150317_001189	EXP Distribution : {#FFFF00}%s{/}
-UI_20150317_001190	Equal Distirbutions
+UI_20150317_001190	Equal Distribution
 UI_20150317_001191	Item Distribution : {#FFFF00}%s{/}
 UI_20150317_001192	Distribute Randomly
 UI_20150317_001193	How do I
 UI_20150317_001194	You don't see who it is
-UI_20150317_001195	{@st41b} was added adventure journal.
-UI_20150317_001196	Menu objects for Quest
+UI_20150317_001195	{@st41b} has been added to the adventure journal.
+UI_20150317_001196	Menu Objects for Quest
 UI_20150317_001197	Categories of Quest
 UI_20150317_001198	List Objects of Quest
 UI_20150317_001199	N/A
@@ -1251,13 +1251,13 @@ UI_20150317_001250	{@St44}Rank %s Class Information{/}
 UI_20150317_001251	Advancement Information
 UI_20150317_001252	Like Heart
 UI_20150317_001253	N/A
-UI_20150317_001254	%s Levle
+UI_20150317_001254	%s Level
 UI_20150317_001255	Memo : {#666666}%s
 UI_20150317_001256	Ayase
 UI_20150317_001257	Relationship with the %s
-UI_20150317_001258	{#FFFF33}%s{/} is invited to a friend{/}
+UI_20150317_001258	{#FFFF33}%s{/} is invited to become a friend{/}
 UI_20150317_001259	{@St41b}Accept
-UI_20150317_001260	{@St41b}Refusal
+UI_20150317_001260	{@St41b}Refuse
 UI_20150317_001261	{@St53b}It is loading your friends list.
 UI_20150317_001262	Level %s{/}
 UI_20150317_001263	{@st41} Cancel
@@ -1314,8 +1314,8 @@ UI_20150323_001313	{@st43}Food distribution table
 UI_20150323_001314	{@st41b}Food type
 UI_20150323_001315	{@st41b}Table
 UI_20150323_001316	{@st59}Close food distribution table{/}
-UI_20150323_001317	{@st43}Grimore{/}
-UI_20150323_001318	{@st59}Close Grimore UI{/}
+UI_20150323_001317	{@st43}Grimoire{/}
+UI_20150323_001318	{@st59}Close Grimoire UI{/}
 UI_20150323_001319	My Summon Skill
 UI_20150323_001320	Main Card
 UI_20150323_001321	Sub Card
@@ -1329,7 +1329,7 @@ UI_20150323_001328	{@st41b}Settings
 UI_20150323_001329	Price per item
 UI_20150323_001330	{@st41b}Material List
 UI_20150323_001331	{@st43}Gem Roasting{/}
-UI_20150323_001332	{@st59}Clsoe UI{/}
+UI_20150323_001332	{@st59}Close UI{/}
 UI_20150323_001333	{@st41b}Repair{/}
 UI_20150323_001334	{@st41b}Log{/}
 UI_20150323_001335	Price to receive
@@ -1348,13 +1348,13 @@ UI_20150323_001347	{@st41}No. of players to enter
 UI_20150323_001348	{@st43}Item upgrade dungeon
 UI_20150323_001349	{@st41}Materials Required
 UI_20150323_001350	{@st59}Materials Required{/}
-UI_20150323_001351	Suggested Levvel : %s
+UI_20150323_001351	Suggested Level : %s
 UI_20150323_001352	{@st43}UI Select Mode{/}
 UI_20150323_001353	{@st43}Buy-in Shop
 UI_20150323_001354	Shop Name
 UI_20150323_001355	{@st41b}Open Shop
 UI_20150323_001356	{@st59}Start Buy-in Shop{/}
-UI_20150323_001357	{@st59}Cacel{/}
+UI_20150323_001357	{@st59}Cancel{/}
 UI_20150323_001358	{@st59}Close Buy-in Shop{/}
 UI_20150323_001359	Request Buy-in
 UI_20150323_001360	{@st59}Close Buy-in Shop
@@ -1367,7 +1367,7 @@ UI_20150323_001366	{@st41}Alchemy Materials
 UI_20150323_001367	{@st41}For Alchemy {@stx1}(%s required){/}
 UI_20150323_001368	{@st59}Summon Pet.{/}
 UI_20150323_001369	{@st41b}Character{/}
-UI_20150323_001370	{@st59}Grimore{/}
+UI_20150323_001370	{@st59}Grimoire{/}
 UI_20150323_001371	{@st41b}Apply Bloom{/}
 UI_20150323_001372	{@st41b}Apply Vignette{/}
 UI_20150323_001373	{@st41b}Apply FXAA{/}
@@ -1402,7 +1402,7 @@ UI_20150323_001401	{@st41}Eat
 UI_20150323_001402	{@st41}Craft
 UI_20150323_001403	{@st41}Craft Qty
 UI_20150323_001404	{@st41}Consume Materials
-UI_20150401_001405	{@st59}CLsoe Briquetting{/}
+UI_20150401_001405	{@st59}Close Briquetting{/}
 UI_20150401_001406	{@st41}Disband Basecamp
 UI_20150401_001407	{@st43}[%s Circle]{/}
 UI_20150401_001408	{@st43}Skill{/}
@@ -1459,10 +1459,10 @@ UI_20150406_001458	{@st42}Cancel
 UI_20150406_001459	{@stc1}Camp duration
 UI_20150406_001460	{@st41b}Basecamp
 UI_20150406_001461	{@st41b}Camp duration
-UI_20150406_001462	{@st42b}Basecamp last for an additional 24 hours when renewed. {nl}%s silver is consumed.
+UI_20150406_001462	{@st42b}Basecamp lasts for an additional 24 hours when renewed. {nl}%s silver is consumed.
 UI_20150406_001463	{@st41}Disband Camp
 UI_20150406_001464	{@st42}Disband Table
-UI_20150406_001465	{@st59b}Grimore{nl}{@st59s} - Place card on deck and begin summon{/}
+UI_20150406_001465	{@st59b}Grimoire{nl}{@st59s} - Place card on deck and begin summon{/}
 UI_20150406_001466	{@st41}My Summon Skill
 UI_20150406_001467	{@st41}Stat
 UI_20150406_001468	{@st41b}Offerings Box Name
@@ -1470,7 +1470,7 @@ UI_20150406_001469	{@st41b}Details of item offering
 UI_20150406_001470	{@st59}Close Buy-in Shop
 UI_20150406_001471	{@st59b}Buy-in Shop{nl}{@st59s} - Trade items for silver
 UI_20150406_001472	{@st41b}Client's item request{/}
-UI_20150406_001473	{@st41b}Registered iem for sale{/}
+UI_20150406_001473	{@st41b}Registered item for sale{/}
 UI_20150406_001474	{@st41b}Total income
 UI_20150406_001475	{@st41b}Sell
 UI_20150406_001476	{@st59}Sell registered item{/}
@@ -1499,7 +1499,7 @@ UI_20150428_001498	{@st43}Buy-in Shop{/}
 UI_20150428_001499	{@st41b}Close
 UI_20150428_001500	{@st41b}Bug Report
 UI_20150428_001501	{@st59}Notify about problem{/}
-UI_20150428_001502	You game play screen until now will be sent when you make a bug report. The replay file will be of much help in fixing the bug. Do you wish to send it?
+UI_20150428_001502	Your game play screen until now will be sent when you make a bug report. The replay file will be of much help in fixing the bug. Do you wish to send it?
 UI_20150428_001503	{@st41b}Bug description :{/}
 UI_20150428_001504	{@st41b}Entering bug desciption is not a requirement but it will help us a lot in analyzing the bug.
 UI_20150428_001505	{@st41b}Send
@@ -1697,7 +1697,7 @@ UI_20150717_001696	Rated T.
 UI_20150717_001697	{s40} {nl}Playing the game for long hours may negatively affect your health.{/}e
 UI_20150717_001698	{@st66b}Enter
 UI_20150717_001699	{@st42}My Summon Info
-UI_20150717_001700	You movement slows down when you do not have enough{@st59}STA{/}
+UI_20150717_001700	Your movement slows down when you do not have enough{@st59}STA{/}
 UI_20150717_001701	{@st59}Arrange Inventory{/}
 UI_20150717_001702	Arrange
 UI_20150717_001703	{@st59}Close Joypad Control Info.{/}
@@ -1720,7 +1720,7 @@ UI_20150717_001719	{@st41b}Receive Recommendation
 UI_20150717_001720	This can only be used by party leaders.
 UI_20150717_001721	You must use the Party Member Recommendation function.
 UI_20150717_001722	{@st66b}Quest Class Name{/}
-UI_20150717_001723	{@st59b}Shop{nl}{@st59s} - Use Shift + Right-click and enter quantity to buy/sell multiple items{nl} - Right-click twice to sell all the item{/}
+UI_20150717_001723	{@st59b}Shop{nl}{@st59s} - Use Shift + Right-click and enter quantity to buy/sell multiple items{nl} - Right-click twice to sell all the items{/}
 UI_20150717_001724	{@st59}Mouse Info{/}
 UI_20150717_001725	{@st66b}Arrange
 UI_20150717_001726	{@st59}Arrange items.{/}
@@ -1748,7 +1748,7 @@ UI_20150729_001747	{@st41}Attribute Information
 UI_20150729_001748	{@st59}Cancel Enhancement{/}
 UI_20150729_001749	{@st59b}Gem/Card Enhancement{nl}{@st59s} - Select Gem or Card to enhance from your inventory{nl} - All items except quest items can be used as materials{nl} (Most effective when using Gem as material){nl} - Card can only be enhanced by using other cards{/}
 UI_20150729_001750	{#000000}{s22}Waiting to enter server..
-UI_20150729_001751	{#000000}{s22}Server full. Queing for entry.
+UI_20150729_001751	{#000000}{s22}Server full. Queuing for entry.
 UI_20150729_001752	{#000000}{s22}Current Rank : %s
 UI_20150729_001753	{@st43}Team Battle League
 UI_20150729_001754	{@st59}Close Team Battle League
