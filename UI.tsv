@@ -189,18 +189,18 @@ UI_20150317_000188	Enter
 UI_20150317_000189	{@st41}Accept
 UI_20150317_000190	{@st41}Confirm
 UI_20150317_000191	Other party's(%s) Transaction List
-UI_20150317_000192	Other player's name
+xUI_20150317_000192	Other player's Name
 UI_20150317_000193	{s18}{ol} {gr gradation1}Field Event{/}
 UI_20150317_000194	{s20}{ol}Defeat the Vubbe Tribe! Would you like to join?
 UI_20150317_000195	{s20}{ol}%s Would you like to join?
 UI_20150317_000196	{s20}{ol}Participants: (1/5)
-UI_20150317_000197	{s20}{ol}Participants : (%s/%s)
+xUI_20150317_000197	{s20}{ol}Participants: (%s/%s)
 UI_20150317_000198	{s20}{ol}The game will start after 1 second.
 UI_20150317_000199	{s20}{ol}The game starts after %s seconds.
 UI_20150317_000200	Do not show for the day.
 UI_20150317_000201	Do not show Field Events.
 UI_20150317_000202	Join Game
-UI_20150317_000203	Start game with other players.
+xUI_20150317_000203	Start Game with other Players.
 UI_20150317_000204	Do not join the game.
 UI_20150317_000205	Spray Presets
 UI_20150317_000206	{@st49}Select{/}
@@ -209,8 +209,8 @@ UI_20150317_000208	{@st49}Delete{/}
 UI_20150317_000209	Enter the name of file to save.
 UI_20150317_000210	{@st43}Friend
 UI_20150317_000211	{@st59}Close Friend List{/}
-UI_20150317_000212	{@st59b} Friend {nl} {@st59s} - Make friends with other players {nl} - Check the status of your friends in List tab {nl} - Check invite, reject, block in Manage tab {/}
-UI_20150317_000213	{@st41b}Show online friends only{/}
+xUI_20150317_000212	{@st59b} Friend {nl} {@st59s} - Make friends with other players {nl} - Check the status of your friends in the List Tab {nl} - Check, Invite, Reject, Block in the Manage Tab {/}
+xUI_20150317_000213	{@st41b}Show Online friends only{/}
 UI_20150317_000214	{@st41b}List
 UI_20150317_000215	{@st41b}Manage
 UI_20150317_000216	{@st41b}Send Friend Request
@@ -228,20 +228,20 @@ UI_20150317_000227	{@st42}Close{/}
 UI_20150317_000228	{@st42}ALL{/}
 UI_20150317_000229	{@st42}Today Rankings{/}
 UI_20150317_000230	{@st42}Weekly Rankings{/}
-UI_20150317_000231	{@st56} rank {/}
+xUI_20150317_000231	{@st56} Rank {/}
 UI_20150317_000232	{@st56}Points{/}
 UI_20150317_000233	{@st56}Class{/}
-UI_20150317_000234	{@st56} name {/}
+xUI_20150317_000234	{@st56} Name {/}
 UI_20150317_000235	Previous Page
 UI_20150317_000236	Next Page
 UI_20150317_000237	{@st42}Search ID{/}
-UI_20150317_000238	Enter the ID to search
+xUI_20150317_000238	Enter the ID to Search
 UI_20150317_000239	Close the Hall of Fame
-UI_20150317_000240	Enter the ID to search
+xUI_20150317_000240	Enter the ID to Search
 UI_20150317_000241	{@st59} Stamina {/}
 UI_20150317_000242	{@st43}Help List{/}
-UI_20150317_000243	{@st59}Close Help List window{/}
-UI_20150317_000244	{@st59b} Help List {nl} {@st59s}- Read help topics again {nl}  - Select topic to view details {/}
+xUI_20150317_000243	{@st59}Close Help List Window{/}
+xUI_20150317_000244	{@st59b} Help List {nl} {@st59s}- Read Help Topics again {nl}  - Select Topic to view details {/}
 UI_20150317_000245	{@st43}{s22}Help{/}
 UI_20150317_000246	{@st47_b}{b}Help Topics{/}
 UI_20150317_000247	{@st42b}Simple Help Contents{/}
@@ -249,39 +249,39 @@ UI_20150317_000248	{@st59}View details{/}
 UI_20150317_000249	Please enter quantity
 UI_20150317_000250	{@st59}Enter the contents{/}
 UI_20150317_000251	{@st41b}OK
-UI_20150317_000252	{@st59}Confirm {/}
+xUI_20150317_000252	{@st59}Confirm{/}
 UI_20150317_000253	{@st41b}Close
-UI_20150317_000254	{@st59}Cancel {/}
+xUI_20150317_000254	{@st59}Cancel{/}
 UI_20150317_000255	{@st43}Warp{/}
 UI_20150317_000256	{@st59}Close Warp Window{/}
-UI_20150317_000257	Warp {@st59b} {nl} {@st59s} - systems that can warp their visit to the region {nl} - When there are more than 2 Warp Warp function is activated {nl} {/}
+xUI_20150317_000257	Warp {@st59b} {nl} {@st59s} - System that warps you to visited location {nl} - Warp routes are activated with two Warp points {nl} {/}
 UI_20150317_000258	{@st41}Current location : %s{/}
 UI_20150317_000259	{@st43}{s22}Warp{/}
 UI_20150317_000260	{@st41b}Do you want to move to this area?{/}
-UI_20150317_000261	What about Saul ray
+xUI_20150317_000261	What about Saul Ray
 UI_20150317_000262	Coin consumed : 0
 UI_20150317_000263	Intro
 UI_20150317_000264	{@st43}Inventory{/}
 UI_20150317_000265	{@st59}Close Inventory{/}
-UI_20150317_000266	Equipments {@st59b} {nl} {@st59s}-Hair/Costume: equip to change character looks {nl} -Weapons: Can use one-hand or two-hand weapons {nl} (sub-weapon/shield can be worn with one-hand weapon) {nl} -Armor: Top, Pants, Gloves, Shoes {nl} -Accessories: Can wear 1 Necklace and 2 Bracelets {nl} {/}
+xUI_20150317_000266	Equipments {@st59b} {nl} {@st59s}-Hair/Costume: Equip to change appearance {nl} - Weapons: Can use one-hand or two-hand weapons {nl} (sub-weapon/shield can be worn with one-hand weapon) {nl} - Armor: Top, Pants, Gloves, Shoes {nl} - Accessories: Can wear 1 Necklace and 2 Bracelets {nl} {/}
 UI_20150317_000267	{@st59}Hair Costume 1{/}
-UI_20150317_000268	{@st59}Hair Costume 2 {/}
-UI_20150317_000269	{@st59}Necklace {/}
+xUI_20150317_000268	{@st59}Hair Costume 2{/}
+xUI_20150317_000269	{@st59}Necklace{/}
 UI_20150317_000270	{@st59}Costume{/}
-UI_20150317_000271	{@st59}Top {/}
-UI_20150317_000272	{@st59}Gloves {/}
+xUI_20150317_000271	{@st59}Top{/}
+xUI_20150317_000272	{@st59}Gloves{/}
 UI_20150317_000273	{@st59}Pants{/}
-UI_20150317_000274	{@st59}Shoes {/}
-UI_20150317_000275	{@st59}Left Hand {/}
-UI_20150317_000276	{@st59}Right Hand {/}
-UI_20150317_000277	{@st59}Bracelet 1 {/}
-UI_20150317_000278	{@st59}Bracelet 2 {/}
+xUI_20150317_000274	{@st59}Shoes{/}
+xUI_20150317_000275	{@st59}Left Hand{/}
+xUI_20150317_000276	{@st59}Right Hand{/}
+xUI_20150317_000277	{@st59}Bracelet 1{/}
+xUI_20150317_000278	{@st59}Bracelet 2{/}
 UI_20150317_000279	{@st59}Armband{/}
-UI_20150317_000280	{@st59}Search with name entered {/}
+UI_20150317_000280	{@st59}Search with Name entered{/}
 UI_20150317_000281	Weight
-UI_20150317_000282	
+xUI_20150317_000282	{@st43}Equipment Buff{/}
 UI_20150317_000283	{@st59}Close the Item Repair UI{/}
-UI_20150317_000284	{@st42}Availble for Buff
+xUI_20150317_000284	{@st42}Available for Buff
 UI_20150317_000285	{@st42}Consume{/}
 UI_20150317_000286	{@st42}Run
 UI_20150317_000287	{@st42}Target Item{/}
