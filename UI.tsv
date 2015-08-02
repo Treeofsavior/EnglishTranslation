@@ -1,8 +1,8 @@
-﻿xUI_20150317_000001	{@st41b}Learn Attributes{nl}from masters of each class.{/}
-xUI_20150317_000002	{@st43}List{/}
-xUI_20150317_000003	{@st59}Close{/}
+﻿UI_20150317_000001	{@st41b}Learn Attributes{nl}from amsters of each class.{/}
+UI_20150317_000002	{@st43}List {/}
+UI_20150317_000003	{@st59}Close {/}
 UI_20150317_000004	{@st43}Learn Attributes{/}
-xUI_20150317_000005	{@st59}Close Attributes Window{/}
+UI_20150317_000005	{@st59}Close Attributes window{/}
 UI_20150317_000006	{@st41b}Funds{/}
 UI_20150317_000007	My Achievements
 UI_20150317_000008	Server Ranking
@@ -42,8 +42,8 @@ UI_20150317_000041	{@St44}Cancel{/}
 UI_20150317_000042	{@St43}{s22}Hair Shop{/}
 UI_20150317_000043	{@st59}Previous Hair{/}
 UI_20150317_000044	{@St59}Next Hair{/}
-xUI_20150317_000045	{@st41b} Change {s18} (100 Coins required) {/}
-xUI_20150317_000046	{@St59}Change to Selected Hair.{/}
+UI_20150317_000045	{@st41b} change {s18} (Coins 100 required) {/}
+UI_20150317_000046	{@St59}Change to selected hair.{/}
 UI_20150317_000047	{@St41}Cancel
 UI_20150317_000048	{@st43}Black Market{/}
 UI_20150317_000049	Name of Book
@@ -61,14 +61,14 @@ UI_20150317_000060	{@st42}Elapsed Time
 UI_20150317_000061	10 minutes
 UI_20150317_000062	10 seconds
 UI_20150317_000063	{@st44}Complete
-xUI_20150317_000064	{@st59}Close Vending Machine{/}
+UI_20150317_000064	{@st59}Close vending machine{/}
 UI_20150317_000065	{@st43}Buff Vending Machine
 UI_20150317_000066	Vending Machine Name
 UI_20150317_000067	{@st43}Register
 UI_20150317_000068	{@st43}Cancel
 UI_20150317_000069	Buff Vending Machine
-xUI_20150317_000070	{@st59}Close the Buff Vending Machine.
-xUI_20150317_000071	{@st59}Buff Vending Machine{nl} - You can pay silver to receive buff casting from another player.
+UI_20150317_000070	{@st59}Close the Buff vending machine.
+UI_20150317_000071	{@st59}Buff Vending Machine{nl} - You can pay silver to receive buff casting from another player.
 UI_20150317_000072	Carriage Menu
 UI_20150317_000073	{ol}{s22}Disembark{/}
 UI_20150317_000074	Casting
@@ -76,14 +76,14 @@ UI_20150317_000075	{@st43}Game Settings{/}
 UI_20150317_000076	{@st64}Use the arrow keys to select the cell!
 UI_20150317_000077	{@st43}Advancement Information {/}
 UI_20150317_000078	{@st43}Select Class
-xUI_20150317_000079	Psychokino
+UI_20150317_000079	Psychokinesist
 UI_20150317_000080	{@st42}%s circle {/}
 UI_20150317_000081	How many circles
 UI_20150317_000082	Displays a brief description of the class.
-xUI_20150317_000083	{@st41b}Attack{@sti7}%s{/}
-xUI_20150317_000084	{@st41b}Support{@sti7}%s{/}
+UI_20150317_000083	{@st41b}Attack {@sti7}%s{/}
+UI_20150317_000084	{@st41b}Support {@sti7}%s{/}
 UI_20150317_000085	{@st41b}Difficulty{@sti7}%s{/}
-xUI_20150317_000086	{@st59}Close the Class Information Window{/}
+UI_20150317_000086	{@st59}Close the Class Information window{/}
 UI_20150317_000087	Alarm of Advancement
 UI_20150317_000088	{@st43} Advancement
 UI_20150317_000089	{@sti7}{s14} Character {/}
@@ -98,11 +98,11 @@ UI_20150317_000097	{@st59}ALL{/}
 UI_20150317_000098	{@st59}Normal (/s chat){/}
 UI_20150317_000099	{@st59}Shout (/y chat){/}
 UI_20150317_000100	{@st59}Party (/p chat){/}
-xUI_20150317_000101	{@st59} Whisper (/ w team name, say) {/}
+UI_20150317_000101	{@st59} whisper (/ w team name, say) {/}
 UI_20150317_000102	{@st59}Adjust Chat Window{/}
 UI_20150317_000103	{@st43}{s22}Chat Macro{/}
 UI_20150317_000104	{@st43}Macro{/}
-xUI_20150317_000105	{@st59b} Macro {nl} {@st59s} - How to use: {nl} 1. Set the gesture icons from the top to the gesture slots at the bottom {nl} 2. Write your phrase and Save {nl} 3. Use the shortcut key to use the phrase and make the gesture at the same time {/}
+UI_20150317_000105	{@st59b} Macro {nl} {@st59s} - How to use: {nl} 1. Register the gesture icon to the gesture slots at the bottom {nl} 2. Write your phrase and save {nl} 3. Use the short cut key to use the phrase and make gesture at the same time {/}
 UI_20150317_000106	{@st59}Close Macro{/}
 UI_20150317_000107	{@st41b} Save {/}
 UI_20150317_000108	{@st59}Save registered contents{/}
@@ -127,7 +127,7 @@ UI_20150317_000126	{s16}{b}ea
 UI_20150317_000127	{s16}{b}Choose desired area.
 UI_20150317_000128	{s18}{b}View Minimap{/}
 UI_20150317_000129	{@st41b}Tool List{/}
-xUI_20150317_000130	Collection {@st59b} {nl} {@st59s} - In-game collectable items can be stored in Collection Decks {nl} - You can use shortcut keys to activate a collectable item from a collection deck {nl} {/}
+UI_20150317_000130	Collection {@st59b} {nl} {@st59s} - If you collect the items saved my collection deck games can collect the item {nl} - If you use shortcut keys to activate the collection item collection deck {nl} {/}
 UI_20150317_000131	{@st59}Close Collection Information{/}
 UI_20150317_000132	{@st43}Collection{/}
 UI_20150317_000133	{@st43}Color Spray{/}
@@ -143,9 +143,9 @@ UI_20150317_000142	{@st43} Companion Adoption
 UI_20150317_000143	{@st59} Enter the name of the pre-sale to receive a companion {/}
 UI_20150317_000144	{@st41b}Name{/}
 UI_20150317_000145	{@st41b}Price %s{/}
-xUI_20150317_000146	{@st59} Close Companion Moth Pre-Sale Window {/}
+UI_20150317_000146	{@st59} close companion Moth pre-sale window {/}
 UI_20150317_000147	{@st41b}Adopt
-xUI_20150317_000148	{@st59}Confirm Adoption{/}
+UI_20150317_000148	{@st59}Confirm adoption {/}
 UI_20150317_000149	{@st43}Companion Shop
 UI_20150317_000150	{@st59}Close Companion Shop{/}
 UI_20150317_000151	{@st43}Other Character Info{/}{@st42}
@@ -167,14 +167,14 @@ UI_20150317_000166	{@st49}Dialogue{/}
 UI_20150317_000167	{@st49}Combat{/}
 UI_20150317_000168	{@st49}Item{/}
 UI_20150317_000169	{@st43}Credits{/}
-xUI_20150317_000170	{@st43}Target fixed{/}
+UI_20150317_000170	{@st43}Target fixed {/}
 UI_20150317_000171	NPC Name
 UI_20150317_000172	Compare
 UI_20150317_000173	Illustration
 UI_20150317_000174	Selection Dialogue
 UI_20150317_000175	Text Help
 UI_20150317_000176	{@st41}Create Items{/}
-xUI_20150317_000177	{@st45tw2}Creating item…
+UI_20150317_000177	{@st45tw2}Creating item...
 UI_20150317_000178	%r seconds
 UI_20150317_000179	{@st41}Cancel{/}
 UI_20150317_000180	{@st45tw2}Quantity{/}
@@ -183,24 +183,24 @@ UI_20150317_000182	{@st41}Decide{/}
 UI_20150317_000183	Quest Information
 UI_20150317_000184	{@st59}Cancel transaction{/}
 UI_20150317_000185	{@st43}Personal Trade{/}
-xUI_20150317_000186	My List of Transactions
+UI_20150317_000186	My list of transactions
 UI_20150317_000187	Silver : %s
 UI_20150317_000188	Enter
 UI_20150317_000189	{@st41}Accept
 UI_20150317_000190	{@st41}Confirm
 UI_20150317_000191	Other party's(%s) Transaction List
-xUI_20150317_000192	Other player's Name
+UI_20150317_000192	Other player's name
 UI_20150317_000193	{s18}{ol} {gr gradation1}Field Event{/}
 UI_20150317_000194	{s20}{ol}Defeat the Vubbe Tribe! Would you like to join?
 UI_20150317_000195	{s20}{ol}%s Would you like to join?
 UI_20150317_000196	{s20}{ol}Participants: (1/5)
-xUI_20150317_000197	{s20}{ol}Participants: (%s/%s)
+UI_20150317_000197	{s20}{ol}Participants : (%s/%s)
 UI_20150317_000198	{s20}{ol}The game will start after 1 second.
 UI_20150317_000199	{s20}{ol}The game starts after %s seconds.
 UI_20150317_000200	Do not show for the day.
 UI_20150317_000201	Do not show Field Events.
 UI_20150317_000202	Join Game
-xUI_20150317_000203	Start Game with other Players.
+UI_20150317_000203	Start game with other players.
 UI_20150317_000204	Do not join the game.
 UI_20150317_000205	Spray Presets
 UI_20150317_000206	{@st49}Select{/}
@@ -209,8 +209,8 @@ UI_20150317_000208	{@st49}Delete{/}
 UI_20150317_000209	Enter the name of file to save.
 UI_20150317_000210	{@st43}Friend
 UI_20150317_000211	{@st59}Close Friend List{/}
-xUI_20150317_000212	{@st59b} Friend {nl} {@st59s} - Make friends with other players {nl} - Check the status of your friends in the List Tab {nl} - Check, Invite, Reject, Block in the Manage Tab {/}
-xUI_20150317_000213	{@st41b}Show Online friends only{/}
+UI_20150317_000212	{@st59b} Friend {nl} {@st59s} - Make friends with other players {nl} - Check the status of your friends in List tab {nl} - Check invite, reject, block in Manage tab {/}
+UI_20150317_000213	{@st41b}Show online friends only{/}
 UI_20150317_000214	{@st41b}List
 UI_20150317_000215	{@st41b}Manage
 UI_20150317_000216	{@st41b}Send Friend Request
@@ -228,20 +228,20 @@ UI_20150317_000227	{@st42}Close{/}
 UI_20150317_000228	{@st42}ALL{/}
 UI_20150317_000229	{@st42}Today Rankings{/}
 UI_20150317_000230	{@st42}Weekly Rankings{/}
-xUI_20150317_000231	{@st56} Rank {/}
+UI_20150317_000231	{@st56} rank {/}
 UI_20150317_000232	{@st56}Points{/}
 UI_20150317_000233	{@st56}Class{/}
-xUI_20150317_000234	{@st56} Name {/}
+UI_20150317_000234	{@st56} name {/}
 UI_20150317_000235	Previous Page
 UI_20150317_000236	Next Page
 UI_20150317_000237	{@st42}Search ID{/}
-xUI_20150317_000238	Enter the ID to Search
+UI_20150317_000238	Enter the ID to search
 UI_20150317_000239	Close the Hall of Fame
-xUI_20150317_000240	Enter the ID to Search
+UI_20150317_000240	Enter the ID to search
 UI_20150317_000241	{@st59} Stamina {/}
 UI_20150317_000242	{@st43}Help List{/}
-xUI_20150317_000243	{@st59}Close Help List Window{/}
-xUI_20150317_000244	{@st59b} Help List {nl} {@st59s}- Read Help Topics again {nl}  - Select Topic to view details {/}
+UI_20150317_000243	{@st59}Close Help List window{/}
+UI_20150317_000244	{@st59b} Help List {nl} {@st59s}- Read help topics again {nl}  - Select topic to view details {/}
 UI_20150317_000245	{@st43}{s22}Help{/}
 UI_20150317_000246	{@st47_b}{b}Help Topics{/}
 UI_20150317_000247	{@st42b}Simple Help Contents{/}
@@ -249,39 +249,39 @@ UI_20150317_000248	{@st59}View details{/}
 UI_20150317_000249	Please enter quantity
 UI_20150317_000250	{@st59}Enter the contents{/}
 UI_20150317_000251	{@st41b}OK
-xUI_20150317_000252	{@st59}Confirm{/}
+UI_20150317_000252	{@st59}Confirm {/}
 UI_20150317_000253	{@st41b}Close
-xUI_20150317_000254	{@st59}Cancel{/}
+UI_20150317_000254	{@st59}Cancel {/}
 UI_20150317_000255	{@st43}Warp{/}
 UI_20150317_000256	{@st59}Close Warp Window{/}
-xUI_20150317_000257	Warp {@st59b} {nl} {@st59s} - System that warps you to visited location {nl} - Warp routes are activated with two Warp points {nl} {/}
+UI_20150317_000257	Warp {@st59b} {nl} {@st59s} - systems that can warp their visit to the region {nl} - When there are more than 2 Warp Warp function is activated {nl} {/}
 UI_20150317_000258	{@st41}Current location : %s{/}
 UI_20150317_000259	{@st43}{s22}Warp{/}
 UI_20150317_000260	{@st41b}Do you want to move to this area?{/}
-xUI_20150317_000261	What about Saul Ray
+UI_20150317_000261	What about Saul ray
 UI_20150317_000262	Coin consumed : 0
 UI_20150317_000263	Intro
 UI_20150317_000264	{@st43}Inventory{/}
 UI_20150317_000265	{@st59}Close Inventory{/}
-xUI_20150317_000266	Equipments {@st59b} {nl} {@st59s}-Hair/Costume: Equip to change appearance {nl} - Weapons: Can use one-hand or two-hand weapons {nl} (sub-weapon/shield can be worn with one-hand weapon) {nl} - Armor: Top, Pants, Gloves, Shoes {nl} - Accessories: Can wear 1 Necklace and 2 Bracelets {nl} {/}
+UI_20150317_000266	Equipments {@st59b} {nl} {@st59s}-Hair/Costume: equip to change character looks {nl} -Weapons: Can use one-hand or two-hand weapons {nl} (sub-weapon/shield can be worn with one-hand weapon) {nl} -Armor: Top, Pants, Gloves, Shoes {nl} -Accessories: Can wear 1 Necklace and 2 Bracelets {nl} {/}
 UI_20150317_000267	{@st59}Hair Costume 1{/}
-xUI_20150317_000268	{@st59}Hair Costume 2{/}
-xUI_20150317_000269	{@st59}Necklace{/}
+UI_20150317_000268	{@st59}Hair Costume 2 {/}
+UI_20150317_000269	{@st59}Necklace {/}
 UI_20150317_000270	{@st59}Costume{/}
-xUI_20150317_000271	{@st59}Top{/}
-xUI_20150317_000272	{@st59}Gloves{/}
+UI_20150317_000271	{@st59}Top {/}
+UI_20150317_000272	{@st59}Gloves {/}
 UI_20150317_000273	{@st59}Pants{/}
-xUI_20150317_000274	{@st59}Shoes{/}
-xUI_20150317_000275	{@st59}Left Hand{/}
-xUI_20150317_000276	{@st59}Right Hand{/}
-xUI_20150317_000277	{@st59}Bracelet 1{/}
-xUI_20150317_000278	{@st59}Bracelet 2{/}
+UI_20150317_000274	{@st59}Shoes {/}
+UI_20150317_000275	{@st59}Left Hand {/}
+UI_20150317_000276	{@st59}Right Hand {/}
+UI_20150317_000277	{@st59}Bracelet 1 {/}
+UI_20150317_000278	{@st59}Bracelet 2 {/}
 UI_20150317_000279	{@st59}Armband{/}
-UI_20150317_000280	{@st59}Search with Name entered{/}
+UI_20150317_000280	{@st59}Search with name entered {/}
 UI_20150317_000281	Weight
-xUI_20150317_000282	{@st43}Equipment Buff{/}
+UI_20150317_000282	
 UI_20150317_000283	{@st59}Close the Item Repair UI{/}
-xUI_20150317_000284	{@st42}Available for Buff
+UI_20150317_000284	{@st42}Availble for Buff
 UI_20150317_000285	{@st42}Consume{/}
 UI_20150317_000286	{@st42}Run
 UI_20150317_000287	{@st42}Target Item{/}
