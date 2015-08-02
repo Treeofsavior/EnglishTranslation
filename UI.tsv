@@ -729,7 +729,7 @@ UI_20150317_000728	{@st59}Class and Skill (F3){/}
 UI_20150317_000729	{@st59}Adventure Journal (F4){/}
 UI_20150317_000730	{@st59}Quest (F5){/}
 UI_20150317_000731	{@st59}Party (F6){/}
-UI_20150317_000732	{@st59}Friends (F7){/}
+UI_20150317_000732	{@st59}Buddy (F7){/}
 UI_20150317_000733	{@st59} Macro (F8) {/}
 UI_20150317_000734	{@st59} Companion (F9) {/}
 UI_20150317_000735	{@st59} Help (F10) {/}
@@ -1013,7 +1013,7 @@ UI_20150317_001012	{@St59}Close the menu of input team name{/}
 UI_20150317_001013	{@St59}Create a team with the name entered{/}
 UI_20150317_001014	{@St43}{s30}{#f0dcaa}Enter your Team Name!
 UI_20150317_001015	{@St41b}       The Team Name represents your characters.{nl}      It is the common name used within the game.{nl}               Team Name may be changed later on.{/}
-UI_20150317_001016	Loading Background
+UI_20150317_001016	Loading background
 UI_20150317_001017	Tip
 UI_20150317_001018	Game Tips
 UI_20150317_001019	Login
@@ -1053,7 +1053,7 @@ UI_20150317_001052	{s20}{#BBBBBB}Water Reflection
 UI_20150317_001053	Characters Water Reflection
 UI_20150317_001054	Background Water Reflection
 UI_20150317_001055	{s20}{#BBBBBB}Glow Setup
-UI_20150317_001056	Glow Use
+UI_20150317_001056	Use Glow
 UI_20150317_001057	{@st41}ATK{/}
 UI_20150317_001058	{@St41}DEF{/}
 UI_20150317_001059	{@st41} AUX{/}
@@ -1137,7 +1137,7 @@ UI_20150317_001136	N/A
 UI_20150317_001137	Item Name
 UI_20150317_001138	N/A
 UI_20150317_001139	More than a few level
-UI_20150317_001140	Everyone can equipe
+UI_20150317_001140	Everyone can equip
 UI_20150317_001141	Max Socket %s ea
 UI_20150317_001142	Item Name
 UI_20150317_001143	Price of Shop Sell : %s Silver
@@ -1218,7 +1218,7 @@ UI_20150317_001217	News
 UI_20150317_001218	{@St42b}Restart{/}
 UI_20150317_001219	Peltang Stang
 UI_20150317_001220	99 Circle
-UI_20150317_001221	Kill 8 Mad Vubbe
+UI_20150317_001221	Defeat 8 Mad Vubbe
 UI_20150317_001222	Tooltip
 UI_20150317_001223	EXP: sad{br}+1 Enchantment Crystal (Attack)
 UI_20150317_001224	The Apprentice Sword
@@ -1251,14 +1251,14 @@ UI_20150317_001250	{@St44}Rank %s Class Information{/}
 UI_20150317_001251	Advancement Information
 UI_20150317_001252	Like Heart
 UI_20150317_001253	N/A
-UI_20150317_001254	%s Levle
+UI_20150317_001254	%s Level
 UI_20150317_001255	Memo : {#666666}%s
 UI_20150317_001256	Ayase
 UI_20150317_001257	Relationship with the %s
-UI_20150317_001258	{#FFFF33}%s{/} is invited to a friend{/}
+UI_20150317_001258	{#FFFF33}%s{/} is invited to become a buddy{/}
 UI_20150317_001259	{@St41b}Accept
-UI_20150317_001260	{@St41b}Refusal
-UI_20150317_001261	{@St53b}It is loading your friends list.
+UI_20150317_001260	{@St41b}Decline
+UI_20150317_001261	{@St53b}Loading buddy list.
 UI_20150317_001262	Level %s{/}
 UI_20150317_001263	{@st41} Cancel
 UI_20150317_001264	Please register the buff to sell.
@@ -1306,7 +1306,7 @@ UI_20150323_001305	{@st41b}Renew Time
 UI_20150323_001306	{@st59}Renew Lasting Time{/}
 UI_20150323_001307	{@st41b}Basecamp Lasting Time
 UI_20150323_001308	{@st41b}Effects
-UI_20150323_001309	{@st42b}Basecamp last for an additional 24 hours when renewed. %s silver is consumed.
+UI_20150323_001309	{@st42b}A basecamp lasts for an additional 24 hours when renewed. Consumes %s silver.
 UI_20150323_001310	{@st41b}Personal Storage
 UI_20150323_001311	{@stc1}Storing and taking items in storage costs %s silver.{/}
 UI_20150323_001312	{@st41}{#ffff00}Fix Target{/}
@@ -1329,7 +1329,7 @@ UI_20150323_001328	{@st41b}Settings
 UI_20150323_001329	Price per item
 UI_20150323_001330	{@st41b}Material List
 UI_20150323_001331	{@st43}Gem Roasting{/}
-UI_20150323_001332	{@st59}Clsoe UI{/}
+UI_20150323_001332	{@st59}Close UI{/}
 UI_20150323_001333	{@st41b}Repair{/}
 UI_20150323_001334	{@st41b}Log{/}
 UI_20150323_001335	Price to receive
@@ -1376,7 +1376,7 @@ UI_20150323_001375	{@st41b}Apply Depth {/}
 UI_20150323_001376	{@st41b}Apply SoftParticle{/}
 UI_20150323_001377	{@st43}Personal Storage{/}
 UI_20150323_001378	{@st59}Close Personal Storage.{/}
-UI_20150323_001379	{@sti6}Storing and taking item from strorage costs %s silver..{/}
+UI_20150323_001379	{@sti6}Storing and taking item from storage costs %s silver..{/}
 UI_20150323_001380	{@st59}Alt+Z to change weapons{/}
 UI_20150323_001381	{@st59}Save Lodge Settings{/}
 UI_20150323_001382	Change Lodge
@@ -1402,7 +1402,7 @@ UI_20150323_001401	{@st41}Eat
 UI_20150323_001402	{@st41}Craft
 UI_20150323_001403	{@st41}Craft Qty
 UI_20150323_001404	{@st41}Consume Materials
-UI_20150401_001405	{@st59}CLsoe Briquetting{/}
+UI_20150401_001405	{@st59}Close Briquetting{/}
 UI_20150401_001406	{@st41}Disband Basecamp
 UI_20150401_001407	{@st43}[%s Circle]{/}
 UI_20150401_001408	{@st43}Skill{/}
@@ -1477,7 +1477,7 @@ UI_20150406_001476	{@st59}Sell registered item{/}
 UI_20150406_001477	{@st59}Close Personal Storage{/}
 UI_20150406_001478	{@st41b} %s silver is consumed when storing and taking items from Storage.{/}
 UI_20150406_001479	{@st41b}Qty.
-UI_20150414_001480	{@st42b}Camp duration is increased when reset.{nl} Costs %s silver .
+UI_20150414_001480	{@st42b}Camp duration is increased when reset.{nl} Cost: %s silver.
 UI_20150414_001481	{@st41b}Type {@sti7}%s{/}
 UI_20150414_001482	{@st41b}Control Difficulty {@sti7}%s{/}
 UI_20150414_001483	{@st59b} Item {/}
@@ -1623,7 +1623,7 @@ UI_20150714_001622	{@st43}Simoni
 UI_20150714_001623	{@st59}Increase skills{/}
 UI_20150714_001624	{@st59}Close Skills and Attribute{/}
 UI_20150714_001625	{@st43}Skills and Attributes{/}
-UI_20150714_001626	Remaining Status Points {nl}{@st46}%s
+UI_20150714_001626	Remaining Ability Points {nl}{@st46}%s
 UI_20150714_001627	Likes Received! : %s
 UI_20150714_001628	{@st66b}Show EXP acquired{/}
 UI_20150714_001629	{@st66b}Show Character Name{/}
@@ -1634,7 +1634,7 @@ UI_20150714_001633	{@st66b}Joypad{/}
 UI_20150714_001634	{@st66b}Keyboard{/}
 UI_20150714_001635	{@st66b}Mouse
 UI_20150714_001636	{@st66b}Full Screen{/}
-UI_20150714_001637	{@st66b}Window Mode{/}
+UI_20150714_001637	{@st66b}Windowed Mode{/}
 UI_20150714_001638	{@st66b}Sound Effects Volume (%s){/}
 UI_20150714_001639	{@st66b}BGM Volume (%s){/}
 UI_20150714_001640	{@st66b}Volume (%s){/}
@@ -1648,15 +1648,15 @@ UI_20150714_001647	{@st66b}Apply GLOW{/}
 UI_20150714_001648	{@st66b}Apply Depth{/}
 UI_20150714_001649	{@st66b}Apply Soft Particle{/}
 UI_20150714_001650	{@st66b}Apply High Texture {/}
-UI_20150714_001651	{@st66b}Vertical Sync On{/}
-UI_20150714_001652	{@st66b}Vertical Sync Off{/}
+UI_20150714_001651	{@st66b}VSync On{/}
+UI_20150714_001652	{@st66b}VSync Off{/}
 UI_20150714_001653	{@st66b} %s silver is consumed when storing and taking items from Storage.{/}
 UI_20150714_001654	%s like me
 UI_20150714_001655	{@st41}Watch
 UI_20150714_001656	{@st66b}Exit Watch
 UI_20150714_001657	Found a game. Do you want to join?
 UI_20150714_001658	{@st41}Join
-UI_20150714_001659	{@st41}Refusal
+UI_20150714_001659	{@st41}Decline
 UI_20150714_001660	End Game
 UI_20150714_001661	Death
 UI_20150714_001662	Damage
@@ -1694,7 +1694,7 @@ UI_20150714_001693	{@st41}Refresh
 UI_20150717_001694	Like this player {#ffff00}%s{/}
 UI_20150717_001695	{@st41b}{s56}This game is {#0066FF}
 UI_20150717_001696	Rated T.
-UI_20150717_001697	{s40} {nl}Playing the game for long hours may negatively affect your health.{/}e
+UI_20150717_001697	{s40} {nl}Long hours playing the game can negatively affect your health.{/}e
 UI_20150717_001698	{@st66b}Enter
 UI_20150717_001699	{@st42}My Summon Info
 UI_20150717_001700	You movement slows down when you do not have enough{@st59}STA{/}
