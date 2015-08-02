@@ -8,7 +8,7 @@ UI_20150317_000007	My Achievements
 UI_20150317_000008	Server Ranking
 UI_20150317_000009	{@st59}There is an unexpected event.{/}
 UI_20150317_000010	{@st59}There is a new Help message{/}
-UI_20150317_000011	{@st41}What kind of arrow would you like to create?{/}
+UI_20150317_000011	{@st41}Select an arrow to create{/}
 UI_20150317_000012	{@st41b}Once{/}
 UI_20150317_000013	{@st41b}All{/}
 UI_20150317_000014	{@St41b}Pause{/}
@@ -61,14 +61,14 @@ UI_20150317_000060	{@st42}Elapsed Time
 UI_20150317_000061	10 minutes
 UI_20150317_000062	10 seconds
 UI_20150317_000063	{@st44}Complete
-UI_20150317_000064	{@st59}Close vending machine{/}
+UI_20150317_000064	{@st59}Close Vending Machine{/}
 UI_20150317_000065	{@st43}Buff Vending Machine
 UI_20150317_000066	Vending Machine Name
 UI_20150317_000067	{@st43}Register
 UI_20150317_000068	{@st43}Cancel
 UI_20150317_000069	Buff Vending Machine
-UI_20150317_000070	{@st59}Close the Buff vending machine.
-UI_20150317_000071	{@st59}Buff Vending Machine{nl} - You can pay silver to receive buff casting from another player.
+UI_20150317_000070	{@st59}Close the Buff Vending Machine.
+UI_20150317_000071	{@st59}Buff Vending Machine{nl} - You can pay silver to receive buffs from another player.
 UI_20150317_000072	Carriage Menu
 UI_20150317_000073	{ol}{s22}Disembark{/}
 UI_20150317_000074	Casting
@@ -122,7 +122,7 @@ UI_20150317_000121	{s16}{b}Double click or click the Create button to create ite
 UI_20150317_000122	{s16}{b}ea
 UI_20150317_000123	{s16}{b}Lv.
 UI_20150317_000124	{@st41b}Search{/}
-UI_20150317_000125	{s16}{b}Double click or click the Create button to summon monsters.
+UI_20150317_000125	{s16}{b}Double click or click the Summon button to summon monsters.
 UI_20150317_000126	{s16}{b}ea
 UI_20150317_000127	{s16}{b}Choose desired area.
 UI_20150317_000128	{s18}{b}View Minimap{/}
@@ -143,7 +143,7 @@ UI_20150317_000142	{@st43} Companion Adoption
 UI_20150317_000143	{@st59} Enter the name of the pre-sale to receive a companion {/}
 UI_20150317_000144	{@st41b}Name{/}
 UI_20150317_000145	{@st41b}Price %s{/}
-UI_20150317_000146	{@st59} close companion Moth pre-sale window {/}
+UI_20150317_000146	{@st59} Close companion Moth pre-sale window {/}
 UI_20150317_000147	{@st41b}Adopt
 UI_20150317_000148	{@st59}Confirm adoption {/}
 UI_20150317_000149	{@st43}Companion Shop
@@ -195,13 +195,13 @@ UI_20150317_000194	{s20}{ol}Defeat the Vubbe Tribe! Would you like to join?
 UI_20150317_000195	{s20}{ol}%s Would you like to join?
 UI_20150317_000196	{s20}{ol}Participants: (1/5)
 UI_20150317_000197	{s20}{ol}Participants : (%s/%s)
-UI_20150317_000198	{s20}{ol}The game will start after 1 second.
+UI_20150317_000198	{s20}{ol}The game starts after 1 second.
 UI_20150317_000199	{s20}{ol}The game starts after %s seconds.
 UI_20150317_000200	Do not show for the day.
 UI_20150317_000201	Do not show Field Events.
 UI_20150317_000202	Join Game
 UI_20150317_000203	Start game with other players.
-UI_20150317_000204	Do not join the game.
+UI_20150317_000204	Decline game invite.
 UI_20150317_000205	Spray Presets
 UI_20150317_000206	{@st49}Select{/}
 UI_20150317_000207	{@st49}Cancel{/}
@@ -254,7 +254,7 @@ UI_20150317_000253	{@st41b}Close
 UI_20150317_000254	{@st59}Cancel {/}
 UI_20150317_000255	{@st43}Warp{/}
 UI_20150317_000256	{@st59}Close Warp Window{/}
-UI_20150317_000257	Warp {@st59b} {nl} {@st59s} - systems that can warp their visit to the region {nl} - When there are more than 2 Warp Warp function is activated {nl} {/}
+UI_20150317_000257	Warp {@st59b} {nl} {@st59s} - systems that can warp their visit to the region {nl} - When there are more than 2 Warp locations, the Warp function is activated {nl} {/}
 UI_20150317_000258	{@st41}Current location : %s{/}
 UI_20150317_000259	{@st43}{s22}Warp{/}
 UI_20150317_000260	{@st41b}Do you want to move to this area?{/}
@@ -281,7 +281,7 @@ UI_20150317_000280	{@st59}Search with name entered {/}
 UI_20150317_000281	Weight
 UI_20150317_000282	
 UI_20150317_000283	{@st59}Close the Item Repair UI{/}
-UI_20150317_000284	{@st42}Availble for Buff
+UI_20150317_000284	{@st42}Available for Buff
 UI_20150317_000285	{@st42}Consume{/}
 UI_20150317_000286	{@st42}Run
 UI_20150317_000287	{@st42}Target Item{/}
@@ -382,10 +382,10 @@ UI_20150317_000381	{@st44}Control directions{/}
 UI_20150317_000382	{@st44}Fire{/}
 UI_20150317_000383	Minigame
 UI_20150317_000384	{s18}{ol}{gr gradation1}Hide and seek minigame{/}
-UI_20150317_000385	{s16}Would you like to join the mini-games?
+UI_20150317_000385	{s16}Would you like to join the mini-game?
 UI_20150317_000386	{s16}Participants : (0/5)
 UI_20150317_000387	{s16}Participants : (%s /%s)
-UI_20150317_000388	{s16}The game will start after 1 second.
+UI_20150317_000388	{s16}The game starts after 1 second.
 UI_20150317_000389	{s16}The game starts after %s seconds.
 UI_20150317_000390	{@st59}Zoom in{/}
 UI_20150317_000391	{@st59}Zoom out{/}
@@ -434,7 +434,7 @@ UI_20150317_000433	Tool for making minimap
 UI_20150317_000434	Dialogue tool
 UI_20150317_000435	{@st43}GM Settings{/}
 UI_20150317_000436	{@st59}Close Party Information{/}
-UI_20150317_000437	{@st59b} Party Information {nl} {@st59s} - Press Create Party button at the bottom to create your own party {nl} - Right-click on the other players to invite {nl} - Change party settings through settings tab {nl} - Apply conditions to search for party members from Public Party List {/}
+UI_20150317_000437	{@st59b} Party Information {nl} {@st59s} - Press Create Party button at the bottom to create a party {nl} - Right-click on other players to invite {nl} - Change party settings through the settings tab {nl} - Apply conditions to search for party members from Public Party List {/}
 UI_20150317_000438	{@st43}Party Information{/}
 UI_20150317_000439	{@st41b}Members{/}
 UI_20150317_000440	{@st41b} Party Event {/}
@@ -505,7 +505,7 @@ UI_20150317_000504	{@st43}Object{/}
 UI_20150317_000505	{@st43}Level{/}
 UI_20150317_000506	{@st43}Funds{/}
 UI_20150317_000507	{@st43}Rate{/}
-UI_20150317_000508	{@st43}PvP Winning rate{/}
+UI_20150317_000508	{@st43}PvP Win rate{/}
 UI_20150317_000509	{@st59}Close window{/}
 UI_20150317_000510	{@sti5}Total purchase amoun t: %s{/}
 UI_20150317_000511	{@sti5}Total amount : %s{/}
@@ -574,7 +574,7 @@ UI_20150317_000573	{@st41b}Anvil
 UI_20150317_000574	{@st41}{s20}Anvil Hit Count :{@st43} %s
 UI_20150317_000575	{@st41} {s20}Price : %s
 UI_20150317_000576	{@st41b}Enhance{/}
-UI_20150317_000577	{@st59}Start item enhancement.{/}
+UI_20150317_000577	{@st59}Start item enhancement{/}
 UI_20150317_000578	{@st59}Close item enhancement{/}
 UI_20150317_000579	Are you sure you want to enhance with the selected {@st41b} {@sti9}%s ea {/} items?{/}
 UI_20150317_000580	{@st43}Enhance
@@ -604,7 +604,7 @@ UI_20150317_000603	{@st59}Do not repair{/}
 UI_20150317_000604	{@st44}Resume{/}
 UI_20150317_000605	{@st41b}You have become {/}{s20}{#cc6600}{ol} incapable of combat{/}{@st41b}{/}
 UI_20150317_000606	{@st41b}Respawn from the nearest revival point{/}
-UI_20150317_000607	{@st41b} Respawn here (%s Coins needed) {/}
+UI_20150317_000607	{@st41b} Respawn here (%s iCoins needed) {/}
 UI_20150317_000608	{@st41b}Return to field{/}
 UI_20150317_000609	{@st41b}Abandon quest and restart{/}
 UI_20150317_000610	{@st41b}Try again{/}
@@ -820,9 +820,9 @@ UI_20150317_000819	{@st42b}Skills map{/}
 UI_20150317_000820	{@st42b}List of events{/}
 UI_20150317_000821	{@st42b}Check coordinates{/}
 UI_20150317_000822	{@st42b} Check XAC, texture path{/}
-UI_20150317_000823	{@st42b}Performance ONOFF{/}
+UI_20150317_000823	{@st42b}Performance ON/OFF{/}
 UI_20150317_000824	Dialogue list
-UI_20150317_000825	Search.
+UI_20150317_000825	Search
 UI_20150317_000826	{@st41}Preview{/}
 UI_20150317_000827	{@st41}Off{/}
 UI_20150317_000828	{@st41}Remove{/}
@@ -834,8 +834,8 @@ UI_20150317_000833	{ol}List
 UI_20150317_000834	The name of the group to save
 UI_20150317_000835	{@st42}Create New{/}
 UI_20150317_000836	{@st41}Group regen{/}
-UI_20150317_000837	{@st59}Enter the name of the monster to search{/}
-UI_20150317_000838	{@st59}Enter a name of the group to save{/}
+UI_20150317_000837	{@st59}Enter monster name to search{/}
+UI_20150317_000838	{@st59}Enter group name to save{/}
 UI_20150317_000839	{@st41}New group{/}
 UI_20150317_000840	Filtering
 UI_20150317_000841	{@st59}Enter filter{/}
@@ -843,8 +843,8 @@ UI_20150317_000842	{ol}Property Value
 UI_20150317_000843	Class List
 UI_20150317_000844	Apply to XML
 UI_20150317_000845	{#FFFFFF}{ds}Log
-UI_20150317_000846	{#FFFFFF}{ds}Vew all properties
-UI_20150317_000847	Enter search word.
+UI_20150317_000846	{#FFFFFF}{ds}View all properties
+UI_20150317_000847	Enter search word
 UI_20150317_000848	All attribute values
 UI_20150317_000849	{ol}Name
 UI_20150317_000850	{ol}Value
@@ -862,7 +862,7 @@ UI_20150317_000861	Check All
 UI_20150317_000862	History
 UI_20150317_000863	Rollback Value
 UI_20150317_000864	{ol}Select item
-UI_20150317_000865	Enter the name you want to search.
+UI_20150317_000865	Enter the name you want to search
 UI_20150317_000866	{@st42} OK {/}
 UI_20150317_000867	{@st41}Create UI{/}
 UI_20150317_000868	{ol}Frame
@@ -890,9 +890,9 @@ UI_20150317_000889	{@st42b}Skill name{/}
 UI_20150317_000890	{@st41}Monster list{/}
 UI_20150317_000891	{@st41}Performance Manager{/}
 UI_20150317_000892	{ol}Select Quest
-UI_20150317_000893	Enter the name of quest to search
+UI_20150317_000893	Enter quest name to search
 UI_20150317_000894	{ol}Select map
-UI_20150317_000895	Enter the name of the map you want to search.
+UI_20150317_000895	Enter map name to search
 UI_20150317_000896	{@st42}Current map{/}
 UI_20150317_000897	{ol}Map name
 UI_20150317_000898	{ol}Coordinates
@@ -989,7 +989,7 @@ UI_20150317_000988	{@st59}Wizard{/}
 UI_20150317_000989	{@st59}Archer{/}
 UI_20150317_000990	{@st59}Cleric{/}
 UI_20150317_000991	{@St41b}Barrack Visit{/}
-UI_20150317_000992	{@St59}Visit the Barrack of other player.{/}
+UI_20150317_000992	{@St59}Visit the Barrack of other player{/}
 UI_20150317_000993	{@St41b}Logout{/}
 UI_20150317_000994	{@St59}Move to login screen{/}
 UI_20150317_000995	{@St41b}Exit Game{/}
@@ -1000,7 +1000,7 @@ UI_20150317_000999	{@St59}Start game with selected character{/}
 UI_20150317_001000	{@St43}{s26}Team Name{/}
 UI_20150317_001001	{@st59}Team Name{/}
 UI_20150317_001002	{@st41b}Change Team Name{/}
-UI_20150317_001003	{@st59} Change you team name{/}
+UI_20150317_001003	{@st59} Change your team name{/}
 UI_20150317_001004	{@St41}Companion{/}
 UI_20150317_001005	Chat Drag
 UI_20150317_001006	{@St44}New Dialog Name{/}
@@ -1008,7 +1008,7 @@ UI_20150317_001007	{@St42}Change{/}
 UI_20150317_001008	{@St44}New Window Name{/}
 UI_20150317_001009	{@St43}{s40}{gr gradation4}Character Creation{/}
 UI_20150317_001010	{@St59}Create a character{/}
-UI_20150317_001011	{@St59}Cancel creating new character{/}
+UI_20150317_001011	{@St59}Cancel character creation{/}
 UI_20150317_001012	{@St59}Close the menu of input team name{/}
 UI_20150317_001013	{@St59}Create a team with the name entered{/}
 UI_20150317_001014	{@St43}{s30}{#f0dcaa}Enter your Team Name!
@@ -1022,7 +1022,7 @@ UI_20150317_001021	{@st59}Enter your Account ID{/}
 UI_20150317_001022	Password
 UI_20150317_001023	{@St59}Enter your password{/}
 UI_20150317_001024	{@St43}Enter{/}
-UI_20150317_001025	{@St59}Connect to the selected server{/}
+UI_20150317_001025	{@St59}Connect to selected server{/}
 UI_20150317_001026	{@st41b}Replay{/}
 UI_20150317_001027	{@st41b}Single Mode{/}
 UI_20150317_001028	{@St41b}Exit Game{/}
@@ -1083,7 +1083,7 @@ UI_20150317_001082	Fire Swords
 UI_20150317_001083	For adenomas hwageuk
 UI_20150317_001084	Puncture sex
 UI_20150317_001085	Yeonhwagyo
-UI_20150317_001086	{S16}Gender and Apperance
+UI_20150317_001086	{S16}Gender and Appearance
 UI_20150317_001087	Male
 UI_20150317_001088	Female
 UI_20150317_001089	Hair Adjustment
@@ -1100,10 +1100,10 @@ UI_20150317_001099	{S14} Hand and Foot size
 UI_20150317_001100	{S14} Chest Size
 UI_20150317_001101	{S14} Waist Size
 UI_20150317_001102	{S14} Pelvic Size
-UI_20150317_001103	Value of Pre-setup
-UI_20150317_001104	Value of Random setup
+UI_20150317_001103	Use Pre-set
+UI_20150317_001104	Randomize
 UI_20150317_001105	Create New Character
-UI_20150317_001106	Cancel Create Character
+UI_20150317_001106	Cancel Character Creation
 UI_20150317_001107	{@St43}{s40}{gr gradation4}Game Start{/}
 UI_20150317_001108	{@St43}{s40}{gr gradation4}Preview End{/}
 UI_20150317_001109	{@St43}{s40}{gr gradation4}Return to the zone{/}
@@ -1136,8 +1136,8 @@ UI_20150317_001135	Not reinforce
 UI_20150317_001136	N/A
 UI_20150317_001137	Item Name
 UI_20150317_001138	N/A
-UI_20150317_001139	More than a few level
-UI_20150317_001140	Everyone can equipe
+UI_20150317_001139	More than a few levels
+UI_20150317_001140	Everyone can equip
 UI_20150317_001141	Max Socket %s ea
 UI_20150317_001142	Item Name
 UI_20150317_001143	Price of Shop Sell : %s Silver
@@ -1152,7 +1152,7 @@ UI_20150317_001151	{@St18}Average{/}
 UI_20150317_001152	{@St42b}{s18}Workmanship{/}
 UI_20150317_001153	{@St55_c}Item Name
 UI_20150317_001154	{@St55_c}Memo Records
-UI_20150317_001155	{@St59}Enter the name. If you do not enter the name, A default name will be made.{/}
+UI_20150317_001155	{@St59}Enter the name. If you do not enter a name, a default name will be used.{/}
 UI_20150317_001156	{@St59}Enter the memo{/}
 UI_20150317_001157	{@St43}Produce items
 UI_20150317_001158	{@st42b}%s points {/}
@@ -1162,7 +1162,7 @@ UI_20150317_001161	{@st42b}%s dog {/}
 UI_20150317_001162	{S16}{ol}per price
 UI_20150317_001163	Total Price : 1
 UI_20150317_001164	{@St41}Help
-UI_20150317_001165	{@St41}Description of the photo
+UI_20150317_001165	{@St41}Photo Description
 UI_20150317_001166	{@St41}Registration
 UI_20150317_001167	{@St41}Name
 UI_20150317_001168	{@St41}Message
@@ -1239,7 +1239,7 @@ UI_20150317_001238	{@st59}Ring2{/}
 UI_20150317_001239	Pet Name
 UI_20150317_001240	Chandler bundle
 UI_20150317_001241	West forest ..etc..
-UI_20150317_001242	Consume Coins
+UI_20150317_001242	Consume iCoins
 UI_20150317_001243	Category Name
 UI_20150317_001244	This is a Help
 UI_20150317_001245	{@Sti7}%s Points{/}
@@ -1258,12 +1258,12 @@ UI_20150317_001257	Relationship with the %s
 UI_20150317_001258	{#FFFF33}%s{/} is invited to a friend{/}
 UI_20150317_001259	{@St41b}Accept
 UI_20150317_001260	{@St41b}Refusal
-UI_20150317_001261	{@St53b}It is loading your friends list.
+UI_20150317_001261	{@St53b}Loading your friends list..
 UI_20150317_001262	Level %s{/}
 UI_20150317_001263	{@st41} Cancel
 UI_20150317_001264	Please register the buff to sell.
 UI_20150317_001265	Price : %s{/}
-UI_20150317_001266	Then remaining number
+UI_20150317_001266	The remaining number
 UI_20150317_001267	{@St41}Purchase
 UI_20150317_001268	Remaining number:%s {/}
 UI_20150317_001269	{@St41}Item{/}
@@ -1329,7 +1329,7 @@ UI_20150323_001328	{@st41b}Settings
 UI_20150323_001329	Price per item
 UI_20150323_001330	{@st41b}Material List
 UI_20150323_001331	{@st43}Gem Roasting{/}
-UI_20150323_001332	{@st59}Clsoe UI{/}
+UI_20150323_001332	{@st59}Close UI{/}
 UI_20150323_001333	{@st41b}Repair{/}
 UI_20150323_001334	{@st41b}Log{/}
 UI_20150323_001335	Price to receive
@@ -1348,24 +1348,24 @@ UI_20150323_001347	{@st41}No. of players to enter
 UI_20150323_001348	{@st43}Item upgrade dungeon
 UI_20150323_001349	{@st41}Materials Required
 UI_20150323_001350	{@st59}Materials Required{/}
-UI_20150323_001351	Suggested Levvel : %s
+UI_20150323_001351	Suggested Level : %s
 UI_20150323_001352	{@st43}UI Select Mode{/}
 UI_20150323_001353	{@st43}Buy-in Shop
 UI_20150323_001354	Shop Name
 UI_20150323_001355	{@st41b}Open Shop
 UI_20150323_001356	{@st59}Start Buy-in Shop{/}
-UI_20150323_001357	{@st59}Cacel{/}
+UI_20150323_001357	{@st59}Cancel{/}
 UI_20150323_001358	{@st59}Close Buy-in Shop{/}
 UI_20150323_001359	Request Buy-in
 UI_20150323_001360	{@st59}Close Buy-in Shop
 UI_20150323_001361	{@st59}Buy-in Shop{nl} - Trade your items for silver
-UI_20150323_001362	{@st43}Items the buyer want{/}
+UI_20150323_001362	{@st43}Items the buyer wants{/}
 UI_20150323_001363	{@st43}Items for sale
 UI_20150323_001364	{@st43}Total Profit
 UI_20150323_001365	{@st41}Sell
 UI_20150323_001366	{@st41}Alchemy Materials
 UI_20150323_001367	{@st41}For Alchemy {@stx1}(%s required){/}
-UI_20150323_001368	{@st59}Summon Pet.{/}
+UI_20150323_001368	{@st59}Summon Pet{/}
 UI_20150323_001369	{@st41b}Character{/}
 UI_20150323_001370	{@st59}Grimore{/}
 UI_20150323_001371	{@st41b}Apply Bloom{/}
@@ -1375,15 +1375,15 @@ UI_20150323_001374	{@st41b}Apply GLOW{/}
 UI_20150323_001375	{@st41b}Apply Depth {/}
 UI_20150323_001376	{@st41b}Apply SoftParticle{/}
 UI_20150323_001377	{@st43}Personal Storage{/}
-UI_20150323_001378	{@st59}Close Personal Storage.{/}
-UI_20150323_001379	{@sti6}Storing and taking item from strorage costs %s silver..{/}
+UI_20150323_001378	{@st59}Close Personal Storage{/}
+UI_20150323_001379	{@sti6}Storing and taking item from storage costs %s silver..{/}
 UI_20150323_001380	{@st59}Alt+Z to change weapons{/}
 UI_20150323_001381	{@st59}Save Lodge Settings{/}
 UI_20150323_001382	Change Lodge
 UI_20150323_001383	{@st59}Close Change Lodge window
 UI_20150323_001384	{@st59}Change Lodge{nl} - Change Lodge to change map and expand slots.
 UI_20150323_001385	{@st41}Cancel Preview
-UI_20150323_001386	{@st46}My Coins : %s{/}
+UI_20150323_001386	{@st46}My iCoins : %s{/}
 UI_20150323_001387	{@st41b}Change Lodge{/}
 UI_20150323_001388	{@st59}Decorate Lodge{/}
 UI_20150323_001389	{@st41b}Lodge Settings{/}
@@ -1402,7 +1402,7 @@ UI_20150323_001401	{@st41}Eat
 UI_20150323_001402	{@st41}Craft
 UI_20150323_001403	{@st41}Craft Qty
 UI_20150323_001404	{@st41}Consume Materials
-UI_20150401_001405	{@st59}CLsoe Briquetting{/}
+UI_20150401_001405	{@st59}Close Briquetting{/}
 UI_20150401_001406	{@st41}Disband Basecamp
 UI_20150401_001407	{@st43}[%s Circle]{/}
 UI_20150401_001408	{@st43}Skill{/}
@@ -1413,16 +1413,16 @@ UI_20150401_001412	{@st41}Disband table
 UI_20150401_001413	{@st43}Tincturing{/}
 UI_20150401_001414	Joystick Quick Slot
 UI_20150401_001415	{@st42}{#ffff00}Keyboard Mode{/}
-UI_20150401_001416	{@st43}Open offerings box
+UI_20150401_001416	{@st43}Open Offerings Box
 UI_20150401_001417	{@st41b}Open
-UI_20150401_001418	{@st41b}Offering box
-UI_20150401_001419	{@st41}Offerings box name
+UI_20150401_001418	{@st41b}Offering Box
+UI_20150401_001419	{@st41}Offerings Box name
 UI_20150401_001420	Price paid
 UI_20150401_001421	Estimated profit
 UI_20150401_001422	Funds
-UI_20150401_001423	{@st45tw}Offering box item details
+UI_20150401_001423	{@st45tw}Offering Box item details
 UI_20150401_001424	{@st41}Sell All
-UI_20150401_001425	{@st43}Offerings box
+UI_20150401_001425	{@st43}Offerings Box
 UI_20150401_001426	Give offerings
 UI_20150401_001427	Settle Transaction
 UI_20150401_001428	Estimated Balance
@@ -1470,14 +1470,14 @@ UI_20150406_001469	{@st41b}Details of item offering
 UI_20150406_001470	{@st59}Close Buy-in Shop
 UI_20150406_001471	{@st59b}Buy-in Shop{nl}{@st59s} - Trade items for silver
 UI_20150406_001472	{@st41b}Client's item request{/}
-UI_20150406_001473	{@st41b}Registered iem for sale{/}
+UI_20150406_001473	{@st41b}Registered item for sale{/}
 UI_20150406_001474	{@st41b}Total income
 UI_20150406_001475	{@st41b}Sell
 UI_20150406_001476	{@st59}Sell registered item{/}
 UI_20150406_001477	{@st59}Close Personal Storage{/}
 UI_20150406_001478	{@st41b} %s silver is consumed when storing and taking items from Storage.{/}
 UI_20150406_001479	{@st41b}Qty.
-UI_20150414_001480	{@st42b}Camp duration is increased when reset.{nl} Costs %s silver .
+UI_20150414_001480	{@st42b}Camp duration is increased when reset.{nl} Costs %s silver.
 UI_20150414_001481	{@st41b}Type {@sti7}%s{/}
 UI_20150414_001482	{@st41b}Control Difficulty {@sti7}%s{/}
 UI_20150414_001483	{@st59b} Item {/}
@@ -1499,9 +1499,9 @@ UI_20150428_001498	{@st43}Buy-in Shop{/}
 UI_20150428_001499	{@st41b}Close
 UI_20150428_001500	{@st41b}Bug Report
 UI_20150428_001501	{@st59}Notify about problem{/}
-UI_20150428_001502	You game play screen until now will be sent when you make a bug report. The replay file will be of much help in fixing the bug. Do you wish to send it?
+UI_20150428_001502	Your game play until now will be sent when you make a bug report. The replay file will be of much help in fixing the bug. Do you wish to send it?
 UI_20150428_001503	{@st41b}Bug description :{/}
-UI_20150428_001504	{@st41b}Entering bug desciption is not a requirement but it will help us a lot in analyzing the bug.
+UI_20150428_001504	{@st41b}Entering bug desciption is not a requirement, but it will help us a lot in analyzing the bug.
 UI_20150428_001505	{@st41b}Send
 UI_20150428_001506	{@st42}{s14}{#ffff00}Fix Target{/}
 UI_20150428_001507	{@st59}Fix target regardless of distance or direction
@@ -1509,7 +1509,7 @@ UI_20150428_001508	Party match found!
 UI_20150428_001509	Joystick Rest Quickslot
 UI_20150428_001510	{@st41b}Rest Mode
 UI_20150428_001511	Joypad Tutorial
-UI_20150428_001512	{@st59}Close Joypad tutorial.(M){/}
+UI_20150428_001512	{@st59}Close Joypad Tutorial(M){/}
 UI_20150428_001513	Keyboard Tutorial
 UI_20150428_001514	{@st44}Logout{/}
 UI_20150428_001515	{@st41b}Leave Helper(Need %s NXP){/}
@@ -1529,7 +1529,7 @@ UI_20150428_001528	{@st41}Desired Class Type{/}
 UI_20150428_001529	{@st41b}Leave Party
 UI_20150428_001530	{@st59}Search by party description{/}
 UI_20150428_001531	{s18}{ol}{gr gradation1}Helper Rules{/}
-UI_20150428_001532	{@st59}Proceed manufacturing.{/}
+UI_20150428_001532	{@st59}Proceed manufacturing{/}
 UI_20150428_001533	{@st45ty}Hair Color
 UI_20150428_001534	{@st45ty}Title Available
 UI_20150428_001535	{@st41_yellow}Helper Skill
@@ -1561,7 +1561,7 @@ UI_20150714_001560	Adventure Rank{#ffff00}%s{/} ({#ffff00}%s{/} ranking)
 UI_20150714_001561	{@st66b}Like!
 UI_20150714_001562	I like this character {#ffff00}%s{/}
 UI_20150714_001563	{@st41b}Disband Foold Distribution Counter
-UI_20150714_001564	{@st42}My summon skill
+UI_20150714_001564	{@st42}My Summon Skill
 UI_20150714_001565	{@st42}Stat
 UI_20150714_001566	{@st42}Current Location : %s{/}
 UI_20150714_001567	{@st59b}Equipments {nl}{@st59s} - Hair/Costume : Change character looks {nl} - Weapons : One-hand or two-hand weapons {nl} (sub-weapon/shield can be used with one-hand weapon) {nl} - Armor : Top, Pants, Gloves, Shoes {nl} - Accessories : 1 Necklace and 2 Bracelets {nl} {/}
@@ -1580,8 +1580,8 @@ UI_20150714_001579	>>More Views..
 UI_20150714_001580	%s (%s Rank)
 UI_20150714_001581	Job Name
 UI_20150714_001582	{@st41b}Invite
-UI_20150714_001583	{@st41}If you want to use the Joypad or Mouse, you can select it from the game setting in system menu.{nl}
-UI_20150714_001584	When you meet character matching your party conditions, {nl}[Party match found!] notice will be shown.{nl}You will also be recommended to other parties.
+UI_20150714_001583	{@st41}If you want to use the Joypad or Mouse, you can select it from game settings in the system menu.{nl}
+UI_20150714_001584	When you meet a character matching your party conditions, {nl}[Party match found!] notice will be shown.{nl}You will also be recommended to other parties.
 UI_20150714_001585	{@st42}Play Style{/}
 UI_20150714_001586	{@st42}Level Difference{/}
 UI_20150714_001587	Any
@@ -1644,7 +1644,7 @@ UI_20150714_001643	{@st66b}Don't Use{/}
 UI_20150714_001644	{@st66b}Apply Bloom{/}
 UI_20150714_001645	{@st66b}Apply Vignette{/}
 UI_20150714_001646	{@st66b}Apply FXAA{/}
-UI_20150714_001647	{@st66b}Apply GLOW{/}
+UI_20150714_001647	{@st66b}Apply Glow{/}
 UI_20150714_001648	{@st66b}Apply Depth{/}
 UI_20150714_001649	{@st66b}Apply Soft Particle{/}
 UI_20150714_001650	{@st66b}Apply High Texture {/}
@@ -1679,7 +1679,7 @@ UI_20150714_001678	Looking Party Player : {#2c140c}%s{/}
 UI_20150714_001679	Quest Share : {#2c140c}%s{/}
 UI_20150714_001680	EXP Distribution Rule : {#2c140c}%s{/}
 UI_20150714_001681	Item Distribution Rule : {#2c140c}%s{/}
-UI_20150714_001682	Did you have good time with party?
+UI_20150714_001682	Did you have a good time with the party?
 UI_20150714_001683	{@st42} obtained %s by %s
 UI_20150714_001684	{@st42} enhanced %s by%s
 UI_20150714_001685	Memo :%s
@@ -1720,7 +1720,7 @@ UI_20150717_001719	{@st41b}Receive Recommendation
 UI_20150717_001720	This can only be used by party leaders.
 UI_20150717_001721	You must use the Party Member Recommendation function.
 UI_20150717_001722	{@st66b}Quest Class Name{/}
-UI_20150717_001723	{@st59b}Shop{nl}{@st59s} - Use Shift + Right-click and enter quantity to buy/sell multiple items{nl} - Right-click twice to sell all the item{/}
+UI_20150717_001723	{@st59b}Shop{nl}{@st59s} - Use Shift + Right-click and enter quantity to buy/sell multiple items{nl} - Right-click twice to sell all the items{/}
 UI_20150717_001724	{@st59}Mouse Info{/}
 UI_20150717_001725	{@st66b}Arrange
 UI_20150717_001726	{@st59}Arrange items.{/}
@@ -1735,20 +1735,20 @@ UI_20150729_001734	Leg Count
 UI_20150729_001735	Height
 UI_20150729_001736	Weight
 UI_20150729_001737	{@st43}Gem Roasting{/}
-UI_20150729_001738	{@st59b}Item Crafting{nl}{@st59s} - You can craft items using its recipes{nl} - Place the recipe and materials on the slot then craft{nl} - You can attach name and memo on the item{/}
+UI_20150729_001738	{@st59b}Item Crafting{nl}{@st59s} - You can craft items using its recipes{nl} - Place the recipe and materials on the slot then craft{nl} - You can attach a name and memo to the item{/}
 UI_20150729_001739	{@st59}Close Arrow Crafting.{/}
 UI_20150729_001740	Fragments needed : Mutant %s / Beast %s / Plant %s
 UI_20150729_001741	{@st42b}Swordsman types can run by double tapping directional key.{/}
 UI_20150729_001742	{@st41}Party Settings
 UI_20150729_001743	{@st41}Party Gathering Settings
 UI_20150729_001744	{@st42}User Party Search Function{/}
-UI_20150729_001745	If there is a player matching your conditions, [Patry condition matched!] message will be shown.
+UI_20150729_001745	If there is a player matching your conditions, [Party condition matched!] message will be shown.
 UI_20150729_001746	{@st41b}Recommended Player List{/}
 UI_20150729_001747	{@st41}Attribute Information
 UI_20150729_001748	{@st59}Cancel Enhancement{/}
 UI_20150729_001749	{@st59b}Gem/Card Enhancement{nl}{@st59s} - Select Gem or Card to enhance from your inventory{nl} - All items except quest items can be used as materials{nl} (Most effective when using Gem as material){nl} - Card can only be enhanced by using other cards{/}
 UI_20150729_001750	{#000000}{s22}Waiting to enter server..
-UI_20150729_001751	{#000000}{s22}Server full. Queing for entry.
+UI_20150729_001751	{#000000}{s22}Server full. Queueing for entry.
 UI_20150729_001752	{#000000}{s22}Current Rank : %s
 UI_20150729_001753	{@st43}Team Battle League
 UI_20150729_001754	{@st59}Close Team Battle League
@@ -1758,7 +1758,7 @@ UI_20150729_001757	{@st59}Close Team Battle League Rankings
 UI_20150729_001758	Team Name
 UI_20150729_001759	{@st41b}Skill Name
 UI_20150729_001760	{@st59}Accept Party Mission{/}
-UI_20150729_001761	{@st59}Delete this ticket.{/}
+UI_20150729_001761	{@st59}Delete this Ticket{/}
 UI_20150729_001762	Score
 UI_20150729_001763	Join Team Battle League
 UI_20150730_001764	{@st56}My Rank
