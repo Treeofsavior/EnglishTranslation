@@ -207,19 +207,19 @@ UI_20150317_000206	{@st49}Select{/}
 UI_20150317_000207	{@st49}Cancel{/}
 UI_20150317_000208	{@st49}Delete{/}
 UI_20150317_000209	Enter the name of the file to save.
-UI_20150317_000210	{@st43}Buddy
-UI_20150317_000211	{@st59}Close Buddy List{/}
-UI_20150317_000212	{@st59b}Buddy{nl} {@st59s} - Become buddies with other players in the game. {nl} - Go to the Buddy List tab to check the status on your buddies. {nl} - In the Manage tab, you can invite, decline, block and perform other actions related to your buddies. {/}
-UI_20150317_000213	{@st41b}Show online buddies{/}
+UI_20150317_000210	{@st43}Friend
+UI_20150317_000211	{@st59}Close Friend List{/}
+UI_20150317_000212	{@st59b} Friend {nl} {@st59s} - Make friends with other players {nl} - Check the status of your friends in List tab {nl} - Check invite, reject, block in Manage tab {/}
+UI_20150317_000213	{@st41b}Show online friends only{/}
 UI_20150317_000214	{@st41b}List
 UI_20150317_000215	{@st41b}Manage
-UI_20150317_000216	{@st41b}Send Buddy Request
+UI_20150317_000216	{@st41b}Send Friend Request
 UI_20150317_000217	{@st41b}Block
 UI_20150317_000218	{@st59}Search{/}
 UI_20150317_000219	{@st44}Guild{/}
 UI_20150317_000220	Guild
 UI_20150317_000221	List
-UI_20150317_000222	New Announcement
+UI_20150317_000222	News
 UI_20150317_000223	Guild Mission
 UI_20150317_000224	Members Online
 UI_20150317_000225	{@st44}Create Guild{/}
@@ -361,7 +361,7 @@ UI_20150317_000360	{@st42b}Req. Level{/}
 UI_20150317_000361	{@st42b}Enhanced level{/}
 UI_20150317_000362	{@st42b}Name
 UI_20150317_000363	{@st41b}Item Cabinet%s
-UI_20150317_000364	{@st41b}Selling List
+UI_20150317_000364	{@st41b}Sell
 UI_20150317_000365	{@st41b}Search
 UI_20150317_000366	{@st59}Close the Market window{/}
 UI_20150317_000367	{@st42b} Show order
@@ -518,7 +518,7 @@ UI_20150317_000517	{@st41}Combination
 UI_20150317_000518	{@st43}Quest{/}
 UI_20150317_000519	Quest {@st59b} {nl}{@st59s}- Register to quest notice when there is a new quest {nl} - Yellow for main quest, Blue for sub-quest {nl} - The arrow on the character's foot leads to quest location {nl} - 'Return' icon is displayed when the quest is complete {nl}    (teleport to quest NPC using backspace or mouse click) {nl} - Check the box in front of the quest name to add/remove from the quest notice {/}
 UI_20150317_000520	{@st41b}In Progress{/}
-UI_20150317_000521	{@st41b}Forfeit{/}
+UI_20150317_000521	{@st41b}Abandon{/}
 UI_20150317_000522	{@st43}{s22}Quest Information{/}
 UI_20150317_000523	Mission Complete
 UI_20150317_000524	{@st41}Complete{/}
@@ -573,7 +573,7 @@ UI_20150317_000572	{@st41b}Item to enhance
 UI_20150317_000573	{@st41b}Anvil
 UI_20150317_000574	{@st41}{s20}Anvil Hit Count :{@st43} %s
 UI_20150317_000575	{@st41} {s20}Price : %s
-UI_20150317_000576	{@st41b}Enhancement{/}
+UI_20150317_000576	{@st41b}Enhance{/}
 UI_20150317_000577	{@st59}Start item enhancement.{/}
 UI_20150317_000578	{@st59}Close item enhancement{/}
 UI_20150317_000579	Are you sure you want to enhance with the selected {@st41b} {@sti9}%s ea {/} items?{/}
@@ -705,17 +705,17 @@ UI_20150317_000704	{s20}{#050505}Describe whatever
 UI_20150317_000705	{@st41} All {/}
 UI_20150317_000706	{@st41} Party {/}
 UI_20150317_000707	{@st41} Monster {/}
-UI_20150317_000708	{@st41b}{#f0dcaa}Remaining Ability Points ▶ {@st46}%s
-UI_20150317_000709	{@st59b}My Information{nl}{@st59s}- Ability : By leveling up, you can earn points that you can use to enhance the 5 available abilities to become more powerful.. {nl}- Information : Character info based on current status and equipment {nl}- Title : Can be earned by accomplishing Achievements {nl} {/}
+UI_20150317_000708	{@st41b}{#f0dcaa}Remaining Status Points ▶ {@st46}%s
+UI_20150317_000709	{@st59b}My Information{nl}{@st59s}- Status : Earn points by level up and use it to enhance 5 abilities. {nl}- Information : Character info based on current status and equipment {nl}- Title : Can be earned by accomplishing Achievements {nl} {/}
 UI_20150317_000710	{@st41b}Info{/}
 UI_20150317_000711	{@st41b}Title{/}
 UI_20150317_000712	Show Class
 UI_20150317_000713	Show Character Name
 UI_20150317_000714	{@st59}Change character name{/}
 UI_20150317_000715	{@st41b}Apply
-UI_20150317_000716	{@st59}Apply Ability allocation{/}
+UI_20150317_000716	{@st59}Apply status allocation{/}
 UI_20150317_000717	{@st41b}Cancel
-UI_20150317_000718	{@st59}Cancel Ability allocation{/}
+UI_20150317_000718	{@st59}Cancel status allocation{/}
 UI_20150317_000719	PC Name
 UI_20150317_000720	{@st41_yellow}Level: {@st41}%s{/}
 UI_20150317_000721	{@st41_yellow}Mercenary skills
@@ -729,7 +729,7 @@ UI_20150317_000728	{@st59}Class and Skill (F3){/}
 UI_20150317_000729	{@st59}Adventure Journal (F4){/}
 UI_20150317_000730	{@st59}Quest (F5){/}
 UI_20150317_000731	{@st59}Party (F6){/}
-UI_20150317_000732	{@st59}Buddy (F7){/}
+UI_20150317_000732	{@st59}Friend (F7){/}
 UI_20150317_000733	{@st59} Macro (F8) {/}
 UI_20150317_000734	{@st59} Companion (F9) {/}
 UI_20150317_000735	{@st59} Help (F10) {/}
@@ -1258,7 +1258,7 @@ UI_20150317_001257	Relationship with the %s
 UI_20150317_001258	{#FFFF33}%s{/} is invited to become a buddy{/}
 UI_20150317_001259	{@St41b}Accept
 UI_20150317_001260	{@St41b}Decline
-UI_20150317_001261	{@St53b}Loading buddy list.
+UI_20150317_001261	{@St53b}Loading Friend list.
 UI_20150317_001262	Level %s{/}
 UI_20150317_001263	{@st41} Cancel
 UI_20150317_001264	Please register the buff to sell.
@@ -1623,7 +1623,7 @@ UI_20150714_001622	{@st43}Simoni
 UI_20150714_001623	{@st59}Increase skills{/}
 UI_20150714_001624	{@st59}Close Skills and Attribute{/}
 UI_20150714_001625	{@st43}Skills and Attributes{/}
-UI_20150714_001626	Remaining Ability Points {nl}{@st46}%s
+UI_20150714_001626	Remaining Status Points {nl}{@st46}%s
 UI_20150714_001627	Likes Received! : %s
 UI_20150714_001628	{@st66b}Show EXP acquired{/}
 UI_20150714_001629	{@st66b}Show Character Name{/}
@@ -1648,8 +1648,8 @@ UI_20150714_001647	{@st66b}Apply GLOW{/}
 UI_20150714_001648	{@st66b}Apply Depth{/}
 UI_20150714_001649	{@st66b}Apply Soft Particle{/}
 UI_20150714_001650	{@st66b}Apply High Texture {/}
-UI_20150714_001651	{@st66b}VSync On{/}
-UI_20150714_001652	{@st66b}VSync Off{/}
+UI_20150714_001651	{@st66b}Vertical Sync On{/}
+UI_20150714_001652	{@st66b}Vertical Sync Off{/}
 UI_20150714_001653	{@st66b} %s silver is consumed when storing and taking items from Storage.{/}
 UI_20150714_001654	%s like me
 UI_20150714_001655	{@st41}Watch
