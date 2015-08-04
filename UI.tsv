@@ -1,6 +1,6 @@
 ﻿UI_20150317_000001	{@st41b}Learn Attributes{nl}from Masters of each class.{/}
-UI_20150317_000002	{@st43}List {/}
-UI_20150317_000003	{@st59}Close {/}
+UI_20150317_000002	{@st43}Attributes List{/}
+UI_20150317_000003	{@st59}Close the Attributes List {/}
 UI_20150317_000004	{@st43}Learn Attributes{/}
 UI_20150317_000005	{@st59}Close Attributes window{/}
 UI_20150317_000006	{@st41b}Funds{/}
@@ -200,20 +200,20 @@ UI_20150317_000199	{s20}{ol}The game starts after %s seconds.
 UI_20150317_000200	Do not show this today anymore.
 UI_20150317_000201	Do not show Field Events.
 UI_20150317_000202	Join Game
-UI_20150317_000203	Start game with other players.
+UI_20150317_000203	Start a game with other players.
 UI_20150317_000204	Decline game invite.
 UI_20150317_000205	Spray Presets
 UI_20150317_000206	{@st49}Select{/}
 UI_20150317_000207	{@st49}Cancel{/}
 UI_20150317_000208	{@st49}Delete{/}
 UI_20150317_000209	Enter the name of the file to save.
-UI_20150317_000210	{@st43}Friend
-UI_20150317_000211	{@st59}Close Friend List{/}
-UI_20150317_000212	{@st59b} Friend {nl} {@st59s} - Make friends with other players {nl} - Check the status of your friends in List tab {nl} - Check invite, reject, block in Manage tab {/}
-UI_20150317_000213	{@st41b}Show online friends only{/}
+UI_20150317_000210	{@st43}Buddy
+UI_20150317_000211	{@st59}Close Buddy List{/}
+UI_20150317_000212	{@st59b}Buddy{nl} {@st59s} - Become buddies with other players in the game. {nl} - Go to the Buddy List tab to check the status on your buddies. {nl} - In the Manage tab, you can invite, decline, block and perform other actions related to your buddies. {/}
+UI_20150317_000213	{@st41b}Show online buddies{/}
 UI_20150317_000214	{@st41b}List
 UI_20150317_000215	{@st41b}Manage
-UI_20150317_000216	{@st41b}Send Friend Request
+UI_20150317_000216	{@st41b}Send Buddy Request
 UI_20150317_000217	{@st41b}Block
 UI_20150317_000218	{@st59}Search{/}
 UI_20150317_000219	{@st44}Guild{/}
@@ -361,7 +361,7 @@ UI_20150317_000360	{@st42b}Req. Level{/}
 UI_20150317_000361	{@st42b}Enhanced level{/}
 UI_20150317_000362	{@st42b}Name
 UI_20150317_000363	{@st41b}Item Cabinet%s
-UI_20150317_000364	{@st41b}Sell
+UI_20150317_000364	{@st41b}Selling List
 UI_20150317_000365	{@st41b}Search
 UI_20150317_000366	{@st59}Close the Market window{/}
 UI_20150317_000367	{@st42b} Show order
@@ -421,7 +421,7 @@ UI_20150317_000420	Parts 1
 UI_20150317_000421	Parts 2
 UI_20150317_000422	Parts 3
 UI_20150317_000423	Congratulations! Your level has increased.
-UI_20150317_000424	Items Alarm
+UI_20150317_000424	Item Alarm
 UI_20150317_000425	{@st64}Details{/}
 UI_20150317_000426	How to Play
 UI_20150317_000427	{@st42b}      Move character up, down, left, right{/}
@@ -518,7 +518,7 @@ UI_20150317_000517	{@st41}Combination
 UI_20150317_000518	{@st43}Quest{/}
 UI_20150317_000519	Quest {@st59b} {nl}{@st59s}- Register to quest notice when there is a new quest {nl} - Yellow for main quest, Blue for sub-quest {nl} - The arrow on the character's foot leads to quest location {nl} - 'Return' icon is displayed when the quest is complete {nl}    (teleport to quest NPC using backspace or mouse click) {nl} - Check the box in front of the quest name to add/remove from the quest notice {/}
 UI_20150317_000520	{@st41b}In Progress{/}
-UI_20150317_000521	{@st41b}Abandon{/}
+UI_20150317_000521	{@st41b}Forfeit{/}
 UI_20150317_000522	{@st43}{s22}Quest Information{/}
 UI_20150317_000523	Mission Complete
 UI_20150317_000524	{@st41}Complete{/}
@@ -539,7 +539,7 @@ UI_20150317_000538	{@st59}Expand slot {/}
 UI_20150317_000539	{@st59}Reduce slot{/}
 UI_20150317_000540	{@st59}Summon Companion.{/}
 UI_20150317_000541	{@st44}Menu{/}
-UI_20150317_000542	{@st60}Select Character{/}
+UI_20150317_000542	{@st60}Character Selection{/}
 UI_20150317_000543	{@st60}Logout{/}
 UI_20150317_000544	{@st60}Exit Game{/}
 UI_20150317_000545	{@st60}Game Settings{/}
@@ -569,7 +569,7 @@ UI_20150317_000568	{@st41}Money Money Top 100{/}
 UI_20150317_000569	{@st41}Level Up Top 100{/}
 UI_20150317_000570	{@st41b}Menu{/}
 UI_20150317_000571	{@st43}{s22}Enhance Item{/}
-UI_20150317_000572	{@st41b}Item to enhance
+UI_20150317_000572	{@st41b}Selected Item
 UI_20150317_000573	{@st41b}Anvil
 UI_20150317_000574	{@st41}{s20}Anvil Hit Count :{@st43} %s
 UI_20150317_000575	{@st41} {s20}Price : %s
@@ -579,7 +579,7 @@ UI_20150317_000578	{@st59}Close Item Enhancement{/}
 UI_20150317_000579	Are you sure you want to enhance with the selected {@st41b} {@sti9}%s ea {/} items?{/}
 UI_20150317_000580	{@st43}Enhance
 UI_20150317_000581	{@st44}Enhance Item{/}
-UI_20150317_000582	{S24}{b}{#000000}Enhancement complete!
+UI_20150317_000582	{S24}{b}{#000000}Enhancement completed!
 UI_20150317_000583	{@st41}Enhance again{/}
 UI_20150317_000584	{@st41}Close{/}
 UI_20150317_000585	{s18}{ol}{gr gradation1}Repair Equipment{/}
@@ -590,7 +590,7 @@ UI_20150317_000589	Select All
 UI_20150317_000590	{Gr gradation1}Repair{/}
 UI_20150317_000591	{@st43}Repair{/}
 UI_20150317_000592	List of items for repair
-UI_20150317_000593	{@st41b}Repair cost{/}
+UI_20150317_000593	{@st41b}Repair Cost{/}
 xUI_20150317_000594	{@st41b}After Repair{/}
 UI_20150317_000595	{@st41b}Repair equipment{/}
 UI_20150317_000596	Repair the selected equipment.
@@ -705,17 +705,17 @@ UI_20150317_000704	{s20}{#050505}Describe whatever
 UI_20150317_000705	{@st41} All {/}
 UI_20150317_000706	{@st41} Party {/}
 UI_20150317_000707	{@st41} Monster {/}
-UI_20150317_000708	{@st41b}{#f0dcaa}Remaining Status Points ▶ {@st46}%s
-UI_20150317_000709	{@st59b}My Information{nl}{@st59s}- Status : Earn points by level up and use it to enhance 5 abilities. {nl}- Information : Character info based on current status and equipment {nl}- Title : Can be earned by accomplishing Achievements {nl} {/}
+UI_20150317_000708	{@st41b}{#f0dcaa}Remaining Ability Points ▶ {@st46}%s
+UI_20150317_000709	{@st59b}My Information{nl}{@st59s}- Ability : By leveling up, you can earn points that you can use to enhance the 5 available abilities to become more powerful.. {nl}- Information : Character info based on current status and equipment {nl}- Title : Can be earned by accomplishing Achievements {nl} {/}
 UI_20150317_000710	{@st41b}Info{/}
 UI_20150317_000711	{@st41b}Title{/}
 UI_20150317_000712	Show Class
 UI_20150317_000713	Show Character Name
 UI_20150317_000714	{@st59}Change character name{/}
 UI_20150317_000715	{@st41b}Apply
-UI_20150317_000716	{@st59}Apply status allocation{/}
+UI_20150317_000716	{@st59}Apply Ability allocation{/}
 UI_20150317_000717	{@st41b}Cancel
-UI_20150317_000718	{@st59}Cancel status allocation{/}
+UI_20150317_000718	{@st59}Cancel Ability allocation{/}
 UI_20150317_000719	PC Name
 UI_20150317_000720	{@st41_yellow}Level: {@st41}%s{/}
 UI_20150317_000721	{@st41_yellow}Mercenary skills
@@ -1132,7 +1132,7 @@ UI_20150317_001131	N/A
 UI_20150317_001132	%S race
 UI_20150317_001133	N/A
 UI_20150317_001134	Untradable
-UI_20150317_001135	Not reinforce
+UI_20150317_001135	Unenhanceable
 UI_20150317_001136	N/A
 UI_20150317_001137	Item Name
 UI_20150317_001138	N/A
@@ -1192,7 +1192,7 @@ UI_20150317_001191	Item Distribution : {#FFFF00}%s{/}
 UI_20150317_001192	Distribute Randomly
 UI_20150317_001193	How do I
 UI_20150317_001194	You don't see who it is
-UI_20150317_001195	{@st41b} has been added to the adventure journal.
+UI_20150317_001195	{@st41b} has been added to the Adventure Journal.
 UI_20150317_001196	Menu Objects for Quest
 UI_20150317_001197	Categories of Quest
 UI_20150317_001198	List Objects of Quest
@@ -1248,7 +1248,7 @@ UI_20150317_001247	Clear Quest 25
 UI_20150317_001248	[Sub]Thron Forest
 UI_20150317_001249	{@St42}Equipped Item
 UI_20150317_001250	{@St44}Rank %s Class Information{/}
-UI_20150317_001251	Advancement Information
+UI_20150317_001251	Advancement Alarm
 UI_20150317_001252	Like Heart
 UI_20150317_001253	N/A
 UI_20150317_001254	%s Level
@@ -1258,7 +1258,7 @@ UI_20150317_001257	Relationship with the %s
 UI_20150317_001258	{#FFFF33}%s{/} is invited to become a Friend{/}
 UI_20150317_001259	{@St41b}Accept
 UI_20150317_001260	{@St41b}Decline
-UI_20150317_001261	{@St53b}Loading your friends list...
+UI_20150317_001261	{@St53b}Loading buddy list.
 UI_20150317_001262	Level %s{/}
 UI_20150317_001263	{@st41} Cancel
 UI_20150317_001264	Please register the buff to sell.
@@ -1395,7 +1395,7 @@ UI_20150323_001394	{@st59}Change Character Greetings{/}
 UI_20150323_001395	{@st59}Set Buy-in Shop{/}
 UI_20150323_001396	Purchast Qty. : %s{/}
 UI_20150323_001397	Search items to buy
-UI_20150323_001398	Qty.
+UI_20150323_001398	Quantity
 UI_20150323_001399	Price/ea
 UI_20150323_001400	{@sti5}%s ea{/}
 UI_20150323_001401	{@st41}Eat
@@ -1439,7 +1439,7 @@ UI_20150401_001438	{@st41b}Craft{/}
 UI_20150401_001439	{@st59}Mix mix turn and mix{/}
 UI_20150401_001440	{@st41b}Achievements{/}
 UI_20150401_001441	Hair Color
-UI_20150401_001442	Titles Available
+UI_20150401_001442	Available Titles
 UI_20150401_001443	{@st41b}Joystick UI mode{/}
 UI_20150401_001444	{@st41}{#ffffcc}Name
 UI_20150401_001445	{@st41}{#ffffcc}Price
@@ -1499,9 +1499,9 @@ UI_20150428_001498	{@st43}Buy-in Shop{/}
 UI_20150428_001499	{@st41b}Close
 UI_20150428_001500	{@st41b}Bug Report
 UI_20150428_001501	{@st59}Notify about problem{/}
-UI_20150428_001502	Your game play until now will be sent when you make a bug report. The replay file will be of much help in fixing the bug. Do you wish to send it?
+UI_20150428_001502	When you report a bug, your current gameplay screen will be sent to our server. The replay file will be of much help in resolving the bug. Do you want to send it?
 UI_20150428_001503	{@st41b}Bug description :{/}
-UI_20150428_001504	{@st41b}Entering bug desciption is not a requirement, but it will help us a lot in analyzing the bug.
+UI_20150428_001504	{@st41b}Entering a description is not mandatory, but it will help us a lot in analyzing the bug.
 UI_20150428_001505	{@st41b}Send
 UI_20150428_001506	{@st42}{s14}{#ffff00}Fix Target{/}
 UI_20150428_001507	{@st59}Fix target regardless of distance or direction
@@ -1594,7 +1594,7 @@ UI_20150714_001593	{@st42}EXP Distribution Rule
 UI_20150714_001594	Get Separately
 UI_20150714_001595	Equal Distribution
 UI_20150714_001596	Different by Level
-UI_20150714_001597	{@st42}Quest Share
+UI_20150714_001597	{@st42}Quest Sharing
 UI_20150714_001598	Disable
 UI_20150714_001599	{@st42}Register as Public Party{/}
 UI_20150714_001600	Level
@@ -1618,12 +1618,12 @@ UI_20150714_001617	{@st41b}All
 UI_20150714_001618	{@st41b}Unread Message Box
 UI_20150714_001619	{@st43}{s22}Choose a character to receive items.{/}
 UI_20150714_001620	{@st41b}Enhancement
-UI_20150714_001621	{@st66}List items for repair
+UI_20150714_001621	{@st66}Items requiring a repair
 UI_20150714_001622	{@st43}Simoni
 UI_20150714_001623	{@st59}Increase skills{/}
 UI_20150714_001624	{@st59}Close Skills and Attribute{/}
 UI_20150714_001625	{@st43}Skills and Attributes{/}
-UI_20150714_001626	Remaining Status Points {nl}{@st46}%s
+UI_20150714_001626	Remaining Ability Points {nl}{@st46}%s
 UI_20150714_001627	Likes Received! : %s
 UI_20150714_001628	{@st66b}Show EXP acquired{/}
 UI_20150714_001629	{@st66b}Show Character Name{/}
@@ -1677,8 +1677,8 @@ UI_20150714_001676	Description : {#2c140c}%s{/}
 UI_20150714_001677	Average Level : {#2c140c}%s{/}
 UI_20150714_001678	Looking Party Player : {#2c140c}%s{/}
 UI_20150714_001679	Quest Share : {#2c140c}%s{/}
-UI_20150714_001680	EXP Distribution Rule : {#2c140c}%s{/}
-UI_20150714_001681	Item Distribution Rule : {#2c140c}%s{/}
+UI_20150714_001680	EXP Distribution : {#2c140c}%s{/}
+UI_20150714_001681	Item Distribution : {#2c140c}%s{/}
 UI_20150714_001682	Did you have a good time with the party?
 UI_20150714_001683	{@st42} obtained %s by %s
 UI_20150714_001684	{@st42} enhanced %s by%s
@@ -1698,8 +1698,8 @@ UI_20150717_001697	{s40} {nl}Long hours playing the game can negatively affect y
 UI_20150717_001698	{@st66b}Enter
 UI_20150717_001699	{@st42}My Summon Info
 UI_20150717_001700	Your movement slows down when you do not have enough{@st59}STA{/}
-UI_20150717_001701	{@st59}Arrange Inventory{/}
-UI_20150717_001702	Arrange
+UI_20150717_001701	{@st59}Sort Inventory{/}
+UI_20150717_001702	Sort
 UI_20150717_001703	{@st59}Close Joypad Control Info.{/}
 UI_20150717_001704	{@st59}Close Keyboard Control info.{/}
 UI_20150717_001705	Mouse Tutorial
@@ -1764,9 +1764,3 @@ UI_20150729_001763	Join Team Battle League
 UI_20150730_001764	{@st56}My Rank
 UI_20150730_001765	{@st56}Kill Rank
 UI_20150730_001766	{@st56}Damage Rank
-UI_20150730_001766	{@st56}Damage Rank
-UI_20150803_001767	General: /s chat{nl}Shout: /y chat {nl}Party: /p chat{nl} Whisper: /w TeamName Chat
-UI_20150803_001768	{@st66b}Joypad Vibration{/}
-UI_20150803_001769	Found match. Please wait until you joint the game.
-UI_20150803_001770	{@st43}{s18}Please select the character to receive items.{/}
-UI_20150804_001771	Max Socket %s ea
