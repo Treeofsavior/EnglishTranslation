@@ -6032,7 +6032,7 @@ ETC_20150317_006031	When using the Warp Scroll, you can only warp to areas with 
 ETC_20150317_006032	By using the Warp Scroll again, you will be warped to your last location.
 ETC_20150317_006033	Warp Scrolls can be bought from the shop or acquired from quests.
 ETC_20150317_006034	You can use the 'Return' button to complete quests more easily and faster.
-ETC_20150317_006035	When you complete quests,
+ETC_20150317_006035	When you complete quests, in the mission window UI
 ETC_20150317_006036	this button will be activated.
 ETC_20150317_006037	Return Button
 ETC_20150317_006038	You can teleport to the Quest NPC right away by clicking the ({img questinfo_return 40 40}) button.
@@ -12851,11 +12851,11 @@ xETC_20150714_012850	POSSIBLE Status NPC movement use
 xETC_20150714_012851	PROGRESS Status NPC movement use
 xETC_20150714_012852	SUCCESS Status NPC movement use
 xETC_20150714_012853	Grouping
-xETC_20150714_012854	Quest command window Story explanation display
+xETC_20150714_012854	Quest mission window Story explanation display
 xETC_20150714_012855	Abandon button UI display
 xETC_20150714_012856	Quest Possible Status Update in progress
 xETC_20150714_012857	Quest information window
-xETC_20150714_012858	Command window
+xETC_20150714_012858	Mission window
 xETC_20150714_012859	 should be overwritten?
 xETC_20150714_012860	Recall quest party member
 xETC_20150714_012861	Whether to track auto-completion upon quest completion
@@ -12863,7 +12863,7 @@ xETC_20150714_012862	Track use
 xETC_20150714_012863	Whether to use the move function towards the quest start location when quest is not completed.
 xETC_20150714_012864	*Quest ClassID
 xETC_20150714_012865	Quest suitable level
-xETC_20150714_012866	Command window text display area
+xETC_20150714_012866	Mission window text display area
 xETC_20150714_012867	Story Explanation
 xETC_20150714_012868	*Completion NPC
 xETC_20150714_012869	*Completion NPC ready
@@ -12998,111 +12998,111 @@ xETC_20150714_012997	iCoin payment/deletion(negative)
 xETC_20150714_012998	Attribute value (status)
 xETC_20150714_012999	Base compensation
 xETC_20150714_013000	Additional compensation for repeating quests
-ETC_20150714_013001	N/A
-ETC_20150714_013002	N/A
-ETC_20150714_013003	N/A
-ETC_20150714_013004	N/A
-ETC_20150714_013005	N/A
-ETC_20150714_013006	N/A
-ETC_20150714_013007	N/A
-ETC_20150714_013008	N/A
-ETC_20150714_013009	N/A
-ETC_20150714_013010	N/A
-ETC_20150714_013011	N/A
-ETC_20150714_013012	N/A
-ETC_20150714_013013	N/A
-ETC_20150714_013014	N/A
-ETC_20150714_013015	N/A
-ETC_20150714_013016	N/A
-ETC_20150714_013017	N/A
-ETC_20150714_013018	N/A
-ETC_20150714_013019	N/A
-ETC_20150714_013020	N/A
-ETC_20150714_013021	N/A
-ETC_20150714_013022	N/A
-ETC_20150714_013023	N/A
-ETC_20150714_013024	N/A
-ETC_20150714_013025	N/A
-ETC_20150714_013026	N/A
-ETC_20150714_013027	N/A
-ETC_20150714_013028	N/A
-ETC_20150714_013029	N/A
-ETC_20150714_013030	N/A
-ETC_20150714_013031	N/A
+ETC_20150714_013001	Move after completion
+ETC_20150714_013002	Skill Point
+ETC_20150714_013003	Experience(fixed value)
+ETC_20150714_013004	Hitme Experience
+ETC_20150714_013005	Reputation Point
+ETC_20150714_013006	EX4> JobChange:First:M (Only given to males upon first job advancement to target job)
+ETC_20150714_013007	EX3> JobChange:First (Given upon first job advancement to target job)
+ETC_20150714_013008	EX2> WIZ:M/WAR:F (Only given to Wizard males and Swordsman females)
+ETC_20150714_013009	Number 20
+ETC_20150714_013010	Number 19
+ETC_20150714_013011	Number 18
+ETC_20150714_013012	Number 17
+ETC_20150714_013013	Number 16
+ETC_20150714_013014	Number 15
+ETC_20150714_013015	Number 14
+ETC_20150714_013016	Number 13
+ETC_20150714_013017	Number 12
+ETC_20150714_013018	Number 11
+ETC_20150714_013019	EX1> WIZ/WAR (Only given to Wizards and Swordsmen
+ETC_20150714_013020	Item ClassName
+ETC_20150714_013021	Linked quest
+ETC_20150714_013022	Quest progression NPC lines while waiting for quest completion
+ETC_20150714_013023	Quest starting NPC lines while waiting for quest completion
+ETC_20150714_013024	Position check(Monkill/Kill item/Overkill/Overkill item apply)
+ETC_20150714_013025	Starting position
+ETC_20150714_013026	Time(seconds)
+ETC_20150714_013027	Script template
+ETC_20150714_013028	Apply
+ETC_20150714_013029	Check array
+ETC_20150714_013030	Whether to display
+ETC_20150714_013031	Area group
 ETC_20150714_013032	Monster Group
 ETC_20150714_013033	View type
 ETC_20150714_013034	Target
-ETC_20150714_013035	N/A
-ETC_20150714_013036	N/A
+ETC_20150714_013035	Completion prerequisite
+ETC_20150714_013036	QuestClassName
 ETC_20150714_013037	Script
 ETC_20150714_013038	Save changes
-ETC_20150714_013039	N/A
-ETC_20150714_013040	N/A
-ETC_20150714_013041	N/A
-ETC_20150714_013042	N/A
-ETC_20150714_013043	N/A
-ETC_20150714_013044	N/A
-ETC_20150714_013045	N/A
-ETC_20150714_013046	N/A
-ETC_20150714_013047	N/A
-ETC_20150714_013048	N/A
-ETC_20150714_013049	N/A
-ETC_20150714_013050	N/A
-ETC_20150714_013051	N/A
-ETC_20150714_013052	N/A
-ETC_20150714_013053	N/A
-ETC_20150714_013054	N/A
-ETC_20150714_013055	N/A
-ETC_20150714_013056	N/A
-ETC_20150714_013057	N/A
-ETC_20150714_013058	N/A
-ETC_20150714_013059	N/A
-ETC_20150714_013060	N/A
-ETC_20150714_013061	N/A
-ETC_20150714_013062	N/A
-ETC_20150714_013063	N/A
-ETC_20150714_013064	N/A
-ETC_20150714_013065	N/A
-ETC_20150714_013066	N/A
-ETC_20150714_013067	N/A
-ETC_20150714_013068	N/A
-ETC_20150714_013069	N/A
-ETC_20150714_013070	N/A
-ETC_20150714_013071	N/A
-ETC_20150714_013072	N/A
-ETC_20150714_013073	N/A
-ETC_20150714_013074	N/A
-ETC_20150714_013075	N/A
-ETC_20150714_013076	N/A
-ETC_20150714_013077	N/A
-ETC_20150714_013078	N/A
-ETC_20150714_013079	N/A
-ETC_20150714_013080	N/A
-ETC_20150714_013081	N/A
-ETC_20150714_013082	N/A
-ETC_20150714_013083	N/A
-ETC_20150714_013084	N/A
-ETC_20150714_013085	N/A
-ETC_20150714_013086	N/A
-ETC_20150714_013087	N/A
-ETC_20150714_013088	N/A
-ETC_20150714_013089	N/A
-ETC_20150714_013090	N/A
-ETC_20150714_013091	N/A
-ETC_20150714_013092	N/A
-ETC_20150714_013093	N/A
-ETC_20150714_013094	N/A
-ETC_20150714_013095	N/A
-ETC_20150714_013096	N/A
-ETC_20150714_013097	N/A
-ETC_20150714_013098	N/A
-ETC_20150714_013099	N/A
-ETC_20150714_013100	N/A
-ETC_20150714_013101	N/A
-ETC_20150714_013102	N/A
-ETC_20150714_013103	N/A
-ETC_20150714_013104	N/A
-ETC_20150714_013105	N/A
+ETC_20150714_013039	Starting quest :
+ETC_20150714_013040	Final quest :
+ETC_20150714_013041	Search with target quest
+ETC_20150714_013042	NPc selection
+ETC_20150714_013043	Normal NPC XML registration and script generation
+ETC_20150714_013044	Lines editing
+ETC_20150714_013045	Freecheck array
+ETC_20150714_013046	Property count
+ETC_20150714_013047	Lines
+ETC_20150714_013048	Quest check prerequisites
+ETC_20150714_013049	Quest check
+ETC_20150714_013050	Level check
+ETC_20150714_013051	Array check
+ETC_20150714_013052	Function open check AND/OR
+ETC_20150714_013053	Lines before action on function selection
+ETC_20150714_013054	Function name
+ETC_20150714_013055	When there is no quest
+ETC_20150714_013056	Before selecting 2 or more quests
+ETC_20150714_013057	NPC name
+ETC_20150714_013058	Starting area marked on zone map
+ETC_20150714_013059	Zone with starting NPC
+ETC_20150714_013060	Starting position Text appearing in the mission window
+ETC_20150714_013061	Progression area marked on the zone map
+ETC_20150714_013062	Zone with the progression NPC
+ETC_20150714_013063	Progression location appearing on the mission window
+ETC_20150714_013064	Completion area marked on the zone map
+ETC_20150714_013065	Zone with the completion NPC
+ETC_20150714_013066	Completion area Text appearing on the mission window
+ETC_20150714_013067	Only start-able in target location
+ETC_20150714_013068	Only start-able by target class
+ETC_20150714_013069	Only start-able with specific quest or property prerequisite fulfilled
+ETC_20150714_013070	Only start-able with buff
+ETC_20150714_013071	Only start-able with equipment item
+ETC_20150714_013072	Only start-able with item in inventory
+ETC_20150714_013073	Only start-able when above a certain class level
+ETC_20150714_013074	Only start-able when below a certain class level
+ETC_20150714_013075	Completion standby only with buff
+ETC_20150714_013076	Completion standby only with equipment item
+ETC_20150714_013077	Completion standby only with item in inventory
+ETC_20150714_013078	Completion standby only after killing monster
+ETC_20150714_013079	Completion standby only after overkilling monster
+ETC_20150714_013080	Completion standby only with specific quest or property prerequisite fulfilled
+ETC_20150714_013081	Completion standby only when map exploration rate is above %
+ETC_20150714_013082	Acceptance question lines
+ETC_20150714_013083	Additional explanation content lines
+ETC_20150714_013084	Lines after acceptance
+ETC_20150714_013085	Deleted item upon acceptance
+ETC_20150714_013086	Given item upon acceptance
+ETC_20150714_013087	Buff upon acceptance
+ETC_20150714_013088	Simultaneously started quest upon acceptance(no starting lines)
+ETC_20150714_013089	Progression NPC lines during progression
+ETC_20150714_013090	Starting NPC lines during progression
+ETC_20150714_013091	Given item upon conversation with progression NPC
+ETC_20150714_013092	Deleted item upon conversation with progression NPC
+ETC_20150714_013093	Buff upon conversation with progression NPC
+ETC_20150714_013094	Simultaneously started quest upon conversation with progression NPC(no starting lines)
+ETC_20150714_013095	NPC lines upon completion
+ETC_20150714_013096	Started quest upon completion(has starting lines)
+ETC_20150714_013097	Selection-type given item upon completion
+ETC_20150714_013098	Basic given item upon completion
+ETC_20150714_013099	Target class only given item upon completion
+ETC_20150714_013100	Deleted item upon completion
+ETC_20150714_013101	Buff upon completion
+ETC_20150714_013102	Simultaneously started quest upon completion(no starting lines)
+ETC_20150714_013103	Class advancement upon completion
+ETC_20150714_013104	Random reward item(determined before quest acceptance)
+ETC_20150714_013105	Reward upon completion of the final round of a repeatable quest
 ETC_20150714_013106	Quest Progress
 ETC_20150714_013107	N/A
 ETC_20150714_013108	N/A
