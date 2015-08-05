@@ -154,7 +154,7 @@ UI_20150317_000153	{@st41b}Information
 UI_20150317_000154	{@st41b}Record
 UI_20150317_000155	Team Name
 UI_20150317_000156	Character Name
-UI_20150317_000157	{#Ffff00}%s{/}Rank %s {#ffff00}%s{/}Level
+UI_20150317_000157	Rank {#Ffff00}%s{/} %s Level {#ffff00}%s{/}
 UI_20150317_000158	Warrior
 UI_20150317_000159	Adventure {#ffff00}%s{/} (Rank{#ffff00}%s{/}/%s)
 UI_20150317_000160	Adventure {#ffff00}%s{/} ({#ffff00}Unranked{/})
@@ -510,7 +510,7 @@ UI_20150317_000509	{@st59}Close window{/}
 UI_20150317_000510	{@sti5}Total purchase amoun t: %s{/}
 UI_20150317_000511	{@sti5}Total amount : %s{/}
 UI_20150317_000512	{@st41b} Purchase
-UI_20150317_000513	{@st43} Acquired ingredients for manufacturing item!
+UI_20150317_000513	{@st43} Acquired ingredients to craft an item!
 UI_20150317_000514	{@st43}Magnum Opus{/}
 UI_20150317_000515	{@st41}Delete All
 UI_20150317_000516	{@st42}Pension object {@stx1}(%s required){/}
@@ -529,9 +529,9 @@ UI_20150317_000528	Use quest item
 UI_20150317_000529	Quest Hint
 UI_20150317_000530	{@st41}OK{/}
 UI_20150317_000531	{@st43}{s22}Quest Complete{/}
-UI_20150317_000532	{@st41b}Complete {/}
+UI_20150317_000532	{@st41b}Completed {/}
 UI_20150317_000533	{@st41}Accept{/}
-UI_20150317_000534	{@st41}Reject{/}
+UI_20150317_000534	{@st41}Decline{/}
 UI_20150317_000535	{@st44}Go Back{/}
 UI_20150317_000536	Which quest would you like to go back to?
 UI_20150317_000537	{@st41b}Quest class name{/}
@@ -625,13 +625,13 @@ UI_20150317_000624	{@st59}Last Page{/}
 UI_20150317_000625	{@st41b}Reset{/}
 UI_20150317_000626	{@st59}Reset shopping cart{/}
 UI_20150317_000627	{@st41b}Confirm{/}
-UI_20150317_000628	{@st59}Confirm transaction{/}
+UI_20150317_000628	{@st59}Confirm Transaction{/}
 UI_20150317_000629	{@st43}Shop{/}
-UI_20150317_000630	{@st41b}Items purchased{/}
-UI_20150317_000631	{@st41b}Items sold{/}
+UI_20150317_000630	{@st41b}Items Purchased{/}
+UI_20150317_000631	{@st41b}Items Sold{/}
 UI_20150317_000632	{@st41b}Price{/}
 UI_20150317_000633	{@st41b}Balance{/}
-UI_20150317_000634	{@st41b}My items sold{/}
+UI_20150317_000634	{@st41b}My Sold Items{/}
 UI_20150317_000635	{@st41}Empty slots{/}
 UI_20150317_000636	{@st43}Total{/}
 UI_20150317_000637	{@st41}Settle Transaction{/}
@@ -648,9 +648,9 @@ UI_20150317_000647	{@st43}Class Skills and Attributes{/}
 UI_20150317_000648	{@st59}Close Class and Skill{/}
 UI_20150317_000649	{@st59b}Class {nl}{@st59s}- Increase class circles to acquire skills {nl} - Can select 3 classes when Advancing from 1st to 2nd class {nl} - Can Advance to same class up to 3 times {nl} - Cannot change back to previous class when Advancing to another class {nl} - Consume all skill points to Advance {nl} - Can choose the same class {nl} {@st59b}Skills {nl}{@st59s}- Each rank's skill can be increased up to 5 levels {nl} - Attributes learned from masters can be seen below the skills {/}
 UI_20150317_000650	{@st41b}Apply{/}
-UI_20150317_000651	{@st59}Apply skill points{/}
+UI_20150317_000651	{@st59}Apply{/}
 UI_20150317_000652	Cleric
-UI_20150317_000653	{@st59}Cancel point distribution{/}
+UI_20150317_000653	{@st59}Cancel{/}
 UI_20150317_000654	Learning{#ff4400}%s (level %s){/}...
 UI_20150317_000655	Psychohassle
 UI_20150317_000656	%s mins left
