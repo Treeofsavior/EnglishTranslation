@@ -434,33 +434,33 @@ UI_20150317_000433	Tool for making minimap
 UI_20150317_000434	Dialogue tool
 UI_20150317_000435	{@st43}GM Settings{/}
 UI_20150317_000436	{@st59}Close Party Information{/}
-UI_20150317_000437	{@st59b} Party Information {nl} {@st59s} - Press Create Party button at the bottom to create a party {nl} - Right-click on other players to invite {nl} - Change party settings through the settings tab {nl} - Apply conditions to search for party members from Public Party List {/}
+UI_20150317_000437	{@st59b} Party Information {nl} {@st59s} - Press the Create Party button at the bottom to form a party {nl} - Right-click on other players to send a party invite {nl} - Changes can be made to the party through the Settings tab {nl} - Apply specific conditions to search for party members from the Public Party list {/}
 UI_20150317_000438	{@st43}Party Information{/}
 UI_20150317_000439	{@st41b}Members{/}
-UI_20150317_000440	{@st41b} Party Event {/}
+UI_20150317_000440	{@st41b}Party Event {/}
 UI_20150317_000441	{@st41b}Settings{/}
 UI_20150317_000442	{@st41}Members{/}
 UI_20150317_000443	{@st41}Conditions for joining party
 UI_20150317_000444	{@st41b}Public
 UI_20150317_000445	{@st41b}Private
 UI_20150317_000446	Required Level ~
-UI_20150317_000447	{@st41}Item Distribution
-UI_20150317_000448	{@st41b}Acquire separately
-UI_20150317_000449	{@st41b}Acquire in order
-UI_20150317_000450	{@st41b}Random
-UI_20150317_000451	{@st41}EXP Distribution
-UI_20150317_000452	{@st41b}Get separately
-UI_20150317_000453	{@st41b}Equal distribution
-UI_20150317_000454	{@st41b}Differential by level
-UI_20150317_000455	{@st41}Share Quest
+UI_20150317_000447	{@st41}Item Priority
+UI_20150317_000448	{@st41b}Individual Loot
+UI_20150317_000449	{@st41b}Round Robin
+UI_20150317_000450	{@st41b}Random Loot
+UI_20150317_000451	{@st41}EXP Priority
+UI_20150317_000452	{@st41b}Individual EXP
+UI_20150317_000453	{@st41b}Equal EXP
+UI_20150317_000454	{@st41b}By Level
+UI_20150317_000455	{@st41}Quest Sharing
 UI_20150317_000456	{@st41b}Enable
 UI_20150317_000457	{@st41b}Disable
 UI_20150317_000458	{@st41b}Create Party
-UI_20150317_000459	{@st43} Public Party List {/}
+UI_20150317_000459	{@st43}Public Party List {/}
 UI_20150317_000460	{@st59b} Public Party List {nl} {@st59s} - Search for parties you want to join {nl} - Use search conditions to search the party you want {/}
 UI_20150317_000461	{@st59}Close Party List{/}
 UI_20150317_000462	Use search options
-UI_20150317_000463	Share Quest
+UI_20150317_000463	Quest Sharing
 UI_20150317_000464	EXP Share
 UI_20150317_000465	Item Share
 UI_20150317_000466	{@st43}Invite
@@ -477,7 +477,7 @@ UI_20150317_000476	{@st43}Companion Info
 UI_20150317_000477	{@st59b} Companion info {nl} {@st59s} - sleep / activity button can be put into a companion minus {nl} - characteristics of a companion, items attached to timers {/}
 UI_20150317_000478	{@st59}Close Companion Info{/}
 UI_20150317_000479	{@st41b}Name : {@sti9}%s{/}
-UI_20150317_000480	Friendship{@sti9}%s{@st41b} : {@sti9}%s {@st41b}Level{/}
+UI_20150317_000480	Closeness{@sti9}%s{@st41b} : {@sti9}%s {@st41b}Level{/}
 UI_20150317_000481	EXP {@st41b} {/}
 UI_20150317_000482	{@st41b} stamina {/}
 UI_20150317_000483	Closeness {@st41b} {/}
@@ -526,13 +526,13 @@ UI_20150317_000525	Mission Progress Info
 UI_20150317_000526	{s18}{ol}Quest Information
 UI_20150317_000527	{S16}Remaining time
 UI_20150317_000528	Use quest item
-UI_20150317_000529	Quest hint
+UI_20150317_000529	Quest Hint
 UI_20150317_000530	{@st41}OK{/}
 UI_20150317_000531	{@st43}{s22}Quest Complete{/}
 UI_20150317_000532	{@st41b}Complete {/}
 UI_20150317_000533	{@st41}Accept{/}
 UI_20150317_000534	{@st41}Reject{/}
-UI_20150317_000535	{@st44}Return{/}
+UI_20150317_000535	{@st44}Go Back{/}
 UI_20150317_000536	Which quest would you like to go back to?
 UI_20150317_000537	{@st41b}Quest class name{/}
 UI_20150317_000538	{@st59}Expand slot {/}
@@ -613,9 +613,9 @@ UI_20150317_000612	This item is required.
 UI_20150317_000613	Rest Quickslot
 UI_20150317_000614	{@st43}Dialog box{/}
 UI_20150317_000615	Temporary Name
-UI_20150317_000616	{@st41b} {s18} lack of inventory space
-UI_20150317_000617	Inventory is full, you can not carry the item {nl}please re-arrange your inventory.
-UI_20150317_000618	{@st44}Item set acquired!{/}
+UI_20150317_000616	{@st41b} {s18} Your inventory lacks space. 
+UI_20150317_000617	You cannot obtain the item because your inventory is full{nl}Make sure you have enough space in your inventory.
+UI_20150317_000618	{@st44}Set Item acquired!{/}
 UI_20150317_000619	Please select an item
 UI_20150317_000620	{@st59b} shop {nl} {@st59s} - If you want to bulk purchase an item number, then right-click input {nl} - Use the mouse double right-click the item you want to sell quantity {/}
 UI_20150317_000621	{@st59}Close shop{/}
@@ -991,16 +991,16 @@ UI_20150317_000990	{@st59}Cleric{/}
 UI_20150317_000991	{@St41b}Visit Barrack {/}
 UI_20150317_000992	{@St59}Visit the Barrack of another player.{/}
 UI_20150317_000993	{@St41b}Logout{/}
-UI_20150317_000994	{@St59}Move to login screen{/}
+UI_20150317_000994	{@St59}Move to the login screen{/}
 UI_20150317_000995	{@St41b}Exit Game{/}
 UI_20150317_000996	{@St59}Exit Tree of Savior{/}
-UI_20150317_000997	{@st41b} Select channel{/}
+UI_20150317_000997	{@st41b} Select Channel{/}
 UI_20150317_000998	{@st43}Enter{/}
-UI_20150317_000999	{@St59}Start game with selected character{/}
+UI_20150317_000999	{@St59}Start the game with the selected character{/}
 UI_20150317_001000	{@St43}{s26}Team Name{/}
 UI_20150317_001001	{@st59}Team Name{/}
 UI_20150317_001002	{@st41b}Change Team Name{/}
-UI_20150317_001003	{@st59} Change your team name{/}
+UI_20150317_001003	{@st59} Change your Team Name{/}
 UI_20150317_001004	{@St41}Companion{/}
 UI_20150317_001005	Chat Drag
 UI_20150317_001006	{@St44}New Dialog Name{/}
@@ -1012,7 +1012,7 @@ UI_20150317_001011	{@St59}Cancel character creation{/}
 UI_20150317_001012	{@St59}Close the menu of input team name{/}
 UI_20150317_001013	{@St59}Create a team with the name entered{/}
 UI_20150317_001014	{@St43}{s30}{#f0dcaa}Enter your Team Name!
-UI_20150317_001015	{@St41b}       The Team Name represents your characters.{nl}      It is the common name used within the game.{nl}               Team Name may be changed later on.{/}
+UI_20150317_001015	{@St41b}Your Team Name is a name that represents all your characters.{nl}It is the common name used within the game.{nl}               Team Name may be changed later on.{/}
 UI_20150317_001016	Loading background
 UI_20150317_001017	Tip
 UI_20150317_001018	Game Tips
