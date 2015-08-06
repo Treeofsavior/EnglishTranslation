@@ -358,7 +358,7 @@ UI_20150317_000357	{@st43}{s24}Market{/}
 UI_20150317_000358	{@st42b}Filter{/}
 UI_20150317_000359	{@st42b}Type{/}
 UI_20150317_000360	{@st42b}Req. Lv{/}
-UI_20150317_000361	{@st42b}Enhanced Lv{/}
+UI_20150317_000361	{@st42b}Enhance Lv{/}
 UI_20150317_000362	{@st42b}Name
 UI_20150317_000363	{@st41b}Item Cabinet%s
 UI_20150317_000364	{@st41b}Selling List
@@ -453,8 +453,8 @@ UI_20150317_000452	{@st41b}Individual EXP
 UI_20150317_000453	{@st41b}Equal EXP
 UI_20150317_000454	{@st41b}By Level
 UI_20150317_000455	{@st41}Quest Sharing
-UI_20150317_000456	{@st41b}Enable
-UI_20150317_000457	{@st41b}Disable
+UI_20150317_000456	{@st41b}Enabled
+UI_20150317_000457	{@st41b}Disabled
 UI_20150317_000458	{@st41b}Create Party
 UI_20150317_000459	{@st43}Public Party List {/}
 UI_20150317_000460	{@st59b} Public Party List {nl} {@st59s} - Search for parties you want to join {nl} - Use search conditions to search the party you want {/}
@@ -1182,7 +1182,7 @@ UI_20150317_001181	{@St42}Quest Sharing{/}
 UI_20150317_001182	{@St42}EXP Sharing{/}
 UI_20150317_001183	Character Memo
 UI_20150317_001184	Average Party Level : {#FFFF00}%s{/}
-UI_20150317_001185	Looking Party Player : {#FFFF00}%s{/}
+UI_20150317_001185	Searching For : {#FFFF00}%s{/}
 UI_20150317_001186	Cleric / Archer
 UI_20150317_001187	Quest Sharing : {#FFFF00}%s{/}
 UI_20150317_001188	N/A
@@ -1675,7 +1675,7 @@ UI_20150714_001674	{#000000}%s equipped
 UI_20150714_001675	Party Name : {#2c140c}%s{/}
 UI_20150714_001676	Description : {#2c140c}%s{/}
 UI_20150714_001677	Average Party Level : {#2c140c}%s{/}
-UI_20150714_001678	Looking For : {#2c140c}%s{/}
+UI_20150714_001678	Searching For : {#2c140c}%s{/}
 UI_20150714_001679	Quest Sharing : {#2c140c}%s{/}
 UI_20150714_001680	EXP Priority : {#2c140c}%s{/}
 UI_20150714_001681	Item Priority : {#2c140c}%s{/}
@@ -1712,7 +1712,7 @@ UI_20150717_001711	INT : %s
 UI_20150717_001712	DEX : %s
 UI_20150717_001713	SPR : %s
 UI_20150729_001741	{@st42b}          Swordsman types can sprint by                   double-tapping the directional key.{/}
-UI_20150717_001715	{@st42}Party Name and Description{/}
+UI_20150717_001715	{@st42}Party Name & Description{/}
 UI_20150717_001716	{@st42}Insert Party Invite Tag
 UI_20150717_001717	{@st41b}Public Party List{/}
 UI_20150717_001718	{@st41b}Recommended Character List{/}
