@@ -1818,16 +1818,16 @@ ETC_20150317_001817	Would you give {Silver} to increase {Stat}?
 ETC_20150317_001818	Hit Probability
 ETC_20150317_001819	Critical
 ETC_20150317_001820	DEX
-ETC_20150317_001821	You cannot ride the companion while sitting
-ETC_20150317_001822	The companion cannot be equipped
+ETC_20150317_001821	You cannot ride your Companion while sitting
+ETC_20150317_001822	This Companion cannot be equipped
 ETC_20150317_001823	Increased physical attack when mounted
 ETC_20150317_001824	Increased magic attack when mounted
 ETC_20150317_001825	Increased companions attack by {Value}
 ETC_20150317_001826	Increased companions HP by {Value}
 ETC_20150317_001827	Increased companions defense by {Value}
 ETC_20150317_001828	Increased companions hit rate by {Value}
-ETC_20150317_001829	There is no companion summoned.
-ETC_20150317_001830	Please dismount the companion first.
+ETC_20150317_001829	You do not have a Companion to summon.
+ETC_20150317_001830	Please dismount the Companion first.
 ETC_20150317_001831	Standby
 ETC_20150317_001832	Active
 ETC_20150317_001833	You do not have any food.
@@ -8881,10 +8881,10 @@ ETC_20150317_008881	The physical defense increases when a Warrior type class lev
 ETC_20150317_008882	Cleric Tip
 ETC_20150317_008883	Cleric's magic circles installed on the ground may not be effective on flying monsters.
 ETC_20150317_008884	The SP and SP recovery increases when a Cleric type class levels up.
-ETC_20150317_008885	Hold down the Ctrl key to lock target.
+ETC_20150317_008885	Press the CTRL key to lock your target.
 ETC_20150317_008886	Press the Alt key to stop movement immediately.
 ETC_20150317_008887	Press the Space bar key during battle to face the current target.
-ETC_20150317_008888	When boarding the companion, character's stats will increase in proportion to the ability of companion.ETC_20150312_005342
+ETC_20150317_008888	When mounting a Companion, your character's abilities will increase in proportion to the ability of your Companion.
 ETC_20150317_008889	Comining Cards(preparing)
 ETC_20150317_008890	Needs the bow crafting attribute.
 ETC_20150317_008891	Set the current equipment level.
@@ -11431,24 +11431,24 @@ ETC_20150428_011432	Recipe - Superior Key Pendant
 ETC_20150428_011433	Recipe - Sage Necklace
 ETC_20150428_011434	Recipe - Superior Rune Bracelet
 ETC_20150428_011435	Recipe - Star Bracelet
-ETC_20150428_011436	FAQ : Lodge{nl}1)You can change the name of your lodge by clicking "Lodge Settings". {nl}2)You can buy Lodge skins using iCoins by clicking "Change Lodge".{nl}3)You select your desired channel from the Lodge.
-ETC_20150428_011437	FAQ : Character HP, SP, STA {nl} 1) You can check your character's information on the upper left side of the screen. {nl}2) STA: This is stamina. When your STA is 0, you can only walk and can't run. {nl} It is also used when learning certain attributes. {nl} You can recover STA by destroying Tree Root Crystals or by using Stamina Pills. {nl} Stamina Pills can be bought through shop or can be earned by completing quests or defeating boss monsters.
-ETC_20150428_011438	FAQ : Character Level and Class Level {nl}You can check the info at the lower part of the screen. {nl}2) Character Level: this is your character's level. {nl}3) Class Level: this is the level of the class you chose. {nl} You can advance to another class when you reach level 15.
-ETC_20150428_011439	FAQ : Quick Slot{nl}1) You can add items or skills to the quick slot at the lower part of your screen. {nl}2) Skills are automatically added to quick slot when you learn skills. {nl}3)You can use up to 40 quick slots. {nl}4) Quick slots can be locked or unlocked. {nl}You cannot add or remove items or skill in quick slot when it is locked.
+ETC_20150428_011436	FAQ : Lodge{nl}1) You can change the name of your lodge by clicking "Lodge Settings". {nl}2)You can buy Lodge skins using iCoins by clicking "Change Lodge".{nl}3)You select your desired channel from the Lodge.
+ETC_20150428_011437	FAQ : Character HP, SP, STA {nl}1) You can check your character's information on the upper left side of the screen. {nl}2) STA: This is stamina. When your STA is 0, you can only walk and cannot run anymore. {nl} STA is also used when learning certain attributes. {nl} STA can be recovered by destroying Tree Root Crystals or by using Stamina Pills. {nl} Stamina Pills can be purchased from shops, earned by completing quests or by defeating boss monsters.
+ETC_20150428_011438	FAQ : Character Level & Class Level{nl}1) You can check the info at the lower part of your screen. {nl}2) Character Level: this is the level of your character. {nl}3) Class Level: this is the level of the class you chose. {nl} You can advance to another class when your Class Level has reached 15. 
+ETC_20150428_011439	FAQ : Quick Slot{nl}1) You can add items and skills to the quick slot at the lower part of your screen. {nl}2) Skills are automatically added to the quick slot when you learn them. {nl}3)You can use up to 40 quick slots. {nl}4) Quick slots can be locked or unlocked. {nl}You cannot add or remove items or skills in the quick slot when it is locked.
 ETC_20150428_011440	FAQ : Changing Channels{nl}1) You can change channels by clicking on the channel button above the minimap. {nl}2) You can change channels in the Lodge before entering the world.
-ETC_20150428_011441	FAQ : Rest Mode{nl}1) Use "insert" key to switch to Rest Mode. {nl}2) HP, SP, STA is recovered. {nl}3) You can set up a camp fire, manufacture items, enhance gems, combine cards, etc in Rest Mode{nl} You need "firewood" to build a bonfire. {nl} HP, SP, STA is recovered faster when you use a bonfire.{nl}Other functions will be added in the future.
-ETC_20150428_011442	FAQ : Durability and Potential{nl}1) Durability : It will start to decrease a bit when you play with the equipment on.{nl}    When the durability decreases under the certain level, the item's icon will be displayed on the right side of quick slot.{nl}   When the durability completely diminishes, you won't be benefited from the equipment's effects.{nl}2) Potential : It will decrease when you are trading an equipment item or enhance an item, and the item with it's potential all depleted will can't be traded nor enhanced.
-ETC_20150428_011443	FAQ : Enhancement{nl}1) Weapons and armors can be enhanced using the anvil. {nl}2) You can buy anvils from the Tools Merchants in town. {nl}3) Silver is required everytime you enhance an item.{nl}4)The enhancement of weapons and armor has a 100% success rate till +5 and +3 respectively. The chance of failure after the next enhancement will increase.{nl} If an enhancement fails, your enhancement level will reset and the Potential of your item decreases.
-ETC_20150428_011444	FAQ : Attributes{nl}1) There are attributes that you can learn from the Masters of your class. {nl}2) You can learn different types of attributes depending on the class. {nl} For example, if you advance to Highlander, you can learn two-handed sword attributes from Highlander Master and use two-handed swords. {nl}3) Masters who teach attributes are located all around the map.
-ETC_20150428_011445	FAQ : Charge Skill{nl}1) Charge skills are triggered only when you press down the quick slot button of the skill. {nl}2) Skill is canceled when you are attacked while using the skill.
-ETC_20150428_011446	FAQ : System Menu{nl}1) You can change to "Joypad UI Mode" from game settings when using Joypad. {nl}2) You can play using "Low-spec Mode" if your computer has low system requirements.
-ETC_20150428_011447	FAQ : Chatting{nl}1) Shout: Enter "/y" before your message to show your message to all players. {nl} But, you need the "Megaphone" to do so. {nl}2) Party Chat: Enter "/p" before your message to chat with your party. {nl}Whisper: Enter "/w Team Name" before your message to talk privately with the player of that Team Name.
-ETC_20150428_011448	FAQ : Inventory Weight{nl}1) Show the weight of the items you can carry. {nl}2) Weight increases by 5 when you increase your CON stat after you level up. {nl}3) When the items you carry are overweight, your character will walk regardless of the STA.
-ETC_20150428_011449	FAQ : Minimap, Zone Map, World Map{nl}1) Click "+","-" buttons on the minimap to zoom-in or zoom-out. {nl}2) Click on "M" on the minimap or press "M" on your keyboard to view the full map of the zone (zone map) you are in. {nl}3) Use "N" on your keyboard to view the world map.
-ETC_20150428_011450	Press Ctrl to on/off target fix
-ETC_20150428_011451	Hire as helper
-ETC_20150428_011452	Dismiss helper
-ETC_20150428_011453	Search word should be at least {LEN} characters.
+ETC_20150428_011441	FAQ : Rest Mode{nl}1) Press the INSERT key to switch to Rest Mode. {nl}2) HP, SP, STA will be restored. {nl}3) You can light up a bonfire, craft items, enhance gems or combine cards in Rest Mode.{nl} You need "Firewood" to create a bonfire. {nl} HP, SP, STA is restored quicker when you use a bonfire.{nl}4) Other functions will be added in the near future.
+ETC_20150428_011442	FAQ : Durability & Potential{nl}1) Durability : It will start to decrease a little bit when you play with the equipment on.{nl}    When the durability decreases under the certain level, the item's icon will be displayed on the right side of the quick slot.{nl}   When the durability completely diminishes, you won't be benefited from the effects of your equipment.{nl}2) Potential : It will decrease when you are trading an equipment item or enhance an item. The item with its Potential all depleted can't be traded or enhanced.
+ETC_20150428_011443	FAQ : Enhancement{nl}1) Weapons and armors can be enhanced using the anvil item. {nl}2) You can buy anvils from the Tools Merchant in any town. {nl}3) Silver is required everytime you enhance an item.{nl}4) The enhancement of weapons and armor has a 100% success rate till +5 and +3 respectively. The chance of failure after the next enhancement will increase.{nl} If an enhancement fails, your enhancement level will reset and the Potential of your item decreases.
+ETC_20150428_011444	FAQ : Attributes{nl}1) There are attributes that you can learn from the class specific Masters. {nl}2) You can learn different types of attributes depending on the class. {nl} For example, if you advance to Highlander, you can learn two-handed sword attributes from the Highlander Master and use two-handed swords. {nl}3) Masters who teach attributes are located all around the map.
+ETC_20150428_011445	FAQ : Charge Skills{nl}1) Charge skills are triggered only when you press down the quick slot button of the skill. {nl}2) A Charge Skill is canceled when you are attacked while using it.
+ETC_20150428_011446	FAQ : System Menu{nl}1) You can change to "Joypad UI Mode" through the game settings when using a joypad. {nl}2) You can play using "Low-spec Mode" if your computer has low system requirements.
+ETC_20150428_011447	FAQ : Chatting{nl}1) Shout: Enter "/y" before your message to show your message to all the players in the game. {nl} However, the "Megaphone" item is required to do so. {nl}2) Party Chat: Enter "/p" before your message to chat with the party members in your party. {nl}Whisper: Enter "/w Team Name" before your message to talk privately with the player of that Team Name.
+ETC_20150428_011448	FAQ : Inventory Weight{nl}1) Shows the weight of the items you can carry. {nl}2) Weight increases by 5 when you increase your CON ability after you level up. {nl}3) When the items you carry are overweight, your character will walk regardless of the STA.
+ETC_20150428_011449	FAQ : Minimap, Zone Map, World Map{nl}1) Click on the +, - buttons on the minimap to zoom in and zoom out. {nl}2) Click on the M button on the minimap or press the M key to view the full map of the zone (Zone Map) you are in. {nl}3) Press the N key on your keyboard to view the entire World Map.
+ETC_20150428_011450	Press the CTRL key to turn Lock Target On/Off.
+ETC_20150428_011451	Hire as Helper
+ETC_20150428_011452	Dismiss Helper
+ETC_20150428_011453	Your search query must contain at least {LEN} characters.
 ETC_20150428_011454	Sending successful. Thank you.
 ETC_20150428_011455	Failed to send.
 ETC_20150428_011456	Card is not equipped. Cannot be summoned.
@@ -11594,7 +11594,7 @@ ETC_20150511_011595	DoTimeAction:Picking Niole roots:1:WEEDING:None
 ETC_20150511_011596	Activate the first sealed device
 ETC_20150511_011597	Activate the second sealed device
 ETC_20150511_011598	Activate the third sealed device
-ETC_20150511_011599	FAQ : Durability and Potential{nl}1) Durability : When playing, the Durability of equipped items will go down.{nl} If the Durability is reduced to a certain value, the item's icon will appear at right of the quick slot.{nl} If the durability is completely reduced, the item loses its effect.{nl}2) Potential: Potential goes down when an item is traded or enhanced. An item with zero potential can't be traded or enhanced further.
+ETC_20150511_011599	FAQ : Durability & Potential{nl}1) Durability : It will start to decrease a little bit when you play with the equipment on.{nl}    When the durability decreases under the certain level, the item's icon will be displayed on the right side of the quick slot.{nl}   When the durability completely diminishes, you won't be benefited from the effects of your equipment.{nl}2) Potential : It will decrease when you are trading an equipment item or enhance an item. The item with its Potential all depleted can't be traded or enhanced.
 ETC_20150511_011600	]{nl}Quest Completed!
 ETC_20150511_011601	Why now..!
 ETC_20150511_011602	Did you defeat them all?
@@ -13493,7 +13493,7 @@ ETC_20150717_013494	Veteran
 ETC_20150717_013495	Expert
 ETC_20150717_013496	Challenger
 ETC_20150717_013497	Champion
-ETC_20150717_013498	FAQ : Enhancement{nl}1) Weapons and armors can be enhanced using the anvil. {nl}2) You can buy anvils from the Tools Merchants in town. {nl}3) Silver is required everytime you enhance an item.{nl}4)The enhancement of weapons and armor has a 100% success rate till +5 and +3 respectively. The chance of failure after the next enhancement will increase.{nl} If an enhancement fails, your enhancement level will reset and the Potential of your item decreases.
+ETC_20150717_013498	FAQ : Enhancement{nl}1) Weapons and armors can be enhanced using the anvil item. {nl}2) You can buy anvils from the Tools Merchant in any town. {nl}3) Silver is required everytime you enhance an item.{nl}4) The enhancement of weapons and armor has a 100% success rate till +5 and +3 respectively. The chance of failure after the next enhancement will increase.{nl} If an enhancement fails, your enhancement level will reset and the Potential of your item decreases.
 ETC_20150717_013499	Card Battle Tip
 ETC_20150717_013500	in chat menu
 ETC_20150717_013501	You can start a Card Battle with the other player.
