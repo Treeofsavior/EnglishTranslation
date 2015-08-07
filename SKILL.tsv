@@ -14,7 +14,7 @@ SKILL_20150317_000013	[Fisherman] Physical, Strike, Ice Property, Strike with Fi
 SKILL_20150317_000014	[Fisherman] Magic, Buff, Magic, Buff Skill
 SKILL_20150317_000015	[Green Pokuborn] Physical, Stab, Lightning Property, Horn Attack 1 time
 SKILL_20150317_000016	[Bushspider] Physical, Strike, Earth Property, Attack 1 time
-SKILL_20150317_000017	[Fragaras] Quick bite
+SKILL_20150317_000017	[Fragaras] Quick Bite
 SKILL_20150317_000018	[Fragaras] Large Bite
 SKILL_20150317_000019	[Fragaras] Normal Attack, Conical AoE
 SKILL_20150317_000020	Basic Normal Attack
@@ -79,7 +79,7 @@ SKILL_20150317_000078	[Cauliflower] Physical, Stab, Poison Property, Smash with 
 SKILL_20150317_000079	[Cauliflower] Physical, Stab, Poison Property, Smash with tentacle
 SKILL_20150317_000080	[Cauliflower] Physical, Stab, Poison Property, Ground Smash
 SKILL_20150317_000081	[Helmet Bug] Physical, Stab, Earth Property, Attack 1 time
-SKILL_20150317_000082	[Helmet Bug] Normal Attack2
+SKILL_20150317_000082	[Helmet Bug] Normal Attack 2
 SKILL_20150317_000083	[Bikaaras Mage] Magic, Magic, Fire Property, Attack 1 time
 SKILL_20150317_000084	[Bikaaras Mage] Physical, Slash, Fire Property, Attack 1 time
 SKILL_20150317_000085	[Vikaras] Physical, Slash, Fire Property, Attack 1 time
@@ -156,7 +156,7 @@ SKILL_20150317_000155	Zombie Archer skill.
 SKILL_20150317_000156	Wheelchair Zombie Normal attack.
 SKILL_20150317_000157	Wheelchair Zombie skills.
 SKILL_20150317_000158	Wall of Flame
-SKILL_20150317_000159	Create a Wall of Flame. Enemies in touch of the wall will receive damage.
+SKILL_20150317_000159	Creates a Wall of Flame. Damages enemies that touch the wall.
 SKILL_20150317_000160	Mine explosion
 SKILL_20150317_000161	Explode explosive mines.
 SKILL_20150317_000162	Deadly poison explosion
@@ -188,8 +188,8 @@ SKILL_20150317_000187	Priest attack 1
 SKILL_20150317_000188	Priest skill 1
 SKILL_20150317_000189	[Green Apparition] Magic, Magic, brain Property, Attack 1 time
 SKILL_20150317_000190	Attack Statue 1
-SKILL_20150317_000191	[Vubbe Theif] Physical, Slash, Earth Property, Spear Twirl
-SKILL_20150317_000192	[Vubbe Theif] Physical, Stab, Earth Property Aries skills
+SKILL_20150317_000191	[Vubbe Thief] Physical, Slash, Earth Property, Spear Twirl
+SKILL_20150317_000192	[Vubbe Thief] Physical, Stab, Earth Property Aries skills
 SKILL_20150317_000193	[Saurman Spearman] Normal attack.
 SKILL_20150317_000194	[Saurman Spearman] Normal attack 2.
 SKILL_20150317_000195	[Vubbe Archer] Range, Stab, Earth Property, Frontal Arrow Shot
@@ -459,7 +459,7 @@ SKILL_20150317_000458	[Red Old Kepa] Physical, Strike, Fire Property Attack
 SKILL_20150317_000459	[Black Rafflesia] Range, Magic, Dark Property Range Shoot
 SKILL_20150317_000460	[Black Rafflesia] Physical, Magic, Dark Property Attack
 SKILL_20150317_000461	[Red Infrorocktor] Physical, Strike, Fire Property Attack
-SKILL_20150317_000462	[Red Infrorocktor] Magic, Incerase Block Buff
+SKILL_20150317_000462	[Red Infrorocktor] Magic, Increase Block Buff
 SKILL_20150317_000463	[Green Ellom] Physical, Strike, Poison Property Attack
 SKILL_20150317_000464	[Pokuborn] Physical, Stab, Poison Property Attack
 SKILL_20150317_000465	[Pokuborn] Physical, Stab, Lightning Property Attack
@@ -822,7 +822,7 @@ SKILL_20150317_000821	In development
 SKILL_20150317_000822	Attack + #{SkillFactor}# , Splash #{SkillSR}# {nl}Consume #{SpendSP}# SP
 SKILL_20150317_000823	Guard
 SKILL_20150317_000824	Block enemy attack with shield [Guard Point 150]
-SKILL_20150317_000825	Physical attack ratio increase by #{SkillFactor}# + #{SkillAtkAdd}#
+SKILL_20150317_000825	Physical attack ratio increased by #{SkillFactor}# + #{SkillAtkAdd}#
 SKILL_20150317_000826	[Golem Card] Physical Non-Property Strike
 SKILL_20150317_000827	[Mushcaria Card] Physical Poison Property Strike
 SKILL_20150317_000828	[Rocktortuga Card] Physical Non-Property Strike
@@ -923,20 +923,20 @@ SKILL_20150317_000922	Attack #{SkillAtkAdd}#{nl}Splash #{SkillSR}#
 SKILL_20150317_000923	Bash
 SKILL_20150317_000924	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Swing weapon widely to damage target.
 SKILL_20150317_000925	Gung Ho
-SKILL_20150317_000926	Increase attack while decreasing defense.
+SKILL_20150317_000926	Increases attack while decreasing defense.
 SKILL_20150317_000927	Physical Damage + #{CaptionRatio}#{nl}Physical Defense - #{CaptionRatio2}# {nl}Duration #{CaptionTime}# seconds
 SKILL_20150317_000928	Concentrate
-SKILL_20150317_000929	Increase skill power.
+SKILL_20150317_000929	Increases skill power.
 SKILL_20150317_000930	Additional Damage + #{CaptionRatio2}#{nl}Attack#{CaptionRatio}# times {nl}Duration #{CaptionTime}# seconds
 SKILL_20150317_000931	Restrain
-SKILL_20150317_000932	Lower maximum HP and increase attack.
+SKILL_20150317_000932	Lowers maximum HP and increase attack.
 SKILL_20150317_000933	Physical Attack + #{CaptionRatio}#{nl}Maximum HP - #{CaptionRatio2}# {nl} Duration #{CaptionTime}# seconds
 SKILL_20150317_000934	Umbo Blow
 SKILL_20150317_000935	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Attack using shield. {nl} Attack after blocking enemy for additional damage.
 SKILL_20150317_000936	Rim Blow
 SKILL_20150317_000937	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Attack using edge of shield. {nl} Attack when enemy is petrified or frozen for additional damage.
 SKILL_20150317_000938	Swash Buckling
-SKILL_20150317_000939	Hit shield to threathen enemy.
+SKILL_20150317_000939	Hit shield to threaten enemy.
 SKILL_20150317_000940	Target #{SkillSR}#{nl}Max. provoke +#{CaptionRatio}# for #{CaptionTime}# seconds
 SKILL_20150317_000941	Reduce attack and increase defense.
 SKILL_20150317_000942	Physical Defense + #{CaptionRatio}#{nl}Physical Damage - #{CaptionRatio2}# {nl}Duration #{CaptionTime}# seconds
@@ -972,7 +972,7 @@ SKILL_20150317_000971	Long Stride
 SKILL_20150317_000972	{#DD5500}{ol}[Physical] - [Stab]{/}{/}{nl}Teleport and attack enemies within range.
 SKILL_20150317_000973	Spear Throw
 SKILL_20150317_000974	Shield Charge
-SKILL_20150317_000975	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl} Carry shield and run. Enemies hit nearby falls down.
+SKILL_20150317_000975	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl} Carry shield and run. Enemies hit are knocked down.
 SKILL_20150317_000976	Attack #{SkillAtkAdd}#{nl}Max. Duration 10 seconds{nl}Consume STA
 SKILL_20150317_000977	Montano
 SKILL_20150317_000978	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Attack bottom of the target strongly.
@@ -995,12 +995,12 @@ SKILL_20150317_000994	{#DDD300}{ol}[Strike]{/}{/}{nl}Rush forward and push away 
 SKILL_20150317_000995	Doom Spike
 SKILL_20150317_000996	{#DDD300}{ol}[Strike]{/}{/}{nl}Gather force and and strongly stab enemy.
 SKILL_20150317_000997	Rush
-SKILL_20150317_000998	{#DD5500}{ol}[Slash]{/}{/}{nl}Attack enemy in fron continuously while spinning the spear over head.
+SKILL_20150317_000998	{#DD5500}{ol}[Slash]{/}{/}{nl}Attack enemy in front continuously while spinning the spear overhead.
 SKILL_20150317_000999	Attack #{SkillAtkAdd}#{nl}Max. Duration 10 seconds{nl}Splash #{SkillSR}#
 SKILL_20150317_001000	Dragging Death
 SKILL_20150317_001001	{#DDD300}{ol}[Stab]{/}{/}{nl}Attacks enemies in front continuously.
 SKILL_20150317_001002	Embowel
-SKILL_20150317_001003	{#DD5500}{ol}[Stab]{/}{/}{nl} Kick the enemies after strongly stinging.
+SKILL_20150317_001003	{#DD5500}{ol}[Stab]{/}{/}{nl} Kick enemies after strongly stinging.
 SKILL_20150317_001004	Flange
 SKILL_20150317_001005	Continuously attack enemy with basic attack after using skill to increase ATK.
 SKILL_20150317_001006	Attack + #{CaptionRatio}#{nl}Max. overlap #{CaptionRatio2}# times {nl}Duration #{CaptionTime}# seconds
@@ -1008,17 +1008,17 @@ SKILL_20150317_001007	Aggressor
 SKILL_20150317_001008	Attack is accurate but chance of critical and critical evasion decreases.
 SKILL_20150317_001009	Critical Chance -#{CaptionRatio}#%{nl}Critical Evasion -#{CaptionRatio}#%{nl}Duration #{CaptionTime}# seconds
 SKILL_20150317_001010	Savagery
-SKILL_20150317_001011	While the buff is activated, addtional bonus is applied to {#DD5500}{ol}[Sting]{/}{/} attack.
+SKILL_20150317_001011	While the buff is activated, additional bonus is applied to {#DD5500}{ol}[Sting]{/}{/} attack.
 SKILL_20150317_001012	{#DD5500}{ol}[Stab]{/}{/} Batter Bonus {nl} Duration #{CaptionTime}#sec
 SKILL_20150317_001013	Warcry
-SKILL_20150317_001014	Reduces the target's defense nearby and add it to your attack.
+SKILL_20150317_001014	Reduces nearby targets defense and adds it to your attack.
 SKILL_20150317_001015	Target #{CaptionRatio}#player{nl} MAX Physical DEF - #{CaptionRatio2}# {nl}Duration #{CaptionTime}#seconds
 SKILL_20150317_001016	Stomping Kick
-SKILL_20150317_001017	{#DD5500}{ol}[Strike]{/}{/}{nl} When in the air, landing hard to to inflict damage on target.
+SKILL_20150317_001017	{#DD5500}{ol}[Strike]{/}{/}{nl} while in the air, landing hard to inflict damage on target.
 SKILL_20150317_001018	Weapon Maintenance
 SKILL_20150317_001019	Open shop for repairing weapons.
 SKILL_20150317_001020	Armor Maintenance
-SKILL_20150317_001021	Create shop for repairing armors.
+SKILL_20150317_001021	Create shop for repairing armor.
 SKILL_20150317_001022	Repair
 SKILL_20150317_001023	Use shield to push away and interfere enemy.
 SKILL_20150317_001024	Arrest
@@ -1066,13 +1066,13 @@ SKILL_20150317_001065	Energy Bolt
 SKILL_20150317_001066	{#993399}{ol}[Magic]{/}{/}{nl} Attack target with powerful energy.
 SKILL_20150317_001067	Attack #{SkillAtkAdd}#{nl}Cast Time 1 second{nl}Splash #{SkillSR}#
 SKILL_20150317_001068	Lethargy
-SKILL_20150317_001069	Make target become lethargic.
+SKILL_20150317_001069	Makes target become lethargic.
 SKILL_20150317_001070	Physical damage - #{CaptionRatio}#{nl} Magic Attack - #{CaptionRatio}#{nl} Evasion - #{CaptionRatio2}#{nl} {#339999}{ol}[Lethargy]{/}{/}Duration #{CaptionTime}# seconds
 SKILL_20150317_001071	Sleep
 SKILL_20150317_001072	Make target fall into sleep. Enemies in sleep will wake when reaching attack limit.
 SKILL_20150317_001073	{#339999}{ol}[Sleep]{/}{/}Duration #{SkillFactor}# seconds {nl}Attack limit #{CaptionRatio}# times
 SKILL_20150317_001074	Reflect Shield
-SKILL_20150317_001075	Create a barrier reflecting attack of the enemy.
+SKILL_20150317_001075	Create a barrier reflecting enemies attacks.
 SKILL_20150317_001076	Damage Reflection #{CaptionRatio}#{nl}Duration #{CaptionTime}# seconds {nl}Reflect #{CaptionRatio2}# times
 SKILL_20150317_001077	Earth Quake
 SKILL_20150317_001078	{#993399}{ol}[Magic] - [Earth]{/}{/}{nl}Cause a massive Earthquake to damage target.
@@ -1086,63 +1086,63 @@ SKILL_20150317_001085	Quick Cast
 SKILL_20150317_001086	Cast Time decreased.
 SKILL_20150317_001087	Cast Time - #{CaptionRatio}#% {nl} Duration #{CaptionTime}# seconds
 SKILL_20150317_001088	Fire Ball
-SKILL_20150317_001089	{#993399}{ol}[Magic] - [Fire]{/}{/}{nl} Summon Fire sphere. You can Blow the sphere using sword attack.
+SKILL_20150317_001089	{#993399}{ol}[Magic] - [Fire]{/}{/}{nl} Summon a fire sphere. You can Blow the sphere using sword attack.
 SKILL_20150317_001090	Attack #{SkillAtkAdd}#{nl}Attack #{SkillSR}# times{nl}Duration #{CaptionTime}# seconds
 SKILL_20150317_001091	Fire Wall
-SKILL_20150317_001092	{#993399}{ol}[Magic] - [Fire]{/}{/}{nl} Create flame barrier to damage adjacent enemies.
+SKILL_20150317_001092	{#993399}{ol}[Magic] - [Fire]{/}{/}{nl} Create a flame barrier to damage adjacent enemies.
 SKILL_20150317_001093	Attack #{SkillAtkAdd}#{nl}#{CaptionRatio}# Fire Wall #{nl}Attack #{CaptionRatio2}# times{nl}Duration 15 seconds
 SKILL_20150317_001094	Enchant Fire
 SKILL_20150317_001095	Grant Fire Property attack force to target. Additional damage is applied for basic attack.
 SKILL_20150317_001096	Fire Property attack + #{CaptionRatio}#{nl} Additional Damage + #{CaptionRatio2}#{nl}Duration #{CaptionTime}# seconds
 SKILL_20150317_001097	Flare
-SKILL_20150317_001098	{#993399}{ol}[Magic] - [Fire]{/}{/}{nl} Explode enemy in abnornal state except petrified and frozen state.
+SKILL_20150317_001098	{#993399}{ol}[Magic] - [Fire]{/}{/}{nl} Explode enemies in an abnormal state {nl}excluding Petrified and Frozen state.
 SKILL_20150317_001099	Attack #{SkillAtkAdd}#
 SKILL_20150317_001100	Fire Pillar
-SKILL_20150317_001101	{#993399}{ol}[Magic] - [Fire]{/}{/}{nl}Summon fire pillar to damage enemies.
+SKILL_20150317_001101	{#993399}{ol}[Magic] - [Fire]{/}{/}{nl}Summon a fire pillar to damage enemies.
 SKILL_20150317_001102	Attack #{SkillAtkAdd}#{nl}Duration #{CaptionTime}# seconds
 SKILL_20150317_001103	Hell Breath
-SKILL_20150317_001104	{#993399}{ol}[Magic] - [Fire]{/}{/}{nlContinuously fume flame forward.
+SKILL_20150317_001104	{#993399}{ol}[Magic] - [Fire]{/}{/}{nl}Continuously fume flames forward.
 SKILL_20150317_001105	Attack #{SkillAtkAdd}#{nl}Consume #{CaptionRatio}#% SP per 0.5 seconds
 SKILL_20150317_001106	Ice Bolt
-SKILL_20150317_001107	{#993399}{ol}[Magic] - [Ice] - [Stab]{/}{/}{nl}Blow Ice force with chance of freezing enemy.
+SKILL_20150317_001107	{#993399}{ol}[Magic] - [Ice] - [Stab]{/}{/}{nl}Blow Ice force with a chance of freezing enemies.
 SKILL_20150317_001108	Attack #{SkillAtkAdd}#{nl}{#339999}{ol}[Frozen]{/}{/} Duration 3 seconds
 SKILL_20150317_001109	Ice Pike
-SKILL_20150317_001110	{#993399}{ol}[Magic] - [Ice] - [Stab] {/} {/}} {nl}Create ice waves with chance of freezing enemy.
+SKILL_20150317_001110	{#993399}{ol}[Magic] - [Ice] - [Stab] {/} {/}} {nl}Create ice waves with a chance of freezing enemies.
 SKILL_20150317_001111	Attack #{SkillAtkAdd}#{nl}{#339999}{ol}[Frozen]{/}{/} Duration 4 seconds
 SKILL_20150317_001112	Create Ice Wall with a chance of freezing the enemy.
 SKILL_20150317_001113	Ice Wall #{CaptionRatio}# {nl}{#339999}{ol}[Ice]{/}{/}{nl} Duration 3 seconds {nl} Ice Wall Duration 10 seconds
 SKILL_20150317_001114	Ice Blast
 SKILL_20150317_001115	{#993399}{ol}[Magic] - [Ice]{/}{/}{nl}Blast frozen enemies in front.
 SKILL_20150317_001116	{#339999}{ol}[Ice]{/}{/}Target to Attack #{SkillAtkAdd}#
-SKILL_20150317_001117	Create wall of ice and defend against attacks.
+SKILL_20150317_001117	Create a wall of ice to defend against enemy attacks.
 SKILL_20150317_001118	Enemies attacked {#339999}{ol}[Ice]{/}{/}Rate 50% {nl} {#339999}{ol}[Ice]{/}{/}Duration 3 seconds
 SKILL_20150317_001119	Gust
-SKILL_20150317_001120	Create strong wind to push away enemy. Inflict damage on frozen enemies or nearby Ice Wall.
+SKILL_20150317_001120	Create a strong wind to push away enemies. Inflict damage on frozen enemies or nearby Ice Wall.
 SKILL_20150317_001121	Frost Pillar
-SKILL_20150317_001122	Summon ice tree and pull targets nearby.
+SKILL_20150317_001122	Summon an ice tree and pull nearby targets.
 SKILL_20150317_001123	{#339999}{ol}[Ice]{/}{/}probability #{CaptionRatio}#% {nl}Duration #{CaptionTime}# seconds
 SKILL_20150317_001124	Psychic Pressure
-SKILL_20150317_001125	{#993399}{ol}[Magic]{/}{/}{nl}Give continuous damage to targets in front.
+SKILL_20150317_001125	{#993399}{ol}[Magic]{/}{/}{nl}Deal continuous damage to targets in front.
 SKILL_20150317_001126	Attack #{SkillAtkAdd}#{nl}Splash #{CaptionRatio}#{nl}Consume #{CaptionRatio2}#% of SP per second.
 SKILL_20150317_001127	Telekinesis
-SKILL_20150317_001128	{#993399}{ol}[Magic]{/}{/}{nl}Catch target with psychokinesis. {nl}Throw target to desire direction and give damage.
+SKILL_20150317_001128	{#993399}{ol}[Magic]{/}{/}{nl}Catch target with psychokinesis. {nl}Throw target in desired direction and deal damage.
 SKILL_20150317_001129	Attack #{SkillAtkAdd}#{nl}Attack count #{CaptionRatio}# times {nl}Duration #{CaptionTime}# seconds
 SKILL_20150317_001130	Swap
-SKILL_20150317_001131	Change position of target and yourself.
+SKILL_20150317_001131	Switch positions between your target and yourself.
 SKILL_20150317_001132	Target #{CaptionRatio}#{nl}Range limit 20 {nl}
 SKILL_20150317_001133	Teleportation
-SKILL_20150317_001134	Teleport to random location.
+SKILL_20150317_001134	Teleport to a random location.
 SKILL_20150317_001135	Max. teleport distance #{CaptionRatio}#
 SKILL_20150317_001136	Magnetic Force
-SKILL_20150317_001137	{#993399}{ol}[Magic]{/}{/}{nl}Suck the enemies in target area.
+SKILL_20150317_001137	{#993399}{ol}[Magic]{/}{/}{nl}Pull enemies into target area.
 SKILL_20150317_001138	Raise
-SKILL_20150317_001139	Lift targets around up in the air.
+SKILL_20150317_001139	Lift target up in the air.
 SKILL_20150317_001140	Target #{CaptionRatio}#{nl}Duration #{CaptionRatio2}# seconds
 SKILL_20150317_001141	Gravity Pole
-SKILL_20150317_001142	Create a stright gravitational field and pull in target.
+SKILL_20150317_001142	Create a straight gravitational field to pull in targets.
 SKILL_20150317_001143	Target #{CaptionRatio}#{nl}Max. duration 5 seconds
 SKILL_20150317_001144	Unbind
-SKILL_20150317_001145	Release all links connected.
+SKILL_20150317_001145	Release all connected links.
 SKILL_20150317_001146	Cut all links at once {nl} Level 1 master
 SKILL_20150317_001147	Physical link
 SKILL_20150317_001148	Link party members and divide damage.
@@ -1151,7 +1151,7 @@ SKILL_20150317_001150	Joint Penalty
 SKILL_20150317_001151	Put link on enemy. Enemies that are linked receive damage together.
 SKILL_20150317_001152	Max. Links #{SkillFactor}#{nl}Duration #{CaptionTime}# seconds
 SKILL_20150317_001153	Hangman's Knot
-SKILL_20150317_001154	Gather enemies under link to one area.
+SKILL_20150317_001154	Gather linked enemies to one area.
 SKILL_20150317_001155	Gather time of 0.3 seconds
 SKILL_20150317_001156	Spiritual Chain
 SKILL_20150317_001157	Link party members and share buff effects.
@@ -1168,7 +1168,7 @@ SKILL_20150317_001167	Swell Body
 SKILL_20150317_001168	Enlarge size of target.
 SKILL_20150317_001169	Small -> Medium -> Large {nl}Duration #{CaptionTime}# seconds
 SKILL_20150317_001170	Transpose
-SKILL_20150317_001171	Change your INT and CON for a while.
+SKILL_20150317_001171	Temporarily switch your INT and CON.
 SKILL_20150317_001172	Reversi
 SKILL_20150317_001173	Change magic circle of enemies to that of allies.
 SKILL_20150317_001174	Change enemy's magic circle in target area. {nl}Level 1 Master
@@ -1177,18 +1177,18 @@ SKILL_20150317_001176	Enlarge target's right hand and increase attack.
 SKILL_20150317_001177	Use brain's full capacity
 SKILL_20150317_001178	Head is enlarged.
 SKILL_20150317_001179	Electrocute
-SKILL_20150317_001180	{#993399}{ol}[Magic] - [Lightningity]{/}{/}{nl}Launch Lightning chain to attack target in front.
+SKILL_20150317_001180	{#993399}{ol}[Magic] - [Lightningity]{/}{/}{nl}Launch Lightning chain to attack targets in front.
 SKILL_20150317_001181	Attack #{SkillAtkAdd}#{nl}Target #{CaptionRatio}#
 SKILL_20150317_001182	Stone Curse
 SKILL_20150317_001183	Petrify target.
 SKILL_20150317_001184	Duration #{CaptionTime}# seconds{nl}Splash #{CaptionRatio}#
 SKILL_20150317_001185	Hail
-SKILL_20150317_001186	{#993399}{ol}[Magic] - [Ice]{/}{/}{n}Drop ice pieces on target area and damage enemies.
+SKILL_20150317_001186	{#993399}{ol}[Magic] - [Ice]{/}{/}{n}Drop ice chunks on target area and damage enemies.
 SKILL_20150317_001187	Prominence
-SKILL_20150317_001188	{#993399}{ol}[Magic] - [Fire]{/}{/}{nl}Release prominences around. Prominences randomly moves and damage enemies.
+SKILL_20150317_001188	{#993399}{ol}[Magic] - [Fire]{/}{/}{nl}Release prominences around. Prominences randomly move and damage enemies.
 SKILL_20150317_001189	Attack #{SkillAtkAdd}#{nl}Duration 15 seconds
 SKILL_20150317_001190	Meteor
-SKILL_20150317_001191	{#993399}{ol}[Magic] - [Fire]{/}{/}{nl}Drop meteors in target area and damage enemies.
+SKILL_20150317_001191	{#993399}{ol}[Magic] - [Fire]{/}{/}{nl}Drops meteors in target area and damage enemies.
 SKILL_20150317_001192	Attack #{SkillAtkAdd}#{nl}Cast Time #{CaptionTime}# seconds{nl}Splash #{SkillSR}#
 SKILL_20150317_001193	Summoning
 SKILL_20150317_001194	Summon spirits that follow you.
@@ -1198,9 +1198,9 @@ SKILL_20150317_001197	Ride
 SKILL_20150317_001198	Ride on top of summoned spirit.
 SKILL_20150317_001199	Variation
 SKILL_20150317_001200	Quicken
-SKILL_20150317_001201	Give buff that increases movement speed to 1 ally.
+SKILL_20150317_001201	Give buff that increases allies movement speed by 1.
 SKILL_20150317_001202	Reincarnate
-SKILL_20150317_001203	Kill the monster with the buff, and the monster will appear again before it dies.
+SKILL_20150317_001203	Kill a monster with this buff, and the monster will appear again before it dies.
 SKILL_20150317_001204	{#6644FF}{ol}[Fire]{/}{/}Attribute {nl} Attack #{SkillFactor}#% + #{SkillAtkAdd} per 0.5 seconds# damage {nl} Duration 10 seconds {nl}Consume #{{nl} SpendSP}# SP
 SKILL_20150317_001205	Stop
 SKILL_20150317_001206	Monsters hold their current state. All monsters in the area will stop their actions.
@@ -1210,13 +1210,13 @@ SKILL_20150317_001209	Haste
 SKILL_20150317_001210	Back Masking
 SKILL_20150317_001211	Change time of area to that of before skill was used.
 SKILL_20150317_001212	Gather Corpse
-SKILL_20150317_001213	Accumulate dead parts when killing monster with this skill.
+SKILL_20150317_001213	Accumulate dead parts when killing monsters with this skill.
 SKILL_20150317_001214	Create Shoggoth
 SKILL_20150317_001215	Use dead parts to summon Shoggoth
 SKILL_20150317_001216	Flesh Cannon
-SKILL_20150317_001217	Throw dead parts at target area.
+SKILL_20150317_001217	Throw dead parts at the target area.
 SKILL_20150317_001218	Flesh Hoop
-SKILL_20150317_001219	Surround yourself with wall fo dead parts and inflict damange on monsters within radius.
+SKILL_20150317_001219	Surround yourself with a wall of dead parts and inflict damage upon monsters within its radius.
 SKILL_20150317_001220	Dirty Wall
 SKILL_20150317_001221	Descenter
 SKILL_20150317_001222	Combustion
@@ -1226,9 +1226,9 @@ SKILL_20150317_001225	Roasting
 SKILL_20150317_001226	Briquetting
 SKILL_20150317_001227	Tincturing
 SKILL_20150317_001228	Magnum Opus
-SKILL_20150317_001229	Create magic barrier on target area that blocks enemy attacks.
+SKILL_20150317_001229	Create a magic barrier on a target area that blocks enemy attacks.
 SKILL_20150317_001230	Lv.1 Duration #{CaptionTime}# seconds, block 6 times, max. target #{CaptionRatio}# Lv.2 Duration #{CaptionTime}# seconds, block 6 times, max. target #{CaptionRatio}# Lv.3 Duration #{CaptionTime}# seconds, block 6 times, max. target #{CaptionRatio}#
-SKILL_20150317_001231	Make a barrier of fog in front. Accuracy of enemies in the fog decrease.
+SKILL_20150317_001231	Create a barrier of fog in front that decreases enemies accuracy.
 SKILL_20150317_001232	Duration #{CaptionTime}# seconds, Accuracy -#{CaptionRatio}#%{nl}Consume #{SpendSP}# SP
 SKILL_20150317_001233	Shock the enemies under [Freeze] nearby and inflict damage.
 SKILL_20150317_001234	Lv.1 Attack rate #{SkillFactor}#, Splash #{SkillSR}# Lv.2 Attack rate #{SkillFactor}#, Splash #{SkillSR}# Lv.3 Attack rate #{SkillFactor}#, Splash #{SkillSR}# Lv.4 Attack rate #{SkillFactor}#, Splash #{SkillSR}# Lv.5 Attack rate #{SkillFactor}#, Splash #{SkillSR}#
@@ -1243,7 +1243,7 @@ SKILL_20150317_001242	Lv.1 STR, INT + #{CaptionRatio2}#, Max. target #{CaptionRa
 SKILL_20150317_001243	Draw Noir of Death on ground. Allies receive increased CON and AGI from it.
 SKILL_20150317_001244	Lv.1 CON, AGI +#{CaptionRatio2}#, Max. target #{CaptionRatio}#{nl}Skill duration #{CaptionTime}# seconds,Buff duration 2 minutes Lv.2 CON, AGI + #{CaptionRatio2}#, Max #{CaptionRatio}#{nl} Skill duration #{CaptionTime}# seconds, Buff duration 2 minutes Lv.3 CON, AGI +#{CaptionRatio2}#, Max. target #{CaptionRatio}#{nl} Skill duration #{CaptionTime}# seconds, Buff duration 2 minutes Lv.4 CON, AGI +#{CaptionRatio2}#, Max. target #{CaptionRatio}#{nl} Skill duration #{CaptionTime}# seconds, Buff duration 2 minutes Lv. 5 CON, AGI + #{CaptionRatio2}#, Max. target #{CaptionRatio}#{nl} Skill duration #{CaptionTime}# seconds, Buff duration 2 minutes
 SKILL_20150317_001245	Currently in development
-SKILL_20150317_001246	Summon magic circle that heals allies.
+SKILL_20150317_001246	Summon a magic circle that heals allies.
 SKILL_20150317_001247	Marble
 SKILL_20150317_001248	Black Hole
 SKILL_20150317_001249	Change HP and SP and create defense shield.
@@ -1260,14 +1260,14 @@ SKILL_20150317_001259	Freeze enemy.
 SKILL_20150317_001260	Countdown
 SKILL_20150317_001261	Turn back time of allies. HP, SP, STA, Skill cool
 SKILL_20150317_001262	Summon spirit that attacks while moving.
-SKILL_20150317_001263	Use your own demon to inflict damage to nearby enemies.
+SKILL_20150317_001263	Use your own demon to inflict damage upon nearby enemies.
 SKILL_20150317_001264	Spirit receives all the damage of summoner.
 SKILL_20150317_001265	Create clone of yourself and move away from area after using skill.
 SKILL_20150317_001266	Buff for adding attack speed
 SKILL_20150317_001267	Make ground skill of enemies be usable by allies.
 SKILL_20150317_001268	test
 SKILL_20150317_001269	Multi Shot
-SKILL_20150317_001270	{#DD5500}{ol}[Physical] - [Stab]{/}{/}{nl}Quickly fire multiple arrows to specified area.
+SKILL_20150317_001270	{#DD5500}{ol}[Physical] - [Stab]{/}{/}{nl}Quickly fire multiple arrows at the specified area.
 SKILL_20150317_001271	Attack #{SkillAtkAdd}#{nl}Shoot #{CaptionRatio}# times
 SKILL_20150317_001272	Fulldraw
 SKILL_20150317_001273	{#DD5500}{ol}[Physical] - [Stab]{/}{/}{nl}Pull bowstring and shoot arrow straight through the enemy. Target becomes skewed.
@@ -1282,25 +1282,25 @@ SKILL_20150317_001281	Oblique Shot
 SKILL_20150317_001282	{#DD5500}{ol}[Physical] - [Stab]{/}{/}{nl}Arrow bounces to another enemy nearby.
 SKILL_20150317_001283	Attack #{SkillAtkAdd}#{nl}Bounced arrow damage #{CaptionRatio}#%
 SKILL_20150317_001284	Barrage
-SKILL_20150317_001285	{#DD5500}{ol}[Physical] - [Stab]{/}{/}{nl}Shoot 5 arrows in arc shape towards the ground.
+SKILL_20150317_001285	{#DD5500}{ol}[Physical] - [Stab]{/}{/}{nl}Shoot 5 arrows in an arc shape towards the ground.
 SKILL_20150317_001286	High Anchoring
-SKILL_20150317_001287	{#DD5500}{ol}[Physical] - [Stab]{/}{/}{nl}Pull bowstring strongly and shoot arrow that penetrages enemy in front.
+SKILL_20150317_001287	{#DD5500}{ol}[Physical] - [Stab]{/}{/}{nl}Pull bowstring strongly and shoot arrow that penetrates enemy in front.
 SKILL_20150317_001288	Critical shot
-SKILL_20150317_001289	{#DD5500}{ol}[Physical] - [Stab]{/}{/}{nl}Shoot arrow to target with high chance of critical.
+SKILL_20150317_001289	{#DD5500}{ol}[Physical] - [Stab]{/}{/}{nl}Shoot arrow at target with a high chance of critical.
 SKILL_20150317_001290	Attack #{SkillAtkAdd}#{nl}Chance of additional critical 50%
 SKILL_20150317_001291	Steady Aim
-SKILL_20150317_001292	Attak power increase but attack speed decrease.
+SKILL_20150317_001292	Attack power increases but attack speed decreases.
 SKILL_20150317_001293	Additional Damage + #{CaptionRatio}#{nl}Attack Speed -#{CaptionRatio2}#% {nl}Duration 40 seconds
-SKILL_20150317_001294	Time Bomb Arror
-SKILL_20150317_001295	{#DD5500}{ol}[Physical] [Strike]{/}{/}{nl}Hang bomb on arrow and shoot.
+SKILL_20150317_001294	Time Bomb Arrow
+SKILL_20150317_001295	{#DD5500}{ol}[Physical] [Strike]{/}{/}{nl}Hang bomb on an arrow and shoot.
 SKILL_20150317_001296	Attack #{SkillAtkAdd}#{nl}Bomb duration 5 seconds
 SKILL_20150317_001297	Bounce Shot
-SKILL_20150317_001298	{#DD5500}{ol}[Physical] - [Stab]{/}{/}{nl}Shoot arrow that bolt nearby when target is killed with attack.
+SKILL_20150317_001298	{#DD5500}{ol}[Physical] - [Stab]{/}{/}{nl}Shoot arrow that bolts nearby when target is killed with attack.
 SKILL_20150317_001299	Arrow Sprinkle
 SKILL_20150317_001300	{#DD5500}{ol}[Physical] - [Stab]{/}{/}{nl}Jump backwards and shoot multiple arrows forward.
 SKILL_20150317_001301	Attack #{SkillAtkAdd}#{nl}Attack 5 times
 SKILL_20150317_001302	Spiral Arrow
-SKILL_20150317_001303	Next attack inflicts continuous attack.
+SKILL_20150317_001303	Next attack inflicts continuous damage.
 SKILL_20150317_001304	Attack # {CaptionRatio} # times {nl}Duration 10 seconds
 SKILL_20150317_001305	Deploy Pavise
 SKILL_20150317_001306	Install Pavise on ground and defend long rage projectile.
@@ -1309,16 +1309,16 @@ SKILL_20150317_001308	Scatter Caltrop
 SKILL_20150317_001309	{#DD5500}{ol}[Physical] - [Stab]{/}{/}Throw caldrop on ground to damage and slow down enemies when stepping on it.
 SKILL_20150317_001310	Attack #{SkillAtkAdd}#{nl}Throw #{CaptionRatio2}#{nl}Caldrop duration 20 seconds{nl}{#339999}{ol}[Slow]{/}{/} Duration 10 seconds
 SKILL_20150317_001311	Stone Picking
-SKILL_20150317_001312	Pick up things to use as stone bullets in field. Cannot be ontained in town.
+SKILL_20150317_001312	Pick up things to use as stone bullets in the field. Cannot be obtained in town.
 SKILL_20150317_001313	Get up to #{SkillFactor}# stone bullets
 SKILL_20150317_001314	Stone shot
-SKILL_20150317_001315	{#DD5500}{ol}[Physical] [Strike]{/}{/}{nlFire stone bullet and push away enemy. Target becomes stun by chance.
+SKILL_20150317_001315	{#DD5500}{ol}[Physical] [Strike]{/}{/}{nl}Fire stone bullet and push away enemy. Chance to stun target.
 SKILL_20150317_001316	Attack #{SkillAtkAdd}#{nl}{#339999}{ol}[Stun]{/}{/} Duration #{CaptionRatio2}# seconds{nl}Use 1 stone bullet
 SKILL_20150317_001317	Rapid Fire
-SKILL_20150317_001318	{#DD5500}{ol}[Physical] - [Stab]{/}{/}{nl} After loading a number of arrows in the crossbow and fired on targets.
+SKILL_20150317_001318	{#DD5500}{ol}[Physical] - [Stab]{/}{/}{nl} After loading a number of arrows in the crossbow and fire upon targets.
 SKILL_20150317_001319	Attack #{SkillAtkAdd}#{nl}Max. loading time #{CaptionTime}# seconds
 SKILL_20150317_001320	Broom Trap
-SKILL_20150317_001321	{#DD5500}{ol}[Physical] [Strike]{/}{/}{nl}Install trap and inflict damage to nearby targets.
+SKILL_20150317_001321	{#DD5500}{ol}[Physical] [Strike]{/}{/}{nl}Install a trap that inflicts damage upon nearby targets.
 SKILL_20150317_001322	Attack #{SkillAtkAdd}#{nl}Duration 15 seconds
 SKILL_20150317_001323	{#DD5500}{ol}[Physical] - [Stab]{/}{/}{nl}Install trap that fires buckshot and damage enemy.
 SKILL_20150317_001324	Attack #{SkillAtkAdd}#{nl}Splash #{CaptionRatio}#
@@ -1343,27 +1343,27 @@ SKILL_20150317_001342	Pointing
 SKILL_20150317_001343	Companion wanders around target. Target's evasion decreases.
 SKILL_20150317_001344	Evasion -#{CaptionRatio}#{nl}Duration 10 seconds
 SKILL_20150317_001345	Hounding
-SKILL_20150317_001346	Companion finds hidden target around.
-SKILL_20150317_001347	Detoxifiy
+SKILL_20150317_001346	Companion seeks out hidden targets.
+SKILL_20150317_001347	Detoxify
 SKILL_20150317_001348	Release target from addiction. Cannot remove poisons with higher level than detoxification and duration decreases.
 SKILL_20150317_001349	Duration - #{CaptionRatio}# seconds{nl} Use #{SpendPoison}# Poison pot poison
 SKILL_20150317_001350	Needle Blow
-SKILL_20150317_001351	{#DD5500}{ol}[Physical] - [Poison] - [Stab]{/}{/}{nl}Shoot poison arrow that inflicts lasting damage.
+SKILL_20150317_001351	{#DD5500}{ol}[Physical] - [Poison] - [Stab]{/}{/}{nl}Shoot poison arrow that inflicts continuous damage.
 SKILL_20150317_001352	Attack #{SkillAtkAdd}#{nl}{#339999}{ol}[Poison]{/}{/} Duration 30 seconds{nl}Use #{SpendPoison}# Poison pot
 SKILL_20150317_001353	Bewitch
 SKILL_20150317_001354	Make intoxicated enemy become confused.
 SKILL_20150317_001355	{#339999}{ol}[confused]{/}{/}{nl} lasts 10 seconds Poison Poison Podcast # {SpendPoison} # consumption
 SKILL_20150317_001356	Wugong Gu
-SKILL_20150317_001357	{#DD5500}{ol}[Physical] - [Poison] - [Stab]{/}{/}{nl}Shoot contagious poison arrow.Target spreads poison around whenever receiving magic attack.
+SKILL_20150317_001357	{#DD5500}{ol}[Physical] - [Poison] - [Stab]{/}{/}{nl}Shoot contagious poison arrow. Target spreads poison around whenever receiving magic attack.
 SKILL_20150317_001358	Attack #{SkillAtkAdd}#{nl}{#339999}{ol}[Poison]{/}{/} Duration 10 seconds{nl}Use #{SpendPoison}# Poison pot
 SKILL_20150317_001359	Throw Gu Pot
-SKILL_20150317_001360	{#DD5500}{ol}[Physical] - [Poison] - [Stab]{/}{/}{nl}Throw Poison jar and create poison puddle.
+SKILL_20150317_001360	{#DD5500}{ol}[Physical] - [Poison] - [Stab]{/}{/}{nl}Throw Poison jar to create a poison puddle.
 SKILL_20150317_001361	Attack #{SkillAtkAdd}#{nl}Duration 10 seconds{nl}Use #{SpendPoison}# Poison pot
 SKILL_20150317_001362	Jincan Gu
 SKILL_20150317_001363	{#DD5500}{ol}[Physical] - [Poison] - [Stab]{/}{/}{nl}Shoot arrows with hairpin bugs to attack target.
 SKILL_20150317_001364	Attack #{SkillAtkAdd}#{nl}Use #{SpendPoison}# Poison pot
 SKILL_20150317_001365	Camouflage
-SKILL_20150317_001366	Hide yourself in apple box and stay away from enemies' vision. Defend againt Physical attacks.
+SKILL_20150317_001366	Hide yourself in an apple box to keep out of enemies' vision. Defends against Physical attacks.
 SKILL_20150317_001367	Defend #{CaptionRatio}# times{nl}Movement Speed -#{CaptionRatio}#
 SKILL_20150317_001368	Flu Flu
 SKILL_20150317_001369	Shoot arrows that make sound. Also affect enemies nearby.
@@ -1390,15 +1390,15 @@ SKILL_20150317_001389	Arrow fight...
 SKILL_20150317_001390	{#CC3300}{ol}[Sting]{/}{/}Attribute {nl}#{SkillFactor}#% + #{SkillAtkAdd}#{nl} Target 20% damage to the defending leather {nl} sheeting defensive target to -20% damage every 1 sec {nl} + #{CaptionRatio}# bleed damage sustained six seconds {nl} {nl} consumption bleeding SP #{SpendSP}#
 SKILL_20150317_001391	Burrow
 SKILL_20150317_001392	Broad head
-SKILL_20150317_001393	Shoot arrow that cause bleeding effect.
+SKILL_20150317_001393	Shoot arrow that causes a bleeding effect.
 SKILL_20150317_001394	Bodkin Point
-SKILL_20150317_001395	Shoot arrow that decrease defense of enemies and remove their shield.
+SKILL_20150317_001395	Shoot arrow that decreases defense of enemies and removes their shield.
 SKILL_20150317_001396	{#CC3300}{ol}[Sting]{/}{/}Attribute {nl}#{SkillFactor}#% + #{SkillAtkAdd}#{nl} Splash #{SkillSR}#{nl}#{odds shield removal CaptionRatio}#% {nl} Armor reduced by 30% to 70% chance {nl} consumption SP #{SpendSP}#
 SKILL_20150317_001397	Barbed Arrow
-SKILL_20150317_001398	Shoot thorns. Continuous attack apply differently depending on armor type.
+SKILL_20150317_001398	Shoot thorns. Continuous attacks apply differently depending on armor type.
 SKILL_20150317_001399	Attack rate #{SkillFactor}#
 SKILL_20150317_001400	Cross Fire
-SKILL_20150317_001401	Shoot arrow that explodes in cross when killing monster,
+SKILL_20150317_001401	Shoot an arrow that explodes in a cross when killing a monster.
 SKILL_20150317_001402	{#CC3300}{ol}[Stab]{/}{/}Attribute {nl}#{SkillFactor}#% + #{SkillAtkAdd}#{nl} Splash #{SkillSR}#{nl} Consume #{SpendSP }# SP
 SKILL_20150317_001403	Flute Performance
 SKILL_20150317_001404	Feelings
@@ -1407,9 +1407,9 @@ SKILL_20150317_001406	Leg Shot
 SKILL_20150317_001407	Shoot feet of target to slow it down.
 SKILL_20150317_001408	Lv.1 Attack rate #{SkillFactor}# Lv.2 Attack rate #{SkillFactor}# Lv.3 Attack rate #{SkillFactor}#
 SKILL_20150317_001409	Prevent enemy from moving. Enemy will temporarily slow down when released.
-SKILL_20150317_001410	Install turret the inflicts damage to enemies in front.
-SKILL_20150317_001411	Install scarecrow that provoked enemies to attack itself.
-SKILL_20150317_001412	Temporaily bline enemy. Enemy cannot use skill.
+SKILL_20150317_001410	Install a turret that inflicts damage to enemies in front.
+SKILL_20150317_001411	Install a scarecrow that provokes enemies to attack itself.
+SKILL_20150317_001412	Temporarily blind enemy. Enemy cannot use skill.
 SKILL_20150317_001413	Chance of Blindness #{CaptionRatio}#% {nl} Consume #{SpendSP}# SP
 SKILL_20150317_001414	Saber Thrust
 SKILL_20150317_001415	Saber Bash
@@ -1429,15 +1429,15 @@ SKILL_20150317_001428	Cure
 SKILL_20150317_001429	{#993399}{ol}[Magic] - [Divine]{/}{/}{nl} Remove harmful effects on allies or create Magic circles to damage Earth type enemies.
 SKILL_20150317_001430	Attack #{SkillAtkAdd}#{nl}Attack count #{CaptionRatio}# times {nl}Magic circle Duration #{CaptionTime}# seconds
 SKILL_20150317_001431	Safety Zone
-SKILL_20150317_001432	Create magic circle that blocks attack
+SKILL_20150317_001432	Create magic circle that blocks attacks
 SKILL_20150317_001433	Defense #{SkillFactor}# times{nl} Magic circle duration 20 seconds
 SKILL_20150317_001434	Deprotected Zone
-SKILL_20150317_001435	Create magic circle that continuously decrease the defense of target.
+SKILL_20150317_001435	Create a magic circle that continuously decreases the defense of targets.
 SKILL_20150317_001436	Defense -#{CaptionRatio}#{nl}- #{CaptionRatio2} per overlap #{nl}Magic circle duration #{CaptionTime}# seconds
 SKILL_20150317_001437	Divine Might
-SKILL_20150317_001438	Create magic circle that increases skill level of target. Effect is gone when used and cannot be overlapped.
+SKILL_20150317_001438	Create a magic circle that increases skill level of target. Effect is gone when used and cannot be overlapped.
 SKILL_20150317_001439	Skill Level +#{SkillFactor}#{nl}Duration 10 seconds {nl}Magic circle duration 20 seconds
-SKILL_20150317_001440	Summon torch and increase HP recovery nearby.
+SKILL_20150317_001440	Summon a torch and increase HP recovery nearby.
 SKILL_20150317_001441	HP recovery ability increases {nl}Torch duration #{CaptionTime}# seconds
 SKILL_20150317_001442	Zalciai
 SKILL_20150317_001443	Generate magic circle that change critical capacity of the subject.
@@ -1478,26 +1478,26 @@ SKILL_20150317_001477	{#993399}{ol}[Magic] - [Dark]{/}{/}{nl}Damage enemies unde
 SKILL_20150317_001478	Attack #{SkillAtkAdd}#{nl}Attack bonus on 3rd attack #{CaptionRatio}# times ~ #{CaptionRatio2}#times
 SKILL_20150317_001479	Tet Mamak La
 SKILL_20150317_001480	Lure zombies to target area.
-SKILL_20150317_001481	Summoned zombies requried {nl}Level 1 Master
+SKILL_20150317_001481	Summoned zombies required {nl}Level 1 Master
 SKILL_20150317_001482	Zombify
-SKILL_20150317_001483	Create zombit magic circle on ground. Enemies killed in the circle becomes zombies.
+SKILL_20150317_001483	Create a zombie magic circle on the ground. Enemies killed in the circle becomes zombies.
 SKILL_20150317_001484	Magic Circle Duration #{CaptionTime}# seconds{nl}Summon Max. #{CaptionRatio}# Zombies
 SKILL_20150317_001485	Mackangdal
 SKILL_20150317_001486	Throw amulet on target. Becomes invincible while under effect but receive accumulated damage when effect is gone.
 SKILL_20150317_001487	Invincible Duration #{CaptionTime}# seconds
 SKILL_20150317_001488	Bwa Kayiman
-SKILL_20150317_001489	{#DD5500}{ol}[Physical] [Strike]{/}{/}{nl}Zombies roam around target area. Enemies are pushed away and damaged when toufching the zombies.
+SKILL_20150317_001489	{#DD5500}{ol}[Physical] [Strike]{/}{/}{nl}Zombies roam around target area. Enemies are pushed away and damaged when touching the zombies.
 SKILL_20150317_001490	Attack #{SkillAtkAdd}#{nl}Summoned zombie required
 SKILL_20150317_001491	Samdiveve
-SKILL_20150317_001492	Pin flag on ground. Movement speed and max. HP of targets around the flag increase.
+SKILL_20150317_001492	Pin flag on the ground. Movement speed and max. HP of targets around the flag increases.
 SKILL_20150317_001493	Max. HP +#{CaptionRatio}#{nl}Movement Speed +#{CaptionRatio2}#% Duration 30 seconds {nl}
 SKILL_20150317_001494	Ogouveve
-SKILL_20150317_001495	Pin flag on ground. STR of targets around the flag increase.
+SKILL_20150317_001495	Pin flag on ground. STR of targets around the flag increases.
 SKILL_20150317_001496	Strength + #{CaptionRatio}#{nl}Duration 30 seconds
 SKILL_20150317_001497	Damballa
 SKILL_20150317_001498	{#993399}{ol}[Magic]{/}{/}{nl}Blast the zombies in target area.
 SKILL_20150317_001499	Attack #{SkillAtkAdd}#{nl}Summoned zombie required{nl}Target #{SkillSR}#
-SKILL_20150317_001500	Carve Statue of Vakarine. You can warp to other area throught the Goddess Statue.
+SKILL_20150317_001500	Carve Statue of Vakarine. You can warp to other areas through the Goddess Statue.
 SKILL_20150317_001501	Warp #{CaptionRatio}# times {nl}Statue Duration 30 seconds{nl}Use 3 Oak wood
 SKILL_20150317_001502	Zemyna Statue
 SKILL_20150317_001503	Carve Goddess Zemyna Statue. Party members around the statue consume less SP when using skill.
