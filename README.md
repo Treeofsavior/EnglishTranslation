@@ -1,16 +1,14 @@
-##NOTICE (Updated 08-06-2015)
+##NOTICE (Updated 08-08-2015)
 
 **PLEASE CHECK THE [GUIDELINES](https://github.com/Treeofsavior/EnglishTranslation/wiki/Guidelines) BEFORE SENDING YOUR PULL REQUESTS.**
 
-**WE WILL NOT BE ACCEPTING PULL REQUESTS DURING THE BETA TEST PERIOD EXCEPT FOR CRITICAL ONES SUCH AS FILLING IN MISSING TRANSLATIONS OR FIXING MACHINE TRANSLATED LINES**
-
-**FOR NOW, PLEASE DO NOT SEND PULL REQUESTS BASED ON THE FILES IN GITHUB**
+**DURING CBT, PLEASE SEND YOUR PULL REQUESTS ONLY FOR THOSE EDITED USING REAL TIME TRANSLATION, RATHER THAN SIMPLY READING IT OFF THE FILES**
 
 **YOU MAY CHECK THE ISSUES FOR INSTRUCTIONS ON HOW TO ENABLE REAL TIME TRANSLATION**
 
 <br>
 
-1. We've added SKILL and UI files. Be sure to [**CHECK THE ISSUE FOR GUIDELINES**](https://github.com/Treeofsavior/EnglishTranslation/issues/596) before you edit them. **(NEW)**
+1. Files have been updated to match the current CBT version. **(NEW)**
 
 2. Have you checked out our official Forums? Click [**HERE**](https://forum.treeofsavior.com/) move to the forums for discussion. Please login and click on the github icon to link your github account to it as well.
 
