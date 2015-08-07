@@ -3604,7 +3604,7 @@ SKILL_20150414_003603	Shovelling
 SKILL_20150414_003604	Detect metal
 SKILL_20150414_003605	Water spray
 SKILL_20150414_003606	{#DD5500}{ol}[Physical] - [Stab]{/}{/}{nl}Stab and push away enemy with tip of weapon.
-xSKILL_20150414_003607	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Hit target with a strong strike.
+xSKILL_20150414_003607	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Strike with a powerful blow
 xSKILL_20150414_003608  A boost in Confidence. Increasing ATK while reducing defense.
 SKILL_20150414_003609	Increase your ATK.
 SKILL_20150414_003610	Reduce your max. HP but enemy has high chance of faint.
@@ -3614,14 +3614,14 @@ xSKILL_20150414_003613	{#DD5500}{ol}[Physical] - [Hit]{/}{/}{nl}Smash the target
 xSKILL_20150414_003614	{#DD5500}{ol}[Physical] - [Hit]{/}{/}{nl}Use corner of shield to attack. Inflict additional damage on frozen enemies.
 SKILL_20150414_003615	Tap the shield to provoke and make enemies follow you.
 SKILL_20150414_003616	Reduce your attack while increasing defense. Cannot be used with Gung Ho.
-SKILL_20150414_003617	{#DD5500}{ol}[Physical] - [Hit]{/}{/}{nl}Toss shield at target. Shield will land nearby and may fade if not picked up within time limit.
+SKILL_20150414_003617	{#DD5500}{ol}[Physical] - [Hit]{/}{/}{nl}Throw shield at target. Shield will land nearby and may fade if not picked up within time limit.
 SKILL_20150414_003618	Change to active stance using shield in front. Block and increases while attack and critical decrease.
 SKILL_20150414_003619	Block +#{CaptionRatio}# {nl}Attack -#{CaptionTime}#% {nl}Chance of critical -#{CaptionRatio2}#
 SKILL_20150414_003620	{#DD5500}{ol}[Physical] - [Hit] - [Slash]{/}{/}{nl}Use shield and sword to attack.
 xSKILL_20150414_003621	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Hit target with a rising strike knocking them away.
 xSKILL_20150414_003622	{#DD5500}{ol}[Physical] - [Hit]{/}{/}{nl}A heavy blow to the target's head temporarily decreasing INT and SPR.
-SKILL_20150414_003623	A defensive stance. Enemies blocked becomes weak to stab attacks.
-xSKILL_20150414_003624	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Use Mutiple strike on a target.
+SKILL_20150414_003623	Take defensive stance. Enemies blocked becomes weak to stab attacks.
+xSKILL_20150414_003624	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Attack with mutipel strikes.
 SKILL_20150414_003625	{#DD5500}{ol}[Physical] - [Hit]{/}{/}{nl}Make a strong swipe pushing aside the target and destroying its defense.
 SKILL_20150414_003626	{#DD5500}{ol}[Physical] - [Stab]{/}{/}{nl}Repeatedly stab enemy with spear.
 xSKILL_20150414_003627	{#DD5500}{ol}[Physical] - [Stab]{/}{/}{nl}Imapale the target and deal damage overtime according to the size of the monster
@@ -3630,9 +3630,9 @@ SKILL_20150414_003629	{#DD5500}{ol}[Physical] - [Stab] - [Hit]{/}{/}{nl}Use spea
 SKILL_20150414_003630	{#DD5500}{ol}[Physical] - [Stab]{/}{/}{nl}Throw spear to attack enemy. Spear dropped on ground may disappear if not picked up within time limit.
 SKILL_20150414_003631	{#DD5500}{ol}[Physical] - [Hit]{/}{/}{nl}Charge in a straight path with a shield. Enemies in the path will be knock over.
 xSKILL_20150414_003632	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Perform a low sweep. Chance of stunning the enemy.
-SKILL_20150414_003633	{#DD5500}{ol}[Physical] - [Hit]{/}{/}{nl}Use a shield to smash a target down. Chance of blinding the enemy[Dark].
+SKILL_20150414_003633	{#DD5500}{ol}[Physical] - [Hit]{/}{/}{nl}Smash the target down with a shield. Chance of blinding the enemy[Dark].
 SKILL_20150414_003634	Attack #{SkillAtkAdd}#{nl}Defense -#{CaptionRatio}# {nl}{#339999}{ol}[Unbalance]{/}{/} Duration 5 seconds
-SKILL_20150414_003635	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Hold key to slowly move forward. Increases evasion and will attack frontal enemy.
+SKILL_20150414_003635	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Hold key to slowly move forward. Increases evasion and attack enemy in front.
 SKILL_20150414_003636	{#DD5500}{ol}[Physical] - [Stab] - [Hit]{/}{/}{nl}Use sword and shield to attack continuously.
 SKILL_20150414_003637	{#DD5500}{ol}[Stab]{/}{/}{nl}Penetrate small, medium sized enemy on spear and bring around. Enemy skewed can be used to attack other enemies.
 SKILL_20150414_003638	Movement speed increases when you are riding.
@@ -3654,7 +3654,7 @@ SKILL_20150414_003653	Open shop for repairing items. Items are repaired to have 
 SKILL_20150414_003654 Stuns a target. Including boss monster.
 xSKILL_20150414_003655	Create a tent for party members. Party members can use tent for storage and teleports.
 SKILL_20150414_003656	Duration #{CaptionRatio}# hours{nl}Food effects duration at least 30 minutes
-SKILL_20150414_003657 Prepare a feast for party members. temporarily increase abilities. Only installable near the tent and will disappear when camp is gone.
+SKILL_20150414_003657 Prepare a feast for party members. temporarily increase abilities. Can only be situate near tent and will vanish when "camp" is gone.
 SKILL_20150414_003658	Place a flag boosting the pirates' abilities. Chain kills of enemies near the flag for combo attack.
 SKILL_20150414_003659	{#DD5500}{ol}[Physical] - [Hit]{/}{/}{nl}Drag and pull enemies captured with Iron Hook. Enemy receives damage each time it is pulled.
 SKILL_20150414_003660	Can you sword {nl}without delay after normal attack.{nl}Duration #{CaptionTime}# seconds
