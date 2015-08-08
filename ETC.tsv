@@ -1483,7 +1483,7 @@ ETC_20150317_001482	Your inventory is full
 ETC_20150317_001483	This server is closed
 ETC_20150317_001484	This item cannot be equipped
 ETC_20150317_001485	[{Word}] is not allowed for use.
-ETC_20150317_001486	{S20}{ol}{#46c8ff} You do not have enough SP
+ETC_20150317_001486	{S20}{ol}{#46c8ff} Not enough SP
 ETC_20150317_001487	Server version does not match
 ETC_20150317_001488	You do not meet the level requirement.{nl} Check the required level in the item description
 ETC_20150317_001489	Cannot be equipped by male characters. {nl}Check the gender and level requirement in the item description
@@ -1578,7 +1578,7 @@ ETC_20150317_001577	Failed to purchase item! You have insufficient funds.
 ETC_20150317_001578	Failed to purchase item! Seller has canceled or has removed it from the list.
 ETC_20150317_001579	Failed to purchase item! An unknown error has occurred.
 ETC_20150317_001580	Too close
-ETC_20150317_001581	{S20}{ol}{#46ffc8} You do not have enough stamina.
+ETC_20150317_001581	{S20}{ol}{#46ffc8} Not enough stamina.
 ETC_20150317_001582	Object needed for the skill is not available.
 ETC_20150317_001583	You cannot equip secondary equipment when wearing a Two-Hand weapon.
 ETC_20150317_001584	You cannot use 'Return' during Rest Mode.
@@ -1890,7 +1890,7 @@ ETC_20150317_001889	Temporary Event
 ETC_20150317_001890	Acquired
 ETC_20150317_001891	You already have it.
 ETC_20150317_001892	Field boss appeared!
-ETC_20150317_001893	Item
+ETC_20150317_001893	Items
 ETC_20150317_001894	Map
 ETC_20150317_001895	Achievement
 ETC_20150317_001896	Mike
@@ -1952,7 +1952,7 @@ ETC_20150317_001951	{@st41} missed compensation {/}
 ETC_20150317_001952	Are open
 ETC_20150317_001953	There is no reward list of the treasure chest.
 ETC_20150317_001954	The reward setting is incorrect.
-ETC_20150317_001955	If you destroy Tree Roots, your stamina will be recovered!
+ETC_20150317_001955	Destroying Tree Root Crystals will help recover your stamina!
 ETC_20150317_001956	Class
 ETC_20150317_001957	{@st41b} Title {/}
 ETC_20150317_001958	{@St41b} {Auto_1} Achievement Score: {/}{s20}{ol}{#FFFF00} {Auto_2}{/}
@@ -2158,7 +2158,7 @@ ETC_20150317_002157	Food of Fedimian
 ETC_20150317_002158	Talk to the summoned guardian of Zachariel to unseal!
 ETC_20150317_002159	Status Point has been added!
 ETC_20150317_002160	Nothing happens!
-ETC_20150317_002161	You kicked the box and a Red Vubbe Fighter has appeared!
+ETC_20150317_002161	Kicking the chest angered a Red Vubbe Fighter!
 ETC_20150317_002162	Canyon Amalas is saved!
 ETC_20150317_002163	You are addicted to Canon Amalas and it makes your mind seem at loss.
 ETC_20150317_002164	Unsealed!
@@ -2710,7 +2710,7 @@ ETC_20150317_002709	Private
 ETC_20150317_002710	Confirm
 ETC_20150317_002711	Price: Low to High
 ETC_20150317_002712	Price: High to Low
-ETC_20150317_002713	Latest Enrolled
+ETC_20150317_002713	Recently Listed
 ETC_20150317_002714	Price entered must be at least 1.
 ETC_20150317_002715	Only skills that consume items are possible.
 ETC_20150317_002716	Keep out! The stones should be delivered as soon as possible.
@@ -2822,11 +2822,15 @@ ETC_20150317_002821	{@st45w3}{s18}{Auto_1}{Auto_2} ea {/}
 ETC_20150317_002822	{@st41}Reward(s) received:
 ETC_20150317_002823	{@st64} Approach the NPC and use 
 ETC_20150317_002824	Space Bar
+<<<<<<< HEAD
 ETC_20150317_002825	 to start conversation
+=======
+ETC_20150317_002825	 to start a conversation
+>>>>>>> 2182aaee9c85f91f8d41ead44a24932dfd1e4dd5
 ETC_20150317_002826	Give up quest
-ETC_20150317_002827	Forfeit
+ETC_20150317_002827	Abandon
 ETC_20150317_002828	Warp to completion area
-ETC_20150317_002829	 Objective : 
+ETC_20150317_002829	Objective : 
 ETC_20150317_002830	Warrior Type
 ETC_20150317_002831	Wizard Type
 ETC_20150317_002832	Archer Type
@@ -3145,7 +3149,11 @@ ETC_20150317_003144	Guardian of the contract emerged!
 ETC_20150317_003145	Guardian of the contract
 ETC_20150317_003146	Box
 ETC_20150317_003147	Ask what's going on
+<<<<<<< HEAD
 ETC_20150317_003148	Do not mind
+=======
+ETC_20150317_003148	Leave
+>>>>>>> 2182aaee9c85f91f8d41ead44a24932dfd1e4dd5
 ETC_20150317_003149	I can't you grow something like a garden
 ETC_20150317_003150	Leave
 ETC_20150317_003151	Ask if it wasn't a crush
@@ -3502,8 +3510,13 @@ ETC_20150317_003501	Treating
 ETC_20150317_003502	Treated Patient!
 ETC_20150317_003503	Treated Soldier
 ETC_20150317_003504	Obtained the supplies box
+<<<<<<< HEAD
 ETC_20150317_003505	Acquired the relief goods
 ETC_20150317_003506	Acquired materials for reinforcement
+=======
+ETC_20150317_003505	Acquired relief supplies
+ETC_20150317_003506	Acquired stones for wall reinforcement
+>>>>>>> 2182aaee9c85f91f8d41ead44a24932dfd1e4dd5
 ETC_20150317_003507	Spreading
 ETC_20150317_003508	Looks like we're going to have to go back quickly
 ETC_20150317_003509	The town seems safer than here
@@ -3562,7 +3575,11 @@ ETC_20150317_003561	Company Ullman Warrior
 ETC_20150317_003562	Dionia
 ETC_20150317_003563	Thorn ball
 ETC_20150317_003564	Move between camps : 
+<<<<<<< HEAD
 ETC_20150317_003565	Activated
+=======
+ETC_20150317_003565	 Activated
+>>>>>>> 2182aaee9c85f91f8d41ead44a24932dfd1e4dd5
 ETC_20150317_003566	Index UI
 ETC_20150317_003567	Item maintenance
 ETC_20150317_003568	Start it tag
@@ -4177,10 +4194,10 @@ ETC_20150317_004176	Sell{/}{/}to {nl}key instant shops
 ETC_20150317_004177	A lot of enhancement materials. {nl}
 ETC_20150317_004178	Try item enhancement {/} {/}.
 ETC_20150317_004179	Upgradeable{nl}There are items.{nl}
-ETC_20150317_004180	Potions can be used to restore your HP.
+ETC_20150317_004180	Drink HP Potions to recover the HP.
 ETC_20150317_004181	{nl} Shortcut: {#0000FF}
-ETC_20150317_004182	You can use the potion items, you will be able to recover the SP.
-ETC_20150317_004183	By using a potion, you will be able to recover Stamina
+ETC_20150317_004182	Drink SP Potions to recover the SP.
+ETC_20150317_004183	Use a Stamina Pill to recover Stamina
 ETC_20150317_004184	{s18}{#001100}You can raise your character's stats {nl} by leveling up.
 ETC_20150317_004185	Click apply {nl} after increasing stats by using buttons.
 ETC_20150317_004186	{s18}{#001100}{a @UI_TUTO_MORU} Right-click the anvil to enhance items
@@ -4264,8 +4281,8 @@ ETC_20150317_004263	Select Group when you double-click
 ETC_20150317_004264	Fool (haha)
 ETC_20150317_004265	The amount is low.
 ETC_20150317_004266	Moni
-ETC_20150317_004267	You can use the key
-ETC_20150317_004268	You can use your skills
+ETC_20150317_004267	 Key has been assigned with 
+ETC_20150317_004268	 in your Hotkeys.
 ETC_20150317_004269	Space bar \
 ETC_20150317_004270	{@st41} Dialog start key {/}
 ETC_20150317_004271	{@st41} Movement {/}
@@ -4555,7 +4572,7 @@ ETC_20150317_004554	TxGiveItem function
 ETC_20150317_004555	TxTakeItem function
 ETC_20150317_004556	Completed Quests
 ETC_20150317_004557	Activation of script of the first play
-ETC_20150317_004558	You do not have enough iCoins..
+ETC_20150317_004558	You do not have enough iCoins…
 ETC_20150317_004559	Change Hairstyle
 ETC_20150317_004560	Failed to change hairstyle
 ETC_20150317_004561	Name/
@@ -5023,7 +5040,11 @@ ETC_20150317_005022	The Mausoleum lanterns are being attacked by the guardians!
 ETC_20150317_005023	Bearkaras' suppressed power has returned.
 ETC_20150317_005024	Panto_Rsword: Hot Panto Fighter: 50/Panto_Rspear: Hot Panto Spearman: 50/Panto_Rhand: Hot Panto: 50/Panto_Rstaff: Hot Panto Wizard: 51
 ETC_20150317_005025	Crafting item
+<<<<<<< HEAD
 ETC_20150317_005026	Ask about the Revelator
+=======
+ETC_20150317_005026	I am a Revelator?
+>>>>>>> 2182aaee9c85f91f8d41ead44a24932dfd1e4dd5
 ETC_20150317_005027	Ask about the current situation
 ETC_20150317_005028	Ask about the Medis Diena that took place four years ago.
 ETC_20150317_005029	Ask about the disappearance of the Goddess
@@ -5365,9 +5386,9 @@ ETC_20150317_005364	Why are golem remains found here?
 ETC_20150317_005365	Hey!!! It's dangerous!! Run!!
 ETC_20150317_005366	Is it dead?
 ETC_20150317_005367	Huh..!!
-ETC_20150317_005368	Get rid of the Large Kepa!
+ETC_20150317_005368	Defeat the Large Kepa!
 ETC_20150317_005369	The Large Kepa is in here!
-ETC_20150317_005370	Alchemist Vaidotas
+ETC_20150317_005370	Alchemist Vidotas
 ETC_20150317_005371	2nd Mine Lot Closed
 ETC_20150317_005372	Evacuate the residents!
 ETC_20150317_005373	Stop!!
@@ -5550,7 +5571,7 @@ ETC_20150317_005549	Vegetable Cultivation Count
 ETC_20150317_005550	Succeeded Commission Count
 ETC_20150317_005551	Field Event Completion
 ETC_20150317_005552	Dae-Gil Conversation
-ETC_20150317_005553	Treasure Hunter
+ETC_20150317_005553	Treasure Chests
 ETC_20150317_005554	Item Crafting
 ETC_20150317_005555	Beauty Salon
 ETC_20150317_005556	Access Count
@@ -5878,7 +5899,7 @@ ETC_20150317_005877	Twintail
 ETC_20150317_005878	Baby Perm
 ETC_20150317_005879	Reggae Ponytail
 ETC_20150317_005880	Dandy
-ETC_20150317_005881	Double Burn
+ETC_20150317_005881	Double Bun
 ETC_20150317_005882	Short Ponytail
 ETC_20150317_005883	Long Layered
 ETC_20150317_005884	Noble Wave
@@ -5985,7 +6006,7 @@ ETC_20150317_005984	Overkill will be activated if you kill the monster with a st
 ETC_20150317_005985	Overkill will be activated if you do more damage with a powerful attack to a monster than its remaining HP.
 ETC_20150317_005986	Destroying a Tree Root Crystal recovers your Stamina.
 ETC_20150317_005987	There are many Tree Root Crystals in every field.
-ETC_20150317_005988	The Stamina of all the players around you will be replenished if you destroy the Tree Root Crystals.
+ETC_20150317_005988	The Stamina of all nearby players will be replenished if you destroy the Tree Root Crystal.
 ETC_20150317_005989	Overheat
 ETC_20150317_005990	Some particular skills may overheat when used over a certain number of times.
 ETC_20150317_005991	If Overheat is triggered, that skill goes on cool-down and you will be unable to use it for a while.
@@ -6022,7 +6043,7 @@ ETC_20150317_006022	Convenience Function
 ETC_20150317_006023	   Use warp to quickly move to your desired area.
 ETC_20150317_006024	Activating 
 ETC_20150317_006025	Goddess Statues in towns
-ETC_20150317_006026	 or
+ETC_20150317_006026	 or activated 
 ETC_20150317_006027	 enables you to warp to other areas.
 ETC_20150317_006028	Approach the Statue to activate it.
 ETC_20150317_006029	You can warp to activated areas using the Goddess Vakarine Statue.
@@ -6031,20 +6052,21 @@ ETC_20150317_006031	When using the Warp Scroll, you can only warp to areas with 
 ETC_20150317_006032	By using the Warp Scroll again, you will be warped to your last location.
 ETC_20150317_006033	Warp Scrolls can be bought from the shop or acquired from quests.
 ETC_20150317_006034	You can use the 'Return' button to complete quests more easily and faster.
-ETC_20150317_006035	When you complete quests, in the mission window UI
-ETC_20150317_006036	this button will be activated.
+ETC_20150317_006035	Upon quest completion, a 
+ETC_20150317_006036	 button will be activated in the the mission window UI 
 ETC_20150317_006037	Return Button
-ETC_20150317_006038	You can teleport to the Quest NPC right away by clicking the ({img questinfo_return 40 40}) button.
+ETC_20150317_006038	 allows you to teleport to the Quest NPC right away by clicking on the ({img questinfo_return 40 40}) button.
 ETC_20150317_006039	or you can use the shortcut key
 ETC_20150317_006040	Backspace
 ETC_20150317_006041	key
-ETC_20150317_006042	to return to the quest NPC.
+ETC_20150317_006042	button to return to the quest NPC.
 ETC_20150317_006043	Field Event
 ETC_20150317_006044	Worshiping the Goddess Statue will benefit you.
 ETC_20150317_006045	Each Goddess Statue will give you effects for your benefit.
 ETC_20150317_006046	Each Goddess Statue in the world has special powers.
 ETC_20150317_006047	is used to warp to other areas.
 ETC_20150317_006048	To use the warp function, the
+<<<<<<< HEAD
 ETC_20150317_006049	of the area should be activated.
 ETC_20150317_006050	can obtain character's Status Points
 ETC_20150317_006051	Treasure Chest
@@ -6052,8 +6074,17 @@ ETC_20150317_006052	You can get the special items from chests.
 ETC_20150317_006053	They are hidden all over fields.
 ETC_20150317_006054	You can look for them
 ETC_20150317_006055	There are many types of treasure chest, and you can obtain special items from them.
+=======
+ETC_20150317_006049	of the area needs to be activated.
+ETC_20150317_006050	can obtain character's Status Points
+ETC_20150317_006051	Treasure Chests
+ETC_20150317_006052	 contain obtainable, special items.
+ETC_20150317_006053	Hidden in many fields, 
+ETC_20150317_006054	 can be discovered by your character
+ETC_20150317_006055	There are many types of treasure chest that you can obtain special items from.
+>>>>>>> 2182aaee9c85f91f8d41ead44a24932dfd1e4dd5
 ETC_20150317_006056	You can receive the rewards by pressing the {img SPACE 40 40} key without any condition for a level 1 treasure chest.
-ETC_20150317_006057	You have to use the keys to open the level 2 treasure chest and levels higher than that.
+ETC_20150317_006057	Keys are used to open Lvl 2 chests and greater.
 ETC_20150317_006058	You can obtain the keys through quest progress.
 ETC_20150317_006059	Item Enhancement
 ETC_20150317_006060	You can enhance your equipment through the enhancement system.
@@ -7498,9 +7529,9 @@ ETC_20150317_007498	Attach the holy bomb
 ETC_20150317_007499	Collect the mysterious stone
 ETC_20150317_007500	Information for the barrier (3)
 ETC_20150317_007501	Siauliai Mining Village (1)
-ETC_20150317_007502	Collect the rest relief
+ETC_20150317_007502	Collect supplies from the relief boxes
 ETC_20150317_007503	Minder's manager misunderstood (1)
-ETC_20150317_007504	Gather materials for reinforcement
+ETC_20150317_007504	Gather stones to reinforce the Mine's exterior walls
 ETC_20150317_007505	Minder's manager misunderstood (2)
 ETC_20150317_007506	Take the refugee couple to the Healer Lady
 ETC_20150317_007507	Rescue the kidnapped villagers (1)
@@ -9512,7 +9543,7 @@ ETC_20150317_009512	House Krive hidden
 ETC_20150317_009513	[Psychokino Master]{nl} Ili Terid
 ETC_20150317_009514	[Linker Master]{nl} Winona Ende
 ETC_20150317_009515	Hidden trigger for 5th advancement Psychokino_Linker_Alchemist
-ETC_20150317_009516	Miner's manager Bringker
+ETC_20150317_009516	Miner Manager Bringker
 ETC_20150317_009517	Start Trigger
 ETC_20150317_009518	Medium Boss Golem Trigger
 ETC_20150317_009519	[Hoplite Master]{nl}    Adidas Baylor
@@ -12664,7 +12695,7 @@ ETC_20150714_012665	Darkness Property
 ETC_20150714_012666	Gender Property
 ETC_20150714_012667	Barracks theme changed.
 ETC_20150714_012668	Like!
-ETC_20150714_012669	Cancel Like
+ETC_20150714_012669	Cancel Like!
 ETC_20150714_012670	The other party rejected 
 ETC_20150714_012671	Not enough party members (%d/%d)
 ETC_20150714_012672	{Name} invited you to {PVPName}. Would you like to join? 
@@ -13258,9 +13289,9 @@ ETC_20150717_013259	Use the search function to quickly find items.
 ETC_20150717_013260	The lower ares shows total carry weight of your items, funds, and iCoins.
 ETC_20150717_013261	Available quests are found in the Quest window.
 ETC_20150717_013262	Press the {img F5 40 40} to view the quests in progress.
-ETC_20150717_013263	elect an entry from the Quests in Progress list for detailed information.
-ETC_20150717_013264	You can quit the quest by
-ETC_20150717_013265	the quest.
+ETC_20150717_013263	Select an entry from the Quests in Progress list for detailed information.
+ETC_20150717_013264	You can drop certain quests with the 
+ETC_20150717_013265	 button.
 ETC_20150717_013266	You can check abandoned quests through
 ETC_20150717_013267	tab.
 ETC_20150717_013268	button allows you to restart the quest immediately. Some quests cannot be abandoned.
@@ -13278,7 +13309,11 @@ ETC_20150717_013279	You can complete the Adventure Index through Items, Monsters
 ETC_20150717_013280	You can receive rewards from
 ETC_20150717_013281	Wing of Bybora, Lena
 ETC_20150717_013282	in Klaipeda based on the character's Adventure Index.
+<<<<<<< HEAD
 ETC_20150717_013283	You can strengthen each status by using Status Points.
+=======
+ETC_20150717_013283	You can strengthen each ability by using Status Points.
+>>>>>>> 2182aaee9c85f91f8d41ead44a24932dfd1e4dd5
 ETC_20150717_013284	You can preview the effects from the screen below.
 ETC_20150717_013285	Advancement
 ETC_20150717_013286	You can Advance to another Class when you reach Class Level 15.
@@ -13315,10 +13350,10 @@ ETC_20150717_013316	[Rest Mode] Press {img Insert 40 40} to Rest.
 ETC_20150717_013317	While in Rest Mode, movement is limited but restoration speed increases. You can still do other activities.
 ETC_20150717_013318	[Bonfire] Light a Bonfire during Rest Mode to increase your restoration speed further.
 ETC_20150717_013319	Use the {img key1 40 40}~{img key9 40 40} keys to pick a Bonfire location. {nl}Bonfires require Firewood, which can be bought from a merchant.
-ETC_20150717_013320	[Restore Naturally] :
-ETC_20150717_013321	Restoration speed
-ETC_20150717_013322	depends on
-ETC_20150717_013323	the character's Status.
+ETC_20150717_013320	[Natural Recovery] :
+ETC_20150717_013321	 ability influences 
+ETC_20150717_013322	 HP Recovery Speed
+ETC_20150717_013323	 , recovering HP in intervals.
 ETC_20150717_013324	Restoring Naturally is very slow compared to other methods, but does not require any control or conditions.
 ETC_20150717_013325	[Restore by Potion] Restore HP/SP/STA immediately using various potions.
 ETC_20150717_013326	[Destroy Tree Root Crystal] Destroy the Tree Root Crystal to restore the Stamina of all nearby characters.
@@ -13336,11 +13371,15 @@ ETC_20150717_013337	You can add names or memos on crafted items.
 ETC_20150717_013338	Shop System
 ETC_20150717_013339	You can find Merchant NPCs in your travels.
 ETC_20150717_013340	Use the trade window to trade items with NPCs.{nl}{nl}[Buy] : Select the items you want to buy with {img mouseclick_right 40 40}, then press
+<<<<<<< HEAD
 ETC_20150717_013341	Settle
+=======
+ETC_20150717_013341	Confirm
+>>>>>>> 2182aaee9c85f91f8d41ead44a24932dfd1e4dd5
 ETC_20150717_013342	 button to trade. {nl}To trade multiple items, use {img mouseclick_right 40 40} to set quantity. {nl}{nl}[Sell]: {img mouseclick_right 40 40} on the items you want to sell from your inventory, and set quantity, then press
 ETC_20150717_013343	button to trade. {nl}Double {img mouseclick_right 40 40} to sell all of that item.
-ETC_20150717_013344	Empty
-ETC_20150717_013345	button enables you to reset all items registered for Buy and Sell.
+ETC_20150717_013344	Reset
+ETC_20150717_013345	 button enables you to reset all items registered for Buy and Sell.
 ETC_20150717_013346	{img mouseclick_right 40 40} on the item from 'Items Sold' below to buy back item delete it from the list.
 ETC_20150717_013347	You require money and an Anvil to enhance equipment.
 ETC_20150717_013348	can be purchased from an Item Merchant or obtained from monsters.
@@ -13382,11 +13421,11 @@ ETC_20150717_013383	Items purchased are sent to the Item Inbox.
 ETC_20150717_013384	To sell items, you must register and list the items for sale.
 ETC_20150717_013385	Press {img mouseclick_right 40 40} on the item you want to sell from your inventory, then set the selling price.
 ETC_20150717_013386	is used to warp between Goddess Statues when activated.
-ETC_20150717_013387	You must approach the Goddess Statue to activate it.
+ETC_20150717_013387	You must approach a Goddess Statue to activate it.
 ETC_20150717_013388	You can use the active Goddess Statue to teleport to other areas with an active Goddess Statue.
 ETC_20150717_013389	You can also use the Warp Scroll to warp immediately.
 ETC_20150717_013390	Warp Scrolls can be bought from shops or obtained from quests.
-ETC_20150717_013391	or use the {img backspace 40 40}(backspace) key {nl}
+ETC_20150717_013391	The {img backspace 40 40}(backspace) key will also work as a{nl}
 ETC_20150717_013392	can be obtained through various ways and
 ETC_20150717_013393	[Mage Society Klaipeda Branch] Henryka
 ETC_20150717_013394	NPC activates the Collection.
@@ -13426,7 +13465,7 @@ ETC_20150717_013427	[Friend] Press F7 to open the Friends window. Players can ad
 ETC_20150717_013428	Friends can see each other's online status and location.
 ETC_20150717_013429	[Like] Press {img mouseclick_right 40 40} on another character and press
 ETC_20150717_013430	to use the Like function.
-ETC_20150717_013431	between characters will increase friendship level causing you to meet each other more often when matching parties.
+ETC_20150717_013431	 characters to increases Friendship Level causing you to meet them more often when matching parties.
 ETC_20150717_013432	Add Magic Amulets on weapons and shields for additional effects.
 ETC_20150717_013433	You can receive additional EXP when Overkill is triggered. 
 ETC_20150717_013434	Magic Control Room
@@ -13671,8 +13710,8 @@ ETC_20150729_013672	Level up
 ETC_20150729_013673	Mutant type monsters level up instead of sleeping when casted with sleep type debuff.
 ETC_20150729_013674	Quick Recovery
 ETC_20150729_013675	Increase recovery
-ETC_20150729_013676	are used to move your character around.
-ETC_20150729_013677	are used for character movement. {nl} {img arrowkey_up 40 40} {img arrowkey_down 40 40} {img arrowkey_left 40 40} {img arrowkey_right 40 40}
+ETC_20150729_013676	 are used to move your character around.
+ETC_20150729_013677	 are used for character movement. {nl} {img arrowkey_up 40 40} {img arrowkey_down 40 40} {img arrowkey_left 40 40} {img arrowkey_right 40 40}
 ETC_20150729_013678	Joypad : Press {img move_all 40 40} or {img stic_L 40 40} to move.
 ETC_20150729_013679	Mouse : {img mouseclick_left 40 40} on the area where you want to move the character.
 ETC_20150729_013680	When using the mouse, you can also move using the {img W 40 40}, {img A 40 40}, {img S 40 40}, {img D 40 40} keys
@@ -13694,7 +13733,7 @@ ETC_20150729_013695	Press {img N 40 40} to open World Map.
 ETC_20150729_013696	Only the areas you have already been to will be activated.{nl}Areas you haven't been to will not be shown in the World Map.
 ETC_20150729_013697	Hover your mouse over the activated area {nl}to see the map of explored areas.
 ETC_20150729_013698	Use Status Points obtained through leveling up to upgrade your character's abilities.
-ETC_20150729_013699	Press {img F1 40 40} to open Character Information window and view the character's status.
+ETC_20150729_013699	Press {img F1 40 40} to open Character Information window and view the character's abilities.
 ETC_20150729_013700	Use STR/CON/INT/SPR/DEX to make your character stronger. {nl} {nl} STR : Increase Physical Attack and Critical Attack {nl} {nl} CON : Increase max HP, HP Recovery, Block, Critical Resistance and max Inventory Weight {nl} {nl} INT : Increase Magic Attack and Block Penetration {nl}{nl} SPR : Increase max SP and SP Recovery {nl} {nl} DEX : Increase Accuracy, Evasion and Critical Chance {nl}
 ETC_20150729_013701	You can preview the effects from the screen below.
 ETC_20150729_013702	You can manage the skills of your character through the skill window.
@@ -13717,8 +13756,8 @@ ETC_20150729_013718	{nl}{nl}Use the search function to find items in inventory.
 ETC_20150729_013719	{nl}{nl}The lower part shows total carry weight of your items, funds, and iCoins.
 ETC_20150729_013720	Quests available are found in the Quest window.
 ETC_20150729_013721	Press {img F5 40 40} to view availble quests or quests in progress.
-ETC_20150729_013722	{nl}{nl}You can restart abandoned quests by pressing
-ETC_20150729_013723	button. Some quests cannot be abandoned.
+ETC_20150729_013722	{nl}{nl}Abandoned quests can be found in the 
+ETC_20150729_013723	 can be pressed to reopen abandoned quests. Some quests cannot be abandoned.
 ETC_20150729_013724	{nl}{nl}Track quests by marking the checkbox in front of the quest title.
 ETC_20150729_013725	Check your character's game progress or rankings in Adventure Journal.
 ETC_20150729_013726	Your character's progress is recorded in the Adventure Journal. Press {img F4 40 40} to view.
@@ -13741,13 +13780,13 @@ ETC_20150729_013742	View information of monsters nearby or when you face the mon
 ETC_20150729_013743	Each monster has an element and defense property.
 ETC_20150729_013744	You can restore your HP/SP/Stamina.
 ETC_20150729_013745	[Rest Mode] Press {img Insert 40 40} to Rest.
-ETC_20150729_013746	While in Rest Mode, light bonfire to speed up recovery.
-ETC_20150729_013747	{nl}{nl}[Bonfire] Light a Bonfire during Rest Mode to speed up recovery.
-ETC_20150729_013748	{nl}{nl}[Restore Naturally] :
-ETC_20150729_013749	Restoring Naturally is very slow compared to other methods, but does not require any control or conditions.
+ETC_20150729_013746	While in Rest Mode, light a bonfire to speed up recovery.
+ETC_20150729_013747	{nl}{nl}A [Bonfire] can be lit during Rest Mode, and will help increase the speed of recovery.
+ETC_20150729_013748	{nl}{nl}[Natural Recovery] : The 
+ETC_20150729_013749	Natural Recovery is very slow compared to other methods, but does not require any control or conditions.
 ETC_20150729_013750	{nl}{nl}[Restore by Potion] : Restore HP/SP/STA immediately using various potions.
-ETC_20150729_013751	Potions have a cooldown timer before they can be re-used.
-ETC_20150729_013752	{nl}{nl}[Destroy Tree Root Crystal] : Destroy the Tree Root Crystal to restore the Stamina of all nearby characters.
+ETC_20150729_013751	Potions have a Cooldown Timer before they can be reused.
+ETC_20150729_013752	{nl}{nl}[Tree Root Crystal] : Destroy Tree Root Crystals to restore Stamina of all nearby characters.
 ETC_20150729_013753	Destroying a Tree Root Crystal recovers your Stamina.
 ETC_20150729_013754	Stamina of all the players nearby will be restored when you destroy Tree Root Crystal.
 ETC_20150729_013755	Team Battle League
@@ -13760,10 +13799,10 @@ ETC_20150729_013761	{nl}{nl}To craft, press {img Insert 40 40} and change to Res
 ETC_20150729_013762	{nl}{nl}If you have all required materials, press
 ETC_20150729_013763	button to begin crafting.
 ETC_20150729_013764	You can add names or memos on your crafted items.
-ETC_20150729_013765	Use the trade window to trade items with Merchant NPC's.
-ETC_20150729_013766	[Buy] : Select the items you want to buy with {img mouseclick_right 40 40}, then press
-ETC_20150729_013767	button to trade. {nl}To trade multiple items, use {img shift 40 40}+{img mouseclick_right 40 40} to set quantity. {nl}{nl}[Sell] : {img mouseclick_right 40 40} on the items you want to sell from your inventory, and set quantity, then press
-ETC_20150729_013768	button to trade. {nl}Double {img mouseclick_right 40 40} to sell all of that item. {nl}{nl}
+ETC_20150729_013765	Use the Shop window to trade items with Merchant NPCs.
+ETC_20150729_013766	[Buy] : Select the items you want to buy with {img mouseclick_right 40 40}, then press 
+ETC_20150729_013767	 button to trade. {nl}To trade multiple items, use {img shift 40 40}+{img mouseclick_right 40 40} to set quantity. {nl}{nl}[Sell] : {img mouseclick_right 40 40} on the items you want to sell from your inventory, and set quantity, then press 
+ETC_20150729_013768	 button to trade. {nl}Double {img mouseclick_right 40 40} to sell all of that item. {nl}{nl}
 ETC_20150729_013769	Items sold to the shops can be bought back.
 ETC_20150729_013770	{img mouseclick_right 40 40} on the item from 'Items Sold' below {nl}to buy back item or delete it from the list.
 ETC_20150729_013771	Enhance your equipment to increase its abilities.
@@ -13772,11 +13811,11 @@ ETC_20150729_013773	can be purchased from Tools Merchant or obtained from monste
 ETC_20150729_013774	{nl}{nl}{img mouseclick_right 40 40} on the Anvil, then select item to open Enhancement window.
 ETC_20150729_013775	{nl}{nl}When your equipment is enhanced, its abililties increase.
 ETC_20150729_013776	{nl}{nl}Weapon above +4 will lose a potential and its abilities will be reset when enhancement fails. Item will be destroyed when Potential drops to 0.
-ETC_20150729_013777	Repain items with low durability through the Blacksmith NPC.
-ETC_20150729_013778	Repain items with low durability in Item Repair window.
-ETC_20150729_013779	{nl}{nl}Select an item then click Repair to restore durability to 100%.
+ETC_20150729_013777	Repair items with low durability through the Blacksmith NPC.
+ETC_20150729_013778	Repair items with low durability in the Item Repair window.
+ETC_20150729_013779	{nl}{nl}Select items using {img mouseclick_right 40 40}, then click Repair to restore durability to 100%.
 ETC_20150729_013780	Effects differ based on the type of Gem and Equipment.
-ETC_20150729_013781	{nl}{nl}Increas Gem level through Gem Enhnacement in Rest Mode.
+ETC_20150729_013781	{nl}{nl}Increase Gem level through Gem Enhnacement in Rest Mode.
 ETC_20150729_013782	Gem enhancement requires other Gems or Gem Abrasives.
 ETC_20150729_013783	{nl}{nl}Insert Gems in the item sockets to add additional effects.
 ETC_20150729_013784	Some items may not have sockets. For such items, you can add sockets through the Blacksmith NPC. {nl}{nl}Adding sockets will require a fee and reduce the item's Potential by 1.
@@ -13800,7 +13839,7 @@ ETC_20150729_013801	Register the items you need, then set qty and price for othe
 ETC_20150729_013802	Buy-in Shop will remain even if you disconnect from server.
 ETC_20150729_013803	Use warp to quickly move to your desired area.
 ETC_20150729_013804	is used to warp between Goddess Statues when activated.
-ETC_20150729_013805	{nl}{nl}You can use the active Goddess Statue to teleport to other areas with an active Goddess Statue.
+ETC_20150729_013805	{nl}{nl}You can use an active Goddess Statue to teleport to other areas with an active Goddess Statue.
 ETC_20150729_013806	You can also use the Warp Scroll to warp immediately.
 ETC_20150729_013807	However, when using the Warp Scroll, you can only warp to areas with activated statues.
 ETC_20150729_013808	By using the Warp Scroll again, you will be warped to your last location.{nl}Returning location will be shown as
@@ -13831,18 +13870,18 @@ ETC_20150729_013832	Gems may be lost when you die in dungeons so be careful!
 ETC_20150729_013833	When you die in dungeons, press
 ETC_20150729_013834	to revive at the entrance outside the dungeon.
 ETC_20150729_013835	Receive beneficial effects when you worship the Goddess Statues.
-ETC_20150729_013836	gives you status points.
-ETC_20150729_013837	enables you to warp to other areas.
-ETC_20150729_013838	There are many types of treasure chests {nl}and you can obtain special items from them.
-ETC_20150729_013839	You can receive the rewards by pressing {img SPACE 40 40} from level 1 treasure chests.
-ETC_20150729_013840	You can obtain the key through{nl}quest progress.
+ETC_20150729_013836	 grants an Status Point.
+ETC_20150729_013837	 enables you to warp to other areas.
+ETC_20150729_013838	There are many types of treasure chests {nl}that you can obtain special items from.
+ETC_20150729_013839	Press {img SPACE 40 40}in front of Lvl 1 chests to receive item.
+ETC_20150729_013840	 keys can be obtained through quest progression.
 ETC_20150729_013841	Use the Social Function to interact with other players.
 ETC_20150729_013842	[Friends] You can check your friends using {img F7 40 40}. Users should agree each other in order to add each other into their Friend List.
 ETC_20150729_013843	Use {img mouseclick_right 40 40} to send a proposal to a character that you want to become your friend.
 ETC_20150729_013844	You can check your friends' log in status and their locations.
-ETC_20150729_013845	{nl} {nl}[Like] Use {img mouseclick_right 40 40} to other characters
-ETC_20150729_013846	press!
-ETC_20150729_013847	You can check it from Character Info.
+ETC_20150729_013845	{nl} {nl}[Like] Press {img mouseclick_right 40 40} and 
+ETC_20150729_013846	 to approve others!
+ETC_20150729_013847	 can be checked from Character Info.
 ETC_20150729_013848	Add Magic Amulet on weapons and shields for additional effects.
 ETC_20150729_013849	After {img mouseclick_left 40 40} Magic Amulet, when you {img mouseclick_right 40 40} the equipment, a magic amulet will be attached to the equipment.
 ETC_20150729_013850	When attached, a magic amulet will consume Potential.
@@ -14036,7 +14075,7 @@ ETC_20150730_014037	Damages will be shared with the connected objects.
 ETC_20150730_014038	Cast a link on a party member and share the buff effects.
 ETC_20150730_014039	The stats of the connected objects will be shared.
 ETC_20150730_014040	You are in a status to receive the damages instead.
-ETC_20150730_014041	You can grow your characters by allocating stat points to STR/CON/INT/SPR/DEX.{nl} {nl} -STR :Inc in Physical ATK, Critical ATK, Max mass{nl} {nl}-CON : Inc in Max HP, HP Recovery, Block, Res to Critical, Max mass{nl} {nl}-INT : Magic ATK, HP Recovery of Spell and Potion{nl} {nl}-SPR : Inc in Max SP, SP Recovery, Magic DEF, Block Penetration, Res to harmful effects{nl} {nl}-DEX : Inc in Accuracy, Evasion, Critical Rate{nl}
+ETC_20150730_014041	You can grow your characters by allocating Status points to STR/CON/INT/SPR/DEX.{nl} {nl} -STR :Inc in Physical ATK, Critical ATK, Max mass{nl} {nl}-CON : Inc in Max HP, HP Recovery, Block, Res to Critical, Max mass{nl} {nl}-INT : Magic ATK, HP Recovery of Spell and Potion{nl} {nl}-SPR : Inc in Max SP, SP Recovery, Magic DEF, Block Penetration, Res to harmful effects{nl} {nl}-DEX : Inc in Accuracy, Evasion, Critical Rate{nl}
 ETC_20150730_014042	DoTimeAction:Looking for parts:2:SITGROPE:None
 ETC_20150730_014043	Property:1/PropertyAdd:1/EffectNPC:Local:F_pc_making_finish_white:1:TOP/Notice:NOTICE_Dm_GetItem:You've found the parts!:5/NPCDead/GiveItem:FLASH_29_1_SQ_040_ITEM_1:1
 ETC_20150730_014044	DoTimeAction:Collecting petrification liquid powder:2:GROPE:None
@@ -14082,9 +14121,9 @@ ETC_20150803_014083	Being suspected
 ETC_20150803_014084	Being suspected
 ETC_20150803_014085	The curse of the magical device
 ETC_20150803_014086	{nl} {nl}The name of an item you input and the memo can be checked from Item Tooltip.
-ETC_20150803_014087	Klaipeda
-ETC_20150803_014088	activate it. You will be able to warp using the activated statues.
-ETC_20150803_014089	You can set various settings for your team which your character belongs to at Lodge.
+ETC_20150803_014087	Klaipeda's 
+ETC_20150803_014088	 enables you to warp to other locations.
+ETC_20150803_014089	You can set various settings for the team which your character belongs to at the Lodge.
 ETC_20150803_014090	When you select Lodge Settings, you can change your team name.
 ETC_20150803_014091	When you select Change Lodge, the list of Lodges will appear. When you click on a Lodge, you can preview it.
 ETC_20150803_014092	You can create upto 5 characters with the basic Lodge. The number of characters you can create depend on which Lodge you have.
@@ -14093,10 +14132,10 @@ ETC_20150803_014094	Any Items or money that are attached on a message can be rec
 ETC_20150803_014095	{nl} {nl}By {img mouseclick_right 40 40}, you can visit other user's Lodge who you met in the game.
 ETC_20150803_014096	Screen Capture
 ETC_20150803_014097	Tree of Savior provides Screen Capture Function.
-ETC_20150803_014098	You can take a screenshot using PrintScreen key.
-ETC_20150803_014099	The screeshots that you will take will be stored in release-screenshot folder, which is the folder inside Tree of Savior installed folder.
+ETC_20150803_014098	Take screenshots using the PrintScreen key.
+ETC_20150803_014099	Screenshots taken will be stored in the screenshot folder located in the release folder within your Tree of Savior directory.
 ETC_20150803_014100	{nl} {nl}With {img F12 40 40} key, you can use Video Capture function.
-ETC_20150803_014101	When you press {img F12 40 40} key again, the captured video will be stored.{nl}The captured video will be stored in release-avicapture folder which is the folder inside Tree of Savior installed folder.
+ETC_20150803_014101	When you press {img F12 40 40} key again, the captured video will be stored.{nl}The captured video will be stored in the avicapture folder located in the release of your Tree of Savior directory.
 ETC_20150803_014102	DoTimeAction:Collectign:2:SITGROPE:None
 ETC_20150803_014103	Property:1/PropertyAdd:1/EffectNPC:Local:F_pc_making_finish_white:1:TOP/Notice:NOTICE_Dm_GetItem:Collected the copses and saved the keepstakes!:5/NPCDead/GiveItem:FLASH_29_1_SQ_040_ITEM_2:1
 ETC_20150803_014104	Notice:NOTICE_Dm_GetItem:You've collected the corpses!:5/NPCDead
