@@ -12,9 +12,9 @@ UI_20150317_000011	{@st41}Are you sure you want to craft this type of arrow?{/}
 UI_20150317_000012	{@st41b}Once{/}
 UI_20150317_000013	{@st41b}All{/}
 UI_20150317_000014	{@St41b}Pause{/}
-UI_20150317_000015	{@St43}Adventure History{/}
+UI_20150317_000015	{@St43}Adventure Log{/}
 UI_20150317_000016	{@St43}Auction House{/}
-UI_20150317_000017	{@St59}Close Auction House{/}
+UI_20150317_000017	{@St59}Close the Auction House{/}
 UI_20150317_000018	{@St41b}Items Sold : %s ea, Items Unsold : %s ea{/}
 UI_20150317_000019	{@St43}{s22}Item Auction{/}
 UI_20150317_000020	{@st59}Close Quest Information{/}
@@ -32,8 +32,8 @@ UI_20150317_000031	{@St44}Permission Settings{/}
 UI_20150317_000032	{@St45}Name:%s{/}
 UI_20150317_000033	{@St45}Party Warehouse{/}
 UI_20150317_000034	{@St49}None
-UI_20150317_000035	{@St49}Insert
-UI_20150317_000036	{@St49}Import
+UI_20150317_000035	{@St49}Store
+UI_20150317_000036	{@St49}Retrieve
 UI_20150317_000037	{@St45}Survey{/}
 UI_20150317_000038	{@St49}Create
 UI_20150317_000039	{@St49}Delete
@@ -102,7 +102,7 @@ UI_20150317_000101	{@st59}Whisper (/w team name chat){/}
 UI_20150317_000102	{@st59}Adjust Chat Window{/}
 UI_20150317_000103	{@st43}{s22}Chat Macro{/}
 UI_20150317_000104	{@st43}Macro{/}
-UI_20150317_000105	{@st59b} Macro {nl} {@st59s} - How to use: {nl} 1. Register the gesture icon to the gesture slots at the bottom {nl} 2. Write your phrase and save {nl} 3. Use the short cut key to use the phrase and make gesture at the same time {/}
+UI_20150317_000105	{@st59b}Macro {nl} {@st59s} - How to use: {nl} 1. Drag the gesture icon to any gesture slots at the bottom.{nl} 2. Write your phrase and save. {nl} 3. Use the shortcut key to use the phrase and make the gesture simultaneously. {/}
 UI_20150317_000106	{@st59}Close Macro{/}
 UI_20150317_000107	{@st41b}Save {/}
 UI_20150317_000108	{@st59}Save your changes{/}
@@ -124,10 +124,10 @@ UI_20150317_000123	{s16}{b}Lv.
 UI_20150317_000124	{@st41b}Search{/}
 UI_20150317_000125	{s16}{b}Summon monsters by clicking on the Create button or double-click.
 UI_20150317_000126	{s16}{b}ea
-UI_20150317_000127	{s16}{b}Choose desired area.
+UI_20150317_000127	{s16}{b}Select a desired area.
 UI_20150317_000128	{s18}{b}View Minimap{/}
 UI_20150317_000129	{@st41b}Tool List{/}
-UI_20150317_000130	Collection {@st59b} {nl} {@st59s} - If you collect the items saved my collection deck games can collect the item {nl} - If you use shortcut keys to activate the collection item collection deck {nl} {/}
+UI_20150317_000130	{@st59b}Collection {nl} {@st59s} - Purchase the Collection Deck to add collectible items to your collection. {nl} - The collection hotkey will be enabled when you use the Collection Deck Item. {nl} {/}
 UI_20150317_000131	{@st59}Close Collection Information{/}
 UI_20150317_000132	{@st43}Collection{/}
 UI_20150317_000133	{@st43}Color Spray{/}
@@ -171,15 +171,15 @@ UI_20150317_000170	{@st43}Lock Target settings {/}
 UI_20150317_000171	NPC Name
 UI_20150317_000172	Compare
 UI_20150317_000173	Illustration
-UI_20150317_000174	Select Talk
+UI_20150317_000174	Select a conversation
 UI_20150317_000175	Text Help
 UI_20150317_000176	{@st41}Item Crafting{/}
-UI_20150317_000177	{@st45tw2}Crafting item...
+UI_20150317_000177	{@st45tw2}Crafting the item...
 UI_20150317_000178	%r seconds
 UI_20150317_000179	{@st41}Cancel{/}
 UI_20150317_000180	{@st45tw2}Quantity{/}
 UI_20150317_000181	{@st45tw2}Do you want to craft this item?
-UI_20150317_000182	{@st41}Decide{/}
+UI_20150317_000182	{@st41}Confirm{/}
 UI_20150317_000183	Quest Information
 UI_20150317_000184	{@st59}Cancel Trade{/}
 UI_20150317_000185	{@st43}Personal Trade{/}
@@ -188,15 +188,15 @@ UI_20150317_000187	Silver : %s
 UI_20150317_000188	Enter
 UI_20150317_000189	{@st41}Accept
 UI_20150317_000190	{@st41}Confirm
-UI_20150317_000191	Other character's(%s) Trading List
-UI_20150317_000192	Other character's Name
+UI_20150317_000191	Other Player's(%s) Trading List
+UI_20150317_000192	Other Player's Name
 UI_20150317_000193	{s18}{ol} {gr gradation1}Field Event{/}
 UI_20150317_000194	{s20}{ol}Defeat the Vubbe Tribe! Would you like to join?
 UI_20150317_000195	{s20}{ol}%s Would you like to join?
 UI_20150317_000196	{s20}{ol}Participants: (1/5)
 UI_20150317_000197	{s20}{ol}Participants : (%s/%s)
-UI_20150317_000198	{s20}{ol}The game starts after 1 second.
-UI_20150317_000199	{s20}{ol}The game starts after %s seconds.
+UI_20150317_000198	{s20}{ol}The game will begin after 1 second.
+UI_20150317_000199	{s20}{ol}The game will begin after %s seconds.
 UI_20150317_000200	Do not show this anymore for today.
 UI_20150317_000201	Do not show Field Events.
 UI_20150317_000202	Join Game
@@ -206,7 +206,7 @@ UI_20150317_000205	Spray Presets
 UI_20150317_000206	{@st49}Select{/}
 UI_20150317_000207	{@st49}Cancel{/}
 UI_20150317_000208	{@st49}Delete{/}
-UI_20150317_000209	Enter the name of the file to save.
+UI_20150317_000209	Enter a file name to save.
 UI_20150317_000210	{@st43}Friends
 UI_20150317_000211	{@st59}Close Friends List{/}
 UI_20150317_000212	{@st59b}Friend{nl} {@st59s} - Become friends with other players in the game. {nl} - Go to the Friends List tab to check the status on your friends. {nl} - In the Manage tab, you can invite, decline or block your friends. {/}
@@ -228,10 +228,10 @@ UI_20150317_000227	{@st42}Close{/}
 UI_20150317_000228	{@st42}All{/}
 UI_20150317_000229	{@st42}Today's Rankings{/}
 UI_20150317_000230	{@st42}Weekly Rankings{/}
-UI_20150317_000231	{@st56} rank {/}
+UI_20150317_000231	{@st56}Rank {/}
 UI_20150317_000232	{@st56}Points{/}
 UI_20150317_000233	{@st56}Class{/}
-UI_20150317_000234	{@st56} name {/}
+UI_20150317_000234	{@st56}Name {/}
 UI_20150317_000235	Previous Page
 UI_20150317_000236	Next Page
 UI_20150317_000237	{@st42}Search ID{/}
@@ -241,7 +241,7 @@ UI_20150317_000240	Enter the ID to search
 UI_20150317_000241	{@st59} Stamina {/}
 UI_20150317_000242	{@st43}Help List{/}
 UI_20150317_000243	{@st59}Close the Help List window{/}
-UI_20150317_000244	{@st59b} Help List {nl} {@st59s}- Read help topics again {nl}  - Select topic to view details {/}
+UI_20150317_000244	{@st59b} Help List {nl} {@st59s}- Read the help topics again {nl}  - Select topic to view details {/}
 UI_20150317_000245	{@st43}{s22}Help{/}
 UI_20150317_000246	{@st47_b}{b}Help Topics{/}
 UI_20150317_000247	{@st42b}Simple Help Contents{/}
@@ -254,7 +254,7 @@ UI_20150317_000253	{@st41b}Close
 UI_20150317_000254	{@st59}Cancel {/}
 UI_20150317_000255	{@st43}Warp{/}
 UI_20150317_000256	{@st59}Close Warp Window{/}
-UI_20150317_000257	Warp {@st59b} {nl} {@st59s} - A system that can warp their visitors to other regions {nl} - When there are more than 2 Warp locations, the Warp function is activated {nl} {/}
+UI_20150317_000257	{@st59b}Warp{nl}{@st59s} - Allows you to quickly travel to regions you have already visited {nl} - Feature is activated when two or more warp point is available {nl} {/}
 UI_20150317_000258	{@st41}Current Location : %s{/}
 UI_20150317_000259	{@st43}{s22}Warp{/}
 UI_20150317_000260	{@st41b}Do you want to move to this area?{/}
@@ -263,7 +263,7 @@ UI_20150317_000262	Coin Consumed : 0
 UI_20150317_000263	Intro
 UI_20150317_000264	{@st43}Inventory{/}
 UI_20150317_000265	{@st59}Close Inventory{/}
-UI_20150317_000266	Equipment {@st59b} {nl} {@st59s}- Hairstyle/Costume: Equipment to change a characters appearance {nl} - Weapon: Can use one-handed or two-handed weapons {nl} (sub-weapon/shield can be worn with a one-handed weapon) {nl} - Armor: Top, Pants, Gloves, Shoes {nl} - Accessories: Can wear 1 Necklace and 2 Bracelets {nl} {/}
+UI_20150317_000266	Equipment {@st59b} {nl} {@st59s}- Hairstyle/Costume: Equipment to change a characters appearance {nl} - Weapon: Can equip one-handed or two-handed weapons {nl} (sub-weapon/shield can be equipped with a one-handed weapon) {nl} - Armor: Top, Pants, Gloves, Shoes {nl} - Accessories: Can wear 1 Necklace and 2 Bracelets {nl} {/}
 UI_20150317_000267	{@st59}Hairstyle Costume 1{/}
 UI_20150317_000268	{@st59}Hairstyle Costume 2{/}
 UI_20150317_000269	{@st59}Necklace{/}
@@ -277,7 +277,7 @@ UI_20150317_000276	{@st59}Right Hand{/}
 UI_20150317_000277	{@st59}Bracelet 1{/}
 UI_20150317_000278	{@st59}Bracelet 2{/}
 UI_20150317_000279	{@st59}Armband{/}
-UI_20150317_000280	{@st59}Search with name entered {/}
+UI_20150317_000280	{@st59}Search for the keyword {/}
 UI_20150317_000281	Weight
 UI_20150317_000282	{@st43}Equipment Buff{/}
 UI_20150317_000283	{@st59}Close the Item Repair UI{/}
@@ -287,10 +287,10 @@ UI_20150317_000286	{@st42}Run
 UI_20150317_000287	{@st42}Target Item{/}
 UI_20150317_000288	Ring 1 {@st59} {/}
 UI_20150317_000289	{@st43}Item Crafting{/}
-UI_20150317_000290	{@st42b} Show only recipes with sufficient materials {/}
+UI_20150317_000290	{@st42b}Show only craftable items{/}
 UI_20150317_000291	{@st59}Close Item Crafting {/}
-UI_20150317_000292	{@st43}{s22}Divide Item
-UI_20150317_000293	{@st59}Enter quantity{/}
+UI_20150317_000292	{@st43}{s22}Split Item
+UI_20150317_000293	{@st59}Enter the quantity to split{/}
 UI_20150317_000294	Monster HP Bar
 UI_20150317_000295	{@st44}Item Set acquired{/}
 UI_20150317_000296	Keyboard Warrior
