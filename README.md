@@ -2,12 +2,12 @@
 
 Hello. We are IMCGAMES TOS Team.
 
-First of all, We really appreciate the hard work and the efforts from our contributors.
+First of all, We really appreciate the hard work and the efforts of our contributors.
 We were able to have our 1st English Beta Test of Tree of Savior (the Game) with your help.
 
 A few contributors have made inquiries to us about the copyright ownership of their contributions for the Game so we want to clarify here before we proceed with further pull requests. 
 
-**Please be aware that the copyright of the contributions and the translations that we receive through pull requests belong to IMC Games Co., Ltd. as they are derivatives of the Game.**
+**Please be informed that the copyright of the contributions and the translations that we receive through pull requests belong to IMC Games Co., Ltd. as they are derivatives of the Game.**
 **If you do not agree with the above statement, please do not send us pull requests from this time on.**
 
 For our contributors who've already sent us pull requests before and do not agree with the above statement, please send us your emails at tossupport@imc.co.kr by August 23rd, 2015 and provide us with the detailed information about your previous contributions so that we could delete or remove your contributions or translations from the Game.
@@ -16,7 +16,7 @@ If we don't receive any emails from you by August 23rd, we will regard it as you
 
 We will not merge your contributions in the Game until August 23rd.
 
-Once again, we want to emphasize here that everyone at IMCGAMES really appreciates the hard work and the efforts from our contributors.
+Once again, we want to emphasize here that everyone at IMCGAMES really appreciates the hard work and the efforts of our contributors.
 
 <br>
 
