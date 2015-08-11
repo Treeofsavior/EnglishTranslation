@@ -1,30 +1,39 @@
-##NOTICE (Updated 07-31-2015)
+##NOTICE (Updated 11-08-2015)
 
-We’d like to thank our Contributors in helping us shape the English version of Tree of Savior. 
-As a token of our appreciation, we will be securing Beta Keys for our Github Contributors in the upcoming Tree of Savior Beta Test.
+Hello. We are IMCGAMES TOS Team.
 
-If you have contributed at least 100 lines by July 26, you will receive 3 Beta Keys via email regardless of your selection as Tester in the Official Website.
+First of all, We really appreciate the hard work and the efforts of our contributors.
+We were able to have our 1st English Beta Test of Tree of Savior (the Game) with your help.
 
-In order to receive the keys, PLEASE MAKE SURE YOU AUTHENTICATE AND LINK your Github ID to the official website’s account. 
-If the accounts are not linked by July 30, you WILL NOT be able to receive the Beta Keys.
+A few contributors have made inquiries to us about the copyright ownership of their contributions for the Game so we want to clarify here before we proceed with further pull requests. 
 
-You may check the list of those who qualify for the Beta Keys [**HERE**](https://github.com/Treeofsavior/EnglishTranslation/issues/559)
+**Please be informed that the copyright of the contributions and the translations that we receive through pull requests belong to IMC Games Co., Ltd as they are derivatives of the Game. If you do not agree with the above statement, please do not send us pull requests from this time on.**
 
-Thank you and please continue to send us your support and interest for Tree of Savior.
+For our contributors who've already sent us pull requests before and do not agree with the above statement, please send us your emails at tossupport@imc.co.kr by August 23rd, 2015 and provide us with the detailed information about your previous contributions so that we could delete or remove your contributions or translations from the Game.
 
+If we don't receive any emails from you by August 23rd, we will regard it as you've agreed the above statement.
 
+We will not merge your contributions in the Game until August 23rd.
 
-1. We've added SKILL and UI files. Be sure to [**CHECK THE ISSUE FOR GUIDELINES**](https://github.com/Treeofsavior/EnglishTranslation/issues/596) before you edit them. **(NEW)**
+Once again, we want to emphasize here that everyone at IMCGAMES really appreciates the hard work and the efforts of our contributors.
 
-2. Translation files have been **UPDATED**. There may be some lines with unusual spacings to fit the actual game UI's. We had to make inevitable changes to the line codes for lines dated after 20150511. **(NEW)**
+<br>
 
-3. Have you checked out our official Forums? Click [**HERE**](https://forum.treeofsavior.com/) move to the forums for discussion. Please login and click on the github icon to link your github account to it as well.
+## Guidelines
 
-4. Please use the latest file version before editing the translations :)
+**PLEASE CHECK THE [GUIDELINES](https://github.com/Treeofsavior/EnglishTranslation/wiki/Guidelines) BEFORE SENDING YOUR PULL REQUESTS.**
 
-5. Scroll down for a preview of how real-time translation works in game! 
+**YOU MAY CHECK THE ISSUES FOR INSTRUCTIONS ON HOW TO ENABLE REAL TIME TRANSLATION**
 
-6. Be sure to take a look at the [**Wiki**](https://github.com/Treeofsavior/EnglishTranslation/wiki) page for guides and reminders before sending us your translations.
+1. Files have been updated to match the current CBT version. **(NEW)**
+
+2. Have you checked out our official Forums? Click [**HERE**](https://forum.treeofsavior.com/) move to the forums for discussion. Please login and click on the github icon to link your github account to it as well.
+
+3. Please use the latest file version before editing the translations :)
+
+4. Scroll down for a preview of how real-time translation works in game! 
+
+5. Be sure to take a look at the [**Wiki**](https://github.com/Treeofsavior/EnglishTranslation/wiki) page for guides and reminders before sending us your translations.
 
 
 <center><img src="https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-xap1/v/t1.0-9/969383_419497041509849_21485321_n.jpg?oh=4f5a38d7c9f8c311b803b4adb80a0a28&oe=56347E65&__gda__=1444560791_5463c6dc462165446fcead1c56bef11d"/></center>
@@ -69,5 +78,7 @@ You can still contribute by editing translation errors :)
 <img src="http://blog.treeofsavior.com/en/wp-content/uploads/sites/4/2015/03/screenshot_20150319_00014-1024x578.jpg"/>
 
 
+## Copyright Lincense
+Please be aware that the Intellectual Property Rights of the following, including, but not limited to, belong to IMC Games Co., Ltd: The names of any characters, NPCs, places, scenes, things, events, short phrases, short sayings and the likes that are set forth in Tree of Savior, as well as any translations or contributions from our contributors.
 
-
+                                    ⓒ IMCGAMES CO., LTD. All Rights Reserved.
