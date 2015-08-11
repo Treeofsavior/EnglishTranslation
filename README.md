@@ -26,8 +26,6 @@ Once again, we want to emphasize here everyone at IMCGAMES really appreciates th
 
 **YOU MAY CHECK THE ISSUES FOR INSTRUCTIONS ON HOW TO ENABLE REAL TIME TRANSLATION**
 
-<br>
-
 1. Files have been updated to match the current CBT version. **(NEW)**
 
 2. Have you checked out our official Forums? Click [**HERE**](https://forum.treeofsavior.com/) move to the forums for discussion. Please login and click on the github icon to link your github account to it as well.
