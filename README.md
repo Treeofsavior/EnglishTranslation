@@ -2,7 +2,7 @@
 
 Hello. We are IMCGAMES TOS Team.
 
-First of all, We really appreciate the hard work and efforts from our contributors.
+First of all, We really appreciate the hard work and the efforts from our contributors.
 We were able to have our 1st English Beta Test of Tree of Savior (the Game) with your help.
 
 A few contributors have made inquiries to us about the copyright ownership of their contributions for the Game so we want to clarify here before we proceed with further pull requests. 
