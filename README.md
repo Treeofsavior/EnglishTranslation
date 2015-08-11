@@ -16,7 +16,7 @@ If we don't receive any emails from you by August 23rd, we will regard it as you
 
 We will not merge your contributions in the Game until August 23rd.
 
-Once again, we want to emphasize here everyone at IMCGAMES really appreciates the hard work and efforts from our contributors.
+Once again, we want to emphasize that here everyone at IMCGAMES really appreciates the hard work and efforts from our contributors.
 
 <br>
 
