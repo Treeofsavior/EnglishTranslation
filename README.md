@@ -1,8 +1,27 @@
-##NOTICE (Updated 08-08-2015)
+##NOTICE (Updated 11-08-2015)
+
+Hello. We are IMCGAMES TOS Team.
+
+First of all, We really appreciate the hard work and efforts from our contributors.
+We were able to have our 1st English Beta Test of Tree of Savior (the Game) with your help.
+
+A few contributors have made inquiries us about the copyright ownership of their contributions for the Game so we want to clarify here before we proceed with further pull requests. 
+
+**Please be aware that the copyright of the contributions and the translations that we receive through pull requests belong to IMC Games Co., Ltd. as they are derivatives of the Game.**
+**If you do not agree with the above statement, please do not send us pull requests from this time on.**
+
+For our contributors who've already sent us pull requests before and do not agree with the above statement, please send us your emails at tossupport@imc.co.kr by August 23rd, 2015 and provide us with the detailed information about your previous contributions so that we could delete or remove your contributions or translations from the Game.
+
+If we don't receive any emails from you by August 23rd, we will regard it as you've agreed the above statement.
+
+We will not merge your contributions in the Game until August 23rd.
+
+Once again, we want to emphasize here everyone at IMCGAMES really appreciates the hard work and efforts from our contributors.
+
+<br>
+<br>
 
 **PLEASE CHECK THE [GUIDELINES](https://github.com/Treeofsavior/EnglishTranslation/wiki/Guidelines) BEFORE SENDING YOUR PULL REQUESTS.**
-
-**DURING CBT, PLEASE SEND YOUR PULL REQUESTS ONLY FOR THOSE EDITED USING REAL TIME TRANSLATION, RATHER THAN SIMPLY READING IT OFF THE FILES**
 
 **YOU MAY CHECK THE ISSUES FOR INSTRUCTIONS ON HOW TO ENABLE REAL TIME TRANSLATION**
 
@@ -61,5 +80,8 @@ You can still contribute by editing translation errors :)
 <img src="http://blog.treeofsavior.com/en/wp-content/uploads/sites/4/2015/03/screenshot_20150319_00014-1024x578.jpg"/>
 
 
+## Copyright Lincense
+ⓒ IMCGAMES CO., LTD. All Rights Reserved.
 
 
+Please be aware that the Intellectual Property Rights of the following, including, but not limited to, belong to IMC Games Co., Ltd: The names of any characters, NPCs, places, scenes, things, events, short phrases, short sayings and the likes that are set forth in Tree of Savior, as well as any translations or contributions from our contributors.
