@@ -956,7 +956,7 @@ SKILL_20150317_000955	Cross Guard
 SKILL_20150317_000956	Defend using your weapon.
 SKILL_20150317_000957	Defense + #{CaptionRatio}#{nl}Block + #{CaptionRatio2}#
 SKILL_20150317_000958	Moulinet
-SKILL_20150317_000959	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Attack enemy 5 times without stopping.
+SKILL_20150317_000959	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Continously attack an enemy 5 times.
 SKILL_20150317_000960	Stabbing
 SKILL_20150317_000961	{#DD5500}{ol}[Physical] - [Stab]{/}{/}{nl}Stab the enemy continuously.
 SKILL_20150317_000962	Pierce
@@ -1980,53 +1980,53 @@ SKILL_20150317_001979	Attack increases when HP is below 40%. {Nl} For Level 1 on
 SKILL_20150317_001980	Ice Spear
 SKILL_20150317_001981	Ice Bolt deals additional damage to frozen enemies {Nl} (added by 25% per level)
 SKILL_20150317_001982	Blow of Rupture
-SKILL_20150317_001983	Chacne of inlficting explosion damage on enemies with hit attack. {Nl} (triggered at 5% chance per level)
+SKILL_20150317_001983	Chance of inflicting explosion damage on enemies with hit attack. {Nl} (triggered at 5% chance per level)
 SKILL_20150317_001984	Rupture
-SKILL_20150317_001985	Damage to Chain Armor type will increase when using blunt. {Nl} (increase by 20% per level)
+SKILL_20150317_001985	Blunt weapons will deal more damage to plate armor. {Nl} (increase by 20% per level)
 SKILL_20150317_001986	Overcome
-SKILL_20150317_001987	Critical probability will increase when using sword. {Nl} (increased by critical rate of 10% per level)
+SKILL_20150317_001987	Have increased critical rate when using swords. {Nl} (increased by critical rate of 10% per level)
 SKILL_20150317_001988	Jump
 SKILL_20150317_001989	You can jump. Press the [X] key to jump.
 SKILL_20150317_001990	Sidestep
-SKILL_20150317_001991	Move sidewards. Press arrow keys while holding down the [Shift] key, to move sidewards. Consumes energy.
+SKILL_20150317_001991	Move sideways. Press arrow keys while holding down the [Shift] key, to move sideways. Consumes energy.
 SKILL_20150317_001992	Dash
-SKILL_20150317_001993	You can run. Press arrow key twice to start the running.
+SKILL_20150317_001993	You can run. Press an arrow key twice to start the running.
 SKILL_20150317_001994	Meditation
 SKILL_20150317_001995	SP recovery amount increase. {Nl} (increased by 1% of the maximum energy level x)
 SKILL_20150317_001996	Play
 SKILL_20150317_001997	Amount of HP recovery increases. {Nl} (increased by level x 1% of max. HP)
 SKILL_20150317_001998	Inspiration
-SKILL_20150317_001999	Defense level will increase. {Nl} (increased by level x 10)
+SKILL_20150317_001999	Defense level increases. {Nl} (increased by level x 10)
 SKILL_20150317_002000	Enemies hit with strong strike have chance of being stunned for 5 seconds.
-SKILL_20150317_002001	Traverse
+SKILL_20150317_002001	Dash
 SKILL_20150317_002002	Move short distance at high speed. Stamina is consumed. Press arrow key twice to use. -- Squire Characteristic
 SKILL_20150317_002003	Lv.1 STA consumption 4
 SKILL_20150317_002004	Shield Heater
-SKILL_20150317_002005	Reflect attacks when using skill Parrying. (Reflected damage increases in proportion to the defense force and attribute level.)
+SKILL_20150317_002005	Reflect damage when Parrying. (Reflected damage increases in proportion to the defense force and attribute level.)
 SKILL_20150317_002006	Anger
-SKILL_20150317_002007	Enemy is stunned by chance when attacked with Mace-type weapon.{nl} (Increases by 10% per level.)
+SKILL_20150317_002007	Maces have a chance to stun enemies on hit.{nl} (Increases by 10% per level.)
 SKILL_20150317_002008	Lv.1 Stun probability 10%, 3 seconds duration Lv.2 Stun probability 20%, 4 seconds duration Lv.3 Stun probability 30%, lasts 5 seconds.
 SKILL_20150317_002009	Intuition
-SKILL_20150317_002010	Using stab skill to bleeding enemy inflicts critical damage at certain chance. {Nl} (Basic chance of 30% + 5% added per level.)
+SKILL_20150317_002010	Stab has a higher chance of inflicting criticals on bleeding enemies. {Nl} (Basic chance of 30% + 5% added per level.)
 SKILL_20150317_002011	Cut
-SKILL_20150317_002012	After a successful overkill,the  amount of damage doubles for 10 seconds on one attack.
+SKILL_20150317_002012	The next attack within 10  seconds will do double damage after overkilling an enemy.
 SKILL_20150317_002013	Guard
 SKILL_20150317_002014	Movement speed increases when HP is below 15%.
 SKILL_20150317_002015	Two-handed Sword Mastery
-SKILL_20150317_002016	Mastered weapon. Physical Attack will increase when using a Two-handed sword.
+SKILL_20150317_002016	One's proficiency with Two-handed Swords. Physical Attack increases when using a Two-handed sword.
 SKILL_20150317_002017	Apply # {IncrValue1} #% Lv.1 Attack{nl}Apply # {IncrValue1} #% Lv.2 Attack{nl}Apply # {IncrValue1} #% Lv.3 Attack
 SKILL_20150317_002018	Whipping Top
 SKILL_20150317_002019	Rotation time of Whirlwind increases.
 SKILL_20150317_002020	Lv.1 Rotation time + # {IncrValue1} # seconds {nl} Lv.2 Rotation time + # {IncrValue1} # seconds
 SKILL_20150317_002021	Nether Web
-SKILL_20150317_002022	Number of hold attack using Telekinesis increases. {Nl} (Increase as much as level.)
+SKILL_20150317_002022	Number of attacks Telekinesis can do increases. {Nl} (Increase as much as level.)
 SKILL_20150317_002023	Ignite
-SKILL_20150317_002024	Amount of damage is doubled when attacking enemy under Slow with Fire Ball.
-SKILL_20150317_002025	Add a chance of Stun for Spear Blow skill{Nl} (Increases by 5% per level.)
+SKILL_20150317_002024	Fire Ball does double damage to slowed enemies.
+SKILL_20150317_002025	Spear Blow has gains a chance to stun{Nl} (Increases by 5% per level.)
 SKILL_20150317_002026	Surprise Attack
-SKILL_20150317_002027	Have chance of inflicting additional damage when attacking a stunned enemy. {Nl} (Basic chance of 30% + 5% added per level.)
+SKILL_20150317_002027	Additional critical chance against stunned enemies. {Nl} (Basic chance of 30% + 5% added per level.)
 SKILL_20150317_002028	Concentration
-SKILL_20150317_002029	Critical is applied at certain chance when attacking enemy near the farthest range. {Nl} (Basic chance of 50% + 5% added per level.)
+SKILL_20150317_002029	Critical rate increases when attacking far away enemies. {Nl} (Basic chance of 50% + 5% added per level.)
 SKILL_20150317_002030	Self Vitality
 SKILL_20150317_002031	Potion buff duration increases. {Nl} (Increases by 5% per level.)
 SKILL_20150317_002032	Strike
@@ -2035,15 +2035,15 @@ SKILL_20150317_002034	Nanta
 SKILL_20150317_002035	Reduce Knockback range of monsters when using whirlwind.
 SKILL_20150317_002036	STR increases for Melee-type attacks.
 SKILL_20150317_002037	Agility is increased. Affects ranged Physical attacks, chance of critical, and evasion.
-SKILL_20150317_002038	Physical strength ability value will improve. It will affect the maximum value of the life force and energy.
+SKILL_20150317_002038	Physical strength improves. Max HP increases.
 SKILL_20150317_002039	Increase INT
-SKILL_20150317_002040	Intelligence increases. Affect the max SPR and magic attack.
+SKILL_20150317_002040	Intelligence increases. Increases max SP and magic attack.
 SKILL_20150317_002041	Balance
 SKILL_20150317_002042	Gung Ho skill's resistance probability increase. {Nl} (Increases by 5% per level.)
 SKILL_20150317_002043	Smash
-SKILL_20150317_002044	Umbo Blow skill knock down power increase. {Nl} (Increased by 50% per level.)
+SKILL_20150317_002044	Umbo Blow's knock down power increases. {Nl} (Increased by 50% per level.)
 SKILL_20150317_002045	Sharp Spear Head
-SKILL_20150317_002046	Add a chance of Bleed for Spear Blow skill. {Nl} (Increases by 5% per level.)
+SKILL_20150317_002046	Spear Blow gains a chance to bleed on hit. {Nl} (Increases by 5% per level.)
 SKILL_20150317_002047	Wire Rope
 SKILL_20150317_002048	Centrifugal Force
 SKILL_20150317_002049	Tricks
