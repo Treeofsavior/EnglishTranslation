@@ -7,7 +7,7 @@ We were able to have our 1st English Beta Test of Tree of Savior (the Game) with
 
 A few contributors have made inquiries to us about the copyright ownership of their contributions for the Game so we want to clarify here before we proceed with further pull requests. 
 
-**Please be informed that the copyright of the contributions and the translations that we receive through pull requests belong to IMC Games Co., Ltd as they are derivatives of the Game. If you do not agree with the above statement, please do not send us pull requests from this time on.**
+**Please be informed that the copyright of the contributions and the translations that we receive through pull requests belong to IMC Games Co., Ltd as they are derivatives of the Game. If you do not agree with the above statement, you may stop sending us pull requests from this point on.**
 
 For our contributors who've already sent us pull requests before and do not agree with the above statement, please send us your emails at tossupport@imc.co.kr by August 23rd, 2015 and provide us with the detailed information about your previous contributions so that we could delete or remove your contributions or translations from the Game.
 
@@ -78,7 +78,7 @@ You can still contribute by editing translation errors :)
 <img src="http://blog.treeofsavior.com/en/wp-content/uploads/sites/4/2015/03/screenshot_20150319_00014-1024x578.jpg"/>
 
 
-## Copyright Lincense
+## Intellectual Property Rights Ownership
 Please be aware that the Intellectual Property Rights of the following, including, but not limited to, belong to IMC Games Co., Ltd: The names of any characters, NPCs, places, scenes, things, events, short phrases, short sayings and the likes that are set forth in Tree of Savior, as well as any translations or contributions from our contributors.
 
-                                    ⓒ IMCGAMES CO., LTD. All Rights Reserved.
+                                  ⓒ IMCGAMES CO., LTD. All Rights Reserved.
