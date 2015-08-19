@@ -1,4 +1,4 @@
-##NOTICE (Updated 11-08-2015)
+##NOTICE (Updated 19-08-2015)
 
 Hello. We are IMCGAMES TOS Team.
 
@@ -19,13 +19,18 @@ Once again, we want to emphasize here that everyone at IMCGAMES really appreciat
 
 <br>
 
+**WE'LL CLOSE ALL PULL REQUESTS MADE PRIOR TO 23rd. <br>
+PLEASE BEAR WITH US AND DO NOT SEND ANY UNTIL PAST 23rd.**
+
+<br>
+
 ## Guidelines
 
 **PLEASE CHECK THE [GUIDELINES](https://github.com/Treeofsavior/EnglishTranslation/wiki/Guidelines) BEFORE SENDING YOUR PULL REQUESTS.**
 
 **YOU MAY CHECK THE ISSUES FOR INSTRUCTIONS ON HOW TO ENABLE REAL TIME TRANSLATION**
 
-1. Files have been updated to match the current CBT version. **(NEW)**
+1. **WE'LL CLOSE ALL PULL REQUESTS MADE PRIOR TO 23rd. PLEASE BEAR WITH US AND DO NOT SEND ANY UNTIL PAST 23rd.**
 
 2. Have you checked out our official Forums? Click [**HERE**](https://forum.treeofsavior.com/) move to the forums for discussion. Please login and click on the github icon to link your github account to it as well.
 
