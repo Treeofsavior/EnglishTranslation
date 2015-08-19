@@ -1001,9 +1001,9 @@ SKILL_20150317_001000	Dragging Death
 SKILL_20150317_001001	{#DDD300}{ol}[Stab]{/}{/}{nl}Attacks enemies in front continuously.
 SKILL_20150317_001002	Embowel
 SKILL_20150317_001003	{#DD5500}{ol}[Stab]{/}{/}{nl} Kick the enemies after strongly stinging.
-SKILL_20150317_001004	Flange
-SKILL_20150317_001005	Continuously attack enemy with basic attack after using skill to increase ATK.
-SKILL_20150317_001006	Attack + #{CaptionRatio}#{nl}Max. overlap #{CaptionRatio2}# times {nl}Duration #{CaptionTime}# seconds
+SKILL_20150317_001004	Frenzy
+SKILL_20150317_001005	Increases your attack when you use consecutive basic attacks on the target.
+SKILL_20150317_001006	Attack +#{CaptionRatio}# {nl} Stacks up to #{CaptionRatio2}# times {nl} Duration #{CaptionTime}# seconds
 SKILL_20150317_001007	Aggressor
 SKILL_20150317_001008	Attack is accurate but chance of critical and critical evasion decreases.
 SKILL_20150317_001009	Critical Chance -#{CaptionRatio}#%{nl}Critical Evasion -#{CaptionRatio}#%{nl}Duration #{CaptionTime}# seconds
@@ -4338,8 +4338,8 @@ SKILL_20150714_004337	Damage that will be dealt on an enemy with [Stormping Kick
 SKILL_20150714_004338	The number of enemies that will lose defence rate with the skill [Warcry] will increase by 1 per Attribute level.
 SKILL_20150714_004339	Duration of the skill, [Warcry] will increase by 2 secs per Attribute level.
 SKILL_20150714_004340	Critical rate of the skill, [Savagery] will increase by 5% per Attribute level.
-SKILL_20150714_004341	Frenzy: Maintain the overlap
-SKILL_20150714_004342	Overlap of [Frenzy] will maintain while attacking the other enemy, but Max overlap will be reduced by half.
+SKILL_20150714_004341	Frenzy: Maintain Stacks
+SKILL_20150714_004342	Maintains the stacks from [Frenzy] when switching to another target, but the maximum amount of stacks will be reduced by half.
 SKILL_20150714_004343	Aggressor: The last attack
 SKILL_20150714_004344	While [Aggressor] is being activated, a character's Critical Rate will be added in proportion to the amount of Physical ATK rate. The additional amount will increase by 35% per Attribute level.
 SKILL_20150714_004345	Pouncing: Enhancement
