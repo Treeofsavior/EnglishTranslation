@@ -19,7 +19,7 @@ Once again, we want to emphasize here that everyone at IMCGAMES really appreciat
 
 <br>
 
-**WE'LL CLOSE ALL PULL REQUESTS MADE PRIOR TO 23rd. <br>
+**WE'LL BE CLOSING ALL PULL REQUESTS MADE PRIOR TO 23rd. <br>
 PLEASE BEAR WITH US AND DO NOT SEND ANY UNTIL PAST 23rd.**
 
 <br>
