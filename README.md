@@ -1,7 +1,7 @@
 ##NOTICE (Updated 20-08-2015)
 
 Hello. 
-We are IMCGAMES TOS Team. 
+<br>We are IMCGAMES TOS Team. 
 
 First of all, we would like to express our sincere gratitude and appreciation for your contributions to the English Translation of Tree of Savior. We were able to hold our first Beta Test successfully with your help and support. 
 
