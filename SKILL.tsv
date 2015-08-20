@@ -950,7 +950,7 @@ SKILL_20150317_000949	Cartar Stroke
 SKILL_20150317_000950	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl} Gather up power and use your weapon to attack the target by smashing it to the ground.
 SKILL_20150317_000951	Attack #{SkillAtkAdd}#{nl}Cast Time 0.5 seconds{nl}Splash #{SkillSR}#
 SKILL_20150317_000952	Crown
-SKILL_20150317_000953	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl} Release a powerful attack by smashing on the enemy's head. Temporarily decreases the INT and SPR of the enemy.
+SKILL_20150317_000953	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl} Release a powerful attack by smashing on the enemy's head. Temporarily decreases the enemy's INT and SPR.
 SKILL_20150317_000954	Attack #{SkillAtkAdd}#{nl}Splash #{SkillSR}#{nl}{#339999}{ol}[Shock]{/}{/} Duration #{CaptionTime}# seconds
 SKILL_20150317_000955	Cross Guard
 SKILL_20150317_000956	Use your weapon to take a defensive stance.
@@ -1041,7 +1041,7 @@ SKILL_20150317_001040	Change Direction
 SKILL_20150317_001041	Deeds of Valor
 SKILL_20150317_001042	Increases your attack speed, increases your attack rate when hit and decreases your defense
 SKILL_20150317_001043	Pain Barrier
-SKILL_20150317_001044	#{CaptionTime}#seconds Movement Speed #{CaptionRatio}#% Increase
+SKILL_20150317_001044	Increased Movement Speed +#{CaptionTime}# for #{CaptionRatio}#% seconds
 SKILL_20150317_001045	Mordschlag
 SKILL_20150317_001046	{#CC3300}{ol}[Stab]{/}{/} Attribute{nl}Damage #{SkillFactor}#%{nl}Splash #{SkillSR}#{nl} Consumption SP #{SpendSP}#
 SKILL_20150317_001047	Double Pay Earn
