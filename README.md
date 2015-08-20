@@ -1,21 +1,22 @@
-##NOTICE (Updated 19-08-2015)
+##NOTICE (Updated 20-08-2015)
 
-Hello. We are IMCGAMES TOS Team.
+Hello. 
+We are IMCGAMES TOS Team. 
 
-First of all, We really appreciate the hard work and the efforts of our contributors.
-We were able to have our 1st English Beta Test of Tree of Savior (the Game) with your help.
+First of all, we would like to express our sincere gratitude and appreciation for your contributions to the English Translation of Tree of Savior. We were able to hold our first Beta Test successfully with your help and support. 
 
-A few contributors have made inquiries to us about the copyright ownership of their contributions for the Game so we want to clarify here before we proceed with further pull requests. 
+As previously announced in Github, we wanted to clarify some issues raised regarding the copyright of translations and we have decided, from this point on, to merge pull requests only after your acceptance to Tree of Savior Contributor Agreement.
+Likewise, we would also like to ask all our contributors for your agreement regarding the use of past contributions by agreeing to the Contributor Agreement.
 
-**Please be informed that the copyright of the contributions and the translations that we receive through pull requests belong to IMC Games Co., Ltd as they are derivatives of the Game. If you do not agree with the above statement, you may stop sending us pull requests from this point on.**
+Tree of Savior Contributor Agreement :
+https://www.clahub.com/agreements/Treeofsavior/EnglishTranslation
 
-For our contributors who've already sent us pull requests before and do not agree with the above statement, please send us your emails at tossupport@imc.co.kr by August 23rd, 2015 and provide us with the detailed information about your previous contributions so that we could delete or remove your contributions or translations from the Game.
+If you do not agree with the terms of Contributor Agreement for previous contributions, and wish to have your contributions removed, you may send your emails to tossupport@imc.co.kr with information of your previous contributions for us to have them removed from the game.
 
-If we don't receive any emails from you by August 23rd, we will regard it as you've agreed the above statement.
+Once again, we would like to thank our contributors for your efforts and we apologize for any ambiguities that you may have experienced from using the Tree of Savior Open Text Client Repository. 
 
-We will not merge your contributions in the Game until August 23rd.
 
-Once again, we want to emphasize here that everyone at IMCGAMES really appreciates the hard work and the efforts of our contributors.
+Thank you.
 
 <br>
 
