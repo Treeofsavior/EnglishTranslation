@@ -1,4 +1,8 @@
-##NOTICE (Updated 20-08-2015)
+##NOTICE (Updated 21-08-2015)
+
+<br>
+**CONTRIBUTOR AGREEMENT LINK HAS BEEN UPDATED. <br>
+PLEASE USE THE UPDATED LINK.** <br>
 
 Hello. 
 <br>We are IMCGAMES TOS Team. 
@@ -9,7 +13,7 @@ As previously announced in Github, we wanted to clarify some issues raised regar
 Likewise, we would also like to ask all our contributors for your agreement regarding the use of past contributions by agreeing to the Contributor Agreement.
 
 Tree of Savior Contributor Agreement :
-https://www.clahub.com/agreements/Treeofsavior/EnglishTranslation
+https://cla-assistant.io/Treeofsavior/EnglishTranslation   (UPDATED)
 
 If you do not agree with the terms of Contributor Agreement for previous contributions, and wish to have your contributions removed, you may send your emails to tossupport@imc.co.kr with information of your previous contributions for us to have them removed from the game.
 
@@ -18,9 +22,8 @@ Once again, we would like to thank our contributors for your efforts and we apol
 
 Thank you.
 
-<br>
 
-**WE'LL BE CLOSING ALL PULL REQUESTS MADE PRIOR TO 23rd. <br>
+**WE'LL STILL BE CLOSING ALL PULL REQUESTS MADE PRIOR TO 23rd. <br>
 PLEASE BEAR WITH US AND DO NOT SEND ANY UNTIL PAST 23rd.**
 
 <br>
