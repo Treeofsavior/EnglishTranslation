@@ -3,6 +3,7 @@
 <br>
 **CONTRIBUTOR AGREEMENT LINK HAS BEEN UPDATED. <br>
 PLEASE USE THE UPDATED LINK.** <br>
+<br>
 
 Hello. 
 <br>We are IMCGAMES TOS Team. 
@@ -12,8 +13,8 @@ First of all, we would like to express our sincere gratitude and appreciation fo
 As previously announced in Github, we wanted to clarify some issues raised regarding the copyright of translations and we have decided, from this point on, to merge pull requests only after your acceptance to Tree of Savior Contributor Agreement.
 Likewise, we would also like to ask all our contributors for your agreement regarding the use of past contributions by agreeing to the Contributor Agreement.
 
-Tree of Savior Contributor Agreement :
-https://cla-assistant.io/Treeofsavior/EnglishTranslation   (UPDATED)
+Tree of Savior Contributor Agreement : <BR>
+https://cla-assistant.io/Treeofsavior/EnglishTranslation     (**UPDATED**)
 
 If you do not agree with the terms of Contributor Agreement for previous contributions, and wish to have your contributions removed, you may send your emails to tossupport@imc.co.kr with information of your previous contributions for us to have them removed from the game.
 
