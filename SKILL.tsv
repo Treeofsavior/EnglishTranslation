@@ -984,7 +984,7 @@ SKILL_20150317_000983	Shield Push
 SKILL_20150317_000984	{#DD5500}{ol}[Physical] [Strike]{/}{/}{nl}Use your shield to interfere with an enemy. {nl} The target will fall into the Unbalanced state.
 SKILL_20150317_000985	Attack #{SkillAtkAdd}#{nl}{#339999}{ol}[Unbalance]{/}{/} Duration 5 seconds
 SKILL_20150317_000986	Impaler
-SKILL_20150317_000987	{#DD5500}{ol}[Stab]{/}{/}{nl} Impale a small monster with a spear. Can use this skill with a skewered monster to inflict damage.
+SKILL_20150317_000987	{#DD5500}{ol}[Stab]{/}{/}{nl} Impales a small monster with a spear. Can use this skill with a skewered monster to inflict damage.
 SKILL_20150317_000988	Earth Wave
 SKILL_20150317_000989	{#DDD300}{ol}[Strike]{/}{/}{nl} Gather up power and use your weapon to attack the enemy by smashing it to the ground.
 SKILL_20150317_000990	Trot
@@ -993,9 +993,9 @@ SKILL_20150317_000992	Movement Speed +#{CaptionRatio}#%{nl}Duration #{CaptionTim
 SKILL_20150317_000993	Steed Charge
 SKILL_20150317_000994	{#DDD300}{ol}[Strike]{/}{/}{nl}Rush forward with power to throw your target away.
 SKILL_20150317_000995	Doom Spike
-SKILL_20150317_000996	{#DDD300}{ol}[Stab]{/}{/}{nl}Gather up power to release a strong stab to an enemy.
+SKILL_20150317_000996	{#DDD300}{ol}[Stab]{/}{/}{nl} Gather up power to release a strong stab to an enemy.
 SKILL_20150317_000997	Rush
-SKILL_20150317_000998	{#DD5500}{ol}[Slash]{/}{/}{nl}Continuously spin your spear above your head to attack an enemy.
+SKILL_20150317_000998	{#DD5500}{ol}[Slash]{/}{/}{nl} Continuously spin your spear above your head to attack an enemy.
 SKILL_20150317_000999	Attack #{SkillAtkAdd}#{nl}Max. Duration 10 seconds{nl}Splash #{SkillSR}#
 SKILL_20150317_001000	Dragging Death
 SKILL_20150317_001001	{#DDD300}{ol}[Stab]{/}{/}{nl}Attacks enemies in front continuously.
@@ -1005,7 +1005,7 @@ SKILL_20150317_001004	Frenzy
 SKILL_20150317_001005	Increases your attack when you use consecutive basic attacks on the target.
 SKILL_20150317_001006	Attack +#{CaptionRatio}# {nl} Stacks up to #{CaptionRatio2}# times {nl} Duration #{CaptionTime}# seconds
 SKILL_20150317_001007	Aggressor
-SKILL_20150317_001008	Your attack is guaranteed to always hit, but your Critical Rate and Critical Evasion decreases.
+SKILL_20150317_001008	Your attack is guaranteed to always hit, while your Critical Rate and Critical Evasion decreases.
 SKILL_20150317_001009	Critical Chance -#{CaptionRatio}#%{nl}Critical Evasion -#{CaptionRatio}#%{nl}Duration #{CaptionTime}# seconds
 SKILL_20150317_001010	Savagery
 SKILL_20150317_001011	While the buff is activated, a multi-hit bonus applies to {#DD5500}{ol}[Stab]{/}{/} attacks.
@@ -1027,7 +1027,7 @@ SKILL_20150317_001026	Iron hook
 SKILL_20150317_001027	Keel Hauling
 SKILL_20150317_001028	Unlock Chest
 SKILL_20150317_001029	Cancel Sub Weapon
-SKILL_20150317_001030	{#DDD300}{ol}[Buff]{/}{/}{nl}While the buff is activated, a multi-hit bonus applies to {#CC3300}{ol}[Sting]{/}{/} attacks.
+SKILL_20150317_001030	{#DDD300}{ol}[Buff]{/}{/}{nl} While the buff is activated, a multi-hit bonus applies to {#CC3300}{ol}[Sting]{/}{/} attacks.
 SKILL_20150317_001031	Duration #{CaptionTime}# seconds{nl} Consumes #{SpendSP}# SP
 SKILL_20150317_001032	Conscript
 SKILL_20150317_001033	Phalanx
@@ -1092,7 +1092,7 @@ SKILL_20150317_001091	Fire Wall
 SKILL_20150317_001092	{#993399}{ol}[Magic] - [Fire]{/}{/}{nl} Creates a flame barrier inflicting damage to a nearby enemy.
 SKILL_20150317_001093	Attack #{SkillAtkAdd}#{nl}#{CaptionRatio}# Fire Wall #{nl}Attack #{CaptionRatio2}# times{nl}Duration 15 seconds
 SKILL_20150317_001094	Enchant Fire
-SKILL_20150317_001095	Grants the Fire attribute attack to the target. Additional damage applies to your basic attack.
+SKILL_20150317_001095	Grants the Fire attack attribute to the target. Additional damage applies to your basic attack.
 SKILL_20150317_001096	Fire Property attack + #{CaptionRatio}#{nl} Additional Damage + #{CaptionRatio2}#{nl}Duration #{CaptionTime}# seconds
 SKILL_20150317_001097	Flare
 SKILL_20150317_001098	{#993399}{ol}[Magic] - [Fire]{/}{/}{nl} Inflict damage by exploding the enemy affected by a status effect. Excluding both petrified and frozen status effects.
@@ -1107,12 +1107,12 @@ SKILL_20150317_001106	Ice Bolt
 SKILL_20150317_001107	{#993399}{ol}[Magic] - [Ice] - [Stab]{/}{/}{nl} Inflict damage to a target by shooting a bolt of ice. There is a chance to freeze the target.
 SKILL_20150317_001108	Attack #{SkillAtkAdd}#{nl}{#339999}{ol}[Frozen]{/}{/} Duration 3 seconds
 SKILL_20150317_001109	Ice Pike
-SKILL_20150317_001110	{#993399}{ol}[Magic] - [Ice] - [Stab] {/} {/}} {nl}Inflict damage to a target by causing a wave of ice. There is a chance to freeze the target.
+SKILL_20150317_001110	{#993399}{ol}[Magic] - [Ice] - [Stab] {/} {/}} {nl} Inflict damage to a target by causing a wave of ice. There is a chance to freeze the target.
 SKILL_20150317_001111	Attack #{SkillAtkAdd}#{nl}{#339999}{ol}[Frozen]{/}{/} Duration 4 seconds
 SKILL_20150317_001112	Create Ice Wall with a chance of freezing the enemy.
 SKILL_20150317_001113	Ice Wall #{CaptionRatio}# {nl}{#339999}{ol}[Ice]{/}{/}{nl} Duration 3 seconds {nl} Ice Wall Duration 10 seconds
 SKILL_20150317_001114	Ice Blast
-SKILL_20150317_001115	{#993399}{ol}[Magic] - [Ice]{/}{/}{nl}Inflict damage by exploding a frozen target.
+SKILL_20150317_001115	{#993399}{ol}[Magic] - [Ice]{/}{/}{nl} Inflict damage by exploding a frozen target.
 SKILL_20150317_001116	{#339999}{ol}[Ice]{/}{/}Target to Attack #{SkillAtkAdd}#
 SKILL_20150317_001117	Create wall of ice and defend against attacks.
 SKILL_20150317_001118	Enemies attacked {#339999}{ol}[Ice]{/}{/}Rate 50% {nl} {#339999}{ol}[Ice]{/}{/}Duration 3 seconds
