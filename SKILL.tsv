@@ -923,7 +923,7 @@ SKILL_20150317_000922	Attack #{SkillAtkAdd}#{nl}Splash #{SkillSR}#
 SKILL_20150317_000923	Bash
 SKILL_20150317_000924	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Damage a target by strongly swinging your weapon.
 SKILL_20150317_000925	Gung Ho
-SKILL_20150317_000926	Increases your attack, but decreases your defense. 
+SKILL_20150317_000926	Increases your attack, but decreases your defense.
 SKILL_20150317_000927	Physical Damage + #{CaptionRatio}#{nl}Physical Defense - #{CaptionRatio2}# {nl}Duration #{CaptionTime}# seconds
 SKILL_20150317_000928	Concentrate
 SKILL_20150317_000929	Increases your attack power.
@@ -932,28 +932,28 @@ SKILL_20150317_000931	Restrain
 SKILL_20150317_000932	Decreases your maximum HP, but increases your attack.
 SKILL_20150317_000933	Physical Attack + #{CaptionRatio}#{nl}Maximum HP - #{CaptionRatio2}# {nl} Duration #{CaptionTime}# seconds
 SKILL_20150317_000934	Umbo Blow
-SKILL_20150317_000935	"{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Attack by bumping your shield. {nl} Deals more damage after blocking an enemy's attack."
+SKILL_20150317_000935	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Attack by bumping your shield. {nl} Inflicts more damage after blocking an enemy's attack.
 SKILL_20150317_000936	Rim Blow
-SKILL_20150317_000937	" {#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Attack by using the edge of your shield. {nl} Deals more damage to petrified and frozen enemies. "
+SKILL_20150317_000937	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Attack by using the edge of your shield. {nl} Inflicts more damage to both petrified and frozen enemies.
 SKILL_20150317_000938	Swash Buckling
 SKILL_20150317_000939	Bang shield to provoke nearby enemies.
 SKILL_20150317_000940	Target #{SkillSR}#{nl}Max. provoke +#{CaptionRatio}# for #{CaptionTime}# seconds
-SKILL_20150317_000941	 Decreases your attack, but increases your defense.
+SKILL_20150317_000941	Decreases your attack, but increases your defense.
 SKILL_20150317_000942	Physical Defense + #{CaptionRatio}#{nl}Physical Damage - #{CaptionRatio2}# {nl}Duration #{CaptionTime}# seconds
 SKILL_20150317_000943	Shield Lob
 SKILL_20150317_000944	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl} Throw shield to attack enemy.
 SKILL_20150317_000945	High Guard
 SKILL_20150317_000946	Butterfly
 SKILL_20150317_000947	Wagon Wheel
-SKILL_20150317_000948	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Launch enemies with an uppercut.
+SKILL_20150317_000948	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl} Uppercut with weapon to Blow away enemy.
 SKILL_20150317_000949	Cartar Stroke
 SKILL_20150317_000950	 {#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Muster your weapon strength to smash the target to the ground.
 SKILL_20150317_000951	Attack #{SkillAtkAdd}#{nl}Cast Time 0.5 seconds{nl}Splash #{SkillSR}#
 SKILL_20150317_000952	Crown
-SKILL_20150317_000953	" {#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Smash the enemies head by releasing a powerful attack. Temporarily decreases the INTand SPR of the enemy."
+SKILL_20150317_000953	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl} Release a powerful attack by smashing on the enemy's head. Temporarily decreases the enemy's INT and SPR.
 SKILL_20150317_000954	Attack #{SkillAtkAdd}#{nl}Splash #{SkillSR}#{nl}{#339999}{ol}[Shock]{/}{/} Duration #{CaptionTime}# seconds
 SKILL_20150317_000955	Cross Guard
-SKILL_20150317_000956	Take a defencive stance with your weapon.
+SKILL_20150317_000956	Use your weapon to take a defensive stance.
 SKILL_20150317_000957	Defense + #{CaptionRatio}#{nl}Block + #{CaptionRatio2}#
 SKILL_20150317_000958	Moulinet
 SKILL_20150317_000959	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Deal five consecutive attacks to an enemy.
@@ -972,7 +972,7 @@ SKILL_20150317_000971	Long Stride
 SKILL_20150317_000972	{#DD5500}{ol}[Physical] - [Stab]{/}{/}{nl}Hit enemies with a long ranged jump attack.
 SKILL_20150317_000973	Spear Throw
 SKILL_20150317_000974	Shield Charge
-SKILL_20150317_000975	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Raise your shield and rush enemies, knocking down enemies in your path.
+SKILL_20150317_000975	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl} Run while holding up your shield. The nearest target who is hit by the shield falls down.
 SKILL_20150317_000976	Attack #{SkillAtkAdd}#{nl}Max. Duration 10 seconds{nl}Consume STA
 SKILL_20150317_000977	Montano
 SKILL_20150317_000978	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Hit an enemy's feet to cause knockback and stun.
@@ -1016,9 +1016,9 @@ SKILL_20150317_001015	Target #{CaptionRatio}#player{nl} MAX Physical DEF - #{Cap
 SKILL_20150317_001016	Stomping Kick
 SKILL_20150317_001017	{#DD5500}{ol}[Strike]{/}{/}{nl} Jump in the air to stomp on the enemy.
 SKILL_20150317_001018	Weapon Maintenance
-SKILL_20150317_001019	Open a shop to improve weapon performance.
+SKILL_20150317_001019	Open a shop to repair weapons.
 SKILL_20150317_001020	Armor Maintenance
-SKILL_20150317_001021	Open a shop to improve armor performance.
+SKILL_20150317_001021	Open a shop to repair armor.
 SKILL_20150317_001022	Repair
 SKILL_20150317_001023	Use your shield to interfere with an enemy by pushing it down.
 SKILL_20150317_001024	Arrest
@@ -1039,7 +1039,7 @@ SKILL_20150317_001038	Testuto
 SKILL_20150317_001039	Skirmisher
 SKILL_20150317_001040	Change Direction
 SKILL_20150317_001041	Deeds of Valor
-SKILL_20150317_001042	Gain Attack Speed and lose Defense upon taking damage. 
+SKILL_20150317_001042	Increases your attack speed, increases your attack rate when hit and decreases your defense
 SKILL_20150317_001043	Pain Barrier
 SKILL_20150317_001044	Increased Movement Speed +#{CaptionTime}# for #{CaptionRatio}#% seconds
 SKILL_20150317_001045	Mordschlag
@@ -1092,8 +1092,8 @@ SKILL_20150317_001091	Fire Wall
 SKILL_20150317_001092	{#993399}{ol}[Magic] - [Fire]{/}{/}{nl} Create wall of flame to harm enemies nearby.
 SKILL_20150317_001093	Attack #{SkillAtkAdd}#{nl}#{CaptionRatio}# Fire Wall #{nl}Attack #{CaptionRatio2}# times{nl}Duration 15 seconds
 SKILL_20150317_001094	Enchant Fire
-SKILL_20150317_001095	Provides all attacks with additional fire damage as well as increasing normal damage.
-SKILL_20150317_001096	Fire Property, attack + #{CaptionRatio}#{nl} Additional Damage + #{CaptionRatio2}#{nl}Duration #{CaptionTime}# seconds
+SKILL_20150317_001095	Grants the Fire attack attribute to the target. Additional damage applies to your basic attack.
+SKILL_20150317_001096	Fire Property attack + #{CaptionRatio}#{nl} Additional Damage + #{CaptionRatio2}#{nl}Duration #{CaptionTime}# seconds
 SKILL_20150317_001097	Flare
 SKILL_20150317_001098	{#993399}{ol}[Magic] - [Fire]{/}{/}{nl} Enemies caught in explosion are dealt more damage. Excludes frozen and petrified enemies.
 SKILL_20150317_001099	Attack #{SkillAtkAdd}#
