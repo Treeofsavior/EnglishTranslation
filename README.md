@@ -1,14 +1,41 @@
-##NOTICE (Updated 08-08-2015)
+##NOTICE (Updated 21-08-2015)
 
-**PLEASE CHECK THE [GUIDELINES](https://github.com/Treeofsavior/EnglishTranslation/wiki/Guidelines) BEFORE SENDING YOUR PULL REQUESTS.**
+<br>
+**CONTRIBUTOR AGREEMENT LINK HAS BEEN UPDATED. <br>
+PLEASE USE THE UPDATED LINK.** <br>
+<br>
 
-**DURING CBT, PLEASE SEND YOUR PULL REQUESTS ONLY FOR THOSE EDITED USING REAL TIME TRANSLATION, RATHER THAN SIMPLY READING IT OFF THE FILES**
+Hello. 
+<br>We are IMCGAMES TOS Team. 
 
-**YOU MAY CHECK THE ISSUES FOR INSTRUCTIONS ON HOW TO ENABLE REAL TIME TRANSLATION**
+First of all, we would like to express our sincere gratitude and appreciation for your contributions to the English Translation of Tree of Savior. We were able to hold our first Beta Test successfully with your help and support. 
+
+As previously announced in Github, we wanted to clarify some issues raised regarding the copyright of translations and we have decided, from this point on, to merge pull requests only after your acceptance to Tree of Savior Contributor Agreement.
+Likewise, we would also like to ask all our contributors for your agreement regarding the use of past contributions by agreeing to the Contributor Agreement.
+
+Tree of Savior Contributor Agreement : <BR>
+https://cla-assistant.io/Treeofsavior/EnglishTranslation     (**UPDATED**)
+
+If you do not agree with the terms of Contributor Agreement for previous contributions, and wish to have your contributions removed, you may send your emails to tossupport@imc.co.kr with information of your previous contributions for us to have them removed from the game.
+
+Once again, we would like to thank our contributors for your efforts and we apologize for any ambiguities that you may have experienced from using the Tree of Savior Open Text Client Repository. 
+
+
+Thank you.
+
+
+**WE'LL STILL BE CLOSING ALL PULL REQUESTS MADE PRIOR TO 23rd. <br>
+PLEASE BEAR WITH US AND DO NOT SEND ANY UNTIL PAST 23rd.**
 
 <br>
 
-1. Files have been updated to match the current CBT version. **(NEW)**
+## Guidelines
+
+**PLEASE CHECK THE [GUIDELINES](https://github.com/Treeofsavior/EnglishTranslation/wiki/Guidelines) BEFORE SENDING YOUR PULL REQUESTS.**
+
+**YOU MAY CHECK THE ISSUES FOR INSTRUCTIONS ON HOW TO ENABLE REAL TIME TRANSLATION**
+
+1. **WE'LL CLOSE ALL PULL REQUESTS MADE PRIOR TO 23rd. PLEASE BEAR WITH US AND DO NOT SEND ANY UNTIL PAST 23rd.**
 
 2. Have you checked out our official Forums? Click [**HERE**](https://forum.treeofsavior.com/) move to the forums for discussion. Please login and click on the github icon to link your github account to it as well.
 
@@ -61,5 +88,7 @@ You can still contribute by editing translation errors :)
 <img src="http://blog.treeofsavior.com/en/wp-content/uploads/sites/4/2015/03/screenshot_20150319_00014-1024x578.jpg"/>
 
 
+## Intellectual Property Rights Ownership
+Please be aware that the Intellectual Property Rights of the following, including, but not limited to, belong to IMC Games Co., Ltd: The names of any characters, NPCs, places, scenes, things, events, short phrases, short sayings and the likes that are set forth in Tree of Savior, as well as any translations or contributions from our contributors.
 
-
+                                  ⓒ IMCGAMES CO., LTD. All Rights Reserved.
