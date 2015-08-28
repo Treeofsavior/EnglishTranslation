@@ -3135,7 +3135,7 @@ SKILL_20150401_003134	{#DD5500}{ol}[Physical] - [Strike] - [Slash]{/}{/}{nl}Use 
 SKILL_20150401_003135	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use back of knife to strike and push away enemy. Enemy falls under Armor Break (Permanent on monsters)
 SKILL_20150401_003136	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Pierce the enemy.{nl}Continuous attack bonus is applied depending on size of enemy.
 SKILL_20150401_003137	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Throw spear to attack enemy. Spear falls on ground and should be picked up to reuse.
-SKILL_20150401_003138	Evasion movement
+SKILL_20150401_003138	$Slithering
 SKILL_20150401_003139	Attack #{SkillAtkAdd}#{nl}Splash #{SkillSR}#{nl}Can use when riding
 SKILL_20150401_003140	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Gather force and smash the ground with weapon to attack target.
 SKILL_20150401_003141	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Charge forward and push away enemy.
@@ -4350,10 +4350,10 @@ SKILL_20150714_004349	Damage that will be dealt with [Targe Smash] will increase
 SKILL_20150714_004350	Damage that will be dealt with [Shield Push] will increase by 1% per Attribute level.
 SKILL_20150714_004351	When attacking an enemy that is in [Freezing], [Petrification] status, 20% additional damage will be dealt per Attribute level.
 SKILL_20150714_004352	The skill [Montano] will inflict the target with [Slow] for 10 secs and the duration of [Slow] will increase by 3secs/2secs/1sec based on Attribute level to small/medium/big sized monsters.
-SKILL_20150714_004353	Shooting Star: Enhancement
-SKILL_20150714_004354	Damage that will be dealt on an enemy with [Shooting Star] will increase by 1% per Attribute level.
-SKILL_20150714_004355	Evade and move: Enhancement
-SKILL_20150714_004356	Damage that will be dealt on an enemy with [Evade and Move] will increase by 1% per Attribute level.
+SKILL_20150714_004353	$Shooting Star: Enhance
+SKILL_20150714_004354	$Increases the damage dealt on an enemy with [Shooting Star] by 1% per attribute level.
+SKILL_20150714_004355	$Slithering: Enhance
+SKILL_20150714_004356	$Increases the damage dealt on an enemy with [Slithering] by 1% per attribute level.
 SKILL_20150714_004357	Shield Push: Duration
 SKILL_20150714_004358	Duration of the unbalanced status with [Shield Push] will increase by 1sec per Attribute level.
 SKILL_20150714_004359	Damage that will be dealt on an enemy with [Impaler] will increase by 1% per Attribute level.
@@ -4674,19 +4674,19 @@ SKILL_20150714_004673	When using [Resist Elements], resistance to Fire, Ice, Lig
 SKILL_20150714_004674	The enemies that are hit by [Barrier] will receive 20% more sacred damage of Magic ATK per Attribute level.
 SKILL_20150714_004675	Restoration: SP recovery rate
 SKILL_20150714_004676	While [Restoration] is being activated, a character's SP recovery rate will increase. SP recovery rate will increase by 10 per Attribute level.
-SKILL_20150714_004677	Damage dealt on an enemy by [Double Punch] will increase by 1% per Attribute level.
-SKILL_20150714_004678	Damage dealt on an enemy by [Palm Strike] will increase by 1% per Attribute level.
-SKILL_20150714_004679	Damage dealt on an enemy by [Hand Knife] will increase by 1% per Attribute level.
-SKILL_20150714_004680	Damage dealt on an enemy by [Inch Punch] will increase by 1% per Attribute level.
-SKILL_20150714_004681	Damage dealt on an enemy by [Energy Blast] will increase by 1% per Attribute level.
-SKILL_20150714_004682	Damage dealt on an enemy by [Finger Flicking] will increase by 1% per Attribute level.
-SKILL_20150714_004683	Damage that will be reflected off from [Iron Skin] will be added 20% of Physical ATK per Attribute level.
-SKILL_20150714_004684	An enemy that is shot by [Palm Strike] will fall into [Bleeding] for 8 secs. Duration of [Bleeding] will increase by 1 sec per Attribute level.
-SKILL_20150714_004685	An enemy that is shot by [Hand Knife] will fall into [Break Armor] with a certain probability. The probability will increase by 5% per Attribute level.
+SKILL_20150714_004677	$Increases the damage dealt on an enemy with [Double Punch] by 1% per attribute level.
+SKILL_20150714_004678	$Increases the damage dealt on an enemy with [Palm Strike] by 1% per attribute level.
+SKILL_20150714_004679	$Increases the damage dealt on an enemy with [Hand Knife] by 1% per attribute level.
+SKILL_20150714_004680	$Increases the damage dealt on an enemy with [Inch Punch] by 1% per attribute level.
+SKILL_20150714_004681	$Increases the damage dealt on an enemy with [Energy Blast] by 1% per attribute level.
+SKILL_20150714_004682	$Increases the damage dealt on an enemy with [Finger Flicking] by 1% per attribute level.
+SKILL_20150714_004683	$Adds 20% of the character's physical attack of the reflected damage from [Iron Skin] per attribute level. 
+SKILL_20150714_004684	$Enemies hit by [Palm Strike] will be affected by [Bleeding] for 8 seconds. The duration of [Bleeding] increases by 1 per attribute level.
+SKILL_20150714_004685	$Enemies hit by [Hand KNife] will be affected by [Break Armor] with a certain chance. The chance increases by 5% per attribute level.
 SKILL_20150714_004686	Golden Bell Shield : Safe Zone
 SKILL_20150714_004687	The arer of around Caster will be Safe Zone while using [Golden Bell Shield].
-SKILL_20150714_004688	Indulgentia: Enhancement
-SKILL_20150714_004689	Damage dealt on an enemy with [Indulgentia] will increase by 1% per Attribute level.
+SKILL_20150714_004688	$Indulgentia: Enhance
+SKILL_20150714_004689	$Increases the damage dealt on an enemy with [Indulgentia] by 1% per attribute level.
 SKILL_20150714_004690	The target of [Discern Evill] will increase by 1 person per Attribute level.
 SKILL_20150714_004691	Offerings: Specialied in Indulgentia
 SKILL_20150714_004692	The ATK of Indulgentia will increase based on the number of items in the Offerings box.
@@ -4825,16 +4825,16 @@ SKILL_20150717_004824	The range that will be applied by [Safety Zone] will be in
 SKILL_20150717_004825	HP recovery of [Aukuras] increases by 1 per attribute level.
 SKILL_20150717_004826	Character's Fire resistance will increase by 5 per Attribute level and the resistance to Dark will decrease by 3 per Attribute level.
 SKILL_20150717_004827	[Zaibas] is affected by splash and inflicts damage on multiple target at once. (total count does not increase.)
-SKILL_20150717_004828	The range that will be applied by [Melstis] will be increased.
-SKILL_20150717_004829	Sacrament: Dark Property resistance
-SKILL_20150717_004830	While [Sacrament] is being activated, Dark resistance will increase by 5 per Attribute level.
-SKILL_20150717_004831	Duration of [Revive] will increase by 10 secs per Attribute level.
-SKILL_20150717_004832	Whenever an enemy gets shot by [Effigy], it could be inflicted with [Blind] with 5% probability per Attribute level.
-SKILL_20150717_004833	The range of [Samediveve] will be increased.
-SKILL_20150717_004834	The range of [Ogounveve] will be increased.
-SKILL_20150717_004835	Cooldown time of [Carve Vakarine] will be reduced.
-SKILL_20150717_004836	Out of Body: Avoidance
-SKILL_20150717_004837	While [Out of Body] is being activated, the body's evasion will increase by 10% per Attribute level.
+SKILL_20150717_004828	$Increases the range of [Melstis] to 50. 
+SKILL_20150717_004829	$Sacrament: Dark Property Resistance
+SKILL_20150717_004830	$Increases your Dark property resistance by 5 per attribute level while [Sacrament] is active.
+SKILL_20150717_004831	$Increases the duration of [Revive] by 7 seconds per attribute level. 
+SKILL_20150717_004832	$Enemies hit by [Effigy] can be affected by [Darkness] with a 5% chance for 5 seconds per attribute level.
+SKILL_20150717_004833	$Increases the range of [Samediveve] to 110.
+SKILL_20150717_004834	$Increases the range of [Ogounveve] to 110. 
+SKILL_20150717_004835	$Decreases the cooldown time of [Carve Vakarine] to 10 seconds. 
+SKILL_20150717_004836	$Out of Body: Evasion
+SKILL_20150717_004837	$Increases the body's evasion by 10% per attribute level while [Out of Body] is active. 
 SKILL_20150717_004838	When in Out of Body status, the enemies that got shot by normal attacks will be infliced with [Deprotect] with 5% probability per Attribute level.
 SKILL_20150717_004839	SP consumption of [Vashita Siddhi] will be reduced.
 SKILL_20150717_004840	The enemies that are in the range of [Vashita Siddhi] will be inflicted with Confusion with a certain probability. The probability will increase by 10% per Attribute level.
