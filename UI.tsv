@@ -15,7 +15,7 @@ UI_20150317_000014	{@St41b}Pause{/}
 UI_20150317_000015	{@St43}Adventure Log{/}
 UI_20150317_000016	{@St43}Auction House{/}
 UI_20150317_000017	{@St59}Close the Auction House{/}
-UI_20150317_000018	{@St41b}Items Sold : %s ea, Items Unsold : %s ea{/}
+UI_20150317_000018	{@St41b}Items Sold : ×%s, Items Unsold : ×%s{/}
 UI_20150317_000019	{@St43}{s22}Item Auction{/}
 UI_20150317_000020	{@st59}Close Quest Information{/}
 UI_20150317_000021	Abe days rest
@@ -156,8 +156,8 @@ UI_20150317_000155	Team Name
 UI_20150317_000156	Character Name
 UI_20150317_000157	Rank {#Ffff00}%s{/} %s Level {#ffff00}%s{/}
 UI_20150317_000158	Warrior
-UI_20150317_000159	Adventure {#ffff00}%s{/} (Rank{#ffff00}%s{/}/%s)
-UI_20150317_000160	Adventure {#ffff00}%s{/} ({#ffff00}Unranked{/})
+UI_20150317_000159	Adventure Index {#ffff00}%s{/} (Rank{#ffff00}%s{/}/%s)
+UI_20150317_000160	Adventure Index {#ffff00}%s{/} ({#ffff00}Unranked{/})
 UI_20150317_000161	Total Achievements : {#ffff00}%s{/}
 UI_20150317_000162	Settings
 UI_20150317_000163	Clear the tab title to delete the tab.
@@ -576,7 +576,7 @@ UI_20150317_000575	{@st41} {s20}Price : %s
 UI_20150317_000576	{@st41b}Enhance{/}
 UI_20150317_000577	{@st59}Start Item Enhancement{/}
 UI_20150317_000578	{@st59}Close Item Enhancement{/}
-UI_20150317_000579	Are you sure you want to enhance with the selected {@st41b} {@sti9}%s ea {/} items?{/}
+UI_20150317_000579	{@st41b} Would you like to enhance the {@sti9}×%s{/} selected items?{/}
 UI_20150317_000580	{@st43}Enhance
 UI_20150317_000581	{@st44}Enhance Item{/}
 UI_20150317_000582	{S24}{b}{#000000}Enhancement completed!
@@ -752,7 +752,7 @@ UI_20150317_000751	{@st43}Sound{/}
 UI_20150317_000752	{@st41b}Sound Effects Volume (%s){/}
 UI_20150317_000753	{@st41b}BGM Volume (%s){/}
 UI_20150317_000754	{@st41b}Volume (%s){/}
-UI_20150317_000755	{@st43}{b}             Select Language {/}{/}
+UI_20150317_000755	{@st43}{b}Select Language{/}
 UI_20150317_000756	{@st59}Close Settings{/}
 UI_20150317_000757	Lowest-mode {@st41b} {/}
 UI_20150317_000758	{@st41b}View{/}
@@ -771,7 +771,7 @@ UI_20150317_000770	Please enter a quantity.
 UI_20150317_000771	{@st53b}%s Wins %s Loss
 UI_20150317_000772	{@st42}Today's Schedule
 UI_20150317_000773	{@st53}To Start :
-UI_20150317_000774	{@st53b}Gifts received : %s ea
+UI_20150317_000774	{@st53b}Gifts received : ×%s
 UI_20150317_000775	{@st43b}Send gift to %s{/}
 UI_20150317_000776	{@st55_a}Next game
 UI_20150317_000777	{@st53}- Click on the name to spectate{nl}- Right-click to send a gift
@@ -1138,9 +1138,9 @@ UI_20150317_001137	Item Name
 UI_20150317_001138	N/A
 UI_20150317_001139	Lv and above
 UI_20150317_001140	Everyone can equip
-UI_20150317_001141	Max Socket %s ea
+UI_20150317_001141	Maximum Sockets : ×%s
 UI_20150317_001142	Item Name
-UI_20150317_001143	Shop Sell Value : %s Silver
+UI_20150317_001143	Shop Sell Value : %s silver
 UI_20150317_001144	How much
 UI_20150317_001145	{@St42b}Full Exploration Rate of Siauliai{/}
 UI_20150317_001146	{@St42b}West Forest Area Explored{/}
@@ -1265,7 +1265,7 @@ UI_20150317_001264	Please register the buff to sell.
 UI_20150317_001265	Price : %s{/}
 UI_20150317_001266	Amount Left
 UI_20150317_001267	{@St41}Purchase
-UI_20150317_001268	Remaining Number: %s {/}
+UI_20150317_001268	Amount Left : %s {/}
 UI_20150317_001269	{@St41}Item{/}
 UI_20150317_001270	{@St41b} Memo
 UI_20150317_001271	{@St41b}Craft
@@ -1396,8 +1396,8 @@ UI_20150323_001395	{@st59}Set Buy-in Shop{/}
 UI_20150323_001396	Purchase Quantity : %s{/}
 UI_20150323_001397	Search for items to buy
 UI_20150323_001398	Quantity
-UI_20150323_001399	Price/ea
-UI_20150323_001400	{@sti5}%s ea{/}
+UI_20150323_001399	Unit Price
+UI_20150323_001400	{@sti5}×%s{/}
 UI_20150323_001401	{@st41}Eat
 UI_20150323_001402	{@st41}Craft
 UI_20150323_001403	{@st41}Craft Qty
@@ -1551,7 +1551,7 @@ UI_20150428_001550	Game FAQ
 UI_20150428_001551	Players : (%s/%s)
 UI_20150428_001552	At least Lv. 100 : (%s/%s)
 UI_20150511_001553	{@st41}Link Party Invite
-UI_20150714_001554	{@st66b}Items Sold : %s ea / Items Unsold : %s ea{/}
+UI_20150714_001554	{@st66b}Items Sold : ×%s / Items Unsold : ×%s{/}
 UI_20150714_001555	{@st41b}Trade Log
 UI_20150714_001556	{@st41b}Disband Camp
 UI_20150714_001557	Card Battles
@@ -1617,7 +1617,7 @@ UI_20150714_001616	{@st43}Message Box
 UI_20150714_001617	{@st41b}All
 UI_20150714_001618	{@st41b}Unread Messages
 UI_20150714_001619	{@st43}{s22}Choose a character to receive the items.{/}
-UI_20150714_001620	{@st41b}Enhancement
+UI_20150714_001620	{@st41b}Enhance
 UI_20150714_001621	{@st66}Items requiring a repair
 UI_20150714_001622	{@st43}Simoni
 UI_20150714_001623	{@st59}Increase skills{/}
@@ -1666,9 +1666,9 @@ UI_20150714_001665	{@st59}Open the message box{/}
 UI_20150714_001666	{@st42}Change Lodge{/}
 UI_20150714_001667	{@st42}Lodge Settings{/}
 UI_20150714_001668	{@st65}%s Score{/}
-UI_20150714_001669	{@st65}%s ea{/}
+UI_20150714_001669	{@st65}×%s{/}
 UI_20150714_001670	{@st65}% Score{/}
-UI_20150714_001671	{@st65}%s ea{/}
+UI_20150714_001671	{@st65}×%s{/}
 UI_20150714_001672	Image Description
 UI_20150714_001673	{#000000}%s seconds
 UI_20150714_001674	{#000000}%s equipped
@@ -1687,7 +1687,7 @@ UI_20150714_001686	{@st59}Add the material to this item slot.{/}
 UI_20150714_001687	{@st66b}Price : %s{/}
 UI_20150714_001688	Character Greeting
 UI_20150714_001689	Buy-in Shop
-UI_20150714_001690	%s ea
+UI_20150714_001690	×%s
 UI_20150714_001691	{@41b}Criteria
 UI_20150714_001692	{@st41}Delete
 UI_20150714_001693	{@st41}Refresh
