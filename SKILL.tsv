@@ -3148,7 +3148,7 @@ SKILL_20150401_003147	Attack using stab continuously.
 SKILL_20150401_003148	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Make solid landing when jumping or on air to damage enemies.
 SKILL_20150401_003149	Repair weapon
 SKILL_20150401_003150	Open shop for repairing weapons. ATK is added when repaired.
-SKILL_20150401_003151	Attack increase by [Skill level] x [Weapon Stars]{nl}Attack #{CaptionRatio2}# times{nl}ì§€Duration 4 hours
+SKILL_20150401_003151	Attack increase by [Skill level] x [Weapon Stars]{nl}Attack #{CaptionRatio2}# times{nl}Duration 4 hours
 SKILL_20150401_003152	Repair Armor
 SKILL_20150401_003153	Open shop for repairing armors. Only top, pants, and shield can be repaired. Physical defense is added when repaired.
 SKILL_20150401_003154	Physical defense + #{CaptionRatio}#{nl}Hit #{CaptionRatio2}# times{nl}Duration 4 hours
@@ -3802,7 +3802,7 @@ SKILL_20150414_003801	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Shoot bodkin a
 SKILL_20150414_003802	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Shoot barbed arrow. Hit count depends on defense type of enemy.
 SKILL_20150414_003803	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Shoot arrow that explodes enemy in cross form when killed.
 SKILL_20150414_003804	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Flame fumes from area shot with arrow and attacks enemy.
-SKILL_20150414_003805	{#DD5500}{ol}[Physical] - [?€ê²?{/}{/}{nl}Hang bomb on arrow and shoot. Arrow explodes after hitting enemy.
+SKILL_20150414_003805	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Hang bomb on arrow and shoot. Arrow explodes after hitting enemy.
 SKILL_20150414_003806	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Fire multiple bullets toward the enemy.
 SKILL_20150414_003807	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Shoot forward while moving backwards.
 SKILL_20150414_003808	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use speed to move fast while attacking when riding on top.
@@ -4155,7 +4155,7 @@ SKILL_20150714_004154	Attack #{SkillAtkAdd}#{nl}Attribute Attack #{CaptionRatio}
 SKILL_20150714_004155	Attack #{SkillAtkAdd}#{nl}Attribute Attack #{CaptionRatio}#%
 SKILL_20150714_004156	Attack #{SkillAtkAdd}#{nl}Attribute Attack #{CaptionRatio}#%{nl}Attack Count #{SkillSR}# times{nl}Duration #{CaptionTime}#seconds
 SKILL_20150714_004157	Attribute Attack #{CaptionTime}#%{nl}Firewall #{CaptionRatio}#ea{nl}Attack Cotun #{CaptionRatio2}#times{nl}Duration 15 seconds
-SKILL_20150714_004158	Attack #{SkillAtkAdd}#{nl}Attribute Attack #{CaptionRatio2}#%{nl}0.5ì´???SP #{CaptionRatio}#%?Œë¹„
+SKILL_20150714_004158	Attack #{SkillAtkAdd}#{nl}Attribute Attack #{CaptionRatio2}#%{nl} #{CaptionRatio}#% of SP consumed per 0.5 seconds
 SKILL_20150714_004159	Attack #{SkillAtkAdd}#{nl}Attribute Attack #{CaptionRatio}#%{nl}{#339999}{ol}[Freeze]{/}{/} Duration 3 seconds
 SKILL_20150714_004160	Attack #{SkillAtkAdd}#{nl}Attribute Attack #{CaptionRatio}#%{nl}{#339999}{ol}[Freeze]{/}{/} Duration 4 seconds
 SKILL_20150714_004161	Icewall #{CaptionRatio}#ea{nl}{#339999}{ol}[Freeze]{/}{/} Duration 3 seconds{nl}Icewall Duration 15 seconds
@@ -4197,7 +4197,7 @@ SKILL_20150714_004196	Attack #{SkillAtkAdd}#{nl}Attribute Attack #{CaptionRatio2
 SKILL_20150714_004197	Attribute Attack #{CaptionRatio}#%{nl}Duration 30 seconds
 SKILL_20150714_004198	Attack #{SkillAtkAdd}#{nl}Attribute Attack #{CaptionRatio2}#%{nl}Increases #{CaptionRatio}# {nl}Duration #{CaptionTime}#seconds
 SKILL_20150714_004199	Attack #{SkillAtkAdd}#{nl}Attribute Attack #{CaptionRatio2}#%{nl}Strike 2 times{nl}Critical rate #{CaptionRatio}#%
-SKILL_20150714_004200	Attack #{SkillAtkAdd}#{nl}?¹ì„± ê³µê²©??#{CaptionRatio2}#%{nl}Bleed Duration #{CaptionTime}#seconds{nl}Use 1 Broadhead Arrow
+SKILL_20150714_004200	Attack #{SkillAtkAdd}#{nl}Attribute Attack #{CaptionRatio2}#%{nl}Bleed Duration #{CaptionTime}#seconds{nl}Use 1 Broadhead Arrow
 SKILL_20150714_004201	Attack #{SkillAtkAdd}#{nl}Attribute Attack #{CaptionRatio2}#%{nl}Physical Defense - #{CaptionRatio}#% {nl}Remove Reflect Shield{nl}Use 1 Bodkin Arrow
 SKILL_20150714_004202	Attack #{SkillAtkAdd}#{nl}Attribute Attack #{CaptionRatio}#%{nl}Cloth armor 3 hit{nl}Leather armor 2 hit{nl}Plate armor 1 hit{nl}Ghost armor N/A{nl}Use 1 Barbed Arrow
 SKILL_20150714_004203	Attack #{SkillAtkAdd}#{nl}Attribute Attack #{CaptionRatio2}#%{nl}Explosion Attack #{CaptionRatio}#%{nl}Use 1 Hailmary Arrow
@@ -5006,20 +5006,20 @@ SKILL_20150803_005005	Strength +#{CaptionRatio}#{nl}Duration #{CaptionRatio2}#{n
 SKILL_20150803_005006	Attribute Attack #{CaptionRatio2}#%{nl}Additional Damage to plant type monsters +#{CaptionRatio}#{nl}drop rate of statue materials#{CaptionTime}#%
 SKILL_20150803_005007	Can use monster's skill{nl}Max duration #{CaptionTime}#seconds
 SKILL_20150803_005008	Effigy Enhance
-SKILL_20150803_005009	Move up the attack bonus of Effigy
+SKILL_20150803_005009	$Increases the attack bonus of Effigy
 SKILL_20150803_005010	Additional damage of [Concentrate] increases by 2 per attribute level.
 SKILL_20150803_005011	While you are attacking an enemy with [Stabbing], Evasion and Magic defense will increase by 5% per Attribute level.
 SKILL_20150803_005012	The enemy that is attacked by [Pierce] will be in [Bleeding] for 6 seconds with 2% probability. Beeeding damage will be decided based on Physical ATK.
 SKILL_20150803_005013	Additional physical damage of [Warcry] increases by 3 per Attribute level. (This attribute applies after the opponent's defense is decreased.)
-SKILL_20150803_005014	Attack increase effect of [Swell left Arm] Increase by 3 per Attribute level.
+SKILL_20150803_005014	$Attack increase effect of [Swell left Arm] increases by 3 per Attribute level.
 SKILL_20150803_005015	Defense and Attack increase effect of [Swell Right Arm] increases by 3 per attribute level.
 SKILL_20150803_005016	Intelligence increase effect of [Swell Brain] increases by 2 per attribute level.
 SKILL_20150803_005017	Physical increase damage of [Kneeling Shot] increases per attribute level.
 SKILL_20150803_005018	Additional damage of [Steady Aim] increases by 2 per attribute level.
-SKILL_20150803_005019	Defense decrease effect of [Deprotected Zone] increases by 1 per attribute level. (This attribute applied after the overlapping calculation.
+SKILL_20150803_005019	$Defense decrease effect of [Deprotected Zone] increases by 1 per attribute level. (This attribute is applied after the overlapping calculation.
 SKILL_20150803_005020	HP recovery of [Aukuras] increases by 1.5 per attribute level.
 SKILL_20150803_005021	Additional damage of [Blessing] increases by 2 per attribute level.
-SKILL_20150803_005022	The probability of obtaining ingredients increases 1% per Attribute level for [Carve].
+SKILL_20150803_005022	$The probability of obtaining ingredients increases by 1% per Attribute level for [Carve].
 SKILL_20150803_005023	HP recovery effect of [Restoration] increases by 2 per attribute level.
 SKILL_20150803_005024	Lv3 Blessing required
 SKILL_20150803_005025	Lv3 Steady Aim required
