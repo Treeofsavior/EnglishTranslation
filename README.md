@@ -1,5 +1,6 @@
 ##NOTICE (Updated 28-08-2015)
-
+<br>
+**GUIDELINES IN WIKI HAVE BEEN UPDATED** <br>
 **PLEASE CHECK THE [GUIDELINES](https://github.com/Treeofsavior/EnglishTranslation/wiki/Guidelines) BEFORE SENDING YOUR PULL REQUESTS.**
 
 ==========
@@ -21,7 +22,7 @@ Once again, we would like to thank our contributors for your efforts and we apol
 
 
 Thank you.
-<br>
+
 ============
 
 
