@@ -644,9 +644,9 @@ UI_20150317_000643	Crafting costs
 UI_20150317_000644	Crafting Qty
 UI_20150317_000645	Approximately %s seconds consumed
 UI_20150317_000646	{@st41}Create
-UI_20150317_000647	{@st43}Class Skills and Attributes{/}
+UI_20150317_000647	${@st43}Skills and Attributes{/}
 UI_20150317_000648	{@st59}Close Class and Skill{/}
-UI_20150317_000649	{@st59b}Class {nl}{@st59s}- Increase class circles to acquire skills {nl} - Can select 3 classes when advancing from 1st to 2nd class {nl} - Can advance to same class up to 3 times {nl} - Cannot change back to previous class when advancing to another class {nl} - Consume all skill points to advance {nl} - Can choose the same class {nl} {@st59b}Skills {nl}{@st59s}- Each rank's skill can be increased up to 5 levels {nl} - Attributes learned from masters can be seen below the skills {/}
+UI_20150317_000649	${@st59b}Classes{nl}{@st59s}- You can learn new skills by growing the Circle of your class. {nl} - You can choose from 3 available classes to advance to from your 1st to 2nd advancement. {nl} - You can advance to the same class up to 3 times. {nl} - You cannot change back to your previous class once you advanced to another class. {nl} - You have to consume all your Skill Points to be able to advance. {nl} - You can choose the same class.{nl}{@st59b}Skills{nl}{@st59s} - You can increase the rank of each skill up to level 5.{nl} - Attributes learned from your Masters can be seen below your skills. {/}
 UI_20150317_000650	{@st41b}Apply{/}
 UI_20150317_000651	{@st59}Apply{/}
 UI_20150317_000652	Cleric
@@ -725,7 +725,7 @@ UI_20150317_000724	{@st43}Stat{/}
 UI_20150317_000725	systemmenu_vertical tentative removal
 UI_20150317_000726	{@st59}Character Information (F1){/}
 UI_20150317_000727	{@st59}Inventory (F2){/}
-UI_20150317_000728	{@st59}Class and Skill (F3){/}
+UI_20150317_000728	{@st59}Classes & Skills (F3){/}
 UI_20150317_000729	{@st59}Adventure Journal (F4){/}
 UI_20150317_000730	{@st59}Quest (F5){/}
 UI_20150317_000731	{@st59}Party (F6){/}
@@ -1621,8 +1621,8 @@ UI_20150714_001620	{@st41b}Enhance
 UI_20150714_001621	{@st66}Items requiring a repair
 UI_20150714_001622	{@st43}Simoni
 UI_20150714_001623	{@st59}Increase skills{/}
-UI_20150714_001624	{@st59}Close Skills and Attributes{/}
-UI_20150714_001625	{@st43}Skills and Attributes{/}
+UI_20150714_001624	{@st59}Close Skills & Attributes{/}
+UI_20150714_001625	{@st43}Skills & Attributes{/}
 UI_20150714_001626	Remaining Status Points {nl}{@st46}%s
 UI_20150714_001627	Likes Received! : %s
 UI_20150714_001628	{@st66b}Show EXP acquired{/}
