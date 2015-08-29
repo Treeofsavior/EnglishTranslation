@@ -1675,7 +1675,7 @@ ETC_20150317_001674	The customer is not a CBT user.
 ETC_20150317_001675	You have been been banned by the administrator.
 ETC_20150317_001676	{Name} ({Mapname} / Channel {ChNo})
 ETC_20150317_001677	This skill cannot be crafted.
-ETC_20150317_001678	{gr gradation2}{s19}{ol}{b}{#bc952b}Right-click: sale / purchase button{/}{/}{nl}If you want to sell multiples item, please press and hold the right click.{nl}You can wholesale when you double click.{nl}　{nl}{b}{#bc952b}Left click: Cancel / return button{/}{/}{nl}While if you want an item that was a multiple cancel down the left click 
+ETC_20150317_001678	{gr gradation2}{s19}{ol}{b}{#bc952b}Right-click: sale / purchase button{/}{/}{nl}If you want to sell multiples item, please press and hold the right click.{nl}You can wholesale when you double click.{nl}?�{nl}{b}{#bc952b}Left click: Cancel / return button{/}{/}{nl}While if you want an item that was a multiple cancel down the left click 
 ETC_20150317_001679	You do not have enough Potential to enhance this item
 ETC_20150317_001680	This item cannot be enhanced
 ETC_20150317_001681	Can no longer be enhanced
@@ -1728,7 +1728,7 @@ ETC_20150317_001727	Ring
 ETC_20150317_001728	Choose this combination for the alchemy process?
 ETC_20150317_001729	Target Item
 ETC_20150317_001730	Combining items..
-ETC_20150317_001731	Obtained item
+ETC_20150317_001731	$Obtained
 ETC_20150317_001732	Drag and drop the card into the slot to equip it.
 ETC_20150317_001733	Repair Cost: {Price}{nl} Are you sure you want to repair?
 ETC_20150317_001734	Undecided
@@ -2442,7 +2442,7 @@ ETC_20150317_002441	You've found the item underground
 ETC_20150317_002442	Did not find anything
 ETC_20150317_002443	Type
 ETC_20150317_002444	Attribute
-ETC_20150317_002445	{Count} ea obtained
+ETC_20150317_002445	$x{Count} obtained
 ETC_20150317_002446	Found the reference related with Naktis
 ETC_20150317_002447	Failed to find the reference related with Naktis
 ETC_20150317_002448	Obtained the herb!
@@ -2771,10 +2771,10 @@ ETC_20150317_002770	Holy Attack
 ETC_20150317_002771	Dark Attack
 ETC_20150317_002772	Movement Speed
 ETC_20150317_002773	HP Recovery
-ETC_20150317_002774	Attack on Plant Type
-ETC_20150317_002775	Attack on Beast Type
-ETC_20150317_002776	Attack on Demon Type
-ETC_20150317_002777	Attack on Mutant Type
+ETC_20150317_002774	$Attack on Plant Type Targets
+ETC_20150317_002775	$Attack on Beast Type Targets
+ETC_20150317_002776	$Attack on Demon Type Targets
+ETC_20150317_002777	$Attack on Mutant Type Targets
 ETC_20150317_002778	Wind Attack
 ETC_20150317_002779	Fire Resistance
 ETC_20150317_002780	Ice Resistance
@@ -2787,11 +2787,11 @@ ETC_20150317_002786	AoE Defense Ratio
 ETC_20150317_002787	2% chance of additional damage by +300 when attacking
 ETC_20150317_002788	3% chance of receiving continuous damage amounting to 20% of max HP when attacked
 ETC_20150317_002789	4% chance of additional resistance +100 of all when attacked by magic
-ETC_20150317_002790	Lightning Attribute Attack
+ETC_20150317_002790	$Lightning Attack
 ETC_20150317_002791	Knockback Power
-ETC_20150317_002792	Attack on Small Type
-ETC_20150317_002793	Attack on Medium Type
-ETC_20150317_002794	Attack on Large Type
+ETC_20150317_002792	$Attack on Small Type Targets
+ETC_20150317_002793	$Attack on Medium Type Targets
+ETC_20150317_002794	$Attack on Large Type Targets
 ETC_20150317_002795	Block
 ETC_20150317_002796	Block Penetration
 ETC_20150317_002797	Attack on Cloth Armor Type
@@ -2802,7 +2802,7 @@ ETC_20150317_002801	Magic Penetration
 ETC_20150317_002802	Item EXP
 ETC_20150317_002803	Shooting Distance
 ETC_20150317_002804	Speed
-ETC_20150317_002805	Attack on Insect Type
+ETC_20150317_002805	$Attack on Insect Type Targets
 ETC_20150317_002806	Earth Attack
 ETC_20150317_002807	Earth Resistance
 ETC_20150317_002808	Physical damage when mounted
@@ -2818,7 +2818,7 @@ ETC_20150317_002817	Hard
 ETC_20150317_002818	Very Hard
 ETC_20150317_002819	{S22}{ol}Next quest level: {Auto_1}
 ETC_20150317_002820	Area: 
-ETC_20150317_002821	{@st45w3}{s18}{Auto_1}{Auto_2} ea {/}
+ETC_20150317_002821	${@st45w3}{s18}x{Auto_2} {Auto_1} {/}
 ETC_20150317_002822	{@st41}Reward(s) received:
 ETC_20150317_002823	{@st64} Approach the NPC and use 
 ETC_20150317_002824	Space Bar
@@ -2905,7 +2905,7 @@ ETC_20150317_002904	Please enter the team name to block.
 ETC_20150317_002905	The name of your group is too long.
 ETC_20150317_002906	The contents of your memo is too long.
 ETC_20150317_002907	Memo Settings
-ETC_20150317_002908	Group Settings ▶
+ETC_20150317_002908	Group Settings ??
 ETC_20150317_002909	Enter Memo
 ETC_20150317_002910	Group Settings
 ETC_20150317_002911	Friend Request
@@ -3522,7 +3522,7 @@ ETC_20150317_003521	You need to start [The Alchemist of the Mine] to pass throug
 ETC_20150317_003522	[Revelation of the Goddess] must be completed to pass through
 ETC_20150317_003523	Stone Golem
 ETC_20150317_003524	View
-ETC_20150317_003525	Press the →,↑ keys together to move upward diagonally
+ETC_20150317_003525	Press the ????keys together to move upward diagonally
 ETC_20150317_003526	Move to next target point with the left mouse click
 ETC_20150317_003527	Cowardly Alchemist
 ETC_20150317_003528	Dream of revelation
@@ -3800,7 +3800,7 @@ ETC_20150317_003799	Give up Quest
 ETC_20150317_003800	Go to Start NPC
 ETC_20150317_003801	Go to In Progress NPC
 ETC_20150317_003802	Go to Completed NPC
-ETC_20150317_003803	Failed to meet the conditions.
+ETC_20150317_003803	$You do not meet the conditions. 
 ETC_20150317_003804	Force Start
 ETC_20150317_003805	You cannot restart the quest while it is still in progress. You have to complete it first.
 ETC_20150317_003806	If you need to restart quest standby complete, complete the quest first
@@ -3809,12 +3809,12 @@ ETC_20150317_003808	Transaction error
 ETC_20150317_003809	This can only be used when the quest is progress or in standby mode. Current state:
 ETC_20150317_003810	Quest Starting Map:
 ETC_20150317_003811	Start NPC:
-ETC_20150317_003812	Activate {nl}
+ETC_20150317_003812	$ activated {nl}
 ETC_20150317_003813	Use this to warp anywhere!
 ETC_20150317_003814	This camp does not have an activated Goddess Statue.{nl} Therefore you cannot move.
 ETC_20150317_003815	The rest of the area
 ETC_20150317_003816	Rest of the camp
-ETC_20150317_003817	2. Select Siauliai → Select West Siauliai Woods
+ETC_20150317_003817	2. Select Siauliai ??Select West Siauliai Woods
 ETC_20150317_003818	Basic Quest Information
 ETC_20150317_003819	Home
 ETC_20150317_003820	Sub
@@ -5022,7 +5022,7 @@ ETC_20150317_005021	{@st41}Open your inventory by pressing the {img F2 40 40} ke
 ETC_20150317_005022	The Mausoleum lanterns are being attacked by the guardians!
 ETC_20150317_005023	Bearkaras' suppressed power has returned.
 ETC_20150317_005024	Panto_Rsword: Hot Panto Fighter: 50/Panto_Rspear: Hot Panto Spearman: 50/Panto_Rhand: Hot Panto: 50/Panto_Rstaff: Hot Panto Wizard: 51
-ETC_20150317_005025	Crafting item
+ETC_20150317_005025	$Crafting the item
 ETC_20150317_005026	I am a Revelator?
 ETC_20150317_005027	Ask about the current situation
 ETC_20150317_005028	Ask about Medis Diena that took place four years ago.
@@ -5715,7 +5715,7 @@ ETC_20150317_005714	Go back in time
 ETC_20150317_005715	Rewind monster's behavior.
 ETC_20150317_005716	String
 ETC_20150317_005717	Connects mind and body with the target. All damage received is shared.
-ETC_20150317_005718	Speed Ritual Chain
+ETC_20150317_005718	$Spiritual Chain
 ETC_20150317_005719	Connects mind and body with the target. All damage received is shared.
 ETC_20150317_005720	Joint Penalty
 ETC_20150317_005721	Umbilical Cord
@@ -8230,7 +8230,7 @@ ETC_20150317_008230	Recipe - Shamshir
 ETC_20150317_008231	Recipe - Scimitar
 ETC_20150317_008232	Recipe - Kris
 ETC_20150317_008233	Recipe - Snickersnee
-ETC_20150317_008234	Recipe - Mopla
+ETC_20150317_008234	$Recipe - Moplah
 ETC_20150317_008235	Recipe - Spatha
 ETC_20150317_008236	Recipe - Panto Sword
 ETC_20150317_008237	Recipe - Steel Falchion
@@ -8318,8 +8318,8 @@ ETC_20150317_008318	Recipe - Composite Bow
 ETC_20150317_008319	Recipe - Self Bow
 ETC_20150317_008320	Recipe - Rokas Bow
 ETC_20150317_008321	Recipe - Goritos
-ETC_20150317_008322	Recipe - Gulyle
-ETC_20150317_008323	Recipe - Karman
+ETC_20150317_008322	$Recipe - Gulail
+ETC_20150317_008323	$Recipe - Kaman
 ETC_20150317_008324	Recipe - Gendawa
 ETC_20150317_008325	Recipe - Strong Bow
 ETC_20150317_008326	Recipe - Iron Bow
@@ -8335,7 +8335,7 @@ ETC_20150317_008335	Recipe - Viper
 ETC_20150317_008336	Recipe - Blood Gain
 ETC_20150317_008337	Recipe - Tempest Shooter
 ETC_20150317_008338	Recipe - Short Bow
-ETC_20150317_008339	Recipe - Pully Bow
+ETC_20150317_008339	$Recipe - Pulley Bow
 ETC_20150317_008340	Recipe - Smith Bow
 ETC_20150317_008341	Recipe - Klavis Bow
 ETC_20150317_008342	Recipe - Crossbow
@@ -8344,7 +8344,7 @@ ETC_20150317_008344	Recipe - Quarrel Bow
 ETC_20150317_008345	Recipe - Oak Crossbow
 ETC_20150317_008346	Recipe - Seal Crossbow
 ETC_20150317_008347	Recipe - Catapult
-ETC_20150317_008348	Recipe - Cranequine
+ETC_20150317_008348	$Recipe - Cranequin
 ETC_20150317_008349	Recipe - Sniper Crossbow
 ETC_20150317_008350	Recipe - Heavy Crossbow
 ETC_20150317_008351	Recipe - Wide Crossbow
@@ -8359,19 +8359,19 @@ ETC_20150317_008359	Recipe - Morto
 ETC_20150317_008360	Recipe - Smith Crossbow
 ETC_20150317_008361	Recipe - Klavis Crossbow
 ETC_20150317_008362	Recipe - Mace
-ETC_20150317_008363	Recipe - Morningstar
+ETC_20150317_008363	$Recipe - Morning Star
 ETC_20150317_008364	Recipe - Mallet
 ETC_20150317_008365	Recipe - Goedendag
 ETC_20150317_008366	Recipe - Warpick
 ETC_20150317_008367	Recipe - Maul
 ETC_20150317_008368	Recipe - Battle Hammer
-ETC_20150317_008369	Recipe - Chakan
+ETC_20150317_008369	$Recipe - Chekan
 ETC_20150317_008370	Recipe - Minor Hammer
 ETC_20150317_008371	Recipe - Five Hammer
-ETC_20150317_008372	Recipe - Spike Mace
+ETC_20150317_008372	$Recipe - Spiked Mace
 ETC_20150317_008373	Recipe - Shield Breaker
 ETC_20150317_008374	Recipe - Skull Crushers
-ETC_20150317_008375	Recipe - Valtas Morningstar
+ETC_20150317_008375	$Recipe - Valtas Morning Star
 ETC_20150317_008376	Recipe - Suncus Maul
 ETC_20150317_008377	Recipe - Holy Smasher
 ETC_20150317_008378	Recipe - Kaloo Hammer
@@ -8386,10 +8386,10 @@ ETC_20150317_008386	Recipe - Short Spear
 ETC_20150317_008387	Recipe - Espontoon
 ETC_20150317_008388	Recipe - Winged Espontoon
 ETC_20150317_008389	Recipe - Spontoon
-ETC_20150317_008390	Recipe - Asta
-ETC_20150317_008391	Recipe - Long Asta
+ETC_20150317_008390	$Recipe - Hasta
+ETC_20150317_008391	$Recipe - Long Hasta
 ETC_20150317_008392	Recipe - Sauroter
-ETC_20150317_008393	Recipe - Duty
+ETC_20150317_008393	$Recipe - Dory
 ETC_20150317_008394	Recipe - Grand Spontoon
 ETC_20150317_008395	Recipe - Zega Spear
 ETC_20150317_008396	Recipe - Harl Spear
@@ -8884,7 +8884,7 @@ ETC_20150317_008884	The SP and SP recovery increases when a Cleric type class le
 ETC_20150317_008885	Press the CTRL key to lock a target.
 ETC_20150317_008886	Press the Alt key to stop movement immediately.
 ETC_20150317_008887	Press the Space bar key during battle to face the current target.
-ETC_20150317_008888	When mounting a Companion, your character's stats will increase in proportion to the ability of companion.ETC_20150312_005342
+ETC_20150317_008888	$When mounting a Companion, your character's stats will increase in proportion to the ability of companion.
 ETC_20150317_008889	Card Synthesis (Coming Soon)
 ETC_20150317_008890	Arrow Crafting attribute required.
 ETC_20150317_008891	Set the current equipment level.
@@ -10012,13 +10012,13 @@ ETC_20150323_010013	Not linked node's height position control value when ride on
 ETC_20150323_010014	Recipe - Antidote
 ETC_20150323_010015	Elementalist Advancement
 ETC_20150323_010016	Card Synthesis
-ETC_20150323_010017	Enter your Greetings
+ETC_20150323_010017	$Enter your personal greeting
 ETC_20150323_010018	Visit Barrack
 ETC_20150323_010019	Start Game
 ETC_20150323_010020	User Buy-in Shop
 ETC_20150323_010021	Buff Shop
 ETC_20150323_010022	Crafter is still using the skill.
-ETC_20150323_010023	Item refinery complete
+ETC_20150323_010023	$Item refinement has been completed.
 ETC_20150323_010024	Consume
 ETC_20150323_010025	Hire as a Mercenary
 ETC_20150323_010026	{Price} iCoins will be consumed to hire for {Minute} minutes. Do you wish to continue?
@@ -10356,21 +10356,21 @@ ETC_20150323_010357	Demons Prison District 5
 ETC_20150323_010358	Demons Prison District 2
 ETC_20150323_010359	Demons Prison District 4
 ETC_20150323_010360	Small, growing crevice
-ETC_20150323_010361	Leader Horaceus★
-ETC_20150323_010362	Food Drier★
+ETC_20150323_010361	Leader Horaceus??
+ETC_20150323_010362	Food Drier??
 ETC_20150323_010363	Food Storage
-ETC_20150323_010364	Sealed Magic Field★
-ETC_20150323_010365	The head of the statue of the goddess★
-ETC_20150323_010366	The wing of the statue of the goddess★
-ETC_20150323_010367	Unstable Magic Field★
+ETC_20150323_010364	Sealed Magic Field??
+ETC_20150323_010365	The head of the statue of the goddess??
+ETC_20150323_010366	The wing of the statue of the goddess??
+ETC_20150323_010367	Unstable Magic Field??
 ETC_20150323_010368	Event outside incomplete magic circle 
 ETC_20150323_010369	[Baron Allerno family]{nl}    Asta
 ETC_20150323_010370	Baron secretary Arunas
-ETC_20150323_010371	Baron Areluno★
+ETC_20150323_010371	Baron Areluno??
 ETC_20150323_010372	Baron secretary Benyus
-ETC_20150323_010373	Power Supply★
+ETC_20150323_010373	Power Supply??
 ETC_20150323_010374	Awkward Seal Magic Field
-ETC_20150323_010375	The cargo of the baron★
+ETC_20150323_010375	The cargo of the baron??
 ETC_20150323_010376	Detect strange aura
 ETC_20150323_010377	The place to bury the bottle
 ETC_20150323_010378	Metiken appearance trigger
@@ -10671,7 +10671,7 @@ ETC_20150401_010672	Stone Manager
 ETC_20150401_010673	Wagon Manager_2
 ETC_20150401_010674	Unstable Spell seal crystal
 ETC_20150401_010675	Crop check trigger
-ETC_20150401_010676	Magical Power Generator★
+ETC_20150401_010676	Magical Power Generator??
 ETC_20150401_010677	NPC for rope NPC
 ETC_20150401_010678	mongen z
 ETC_20150401_010679	Farm Worker
@@ -10837,8 +10837,8 @@ ETC_20150406_010838	Red Crystal Pillar
 ETC_20150406_010839	Blue Crystal Pillar
 ETC_20150406_010840	Yellow Crystal Pillar
 ETC_20150406_010841	Warning Sign
-ETC_20150406_010842	Magic Field★
-ETC_20150406_010843	Magical Power Generator★
+ETC_20150406_010842	Magic Field??
+ETC_20150406_010843	Magical Power Generator??
 ETC_20150406_010844	Trigger Grains
 ETC_20150406_010845	Pouch that fell
 ETC_20150406_010846	To the other side
@@ -11205,7 +11205,7 @@ ETC_20150414_011206	Harugal
 ETC_20150414_011207	Small Contageous gap
 ETC_20150414_011208	Unstable Magic circle
 ETC_20150414_011209	Spell device
-ETC_20150414_011210	The corpse of the Pilgrim Mathas★
+ETC_20150414_011210	The corpse of the Pilgrim Mathas??
 ETC_20150414_011211	[Falconer Master]{nl} Genklas Metai
 ETC_20150414_011212	Search Skill Trigger
 ETC_20150428_011213	Maid of the Night
@@ -12360,7 +12360,7 @@ ETC_20150714_012361	You've obtained the boiling liquid!
 ETC_20150714_012362	Scattering the reacting reagent
 ETC_20150714_012363	You've found the genuine gold plate!
 ETC_20150714_012364	An explosion occurred when the gold plate and the reagent were mixed together!
-ETC_20150714_012365	Picked up the gold plate!
+ETC_20150714_012365	$You picked up a gold plate!
 ETC_20150714_012366	Defeat all nearby monsters and bushes to pick up the gold plate!
 ETC_20150714_012367	Making Detecting Stick
 ETC_20150714_012368	Obtained a suitable stick!
@@ -12372,8 +12372,8 @@ ETC_20150714_012373	You've found the gold plate!
 ETC_20150714_012374	You've obtained the sticky fluid!
 ETC_20150714_012375	Did not obtained anything!
 ETC_20150714_012376	Hallowventer Curse Speller under the gold plate
-ETC_20150714_012377	You've shot the Wendigo with a numbing needle!{nl}Pull out the hairs of the fainted Wendigo Archer in 10 secs!
-ETC_20150714_012378	Dust has been shaken off well! Now make a stone rubbing book
+ETC_20150714_012377	$You've shot the Wendigo with a numbing needle!{nl}Pull out the hairs of the unconscious Wendigo Archer in 10 secs!
+ETC_20150714_012378	$Dust has been shaken off completely! Now make a stone rubbing book!
 ETC_20150714_012379	Go
 ETC_20150714_012380	Don't want to go now. Maybe later.
 ETC_20150714_012381	Don't want to interfere in this kind of task. Never do it.
@@ -12404,9 +12404,9 @@ ETC_20150714_012405	You were unable to find the contents related to Naktis{nl}Yo
 ETC_20150714_012406	Transformation was successful!{nl}Lure the subordinates of Naktis to Gaule Altar
 ETC_20150714_012407	There's no key
 ETC_20150714_012408	You absorbed the weak Stone Frost
-ETC_20150714_012409	Rubbing the Scented Stone powders
+ETC_20150714_012409	$Rubbing the Scented Stone powders...
 ETC_20150714_012410	Rubbed the Scented Stone powders!
-ETC_20150714_012411	Already rubbed with Scented Stone powders
+ETC_20150714_012411	$Already rubbed in the Scented Stone powders!
 ETC_20150714_012412	Monsters have become more agile due to the effects from the symbol of Schilt
 ETC_20150714_012413	Using the symbol
 ETC_20150714_012414	It doesn't look like it will be activated anytime soon
@@ -12430,7 +12430,7 @@ ETC_20150714_012431	Call out the name
 ETC_20150714_012432	Recalled a number!{nl}
 ETC_20150714_012433	The seal of Archon has been weakened
 ETC_20150714_012434	~secs remaining
-ETC_20150714_012435	The purification of the demonic energy has been completed!{nl}Light energy spread throughout the residence of Royal Mausoleum workers!
+ETC_20150714_012435	$The purification of the demonic energy has been completed!{nl}Light energy has spread throughout the Royal Mausoleum Worker's Lodge!
 ETC_20150714_012436	The barrier at the Management Office has been removed!
 ETC_20150714_012437	The altar has already been activated
 ETC_20150714_012438	The light power, that is lethal to the monsters at the chapel area, has been activated
@@ -12445,25 +12445,25 @@ ETC_20150714_012446	Of all times, it has to be this...
 ETC_20150714_012447	I will go there right away
 ETC_20150714_012448	You guys again!
 ETC_20150714_012449	Relaying the state of affairs
-ETC_20150714_012450	Reacting
-ETC_20150714_012451	The detector reacted to the Schilt Essences
+ETC_20150714_012450	$Reacting...
+ETC_20150714_012451	$The Detector emitted a reaction to the Schilt Essences
 ETC_20150714_012452	You don't have enough Schilt Essences
-ETC_20150714_012453	The detector is fully reacted
-ETC_20150714_012454	Obtaining the effects of Schilts
-ETC_20150714_012455	You've obtained the effects of the Schilts!{nl}You will become immune to the petrified frosts temporarily
-ETC_20150714_012456	Amplifier is not reacting!{nl}React the essences of Schilts to the samples of petrification detector
-ETC_20150714_012457	Supplying power
+ETC_20150714_012453	$The Detector's reaction is at maximum capacity!
+ETC_20150714_012454	$Obtaining the effects of Schilts...
+ETC_20150714_012455	$You've obtained the effects of the Schilts!{nl}You are now immune to Frost Petrification temporarily!
+ETC_20150714_012456	$Amplifier is not responding!{nl}Supply more Schilt Essence samples to the petrification Detector!
+ETC_20150714_012457	$Supplying power...
 ETC_20150714_012458	You've supplied the power!
-ETC_20150714_012459	You've supplied the power until the maximum limit
+ETC_20150714_012459	$You've supplied the maximum amount of power!
 ETC_20150714_012460	Move using the power
-ETC_20150714_012461	The power of the portal is lacking so you can't use it
+ETC_20150714_012461	$There isn't enough power inside the portal, so you can't use it.
 ETC_20150714_012462	Demons' energy
-ETC_20150714_012463	The power of the sealed sphere of the demons is weakening
-ETC_20150714_012464	The sealed sphere of the demons of AA has been destroyed and Durahan was released!
+ETC_20150714_012463	$The power of the sealed demon sphere is weakening
+ETC_20150714_012464	$The sealed demon sphere of AA has been destroyed and Durahan was released!
 ETC_20150714_012465	North Side
 ETC_20150714_012466	South Side
-ETC_20150714_012467	The power has been supplied to the north portal using the power of white demonic power crystal!{nl}(
-ETC_20150714_012468	The power has been supplied to the south portal using the power of green demonic power crystal!{nl}(
+ETC_20150714_012467	$Power has been supplied to the north portal using the power of the White Demonic Power Crystal!{nl}(
+ETC_20150714_012468	$Power has been supplied to the south portal using the power of the Green Demonic Power Crystal!{nl}(
 ETC_20150714_012469	The north portal is open!
 ETC_20150714_012470	The south portal is open!
 ETC_20150714_012471	You've reacted the steam of demonic power using the demonic kindlings{nl}Heads towards the great conference room
