@@ -1,32 +1,10 @@
-##NOTICE (Updated 28-08-2015)
+##NOTICE (Updated 31-08-2015)
 <br>
 **GUIDELINES IN WIKI HAVE BEEN UPDATED** <br>
 **PLEASE CHECK THE [GUIDELINES](https://github.com/Treeofsavior/EnglishTranslation/wiki/Guidelines) BEFORE SENDING YOUR PULL REQUESTS.**
 
-==========
 
-Hello. 
-<br>We are IMCGAMES TOS Team. 
-
-First of all, we would like to express our sincere gratitude and appreciation for your contributions to the English Translation of Tree of Savior. We were able to hold our first Beta Test successfully with your help and support. 
-
-As previously announced in Github, we wanted to clarify some issues raised regarding the copyright of translations and we have decided, from this point on, to merge pull requests only after your acceptance to Tree of Savior Contributor Agreement.
-Likewise, we would also like to ask all our contributors for your agreement regarding the use of past contributions by agreeing to the Contributor Agreement.
-
-Tree of Savior Contributor Agreement : <BR>
-https://cla-assistant.io/Treeofsavior/EnglishTranslation     (**UPDATED**)
-
-If you do not agree with the terms of Contributor Agreement for previous contributions, and wish to have your contributions removed, you may send your emails to tossupport@imc.co.kr with information of your previous contributions for us to have them removed from the game.
-
-Once again, we would like to thank our contributors for your efforts and we apologize for any ambiguities that you may have experienced from using the Tree of Savior Open Text Client Repository. 
-
-
-Thank you.
-
-============
-
-
-1. **YOU MAY CHECK THE ISSUES FOR INSTRUCTIONS ON HOW TO ENABLE REAL TIME TRANSLATION**
+1. Wiki - Map has been updated. (**NEW**)
 
 2. Have you checked out our official Forums? Click [**HERE**](https://forum.treeofsavior.com/) move to the forums for discussion. Please login and click on the github icon to link your github account to it as well.
 

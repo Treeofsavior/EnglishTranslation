@@ -1,4 +1,4 @@
-﻿UI_20150317_000001	{@st41b}Learn Attributes{nl}from the Masters of each class.{/}
+UI_20150317_000001	{@st41b}Learn Attributes{nl}from the Masters of each class.{/}
 UI_20150317_000002	{@st43}Attribute List {/}
 UI_20150317_000003	{@st59}Close the Attribute List {/}
 UI_20150317_000004	{@st43}Learn Attributes{/}
@@ -25,7 +25,7 @@ UI_20150317_000024	{@St41b}Starting Price
 UI_20150317_000025	{@St41b}Bids
 UI_20150317_000026	{@St41b}Current Price
 UI_20150317_000027	{@St41b}Bidding Price
-UI_20150317_000028	{@St41b}Minimum Bid Price from {@st57}%s{@st41b}Silver{/}
+UI_20150317_000028	{@St41b}Minimum Bid Price from {@st57}%s{@st41b}silver{/}
 UI_20150317_000029	{@St41b}Bid{/}
 UI_20150317_000030	{@St43b}Buy Now!{nl}{img icon_item_silver 20 20}{@st57}%s{/}
 UI_20150317_000031	{@St44}Permission Settings{/}
@@ -102,7 +102,7 @@ UI_20150317_000101	{@st59}Whisper (/w team name chat){/}
 UI_20150317_000102	{@st59}Adjust Chat Window{/}
 UI_20150317_000103	{@st43}{s22}Chat Macro{/}
 UI_20150317_000104	{@st43}Macro{/}
-UI_20150317_000105	{@st59b}Macro {nl} {@st59s} - How to use: {nl} 1. Drag the gesture icon to any gesture slots at the bottom.{nl} 2. Write your phrase and save. {nl} 3. Use the shortcut key to use the phrase and make the gesture simultaneously. {/}
+UI_20150317_000105	{@st59b}Macro {nl} {@st59s} - How to use: {nl} 1. Drag the gesture icon to any gesture slots at the bottom. {nl} 2. Write your phrase and save. {nl} 3. Use the shortcut key to simultaneously use the phrase and make the gesture. {/}
 UI_20150317_000106	{@st59}Close Macro{/}
 UI_20150317_000107	{@st41b}Save {/}
 UI_20150317_000108	{@st59}Save your changes{/}
@@ -209,7 +209,7 @@ UI_20150317_000208	{@st49}Delete{/}
 UI_20150317_000209	Enter a file name to save.
 UI_20150317_000210	{@st43}Friends
 UI_20150317_000211	{@st59}Close Friends List{/}
-UI_20150317_000212	{@st59b}Friend{nl} {@st59s} - Become friends with other players in the game. {nl} - Go to the Friends List tab to check the status on your friends. {nl} - In the Manage tab, you can invite, decline or block your friends. {/}
+UI_20150317_000212	{@st59b}Friend{nl}{@st59s} - Become friends with other players in the game. {nl} - You can check the status on your friends through the Friends List tab. {nl} - In the Manage tab, you can invite, decline or block your friends. {/}
 UI_20150317_000213	{@st41b}Show online friends{/}
 UI_20150317_000214	{@st41b}List
 UI_20150317_000215	{@st41b}Manage
@@ -241,7 +241,7 @@ UI_20150317_000240	Enter the ID to search
 UI_20150317_000241	{@st59} Stamina {/}
 UI_20150317_000242	{@st43}Help List{/}
 UI_20150317_000243	{@st59}Close the Help List window{/}
-UI_20150317_000244	{@st59b} Help List {nl} {@st59s}- Read the help topics again {nl}  - Select a topic to view more details {/}
+UI_20150317_000244	{@st59b}Help List{nl}{@st59s} - If you need help with something, you can always read the Help Topics. {nl} - Select a topic to view more information about it. {/}
 UI_20150317_000245	{@st43}{s22}Help{/}
 UI_20150317_000246	{@st47_b}{b}Help Topics{/}
 UI_20150317_000247	{@st42b}Simple Help Contents{/}
@@ -299,7 +299,7 @@ UI_20150317_000298	99 minutes 99 seconds
 UI_20150317_000299	38000 points
 UI_20150317_000300	Enhanced Speed Potion
 UI_20150317_000301	{@st41}OK {/}
-UI_20150317_000302	{@st59b} Adventure Journal {nl}{@st59s}- Game progress is recorded in the Adventure Journal {nl} - Get Adventure Index through items, monsters, crafting, map navigation, game progress {nl}    Adventure Index : Sum of all indices {nl}    Character : 5 points per level and class level {nl}    Item : Equipment: Level X 10 points, Book : 10 points, Others : 1 point {nl}    Monster : 10 points per monster (Boss: 50 points) {nl}    Map : 1 point per 10% {nl}    Quest: 1 point per quest {nl}    Achievement: Varies by achievement {nl}    Crafting : 10 points {nl}    Collection : Deck 5 points, 45 points when complete {nl} - Receive rewards from town NPC depending on the Adventure Index {/}
+UI_20150317_000302	${@st59b} Adventure Journal {nl}{@st59s}- Your game progress is recorded in the Adventure Journal. {nl} - You can progress your Adventure Index through contents such as: obtaining items, hunting monsters, crafting and map exploration.{nl}    Adventure Index : The total of all your indexes. {nl}    Growth : 5 points per character level and class level {nl}    Items : Equipment : grade X 10 points, Books : 10 points, Others : 1 point {nl}    Monsters : 10 points per monster (50 points for Boss Monsters) {nl}    Maps : 1 point per 10% explored {nl}    Quests : 1 point per quest {nl}    Achievements : Varies by achievement {nl}    Crafting : 10 points {nl}    Collection : 5 points for a deck and 45 points when it is completed {nl} - You can receive special rewards from an NPC in town depending on your Adventure Index. {/}
 UI_20150317_000303	{@sti7}{s22}{ds}Achievements{/}
 UI_20150317_000304	{@st42b}{#22FF22} Top 10% / %s Points{/}
 UI_20150317_000305	{@st42b} Average / %s Points {/}
@@ -434,7 +434,7 @@ UI_20150317_000433	Tool for making minimap
 UI_20150317_000434	Dialogue tool
 UI_20150317_000435	{@st43}GM Settings{/}
 UI_20150317_000436	{@st59}Close Party Information{/}
-UI_20150317_000437	{@st59b} Party Information {nl} {@st59s} - Press the Create Party button at the bottom to form a party {nl} - Right-click on other players to send a party invite {nl} - Changes can be made to the party through the Settings tab {nl} - Apply specific conditions to search for party members from the Public Party list {/}
+UI_20150317_000437	{@st59b}Party Information{nl}{@st59s} - Click on the "Create Party" button at the bottom to create a party. {nl} - Right-click on other players to send a party invite. {nl} - Changes can be made to the party through the Settings tab. {nl} - Set up specific conditions to search for party members from the Public Party list. {/}
 UI_20150317_000438	{@st43}Party Information{/}
 UI_20150317_000439	{@st41b}Members{/}
 UI_20150317_000440	{@st41b}Party Event {/}
@@ -456,8 +456,8 @@ UI_20150317_000455	{@st41}Quest Sharing
 UI_20150317_000456	{@st41b}Enabled
 UI_20150317_000457	{@st41b}Disabled
 UI_20150317_000458	{@st41b}Create Party
-UI_20150317_000459	{@st43} Public Party List {/}
-UI_20150317_000460	{@st59b} Public Party List {nl} {@st59s} - Search for parties you want to join {nl} - Use search conditions to search the party you want {/}
+UI_20150317_000459	{@st43}Public Party List {/}
+UI_20150317_000460	${@st59b}Public Party List{nl}{@st59s} - Search for parties you want to join. {nl} - Ticking "Use Search" uses your search conditions to help find desirable parties. {/}
 UI_20150317_000461	{@st59}Close Party List{/}
 UI_20150317_000462	Use Search
 UI_20150317_000463	Quest Sharing
@@ -474,22 +474,22 @@ UI_20150317_000473	Register Rules
 UI_20150317_000474	{Gr gradation1}Cancel{/}
 UI_20150317_000475	Cancel Action
 UI_20150317_000476	{@st43}Companion Info
-UI_20150317_000477	{@st59b} Companion info {nl} {@st59s} - sleep / activity button can be put into a companion minus {nl} - characteristics of a companion, items attached to timers {/}
+UI_20150317_000477	{@st59b} Companion Info{nl}{@st59s} - You can set your Companion to Active or in Rest Mode using the button below. {nl} - The attributes and equipped items of your Companion can be customized. {/}
 UI_20150317_000478	{@st59}Close Companion Info{/}
 UI_20150317_000479	{@st41b}Name : {@sti9}%s{/}
-UI_20150317_000480	Closeness{@sti9}%s{@st41b} : {@sti9}%s {@st41b}Level{/}
-UI_20150317_000481	EXP {@st41b} {/}
-UI_20150317_000482	{@st41b} stamina {/}
-UI_20150317_000483	Closeness {@st41b} {/}
+UI_20150317_000480	{@sti9}%s{@st41b}Closeness : {@sti9}%s {@st41b}Level{/}
+UI_20150317_000481	{@st41b}EXP{/}
+UI_20150317_000482	{@st41b}Stamina{/}
+UI_20150317_000483	{@st41b}Closeness{/}
 UI_20150317_000484	{@st41b}Attributes and Information
 UI_20150317_000485	{@st43}Companion{/}
-UI_20150317_000486	{@st59b} companion {nl} {@st59s} - clicking an item in the list to view details {/}
+UI_20150317_000486	{@st59b}Companion{nl}{@st59s} - Click on an item in the list to view more information. {/}
 UI_20150317_000487	{@st59}Close Companion{/}
 UI_20150317_000488	{@st59}Close Help window{/}
-UI_20150317_000489	{@st59}Help{nl} - Learn more{nl} - To view other topics, select from Help List{/}
+UI_20150317_000489	{@st59}Help{nl} - View detailed information and tips. {nl} - View other topics from the Help List{/}
 UI_20150317_000490	{@st43}Help{/}
 UI_20150317_000491	Help Topics
-UI_20150317_000492	{ol}{#AAAA00}{s16}Elapsed time : %s
+UI_20150317_000492	{ol}{#AAAA00}{s16}Elapsed Time : %s
 UI_20150317_000493	{@st43}Poison Pot{/}
 UI_20150317_000494	{@st59}Close Poison Pot UI{/}
 UI_20150317_000495	{@st59}Need to write{/}
@@ -516,7 +516,7 @@ UI_20150317_000515	{@st41}Delete All
 UI_20150317_000516	{@st42}Pension object {@stx1}(%s required){/}
 UI_20150317_000517	{@st41}Combination
 UI_20150317_000518	{@st43}Quest{/}
-UI_20150317_000519	Quest {@st59b} {nl}{@st59s}- Registers a quest notice when there is a new quest {nl} - Yellow for main quest, Blue for sub-quest {nl} - The arrow on the character's foot leads to the quest location {nl} - 'Return' icon is displayed when the quest is complete {nl}    (teleport to quest NPC using backspace or mouse click) {nl} - Check the box in front of the quest name to add/remove from the quest notice {/}
+UI_20150317_000519	${@st59b}Quests{nl}{@st59s} - When you are on a new quest, it will be added to the quest tracker. {nl} - A main quest is displayed in yellow color, while a subquest is displayed in blue. {nl} - The arrow on the character's foot leads to the location of your quest. {nl} - If you completed a quest, a 'Return' icon is displayed on the quest tracker. {nl}    (Teleports you to the Quest NPC using the Backspace key or a mouse-click) {nl} - Add or remove quests in the quest tracker by ticking or unticking the box in front of the quest name. {/}
 UI_20150317_000520	{@st41b}In Progress{/}
 UI_20150317_000521	{@st41b}Abandon{/}
 UI_20150317_000522	{@st43}{s22}Quest Information{/}
@@ -644,9 +644,9 @@ UI_20150317_000643	Crafting costs
 UI_20150317_000644	Crafting Qty
 UI_20150317_000645	Approximately %s seconds consumed
 UI_20150317_000646	{@st41}Create
-UI_20150317_000647	{@st43}Class Skills and Attributes{/}
-UI_20150317_000648	{@st59}Close Class and Skill{/}
-UI_20150317_000649	{@st59b}Class {nl}{@st59s}- Increase class circles to acquire skills {nl} - Can select 3 classes when advancing from 1st to 2nd class {nl} - Can advance to same class up to 3 times {nl} - Cannot change back to previous class when advancing to another class {nl} - Consume all skill points to advance {nl} - Can choose the same class {nl} {@st59b}Skills {nl}{@st59s}- Each rank's skill can be increased up to 5 levels {nl} - Attributes learned from masters can be seen below the skills {/}
+UI_20150317_000647	${@st43}Skills & Attributes{/}
+UI_20150317_000648	${@st59}Close Classes & Skills{/}
+UI_20150317_000649	${@st59b}Classes{nl}{@st59s}- You can learn new skills by growing the Circle of your class. {nl} - You can choose from 3 available classes to advance to from your 1st to 2nd advancement. {nl} - You can advance to the same class up to 3 times. {nl} - You cannot change back to your previous class once you advanced to another class. {nl} - You have to consume all your Skill Points to be able to advance. {nl} - You can choose the same class.{nl}{@st59b}Skills{nl}{@st59s} - You can increase the rank of each skill up to level 5.{nl} - Attributes learned from your Masters can be seen below your skills. {/}
 UI_20150317_000650	{@st41b}Apply{/}
 UI_20150317_000651	{@st59}Apply{/}
 UI_20150317_000652	Cleric
@@ -706,7 +706,7 @@ UI_20150317_000705	{@st41} All {/}
 UI_20150317_000706	{@st41} Party {/}
 UI_20150317_000707	{@st41} Monster {/}
 UI_20150317_000708	{@st41b}{#f0dcaa}Remaining Status Points ▶ {@st46}%s
-UI_20150317_000709	{@st59b}My Information{nl}{@st59s}- Status : By leveling up, you can earn points that you can use to enhance the 5 available abilities to become more powerful. {nl}- Information : Character info based on current status and equipment {nl}- Title : Can be earned by accomplishing achievements {nl} {/}
+UI_20150317_000709	{@st59b}My Information{nl}{@st59s}- Status : By leveling up, you can earn points that you can use to enhance the 5 abilities to become more powerful. {nl}- Information : This is information about your character based on your current status and equipment. {nl}- Title : Titles can be earned by accomplishing achievements. {nl} {/}
 UI_20150317_000710	{@st41b}Info{/}
 UI_20150317_000711	{@st41b}Title{/}
 UI_20150317_000712	Show Class
@@ -725,7 +725,7 @@ UI_20150317_000724	{@st43}Stat{/}
 UI_20150317_000725	systemmenu_vertical tentative removal
 UI_20150317_000726	{@st59}Character Information (F1){/}
 UI_20150317_000727	{@st59}Inventory (F2){/}
-UI_20150317_000728	{@st59}Class and Skill (F3){/}
+UI_20150317_000728	${@st59}Classes & Skills (F3){/}
 UI_20150317_000729	{@st59}Adventure Journal (F4){/}
 UI_20150317_000730	{@st59}Quest (F5){/}
 UI_20150317_000731	{@st59}Party (F6){/}
@@ -848,9 +848,9 @@ UI_20150317_000847	Enter search word
 UI_20150317_000848	All attribute values
 UI_20150317_000849	{ol}Name
 UI_20150317_000850	{ol}Value
-UI_20150317_000851	Log
+UI_20150317_000851	$Rogue
 UI_20150317_000852	{ol}Revision
-UI_20150317_000853	{ol}Log
+UI_20150317_000853	${ol}Rogue
 UI_20150317_000854	Class list
 UI_20150317_000855	XML Conversion
 UI_20150317_000856	{ol}Class name
@@ -1223,8 +1223,8 @@ UI_20150317_001222	Tooltip
 UI_20150317_001223	EXP: sad{br}+1 Enchantment Crystal (Attack)
 UI_20150317_001224	The Apprentice Sword
 UI_20150317_001225	Repair Durability :
-UI_20150317_001226	Repair Cost : 120 Silver
-UI_20150317_001227	Repair Cost : %s Silver
+UI_20150317_001226	Repair Cost : 120 silver
+UI_20150317_001227	Repair Cost : %s silver
 UI_20150317_001228	{@st42b}Bids Count {@sti7}%s{/}
 UI_20150317_001229	{@st42b}Current Price {img icon_item_silver 20 20}{@st57}%s{/}
 UI_20150317_001230	{@St41}Buy immediately! {Img icon_item_silver 20 20}{@st57}%s{/}
@@ -1306,9 +1306,9 @@ UI_20150323_001305	{@st41b}Renew
 UI_20150323_001306	{@st59}Renews the lasting time.{/}
 UI_20150323_001307	{@st41b}Basecamp Lasting Time
 UI_20150323_001308	{@st41b}Effect
-UI_20150323_001309	{@st42b}A basecamp lasts for an additional 24 hours when renewed. Consumes %s Silver.
+UI_20150323_001309	{@st42b}A basecamp lasts for an additional 24 hours when renewed. Consumes %s silver.
 UI_20150323_001310	{@st41b}Personal Storage
-UI_20150323_001311	{@stc1}Storing and taking items in and from storage costs %s Silver.{/}
+UI_20150323_001311	{@stc1}Storing and taking items in and from storage costs %s silver.{/}
 UI_20150323_001312	{@st41}{#ffff00}Lock Target{/}
 UI_20150323_001313	{@st43}Food Table
 UI_20150323_001314	{@st41b}Food type
@@ -1333,12 +1333,12 @@ UI_20150323_001332	{@st59}Close UI{/}
 UI_20150323_001333	{@st41b}Repair{/}
 UI_20150323_001334	{@st41b}Log{/}
 UI_20150323_001335	Price to receive
-UI_20150323_001336	{@st59}Put gem here{/}
+UI_20150323_001336	${@st59}Place a gem{/}
 UI_20150323_001337	Consume Materials
 UI_20150323_001338	Amount Left
 UI_20150323_001339	{@st42}Close
-UI_20150323_001340	{@st43}Repair Weapon{/}
-UI_20150323_001341	{@st43}Repair Equipment{/}
+UI_20150323_001340	${@st43}Weapon Maintenance{/}
+UI_20150323_001341	${@st43}Equipment Maintenance{/}
 UI_20150323_001342	{@st41b}Price to receive
 UI_20150323_001343	{@st41b}Materials
 UI_20150323_001344	{@st43}Repair{/}
@@ -1358,7 +1358,7 @@ UI_20150323_001357	{@st59}Cancel{/}
 UI_20150323_001358	{@st59}Close Buy-in Shop{/}
 UI_20150323_001359	Request Buy-in
 UI_20150323_001360	{@st59}Close Buy-in Shop
-UI_20150323_001361	{@st59}Buy-in Shop{nl} - Trade your items for Silver
+UI_20150323_001361	{@st59}Buy-in Shop{nl} - Trade your items for silver
 UI_20150323_001362	{@st43}Items the buyer wants{/}
 UI_20150323_001363	{@st43}Items for sale
 UI_20150323_001364	{@st43}Total Profit
@@ -1468,16 +1468,16 @@ UI_20150406_001467	{@st41}Stat
 UI_20150406_001468	{@st41b}Offerings Box Name
 UI_20150406_001469	{@st41b}Details of item offering
 UI_20150406_001470	{@st59}Close Buy-in Shop
-UI_20150406_001471	{@st59b}Buy-in Shop{nl}{@st59s} - Trade items for Silver
+UI_20150406_001471	{@st59b}Buy-in Shop{nl}{@st59s} - Trade items for silver
 UI_20150406_001472	{@st41b}Other Player's Requested Item{/}
 UI_20150406_001473	{@st41b}Available Items{/}
 UI_20150406_001474	{@st41b}Total Sales
 UI_20150406_001475	{@st41b}Sell
 UI_20150406_001476	{@st59}Sell the item(s) you've added.{/}
 UI_20150406_001477	{@st59}Close Personal Storage{/}
-UI_20150406_001478	{@st41b} %s Silver is consumed when storing and taking items from storage.{/}
+UI_20150406_001478	{@st41b} %s silver is consumed when storing and taking items from storage.{/}
 UI_20150406_001479	{@st41b}Quantity
-UI_20150414_001480	{@st42b}The duration of your camp can be increased.{nl} Cost: %s Silver.
+UI_20150414_001480	{@st42b}The duration of your camp can be increased.{nl} Cost: %s silver.
 UI_20150414_001481	{@st41b}Type {@sti7}%s{/}
 UI_20150414_001482	{@st41b}Control Difficulty {@sti7}%s{/}
 UI_20150414_001483	{@st59b} Item {/}
@@ -1621,8 +1621,8 @@ UI_20150714_001620	{@st41b}Enhance
 UI_20150714_001621	{@st66}Items requiring a repair
 UI_20150714_001622	{@st43}Simoni
 UI_20150714_001623	{@st59}Increase skills{/}
-UI_20150714_001624	{@st59}Close Skills and Attributes{/}
-UI_20150714_001625	{@st43}Skills and Attributes{/}
+UI_20150714_001624	{@st59}Close Skills & Attributes{/}
+UI_20150714_001625	{@st43}Skills & Attributes{/}
 UI_20150714_001626	Remaining Status Points {nl}{@st46}%s
 UI_20150714_001627	Likes Received! : %s
 UI_20150714_001628	{@st66b}Show EXP acquired{/}
@@ -1650,7 +1650,7 @@ UI_20150714_001649	{@st66b}Apply Soft Particle{/}
 UI_20150714_001650	{@st66b}Apply High Texture {/}
 UI_20150714_001651	{@st66b}Vertical Sync On{/}
 UI_20150714_001652	{@st66b}Vertical Sync Off{/}
-UI_20150714_001653	{@st66b} %s Silver is consumed when storing and taking items from storage.{/}
+UI_20150714_001653	{@st66b} %s silver is consumed when storing and taking items from storage.{/}
 UI_20150714_001654	%s like me
 UI_20150714_001655	{@st41}Spectate
 UI_20150714_001656	{@st66b}Exit Spectator Mode
