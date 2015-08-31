@@ -193,7 +193,7 @@ UI_20150317_000192	Other Player's Name
 UI_20150317_000193	{s18}{ol} {gr gradation1}Field Event{/}
 UI_20150317_000194	{s20}{ol}Defeat the Vubbe Tribe! Would you like to join?
 UI_20150317_000195	{s20}{ol}%s Would you like to join?
-UI_20150317_000196	{s20}{ol}Participants: (1/5)
+UI_20150317_000196	{s20}{ol}Participants : (1/5)
 UI_20150317_000197	{s20}{ol}Participants : (%s/%s)
 UI_20150317_000198	{s20}{ol}The game will begin after 1 second.
 UI_20150317_000199	{s20}{ol}The game will begin after %s seconds.
@@ -263,7 +263,7 @@ UI_20150317_000262	Coin Consumed : 0
 UI_20150317_000263	Intro
 UI_20150317_000264	{@st43}Inventory{/}
 UI_20150317_000265	{@st59}Close Inventory{/}
-UI_20150317_000266	{@st59b}Equipment {nl} {@st59s}- Hairstyle/Costume: Equipment to change a characters appearance. {nl} - Weapon: Can equip one-handed or two-handed weapons {nl} (sub-weapon/shield can be equipped with a one-handed weapon) {nl} - Armor: Top, Pants, Gloves, Shoes. {nl} - Accessories: Can wear 1 Necklace and 2 Bracelets. {nl} {/}
+UI_20150317_000266	{@st59b}Equipment {nl} {@st59s}- Hairstyle/Costume: Equipment to change a characters appearance. {nl} - Weapon: Can equip one-handed or two-handed weapons {nl} (sub-weapon/shield can be equipped with a one-handed weapon) {nl} - Armor: Top, Pants, Gloves, Shoes. {nl} - Accessories: Can equip 1 Necklace and 2 Bracelets. {nl} {/}
 UI_20150317_000267	{@st59}Hairstyle Costume 1{/}
 UI_20150317_000268	{@st59}Hairstyle Costume 2{/}
 UI_20150317_000269	{@st59}Necklace{/}
@@ -277,7 +277,7 @@ UI_20150317_000276	{@st59}Right Hand{/}
 UI_20150317_000277	{@st59}Bracelet 1{/}
 UI_20150317_000278	{@st59}Bracelet 2{/}
 UI_20150317_000279	{@st59}Armband{/}
-UI_20150317_000280	{@st59}Search for the keyword {/}
+UI_20150317_000280	{@st59}Search for the keyword{/}
 UI_20150317_000281	Weight
 UI_20150317_000282	{@st43}Equipment Buff{/}
 UI_20150317_000283	{@st59}Close the Item Repair UI{/}
@@ -299,7 +299,7 @@ UI_20150317_000298	99 minutes 99 seconds
 UI_20150317_000299	38000 points
 UI_20150317_000300	Enhanced Speed Potion
 UI_20150317_000301	{@st41}OK {/}
-UI_20150317_000302	{@st59b} Adventure Journal {nl}{@st59s}- Your game progress is recorded in the Adventure Journal. {nl} - You can progress your Adventure Index through contents such as: obtaining items, hunting monsters, crafting and map exploration.{nl}    Adventure Index : The total of all your indexes. {nl}    Growth : 5 points per character level and class level {nl}    Items : Equipment : grade X 10 points, Books : 10 points, Others : 1 point {nl}    Monsters : 10 points per monster (50 points for Boss Monsters) {nl}    Maps : 1 point per 10% explored {nl}    Quests : 1 point per quest {nl}    Achievements : Varies by achievement {nl}    Crafting : 10 points {nl}    Collection : 5 points for a deck and 45 points when it is completed {nl} - You can receive special rewards from an NPC in town depending on your Adventure Index. {/}
+UI_20150317_000302	${@st59b} Adventure Journal {nl}{@st59s}- Your game progress is recorded in the Adventure Journal. {nl} - You can progress your Adventure Index through contents such as: obtaining items, hunting monsters, crafting and map exploration.{nl}    Adventure Index : The total of all your indexes. {nl}    Growth : 5 points per character level and class level {nl}    Items : Equipment : grade X 10 points, Books : 10 points, Others : 1 point {nl}    Monsters : 10 points per monster (50 points for Boss Monsters) {nl}    Maps : 1 point per 10% explored {nl}    Quests : 1 point per quest {nl}    Achievements : Varies by achievement {nl}    Crafting : 10 points {nl}    Collection : 5 points for a deck and 45 points when it is completed {nl} - You can receive special rewards from an NPC in town depending on your Adventure Index. {/}
 UI_20150317_000303	{@sti7}{s22}{ds}Achievements{/}
 UI_20150317_000304	{@st42b}{#22FF22} Top 10% / %s Points{/}
 UI_20150317_000305	{@st42b} Average / %s Points {/}
@@ -457,7 +457,7 @@ UI_20150317_000456	{@st41b}Enabled
 UI_20150317_000457	{@st41b}Disabled
 UI_20150317_000458	{@st41b}Create Party
 UI_20150317_000459	{@st43}Public Party List {/}
-UI_20150317_000460	{@st59b}Public Party List{nl}{@st59s} - Search for parties you want to join. {nl} - Ticking "Use Search" uses your search conditions to help find desirable parties. {/}
+UI_20150317_000460	${@st59b}Public Party List{nl}{@st59s} - Search for parties you want to join. {nl} - Ticking "Use Search" uses your search conditions to help find desirable parties. {/}
 UI_20150317_000461	{@st59}Close Party List{/}
 UI_20150317_000462	Use Search
 UI_20150317_000463	Quest Sharing
@@ -516,7 +516,7 @@ UI_20150317_000515	{@st41}Delete All
 UI_20150317_000516	{@st42}Pension object {@stx1}(%s required){/}
 UI_20150317_000517	{@st41}Combination
 UI_20150317_000518	{@st43}Quest{/}
-UI_20150317_000519	{@st59b}Quests{nl}{@st59s} - When you are on a new quest, it will be added to the quest tracker. {nl} - A main quest is displayed in yellow color, while a subquest is displayed in blue. {nl} - The arrow on the character's foot leads to the location of your quest. {nl} - If you completed a quest, a 'Return' icon is displayed on the quest tracker. {nl}    (Teleports you to the Quest NPC using the Backspace key or a mouse-click) {nl} - Add or remove quests in the quest tracker by ticking or unticking the box in front of the quest name. {/}
+UI_20150317_000519	${@st59b}Quests{nl}{@st59s} - When you are on a new quest, it will be added to the quest tracker. {nl} - A main quest is displayed in yellow color, while a subquest is displayed in blue. {nl} - The arrow on the character's foot leads to the location of your quest. {nl} - If you completed a quest, a 'Return' icon is displayed on the quest tracker. {nl}    (Teleports you to the Quest NPC using the Backspace key or a mouse-click) {nl} - Add or remove quests in the quest tracker by ticking or unticking the box in front of the quest name. {/}
 UI_20150317_000520	{@st41b}In Progress{/}
 UI_20150317_000521	{@st41b}Abandon{/}
 UI_20150317_000522	{@st43}{s22}Quest Information{/}
@@ -602,7 +602,7 @@ UI_20150317_000601	{@st42}Repair{/}
 UI_20150317_000602	{@st59}Repair as current settings{/}
 UI_20150317_000603	{@st59}Do not repair{/}
 UI_20150317_000604	{@st44}Resume{/}
-UI_20150317_000605	{@st41b}You have become {/}{s20}{#cc6600}{ol}incapable of combat{/}{@st41b}{/}
+UI_20150317_000605	{@st41b}You have become {/}{s20}{#cc6600}{ol} incapable of combat{/}{@st41b}{/}
 UI_20150317_000606	{@st41b}Respawn from the nearest Revival Point{/}
 UI_20150317_000607	{@st41b}Respawn here (requires %s iCoins) {/}
 UI_20150317_000608	{@st41b}Return to field{/}
@@ -644,9 +644,9 @@ UI_20150317_000643	Crafting costs
 UI_20150317_000644	Crafting Qty
 UI_20150317_000645	Approximately %s seconds consumed
 UI_20150317_000646	{@st41}Create
-UI_20150317_000647	{@st43}Skills & Attributes{/}
-UI_20150317_000648	{@st59}Close Classes & Skills{/}
-UI_20150317_000649	{@st59b}Classes{nl}{@st59s}- You can learn new skills by growing the Circle of your class. {nl} - You can choose from 3 available classes to advance to from your 1st to 2nd advancement. {nl} - You can advance to the same class up to 3 times. {nl} - You cannot change back to your previous class once you advanced to another class. {nl} - You have to consume all your Skill Points to be able to advance. {nl} - You can choose the same class.{nl}{@st59b}Skills{nl}{@st59s} - You can increase the rank of each skill up to level 5.{nl} - Attributes learned from your Masters can be seen below your skills. {/}
+UI_20150317_000647	${@st43}Skills & Attributes{/}
+UI_20150317_000648	${@st59}Close Classes & Skills{/}
+UI_20150317_000649	${@st59b}Classes{nl}{@st59s}- You can learn new skills by growing the Circle of your class. {nl} - You can choose from 3 available classes to advance to from your 1st to 2nd advancement. {nl} - You can advance to the same class up to 3 times. {nl} - You cannot change back to your previous class once you advanced to another class. {nl} - You have to consume all your Skill Points to be able to advance. {nl} - You can choose the same class.{nl}{@st59b}Skills{nl}{@st59s} - You can increase the rank of each skill up to level 5.{nl} - Attributes learned from your Masters can be seen below your skills. {/}
 UI_20150317_000650	{@st41b}Apply{/}
 UI_20150317_000651	{@st59}Apply{/}
 UI_20150317_000652	Cleric
@@ -752,7 +752,7 @@ UI_20150317_000751	{@st43}Sound{/}
 UI_20150317_000752	{@st41b}Sound Effects Volume (%s){/}
 UI_20150317_000753	{@st41b}BGM Volume (%s){/}
 UI_20150317_000754	{@st41b}Volume (%s){/}
-UI_20150317_000755	{@st43}{b}Select Language {/}{/}
+UI_20150317_000755	{@st43}{b}Select Language{/}
 UI_20150317_000756	{@st59}Close Settings{/}
 UI_20150317_000757	Lowest-mode {@st41b} {/}
 UI_20150317_000758	{@st41b}View{/}
@@ -774,7 +774,7 @@ UI_20150317_000773	{@st53}To Start :
 UI_20150317_000774	{@st53b}Gifts received : ×%s
 UI_20150317_000775	{@st43b}Send gift to %s{/}
 UI_20150317_000776	{@st55_a}Next game
-UI_20150317_000777	{@st53}- Click on the name to spectate {nl}- Right-click to send a gift
+UI_20150317_000777	{@st53}- Click on the name to spectate{nl}- Right-click to send a gift
 UI_20150317_000778	My character as camera
 UI_20150317_000779	{@st55_a}Congratulations!
 UI_20150317_000780	{@st42}Switch Camera
@@ -848,9 +848,9 @@ UI_20150317_000847	Enter search word
 UI_20150317_000848	All attribute values
 UI_20150317_000849	{ol}Name
 UI_20150317_000850	{ol}Value
-UI_20150317_000851	Rogue
+UI_20150317_000851	$Rogue
 UI_20150317_000852	{ol}Revision
-UI_20150317_000853	{ol}Rogue
+UI_20150317_000853	${ol}Rogue
 UI_20150317_000854	Class list
 UI_20150317_000855	XML Conversion
 UI_20150317_000856	{ol}Class name
@@ -1284,14 +1284,14 @@ UI_20150317_001283	Effect
 UI_20150317_001284	Control Set
 UI_20150317_001285	{@St41}Difficulty : %s
 UI_20150317_001286	{@St42}Remaining Time : %s
-UI_20150317_001287	{@St53}item crafting
+UI_20150317_001287	{@St53}Item Crafting
 UI_20150323_001288	{@st59}Place your item here{/}
 UI_20150323_001289	{@st42}Cancel
 UI_20150323_001290	{@st42}Confirm
 UI_20150323_001291	{@st43}Briquetting{/}
 UI_20150323_001292	Current Potential
-UI_20150323_001293	Consume materials
-UI_20150323_001294	Consume Qty
+UI_20150323_001293	Consumable Material
+UI_20150323_001294	Consume Quantity
 UI_20150323_001295	Quantity available
 UI_20150323_001296	{@sti6}Transaction Record
 UI_20150323_001297	{@st43}Basecamp
@@ -1315,7 +1315,7 @@ UI_20150323_001314	{@st41b}Food type
 UI_20150323_001315	{@st41b}Table
 UI_20150323_001316	{@st59}Close{/}
 UI_20150323_001317	{@st43}Grimoire{/}
-UI_20150323_001318	{@st59}Close Grimoire UI{/}
+UI_20150323_001318	{@st59}Close the Grimoire UI{/}
 UI_20150323_001319	My Summon Skill
 UI_20150323_001320	Main Card
 UI_20150323_001321	Sub Card
@@ -1333,12 +1333,12 @@ UI_20150323_001332	{@st59}Close UI{/}
 UI_20150323_001333	{@st41b}Repair{/}
 UI_20150323_001334	{@st41b}Log{/}
 UI_20150323_001335	Price to receive
-UI_20150323_001336	{@st59}Place a gem{/}
+UI_20150323_001336	${@st59}Place a gem{/}
 UI_20150323_001337	Consumable Material
 UI_20150323_001338	Amount Left
 UI_20150323_001339	{@st42}Close
-UI_20150323_001340	{@st43}Weapon Maintenance{/}
-UI_20150323_001341	{@st43}Equipment Maintenance{/}
+UI_20150323_001340	${@st43}Weapon Maintenance{/}
+UI_20150323_001341	${@st43}Equipment Maintenance{/}
 UI_20150323_001342	{@st41b}Price to receive
 UI_20150323_001343	{@st41b}Materials
 UI_20150323_001344	{@st43}Repair{/}
@@ -1376,7 +1376,7 @@ UI_20150323_001375	{@st41b}Apply Depth {/}
 UI_20150323_001376	{@st41b}Apply SoftParticle{/}
 UI_20150323_001377	{@st43}Personal Storage{/}
 UI_20150323_001378	{@st59}Close Personal Storage{/}
-UI_20150323_001379	{@sti6}Storing and taking item from storage costs %s silver...{/}
+UI_20150323_001379	{@sti6}Storing and taking items from storage costs %s silver...{/}
 UI_20150323_001380	{@st59}Alt+Z to change weapons{/}
 UI_20150323_001381	{@st59}Save Lodge Settings{/}
 UI_20150323_001382	Change Lodge
@@ -1476,7 +1476,7 @@ UI_20150406_001475	{@st41b}Sell
 UI_20150406_001476	{@st59}Sell the item(s) you've added.{/}
 UI_20150406_001477	{@st59}Close Personal Storage{/}
 UI_20150406_001478	{@st41b} %s silver is consumed when storing and taking items from storage.{/}
-UI_20150406_001479	{@st41b}Qty.
+UI_20150406_001479	{@st41b}Quantity
 UI_20150414_001480	{@st42b}The duration of your camp can be increased.{nl} Cost: %s silver.
 UI_20150414_001481	{@st41b}Type {@sti7}%s{/}
 UI_20150414_001482	{@st41b}Control Difficulty {@sti7}%s{/}
