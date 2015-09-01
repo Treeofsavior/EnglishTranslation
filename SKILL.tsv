@@ -1005,7 +1005,7 @@ SKILL_20150317_001004	$Frenzy
 SKILL_20150317_001005	$Increases your attack when you use consecutive basic attacks on the target.
 SKILL_20150317_001006	$Attack +#{CaptionRatio}# {nl} Stacks up to #{CaptionRatio2}# times {nl} Duration #{CaptionTime}# seconds
 SKILL_20150317_001007	Aggressor
-SKILL_20150317_001008	$Your attack is guaranteed to hit, but your Critical Rate and Critical Evasion decreases.
+SKILL_20150317_001008	$Your attacks are guaranteed to hit, but your Critical Rate and Critical Evasion decreases.
 SKILL_20150317_001009	Critical Chance -#{CaptionRatio}#%{nl}Critical Evasion -#{CaptionRatio}#%{nl}Duration #{CaptionTime}# seconds
 SKILL_20150317_001010	Savagery
 SKILL_20150317_001011	$While the buff is active, a continuous attack bonus applies to {#DD5500}{ol}[Pierce]{/}{/} attacks.
@@ -2201,9 +2201,9 @@ SKILL_20150317_002200	Raise: Large monster
 SKILL_20150317_002201	[Raise] also applies to large monsters.
 SKILL_20150317_002202	Physical link: Defense
 SKILL_20150317_002203	Physical defense increased by [Connected party members + Attribute level] when [Physical Link] is enabled.
-SKILL_20150317_002204	Hangman's Knot: Additional Damage
+SKILL_20150317_002204	$Hangman's Knot: Additional Damage
 SKILL_20150317_002205	Enemies receive 20% of magic damage per attribute level when attacked with [Hangman's Knot].
-SKILL_20150317_002206	Umbilical cord: Remaining defense
+SKILL_20150317_002206	$Umbilical Cord: Remaining Defense
 SKILL_20150317_002207	Physical defense remains by 10% per attribute level when using [Umbilical Cord]
 SKILL_20150317_002208	Spiritual Chain: Duration
 SKILL_20150317_002209	Duration of [Spiritual Chain] increases by 2 seconds per attribute level.
@@ -2472,117 +2472,117 @@ SKILL_20150317_002471	Iron Skin: Additional damage
 SKILL_20150317_002472	Reflected damage of [Iron Skin] increases by 10% of your Physical damage per attribute level.
 SKILL_20150317_002473	Energy Blast: Rotate direction
 SKILL_20150317_002474	Can turn directions while using [Energy Blast] (Impossible if shooting starts)
-SKILL_20150317_002475	Ballista: Duration
-SKILL_20150317_002476	Duration of [Ballista] increases by 2 seconds per level
-SKILL_20150317_002477	Bash: Enhance
+SKILL_20150317_002475	Ballista: Duration Time
+SKILL_20150317_002476	$Increases the duration time of [Ballista] by 2 seconds per attribute level. 
+SKILL_20150317_002477	$Bash: Enhance
 SKILL_20150317_002478	$Increases the damage of [Bash] per attribute level.
-SKILL_20150317_002479	Thrust: Enhance
+SKILL_20150317_002479	$Thrust: Enhance
 SKILL_20150317_002480	$Increases the damage of [Thrust] per attribute level.
 SKILL_20150317_002481	$Rim Blow: Enhance
 SKILL_20150317_002482	$Increases the damage of [Rim Blow] per attribute level.
-SKILL_20150317_002483	Umbo Blow: Enhance
+SKILL_20150317_002483	$Umbo Blow: Enhance
 SKILL_20150317_002484	$Increases the damage of [Umbo Blow] per attribute level.
-SKILL_20150317_002485	Cartar Stroke: Enhance
+SKILL_20150317_002485	$Cartar Stroke: Enhance
 SKILL_20150317_002486	$Increases the damage of [Cartar Stroke] per attribute level.
-SKILL_20150317_002487	Crown: Enhance
+SKILL_20150317_002487	$Crown: Enhance
 SKILL_20150317_002488	$Increases the damage of [Crown] per attribute level.
-SKILL_20150317_002489	Wagon Wheel: Enhance
+SKILL_20150317_002489	$Wagon Wheel: Enhance
 SKILL_20150317_002490	$Increases the damage of [Wagon Wheel] per attribute level.
-SKILL_20150317_002491	Moulinet: Enhance
+SKILL_20150317_002491	$Moulinet: Enhance
 SKILL_20150317_002492	$Increases the damage of [Moulinet] per attribute level.
 SKILL_20150317_002493	$Multi Shot: Enhance
 SKILL_20150317_002494	$Increases the damage of [Multi Shot] per attribute level.
-SKILL_20150317_002495	Fulldraw: Enhance
+SKILL_20150317_002495	$Fulldraw: Enhance
 SKILL_20150317_002496	$Increases the damage of [Fulldraw] per attribute level.
-SKILL_20150317_002497	Oblique Shot: Enhance
+SKILL_20150317_002497	$Oblique Shot: Enhance
 SKILL_20150317_002498	$Increases the damage of [Oblique Shot] per attribute level.
-SKILL_20150317_002499	Barrage: Enhance
+SKILL_20150317_002499	$Barrage: Enhance
 SKILL_20150317_002500	$Increases the damage of [Barrage] per attribute level.
-SKILL_20150317_002501	High Anchoring: Enhance
+SKILL_20150317_002501	$High Anchoring: Enhance
 SKILL_20150317_002502	$Increases the damage of [High Anchoring] per attribute level.
-SKILL_20150317_002503	Bounce Shot: Enhance
+SKILL_20150317_002503	$Bounce Shot: Enhance
 SKILL_20150317_002504	$Increases the damage of [Bounce Shot] per attribute level.
-SKILL_20150317_002505	Scatter Caltrop: Enhance
+SKILL_20150317_002505	$Scatter Caltrop: Enhance
 SKILL_20150317_002506	$Increases the damage of [Scatter Caltrop] per attribute level.
-SKILL_20150317_002507	Stone Shot: Enhance
+SKILL_20150317_002507	$Stone Shot: Enhance
 SKILL_20150317_002508	$Increases the damage of [Stone Shot] per attribute level.
-SKILL_20150317_002509	Rapid Fire: Enhance
+SKILL_20150317_002509	$Rapid Fire: Enhance
 SKILL_20150317_002510	$Increases the damage of [Rapid Fire] per attribute level.
-SKILL_20150317_002511	Energy Bolt: Enhance
+SKILL_20150317_002511	$Energy Bolt: Enhance
 SKILL_20150317_002512	$Increases the damage of [Energy Bolt] per attribute level.
-SKILL_20150317_002513	Magic Missile: Enhance
+SKILL_20150317_002513	$Magic Missile: Enhance
 SKILL_20150317_002514	$Increases the damage of [Magic Missile] per attribute level.
-SKILL_20150317_002515	Earthquake: Enhance
+SKILL_20150317_002515	$Earthquake: Enhance
 SKILL_20150317_002516	$Increases the damage of [Earthquake] per attribute level.
-SKILL_20150317_002517	Fireball: Enhance
+SKILL_20150317_002517	$Fireball: Enhance
 SKILL_20150317_002518	$Increases the damage of [Fireball] per attribute level.
-SKILL_20150317_002519	Fire Wall: Enhance
+SKILL_20150317_002519	$Fire Wall: Enhance
 SKILL_20150317_002520	$Increases the damage of [Fire Wall] per attribute level.
-SKILL_20150317_002521	Flare: Enhance
+SKILL_20150317_002521	$Flare: Enhance
 SKILL_20150317_002522	$Increases the damage of [Flare] per attribute level.
-SKILL_20150317_002523	Hell Breath: Enhance
+SKILL_20150317_002523	$Hell Breath: Enhance
 SKILL_20150317_002524	$Increases the damage of [Hell Breath] per attribute level.
-SKILL_20150317_002525	Fire Pillar: Enhance
+SKILL_20150317_002525	$Fire Pillar: Enhance
 SKILL_20150317_002526	$Increases the damage of [Fire Pillar] per attribute level.
-SKILL_20150317_002527	Ice Bolt: Enhance
+SKILL_20150317_002527	$Ice Bolt: Enhance
 SKILL_20150317_002528	$Increases the damage of [Ice Bolt] per attribute level.
-SKILL_20150317_002529	Ice Pike: Enhance
+SKILL_20150317_002529	$Ice Pike: Enhance
 SKILL_20150317_002530	$Increases the damage of [Ice Pike] per attribute level.
-SKILL_20150317_002531	Ice Blast: Enhance
+SKILL_20150317_002531	$Ice Blast: Enhance
 SKILL_20150317_002532	$Increases the damage of [Ice Blast] per attribute level.
-SKILL_20150317_002533	Cure: Enhance
+SKILL_20150317_002533	$Cure: Enhance
 SKILL_20150317_002534	$Increases the damage of [Cure] per attribute level.
-SKILL_20150317_002535	Heal: Enhance
+SKILL_20150317_002535	$Heal: Enhance
 SKILL_20150317_002536	$Increases the damage and healing of [Heal] per attribute level.
-SKILL_20150317_002537	Zaibas: Enhance
+SKILL_20150317_002537	$Zaibas: Enhance
 SKILL_20150317_002538	$Increases the damage of [Zaibas] per attribute level.
-SKILL_20150317_002539	Stabbing: Enhance
+SKILL_20150317_002539	$Stabbing: Enhance
 SKILL_20150317_002540	$Increases the damage of [Stabbing] per attribute level.
-SKILL_20150317_002541	Long Stride: Enhance
+SKILL_20150317_002541	$Long Stride: Enhance
 SKILL_20150317_002542	$Increases the damage of [Long Stride] per attribute level.
-SKILL_20150317_002543	Synchro Thrusting: Enhance
+SKILL_20150317_002543	$Synchro Thrusting: Enhance
 SKILL_20150317_002544	$Increases the damage of [Synchro Thrusting] per attribute level.
-SKILL_20150317_002545	Pierce: Enhance
+SKILL_20150317_002545	$Pierce: Enhance
 SKILL_20150317_002546	$Increases the damage of [Pierce] per attribute level.
-SKILL_20150317_002547	Telekinesis: Enhance
+SKILL_20150317_002547	$Telekinesis: Enhance
 SKILL_20150317_002548	$Increases the damage of [Telekinesis] per attribute level.
-SKILL_20150317_002549	Psychic Pressure: Enhance
+SKILL_20150317_002549	$Psychic Pressure: Enhance
 SKILL_20150317_002550	$Increases the damage of [Psychic Pressure] per attribute level.
-SKILL_20150317_002551	Magnetic Force: Enhance
+SKILL_20150317_002551	$Magnetic Force: Enhance
 SKILL_20150317_002552	$Increases the damage of [Magnetic Force] per attribute level.
-SKILL_20150317_002553	Aspersion: Enhance
+SKILL_20150317_002553	$Aspersion: Enhance
 SKILL_20150317_002554	$Increases the damage of [Aspersion] per attribute level.
 SKILL_20150317_002555	$Broom Trap: Enhance
 SKILL_20150317_002556	$Increases the damage of [Broom Trap] per attribute level.
-SKILL_20150317_002557	Claymore: Enhance
+SKILL_20150317_002557	$Claymore: Enhance
 SKILL_20150317_002558	$Increases the damage of [Claymore] per attribute level.
-SKILL_20150317_002559	Punji Stake: Enhance
+SKILL_20150317_002559	$Punji Stake: Enhance
 SKILL_20150317_002560	$Increases the damage of [Punji Stake] per attribute level.
-SKILL_20150317_002561	Detonate Trap: Enhance
-SKILL_20150317_002562	$Increases the damage of [Detonate Trap] per attribute level.
-SKILL_20150317_002563	Gung Ho: Enhance
+SKILL_20150317_002561	$Detonate Traps: Enhance
+SKILL_20150317_002562	$Increases the damage of [Detonate Traps] per attribute level.
+SKILL_20150317_002563	$Gung Ho: Enhance
 SKILL_20150317_002564	$Increases the physical attack, while defense decreases of [Gung Ho] per attribute level.
-SKILL_20150317_002565	Concentrate: Enhance
+SKILL_20150317_002565	$Concentrate: Enhance
 SKILL_20150317_002566	$Increases the additional damage of [Concentrate] per attribute level.
-SKILL_20150317_002567	Restrain: Enhance
+SKILL_20150317_002567	$Restrain: Enhance
 SKILL_20150317_002568	$Increases the physical attack, while your maximum HP decreases of [Restrain] per attribute level.
-SKILL_20150317_002569	Guardian: Enhance
+SKILL_20150317_002569	$Guardian: Enhance
 SKILL_20150317_002570	$Increases the defense, while physical attack decreases of [Guardian] per attribute level.
-SKILL_20150317_002571	Effigy: Enhance
+SKILL_20150317_002571	$Effigy: Enhance
 SKILL_20150317_002572	$Increases the damage of [Effigy] per attribute level.
-SKILL_20150317_002573	Damballa: Enhance
+SKILL_20150317_002573	$Damballa: Enhance
 SKILL_20150317_002574	$Increases the damage of [Damballa] per attribute level.
-SKILL_20150317_002575	Carve: Enhance
+SKILL_20150317_002575	$Carve: Enhance
 SKILL_20150317_002576	$Increases the damage of [Carve] per attribute level. Increases additional damage against plant-type enemies.
-SKILL_20150317_002577	Carve Owl: Enhance
+SKILL_20150317_002577	$Carve Owl: Enhance
 SKILL_20150317_002578	$Increases the damage of [Carve Owl] per attribute level.
-SKILL_20150317_002579	Cross Guard: Enhance
+SKILL_20150317_002579	$Cross Guard: Enhance
 SKILL_20150317_002580	$Increases the defense of [Cross Guard] per attribute level.
-SKILL_20150317_002581	Enchant Fire: Enhance
+SKILL_20150317_002581	$Enchant Fire: Enhance
 SKILL_20150317_002582	$Increases the damage on Fire property of [Enchant Fire] per attribute level.
-SKILL_20150317_002583	Kneeling Shot: Enhance
+SKILL_20150317_002583	$Kneeling Shot: Enhance
 SKILL_20150317_002584	$Increases the physical attack of [Kneeling Shot] per attribute level.
-SKILL_20150317_002585	Steady Aim: Enhance
+SKILL_20150317_002585	$Steady Aim: Enhance
 SKILL_20150317_002586	$Increases the additional damage of [Steady Aim] per attribute level.
 SKILL_20150317_002587	$Sacrament: Enhance
 SKILL_20150317_002588	$Increases the damage on Holy property of [Sacrament] per attribute level.
@@ -2616,7 +2616,7 @@ SKILL_20150317_002615	$Reflect Shield: Enhance 3
 SKILL_20150317_002616	$Enhanced the damage reflect of [Reflect shield] to Wizard's 3rd Circle standards.
 SKILL_20150317_002617	$Lethargy: Enhance 2
 SKILL_20150317_002618	$Enhanced the damage debuff effect of [Lethargy] to Wizard's 2nd Circle standards.
-SKILL_20150317_002619	Lethargy: Enhance 3
+SKILL_20150317_002619	$Lethargy: Enhance 3
 SKILL_20150317_002620	$Enhanced the damage debuff effect of [Lethargy] to Wizard's 3rd Circle standards.
 SKILL_20150317_002621	$Earthquake: Enhance 2
 SKILL_20150317_002622	$The damage of [Earthquake] to Wizard's 3rd Circle standards.
@@ -2626,286 +2626,286 @@ SKILL_20150317_002625	$Multi Shot: Enhance 3
 SKILL_20150317_002626	$Enhanced the damage of [Multi Shot] to Archer's 3rd Circle standards.
 SKILL_20150317_002627	$Fulldraw: Enhance 2
 SKILL_20150317_002628	$Enhanced the damage of [Fulldraw] to Archer's 2nd Circle standards.
-SKILL_20150317_002629	Fulldraw: Enhance 3
+SKILL_20150317_002629	$Fulldraw: Enhance 3
 SKILL_20150317_002630	$Enhanced the damage of [Fulldraw] to Archer's 3rd Circle standards.
 SKILL_20150317_002631	$Oblique Shot: Enhance 2
 SKILL_20150317_002632	$Enhanced the damage of [Oblique Shot] to Archer's 2nd Circle standards.
 SKILL_20150317_002633	$Oblique Shot: Enhance 3
 SKILL_20150317_002634	$Enhanced the damage of [Oblique Shot] to Archer's 3rd Circle standards.
-SKILL_20150317_002635	Kneeling Shot : Enhance 2
+SKILL_20150317_002635	$Kneeling Shot: Enhance 2
 SKILL_20150317_002636	$Enhanced the physical attack increase effect of [Kneeling Shot] to Archer's 2nd Circle standards.
-SKILL_20150317_002637	Kneeling Shot : Enhance 3
+SKILL_20150317_002637	$Kneeling Shot: Enhance 3
 SKILL_20150317_002638	$Enhanced the physical attack increase effect of [Kneeling Shot] to Archer's 3rd Circle standards.
-SKILL_20150317_002639	Deprotected Zone : Enhance
+SKILL_20150317_002639	$Deprotected Zone: Enhance
 SKILL_20150317_002640	$Increases the defense debuff effect of [Deprotected Zone] per attribute level.
-SKILL_20150317_002641	Cure : Enhance 2
+SKILL_20150317_002641	$Cure: Enhance 2
 SKILL_20150317_002642	$Enhanced the damage of [Cure] to Cleric's 2nd Circle standards.
-SKILL_20150317_002643	Cure : Enhance 3
+SKILL_20150317_002643	$Cure: Enhance 3
 SKILL_20150317_002644	$Enhanced the damage of [Cure] to Cleric's 3rd Circle standards.
-SKILL_20150317_002645	Heal : Enhance 2
+SKILL_20150317_002645	$Heal: Enhance 2
 SKILL_20150317_002646	$Enhanced the damage and healing amount of [Heal] to Cleric's 2nd Circle standards.
-SKILL_20150317_002647	Heal : Enhance 3
+SKILL_20150317_002647	$Heal: Enhance 3
 SKILL_20150317_002648	$Enhanced the damage and healing amount of [Heal] to Cleric's 3rd Circle standards.
-SKILL_20150317_002649	Deprotected Zone : Enhance 2
+SKILL_20150317_002649	$Deprotected Zone: Enhance 2
 SKILL_20150317_002650	$Enhanced the defense debuff effect of [Deprotected Zone] to Cleric's 2nd Circle standards.
-SKILL_20150317_002651	Deprotected Zone : Enhance 3
+SKILL_20150317_002651	$Deprotected Zone: Enhance 3
 SKILL_20150317_002652	$Enhanced the defense debuff effect of [Deprotected Zone] to Cleric's 3rd Circle standards.
-SKILL_20150317_002653	Fire Ball : Enhance 2
+SKILL_20150317_002653	$Fire Ball: Enhance 2
 SKILL_20150317_002654	$Enhanced the damage of [Fireball] to Pyromancer's 2nd Circle standards.
-SKILL_20150317_002655	Fire Ball : Enhance 3
+SKILL_20150317_002655	$Fire Ball: Enhance 3
 SKILL_20150317_002656	$Enhanced the damage of [Fireball] to Pyromancer's 3rd Circle standards.
-SKILL_20150317_002657	Fire Wall : Enhance 2
+SKILL_20150317_002657	$Fire Wall: Enhance 2
 SKILL_20150317_002658	$Enhanced the damage of [Fire Wall] to Pyromancer's 2nd Circle standards.
-SKILL_20150317_002659	Fire Wall : Enhance 3
+SKILL_20150317_002659	$Fire Wall: Enhance 3
 SKILL_20150317_002660	$Enhanced the damage of [Fire Wall] to Pyromancer's 3rd Circle standards.
-SKILL_20150317_002661	Flare : Enhance 2
+SKILL_20150317_002661	$Flare: Enhance 2
 SKILL_20150317_002662	$Enhanced the damage of [Flare] to Pyromancer's 2nd Circle standards.
-SKILL_20150317_002663	Flare : Enhance 3
+SKILL_20150317_002663	$Flare: Enhance 3
 SKILL_20150317_002664	$Enhanced the damage of [Flare] to Pyromancer's 3rd Circle standards.
-SKILL_20150317_002665	Enchant Fire : Enhance 2
+SKILL_20150317_002665	$Enchant Fire: Enhance 2
 SKILL_20150317_002666	$Enhanced the Fire property attack increase effect of [Enchant Fire] to Pyromancer's 2nd Circle standards.
-SKILL_20150317_002667	Enchant Fire : Enhance 3
+SKILL_20150317_002667	$Enchant Fire: Enhance 3
 SKILL_20150317_002668	$Enhanced the Fire property attack increase effect of [Enchant Fire] to Pyromancer's 3rd Circle standards.
-SKILL_20150317_002669	Fire Pillar : Enhance 2
+SKILL_20150317_002669	$Fire Pillar: Enhance 2
 SKILL_20150317_002670	$Enhanced the damage of [Fire Pillar] to Pyromancer's 3rd Circle standards.
-SKILL_20150317_002671	Ice Bolt : Enhance 2
+SKILL_20150317_002671	$Ice Bolt: Enhance 2
 SKILL_20150317_002672	$Enhanced the damage of [Ice Bolt] to Cryomancer's 2nd Circle standards.
-SKILL_20150317_002673	Ice Bolt : Enhance 3
+SKILL_20150317_002673	$Ice Bolt: Enhance 3
 SKILL_20150317_002674	$Enhanced the damage of [Ice Bolt] to Cryomancer's 3rd Circle standards.
-SKILL_20150317_002675	Ice Pike : Enhance 2
+SKILL_20150317_002675	$Ice Pike: Enhance 2
 SKILL_20150317_002676	$Enhanced the damage of [Ice Pike] to Cryomancer's 2nd Circle standards.
-SKILL_20150317_002677	Ice Pike : Enhance 3
+SKILL_20150317_002677	$Ice Pike: Enhance 3
 SKILL_20150317_002678	$Enhanced the damage of [Ice Pike] to Cryomancer's 3rd Circle standards.
-SKILL_20150317_002679	Ice Blast : Enhance 2
+SKILL_20150317_002679	$Ice Blast: Enhance 2
 SKILL_20150317_002680	$Enhanced the damage of [Ice Blast] to Cryomancer's 2nd Circle standards.
-SKILL_20150317_002681	Ice Blast : Enhance 3
+SKILL_20150317_002681	$Ice Blast: Enhance 3
 SKILL_20150317_002682	$Enhanced the damage of [Ice Blast] to Cryomancer's 3rd Circle standards.
-SKILL_20150317_002683	Shield Lob : Enhance
+SKILL_20150317_002683	$Shield Lob: Enhance
 SKILL_20150317_002684	$Increases the damage of [Shield Lob] per attribute level.
-SKILL_20150317_002685	Rim Blow : Enhance 2
+SKILL_20150317_002685	$Rim Blow: Enhance 2
 SKILL_20150317_002686	$Enhanced the damage of [Rim Blow] to Peltasta's 2nd Circle standards.
-SKILL_20150317_002687	Rim Blow : Enhance 3
+SKILL_20150317_002687	$Rim Blow: Enhance 3
 SKILL_20150317_002688	$Enhanced the damage of [Rim Blow] to Peltasta's 3rd Circle standards.
-SKILL_20150317_002689	Umbo Blow : Enhance 2
+SKILL_20150317_002689	$Umbo Blow: Enhance 2
 SKILL_20150317_002690	$Enhanced the damage of [Umbo Blow] to Peltasta's 2nd Circle standards.
-SKILL_20150317_002691	Umbo Blow : Enhance 3
+SKILL_20150317_002691	$Umbo Blow: Enhance 3
 SKILL_20150317_002692	$Enhanced the damage of [Umbo Blow] to Peltasta's 3rd Circle standards.
-SKILL_20150317_002693	Guardian : Enhance 2
+SKILL_20150317_002693	$Guardian: Enhance 2
 SKILL_20150317_002694	$Applied the defense increase effect of [Guardian] to Peltasta's 2nd Circle standards. (Physical attack decrease effect will also increase.)
-SKILL_20150317_002695	Guardian : Enhance 3
+SKILL_20150317_002695	$Guardian: Enhance 3
 SKILL_20150317_002696	$Applied the defense increase effect of [Guardian] to Peltasta's 3rd Circle standards. (Physical attack decrease effect will also increase.)
-SKILL_20150317_002697	Shield Lob : Enhance 2
+SKILL_20150317_002697	Shield Lob: Enhance 2
 SKILL_20150317_002698	$Enhanced the damage of [Shield Lob] to Peltasta's 3rd Circle standards.
-SKILL_20150317_002699	Cartar Stroke : Enhance 2
+SKILL_20150317_002699	$Cartar Stroke: Enhance 2
 SKILL_20150317_002700	$Enhanced the damage of [Cartar Stroke] to Highlander's 2nd Circle standards.
-SKILL_20150317_002701	$Cartar Stroke : Enhance 3
+SKILL_20150317_002701	$Cartar Stroke: Enhance 3
 SKILL_20150317_002702	$Enhanced the damage of [Cartar Stroke] to Highlander's 3rd Circle standards.
-SKILL_20150317_002703	Crown : Enhance 2
+SKILL_20150317_002703	$Crown: Enhance 2
 SKILL_20150317_002704	$Enhanced the damage of [Crown] to Highlander's 2nd Circle standards.
-SKILL_20150317_002705	Crown : Enhance 3
+SKILL_20150317_002705	$Crown: Enhance 3
 SKILL_20150317_002706	$Enhanced the damage of [Crown] to Highlander's 3rd Circle standards.
-SKILL_20150317_002707	Wagon Wheel : Enhance 2
+SKILL_20150317_002707	$Wagon Wheel: Enhance 2
 SKILL_20150317_002708	$Enhanced the damage of [Wagon Wheel] to Highlander's 2nd Circle standards.
-SKILL_20150317_002709	Wagon Wheel : Enhance 3
+SKILL_20150317_002709	$Wagon Wheel: Enhance 3
 SKILL_20150317_002710	$Enhanced the damage of [Wagon Wheel] is enhanced to Highlander's 3rd Circle standards.
-SKILL_20150317_002711	Cross Guard : Enhance 2
+SKILL_20150317_002711	$Cross Guard: Enhance 2
 SKILL_20150317_002712	$Enhanced the defense increase effect of [Cross Guard] to Highlander's 2nd Circle standards.
-SKILL_20150317_002713	Cross Guard : Enhance 3
+SKILL_20150317_002713	$Cross Guard: Enhance 3
 SKILL_20150317_002714	$Enhanced the defense increase effect of [Cross Guard] to Highlander's 3rd Circle standards.
-SKILL_20150317_002715	$Moulinet : Enhance 2
+SKILL_20150317_002715	$Moulinet: Enhance 2
 SKILL_20150317_002716	$Enhanced the damage of [Moulinet] to Highlander's 3rd Circle standards.
-SKILL_20150317_002717	Stabbing : Enhance 2
+SKILL_20150317_002717	Stabbing: Enhance 2
 SKILL_20150317_002718	$Enhanced the damage of [Stabbing] to Hoplite's 2nd Circle standards.
-SKILL_20150317_002719	Stabbing : Enhance 3
+SKILL_20150317_002719	Stabbing: Enhance 3
 SKILL_20150317_002720	$Enhanced the damage of [Stabbing] to Hoplite's 3rd Circle standards.
-SKILL_20150317_002721	$Long Stride : Enhance
+SKILL_20150317_002721	$Long Stride: Enhance
 SKILL_20150317_002722	$Enhanced the damage of [Long Stride] to Hoplite's 2nd Circle standards.
-SKILL_20150317_002723	Long Stride : Enhance 2
+SKILL_20150317_002723	Long Stride: Enhance 2
 SKILL_20150317_002724	$Enhanced the damage of [Long Stride] to Hoplite's 3rd Circle standards.
-SKILL_20150317_002725	Synchro Thrusting : Enhance 2
+SKILL_20150317_002725	Synchro Thrusting: Enhance 2
 SKILL_20150317_002726	$Enhanced the damage of [Synchro Thrusting] to Hoplite's 2nd Circle standards.
-SKILL_20150317_002727	Synchro Thrusting: Enhance 3
+SKILL_20150317_002727	$Synchro Thrusting: Enhance 3
 SKILL_20150317_002728	$Enhanced the damage of [Synchro Thrusting] to Hoplite's 3rd Circle standards.
-SKILL_20150317_002729	Pierce : Enhance 2
+SKILL_20150317_002729	$Pierce: Enhance 2
 SKILL_20150317_002730	$Enhanced the damage of [Pierce] to Hoplite's 2nd Circle standards.
-SKILL_20150317_002731	Pierce : Enhance 3
+SKILL_20150317_002731	$Pierce: Enhance 3
 SKILL_20150317_002732	$Enhanced the damage of [Pierce] to Hoplite's 3rd Circle standards.
-SKILL_20150317_002733	Barrage : Enhance 2
+SKILL_20150317_002733	$Barrage: Enhance 2
 SKILL_20150317_002734	$Enhanced the damage of [Barrage] to Ranger's 2nd Circle standards.
-SKILL_20150317_002735	Barrage : Enhance 3
+SKILL_20150317_002735	$Barrage: Enhance 3
 SKILL_20150317_002736	$Enhanced the damage of [Barrage] to Ranger's 3rd Circle standards.
-SKILL_20150317_002737	High Anchoring : Enhance 2
+SKILL_20150317_002737	$High Anchoring: Enhance 2
 SKILL_20150317_002738	$Enhanced the damage of [High Anchoring] to Ranger's 2nd Circle standards.
-SKILL_20150317_002739	High Anchoring : Enhance 3
+SKILL_20150317_002739	$High Anchoring: Enhance 3
 SKILL_20150317_002740	$Enhanced the damage of [High Anchoring] to Ranger's 3rd Circle standards.
-SKILL_20150317_002741	Bounce Shot : Enhance 2
+SKILL_20150317_002741	$Bounce Shot: Enhance 2
 SKILL_20150317_002742	$Enhanced the damage of [Bounce Shot] to Ranger's 2nd Circle standards.
-SKILL_20150317_002743	Bounce Shot : Enhance 3
+SKILL_20150317_002743	$Bounce Shot: Enhance 3
 SKILL_20150317_002744	$Enhanced the damage of [Bounce Shot] to Ranger's 3rd Circle standards.
-SKILL_20150317_002745	Steady Aim : Enhance 2
+SKILL_20150317_002745	$Steady Aim: Enhance 2
 SKILL_20150317_002746	$Enhanced the additional damage effect of [Steady Aim] to Ranger's 2nd Circle standards.
-SKILL_20150317_002747	Steady Aim : Enhance 3
+SKILL_20150317_002747	$Steady Aim: Enhance 3
 SKILL_20150317_002748	$Enhanced the additional damage effect of [Steady Aim] to Ranger's 3rd Circle standards.
-SKILL_20150317_002749	Scatter Caltrop : Enhance 2
+SKILL_20150317_002749	$Scatter Caltrop: Enhance 2
 SKILL_20150317_002750	$Enhanced the damage of [Scatter Caltrop] to Quarrel Shooter's 2nd Circle standards.
-SKILL_20150317_002751	Scatter Caltrop : Enhance 3
+SKILL_20150317_002751	$Scatter Caltrop: Enhance 3
 SKILL_20150317_002752	$Enhanced the damage of [Scatter Caltrop] to Quarrel Shooter's 3rd Circle standards.
-SKILL_20150317_002753	Stone Shot : Enhance 2
+SKILL_20150317_002753	$Stone Shot: Enhance 2
 SKILL_20150317_002754	$Enhanced the damage of [Stone Shot] to Quarrel Shooter's 2nd Circle standards.
-SKILL_20150317_002755	Stone Shot : Enhance 3
+SKILL_20150317_002755	$Stone Shot: Enhance 3
 SKILL_20150317_002756	$Enhanced the damage of [Stone Shot] to Quarrel Shooter's 3rd Circle standards.
-SKILL_20150317_002757	Rapid Fire : Enhance 2
+SKILL_20150317_002757	$Rapid Fire: Enhance 2
 SKILL_20150317_002758	$Enhanced the damage of [Rapid Fire] to Quarrel Shooter's 2nd Circle standards.
 SKILL_20150317_002759	$Enhanced the damage of [Rapid Fire] to Quarrel Shooter's 3rd Circle standards.
-SKILL_20150317_002760	Zaibas : Enhance 2
+SKILL_20150317_002760	$Zaibas: Enhance 2
 SKILL_20150317_002761	$Enhanced the damage of [Zaibas] to Krivis' 2nd Circle standards.
-SKILL_20150317_002762	Zaibas : Enhance 3
+SKILL_20150317_002762	$Zaibas: Enhance 3
 SKILL_20150317_002763	$Enhanced the damage of [Zaibas] to Krivis' 3rd Circle standards.
-SKILL_20150317_002764	Blessing : Enhance
+SKILL_20150317_002764	$Blessing: Enhance
 SKILL_20150317_002765	$Increases the additional damage effect of [Blessing] per attribute level.
-SKILL_20150317_002766	Aspersion : Enhance 2
+SKILL_20150317_002766	$Aspersion: Enhance 2
 SKILL_20150317_002767	$Enhanced the damage of [Aspersion] to Priest's 2nd Circle standards.
-SKILL_20150317_002768	Aspersion : Enhance 3
+SKILL_20150317_002768	$Aspersion: Enhance 3
 SKILL_20150317_002769	$Enhanced the damage of [Aspersion] to Priest 3rd Circle standards.
-SKILL_20150317_002770	Sacrament : Enhance
+SKILL_20150317_002770	$Sacrament: Enhance
 SKILL_20150317_002771	$Enhanced the Holy property attack increase effect of [Sacrament] to Priest's 2nd Circle standards.
-SKILL_20150317_002772	Sacrament : Enhance 2
+SKILL_20150317_002772	$Sacrament: Enhance 2
 SKILL_20150317_002773	$Enhanced the Holy property attack increase effect of [Sacrament] to Priest's 3rd Circle standards.
-SKILL_20150317_002774	Blessing : Enhance 2
+SKILL_20150317_002774	$Blessing: Enhance 2
 SKILL_20150317_002775	$Enhanced the additional damage effect of [Blessing] to Priest's 2nd Circle standards.
-SKILL_20150317_002776	Blessing : Enhance 3
+SKILL_20150317_002776	$Blessing: Enhance 3
 SKILL_20150317_002777	$Enhanced the additional damage effect of [Blessing] to Priest's 3rd Circle standards.
-SKILL_20150317_002778	Warcry : Enhance
+SKILL_20150317_002778	$Warcry: Enhance
 SKILL_20150317_002779	$Increases the physical attack increase effect of [Warcry] per attribute level. (This attribute only applies after the enemy's defense is decreased.)
 SKILL_20150317_002780	$Warcry : Enhance
 SKILL_20150317_002781	$Enhanced the physical attack increase effect of [Warcry] to Barbarian's 2nd Circle standards. (This attribute only applies after the enemy's defense is decreased.)
-SKILL_20150317_002782	Warcry : Enhance 2
+SKILL_20150317_002782	$Warcry : Enhance 2
 SKILL_20150317_002783	$Enhanced the physical attack increase effect of [Warcry] to Barbarian's 3rd Circle standards. (This attribute only applies after the enemy's defense is decreased.)
-SKILL_20150317_002784	Frenzy : Enhance
+SKILL_20150317_002784	$Frenzy : Enhance
 SKILL_20150317_002785	$Increases the physical attack increase effect of [Frenzy] per attribute level.
-SKILL_20150317_002786	Frenzy : Enhance 2
+SKILL_20150317_002786	$Frenzy : Enhance 2
 SKILL_20150317_002787	$Enhanced the physical attack increase effect of [Frenzy] to Barbarian's 2nd Circle standards.
-SKILL_20150317_002788	Frenzy : Enhance 3
+SKILL_20150317_002788	$Frenzy : Enhance 3
 SKILL_20150317_002789	$Enhanced the physical attack increase effect of [Frenzy] to Barbarian's 3rd Circle standards.
-SKILL_20150317_002790	Telekinesis : Enhance 2
+SKILL_20150317_002790	$Telekinesis : Enhance 2
 SKILL_20150317_002791	$Enhanced the damage of [Telekinesis] to Psychokino's 2nd Circle standards.
-SKILL_20150317_002792	Telekinesis : Enhance 3
+SKILL_20150317_002792	$Telekinesis : Enhance 3
 SKILL_20150317_002793	$Enhanced the damage of [Telekinesis] to Psychokino's 3rd Circle standards.
-SKILL_20150317_002794	Psychic Pressure : Enhance 2
+SKILL_20150317_002794	$Psychic Pressure : Enhance 2
 SKILL_20150317_002795	$Enhanced the damage of [Psychic Pressure] to Psychokino's 2nd Circle standards.
-SKILL_20150317_002796	Psychic Pressure : Enhance 3
+SKILL_20150317_002796	$Psychic Pressure : Enhance 3
 SKILL_20150317_002797	$Enhanced the damage of [Psychic Pressure] to Psychokino's 3rd Circle standards.
 SKILL_20150317_002798	$Magnetic Force : Enhance
 SKILL_20150317_002799	$Enhanced the damage of [Magnetic Force] to Psychokino's 2nd Circle standards.
-SKILL_20150317_002800	Magnetic Force : Enhance 2
+SKILL_20150317_002800	$Magnetic Force : Enhance 2
 SKILL_20150317_002801	$Enhanced the damage of [Magnetic Force] to Psychokino's 3rd Circle standards.
 SKILL_20150317_002802	$Broom Trap : Enhance 2
 SKILL_20150317_002803	$Enhanced the damage of [Broom Trap] to Sapper's 2nd Circle standards.
-SKILL_20150317_002804	Broom Trap : Enhance 3
+SKILL_20150317_002804	$Broom Trap : Enhance 3
 SKILL_20150317_002805	$Enhanced the damage of [Broom Trap] to Sapper's 3rd Circle standards.
-SKILL_20150317_002806	Claymore : Enhance 2
+SKILL_20150317_002806	$Claymore : Enhance 2
 SKILL_20150317_002807	$Enhanced the damage of [Claymore] to Sapper's 2nd Circle standards.
-SKILL_20150317_002808	Claymore : Enhance 3
+SKILL_20150317_002808	$Claymore : Enhance 3
 SKILL_20150317_002809	$Enhanced the damage of [Claymore] to Sapper's 3rd Circle standards.
-SKILL_20150317_002810	Punji Stake : Enhance 2
+SKILL_20150317_002810	$Punji Stake : Enhance 2
 SKILL_20150317_002811	$Enhanced the damage of [Punji Stake] to Sapper's 2nd Circle standards.
-SKILL_20150317_002812	Punji Stake : Enhance 3
+SKILL_20150317_002812	$Punji Stake : Enhance 3
 SKILL_20150317_002813	$Enhanced the damage of [Punji Stake] to Sapper's 3rd Circle standards.
-SKILL_20150317_002814	$Detonate Trap : Enhance 2
-SKILL_20150317_002815	$Enhanced the damage of [Detonate Trap] to Sapper's 2nd Circle standards.
-SKILL_20150317_002816	$Detonate Trap : Enhance 3
-SKILL_20150317_002817	$Enhanced the damage of [Detonate Trap] to Sapper's 3rd Circle standards.
-SKILL_20150317_002818	Carve : Enhance 2
+SKILL_20150317_002814	$Detonate Traps: Enhance 2
+SKILL_20150317_002815	$Enhanced the damage of [Detonate Traps] to Sapper's 2nd Circle standards.
+SKILL_20150317_002816	$Detonate Traps: Enhance 3
+SKILL_20150317_002817	$Enhanced the damage of [Detonate Traps] to Sapper's 3rd Circle standards.
+SKILL_20150317_002818	$Carve : Enhance 2
 SKILL_20150317_002819	$Enhanced the damage of [Carve] to Dievdirbys' 2nd Circle standards.
-SKILL_20150317_002820	Carve : Enhance 3
+SKILL_20150317_002820	$Carve : Enhance 3
 SKILL_20150317_002821	$Enhanced the damage of [Carve] to Dievdirbys' 3rd Circle standards.
-SKILL_20150317_002822	$Carve Owl : Enhance
+SKILL_20150317_002822	$Carve Owl: Enhance
 SKILL_20150317_002823	$Enhanced the damage of [Carve Owl] to Dievdirbys' 2nd Circle standards.
-SKILL_20150317_002824	$Carve Owl : Enhance 2
+SKILL_20150317_002824	$Carve Owl: Enhance 2
 SKILL_20150317_002825	$Enhanced the damage of [Carve Owl] to Dievdirbys' 3rd Circle standards.
-SKILL_20150317_002826	$Effigy : Enhance 2
+SKILL_20150317_002826	$Effigy: Enhance 2
 SKILL_20150317_002827	$Enhanced the damage of [Effigy] to Bokor's 2nd Circle standards.
-SKILL_20150317_002828	$Effigy : Enhance 3
+SKILL_20150317_002828	$Effigy: Enhance 3
 SKILL_20150317_002829	$Enhanced the damage of [Effigy] to Bokor's 3rd Circle standards.
-SKILL_20150317_002830	$Damballa : Enhance 2
+SKILL_20150317_002830	$Damballa: Enhance 2
 SKILL_20150317_002831	$Enhanced the damage of [Damballa] to Bokor's 2nd Circle standards.
-SKILL_20150317_002832	$Damballa : Enhance 3
+SKILL_20150317_002832	$Damballa: Enhance 3
 SKILL_20150317_002833	$Enhanced the damage of [Damballa] to Bokor's 3rd Circle standards.
 SKILL_20150317_002834	$Mackangdal: Cumulative Damage Decrease
 SKILL_20150317_002835	$Decreases the accumulated damage of [Mackangdal] by 2 per attribute level.
-SKILL_20150317_002836	$Aukuras : Enhance
+SKILL_20150317_002836	$Aukuras: Enhance
 SKILL_20150317_002837	$Increases the HP recovery of [Aukuras] per attribute level.
-SKILL_20150317_002838	$Aukuras : Enhance 2
+SKILL_20150317_002838	$Aukuras: Enhance 2
 SKILL_20150317_002839	$Enhanced the HP recovery increase effect of [Aukuras] to Krivis' 2nd Circle standards.
-SKILL_20150317_002840	$Aukuras : Enhance 3
+SKILL_20150317_002840	$Aukuras: Enhance 3
 SKILL_20150317_002841	$Enhanced the HP recovery increase effect [Aukuras] to Krivis' 3rd Circle standards.
-SKILL_20150317_002842	$Shield Charge : Enhance
+SKILL_20150317_002842	$Shield Charge: Enhance
 SKILL_20150317_002843	$Increases the damage of [Shield Charge] per attribute level.
-SKILL_20150317_002844	$Shield Charge : Enhance 2
+SKILL_20150317_002844	$Shield Charge: Enhance 2
 SKILL_20150317_002845	$Enhanced the damage of [Shield Charge] to Rodelero's 2nd Circle standards.
-SKILL_20150317_002846	$Shield Charge : Enhance 3
+SKILL_20150317_002846	$Shield Charge: Enhance 3
 SKILL_20150317_002847	$Enhanced the damage of [Shield Charge] to Rodelero's 3rd Circle standards.
-SKILL_20150317_002848	Montano : Enhance
+SKILL_20150317_002848	$Montano: Enhance
 SKILL_20150317_002849	$Increases the damage of [Montano] per attribute level.
-SKILL_20150317_002850	Montano : Enhance 2
+SKILL_20150317_002850	$Montano: Enhance 2
 SKILL_20150317_002851	$Enhanced the damage of [Montano] to Rodelero's 2nd Circle standards.
-SKILL_20150317_002852	Montano : Enhance 3
+SKILL_20150317_002852	$Montano: Enhance 3
 SKILL_20150317_002853	$Enhanced the damage of [Montano] to Rodelero's 3rd Circle standards.
-SKILL_20150317_002854	Targe Smash : Enhance
+SKILL_20150317_002854	Targe Smash: Enhance
 SKILL_20150317_002855	$Increases the damage of [Targe Smash] per attribute level.
-SKILL_20150317_002856	Targe Smash : Enhance 2
+SKILL_20150317_002856	Targe Smash: Enhance 2
 SKILL_20150317_002857	$Enhanced the damage of [Targe Smash] to Rodelero's 2nd Circle standards.
-SKILL_20150317_002858	Targe Smash : Enhance 3
+SKILL_20150317_002858	Targe Smash: Enhance 3
 SKILL_20150317_002859	$Enhanced the damage of [Targe Smash] to Rodelero's 3rd Circle standards.
-SKILL_20150317_002860	Shield Push : Enhance
+SKILL_20150317_002860	Shield Push: Enhance
 SKILL_20150317_002861	$Increases the damage of [Shield Push] per attribute level.
-SKILL_20150317_002862	Shield Push : Enhance 2
+SKILL_20150317_002862	Shield Push: Enhance 2
 SKILL_20150317_002863	$Enhanced the damage of [Shield Push]  to Rodelero's 2nd Circle standards.
-SKILL_20150317_002864	Shield Push : Enhance 3
+SKILL_20150317_002864	Shield Push: Enhance 3
 SKILL_20150317_002865	$Enhanced the damage of [Shield Push] to Rodelero's 3rd Circle standards.
-SKILL_20150317_002866	Rush : Enhance
+SKILL_20150317_002866	$Rush: Enhance
 SKILL_20150317_002867	$Increases the damage of [Rush] per attribute level.
 SKILL_20150317_002868	$Rush: Enhance 2
 SKILL_20150317_002869	$Enhanced the damage of [Rush] to Cataphract's 2nd Circle standards.
 SKILL_20150317_002870	$Rush: Enhance 3
 SKILL_20150317_002871	$Enhanced the damage of [Rush] to Cataphract's 3rd Circle standards.
-SKILL_20150317_002872	$Impaler : Enhance
+SKILL_20150317_002872	$Impaler: Enhance
 SKILL_20150317_002873	$Increases the damage of [Impaler] per attribute level.
-SKILL_20150317_002874	$Impaler : Enhance 2
+SKILL_20150317_002874	$Impaler: Enhance 2
 SKILL_20150317_002875	$Enhanced the damage of [Impaler] to Cataphract's 2nd Circle standards.
-SKILL_20150317_002876	$Impaler : Enhance 3
+SKILL_20150317_002876	$Impaler: Enhance 3
 SKILL_20150317_002877	$Enhanced the damage of [Impaler] to Cataphract's 3rd Circle standards.
-SKILL_20150317_002878	$Meteor : Enhance
+SKILL_20150317_002878	$Meteor: Enhance
 SKILL_20150317_002879	$Increases the damage of [Meteor] per attribute level.
-SKILL_20150317_002880	$Meteor : Enhance 2
+SKILL_20150317_002880	$Meteor: Enhance 2
 SKILL_20150317_002881	$Enhanced the damage of [Meteor] to Elementalist's 2nd Circle standards.
 SKILL_20150317_002882	$Meteor: Enhance 3
 SKILL_20150317_002883	$Enhanced the damage of [Meteor] to Elementalist's 3rd Circle standards. 
-SKILL_20150317_002884	Prominence: Enhance
+SKILL_20150317_002884	$Prominence: Enhance
 SKILL_20150317_002885	$Increases the damage of [Prominence] per attribute level.
-SKILL_20150317_002886	Prominence: Enhance 2
+SKILL_20150317_002886	$Prominence: Enhance 2
 SKILL_20150317_002887	$Enhanced the damage of [Prominence] to Elementalist's 2nd Circle standards.
-SKILL_20150317_002888	Prominence: Enhance 3
+SKILL_20150317_002888	$Prominence: Enhance 3
 SKILL_20150317_002889	$Enhanced the damage of [Prominence] to Elementalist's 3rd Circle standards. 
-SKILL_20150317_002890	Hail: Enhance
+SKILL_20150317_002890	$Hail: Enhance
 SKILL_20150317_002891	$Increases the damage of [Hail] per attribute level.
-SKILL_20150317_002892	Hail: Enhance 2
+SKILL_20150317_002892	$Hail: Enhance 2
 SKILL_20150317_002893	$Enhanced the damage of [Hail] to Elementalist's 2nd Circle standards.
-SKILL_20150317_002894	Hail: Enhance 3
+SKILL_20150317_002894	$Hail: Enhance 3
 SKILL_20150317_002895	$Enhanced the damage of [Hail] to Elementalist's 3rd Circle standards.
-SKILL_20150317_002896	Electrocute: Enhance
+SKILL_20150317_002896	$Electrocute: Enhance
 SKILL_20150317_002897	$Increases the damage of [Electrocute] per attribute level.
-SKILL_20150317_002898	Electrocute: Enhance 2
+SKILL_20150317_002898	$Electrocute: Enhance 2
 SKILL_20150317_002899	$Enhanced the damage of [Electrocute] to Elementalist's 2nd Circle standards.
-SKILL_20150317_002900	Electrocute: Enhance 3
+SKILL_20150317_002900	$Electrocute: Enhance 3
 SKILL_20150317_002901	$Enhanced the damage of [Electrocute] to Elementalist's 3rd Circle standards.
-SKILL_20150317_002902	Swell Right Arm: Enhance
+SKILL_20150317_002902	$Swell Right Arm: Enhance
 SKILL_20150317_002903	$Increases the damage buff of [Swell Right Arm] per attribute level.
-SKILL_20150317_002904	Swell Right Arm: Enhance 2
+SKILL_20150317_002904	$Swell Right Arm: Enhance 2
 SKILL_20150317_002905	$Enhanced the attack increase effect of [Swell Right Arm] to Thaumaturge's 2nd Circle standards.
-SKILL_20150317_002906	Swell Right Arm: Enhance 3
+SKILL_20150317_002906	$Swell Right Arm: Enhance 3
 SKILL_20150317_002907	$Enhanced the attack increase effect of [Swell Right Arm] to Thaumaturge's 3rd Circle standards.
-SKILL_20150317_002908	Arrow Sprinkle: Damage
+SKILL_20150317_002908	$Arrow Sprinkle: Damage
 SKILL_20150317_002909	$Increases the damage of [Arrow Sprinkle] per attribute level.
 SKILL_20150317_002910	$Arrow Sprinkle: Enhance 3
 SKILL_20150317_002911	$Enhanced the damage of [Arrow Sprinkle] to Ranger's 3rd Circle standards.
@@ -2915,7 +2915,7 @@ SKILL_20150317_002914	$Critical Shot: Enhance 2
 SKILL_20150317_002915	$Enhanced the damage of [Critical Shot] to Ranger's 2nd Circle standards.
 SKILL_20150317_002916	$Critical Shot: Enhance 3
 SKILL_20150317_002917	$Enhanced the damage of [Critical Shot] to Ranger's 3rd Circle standards.
-SKILL_20150317_002918	Time Bomb Arrow: Enhance
+SKILL_20150317_002918	$Time Bomb Arrow: Enhance
 SKILL_20150317_002919	$Increases the damage of [Time Bomb Arrow] per attribute level.
 SKILL_20150317_002920	$Time Bomb Arrow: Enhance 2
 SKILL_20150317_002921	$Enhanced the damage of [Time Spring Arrow] to Ranger's 3rd Circle standards.
@@ -2925,77 +2925,77 @@ SKILL_20150317_002924	$Ballista: Enhance 2
 SKILL_20150317_002925	$Enhanced the damage of [Ballista] to Sapper's 2nd Circle standards.
 SKILL_20150317_002926	$Ballista: Enhance 3
 SKILL_20150317_002927	$Enhanced the damage of [Ballista] to Sapper's 3rd Circle standards.
-SKILL_20150317_002928	Needle Blow: Enhance
+SKILL_20150317_002928	$Needle Blow: Enhance
 SKILL_20150317_002929	$Increases the damage of [Needle Blow] per attribute level.
-SKILL_20150317_002930	Needle Blow: Enhance 2
+SKILL_20150317_002930	$Needle Blow: Enhance 2
 SKILL_20150317_002931	$Enhanced the damage of [Needle Blow] to Wugushi's 2nd Circle standards.
-SKILL_20150317_002932	Needle Blow: Enhance 3
+SKILL_20150317_002932	$Needle Blow: Enhance 3
 SKILL_20150317_002933	$Enhanced the damage of [Needle Blow] to Wugushi's 3rd Circle standards.
-SKILL_20150317_002934	Wugong Gu: Enhance
+SKILL_20150317_002934	$Wugong Gu: Enhance
 SKILL_20150317_002935	$Increases the damage of [Wugong Gu] per attribute level.
-SKILL_20150317_002936	Wugong Gu : Enhance 2
+SKILL_20150317_002936	$Wugong Gu: Enhance 2
 SKILL_20150317_002937	$Enhanced the damage of [Wugong Gu] to Wugushi's 2nd Circle standards.
-SKILL_20150317_002938	Wugong Gu : Enhance 3
+SKILL_20150317_002938	$Wugong Gu: Enhance 3
 SKILL_20150317_002939	$Enhanced the damage of [Wugong Gu] to Wugushi's 3rd Circle standards.
-SKILL_20150317_002940	Throw Gu Pot: Enhance
+SKILL_20150317_002940	$Throw Gu Pot: Enhance
 SKILL_20150317_002941	$Increases the damage of [Throw Gu Pot] per attribute level.
 SKILL_20150317_002942	$Throw Gu Pot: Enhance 
 SKILL_20150317_002943	$Enhanced the damage of [Throw Gu Pot] to Wugushi's 2nd Circle standards.
-SKILL_20150317_002944	Throw Gu Pot: Enhance 2
+SKILL_20150317_002944	$Throw Gu Pot: Enhance 2
 SKILL_20150317_002945	$Enhanced the damage of [Throw Gu Pot] to Wugushi's 3rd Circle standards.
-SKILL_20150317_002946	Flu Flu: Enhance
+SKILL_20150317_002946	$Flu Flu: Enhance
 SKILL_20150317_002947	$Increases the damage of [Flu Flu] per attribute level.
 SKILL_20150317_002948	$Flu Flu: Enhance 2
 SKILL_20150317_002949	$Enhanced the damage of [Flu Flu] to Scout's 2nd Circle standards.
-SKILL_20150317_002950	Flu Flu: Enhance 3
+SKILL_20150317_002950	$Flu Flu: Enhance 3
 SKILL_20150317_002951	$Enhanced the damage of [Flu Flu] to Scout's 3rd Circle standards.
 SKILL_20150317_002952	$Flare Shot: Enhance
 SKILL_20150317_002953	$Increases the damage of [Flare Shot] per attribute level.
 SKILL_20150317_002954	$Flare Shot: Enhance 2
 SKILL_20150317_002955	$Enhanced the damage of [Flare Shot] to Scout's 2nd Circle standards.
-SKILL_20150317_002956	Bwa Kayiman: Enhance
+SKILL_20150317_002956	$Bwa Kayiman: Enhance
 SKILL_20150317_002957	$Increases the damage of [Bwa Kayiman] per attribute level.
 SKILL_20150317_002958	$Bwa Kayiman: Enhance
 SKILL_20150317_002959	$Enhanced the damage of [Bwa Kayiman] to Bokor's 2nd Circle standards.
-SKILL_20150317_002960	Bwa Kayiman: Enhance 2
+SKILL_20150317_002960	$Bwa Kayiman: Enhance 2
 SKILL_20150317_002961	$Enhanced the damage of [Bwa Kayiman] to Bokor's 3rd Circle standards.
-SKILL_20150317_002962	Astral Body Explosion : Enhance
+SKILL_20150317_002962	$Astral Body Explosion: Enhance
 SKILL_20150317_002963	$Increases the damage of [Astral Body Explosion] per attribute level.
-SKILL_20150317_002964	Possession: Enhance
+SKILL_20150317_002964	$Possession: Enhance
 SKILL_20150317_002965	$Increases the damage of [Possession] per attribute level.
-SKILL_20150317_002966	Possession: Enhance 2
+SKILL_20150317_002966	$Possession: Enhance 2
 SKILL_20150317_002967	$Enhanced the damage of [Possession] to Sadhu's 3rd Circle standards.
-SKILL_20150317_002968	Body Basic Attack : Enhance
+SKILL_20150317_002968	$Body Basic Attack: Enhance
 SKILL_20150317_002969	$Increases the basic attack damage from the the out-of-body state per attribute level.
 SKILL_20150317_002970	$Ectoplasm Attack: Enhance 2
 SKILL_20150317_002971	$Enhanced the damage of [Ectoplasm Attack] to Sadhu's 2nd Circle standards.
 SKILL_20150317_002972	$Ectoplasm Attack: Enhance 3
 SKILL_20150317_002973	$Enhanced the damage of [Ectoplasm Attack] to Sadhu's 3rd Circle standards.
-SKILL_20150317_002974	Restoration: Enhance
+SKILL_20150317_002974	$Restoration: Enhance
 SKILL_20150317_002975	$Increases the HP recovery effect of [Restoration] per attribute level.
-SKILL_20150317_002976	Restoration: Enhance 2
+SKILL_20150317_002976	$Restoration: Enhance 2
 SKILL_20150317_002977	$Enhanced the HP recovery increase effect of [Restoration] to Paladin's 2nd Circle standards.
-SKILL_20150317_002978	Restoration: Enhance 3
+SKILL_20150317_002978	$Restoration: Enhance 3
 SKILL_20150317_002979	$Enhanced the HP recovery increase effect [Restoration] to Paladin's 3rd Circle standards.
-SKILL_20150317_002980	Smite: Enhance
+SKILL_20150317_002980	$Smite: Enhance
 SKILL_20150317_002981	$Increases the damage of [Smite] per attribute level.
 SKILL_20150317_002982	$Smite: Enhance 2
 SKILL_20150317_002983	$Enhanced the damage of [Smite] to Paladin's 2nd Circle standards.
-SKILL_20150317_002984	Smite: Enhance 3
+SKILL_20150317_002984	$Smite: Enhance 3
 SKILL_20150317_002985	$Enhanced the damage of [Smite] to Paladin's 3rd Circle standards.
-SKILL_20150317_002986	Embowel: Enhance
+SKILL_20150317_002986	$Embowel: Enhance
 SKILL_20150317_002987	$Increases the damage of [Embowel] per attribute level.
-SKILL_20150317_002988	Embowel: Enhance 2
+SKILL_20150317_002988	$Embowel: Enhance 2
 SKILL_20150317_002989	$Enhanced the damage of [Embowel] to Barbarian's 2nd Circle standards.
-SKILL_20150317_002990	Embowel: Enhance 3
+SKILL_20150317_002990	$Embowel: Enhance 3
 SKILL_20150317_002991	$Enhanced the damage of [Embowel] to Barbarian's 3rd Circle standards.
 SKILL_20150317_002992	Stomping Kick: Enhance
 SKILL_20150317_002993	$Increases the damage of [Stomping Kick] per attribute level.
-SKILL_20150317_002994	Earth Wave: Enhance
+SKILL_20150317_002994	$Earth Wave: Enhance
 SKILL_20150317_002995	$Increases the damage of [Earth Wave] increases per attribute level.
 SKILL_20150317_002996	$Earth Wave: Enhance 2
 SKILL_20150317_002997	$Enhanced the damage of [Earth Wave] to Cataphract's 2nd Circle standards.
-SKILL_20150317_002998	Earth Wave: Enhance 3
+SKILL_20150317_002998	$Earth Wave: Enhance 3
 SKILL_20150317_002999	$Enhanced the damage of [Earth Wave] to Cataphract's 3rd Circle standards.
 SKILL_20150317_003000	$Steed Charge: Enhance
 SKILL_20150317_003001	$Increases the damage of [Steed Charge] per attribute level.
@@ -3003,11 +3003,11 @@ SKILL_20150317_003002	$Steed Charge: Enhance 2
 SKILL_20150317_003003	$Enhanced the damage of [Steed Charge] to Cataphract's 2nd Circle standards.
 SKILL_20150317_003004	$Steed Charge: Enhance 3
 SKILL_20150317_003005	$Enhanced the damage of [Steed Charge] to Cataphract's 3rd Circle standards.
-SKILL_20150317_003006	Doom Spike: Enhance
+SKILL_20150317_003006	$Doom Spike: Enhance
 SKILL_20150317_003007	$Increases the damage of [Doom Spike] per attribute level.
 SKILL_20150317_003008	$Doom Spike: Enhance 2
 SKILL_20150317_003009	$Enhanced the damage of [Doom Spike] to Cataphract's 2nd Circle standards.
-SKILL_20150317_003010	Doom Spike: Enhance 2
+SKILL_20150317_003010	$Doom Spike: Enhance 2
 SKILL_20150317_003011	$Enhanced the damage of [Doom Spike] to Cataphract's 3rd Circle standards.
 SKILL_20150317_003012	$Zombify: Large Zombie
 SKILL_20150317_003013	$The chance of creating large zombies when zombifying large monsters increases by 1% per attribute level.
@@ -3015,65 +3015,65 @@ SKILL_20150317_003014	$Zombify: Wheelchair Zombie
 SKILL_20150317_003015	$The chance of a wheelchair zombie appearing when creating zombies increases by 1% per attribute level.
 SKILL_20150317_003016	$Flare Shot: Enhance 3
 SKILL_20150317_003017	$Enhanced the damage of [Flare Shot] to Scout's 3rd Circle standards.
-SKILL_20150317_003018	Astral Body Explosion: Enhance 2
+SKILL_20150317_003018	$Astral Body Explosion: Enhance 2
 SKILL_20150317_003019	$Enhanced the damage of [Astral Body Explosion] to Sadhu's 2nd Circle standards.
-SKILL_20150317_003020	Astral Body Explosion: Enhance 3
+SKILL_20150317_003020	$Astral Body Explosion: Enhance 3
 SKILL_20150317_003021	$Enhanced the damage of [Astral Body Explosion] to Sadhu's 3rd Circle standards.
 SKILL_20150317_003022	$Use One-handed Swords
-SKILL_20150317_003023	Able to use the [One-handed Sword] weapon type
+SKILL_20150317_003023	$Able to use the [One-handed Sword] weapon type
 SKILL_20150317_003024	$Use Two-handed Swords
-SKILL_20150317_003025	Able to use the [Two-handed Sword] weapon type
+SKILL_20150317_003025	$Able to use the [Two-handed Sword] weapon type
 SKILL_20150317_003026	$Use One-handed Spears
-SKILL_20150317_003027	Able to use the [One-handed Spear] weapon type
+SKILL_20150317_003027	$Able to use the [One-handed Spear] weapon type
 SKILL_20150317_003028	$Use Two-handed Spears
-SKILL_20150317_003029	Able to use the [Two-handed Spear] weapon type
+SKILL_20150317_003029	$Able to use the [Two-handed Spear] weapon type
 SKILL_20150317_003030	$Use Bows
-SKILL_20150317_003031	Able to use the [Bow] weapon type
+SKILL_20150317_003031	$Able to use the [Bow] weapon type
 SKILL_20150317_003032	$Use Crossbows
-SKILL_20150317_003033	Able to use the [Crossbow] weapon type
+SKILL_20150317_003033	$Able to use the [Crossbow] weapon type
 SKILL_20150317_003034	$Use Rods
-SKILL_20150317_003035	Able to use the [Rod] weapon type
+SKILL_20150317_003035	$Able to use the [Rod] weapon type
 SKILL_20150317_003036	$Use Staves
-SKILL_20150317_003037	Able to use the [Staff] weapon type
+SKILL_20150317_003037	$Able to use the [Staff] weapon type
 SKILL_20150317_003038	$Use Maces
-SKILL_20150317_003039	Able to use the [Mace] weapon type
+SKILL_20150317_003039	$Able to use the [Mace] weapon type
 SKILL_20150317_003040	$Use Wands
-SKILL_20150317_003041	Able to use the [Wand] weapon type
-SKILL_20150323_003042	Pommel Beat
-SKILL_20150323_003043	Double Slash
-SKILL_20150323_003044	Skull Swing
+SKILL_20150317_003041	$Able to use the [Wand] weapon type
+SKILL_20150323_003042	$Pommel Beat
+SKILL_20150323_003043	$Double Slash
+SKILL_20150323_003044	$Skull Swing
 SKILL_20150323_003045	Open item durability repair shop
-SKILL_20150323_003046	Install basecamp
-SKILL_20150323_003047	Install basecamp for party members. Personal Storage can be used and buff time increases.
-SKILL_20150323_003048	Intall food distribution table
-SKILL_20150323_003049	Snow Rolling
-SKILL_20150323_003050	Swell Brain
-SKILL_20150323_003051	Rain
-SKILL_20150323_003052	Rain.
-SKILL_20150323_003053	Summon Familiar
+SKILL_20150323_003046	$Base Camp
+SKILL_20150323_003047	$Set up a base camp for your party members. A personal shop can be used along with increasements for your buff durations.
+SKILL_20150323_003048	$Food Table
+SKILL_20150323_003049	$Snow Rolling
+SKILL_20150323_003050	$Swell Brain
+SKILL_20150323_003051	$Rain
+SKILL_20150323_003052	$Rain.
+SKILL_20150323_003053	$Summon Familiar
 SKILL_20150323_003054	Summon suicidal troop.
-SKILL_20150323_003055	Gem Roasting
-SKILL_20150323_003056	Open shop to enhance gem. Penalty stats of upgraded gems derease.
-SKILL_20150323_003057	Synthesize two weapons to change basic weapon stats. Weapon stats may be better or worse. Item used as material will be consumed.
-SKILL_20150323_003058	Create potion through alchemy.
-SKILL_20150323_003059	Item Awakening
-SKILL_20150323_003060	Knockback Shot
-SKILL_20150323_003061	Dual Shot
-SKILL_20150323_003062	Break Pavise
-SKILL_20150323_003063	Crossbow Moving Shot
+SKILL_20150323_003055	$Gem Roasting
+SKILL_20150323_003056	$Open a shop to enhance gems. Decreases the penalty on abilities from enhanced gems.
+SKILL_20150323_003057	$Synthesize two weapons to change the basic options. The outcome may be better or worse. Weapon used as material becomes destroyed.
+SKILL_20150323_003058	$Create potions through alchemy.
+SKILL_20150323_003059	$Item Awakening
+SKILL_20150323_003060	$Knockback Shot
+SKILL_20150323_003061	$Dual Shot
+SKILL_20150323_003062	$Break Pavise
+SKILL_20150323_003063	$Crossbow Moving Shot
 SKILL_20150323_003064	Conceal
 SKILL_20150323_003065	continuous type trap
 SKILL_20150323_003066	Spike Shooter
 SKILL_20150323_003067	Collar Bomb
 SKILL_20150323_003068	Growling
 SKILL_20150323_003069	Capture
-SKILL_20150323_003070	Evasion
-SKILL_20150323_003071	Vendetta
+SKILL_20150323_003070	$Evasion
+SKILL_20150323_003071	$Vendetta
 SKILL_20150323_003072	Lachrymator
 SKILL_20150323_003073	Backstep
 SKILL_20150323_003074	Fade
-SKILL_20150323_003075	Guardian Saint
-SKILL_20150323_003076	Revive
+SKILL_20150323_003075	$Guardian Saint
+SKILL_20150323_003076	$Revive
 SKILL_20150323_003077	Exorcise
 SKILL_20150323_003078	Golden Finger Flick
 SKILL_20150323_003079	Golden Bell Shield
@@ -3368,7 +3368,7 @@ SKILL_20150401_003367	Combat abilities of the pirates increase. Become stronger 
 SKILL_20150401_003368	INT increases.
 SKILL_20150401_003369	Attack is applied continuously
 SKILL_20150401_003370	Can use moving shot while running
-SKILL_20150401_003371	Steal
+SKILL_20150401_003371	Pillaging
 SKILL_20150401_003372	HP increases.
 SKILL_20150401_003373	SP increases.
 SKILL_20150401_003374	HP recovery time decreases.
@@ -3907,7 +3907,7 @@ SKILL_20150414_003906	Max. provoke increased.
 SKILL_20150414_003907	Insensible to pain.
 SKILL_20150414_003908	Fire, Ice, Lightning, Poison, Earth Resistance increase.
 SKILL_20150414_003909	Physical, Magic attack increase
-SKILL_20150414_003910	Steal
+SKILL_20150414_003910	Pillaging.
 SKILL_20150414_003911	Cannot see in front
 SKILL_20150414_003912	Blessings of Goddess
 SKILL_20150414_003913	Can search
@@ -4244,146 +4244,146 @@ SKILL_20150714_004243	Number of buff you can receive
 SKILL_20150714_004244	The duration of benefical buff will stop.
 SKILL_20150714_004245	Decrease Cooltime 20 %
 SKILL_20150714_004246	Dash Run
-SKILL_20150714_004247	Skill Cooltime 20% Increase
-SKILL_20150714_004248	Item Awakening : Dugeon Event
-SKILL_20150714_004249	Increase Physical and magic attack
+SKILL_20150714_004247	$Skill Cooldown increased by 20%
+SKILL_20150714_004248	$Item Awakening: Dungeon Event
+SKILL_20150714_004249	$Increase Physical and Magic Attack
 SKILL_20150714_004250	A status effect can activate Will of Guard
 SKILL_20150714_004251	A status effect can activate Rage of Earth
 SKILL_20150714_004252	Shovel status effect
 SKILL_20150714_004253	Status effect can activate Legacy of Legwyn Family
-SKILL_20150714_004254	Block Increase
-SKILL_20150714_004255	Block Increase
-SKILL_20150714_004256	Critical Attack Increase
-SKILL_20150714_004257	Magic Amplification Increase
-SKILL_20150714_004258	Magic Amplification Increase
-SKILL_20150714_004259	Armorr Penetration
-SKILL_20150714_004260	Decrease Physical Defense
-SKILL_20150714_004261	You can change weapons.
-SKILL_20150714_004262	$You can equip [One-Handed sword] type weapon.
-SKILL_20150714_004263	$You can equip [Two-Handed sword] type weapon.
-SKILL_20150714_004264	$You can equip [One-Handed spear] type weapon.
-SKILL_20150714_004265	$You can equip [Two-Handed spear] type weapon.
-SKILL_20150714_004266	You can equip [Bow] type weapon.
-SKILL_20150714_004267	You can equip [Crossbow] type weapon.
-SKILL_20150714_004268	You can equip [Rod] type weapon.
-SKILL_20150714_004269	You can equip [Staff] type weapon.
-SKILL_20150714_004270	You can equip [Mace] type weapon.
-SKILL_20150714_004271	You can equip [Wand] type weapon.
-SKILL_20150714_004272	You can equip [Handgun] type weapon.
-SKILL_20150714_004273	Cloth Mastery : Magic
-SKILL_20150714_004274	Max SP and Magic DEF increase based on amount of [Cloth] armor equipped and Attribute level ()3 ~).
-SKILL_20150714_004275	Leather Mastery : Dexterity
-SKILL_20150714_004276	Evasion increases based on amount of [Leather] armor equipped and Attribute level. (3 ~)
-SKILL_20150714_004277	Plate Mastery : Defence
-SKILL_20150714_004278	Max HP and Physical DEF increase based on amount of [Plate] armor equipped and Attribute level. (3 ~)
-SKILL_20150714_004279	Dagger Mastery
-SKILL_20150714_004280	Incurs additional 20 damage per Attribute level whenever attack from an enemy's back with dagger.
-SKILL_20150714_004281	Get on Companion
-SKILL_20150714_004282	You can get on a Companion.
-SKILL_20150714_004283	The amount of [Bash] damage incurred on an enemy increases by 1% per Attribute level.
-SKILL_20150714_004284	Increases the damage dealt on an enemy with [Thrust] by 1% per attribute level.
-SKILL_20150714_004285	The amount of [Pommel Beat] damage incurred on an enemy increases by 1% per Attribute level.
-SKILL_20150714_004286	The amount of [Double Slash] damage incurred on an enemy increases by 1% per Attribute level.
-SKILL_20150714_004287	Splash adds onto skill [Bash] by 1 per Attribute level.
-SKILL_20150714_004288	When using [Thrust], repetitive attacks get activated by 1% probability per Attribute level.
-SKILL_20150714_004289	Double Slash: Critical Rate increases
-SKILL_20150714_004290	Critical Rate of skill [Double Slash] increases by 5%
-SKILL_20150714_004291	Restrain: Slow
-SKILL_20150714_004292	The enemy in stun status due to [Restrain] effects will be in Slow after Stun gets removed. Slow will be increased by 3 secs per Attribute level.
-SKILL_20150714_004293	Duration time of stun of skill [Restrain] will be increased by 1 sec per Attribute level.
-SKILL_20150714_004294	Damage that will be incurred on an enemy by [Rim Blow] will be increased by 1% per Attribute level.
-SKILL_20150714_004295	Damage that will be incurred on an enemy by [Umbo Blow] will be increased by 1% per Attribute level.
-SKILL_20150714_004296	Damage that will be incurred on an enemy by [Shield Lob] will be increased by 1% per Attribute level.
-SKILL_20150714_004297	Damage that will be incurred on an enemy by [Butterfly] will be increased by 1% per Attribute level.
-SKILL_20150714_004298	Increases the maximum HP of your character by 5% per attribute level while [Swash Buckling] is active. 
-SKILL_20150714_004299	The enemy that is attacked by [Umbo Blow] will fall into Stun with 5% probability per Attribute level.
-SKILL_20150714_004300	Splash will be added onto [Shield Lob] by 1 per Attribute level.
-SKILL_20150714_004301	Block will increase by 5% per Attribute level when [Shield Equipped]
-SKILL_20150714_004302	After equipped with a shield, you can use [Guard] using C button.
-SKILL_20150714_004303	The enemy that is attacked by [Umbo Blow] will fall down, and the power that makes the enemy fall down will increase by 40 per Attribute level.
-SKILL_20150714_004304	When using the skill [High Guard], the defence will increase by 1 per Attribute level.
-SKILL_20150714_004305	High Guard: Specialized in Rim Blow
-SKILL_20150714_004306	When using the skill [High Guard], the damage of [Rim Blow] will be increased to 250%. From level 2, damage will increase by 20% per Attribute level.
-SKILL_20150714_004307	High Guard: Specialized in Umbo Blow
-SKILL_20150714_004308	When using the skill [High Guard], the damage of [Umbo Blow] will be increased to 250%. From level 2, damage will increase by 20% per Attribute level.
-SKILL_20150714_004309	Guardian: Evasion
-SKILL_20150714_004310	While [Guardian] is activated, a character's eveasion will increase by 6% per Attribute level.
-SKILL_20150714_004311	The damage that will be dealt on an enemy with [Catastroke] will increase by 1% per Attribute level.
-SKILL_20150714_004312	The damage that will be dealt on an enemy with [Crown] will increase by 1% per Attribute level.
-SKILL_20150714_004313	The damage that will be dealt on an enemy with [Wagon Wheel] will increase by 1% per Attribute level.
-SKILL_20150714_004314	The damage that will be dealt on an enemy with [Moulinet] will increase by 1% per Attribute level.
-SKILL_20150714_004315	Skull Swing: Enhancement
-SKILL_20150714_004316	The damage that will be dealt on an enemy with [Skull Swing] will increase by 1% per Attribute level.
-SKILL_20150714_004317	The pushing power of the skill [Catastroke] will increase by 50 per Attribute level.
-SKILL_20150714_004318	The amount that will reduce an enemy's INT and SPR with the skill [Crown] will increase by 2% per Attribute level.
+SKILL_20150714_004254	$Block Increase
+SKILL_20150714_004255	$Increase Block
+SKILL_20150714_004256	$Increase Critical Attack
+SKILL_20150714_004257	$Magic Amplification Increase
+SKILL_20150714_004258	$Increase Magic Amplification
+SKILL_20150714_004259	$Armor Penetration
+SKILL_20150714_004260	$Decrease Physical Defense
+SKILL_20150714_004261	$You can change weapons.
+SKILL_20150714_004262	$You can equip the [One-handed Sword] weapon type.
+SKILL_20150714_004263	$You can equip the [Two-handed Sword] weapon type.
+SKILL_20150714_004264	$You can equip the [One-handed Spear] weapon type.
+SKILL_20150714_004265	$You can equip the [Two-handed Spear] weapon type.
+SKILL_20150714_004266	$You can equip the [Bow] weapon type.
+SKILL_20150714_004267	$You can equip the [Crossbow] weapon type.
+SKILL_20150714_004268	$You can equip the [Rod] weapon type.
+SKILL_20150714_004269	$You can equip the [Staff] weapon type.
+SKILL_20150714_004270	$You can equip the [Mace] weapon type.
+SKILL_20150714_004271	$You can equip the [Wand] weapon type.
+SKILL_20150714_004272	$You can equip the [Pistol] weapon type.
+SKILL_20150714_004273	$Cloth Mastery: Magic
+SKILL_20150714_004274	$Able to equip [Cloth] armor. In addition, increases your maximum SP and Magic Defense depending on the number of equipped [Cloth] armor and the attribute level. (Applies from 3 armor pieces)
+SKILL_20150714_004275	$Leather Mastery: Dexterity
+SKILL_20150714_004276	$Able to equip [Leather] armor. In addition, increases your Evasion depending on the number of equipped [Leather] armor and the attribute level. (Applies from 3 armor pieces)
+SKILL_20150714_004277	$Plate Mastery: Defense
+SKILL_20150714_004278	$Able to equip [Plate] armor. In addition, increases your maximum HP and Physical Defense depending on the number of equipped [Plate] armor and the attribute level. (Applies from 3 armor pieces)
+SKILL_20150714_004279	$Dagger Mastery
+SKILL_20150714_004280	$Deals 20 additional damage per attribute level when attacking behind the enemy with a dagger. 
+SKILL_20150714_004281	$Companion Riding
+SKILL_20150714_004282	$You can mount a Companion.
+SKILL_20150714_004283	$Increases the damage dealt on an enemy with [Bash] by 1% per attribute level.
+SKILL_20150714_004284	$Increases the damage dealt on an enemy with [Thrust] by 1% per attribute level.
+SKILL_20150714_004285	$Increases the damage dealt on an enemy with [Pommel Beat] by 1% per attribute level.
+SKILL_20150714_004286	$Increases the damage dealt on an enemy with [Double Slash] by 1% per attribute level.
+SKILL_20150714_004287	$Splash will be added onto [Bash] by 1 per attribute level.
+SKILL_20150714_004288	$Activates consecutive attacks when using [Thrust] by 1% per attribute level.
+SKILL_20150714_004289	$Double Slash: Critical Chance Increase
+SKILL_20150714_004290	$Increases the Critical Chance of [Double Slash] by 5% per attribute level.
+SKILL_20150714_004291	$Restrain: Slow
+SKILL_20150714_004292	$Due to the effects of [Restrain], stunned enemies becomes slowed after the stun is removed. Increases Slow by 3 seconds per attribute level. 
+SKILL_20150714_004293	$Increases the duration time of stun from [Restrain] by 1 second per attribute level. 
+SKILL_20150714_004294	$Increases the damage dealt on an enemy with [Rim Blow] by 1% per attribute level.
+SKILL_20150714_004295	$Increases the damage dealt on an enemy with [Umbo Blow] by 1% per attribute level.
+SKILL_20150714_004296	$Increases the damage dealt on an enemy with [Shield Lob] by 1% per attribute level.
+SKILL_20150714_004297	$Increases the damage dealt on an enemy with [Butterfly] by 1% per attribute level.
+SKILL_20150714_004298	$Increases the maximum HP of your character by 5% per attribute level while [Swash Buckling] is active. 
+SKILL_20150714_004299	$Enemies hit by [Umbo Blow] can be affected by stun with a 5% chance per attribute level. 
+SKILL_20150714_004300	$Splash will be added onto [Shield Lob] by 1 per attribute level.
+SKILL_20150714_004301	$Increases Block when equipped with a shield by 5% per attribute level.
+SKILL_20150714_004302	$After equipped with a shield, press the C button to use [Guard].
+SKILL_20150714_004303	$Enemies hit by [Umbo Blow] will fall down, increases the knockback power by 40 per attribute level. 
+SKILL_20150714_004304	$Increases your defense by 1 per attribute level while using [High Guard]. 
+SKILL_20150714_004305	$High Guard: Rim Blow Speciality
+SKILL_20150714_004306	$Applies your damage of [Rim Blow] to 250% when using [High Guard]. From Lv2, the damage increases by 20% per attribute level. 
+SKILL_20150714_004307	$High Guard: Umbo Blow Speciality
+SKILL_20150714_004308	$Applies your damage of [Umbo Blow] to 250% when using [High Guard]. From Lv2, the damage increases by 20% per attribute level.
+SKILL_20150714_004309	$Guardian: Evasion
+SKILL_20150714_004310	$Increases your character's evasion by 6% per attribute level while [Guardian] is active.
+SKILL_20150714_004311	$Increases the damage dealt on an enemy with [Cartar Stroke] by 1% per attribute level.
+SKILL_20150714_004312	$Increases the damage dealt on an enemy with [Crown] by 1% per attribute level.
+SKILL_20150714_004313	$Increases the damage dealt on an enemy with [Wagon Wheel] by 1% per attribute level.
+SKILL_20150714_004314	$Increases the damage dealt on an enemy with [Moulinet] by 1% per attribute level.
+SKILL_20150714_004315	$Skull Swing: Enhance
+SKILL_20150714_004316	$Increases the damage dealt on an enemy with [Skull Swing] by 1% per attribute level.
+SKILL_20150714_004317	$Increases the knockback power of [Cartar Stroke] by 50 per attribute level.
+SKILL_20150714_004318	$Increases the reduced amount of the enemy's INT and SPR from [Crown] by 2% per attribute level.
 SKILL_20150714_004319	$When equipped with [Two-Handed Sword], Critical ATK rate will increase by 10% per Attribute level.
-SKILL_20150714_004320	Critical ATK rate of the skill [Moulinet] will increase by 10% per Attribute level.
+SKILL_20150714_004320	$Increases the Critical Chance of [Moulinet] by 10% per attribute level.
 SKILL_20150714_004321	The duration of time that will stiffen the enemy that is blocked by [Crossguard] will be increased. It will increase by 1 sec per Attribute level.
-SKILL_20150714_004322	The enemy pushed by [Catastroke] will be damaged additionally by 50% per Physical ATK.
-SKILL_20150714_004323	The enemy that was attacked by [Skull Swing] will not be able to jump. The duration will increase by 3 sec per Attribute level.
-SKILL_20150714_004324	Damage that will be dealt on an enemy by [Stabbing] will increase by 1% per Attribute level.
-SKILL_20150714_004325	Damage that will be dealt on an enemy by [Synchro Thrusting] will increase by 1% per Attribute level.
-SKILL_20150714_004326	Damage that will be dealt on an enemy by [Pierce] will increase by 1% per Attribute level.
-SKILL_20150714_004327	Damage that will be dealt on an enemy by [Long Stride] will increase by 1% per Attribute level.
-SKILL_20150714_004328	Damage that will be dealt on an enemy by [Thrower] will increase by 1% per Attribute level.
-SKILL_20150714_004329	While you are attacking an enemy with [Stabbing], Evasion will increase by 5% per Attribute level.
-SKILL_20150714_004330	The enemy that is attacked by [Pierce] will be in [Bleeding] for 5 secs with 2% probability.
-SKILL_20150714_004331	The damage that will be dealt by [Synchro Thrusting] will decrease by 10% per Attribute level and the amount of damage that will be incurred will increase by 20%.
-SKILL_20150714_004332	Long Stride: Reduce the Cool down Time
-SKILL_20150714_004333	Cool down time of [Long Stride] will be decreased.
-SKILL_20150714_004334	Thrower: Bound
-SKILL_20150714_004335	The enemy that was attacked by [Thrower] will be in Bound status for 7 secs. The rate increases by 15% per Attribute level.
-SKILL_20150714_004336	Damage that will be dealt on an enemy with [Embowel] will increase by 1% per Attribute level.
-SKILL_20150714_004337	Damage that will be dealt on an enemy with [Stormping Kick] will increase by 1% per Attribute level.
-SKILL_20150714_004338	The number of enemies that will lose defence rate with the skill [Warcry] will increase by 1 per Attribute level.
-SKILL_20150714_004339	Duration of the skill, [Warcry] will increase by 2 secs per Attribute level.
-SKILL_20150714_004340	Critical rate of the skill, [Savagery] will increase by 5% per Attribute level.
-SKILL_20150714_004341	Frenzy: Maintain the overlap
-SKILL_20150714_004342	Overlap of [Frenzy] will maintain while attacking the other enemy, but Max overlap will be reduced by half.
-SKILL_20150714_004343	Aggressor: The last attack
-SKILL_20150714_004344	While [Aggressor] is being activated, a character's Critical Rate will be added in proportion to the amount of Physical ATK rate. The additional amount will increase by 35% per Attribute level.
-SKILL_20150714_004345	Pouncing: Enhancement
-SKILL_20150714_004346	Damage that will be dealt with [Pouncing] will increase by 1% per Attribute level.
-SKILL_20150714_004347	Damage that will be dealt with [Shield Charge] will increase by 1% per Attribute level.
-SKILL_20150714_004348	Damage that will be dealt with [Montano] will increase by 1% per Attribute level.
-SKILL_20150714_004349	Damage that will be dealt with [Targe Smash] will increase by 1% per Attribute level.
-SKILL_20150714_004350	Damage that will be dealt with [Shield Push] will increase by 1% per Attribute level.
-SKILL_20150714_004351	When attacking an enemy that is in [Freezing], [Petrification] status, 20% additional damage will be dealt per Attribute level.
-SKILL_20150714_004352	The skill [Montano] will inflict the target with [Slow] for 10 secs and the duration of [Slow] will increase by 3secs/2secs/1sec based on Attribute level to small/medium/big sized monsters.
+SKILL_20150714_004322	$Knockbacked enemies by [Cartar Stroke] will take additional damage equal to 50% of your Physical Attack per level.
+SKILL_20150714_004323	$Enemies hit by [Skull Swing] become unable to jump. Increases the duration time by 3 seconds per attribute level.
+SKILL_20150714_004324	$Increases the damage dealt on an enemy with [Stabbing] by 1% per attribute level.
+SKILL_20150714_004325	$Increases the damage dealt on an enemy with [Synchro Thrusting] by 1% per attribute level.
+SKILL_20150714_004326	$Increases the damage dealt on an enemy with [Pierce] by 1% per attribute level.
+SKILL_20150714_004327	$Increases the damage dealt on an enemy with [Long Stride] by 1% per attribute level.
+SKILL_20150714_004328	$Increases the damage dealt on an enemy with [Throwing Spear] by 1% per attribute level.
+SKILL_20150714_004329	$Increases Evasion by 5% per attribute level while attacking enemies with [Stabbing].
+SKILL_20150714_004330	$Enemies hit by [Pierce] are affected by [Bleeding] for 5 seconds with a 2% chance per attribute level. 
+SKILL_20150714_004331	$Decreases the Strike damage dealt by [Synchro Thrusting] by 10%, while increasing the Pierce damage by 20% respectively per attribute level. 
+SKILL_20150714_004332	$Long Stride: Cooldown Time Decrease
+SKILL_20150714_004333	$Decreases the cooldown time of [Long Stride].
+SKILL_20150714_004334	$Throwing Spear: Bind
+SKILL_20150714_004335	$Enemies hit by [Throwing Spear] have a chance to be inflicted with the [Bind] status for 7 seconds. Increases the chance by 15% per attribute level. 
+SKILL_20150714_004336	$Increases the damage dealt on an enemy with [Embowel] by 1% per attribute level.
+SKILL_20150714_004337	$Increases the damage dealt on an enemy with [Stomping Kick] by 1% per attribute level.
+SKILL_20150714_004338	$Increases the amount of enemies losing defense from [Warcry] by 1 per attribute level. 
+SKILL_20150714_004339	$Increases the duration time of [Warcry] by 2 seconds per attribute level. 
+SKILL_20150714_004340	$Increases the Critical Chance of [Savagery] by 5% per attribute level.
+SKILL_20150714_004341	$Frenzy: Maintain Stacks
+SKILL_20150714_004342	$Maintains the stacks from [Frenzy] when switching to another target, but the maximum amount of stacks will be reduced by half.
+SKILL_20150714_004343	$Aggressor: Affinity Attack
+SKILL_20150714_004344	$While [Aggressor] is active, the character's added Critical Attack is proportional to the Physical Attack. Increases an additional amount by 35% per attribute level. 
+SKILL_20150714_004345	$Pouncing: Enhance
+SKILL_20150714_004346	$Increases the damage dealt on an enemy with [Pouncing] by 1% per attribute level.
+SKILL_20150714_004347	$Increases the damage dealt on an enemy with [Shield Charge] by 1% per attribute level.
+SKILL_20150714_004348	$Increases the damage dealt on an enemy with [Montano] by 1% per attribute level.
+SKILL_20150714_004349	$Increases the damage dealt on an enemy with [Targe Smash] by 1% per attribute level.
+SKILL_20150714_004350	$Increases the damage dealt on an enemy with [Shield Push] by 1% per attribute level.
+SKILL_20150714_004351	$Adds 20% additional damage per attribute level when attacking frozen and petrified enemies with [Targe Smash]. 
+SKILL_20150714_004352	$Inflicts the target with [Slow] for 10 seconds with [Montano]. The duration time of [Slow] increases by 3 secs/2 secs/1 sec on small/medium/big-sized monsters respectively per attribute level.
 SKILL_20150714_004353	$Shooting Star: Enhance
 SKILL_20150714_004354	$Increases the damage dealt on an enemy with [Shooting Star] by 1% per attribute level.
 SKILL_20150714_004355	$Slithering: Enhance
 SKILL_20150714_004356	$Increases the damage dealt on an enemy with [Slithering] by 1% per attribute level.
-SKILL_20150714_004357	Shield Push: Duration
-SKILL_20150714_004358	Duration of the unbalanced status with [Shield Push] will increase by 1sec per Attribute level.
-SKILL_20150714_004359	Damage that will be dealt on an enemy with [Impaler] will increase by 1% per Attribute level.
-SKILL_20150714_004360	Damage that will be dealt on an enemy with [Earth Wave] will increase by 1% per Attribute level.
-SKILL_20150714_004361	Damage that will be dealt on an enemy with [Steed Charge] will increase by 1% per Attribute level.
-SKILL_20150714_004362	Damage that will be dealt on an enemy with [Doom Spike] will increase by 1% per Attribute level.
-SKILL_20150714_004363	Damage that will be dealt on an enemy with [Rush] will increase by 1% per Attribute level.
-SKILL_20150714_004364	Earth Wave: Earth Property
-SKILL_20150714_004365	Physical attack increase effect of [Warcry] is enhanced to Barbarian Circle 3. (This Attribute will be applied after the enemy'sdefense force has been reduced.)
-SKILL_20150714_004366	Steed Charge: Critical Attack
-SKILL_20150714_004367	[Steed Charge] will be applied as Critical to the enemy in Slow status.
-SKILL_20150714_004368	The number of the skill [Weapon TouchUp] will increase by 1 per Attribute level.
-SKILL_20150714_004369	The number of the skill [Armor TouchUp] will increase by 1 per Attribute level.
-SKILL_20150714_004370	Duration of Salad of the skill [Install Food Distribution Table] will increase by 1 min per Attribute level.
-SKILL_20150714_004371	Duration of Sandwich of the skill [Install Food Distribution Table] will increase by 1 min per Attribute level.
-SKILL_20150714_004372	Duration of Soup of the skill [Install Food Distribution Table] will increase by 1 min per Attribute level.
-SKILL_20150714_004373	Duration of Yogurt of the skill [Install Food Distritution Table] will increase by 1 per Attribute level.
-SKILL_20150714_004374	Arrest: Decrease DEF
-SKILL_20150714_004375	While an enemy is in [Arrest], Physical DEF will decrease by 10% per Attribute level.
-SKILL_20150714_004376	Repair: Service
+SKILL_20150714_004357	$Shield Push: Duration Time
+SKILL_20150714_004358	$Increases the duration time of the Unbalanced status applied from [Shield Push] by 1 second per attribute level.
+SKILL_20150714_004359	$Increases the damage dealt on an enemy with [Impaler] by 1% per attribute level.
+SKILL_20150714_004360	$Increases the damage dealt on an enemy with [Earth Wave] by 1% per attribute level.
+SKILL_20150714_004361	$Increases the damage dealt on an enemy with [Steed Charge] by 1% per attribute level.
+SKILL_20150714_004362	$Increases the damage dealt on an enemy with [Doom Spike] by 1% per attribute level.
+SKILL_20150714_004363	$Increases the damage dealt on an enemy with [Rush] by 1% per attribute level.
+SKILL_20150714_004364	$Earth Wave: Earth Property
+SKILL_20150714_004365	$Grants the Earth property to strikes from [Earth Wave].
+SKILL_20150714_004366	$Steed Charge: Critical
+SKILL_20150714_004367	$Critical will be applied from [Steed Charge] to enemies affected by Slow. 
+SKILL_20150714_004368	$Increases the count of [Weapon Maintenance] by 1 per attribute level.
+SKILL_20150714_004369	$Increases the count of [Armor Maintenance] by 1 per attribute level.
+SKILL_20150714_004370	$Increases the duration time of salad from [Food Table] by 1 minute per attribute level.
+SKILL_20150714_004371	$Increases the duration time of sandwich from [Food Table] by 1 minute per attribute level.
+SKILL_20150714_004372	$Increases the duration time of soup from [Food Table] by 1 minute per attribute level.
+SKILL_20150714_004373	$Increases the duration time of yogurt from [Food Table] by 1 minute per attribute level.
+SKILL_20150714_004374	$Arrest: Weaken Defense
+SKILL_20150714_004375	$Decreases the physical defense of an enemy in [Arrest] by 10% per attribute level.
+SKILL_20150714_004376	$Repair: Service
 SKILL_20150714_004377	When you are repairing an equipment with [Repair], it could be done with the twice the amount of excess repairing amount for 5% probability.
-SKILL_20150714_004378	Damage that will be dealt on an enemy by [Keelhauling] will increase by 1% per Attribute level.
-SKILL_20150714_004379	An enemy that was attacked by [Keelhauling] will be in [Bleeding] status for 5 secs. Duration of [Bleeding] will increase by 1 sec per Attribute level.
-SKILL_20150714_004380	Iron Hook: Chain
-SKILL_20150714_004381	Throw [Iron Hook] to maximum 3 enemies repeatitively. While defeating multiple enemies at once, you can't use [Keelhauling].
-SKILL_20150714_004382	Robbery: Duration
-SKILL_20150714_004383	Duration of [Robbery] will increase by 1 sec per Attribute level.
-SKILL_20150714_004384	Phalanx: Slow
-SKILL_20150714_004385	When an enemy's attack gets blocked while in [Phalanx] position, the enemy will faill into Slow. Duration of Slow will increase by 4 secs per Attribute level.
-SKILL_20150714_004386	Tercio: Change Formation
+SKILL_20150714_004378	$Increases the damage dealt on an enemy with [Keel Hauling] by 1% per attribute level.
+SKILL_20150714_004379	$Enemies hit by [Keel Hauling] will be affected by the [Bleeding] status for 5 seconds. The duration of [Bleeding] increases by 1 per attribute level.
+SKILL_20150714_004380	$Iron Hook: Chain
+SKILL_20150714_004381	$Sequentially throw up to 3 enemies with [Iron Hook]. You cannot use [Keel Hauling] while capturing multiple enemies. 
+SKILL_20150714_004382	$Pillaging: Duration Time
+SKILL_20150714_004383	$Increases the duration time of [Pillaging] by 1 second per attribute level.
+SKILL_20150714_004384	$Phalanx: Slow
+SKILL_20150714_004385	$An enemy will be affected by Slow when an attack is blocked during [Phalanx]. Increases the duration time of Slow by 4 seconds per attribute level.
+SKILL_20150714_004386	$Tercio: Change Formation
 SKILL_20150714_004387	Changing the shape of [Tercio] position. The locations of the number 4 and the number 6 will move away from the center.
 SKILL_20150714_004388	Crane Wing: Change Formation
 SKILL_20150714_004389	Changing the shape of [Crane Wing] Formation. It will be the shape that will lure enemies more deep inside.
@@ -4401,27 +4401,27 @@ SKILL_20150714_004400	The reflective damage of [Reflect Shield] will increase pe
 SKILL_20150714_004401	Damage of [Earthquake] will increase by 1% per Attribute level.
 SKILL_20150714_004402	Damage of [Magic Missile] will increase by 1% per Attribute level.
 SKILL_20150714_004403	While [Quick Cast] is being activated, the next Magical damage will increase by 10%.
-SKILL_20150714_004404	Sleep: Duration
-SKILL_20150714_004405	Duration of [Sleep] will increase by 1 sec per Attribute level.
-SKILL_20150714_004406	Damage of [Fire Ball] that will be dealt on an enemy will increase by 1% per Attribute level.
-SKILL_20150714_004407	Damage of [Fire Wall] that will be dealt on an enemy will increase by 1% per Attribute level.
-SKILL_20150714_004408	Damage of [Flare] that will be dealt on an enemy will increase by 1% per Attribute level.
-SKILL_20150714_004409	Damage of [Fire Pillar] that will be dealt on an enemy will increase by 1% per Attribute level.
-SKILL_20150714_004410	Damage of [Hell Breath] that will be dealt on an enemy will increase by 1% per Attribute level.
-SKILL_20150714_004411	An enemy that is shot by [Fire Ball] will receive flame damage for 5 secs with 10% probability per Attribute level.
+SKILL_20150714_004404	$Sleep: Duration
+SKILL_20150714_004405	$Increases the duration time of [Sleep] by 1 second per attribute level.
+SKILL_20150714_004406	$Increases the damage dealt on an enemy with [Fireball] by 1% per attribute level.
+SKILL_20150714_004407	$Increases the damage dealt on an enemy with [Fire Wall] by 1% per attribute level.
+SKILL_20150714_004408	$Increases the damage dealt on an enemy with [Flare] by 1% per attribute level.
+SKILL_20150714_004409	$Increases the damage dealt on an enemy with [Fire Pillar] by 1% per attribute level.
+SKILL_20150714_004410	$Increases the damage dealt on an enemy with [Hell Breath] by 1% per attribute level.
+SKILL_20150714_004411	$Deals fire damage to enemies hit by [Fireball] for 5 seconds with a chance of 10% per attribute level.
 SKILL_20150714_004412	When an ally steps on [Fire Wall], Fire ATK will increase by 5 per Attribute level for 5 secs.
 SKILL_20150714_004413	An enemy that is shot by [Hell Breath] will be pushed behind with 10% probability per Attribute level.
-SKILL_20150714_004414	When an enemy is near [Enchant Fire] range, the enemy's Fire resistance will decrease by 10% for 5 secs.
-SKILL_20150714_004415	When equipped with [Staff] type weapon, a character's Fire type ATK rate will increase by 3 per Attribute level.
-SKILL_20150714_004416	Flare: Additional Damage
-SKILL_20150714_004417	Damage of [Flare] will increase by 10 per Attribute level to the enemies that are in Cloth defence type.
-SKILL_20150714_004418	Damage of [Ice Bolt] will increase by 1% per Attribute level.
-SKILL_20150714_004419	Damage of [Ice Pike] will increase by 1% per Attribute level.
-SKILL_20150714_004420	Damage of [Ice Blast] will increase by 1% per Attribute level.
-SKILL_20150714_004421	Damage of [Snow Rolling] will increase by 1% per Attribute level.
-SKILL_20150714_004422	The probability that the enemy that was attacked by [Ice Bolt] turn into [Freezing] increases by 10% per Attribute level.
-SKILL_20150714_004423	The enemy pushed by [Gust] will receive damage 50% per Magic ATK.
-SKILL_20150714_004424	When you are equipped with [Rod], a character's Ice ATK rate will increase by 3 per Attribute level.
+SKILL_20150714_004414	$Decreases the enemy's Fire Resistance by 10% for 5 seconds within the range of [Enchant Fire].
+SKILL_20150714_004415	$Increases the character's Fire property attack by 3 per attribute level when equipped with a [Staff].
+SKILL_20150714_004416	$Flare: Additional Damage
+SKILL_20150714_004417	$Increases the damage of [Flare] by 10 per attribute level to Cloth armor type enemies. 
+SKILL_20150714_004418	$Increases the damage dealt on an enemy with [Ice Bolt] by 1% per attribute level.
+SKILL_20150714_004419	$Increases the damage dealt on an enemy with [Ice Spike] by 1% per attribute level.
+SKILL_20150714_004420	$Increases the damage dealt on an enemy with [Ice Blast] by 1% per attribute level.
+SKILL_20150714_004421	$Increases the damage dealt on an enemy with [Snow Rolling] by 1% per attribute level.
+SKILL_20150714_004422	$Increases the chance of inflicting [Freeze] on enemies hit by [Ice Bolt] by 10% per attribute level.
+SKILL_20150714_004423	$Knockbacked enemies by [Gust] will take damage equal to 50% of Magic Attack.  
+SKILL_20150714_004424	$Increases the character's Ice property attack by 3 per attribute level when equipped with a [Rod].
 SKILL_20150714_004425	Ice Wall: Cryorite
 SKILL_20150714_004426	When [Ice Wall] disappears, Cryorite will be dropped with the probability 1% per Attribute level.
 SKILL_20150714_004427	Sub Zero Shield: Duration
@@ -4430,26 +4430,26 @@ SKILL_20150714_004429	Ice Blast: Additional damage
 SKILL_20150714_004430	Damage of [Ice Blast] will be added by 10 per Attribute level to the enemies that are Leather Defence type.
 SKILL_20150714_004431	Cryomancer: Specialized in Freezing
 SKILL_20150714_004432	The enemy that are in Freezing due to a skill by Cryomancer will receive 10% additional damage from Lightning attacks.
-SKILL_20150714_004433	Damage of [Telekinesis] will be increased by 1% per Attribute level.
-SKILL_20150714_004434	Damage of [Psychic Pressure] will be increased by 1% per Attribute level.
-SKILL_20150714_004435	Damage of [Magnetic Force] will be increased by 1% per Attribute level.
+SKILL_20150714_004433	$Increases the damage dealt on an enemy with [Telekinesis] by 1% per attribute level.
+SKILL_20150714_004434	$Increases the damage dealt on an enemy with [Psychic Pressure] by 1% per attribute level.
+SKILL_20150714_004435	$Increases the damage dealt on an enemy with [Magnetic Force] by 1% per attribute level.
 SKILL_20150714_004436	Whenever an enemy gets shot by [Pshychic Pressure], it will fall into [Stun] for 1 sec with the probability of 10% per Attribute level.
-SKILL_20150714_004437	When using [Gravity Pole], Evasion will increase by 10% per Attribute level.
+SKILL_20150714_004437	$Increases Evasion by 10% per attribute level when using [Gravity Pole].
 SKILL_20150714_004438	The enemy that was shot by [Magnetic Force] will fall into [Stun] status for 1 sec with the probability of 5%.
 SKILL_20150714_004439	Physical DEF rate will decrease by 5% per Attribute level for the enemies that will be pulled by [Gravity Pole].
 SKILL_20150714_004440	Swap: Friendly
 SKILL_20150714_004441	[Swap] will be applied to allies and not enemies.
-SKILL_20150714_004442	Hangman's Knot: Add more damage
-SKILL_20150714_004443	The enemies shot by [Hangman's Knot] will receive 20% more damage of the character's magical damage per Attribute level.
-SKILL_20150714_004444	Life String: Remaining DEF
-SKILL_20150714_004445	When using [Life String], 10% of Physical DEF will be remained per Attribute level.
-SKILL_20150714_004446	Duration of [Spritual Chain] will increase by 1 sec per Attribute level.
+SKILL_20150714_004442	$Hangman's Knot: Additional Damage
+SKILL_20150714_004443	$Enemies hit by [Hangman's Knot] will receive additional damage equal to 20% of the character's Magic Attack per attribute level.
+SKILL_20150714_004444	$Umbilical Cord: Remaining Defense
+SKILL_20150714_004445	$10% of the physical defense remains per attribute level when using [Umbilical Cord].
+SKILL_20150714_004446	$Increases the duration time of [Spiritual Chain] by 1 second per attribute level.
 SKILL_20150714_004447	The enemies that will be disconnected by [Unbind] will receive damage. ATK rate will increase by 10% of Magic ATK rate per Attribute level.
-SKILL_20150714_004448	Joint Penalty: Electricity
+SKILL_20150714_004448	$Joint Penalty: Electricity
 SKILL_20150714_004449	The enemies that received [Joint Penalty] will receive 10% additional damage per Attribute level for Lightning attack.
-SKILL_20150714_004450	Joint Penalty: Poison
+SKILL_20150714_004450	$Joint Penalty: Poison
 SKILL_20150714_004451	The enemies that received [Joint Penalty] will receive 10% additional damage per Attribute level for Poison attack.
-SKILL_20150714_004452	Joint Penalty: Earth
+SKILL_20150714_004452	$Joint Penalty: Earth
 SKILL_20150714_004453	The enemies that received [Joint Penalty] will receive 10% additional damage per Attribute level for Earth attack.
 SKILL_20150714_004454	The enemy's movement speed will decrease by 10% whose size got bigger by [Swell Body] and Physical and Magical ATK rate will increase by 5% per Attribute level.
 SKILL_20150714_004455	The enemy's movement speed will increase by 5% whose size got smaller by [Shrink Body] and Physical and Magical ATK rate will decrease by 10% per Attribute level.
@@ -4465,10 +4465,10 @@ SKILL_20150714_004464	Transpose: Balance
 SKILL_20150714_004465	When using [Transpose], INT and CON will not be changed, but instead their average value will be applied to each of them.
 SKILL_20150714_004466	Reversi: Exclusive for Capture
 SKILL_20150714_004467	When using [Reversi] the floor of allies will be changed to enemies'. It will be activated when the enemies are nearby.
-SKILL_20150714_004468	Damage dealt on an enemy with [Prominence] will be increased by 1% per Attribute level.
-SKILL_20150714_004469	Damage dealt on an enemy with [Hail] will be increased by 1% per Attribute level.
-SKILL_20150714_004470	Damage dealt on an enemy with [Electrocute] will be increased by 1% per Attribute level.
-SKILL_20150714_004471	Damage dealt on an enemy with [Meteor] will be increased by 1% per Attribute level.
+SKILL_20150714_004468	$Increases the damage dealt on an enemy with [Prominence] by 1% per attribute level.
+SKILL_20150714_004469	$Increases the damage dealt on an enemy with [Hail] by 1% per attribute level.
+SKILL_20150714_004470	$Increases the damage dealt on an enemy with [Electrocute] by 1% per attribute level.
+SKILL_20150714_004471	$Increases the damage dealt on an enemy with [Meteor] by 1% per attribute level.
 SKILL_20150714_004472	When using [Electrocute] to the enemies that are in [Freezing], 50% additional damage based on Magic ATK rate will be dealt per Attribute level.
 SKILL_20150714_004473	Whenever an enemy gets shot by [Hail], it will fall into [Freezing] with 5% probability per Attribute level.
 SKILL_20150714_004474	While charging [Meteor], Evasion will increase by 10 per Attribute level.
@@ -4489,19 +4489,19 @@ SKILL_20150714_004488	When an enemy is attacked by Salamion, it will fall into D
 SKILL_20150714_004489	Critical ATK occurence will incrase by 5% per Attribute level with [Quicken] and Evasion will decrease by 2% per Attribute level.
 SKILL_20150714_004490	When an enemy inflicted with [Reincarnate] dies and reborn, two enemies will appear with 1% probability per Attribute level.
 SKILL_20150714_004491	After using [Back Masking], the enemies that will be pulled by Aggressive will fall into [Chaos] for 2 secs per Attribute level.
-SKILL_20150714_004492	Damage dealt on an enemy with [Gather Corpse] will increase by 1% per Attribute level.
-SKILL_20150714_004493	Damage dealt on an enemy with [Flash Canon] will increase by 1% per Attribute level.
-SKILL_20150714_004494	Damage dealt on an enemy with [Flash Hoop] will increase by 1% per Attribute level.
+SKILL_20150714_004492	$Increases the damage dealt on an enemy with [Gather Corpse] by 1% per attribute level.
+SKILL_20150714_004493	$Increases the damage dealt on an enemy with [Flash Cannon] by 1% per attribute level.
+SKILL_20150714_004494	$Increases the damage dealt on an enemy with [Flash Hoop] by 1% per attribute level.
 SKILL_20150714_004495	When an enemy gets shot by [Flash Canon], it will fall into Decay status for 30 secs with a certain probability. The rate will increase by 5% per Attribute level.
 SKILL_20150714_004496	Create Shoggoth: Decay
 SKILL_20150714_004497	The enemies near Shoggoth will fall into Decay status for 10 secs. This ability will last for 1 min per Attribute level after Shoggoth gets summoned.
-SKILL_20150714_004498	Disinter: Increase range
-SKILL_20150714_004499	The range of [Disinter] will be increased.
-SKILL_20150714_004500	Damage dealt on an enemy with [Combustion] will increase by 1% per Attribute level.
-SKILL_20150714_004501	Dig: Reduce Cooldown time
-SKILL_20150714_004502	Cooldown time of [Dig] will be reduced.
+SKILL_20150714_004498	$Disinter: Increase Range
+SKILL_20150714_004499	$Increases the range of [Disinter].
+SKILL_20150714_004500	$Increases the damage dealt on an enemy with [Combustion] by 1% per attribute level.
+SKILL_20150714_004501	$Dig: Reduce Cooldown time
+SKILL_20150714_004502	$Decreases the cooldown time of [Dig].
 SKILL_20150714_004503	Physical ATK and Magic ATK will be increased for 30 mins for the allies that participated in [Item Awakening] dungeon. ATK rate will increase by 20% per Attribute level.
-SKILL_20150714_004504	Tincturing: Block Increase Potion
+SKILL_20150714_004504	$Tincturing: Block Increase Potion
 SKILL_20150714_004505	$Obtain the recipe of Block Increase Potion that can be crafted with [Tincturing].
 SKILL_20150714_004506	$Tincturing: Critical Attack Increase Potion
 SKILL_20150714_004507	$Obtain the recipe of Critical Attack Increase Potion that can be crafted with [Tincturing].
@@ -4522,24 +4522,24 @@ SKILL_20150714_004521	$Increases the damage dealt on an enemy with [High Anchori
 SKILL_20150714_004522	$Increases the damage dealt on an enemy with [Critical Shot] by 1% per attribute level.
 SKILL_20150714_004523	$Increases the damage dealt on an enemy with [Time Bomb Arrow] 1% per attribute level.
 SKILL_20150714_004524	$Increases the damage dealt on an enemy with [Bounce Shot] by 1% per attribute level.
-SKILL_20150714_004525	The enemy that is shot by [Barrage] will be pushed behind with 10% probability per Attribute level.
-SKILL_20150714_004526	The enemy that is shot by [Bounce Shot] will fall into [Slow] with 10% probability per Attribute level.
-SKILL_20150714_004527	Spiral Arrow: Target for weaknesses
+SKILL_20150714_004525	$Knockbacks enemies hit by [Barrage] with a 10% chance per attribute level.
+SKILL_20150714_004526	$Inflicts [Slow] on enemies hit by [Bounce Shot] with a 10% chance per attribute level.
+SKILL_20150714_004527	$Spiral Arrow: Weakness Attack
 SKILL_20150714_004528	The attacks with the effect of [Spiral Arrow] will be Critical with a certain probability to the enemies that are in Armor Break status. The probability will increase by 10% per Attribute level.
-SKILL_20150714_004529	Damage dealt on an enemy with [Scatter Caltrops] will increase by 1% per Attribute level.
-SKILL_20150714_004530	Damage dealt on an enemy with [Stone Shot] will increase by 1% per Attribute level.
-SKILL_20150714_004531	Damage dealt on an enemy with [Rapid Fire] will increase by 1% per Attribute level.
-SKILL_20150714_004532	Damage dealt on an enemy with [Tear Down] will increase by 1% per Attribute level.
-SKILL_20150714_004533	Duration of Caltrops of [Scatter Caltrops] will increase by 1 sec per Attribute level.
+SKILL_20150714_004529	$Increases the damage dealt on an enemy with [Scatter Caltrop] by 1% per attribute level.
+SKILL_20150714_004530	$Increases the damage dealt on an enemy with [Stone Shot] by 1% per attribute level.
+SKILL_20150714_004531	$Increases the damage dealt on an enemy with [Rapid Fire] by 1% per attribute level.
+SKILL_20150714_004532	$Increases the damage dealt on an enemy with [Tear Down] by 1% per attribute level.
+SKILL_20150714_004533	$Increases the duration time of [Scatter Caltrop] by 1 second per attribute level.
 SKILL_20150714_004534	When stepped on [Scatter Caltrops], the target will fall into [Bleeding] with 8% probability per Attribute level.
 SKILL_20150714_004535	Tear Down: Tear down the sculpture
 SKILL_20150714_004536	[Tear Down] enables you to tear down the fragments of Divine Tree.
-SKILL_20150714_004537	Damage dealt on an enemy with [Broom Trap] will increase by 1% per Attribute level.
-SKILL_20150714_004538	Damage dealt on an enemy with [Claymore] will increase by 1% per Attribute level.
-SKILL_20150714_004539	Damage dealt on an enemy with [Punji Stake] will increase by 1% per Attribute level.
-SKILL_20150714_004540	Damage dealt on an enemy with [Detonate Trap] will increase by 1% per Attribute level.
-SKILL_20150714_004541	Damage dealt on an enemy with [Spike Shooter] will increase by 1% per Attribute level.
-SKILL_20150714_004542	Damage dealt on an enemy with [Victim Bomb] will increase by 1% per Attribute level.
+SKILL_20150714_004537	$Increases the damage dealt on an enemy with [Broom Trap] by 1% per attribute level.
+SKILL_20150714_004538	$Increases the damage dealt on an enemy with [Claymore] by 1% per attribute level.
+SKILL_20150714_004539	$Increases the damage dealt on an enemy with [Punji Stake] by 1% per attribute level.
+SKILL_20150714_004540	$Increases the damage dealt on an enemy with [Detonate Traps] by 1% per attribute level.
+SKILL_20150714_004541	$Increases the damage dealt on an enemy with [Spike Shooter] by 1% per attribute level.
+SKILL_20150714_004542	$Increases the damage dealt on an enemy with [Victim Bomb] by 1% per attribute level.
 SKILL_20150714_004543	Tumbleweed of [Broom Trap] will be reduced by 0.2 secs per Attribute level and the number of rotations will decrease by 1 per Attribute level.
 SKILL_20150714_004544	Splash of [Claymore] will increase by 1 per Attribute level.
 SKILL_20150714_004545	As the enemy that was flown to the air by [Punji Stake] falls down on the ground, it will receive damage equal to 50% of Physical ATK and the enemies nearby will also receive damage.
@@ -4551,9 +4551,9 @@ SKILL_20150714_004550	Coursing: Tear up the mind
 SKILL_20150714_004551	Magic DEF of the enemies that are inflicted with [Coursing] will decrease by 10 per Attribute level.
 SKILL_20150714_004552	Hounding: Confusion
 SKILL_20150714_004553	Enemies that are discovered while in [Hounding] will be in Confusion with a certain probability. The probability will increase by 10% per Attribute level.
-SKILL_20150714_004554	Damage dealt on an enemy with [Needle Blow] will increase by 1% per Attribute level.
-SKILL_20150714_004555	Damage dealt on an enemy with [Wugong Gu] will increase by 1% per Attribute level.
-SKILL_20150714_004556	Damage dealt on an enemy with [Throw Gu Pot] will increase by 1% per Attribute level.
+SKILL_20150714_004554	$Increases the damage dealt on an enemy with [Needle Blow] by 1% per attribute level.
+SKILL_20150714_004555	$Increases the damage dealt on an enemy with [Wugong Gu] by 1% per attribute level.
+SKILL_20150714_004556	$Increases the damage dealt on an enemy with [Throw Gu Pot] by 1% per attribute level.
 SKILL_20150714_004557	A character whose [Poison] is removed due to [Detoxify] will be immune to [Poison] for 2 secs per Attribute level.
 SKILL_20150714_004558	[Wugong Gu]: Infection continues
 SKILL_20150714_004559	Duration of the infected status of the object which is infected by the host of [Wugong Gu] will increase by 1 sec per Attribute level.
@@ -4561,53 +4561,53 @@ SKILL_20150714_004560	Even if an object gets out of the range of [Throw Gu Pot],
 SKILL_20150714_004561	The Max amount of Poison that could be stored increases by 10 per Attribute level with [Poison Pot].
 SKILL_20150714_004562	Jincan Gu: Vitality
 SKILL_20150714_004563	Life time of the bugs that are born from [Jincan Gu] with a fixed probability will be doubled. The probability will increase by 5% per Attribute level.
-SKILL_20150714_004564	Damage dealt on an enemy with [Flu Flu] will increase by 1% per Attribute level.
-SKILL_20150714_004565	Damage dealt on an enemy with [Flare Shot] will increase by 1% per Attribute level.
+SKILL_20150714_004564	$Increases the damage dealt on an enemy with [Flu Flu] by 1% per attribute level.
+SKILL_20150714_004565	$Increases the damage dealt on an enemy with [Flare Shot] by 1% per attribute level.
 SKILL_20150714_004566	Physical ATK of the allies in the range of [Undistance] will increase by 5% per Attribute level.
 SKILL_20150714_004567	The number of enemies that will be influenced by [Flu Flu] will increase by 1 per Attribute level.
-SKILL_20150714_004568	Camouflage: Jump enabled
-SKILL_20150714_004569	Character can jump while in [Camouflage].
+SKILL_20150714_004568	$Camouflage: Jump
+SKILL_20150714_004569	$Able to jump while in [Camouflage].
 SKILL_20150714_004570	Scan: Confusion
 SKILL_20150714_004571	The enemies that are in the range of [Scan] will fall into Confusion with a certain probability. The probability will increase by 10% per Attribute level.
-SKILL_20150714_004572	Damage dealt on an enemy with [Vendetta] will increase by 1% per Attribute level.
-SKILL_20150714_004573	Damage dealt on an enemy with [Back Steps] will increase by 1% per Attribute level.
-SKILL_20150714_004574	Duration of [Sneak Hit] will increase by 2 secs per Attribute level.
-SKILL_20150714_004575	Burrow: Damage
+SKILL_20150714_004572	$Increases the damage dealt on an enemy with [Vendetta] by 1% per attribute level.
+SKILL_20150714_004573	$Increases the damage dealt on an enemy with [Backstep] by 1% per attribute level.
+SKILL_20150714_004574	$Increases the duration time of [Sneak Hit] by 2 seconds per attribute level.
+SKILL_20150714_004575	$Burrow: Damage
 SKILL_20150714_004576	When enemies are nearby while you are removing [Burrow], you will inflict damage based on Physical ATK rate to those enemies.
-SKILL_20150714_004577	Tear Gas: Range increased
-SKILL_20150714_004578	The range of [Tear Gas] has been increased.
-SKILL_20150714_004579	Damage dealt on an enemy with [Broad Head] will increase by 1% per Attribute level.
-SKILL_20150714_004580	Damage dealt on an enemy with [Bodkin Point] will increase by 1% per Attribute level.
-SKILL_20150714_004581	Damage dealt on an enemy with [Barbed Arrow] will increase by 1% per Attribute level.
-SKILL_20150714_004582	Damage dealt on an enemy with [Cross Fire] will increase by 1% per Attribute level.
-SKILL_20150714_004583	Damage dealt on an enemy with [Magic Arrow] will increase by 1% per Attribute level.
-SKILL_20150714_004584	Damage dealt on an enemy with [Divine Arrow] will increase by 1% per Attribute level.
-SKILL_20150714_004585	Duration of [Bleeding] status of the enemy that is shot by [Broad Head] will increase by 2 secs per Attribute level.
-SKILL_20150714_004586	Bodkin Point: Reduced DEF
+SKILL_20150714_004577	$Tear Gas: Increase Range
+SKILL_20150714_004578	$Increases the range of [Tear Gas].
+SKILL_20150714_004579	$Increases the damage dealt on an enemy with [Broad Head] by 1% per attribute level.
+SKILL_20150714_004580	$Increases the damage dealt on an enemy with [Bodkin Point] by 1% per attribute level.
+SKILL_20150714_004581	$Increases the damage dealt on an enemy with [Barbed Arrow] by 1% per attribute level.
+SKILL_20150714_004582	$Increases the damage dealt on an enemy with [Cross Fire] by 1% per attribute level.
+SKILL_20150714_004583	$Increases the damage dealt on an enemy with [Magic Arrow] by 1% per attribute level.
+SKILL_20150714_004584	$Increases the damage dealt on an enemy with [Divine Arrow] by 1% per attribute level.
+SKILL_20150714_004585	$Increases the time duration of the [Bleeding] status when an enemy is hit by [Broad Head] by 2 seconds per attribute level.
+SKILL_20150714_004586	$Bodkin Point: Defense Decrease
 SKILL_20150714_004587	[Reduced DEF] of [Bodkin Point] will be reduced by 2% per Attribute level.
 SKILL_20150714_004588	The enemies that are shot by [Magic Arrow] will fall into [Silence] with a certain probabillity. The probability will increase by 10% per Attribute level.
 SKILL_20150714_004589	The distance which will maintain [Install Roost] will increase by 20 per Attribute level.
 SKILL_20150714_004590	Call: Obtain
 SKILL_20150714_004591	The Hawk which will return as a result of [Call] would bring Potions or Herbs with 50% probability.
-SKILL_20150714_004592	Hovering: Duration
-SKILL_20150714_004593	Duration of Hovering will increase by 3 secs per Attribute level.
-SKILL_20150714_004594	Hovering: ATK speed increased
-SKILL_20150714_004595	When a Hawk attacks enemies while in [Hovering], it will attack faster.
-SKILL_20150714_004596	Damage dealt on an enemy with [Concentrated Fire] will increase by 1% per Attribute level.
-SKILL_20150714_004597	Damage dealt on an enemy with [Caracole] will increase by 1% per Attribute level.
-SKILL_20150714_004598	Damage dealt on an enemy with [Limacon] will increase by 1% per Attribute level.
-SKILL_20150714_004599	Damage dealt on an enemy with [Retreating Fire] will increase by 1% per Attribute level.
-SKILL_20150714_004600	Gun Mastery: Hit the target
-SKILL_20150714_004601	When equipped with Gun type weapons, hits on target will increase by 30 per Attribute level.
-SKILL_20150714_004602	Damage dealt on an enemy with [Cure] will increase by 1% per Attribute level.
-SKILL_20150714_004603	Damage of [Heal] increases by 1% per Attribute level.
+SKILL_20150714_004592	$Hovering: Duration Time
+SKILL_20150714_004593	$Increases the duration time of [Hovering] by 3 seconds per attribute level.
+SKILL_20150714_004594	Hovering: Attack Speed Buff
+SKILL_20150714_004595	$Your hawk will attack enemies faster while using [Hovering].
+SKILL_20150714_004596	$Increases the damage dealt on an enemy with [Concentrated Fire] by 1% per attribute level.
+SKILL_20150714_004597	$Increases the damage dealt on an enemy with [Caracole] by 1% per attribute level.
+SKILL_20150714_004598	$Increases the damage dealt on an enemy with [Limacon] by 1% per attribute level.
+SKILL_20150714_004599	$Increases the damage dealt on an enemy with [Retreating Fire] by 1% per attribute level.
+SKILL_20150714_004600	$Gun Mastery: Accuracy
+SKILL_20150714_004601	$Increases your accuracy by 30 per attribute level when equipped with a Pistol-type weapon.
+SKILL_20150714_004602	$Increases the damage dealt on an enemy with [Cure] by 1% per attribute level.
+SKILL_20150714_004603	$Increases the damage dealt on an enemy with [Heal] by 1% per attribute level.
 SKILL_20150714_004604	Enemies hit with [Strike] has 2% chance per Attribute level to fall under Stun.
 SKILL_20150714_004605	When using [Heal], you will receive the effect of [Heal] with 2% probability per Attribute level.
 SKILL_20150714_004606	Duration of the magic field of [Deprotected Zone] will increase by 1 sec per Attribute level.
-SKILL_20150714_004607	Safety Zone: Increased Range
+SKILL_20150714_004607	$Safety Zone: Increase Range
 SKILL_20150714_004608	The range that will be applied by [Safety Zone] will be increased.
-SKILL_20150714_004609	Patron Saint: Reduce Damage
-SKILL_20150714_004610	Damage received by a character in [Patron Saint] will be reduced by 5% per Attribute level.
+SKILL_20150714_004609	$Guardian Saint: Damage Decrease
+SKILL_20150714_004610	$Decreases the damage taken when applied with a character's [Saint Guardian] by 5% per attribute level.
 SKILL_20150714_004611	Damage dealt on an enemy with [Zaibas] will increase by 1% per Attribute level.
 SKILL_20150714_004612	Character's Fire resistance will increase by 5 per Attribute level and the resistance to Darkness will decrease by 3 per Attribute level.
 SKILL_20150714_004613	Effective duration of [Daino] will increase by 40 secs per Attribute level.
@@ -4655,13 +4655,13 @@ SKILL_20150714_004654	Damage dealt on an enemy with [Owl Sculpture] will increas
 SKILL_20150714_004655	Carve: The probability of obtaining
 SKILL_20150714_004656	The probability of obtaining ingredients increases 5% per Attribute level for [Carve].
 SKILL_20150714_004657	When equipped with [Mace], you will inflict additional 10% of Physical ATK to plant type monsters per Attribute level.
-SKILL_20150714_004658	Carve Vakarine: Reduce Cooldown time
+SKILL_20150714_004658	$Goddess Vakarine Statue: Cooldown Decrease
 SKILL_20150714_004659	Cooldown time of [Carve Vakarine] will be reduced.
-SKILL_20150714_004660	Raima Goddess: Home Ground
+SKILL_20150714_004660	$Goddess Laima Statue: Home Ground
 SKILL_20150714_004661	Cooldown time of a skill increases for the enemies that are in the range where the effect of [Carve Laima] reaches.
-SKILL_20150714_004662	Damage dealt on an enemy with [Astral Body Explosion] will increase by 1% per Attribute level.
-SKILL_20150714_004663	When in Out of Body status, damage dealt on an enemy will increase by 1% per Attribute level.
-SKILL_20150714_004664	Damage dealt on an enemy with [Possession] will increase by 1% per Attribute level.
+SKILL_20150714_004662	$Increases the damage dealt on an enemy with [Astral Body Explosion] by 1% per attribute level.
+SKILL_20150714_004663	$Increases the damage dealt on an enemy while in the state of Out of Body by 1% per attribute level.
+SKILL_20150714_004664	$Increases the damage dealt on an enemy with [Possession] by 1% per attribute level.
 SKILL_20150714_004665	While [Out of Body] is being activated, the body's evasion will increase by 10% per Attribute level.
 SKILL_20150714_004666	When using [Prakriti], you could recover 5% of Max HP per Attribute level.
 SKILL_20150714_004667	When in Out of Body status, the enemies that got shot by normal attacks will be infliced with [Deprotect] with 5% probability per Attribute level.
@@ -4681,8 +4681,8 @@ SKILL_20150714_004680	$Increases the damage dealt on an enemy with [Inch Punch] 
 SKILL_20150714_004681	$Increases the damage dealt on an enemy with [Energy Blast] by 1% per attribute level.
 SKILL_20150714_004682	$Increases the damage dealt on an enemy with [Finger Flicking] by 1% per attribute level.
 SKILL_20150714_004683	$Adds 20% of the character's physical attack of the reflected damage from [Iron Skin] per attribute level. 
-SKILL_20150714_004684	$Enemies hit by [Palm Strike] will be affected by [Bleeding] for 8 seconds. The duration of [Bleeding] increases by 1 per attribute level.
-SKILL_20150714_004685	$Enemies hit by [Hand KNife] will be affected by [Break Armor] with a certain chance. The chance increases by 5% per attribute level.
+SKILL_20150714_004684	$Enemies hit by [Palm Strike] will be affected by the [Bleeding] status for 8 seconds. The duration of [Bleeding] increases by 1 per attribute level.
+SKILL_20150714_004685	$Enemies hit by [Hand Knife] will be affected by [Break Armor] with a certain chance. The chance increases by 5% per attribute level.
 SKILL_20150714_004686	Golden Bell Shield : Safe Zone
 SKILL_20150714_004687	The arer of around Caster will be Safe Zone while using [Golden Bell Shield].
 SKILL_20150714_004688	$Indulgentia: Enhance
@@ -5026,7 +5026,7 @@ SKILL_20150803_005025	$Lv3 Steady Aim required
 SKILL_20150803_005026	$Lv3 Concentrate required
 SKILL_20150804_005027	$Switch into the Window stance to attack. Increases Critical Rate and Block, but decreases Evasion.
 SKILL_20150804_005028	$Critical Rate + #{CaptionRatio}#%{nl}Block + #{SkillFactor}#%{nl}Evasion - #{CaptionRatio2}# {nl} Duration #{CaptionTime}# sec
-SKILL_20150804_005029	$Your attack is guaranteed to hit, increasing your Critical Rate and Critical Resistance.
+SKILL_20150804_005029	$Your attacks are guaranteed to hit, increasing your Critical Rate and Critical Resistance.
 SKILL_20150804_005030	$Critical Rate + #{CaptionRatio}#%{nl}Critical Resistance + #{CaptionRatio}#%{nl}Duration #{CaptionTime}# sec
 SKILL_20150804_005031	$Attack 300% + #{SkillAtkAdd}#{nl}Attribute Attack #{CaptionRatio}#%{nl}Casting Time #{CaptionTime}# sec{nl}AoE Attack Ratio #{SkillSR}#
 SKILL_20150804_005032	${#DD5500}{ol}[Physical] - [Poison] - [Pierce]{/}{/}{nl}Launches a contagious poisonous arrow. Poison spreads through the target whenever it gets attacked. 
