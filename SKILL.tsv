@@ -1085,116 +1085,116 @@ SKILL_20150317_001084	Attack #{SkillAtkAdd}#{nl}3 Magic Missiles
 SKILL_20150317_001085	Quick Cast
 SKILL_20150317_001086	Cast Time decreased.
 SKILL_20150317_001087	Cast Time - #{CaptionRatio}#% {nl} Duration #{CaptionTime}# seconds
-SKILL_20150317_001088	Fire Ball
-SKILL_20150317_001089	{#993399}{ol}[Magic] - [Fire]{/}{/}{nl} Summons a stationary fireball. You can blow it up by hitting it with a sword attack.
+SKILL_20150317_001088	$Fire Ball
+SKILL_20150317_001089	${#993399}{ol}[Magic] - [Fire]{/}{/}{nl} Summons a stationary fireball. You can take it out by hitting it with a sword attack.
 SKILL_20150317_001090	Attack #{SkillAtkAdd}#{nl}Attack #{SkillSR}# times{nl}Duration #{CaptionTime}# seconds
-SKILL_20150317_001091	Fire Wall
+SKILL_20150317_001091	$Fire Wall
 SKILL_20150317_001092	${#993399}{ol}[Magic] - [Fire]{/}{/}{nl} Creates a flame barrier inflicting damage to nearby enemies.
 SKILL_20150317_001093	Attack #{SkillAtkAdd}#{nl}#{CaptionRatio}# Fire Wall #{nl}Attack #{CaptionRatio2}# times{nl}Duration 15 seconds
-SKILL_20150317_001094	Enchant Fire
+SKILL_20150317_001094	$Enchant Fire
 SKILL_20150317_001095	$Grants Fire property to the target. Additional damage applies to your basic attack.
 SKILL_20150317_001096	Fire Property attack + #{CaptionRatio}#{nl} Additional Damage + #{CaptionRatio2}#{nl}Duration #{CaptionTime}# seconds
-SKILL_20150317_001097	Flare
+SKILL_20150317_001097	$Flare
 SKILL_20150317_001098	${#993399}{ol}[Magic] - [Fire]{/}{/}{nl} Inflicts damage by exploding the enemy affected by a status effect. This excludes both petrified and frozen status effects.
 SKILL_20150317_001099	Attack #{SkillAtkAdd}#
-SKILL_20150317_001100	Fire Pillar
-SKILL_20150317_001101	{#993399}{ol}[Magic] - [Fire]{/}{/}{nl}Summon a fire pillar to damage enemies.
+SKILL_20150317_001100	$Fire Pillar
+SKILL_20150317_001101	${#993399}{ol}[Magic] - [Fire]{/}{/}{nl}Summon a fire pillar to damage a target.
 SKILL_20150317_001102	Attack #{SkillAtkAdd}#{nl}Duration #{CaptionTime}# seconds
-SKILL_20150317_001103	Hell Breath
-SKILL_20150317_001104	{#993399}{ol}[Magic] - [Fire]{/}{/}{nl} Continuously burn enemies with a cone of flame.
+SKILL_20150317_001103	$Hell Breath
+SKILL_20150317_001104	${#993399}{ol}[Magic] - [Fire]{/}{/}{nl} Continuously burn enemies with a cone of flame.
 SKILL_20150317_001105	Attack #{SkillAtkAdd}#{nl}Consume #{CaptionRatio}#% SP per 0.5 seconds
-SKILL_20150317_001106	Ice Bolt
+SKILL_20150317_001106	$Ice Bolt
 SKILL_20150317_001107	${#993399}{ol}[Magic] - [Ice] - [Pierce]{/}{/}{nl} Inflicts damage to a target by launching a bolt of ice and has a chance to freeze the the target.
 SKILL_20150317_001108	Attack #{SkillAtkAdd}#{nl}{#339999}{ol}[Frozen]{/}{/} Duration 3 seconds
-SKILL_20150317_001109	Ice Pike
+SKILL_20150317_001109	$Ice Pike
 SKILL_20150317_001110	${#993399}{ol}[Magic] - [Ice] - [Pierce] {/} {/}} {nl} Inflicts damage to a target by launching a wave of ice and has a chance to freeze the target.
 SKILL_20150317_001111	Attack #{SkillAtkAdd}#{nl}{#339999}{ol}[Frozen]{/}{/} Duration 4 seconds
-SKILL_20150317_001112	Create an Ice Wall that can freeze adjacent enemies.
+SKILL_20150317_001112	$Create a barrier of ice with a chance to freeze enemies.
 SKILL_20150317_001113	Ice Wall #{CaptionRatio}# {nl}{#339999}{ol}[Ice]{/}{/}{nl} Duration 3 seconds {nl} Ice Wall Duration 10 seconds
-SKILL_20150317_001114	Ice Blast
+SKILL_20150317_001114	$Ice Blast
 SKILL_20150317_001115	${#993399}{ol}[Magic] - [Ice]{/}{/}{nl} Inflicts damage by shattering a frozen target.
 SKILL_20150317_001116	{#339999}{ol}[Ice]{/}{/}Target to Attack #{SkillAtkAdd}#
-SKILL_20150317_001117	Create wall of ice that temporarily defends against attacks.
+SKILL_20150317_001117	$Create a wall of ice to temporarily defend yourself against attacks from enemies.
 SKILL_20150317_001118	Enemies attacked {#339999}{ol}[Ice]{/}{/}Rate 50% {nl} {#339999}{ol}[Ice]{/}{/}Duration 3 seconds
-SKILL_20150317_001119	Gust
+SKILL_20150317_001119	$Gust
 SKILL_20150317_001120	$Creates a gust of wind that pushes the target away. Inflicts damage on targets that are frozen or nearby an Ice Wall.
-SKILL_20150317_001121	Frost Pillar
-SKILL_20150317_001122	Summon ice tree and pull targets nearby.
+SKILL_20150317_001121	$Frost Pillar
+SKILL_20150317_001122	$Summon a tree of ice to the ground to pull nearby targets.
 SKILL_20150317_001123	{#339999}{ol}[Ice]{/}{/}probability #{CaptionRatio}#% {nl}Duration #{CaptionTime}# seconds
-SKILL_20150317_001124	Psychic Pressure
-SKILL_20150317_001125	{#993399}{ol}[Magic]{/}{/}{nl}Give continuous damage to targets in front.
+SKILL_20150317_001124	$Psychic Pressure
+SKILL_20150317_001125	{#993399}{ol}[Magic]{/}{/}{nl}Inflicts continuous damage to targets in front of you.
 SKILL_20150317_001126	Attack #{SkillAtkAdd}#{nl}Splash #{CaptionRatio}#{nl}Consume #{CaptionRatio2}#% of SP per second.
-SKILL_20150317_001127	Telekinesis
-SKILL_20150317_001128	{#993399}{ol}[Magic]{/}{/}{nl}Catch target with psychokinesis. {nl}Throw target to desire direction and give damage.
+SKILL_20150317_001127	$Telekinesis
+SKILL_20150317_001128	${#993399}{ol}[Magic]{/}{/}{nl}Captures targets in front of you using psychokinesis.{nl}Inflicts damage by throwing the captured target to a direction using your arrow keys. 
 SKILL_20150317_001129	Attack #{SkillAtkAdd}#{nl}Attack count #{CaptionRatio}# times {nl}Duration #{CaptionTime}# seconds
-SKILL_20150317_001130	Swap
-SKILL_20150317_001131	Change position of target and yourself.
+SKILL_20150317_001130	$Swap
+SKILL_20150317_001131	$Swaps your position with that of the enemy.
 SKILL_20150317_001132	Target #{CaptionRatio}#{nl}Range limit 20 {nl}
-SKILL_20150317_001133	Teleportation
+SKILL_20150317_001133	$Teleportation
 SKILL_20150317_001134	$Teleports you to a random location.
-SKILL_20150317_001135	Max. teleport distance #{CaptionRatio}#
-SKILL_20150317_001136	Magnetic Force
-SKILL_20150317_001137	{#993399}{ol}[Magic]{/}{/}{nl}Enemies are sucked into the targeted area.
-SKILL_20150317_001138	Raise
+SKILL_20150317_001135	$Maximum Teleport Distance #{CaptionRatio}#
+SKILL_20150317_001136	$Magnetic Force
+SKILL_20150317_001137	${#993399}{ol}[Magic]{/}{/}{nl}Inflicts damage by drawing in the target at a specified location. 
+SKILL_20150317_001138	$Raise
 SKILL_20150317_001139	Lift targets into the air.
 SKILL_20150317_001140	Target #{CaptionRatio}#{nl}Duration #{CaptionRatio2}# seconds
-SKILL_20150317_001141	Gravity Pole
+SKILL_20150317_001141	$Gravity Pole
 SKILL_20150317_001142	Create a gravitational field that pulls all nearby enemies.
 SKILL_20150317_001143	Target #{CaptionRatio}#{nl}Max. duration 5 seconds
-SKILL_20150317_001144	Unbind
+SKILL_20150317_001144	$Unbind
 SKILL_20150317_001145	Cut all links.
 SKILL_20150317_001146	Cut all links at once {nl} Level 1 master
-SKILL_20150317_001147	Physical link
+SKILL_20150317_001147	$Physical Link
 SKILL_20150317_001148	Link party members to divide damage taken.
 SKILL_20150317_001149	More links results to less damage{nl} Max. Link #{CaptionRatio}#{nl}Duration #{CaptionTime}# seconds{nl}Consume 16% of Stamina
-SKILL_20150317_001150	Joint Penalty
+SKILL_20150317_001150	$Joint Penalty
 SKILL_20150317_001151	Link enemies together. Damage inflicted on one linked enemy is inflicted upon all linked ones.
 SKILL_20150317_001152	Max. Links #{SkillFactor}#{nl}Duration #{CaptionTime}# seconds
-SKILL_20150317_001153	Hangman's Knot
+SKILL_20150317_001153	$Hangman's Knot
 SKILL_20150317_001154	Groups together all linked enemies.
 SKILL_20150317_001155	Gather time of 0.3 seconds
-SKILL_20150317_001156	Spiritual Chain
+SKILL_20150317_001156	$Spiritual Chain
 SKILL_20150317_001157	Link party members and share buff effects.
-SKILL_20150317_001158	Umbilical Cord
+SKILL_20150317_001158	$Umbilical Cord
 SKILL_20150317_001159	Share defense and HP with the linked target.
 SKILL_20150317_001160	Physical Defense passed #{CaptionRatio}#{nl} HP recovery passed #{CaptionRatio2}#{nl}Duration #{CaptionTime}# seconds
-SKILL_20150317_001161	Swell Left Arm
-SKILL_20150317_001162	Enlarge target's left hand to increase attack.
+SKILL_20150317_001161	$Swell Left Arm
+SKILL_20150317_001162	$Increases your attack by enlarging your left hand.
 SKILL_20150317_001163	Physical Attack +#{CaptionRatio}#{nl}Magic attack #{CaptionRatio}#{nl}Duration #{CaptionTime}# seconds
-SKILL_20150317_001164	Shrink Body
-SKILL_20150317_001165	Reduce size of target.
-SKILL_20150317_001166	Large -> Medium -> Small {nl}Duration #{CaptionTime}# seconds
-SKILL_20150317_001167	Swell Body
-SKILL_20150317_001168	Enlarge size of target.
-SKILL_20150317_001169	Small -> Medium -> Large {nl}Duration #{CaptionTime}# seconds
-SKILL_20150317_001170	Transpose
-SKILL_20150317_001171	Temporarily Swaps INT and CON.
-SKILL_20150317_001172	Reversi
-SKILL_20150317_001173	Gain control of enemy magic circles.
-SKILL_20150317_001174	Change enemy's magic circles to friendly ones in target area. {nl}Level 1 Master
-SKILL_20150317_001175	Swell Right Arm
-SKILL_20150317_001176	Enlarge target's right hand and increase subweapon stats.
-SKILL_20150317_001177	Swell Brain
-SKILL_20150317_001178	Head is enlarged.
-SKILL_20150317_001179	Electrocute
+SKILL_20150317_001164	$Shrink Body
+SKILL_20150317_001165	$Shrinks the size of a target's body.
+SKILL_20150317_001166	Large → Medium → Small {nl}Duration #{CaptionTime}# seconds
+SKILL_20150317_001167	$Swell Body
+SKILL_20150317_001168	$Enlarges the size of a target's body. 
+SKILL_20150317_001169	Small → Medium → Large {nl}Duration #{CaptionTime}# seconds
+SKILL_20150317_001170	$Transpose
+SKILL_20150317_001171	$Temporarily replaces your INT and CON.
+SKILL_20150317_001172	$Reverse
+SKILL_20150317_001173	$Changes the enemy's magic square to a friendly magic square. 
+SKILL_20150317_001174	Changes the enemy's magic square to friendly at a specified location.{nl}Master Level 1
+SKILL_20150317_001175	$Swell Right Arm
+SKILL_20150317_001176	$Increases your attack by enlarging your right hand.
+SKILL_20150317_001177	$Swell Brain
+SKILL_20150317_001178	$Enlarges your head. 
+SKILL_20150317_001179	$Electrocute
 SKILL_20150317_001180	{#993399}{ol}[Magic] - [Lightningity]{/}{/}{nl}Shoot lightning that chains between nearby enemies.
 SKILL_20150317_001181	Attack #{SkillAtkAdd}#{nl}Target #{CaptionRatio}#
-SKILL_20150317_001182	Stone Curse
+SKILL_20150317_001182	$Stone Curse
 SKILL_20150317_001183	Petrify target.
 SKILL_20150317_001184	Duration #{CaptionTime}# seconds{nl}Splash #{CaptionRatio}#
-SKILL_20150317_001185	Hail
+SKILL_20150317_001185	$Hail
 SKILL_20150317_001186	{#993399}{ol}[Magic] - [Ice]{/}{/}{n}Shards of ice fall upon the target area and damage enemies.
-SKILL_20150317_001187	Prominence
+SKILL_20150317_001187	$Prominence
 SKILL_20150317_001188	{#993399}{ol}[Magic] - [Fire]{/}{/}{nl}Swathes of fire appear around you. Fire randomly moves and damage enemies.
 SKILL_20150317_001189	Attack #{SkillAtkAdd}#{nl}Duration 15 seconds
-SKILL_20150317_001190	Meteor
+SKILL_20150317_001190	$Meteor
 SKILL_20150317_001191	{#993399}{ol}[Magic] - [Fire]{/}{/}{nl}Drop a meteor on the target area to damage enemies.
 SKILL_20150317_001192	Attack #{SkillAtkAdd}#{nl}Cast Time #{CaptionTime}# seconds{nl}Splash #{SkillSR}#
-SKILL_20150317_001193	Summoning
+SKILL_20150317_001193	$Summoning
 SKILL_20150317_001194	Summon spirits that follow you.
-SKILL_20150317_001195	Attack Ground
+SKILL_20150317_001195	$Attack Ground
 SKILL_20150317_001196	Summoned being moves to target area and attacks enemies nearby.
-SKILL_20150317_001197	Ride
+SKILL_20150317_001197	$Riding
 SKILL_20150317_001198	Ride on top of summoned spirit.
 SKILL_20150317_001199	Variation
 SKILL_20150317_001200	Quicken
