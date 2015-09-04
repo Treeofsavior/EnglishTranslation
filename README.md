@@ -1,31 +1,10 @@
-##NOTICE (Updated 11-08-2015)
-
-Hello. We are IMCGAMES TOS Team.
-
-First of all, We really appreciate the hard work and the efforts of our contributors.
-We were able to have our 1st English Beta Test of Tree of Savior (the Game) with your help.
-
-A few contributors have made inquiries to us about the copyright ownership of their contributions for the Game so we want to clarify here before we proceed with further pull requests. 
-
-**Please be informed that the copyright of the contributions and the translations that we receive through pull requests belong to IMC Games Co., Ltd as they are derivatives of the Game. If you do not agree with the above statement, you may stop sending us pull requests from this point on.**
-
-For our contributors who've already sent us pull requests before and do not agree with the above statement, please send us your emails at tossupport@imc.co.kr by August 23rd, 2015 and provide us with the detailed information about your previous contributions so that we could delete or remove your contributions or translations from the Game.
-
-If we don't receive any emails from you by August 23rd, we will regard it as you've agreed the above statement.
-
-We will not merge your contributions in the Game until August 23rd.
-
-Once again, we want to emphasize here that everyone at IMCGAMES really appreciates the hard work and the efforts of our contributors.
-
+##NOTICE (Updated 31-08-2015)
 <br>
-
-## Guidelines
-
+**GUIDELINES IN WIKI HAVE BEEN UPDATED** <br>
 **PLEASE CHECK THE [GUIDELINES](https://github.com/Treeofsavior/EnglishTranslation/wiki/Guidelines) BEFORE SENDING YOUR PULL REQUESTS.**
 
-**YOU MAY CHECK THE ISSUES FOR INSTRUCTIONS ON HOW TO ENABLE REAL TIME TRANSLATION**
 
-1. Files have been updated to match the current CBT version. **(NEW)**
+1. Wiki - Map has been updated. (**NEW**)
 
 2. Have you checked out our official Forums? Click [**HERE**](https://forum.treeofsavior.com/) move to the forums for discussion. Please login and click on the github icon to link your github account to it as well.
 
