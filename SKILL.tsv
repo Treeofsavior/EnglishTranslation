@@ -3581,7 +3581,7 @@ SKILL_20150406_003580	xx{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Throw tear g
 SKILL_20150406_003581	xx{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Zombies circle around specified area. Enemies that touch zombies are push away and receives damage.
 SKILL_20150406_003582	xx{#993399}{ol}[Magic]{/}{/}{nl}Explode zombies in specific area and damage target enemies.
 SKILL_20150406_003583	xxAttack #{SkillAtkAdd}#{nl}Summoned zombie required{nl}Max. explosion #{SkillSR}#
-SKILL_20150406_003584	Statue of Goddess Ausrine
+SKILL_20150406_003584	$Goddess Ausrine Statue
 SKILL_20150406_003585	xxAusrine
 SKILL_20150406_003586	xx{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Smack down strongly.
 SKILL_20150406_003587	xx{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Flick enemies attacking nearby and cause damage.
@@ -3603,24 +3603,24 @@ SKILL_20150406_003602	[Pardoner] Make anti-magic
 SKILL_20150414_003603	Shovelling
 SKILL_20150414_003604	Detect metal
 SKILL_20150414_003605	Water spray
-SKILL_20150414_003606	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Pierce and push away enemy with tip of weapon.
-SKILL_20150414_003607	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Make strong attacks on enemy.
-SKILL_20150414_003608	Make new resolutions and increase your attack while decreasing defense.
-SKILL_20150414_003609	Increase your ATK.
+SKILL_20150414_003606	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Use the end of your weapon to push an enemy away with a strong stab.
+SKILL_20150414_003607	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Inflicts damage to an enemy with a powerful attack.
+SKILL_20150414_003608	$Become determined by temporarily increasing your attack, while decreasing your defense.
+SKILL_20150414_003609	$Increase your attack power.
 SKILL_20150414_003610	Reduce your max. HP but enemy has high chance of faint.
 SKILL_20150414_003611	Chance of Enemy Faint #{CaptionRatio}#%{nl}Max. HP -#{CaptionRatio2}# {nl}Duration #{CaptionTime}# seconds
 SKILL_20150414_003612	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Strike enemy with sword handle.{nl}Inflict additional damage on fainted monsters, and partially ignore defense of small and medium sized enemies.
 SKILL_20150414_003613	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use bump of shield to attack. Inflict additional attack on enemies under block.
 SKILL_20150414_003614	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use corner of shield to attack. Inflict additional on frozen enemies.
-SKILL_20150414_003615	Tap the shield to provoke and make enemies follow you.
-SKILL_20150414_003616	Reduce your attack while increasing defense. Cannot be used with Gung Ho.
+SKILL_20150414_003615	$Hit your shield to provoke nearby enemies making them pursue you. 
+SKILL_20150414_003616	$Increases your defense while decreasing your attack. Cannot be used with Gung Ho.
 SKILL_20150414_003617	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Throw shield to attack. Shield dropped on ground may disappear if not picked up within time limit.
 SKILL_20150414_003618	Change to active stance using shield in front. Block and increases while attack and critical decrease.
 SKILL_20150414_003619	Block +#{CaptionRatio}# {nl}Attack -#{CaptionTime}#% {nl}Chance of critical -#{CaptionRatio2}#
 SKILL_20150414_003620	{#DD5500}{ol}[Physical] - [Strike] - [Slash]{/}{/}{nl}Use shield and sword to make continuous attacks.
 SKILL_20150414_003621	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Use weapon to raise and blow away enemy.
 SKILL_20150414_003622	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Smack down enemy's head. Target's INT and SPR temporarily decrease.
-SKILL_20150414_003623	For a defensive stance using weapon. Enemies blocked becomes vulneratble to stab attacks.
+SKILL_20150414_003623	$Use your weapon to take a defensive stance. Blocked enemies become vulnerable to stab attacks.
 SKILL_20150414_003624	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Swing sword around to make continuous attack.
 SKILL_20150414_003625	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Strike and push enemy sidewards using the side of sword. Enemy's shield is destroyed.
 SKILL_20150414_003626	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Repeatedly stab enemy with spear.
@@ -4455,13 +4455,13 @@ SKILL_20150714_004454	xxThe enemy's movement speed will decrease by 10% whose si
 SKILL_20150714_004455	xxThe enemy's movement speed will increase by 5% whose size got smaller by [Shrink Body] and Physical and Magical ATK rate will decrease by 10% per Attribute level.
 SKILL_20150714_004456	xxWhenever the size of an enemy changes by [Swell Body], more damage will be incurred which is 30% of Magical ATK rate per Attribute level.
 SKILL_20150714_004457	xxWhenever the size of an enemy changes by [Shrink Body], more damage will be incurred which is 30% of Magical ATK rate per Attribute level.
-SKILL_20150714_004458	Enhance Left Arm: Specialized in reducing the size
-SKILL_20150714_004459	When you attack an enemy that is in [Shrink Body] status when [Left Arm Enhancement] is activated, 35 more damage will be incurred per Attribute level.
-SKILL_20150714_004460	Left Arm Enhancement: Specialized in amplifying the size
+SKILL_20150714_004458	$Enhance Left Arm: Shrink Size Speciality
+SKILL_20150714_004459	$When you attack an enemy affected by [Shrink Body] while [Enhance Left Arm] is active, you will deal 35 additional damage per attribute level.
+SKILL_20150714_004460	$Enhance Left Arm: Enlarge Size Speciality
 SKILL_20150714_004461	xxWhen you attack an enemy that is in [Swell Body] when [Left Arm Enhancement] is being activated, the weakened ATK rate status will continue. Duration will increase by 8 secs per Attribute level and the weakened ATK rate can be overlapped max 10 times.
-SKILL_20150714_004462	Right Arm Enhancement: Dexterity
+SKILL_20150714_004462	$Right Arm Enhance: Swiftness
 SKILL_20150714_004463	If you are not equipped with a Sub Weapon,
-SKILL_20150714_004464	Transpose: Balance
+SKILL_20150714_004464	$Transpose: Equilibrium
 SKILL_20150714_004465	When using [Transpose], INT and CON will not be changed, but instead their average value will be applied to each of them.
 SKILL_20150714_004466	Reversi: Exclusive for Capture
 SKILL_20150714_004467	When using [Reversi] the floor of allies will be changed to enemies'. It will be activated when the enemies are nearby.
@@ -4469,24 +4469,24 @@ SKILL_20150714_004468	$Increases the damage dealt on an enemy with [Prominence] 
 SKILL_20150714_004469	$Increases the damage dealt on an enemy with [Hail] by 1% per attribute level.
 SKILL_20150714_004470	$Increases the damage dealt on an enemy with [Electrocute] by 1% per attribute level.
 SKILL_20150714_004471	$Increases the damage dealt on an enemy with [Meteor] by 1% per attribute level.
-SKILL_20150714_004472	When using [Electrocute] to the enemies that are in [Freezing], 50% additional damage based on Magic ATK rate will be dealt per Attribute level.
+SKILL_20150714_004472	$Deals additional damage equal to 50% of Magic Attack per attribute level when using [Electrocute] on frozen enemies.
 SKILL_20150714_004473	xxWhenever an enemy gets shot by [Hail], it will fall into [Freezing] with 5% probability per Attribute level.
 SKILL_20150714_004474	xxWhile charging [Meteor], Evasion will increase by 10 per Attribute level.
 SKILL_20150714_004475	xxResistances to Fire, Ice, Lightning Properties will increase by 5 per Attribute level.
 SKILL_20150714_004476	Rain: Monsoon
-SKILL_20150714_004477	With a certain probability, duratino of [Rain] will be doubled. The probability will increase by 5% per Attribute level.
-SKILL_20150714_004478	Damage dealt using [Summon Spiritual Demon] will increase by 1% per Attribute level.
+SKILL_20150714_004477	$Has a chance to double the duration time of [Rain]. Increases the chance by 5% per attribute level.
+SKILL_20150714_004478	$Increases the damage dealt on an enemy with [Summon Spiritual Demon] by 1% per attribute level.
 SKILL_20150714_004479	xxWhen the Spiritual Demon explodes itself from the skill [Summon Spiritual Demon], it will inflict damage on nearby enemies with 1% probability per Attribute level.
-SKILL_20150714_004480	A character's SP recovery rate will increase by 1 per Attribute level.
-SKILL_20150714_004481	Targeted Attack: Reduced Cooldown Time
+SKILL_20150714_004480	$Increases the character's SP recovery rate by 1 per attribute level. 
+SKILL_20150714_004481	$Attack Ground: Cooldown Decrease
 SKILL_20150714_004482	xxCooldown time of [Attack Ground] will be reduced.
-SKILL_20150714_004483	Hold: Reduced Cooldown time
+SKILL_20150714_004483	$Hold: Cooldown Decrease
 SKILL_20150714_004484	xxCooldown time of [Hold] will be reduced.
-SKILL_20150714_004485	Summon Salamion: Ignition
-SKILL_20150714_004486	When an enemy is attacked by Salamion, it will fall into Flame status for 10 secs with a certain probability. The probability will increase by 2% per Attribute level.
-SKILL_20150714_004487	Summon Salamion: Blackening
-SKILL_20150714_004488	When an enemy is attacked by Salamion, it will fall into Darkness status for 10 secs with a certain probability. The probability will increase by 2% per Attribute level.
-SKILL_20150714_004489	Critical ATK occurence will incrase by 5% per Attribute level with [Quicken] and Evasion will decrease by 2% per Attribute level.
+SKILL_20150714_004485	$Summon Salamion: Ignite
+SKILL_20150714_004486	$Has a chance to inflict Flame status for 10 seconds to an enemy when it is attacked by Salamion. Increases the chance by 2% per attribute level.
+SKILL_20150714_004487	$Summon Salamion: Dark
+SKILL_20150714_004488	$Has a chance to inflict Dark status for 10 seconds to an enemy when it is attacked by Salamion. Increases the chance by 2% per attribute level.
+SKILL_20150714_004489	$Increases the Critical Rate effect from [Quicken] by 5% and decreases Evasion by 2% per attribute level.
 SKILL_20150714_004490	When an enemy inflicted with [Reincarnate] dies and reborn, two enemies will appear with 1% probability per Attribute level.
 SKILL_20150714_004491	xxAfter using [Back Masking], the enemies that will be pulled by Aggressive will fall into [Chaos] for 2 secs per Attribute level.
 SKILL_20150714_004492	$Increases the damage dealt on an enemy with [Gather Corpse] by 1% per attribute level.
