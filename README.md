@@ -1,14 +1,10 @@
-##NOTICE (Updated 08-08-2015)
-
+##NOTICE (Updated 31-08-2015)
+<br>
+**GUIDELINES IN WIKI HAVE BEEN UPDATED** <br>
 **PLEASE CHECK THE [GUIDELINES](https://github.com/Treeofsavior/EnglishTranslation/wiki/Guidelines) BEFORE SENDING YOUR PULL REQUESTS.**
 
-**DURING CBT, PLEASE SEND YOUR PULL REQUESTS ONLY FOR THOSE EDITED USING REAL TIME TRANSLATION, RATHER THAN SIMPLY READING IT OFF THE FILES**
 
-**YOU MAY CHECK THE ISSUES FOR INSTRUCTIONS ON HOW TO ENABLE REAL TIME TRANSLATION**
-
-<br>
-
-1. Files have been updated to match the current CBT version. **(NEW)**
+1. Wiki - Map has been updated. (**NEW**)
 
 2. Have you checked out our official Forums? Click [**HERE**](https://forum.treeofsavior.com/) move to the forums for discussion. Please login and click on the github icon to link your github account to it as well.
 
@@ -61,5 +57,7 @@ You can still contribute by editing translation errors :)
 <img src="http://blog.treeofsavior.com/en/wp-content/uploads/sites/4/2015/03/screenshot_20150319_00014-1024x578.jpg"/>
 
 
+## Intellectual Property Rights Ownership
+Please be aware that the Intellectual Property Rights of the following, including, but not limited to, belong to IMC Games Co., Ltd: The names of any characters, NPCs, places, scenes, things, events, short phrases, short sayings and the likes that are set forth in Tree of Savior, as well as any translations or contributions from our contributors.
 
-
+                                  ⓒ IMCGAMES CO., LTD. All Rights Reserved.
