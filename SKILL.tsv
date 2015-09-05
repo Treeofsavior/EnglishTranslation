@@ -2289,7 +2289,7 @@ SKILL_20150317_002288	$Divine Stigma: Intelligence
 SKILL_20150317_002289	$Increases INT, but not STR when using [Divine Stigma] by 20% per level.
 SKILL_20150317_002290	$Zaibas: Splash
 SKILL_20150317_002291	xx[Zaibas] is affected by splash and inflicts damage on multiple targets at once. (total count does not change)
-SKILL_20150317_002292	$Daino: Duration Time
+SKILL_20150317_002292	$Daino: Duration
 SKILL_20150317_002293	xxDuration of [Daino] increases by 40 seconds per attribute level.
 SKILL_20150317_002294	$Hexing: Splash
 SKILL_20150317_002295	$Increases splash from [Hexing] by 1 per level.
@@ -2472,8 +2472,8 @@ SKILL_20150317_002471	xxIron Skin: Additional damage
 SKILL_20150317_002472	xxReflected damage of [Iron Skin] increases by 10% of your Physical damage per attribute level.
 SKILL_20150317_002473	Energy Blast: Rotate direction
 SKILL_20150317_002474	Can turn directions while using [Energy Blast] (Impossible if shooting starts)
-SKILL_20150317_002475	Ballista: Duration Time
-SKILL_20150317_002476	$Increases the duration time of [Ballista] by 2 seconds per attribute level. 
+SKILL_20150317_002475	Ballista: Duration
+SKILL_20150317_002476	$Increases the duration of [Ballista] by 2 seconds per attribute level. 
 SKILL_20150317_002477	$Bash: Enhance
 SKILL_20150317_002478	xx$Increases the damage of [Bash] per attribute level.
 SKILL_20150317_002479	$Thrust: Enhance
@@ -3821,17 +3821,17 @@ SKILL_20150414_003820	Hovering
 SKILL_20150414_003821	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Float on target area and attack enemy passing below.
 SKILL_20150414_003822	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Throw practice hawk doll and attack that area.
 SKILL_20150414_003823	xxHand and Shoot
-SKILL_20150414_003824	Hang on the hawk. You do not receive damage while hanging and can make normal attacks on enemies.
-SKILL_20150414_003825	${#993399}{ol}[Magic] - [Holy]{/}{/}{nl}Creates a magic square that recovers HP or to inflict damage to enemies. This does not apply to airborne enemies.
-SKILL_20150414_003826	${#993399}{ol}[Magic] - [Holy]{/}{/}{nl}Creates a magic square that removes a Lv1 abnormal status from allies or to inflict damage to enemies. This does not apply to airborne enemies.
-SKILL_20150414_003827	$Creates a magic square that continues to decrease the defense of enemies. 
-SKILL_20150414_003828	$Creates a magic square that increases the skill level of allies for 1 time.
+SKILL_20150414_003824	Hang on the hawk. You do not receive damage while hanging and can make normal attacks to enemies.
+SKILL_20150414_003825	${#993399}{ol}[Magic] - [Holy]{/}{/}{nl}Creates a magic circle that recovers HP or inflicts damage to enemies. This does not apply to airborne enemies.
+SKILL_20150414_003826	${#993399}{ol}[Magic] - [Holy]{/}{/}{nl}Creates a magic circle that removes a Lv1 abnormal status from allies or inflicts damage to enemies. This does not apply to airborne enemies.
+SKILL_20150414_003827	$Creates a magic circle that decreases the defense of enemies over time. 
+SKILL_20150414_003828	$Creates a magic circle that increases the skill level of allies for 1 time.
 SKILL_20150414_003829	$Summon a holy torch to improve the HP recovery rate of nearby allies.
-SKILL_20150414_003830	$Creates a magic square that improves the Critical of allies or to worsen an enemy's Critical.
+SKILL_20150414_003830	$Creates a magic circle that improves the Critical of allies or to worsen an enemy's Critical.
 SKILL_20150414_003831	$Increases the number of beneficial effects that you and your party members can receive.
 SKILL_20150414_003832	${#993399}{ol}[Magic] - [Lightning]{/}{/}{nl}Creates a magic circle that releases bolts of lightning using the power of the god of Thunder that strike down an enemy.
 SKILL_20150414_003833	$Engraves a stigma on an enemy. Increases you and your party member's STR and INT when the engraved enemy has been defeated.
-SKILL_20150414_003834	$Creates a magic square that helps you to maintain beneficial effects of you and your party members.
+SKILL_20150414_003834	$Creates a magic circle that helps you to maintain the beneficial effects of you and your party members.
 SKILL_20150414_003835	${#993399}{ol}[Magic] - [Holy]{/}{/}{nl}Sprinkle holy water to increase the defense of you and your allies as well as inflict damage to enemies.
 SKILL_20150414_003836	xxCreate magic circle where ally's DEX increase and enemy's ecasion and Physical defense decrease.
 SKILL_20150414_003837	xxGive blessings that grant additional damage on attacks of party members.
@@ -4290,7 +4290,7 @@ SKILL_20150714_004289	$Double Slash: Critical Chance Increase
 SKILL_20150714_004290	$Increases the Critical Chance of [Double Slash] by 5% per attribute level.
 SKILL_20150714_004291	$Restrain: Slow
 SKILL_20150714_004292	$Due to the effects of [Restrain], stunned enemies becomes slowed after the stun is removed. Increases Slow by 3 seconds per attribute level. 
-SKILL_20150714_004293	$Increases the duration time of stun from [Restrain] by 1 second per attribute level. 
+SKILL_20150714_004293	$Increases the duration of stun from [Restrain] by 1 second per attribute level. 
 SKILL_20150714_004294	$Increases the damage dealt on an enemy with [Rim Blow] by 1% per attribute level.
 SKILL_20150714_004295	$Increases the damage dealt on an enemy with [Umbo Blow] by 1% per attribute level.
 SKILL_20150714_004296	$Increases the damage dealt on an enemy with [Shield Lob] by 1% per attribute level.
@@ -4320,7 +4320,7 @@ SKILL_20150714_004319	$When equipped with [Two-Handed Sword], Critical ATK rate 
 SKILL_20150714_004320	$Increases the Critical Chance of [Moulinet] by 10% per attribute level.
 SKILL_20150714_004321	The duration of time that will stiffen the enemy that is blocked by [Crossguard] will be increased. It will increase by 1 sec per Attribute level.
 SKILL_20150714_004322	xx$Knockbacked enemies by [Cartar Stroke] will take additional damage equal to 50% of your Physical Attack per level.
-SKILL_20150714_004323	xx$Enemies hit by [Skull Swing] become unable to jump. Increases the duration time by 3 seconds per attribute level.
+SKILL_20150714_004323	xx$Enemies hit by [Skull Swing] become unable to jump. Increases the duration by 3 seconds per attribute level.
 SKILL_20150714_004324	$Increases the damage dealt on an enemy with [Stabbing] by 1% per attribute level.
 SKILL_20150714_004325	$Increases the damage dealt on an enemy with [Synchro Thrusting] by 1% per attribute level.
 SKILL_20150714_004326	$Increases the damage dealt on an enemy with [Pierce] by 1% per attribute level.
@@ -4336,7 +4336,7 @@ SKILL_20150714_004335	$Enemies hit by [Throwing Spear] have a chance to be infli
 SKILL_20150714_004336	$Increases the damage dealt on an enemy with [Embowel] by 1% per attribute level.
 SKILL_20150714_004337	$Increases the damage dealt on an enemy with [Stomping Kick] by 1% per attribute level.
 SKILL_20150714_004338	$Increases the amount of enemies losing defense from [Warcry] by 1 per attribute level. 
-SKILL_20150714_004339	$Increases the duration time of [Warcry] by 2 seconds per attribute level. 
+SKILL_20150714_004339	$Increases the duration of [Warcry] by 2 seconds per attribute level. 
 SKILL_20150714_004340	$Increases the Critical Chance of [Savagery] by 5% per attribute level.
 SKILL_20150714_004341	$Frenzy: Maintain Stacks
 SKILL_20150714_004342	$Maintains the stacks from [Frenzy] when switching to another target, but the maximum amount of stacks will be reduced by half.
@@ -4349,13 +4349,13 @@ SKILL_20150714_004348	$Increases the damage dealt on an enemy with [Montano] by 
 SKILL_20150714_004349	$Increases the damage dealt on an enemy with [Targe Smash] by 1% per attribute level.
 SKILL_20150714_004350	$Increases the damage dealt on an enemy with [Shield Push] by 1% per attribute level.
 SKILL_20150714_004351	$Adds 20% additional damage per attribute level when attacking frozen and petrified enemies with [Targe Smash]. 
-SKILL_20150714_004352	xx$Inflicts the target with [Slow] for 10 seconds with [Montano]. The duration time of [Slow] increases by 3 secs/2 secs/1 sec on small/medium/big-sized monsters respectively per attribute level.
+SKILL_20150714_004352	xx$Inflicts the target with [Slow] for 10 seconds with [Montano]. The duration of [Slow] increases by 3 secs/2 secs/1 sec on small/medium/big-sized monsters respectively per attribute level.
 SKILL_20150714_004353	$Shooting Star: Enhance
 SKILL_20150714_004354	$Increases the damage dealt on an enemy with [Shooting Star] by 1% per attribute level.
 SKILL_20150714_004355	$Slithering: Enhance
 SKILL_20150714_004356	$Increases the damage dealt on an enemy with [Slithering] by 1% per attribute level.
-SKILL_20150714_004357	$Shield Push: Duration Time
-SKILL_20150714_004358	$Increases the duration time of the Unbalanced status applied from [Shield Push] by 1 second per attribute level.
+SKILL_20150714_004357	$Shield Push: Duration
+SKILL_20150714_004358	$Increases the duration of the Unbalanced status applied from [Shield Push] by 1 second per attribute level.
 SKILL_20150714_004359	$Increases the damage dealt on an enemy with [Impaler] by 1% per attribute level.
 SKILL_20150714_004360	$Increases the damage dealt on an enemy with [Earth Wave] by 1% per attribute level.
 SKILL_20150714_004361	$Increases the damage dealt on an enemy with [Steed Charge] by 1% per attribute level.
@@ -4367,10 +4367,10 @@ SKILL_20150714_004366	$Steed Charge: Critical
 SKILL_20150714_004367	$Critical will be applied from [Steed Charge] to enemies affected by Slow. 
 SKILL_20150714_004368	$Increases the count of [Weapon Maintenance] by 1 per attribute level.
 SKILL_20150714_004369	$Increases the count of [Armor Maintenance] by 1 per attribute level.
-SKILL_20150714_004370	$Increases the duration time of salad from [Food Table] by 1 minute per attribute level.
-SKILL_20150714_004371	$Increases the duration time of sandwich from [Food Table] by 1 minute per attribute level.
-SKILL_20150714_004372	$Increases the duration time of soup from [Food Table] by 1 minute per attribute level.
-SKILL_20150714_004373	$Increases the duration time of yogurt from [Food Table] by 1 minute per attribute level.
+SKILL_20150714_004370	$Increases the duration of salad from [Food Table] by 1 minute per attribute level.
+SKILL_20150714_004371	$Increases the duration of sandwich from [Food Table] by 1 minute per attribute level.
+SKILL_20150714_004372	$Increases the duration of soup from [Food Table] by 1 minute per attribute level.
+SKILL_20150714_004373	$Increases the duration of yogurt from [Food Table] by 1 minute per attribute level.
 SKILL_20150714_004374	$Arrest: Weaken Defense
 SKILL_20150714_004375	$Decreases the physical defense of an enemy in [Arrest] by 10% per attribute level.
 SKILL_20150714_004376	$Repair: Service
@@ -4379,10 +4379,10 @@ SKILL_20150714_004378	$Increases the damage dealt on an enemy with [Keel Hauling
 SKILL_20150714_004379	xx$Enemies hit by [Keel Hauling] will be affected by the [Bleeding] status for 5 seconds. The duration of [Bleeding] increases by 1 per attribute level.
 SKILL_20150714_004380	$Iron Hook: Chain
 SKILL_20150714_004381	$Sequentially throw up to 3 enemies with [Iron Hook]. You cannot use [Keel Hauling] while capturing multiple enemies. 
-SKILL_20150714_004382	$Pillaging: Duration Time
-SKILL_20150714_004383	$Increases the duration time of [Pillaging] by 1 second per attribute level.
+SKILL_20150714_004382	$Pillaging: Duration
+SKILL_20150714_004383	$Increases the duration of [Pillaging] by 1 second per attribute level.
 SKILL_20150714_004384	xx$Phalanx: Slow
-SKILL_20150714_004385	xx$An enemy will be affected by Slow when an attack is blocked during [Phalanx]. Increases the duration time of Slow by 4 seconds per attribute level.
+SKILL_20150714_004385	xx$An enemy will be affected by Slow when an attack is blocked during [Phalanx]. Increases the duration of Slow by 4 seconds per attribute level.
 SKILL_20150714_004386	$Tercio: Change Formation
 SKILL_20150714_004387	Changing the shape of [Tercio] position. The locations of the number 4 and the number 6 will move away from the center.
 SKILL_20150714_004388	Crane Wing: Change Formation
@@ -4402,7 +4402,7 @@ SKILL_20150714_004401	Damage of [Earthquake] will increase by 1% per Attribute l
 SKILL_20150714_004402	Damage of [Magic Missile] will increase by 1% per Attribute level.
 SKILL_20150714_004403	While [Quick Cast] is being activated, the next Magical damage will increase by 10%.
 SKILL_20150714_004404	$Sleep: Duration
-SKILL_20150714_004405	$Increases the duration time of [Sleep] by 1 second per attribute level.
+SKILL_20150714_004405	$Increases the duration of [Sleep] by 1 second per attribute level.
 SKILL_20150714_004406	$Increases the damage dealt on an enemy with [Fireball] by 1% per attribute level.
 SKILL_20150714_004407	$Increases the damage dealt on an enemy with [Fire Wall] by 1% per attribute level.
 SKILL_20150714_004408	$Increases the damage dealt on an enemy with [Flare] by 1% per attribute level.
@@ -4443,7 +4443,7 @@ SKILL_20150714_004442	$Hangman's Knot: Additional Damage
 SKILL_20150714_004443	xx$Enemies hit by [Hangman's Knot] will receive additional damage equal to 20% of the character's Magic Attack per attribute level.
 SKILL_20150714_004444	$Umbilical Cord: Remaining Defense
 SKILL_20150714_004445	$10% of the physical defense remains per attribute level when using [Umbilical Cord].
-SKILL_20150714_004446	$Increases the duration time of [Spiritual Chain] by 1 second per attribute level.
+SKILL_20150714_004446	$Increases the duration of [Spiritual Chain] by 1 second per attribute level.
 SKILL_20150714_004447	The enemies that will be disconnected by [Unbind] will receive damage. ATK rate will increase by 10% of Magic ATK rate per Attribute level.
 SKILL_20150714_004448	$Joint Penalty: Electricity
 SKILL_20150714_004449	The enemies that received [Joint Penalty] will receive 10% additional damage per Attribute level for Lightning attack.
@@ -4474,7 +4474,7 @@ SKILL_20150714_004473	xxWhenever an enemy gets shot by [Hail], it will fall into
 SKILL_20150714_004474	xxWhile charging [Meteor], Evasion will increase by 10 per Attribute level.
 SKILL_20150714_004475	xxResistances to Fire, Ice, Lightning Properties will increase by 5 per Attribute level.
 SKILL_20150714_004476	Rain: Monsoon
-SKILL_20150714_004477	$Has a chance to double the duration time of [Rain]. Increases the chance by 5% per attribute level.
+SKILL_20150714_004477	$Has a chance to double the duration of [Rain]. Increases the chance by 5% per attribute level.
 SKILL_20150714_004478	$Increases the damage dealt on an enemy with [Summon Spiritual Demon] by 1% per attribute level.
 SKILL_20150714_004479	xxWhen the Spiritual Demon explodes itself from the skill [Summon Spiritual Demon], it will inflict damage on nearby enemies with 1% probability per Attribute level.
 SKILL_20150714_004480	$Increases the character's SP recovery rate by 1 per attribute level. 
@@ -4530,7 +4530,7 @@ SKILL_20150714_004529	$Increases the damage dealt on an enemy with [Scatter Calt
 SKILL_20150714_004530	$Increases the damage dealt on an enemy with [Stone Shot] by 1% per attribute level.
 SKILL_20150714_004531	$Increases the damage dealt on an enemy with [Rapid Fire] by 1% per attribute level.
 SKILL_20150714_004532	$Increases the damage dealt on an enemy with [Tear Down] by 1% per attribute level.
-SKILL_20150714_004533	$Increases the duration time of [Scatter Caltrop] by 1 second per attribute level.
+SKILL_20150714_004533	$Increases the duration of [Scatter Caltrop] by 1 second per attribute level.
 SKILL_20150714_004534	When stepped on [Scatter Caltrops], the target will fall into [Bleeding] with 8% probability per Attribute level.
 SKILL_20150714_004535	Tear Down: Tear down the sculpture
 SKILL_20150714_004536	[Tear Down] enables you to tear down the fragments of Divine Tree.
@@ -4571,7 +4571,7 @@ SKILL_20150714_004570	Scan: Confusion
 SKILL_20150714_004571	xxThe enemies that are in the range of [Scan] will fall into Confusion with a certain probability. The probability will increase by 10% per Attribute level.
 SKILL_20150714_004572	$Increases the damage dealt on an enemy with [Vendetta] by 1% per attribute level.
 SKILL_20150714_004573	$Increases the damage dealt on an enemy with [Backstep] by 1% per attribute level.
-SKILL_20150714_004574	$Increases the duration time of [Sneak Hit] by 2 seconds per attribute level.
+SKILL_20150714_004574	$Increases the duration of [Sneak Hit] by 2 seconds per attribute level.
 SKILL_20150714_004575	$Burrow: Damage
 SKILL_20150714_004576	When enemies are nearby while you are removing [Burrow], you will inflict damage based on Physical ATK rate to those enemies.
 SKILL_20150714_004577	$Tear Gas: Increase Range
@@ -4589,8 +4589,8 @@ SKILL_20150714_004588	xxThe enemies that are shot by [Magic Arrow] will fall int
 SKILL_20150714_004589	The distance which will maintain [Install Roost] will increase by 20 per Attribute level.
 SKILL_20150714_004590	Call: Obtain
 SKILL_20150714_004591	The Hawk which will return as a result of [Call] would bring Potions or Herbs with 50% probability.
-SKILL_20150714_004592	$Hovering: Duration Time
-SKILL_20150714_004593	$Increases the duration time of [Hovering] by 3 seconds per attribute level.
+SKILL_20150714_004592	$Hovering: Duration
+SKILL_20150714_004593	$Increases the duration of [Hovering] by 3 seconds per attribute level.
 SKILL_20150714_004594	Hovering: Attack Speed Buff
 SKILL_20150714_004595	$Your hawk will attack enemies faster while using [Hovering].
 SKILL_20150714_004596	$Increases the damage dealt on an enemy with [Concentrated Fire] by 1% per attribute level.
