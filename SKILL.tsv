@@ -1429,7 +1429,7 @@ SKILL_20150317_001428	Cure
 SKILL_20150317_001429	xx{#993399}{ol}[Magic] - [Divine]{/}{/}{nl} Create a magic tile that removes harmful effects from allies and damages enemies that walk on it.
 SKILL_20150317_001430	xxAttack #{SkillAtkAdd}#{nl}Attack count #{CaptionRatio}# times {nl}Magic circle Duration #{CaptionTime}# seconds
 SKILL_20150317_001431	Safety Zone
-SKILL_20150317_001432	Creates a magic tile that blocks incoming attacks.
+SKILL_20150317_001432	$Creates a magic square that blocks incoming attacks.
 SKILL_20150317_001433	Defense #{SkillFactor}# times{nl} Magic circle duration 20 seconds
 SKILL_20150317_001434	Deprotected Zone
 SKILL_20150317_001435	xxCreate magic circle that continuously decrease the defense of target.
@@ -1707,7 +1707,7 @@ SKILL_20150317_001706	Effect of Flu Flu
 SKILL_20150317_001707	Fear occurrence
 SKILL_20150317_001708	Oil stains
 SKILL_20150317_001709	You'll be in big trouble if attacked with Fire Property attacks.
-SKILL_20150317_001710	Movement speed is increased,
+SKILL_20150317_001710	$Increased movement speed,
 SKILL_20150317_001711	Holy Aura
 SKILL_20150317_001712	xxSpread newly received buffs to allies
 SKILL_20150317_001713	Fog
@@ -1716,10 +1716,10 @@ SKILL_20150317_001715	Hide in Box
 SKILL_20150317_001716	Hiding in the box.
 SKILL_20150317_001717	Bleeding.
 SKILL_20150317_001718	Parrying
-SKILL_20150317_001719	Movement speed is reduced.
+SKILL_20150317_001719	$Reduced movement speed.
 SKILL_20150317_001720	STR and INT increased when killing enemy in this state
-SKILL_20150317_001721	Attack will increase.
-SKILL_20150317_001722	Defense increases.
+SKILL_20150317_001721	$Increased attack. 
+SKILL_20150317_001722	$Increased defense.
 SKILL_20150317_001723	Great Bear camp
 SKILL_20150317_001724	Provoke
 SKILL_20150317_001725	xxDuring each attack, their threat level will increase.
@@ -2247,11 +2247,11 @@ SKILL_20150317_002246	Multi Shot : Critical Chance
 SKILL_20150317_002247	xxCritical probability of skill [multi-shot] is increased by 1% per Attribute level.
 SKILL_20150317_002248	xxFulldraw : Knockback Distance
 SKILL_20150317_002249	The pushing force of the skill [Fulldraw] is increased by 50.
-SKILL_20150317_002250	Fulldraw : Charging Speed
+SKILL_20150317_002250	$Fulldraw: Charging Speed
 SKILL_20150317_002251	The charging speed of [Fulldraw] skill will be decreased by 0.5 sec per level.
-SKILL_20150317_002252	Kneeling Shot : Critical Chance
+SKILL_20150317_002252	$Kneeling Shot: Critical Chance
 SKILL_20150317_002253	xxCritical chance increases by 2% per attribute level while in [Kneeling Shot].
-SKILL_20150317_002254	Cure : Make Damage
+SKILL_20150317_002254	Cure: Make Damage
 SKILL_20150317_002255	Magic circle period of [Cure] decreases by 0.2 seconds.
 SKILL_20150317_002256	Divine
 SKILL_20150317_002257	[Heal] 1 only sacred attack for each level of 5 seconds when I stepped on the skills to ally increases
@@ -2269,34 +2269,34 @@ SKILL_20150317_002268	Monstrance: Follow enenmy
 SKILL_20150317_002269	Magic circle of [Monstrance] follows nearby monsters.
 SKILL_20150317_002270	xxMonstrance: Evasion Defense
 SKILL_20150317_002271	xxWhen allies are within [Monstrance] magic circle, evasion and Physical defense of target increase by 2% per attribute level.
-SKILL_20150317_002272	Blessing: Number of attacks
+SKILL_20150317_002272	$Blessing: Number of Attacks
 SKILL_20150317_002273	xxNumber of attacks of [Blessing] increases by 1 per level.
-SKILL_20150317_002274	Blessing: Additional buff
+SKILL_20150317_002274	$Blessing: Additional Buff
 SKILL_20150317_002275	xxNumber of targets of [Blessing] increases by 1 per Attribute level.
 SKILL_20150317_002276	xxSacrament: Dark Property resistance
 SKILL_20150317_002277	xxDark Resistance increases by 5 per attribute levvel while [Sacrament] is activated.
-SKILL_20150317_002278	Resurrection: HP recovery
+SKILL_20150317_002278	$Resurrection: HP Recovery
 SKILL_20150317_002279	A Character revived by[Resurrection] will recover 10% of max. HP per attribute level.
 SKILL_20150317_002280	Resurrection: Resurrection count
 SKILL_20150317_002281	xxNumber of targets revived by [Resurrection] increases by 1 per Attribute level.
-SKILL_20150317_002282	Blunt Mastery: Stun
+SKILL_20150317_002282	$Blunt Mastery: Stun
 SKILL_20150317_002283	xxEnemies attacked with [Strike] type basic attacks have a 2% chance per Attribute level of being Stunned.
-SKILL_20150317_002284	Krivis: Fire attribute resistance
+SKILL_20150317_002284	$Krivis: Fire Property Resistance
 SKILL_20150317_002285	xxCharacter's Fire Resistance increases by 5 per attribute level while Dark Resistance decreases by 3 per attribute level.
-SKILL_20150317_002286	Zalciai: Intelligence
+SKILL_20150317_002286	$Zalciai: Intelligence
 SKILL_20150317_002287	Effect of [Zalciai] to clerics is changed from STR to INT.
-SKILL_20150317_002288	Divine Stigma: intelligence
-SKILL_20150317_002289	Strength increases by 20% per attribute level while Intelligence decreases by 20% per level when using [Divine Stigma].
-SKILL_20150317_002290	Zaibas: Splash
+SKILL_20150317_002288	$Divine Stigma: Intelligence
+SKILL_20150317_002289	$Increases INT, but not STR when using [Divine Stigma] by 20% per level.
+SKILL_20150317_002290	$Zaibas: Splash
 SKILL_20150317_002291	xx[Zaibas] is affected by splash and inflicts damage on multiple targets at once. (total count does not change)
-SKILL_20150317_002292	Daino: duration
+SKILL_20150317_002292	$Daino: Duration Time
 SKILL_20150317_002293	xxDuration of [Daino] increases by 40 seconds per attribute level.
-SKILL_20150317_002294	Hexing: Splash
-SKILL_20150317_002295	Splash is increased by 1 per attribute level in [Hexing].
-SKILL_20150317_002296	Effigy: Blind
+SKILL_20150317_002294	$Hexing: Splash
+SKILL_20150317_002295	$Increases splash from [Hexing] by 1 per level.
+SKILL_20150317_002296	$Effigy: Blind
 SKILL_20150317_002297	xxEnemies attacked with [Effigy] fall under [Blind] state at a 5% chance per Attribute level.
-SKILL_20150317_002298	Ogounveve: Decrease Strength
-SKILL_20150317_002299	xxStrength of enemies within [Ogounveve] decreases by 2 per attribute level.
+SKILL_20150317_002298	$Ogouveve: Decrease Strength
+SKILL_20150317_002299	xxStrength of enemies within [Ogouveve] decreases by 2 per attribute level.
 SKILL_20150317_002300	Damballa: Probability of zombie appearance
 SKILL_20150317_002301	xxChance of new zombie appearing increase by 2% per attribute level when using [Damballa].
 SKILL_20150317_002302	xxBwa Kayiman: zombie defense
@@ -3822,21 +3822,21 @@ SKILL_20150414_003821	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Float on targe
 SKILL_20150414_003822	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Throw practice hawk doll and attack that area.
 SKILL_20150414_003823	xxHand and Shoot
 SKILL_20150414_003824	Hang on the hawk. You do not receive damage while hanging and can make normal attacks on enemies.
-SKILL_20150414_003825	{#993399}{ol}[Magic] - [Holy]{/}{/}{nl}Create magic circle that recovers HP or attacks enemy. Does not apply to enemies in air.
-SKILL_20150414_003826	{#993399}{ol}[Magic] - [Holy]{/}{/}{nl}Create magic circle that heals level 1 abnormal state of allies or inflict damage on enemy. Not applied to enemies in air.
-SKILL_20150414_003827	Create magic circle that continuously decerase defense of enemy.
-SKILL_20150414_003828	Create magic circle that increases skill level once.
-SKILL_20150414_003829	Summon holy torch to increase HP recovery of nearby allies.
-SKILL_20150414_003830	Create magic circle that increase ally's critical or decrease enemy's critical.
-SKILL_20150414_003831	Increase number of beneficial buff that the party members can receive.
-SKILL_20150414_003832	{#993399}{ol}[Magic] - [Lightning]{/}{/}{nl}Use fhe powerer Thurderer for magic circle that drop lightning on the enemy.
-SKILL_20150414_003833	Make a mark on the enemy. Strength and Intelligence increase when you or your party members kill the marked enemy.
-SKILL_20150414_003834	Create magic circle that help keep beneficial buff of you and your party.
-SKILL_20150414_003835	{#993399}{ol}[Magic] - [Holy]{/}{/}{nl}Spray holy water to increase defense of allies and inflict damage to enemies.
+SKILL_20150414_003825	${#993399}{ol}[Magic] - [Holy]{/}{/}{nl}Creates a magic square that recovers HP or to inflict damage to enemies. This does not apply to airborne enemies.
+SKILL_20150414_003826	${#993399}{ol}[Magic] - [Holy]{/}{/}{nl}Creates a magic square that removes a Lv1 abnormal status from allies or to inflict damage to enemies. This does not apply to airborne enemies.
+SKILL_20150414_003827	$Creates a magic square that continues to decrease the defense of enemies. 
+SKILL_20150414_003828	$Creates a magic square that increases the skill level of allies for 1 time.
+SKILL_20150414_003829	$Summon a holy torch to improve the HP recovery rate of nearby allies.
+SKILL_20150414_003830	$Creates a magic square that improves the Critical of allies or to worsen an enemy's Critical.
+SKILL_20150414_003831	$Increases the number of beneficial effects that you and your party members can receive.
+SKILL_20150414_003832	${#993399}{ol}[Magic] - [Lightning]{/}{/}{nl}Creates a magic circle that releases bolts of lightning using the power of the god of Thunder that strike down an enemy.
+SKILL_20150414_003833	$Engraves a stigma on an enemy. Increases you and your party member's STR and INT when the engraved enemy has been defeated.
+SKILL_20150414_003834	$Creates a magic square that helps you to maintain beneficial effects of you and your party members.
+SKILL_20150414_003835	${#993399}{ol}[Magic] - [Holy]{/}{/}{nl}Sprinkle holy water to increase the defense of you and your allies as well as inflict damage to enemies.
 SKILL_20150414_003836	xxCreate magic circle where ally's DEX increase and enemy's ecasion and Physical defense decrease.
 SKILL_20150414_003837	xxGive blessings that grant additional damage on attacks of party members.
-SKILL_20150414_003838	Heal target under 'Incapable of combat' status.
-SKILL_20150414_003839	Temporarily grant Holy attribute on you and your party's attacks.
+SKILL_20150414_003838	$Resurrects a target in the state of Incapable of Combat.
+SKILL_20150414_003839	$Temporarily grants the Holy property on you and your party member's attacks.
 SKILL_20150414_003840	{#993399}{ol}[Magic] - [Holy]{/}{/}{nl}Create exorcism circle that attacks enemies stepping it then give continuous damage.
 SKILL_20150414_003841	Curse enemy to decrease its magic defense and prevent recovery.
 SKILL_20150414_003842	{#993399}{ol}[Magic] - [Dark]{/}{/}{nl}Control enemy under curse and inflict damage. Bonus damage applies on 3rd attack.
@@ -4067,8 +4067,8 @@ SKILL_20150428_004066	xxAttack #{SkillAtkAdd}#{nl}Duration 10 seconds{nl}Use 1 M
 SKILL_20150428_004067	xxAttack #{SkillAtkAdd}#{nl}Duration 10 seconds{nl}Use 1 Gather Corpse
 SKILL_20150428_004068	Hanging Shot
 SKILL_20150428_004069	Patron Saint Duration #{CaptionTime}# seconds{nl}Trigger rate 50%{nl}Trigger #{CaptionRatio}# times
-SKILL_20150428_004070	Create magic circle that boosts party's DEX and reduces enemies' evasion and Physical defense. Party receives effect without stepping on the circle.
-SKILL_20150428_004071	Give blessings to party members and allies for additional damage when attacking.
+SKILL_20150428_004070	$Creates a magic circle further on that increases the DEX of allies and decreases the enemy's evasion and physical defense. Party members will receive the effect without stepping on the magic circle.
+SKILL_20150428_004071	$Gives a blessing providing additional damage to the attacks of your party members and allies.
 SKILL_20150428_004072	Additional damage +#{CaptionRatio}#{nl}Attack #{CaptionRatio2}# times{nl}Target allies #{CaptionTime}#{nl}Duration 45 seconds{nl}Use 1 Holy Powder
 SKILL_20150428_004073	xxBody's moving range #{CaptionRatio}#{nl}Body's attack +#{CaptionRatio2}#
 SKILL_20150428_004074	xxReflect as much as target's Physical attack{nl}Additional damage reflected #{SkillAtkAdd}#{nl}Max. duration #{CaptionTime}# seconds{nl}Range projectile, Magic defense not possible
