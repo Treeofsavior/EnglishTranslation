@@ -4108,7 +4108,7 @@ SKILL_20150428_004107	xxHit damage of [Synchro Thrusting] decrease by 10% per at
 SKILL_20150428_004108	xxSplash increases by 3 while [Finestra] is activated, Evasion decrease rate is doubled
 SKILL_20150428_004109	xx[Montano] triggered [Slow] on target for 10 seconds. Duration of [Slow] increases by 3/2/1 second for small/medium/large monsters respectively.
 SKILL_20150428_004110	Lethargy: Additional damage
-SKILL_20150428_004111	Enemies under [Lethargy] receive 20% more damage with Hit type attacks.
+SKILL_20150428_004111	$Enemies affected by [Lethargy] will receive 20% additional damage with Hit-type attacks.
 SKILL_20150428_004112	xxCharacter's Fire attack increases by 3 per attribute level when using [Staff] weapon.
 SKILL_20150428_004113	xxEvasion increases by 10% per attribute level when using [Gravity Pull].
 SKILL_20150428_004114	xxSkill duration of [Spiritual Chain] increases by 1 seconds per attribute level.
@@ -4764,8 +4764,8 @@ SKILL_20150717_004763	[Slowdown] is left for 4 seconds after [Arrest], Duration 
 SKILL_20150717_004764	An enemy that was attacked by [Keelhauling] will be in [Bleeding] status for secs. Duration of [Bleeding] will increase by 1 sec per Attribute level, the bleeding damage will be decided based on character's STR.
 SKILL_20150717_004765	Phalanx: Slowdown
 SKILL_20150717_004766	When an enemy's attack gets blocked while in [Phalanx] position, the enemy will fall into Slowdown. Duration of Slowdown will increase by 4 secs per Attribute level.
-SKILL_20150717_004767	The reflective damage of [Reflect Shield] will increase by 1 per Attribute level and as a result, the amount of shooting damage will decrease.
-SKILL_20150717_004768	Physical attack and Attack decrease effect of [Lethargy] increases by 1 per attribute level.
+SKILL_20150717_004767	$Adds the reflect damage of [Reflect Shield] by 1 per attribute level, but decreases the damage received accordingly.
+SKILL_20150717_004768	$Increases the Physical and Magic Attack debuff effect of [Lethargy] by 1 per attribute level.
 SKILL_20150717_004769	Attack monster in [sleep] state with [Enegry Bolt] to give additional damage of 50% of Magic attack.
 SKILL_20150717_004770	$Enemies hit by [Fireball] will receive flame damage for 5 seconds with a 10% chance per attribute level. The flame damage is based on the character's INT.
 SKILL_20150717_004771	$Increases the Fire property damage for 5 seconds by 5 per attribute level, when an ally steps on [Fire Wall].
