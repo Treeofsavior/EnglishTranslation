@@ -2277,7 +2277,7 @@ SKILL_20150317_002276	xxSacrament: Dark Property resistance
 SKILL_20150317_002277	xxDark Resistance increases by 5 per attribute levvel while [Sacrament] is activated.
 SKILL_20150317_002278	$Resurrection: HP Recovery
 SKILL_20150317_002279	A Character revived by[Resurrection] will recover 10% of max. HP per attribute level.
-SKILL_20150317_002280	Resurrection: Resurrection count
+SKILL_20150317_002280	$Resurrection: Revive Count
 SKILL_20150317_002281	xxNumber of targets revived by [Resurrection] increases by 1 per Attribute level.
 SKILL_20150317_002282	$Blunt Mastery: Stun
 SKILL_20150317_002283	xxEnemies attacked with [Strike] type basic attacks have a 2% chance per Attribute level of being Stunned.
@@ -4613,29 +4613,29 @@ SKILL_20150714_004612	xxCharacter's Fire resistance will increase by 5 per Attri
 SKILL_20150714_004613	Effective duration of [Daino] will increase by 40 secs per Attribute level.
 SKILL_20150714_004614	Aukuras: Fire Resistance
 SKILL_20150714_004615	When [Aukuras] is being activated, a character's Fire resistance will increase by 14 per Attribute level.
-SKILL_20150714_004616	Zalciai: Duration
-SKILL_20150714_004617	Duration of [Zalciai] will increase by 3 secs per Attribute level.
+SKILL_20150714_004616	$Zalciai: Duration
+SKILL_20150714_004617	$Increases the duration of [Zalciai] by 3 seconds per attribute level.
 SKILL_20150714_004618	Zalciai: Magic Amplified
 SKILL_20150714_004619	While [Zalciai] is being activated, a character's Magic Amplification will increase by 12 per Attribute level.
-SKILL_20150714_004620	Divine Stigma: Duration
-SKILL_20150714_004621	Duration of [Divine Stigma] will increase by 1 sec per Attribute level.
-SKILL_20150714_004622	Melstis: Increase the Range
+SKILL_20150714_004620	$Divine Stigma: Duration
+SKILL_20150714_004621	$Increases the duration of [Divine Stigma] by 1 second per attribute level.
+SKILL_20150714_004622	$Melstis: Increase Range
 SKILL_20150714_004623	xxThe range that will be applied by [Melstis] will be increased.
-SKILL_20150714_004624	Damage dealt on an enemy with [Aspersion] will increase by 1% per Attribute level.
-SKILL_20150714_004625	Damage dealt on an enemy with [Exosize] will increase by 1% per Attribute level.
-SKILL_20150714_004626	The number of attacks for [Blessing] will increase by 1 per Attribute level.
-SKILL_20150714_004627	The number of objects for [Blessing] will increase by 1 per Attribute level.
+SKILL_20150714_004624	$Increases the damage dealt on an enemy with [Aspersion] by 1% per attribute level.
+SKILL_20150714_004625	$Increases the damage dealt on an enemy with [Exorcise] by 1% per attribute level.
+SKILL_20150714_004626	$Increases the number of attacks for [Blessing] by 1 per attribute level.
+SKILL_20150714_004627	$Increases the number of targets for [Blessing] by 1 per attribute level.
 SKILL_20150714_004628	xxWhile [Sacrament] is being activated, Dark resistance will increase by 5 per Attribute level.
-SKILL_20150714_004629	The number of objects that will reborn with [Resurrection] will increase by 1 per Attribute level.
+SKILL_20150714_004629	$Increases the number of targets that can be revived with [Resurrection] by 1 per attribute level.
 SKILL_20150714_004630	xxDuration of [Revive] will increase by 10 secs per Attribute level.
-SKILL_20150714_004631	Monstrance: Duration
-SKILL_20150714_004632	Duration of [Monstrance] will increase by 1 sec per Attribute level.
-SKILL_20150714_004633	Monstrance: Evasion
-SKILL_20150714_004634	Evasion will increase by 2% per Attribute level for the allies whose [Monstrance] is being activated.
-SKILL_20150714_004635	Damage dealt on enemies with [Effigy] will increase by 1% per Attribute level.
-SKILL_20150714_004636	The accumulated damage of [Mackangdal] will be reduced by 2 per Attribute level.
-SKILL_20150714_004637	Damage dealt on an enemy with [Bwa Kayiman] will increase by 1% per Attribute level.
-SKILL_20150714_004638	Damage dealt on an enemy with [Damballa] will increase by 1% per Attribute level.
+SKILL_20150714_004631	$Monstrance: Duration
+SKILL_20150714_004632	$Increases the duration of [Monstrance] by 1 second per attribute level.
+SKILL_20150714_004633	$Monstrance: Evasion
+SKILL_20150714_004634	$Increases the Evasion of your allies by 2% per attribute level while [Monstrance] is active. 
+SKILL_20150714_004635	$Increases the damage dealt on an enemy with [Effigy] by 1% per attribute level.
+SKILL_20150714_004636	$Decreases the accumulated damage from [Mackangdal] by 2 per attribute level.
+SKILL_20150714_004637	$Increases the damage dealt on an enemy with [Bwa Kayiman] by 1% per attribute level.
+SKILL_20150714_004638	$Increases the damage dealt on an enemy with [Damballa] by 1% per attribute level.
 SKILL_20150714_004639	When transforming a gigantic monster into a zombie, the possibility that such zombie will be gigantic increases by 1% per Attribute level.
 SKILL_20150714_004640	When creating a zombie, the possibility that a Wheelchair zombie would come out increases by 1% per Attribute level.
 SKILL_20150714_004641	xxWhenever an enemy gets shot by [Effigy], it could be inflicted with [Blind] with 5% probability per Attribute level.
@@ -4644,15 +4644,15 @@ SKILL_20150714_004643	The probability that a new zombie would come out from [Dam
 SKILL_20150714_004644	Bwa Kayiman: Zombie Defence
 SKILL_20150714_004645	Physicial DEF of the zombies that are used in [Bwa Kayiman] increases by 3 per Attribute level.
 SKILL_20150714_004646	xxThe maximum number of zombies that could be created by [Zombify] increases by 1 per Attribute level.
-SKILL_20150714_004647	Haxing : Darkness
+SKILL_20150714_004647	$Hexing: Darkness
 SKILL_20150714_004648	An enemy inflicted with [Haxing] will receive 10% additional damage from Dark attacks per Attribute level.
 SKILL_20150714_004649	Samediveve: Range Increase
 SKILL_20150714_004650	xxThe range of [Samediveve] will be increased.
 SKILL_20150714_004651	Ogounveve: Range Increase
 SKILL_20150714_004652	xxThe range of [Ogounveve] will be increased.
-SKILL_20150714_004653	Damage dealt on an enemy with [Carve] will increase by 1% per Attribute level.
-SKILL_20150714_004654	Damage dealt on an enemy with [Owl Sculpture] will increase by 1% per Attribute level.
-SKILL_20150714_004655	Carve: The probability of obtaining
+SKILL_20150714_004653	$Increases the damage dealt on an enemy with [Carve] by 1% per attribute level.
+SKILL_20150714_004654	$Increases the damage dealt on an enemy with [Carve Owl] by 1% per attribute level.
+SKILL_20150714_004655	$Carve: Chance to Obtain
 SKILL_20150714_004656	xxThe probability of obtaining ingredients increases 5% per Attribute level for [Carve].
 SKILL_20150714_004657	When equipped with [Mace], you will inflict additional 10% of Physical ATK to plant type monsters per Attribute level.
 SKILL_20150714_004658	$Goddess Vakarine Statue: Cooldown Decrease
@@ -4694,13 +4694,13 @@ SKILL_20150714_004693	Open Spell Shop: Duration
 SKILL_20150714_004694	xxWhen you endow the effect that is registered at [Spell Shop] to your colleague, the duration will be increased. Duration will increase by 3 mins per Attribute level.
 SKILL_20150714_004695	Pardoner: Donation
 SKILL_20150714_004696	Donation is possible through Pardoner Master. The amount of donation will differ everytime.
-SKILL_20150714_004697	Damage dealt on an enemy with [Carnivory] will increase by 1% per Attribute level.
-SKILL_20150714_004698	Duration of [Kortasmata] will increase by 1 sec per Attribute level.
-SKILL_20150714_004699	Druid: Spealized in Small Size
+SKILL_20150714_004697	$Increases the damage dealt on an enemy with [Carnivory] by 1% per attribute level.
+SKILL_20150714_004698	$Increases the duration of [Kortasmata] by 1 second per attribute level.
+SKILL_20150714_004699	$Druid: Small-type Speciality
 SKILL_20150714_004700	If the monster that is transformed by [Shape Shifting] or [Transform] is small, Evasion will increase by 20% per Attribute level.
-SKILL_20150714_004701	Druid: Specialized in Medium Size
+SKILL_20150714_004701	$Druid: Medium-type Speciality
 SKILL_20150714_004702	If the monster that is transformed by [Shape Shifting] or [Transform] is Medium, ATK to Small, Medium, Large objects will increase by 22 per Attribute level.
-SKILL_20150714_004703	Druid: Specialized in Large size
+SKILL_20150714_004703	$Druid: Large-type Speciality
 SKILL_20150714_004704	If the monster that is transformed by [Shape Shifting] or [Transform] is large, Max HP will increase by 15% per Attribute level.
 SKILL_20150714_004705	xxDuration of [Forecast] will increase by 1 sec per Attribute level.
 SKILL_20150714_004706	Change: Win
