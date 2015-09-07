@@ -2255,7 +2255,7 @@ SKILL_20150317_002254	Cure: Make Damage
 SKILL_20150317_002255	Magic circle period of [Cure] decreases by 0.2 seconds.
 SKILL_20150317_002256	Divine
 SKILL_20150317_002257	[Heal] 1 only sacred attack for each level of 5 seconds when I stepped on the skills to ally increases
-SKILL_20150317_002258	Heal: Generate additional
+SKILL_20150317_002258	$Heal: Creating Extra
 SKILL_20150317_002259	xxReceive [Heal] at 2% chance per attribute level when using [Heal].
 SKILL_20150317_002260	Deprotected Zone: Follow enemy
 SKILL_20150317_002261	Magic circle of [Deprotected Zone] follows the monsters nearby.
@@ -4602,8 +4602,8 @@ SKILL_20150714_004601	$Increases your accuracy by 30 per attribute level when eq
 SKILL_20150714_004602	$Increases the damage dealt on an enemy with [Cure] by 1% per attribute level.
 SKILL_20150714_004603	$Increases the damage dealt on an enemy with [Heal] by 1% per attribute level.
 SKILL_20150714_004604	xxEnemies hit with [Strike] has 2% chance per Attribute level to fall under Stun.
-SKILL_20150714_004605	When using [Heal], you will receive the effect of [Heal] with 2% probability per Attribute level.
-SKILL_20150714_004606	Duration of the magic field of [Deprotected Zone] will increase by 1 sec per Attribute level.
+SKILL_20150714_004605	$When using [Heal], you will receive the effect of [Heal] with a 2% chance per attribute level.
+SKILL_20150714_004606	$Increases the duration of the magic circle from [Deprotected Zone] by 1 second per attribute level.
 SKILL_20150714_004607	$Safety Zone: Increase Range
 SKILL_20150714_004608	xxThe range that will be applied by [Safety Zone] will be increased.
 SKILL_20150714_004609	$Guardian Saint: Damage Decrease
@@ -4819,9 +4819,9 @@ SKILL_20150717_004818	According to skill 5 seconds at MakuTaro bursts was 10% of
 SKILL_20150717_004819	The enemies that are shot by [Magic Arrow] will fall into [Silence] with a certain probabillity. The probability will increase by 10% per Attribute level.
 SKILL_20150717_004820	You can create the arrows for Fletcher. Crafting arrow is available while rest mode.
 SKILL_20150717_004821	xxDefense decrease effect of [Deprotected Zone] increases by 1 per attribute level.
-SKILL_20150717_004822	Enemies hit with [Strike] has 2% chance per Attribute level to fall under Stun.
-SKILL_20150717_004823	Using sword attacks on enemies with [Depreotected Zone] fall in to [Dereases defense]. [Decrease defense] can be overlapped max 10 times.
-SKILL_20150717_004824	The range that will be applied by [Safety Zone] will be increased by 15.
+SKILL_20150717_004822	$Increases the chance of stun by 2% per attribute level when using a basic attack on enemies with a [Blunt] weapon type.
+SKILL_20150717_004823	$Using basic sword attacks on enemies with [Deprotected Zone] will affect the [Weakened Defense] status effect. Can stack [Weakened Defense] up to 10 times. 
+SKILL_20150717_004824	$Increases the range applied by [Safety Zone] to 15.
 SKILL_20150717_004825	xxHP recovery of [Aukuras] increases by 1 per attribute level.
 SKILL_20150717_004826	Character's Fire resistance will increase by 5 per Attribute level and the resistance to Dark will decrease by 3 per Attribute level.
 SKILL_20150717_004827	[Zaibas] is affected by splash and inflicts damage on multiple target at once. (total count does not increase.)
