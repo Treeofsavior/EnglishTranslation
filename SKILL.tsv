@@ -1067,7 +1067,7 @@ SKILL_20150317_001066	xx${#993399}{ol}[Magic]{/}{/}{nl} Attack a target with pow
 SKILL_20150317_001067	xxAttack #{SkillAtkAdd}#{nl}Cast Time 1 second{nl}Splash #{SkillSR}#
 SKILL_20150317_001068	Lethargy
 SKILL_20150317_001069	xxInflict lethargy upon the target.
-SKILL_20150317_001070	Physical damage - #{CaptionRatio}#{nl} Magic Attack - #{CaptionRatio}#{nl} Evasion - #{CaptionRatio2}#{nl} {#339999}{ol}[Lethargy]{/}{/}Duration #{CaptionTime}# seconds
+SKILL_20150317_001070	Physical Attack -#{CaptionRatio}#{nl}Magic Attack -#{CaptionRatio}#{nl}Evasion -#{CaptionRatio2}#{nl}{#339999}{ol}[Lethargy]{/}{/} duration #{CaptionTime}# sec
 SKILL_20150317_001071	Sleep
 SKILL_20150317_001072	xxInflicts sleep upon targets. Enemies will awake upon taking a certain number of hits, or once sleep runs out.
 SKILL_20150317_001073	{#339999}{ol}[Sleep]{/}{/}Duration #{SkillFactor}# seconds {nl}Attack limit #{CaptionRatio}# times
@@ -1569,8 +1569,8 @@ SKILL_20150317_001568	Transform
 SKILL_20150317_001569	Sutorea-Tropez
 SKILL_20150317_001570	Cortasmata
 SKILL_20150317_001571	Make into plant
-SKILL_20150317_001572	Call Of Deities
-SKILL_20150317_001573	Arcane energy
+SKILL_20150317_001572	Call of Deities
+SKILL_20150317_001573	Arcane Energy
 SKILL_20150317_001574	Change
 SKILL_20150317_001575	Clairvoyance
 SKILL_20150317_001576	Counter spell
@@ -2147,7 +2147,7 @@ SKILL_20150317_002146	Double Pay Earn: Attack damage
 SKILL_20150317_002147	Damage is reduced to 2x from 3x when skill [Double Pay Earn] is enabled.
 SKILL_20150317_002148	xxDisqualification: Cloth Armor
 SKILL_20150317_002149	xxApply effects of [Mordschlag] on enemies with leather armor to choth armor as well.
-SKILL_20150317_002150	Painbarrier: movement speed
+SKILL_20150317_002150	$Pain Barrier: Movement Speed
 SKILL_20150317_002151	xxMovement speed increases by 5% per attribute level and evasion decreases by 10% per attribute level when using [Pain Barrier].
 SKILL_20150317_002152	Cyclone: Arrow flick
 SKILL_20150317_002153	Whe using [Cyclone] basic arrow attacks have a 10% chance per attribute level of bouncing off the character.
@@ -3671,29 +3671,29 @@ SKILL_20150414_003670	Realign direction of formation to leader's view.
 SKILL_20150414_003671	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Hold the sword backwards and use its handle to smack down enemy.
 SKILL_20150414_003672	Defeat enemy within set attack count for double EXP and rewards. Damage received increases by 3times while the effect is active and durability reduced more in incapable of combat status.
 SKILL_20150414_003673	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Use centrifugal force and continuously attack enemies.
-SKILL_20150414_003674	{#993399}{ol}[Magic]{/}{/}{nl}Gather magical energy and shoot to enemy. Inflicted damage increases depending on the energy gathered.
-SKILL_20150414_003675	Make enemy lethargic.
-SKILL_20150414_003676	Make enemy fall asleep. Enemy wakes up when reaching attack limit.
-SKILL_20150414_003677	Create a defensive screen that reflects a certain amount of enemy attacks.
+SKILL_20150414_003674	${#993399}{ol}[Magic]{/}{/}{nl}Gather powerful magical energy to launch it towards the enemy. Increases the inflicted damage depending on the amount of gathered energy.
+SKILL_20150414_003675	$Makes an enemy lethargic.
+SKILL_20150414_003676	$Makes an enemy fall asleep. The enemy awakens once you've reached your limit of attacks.
+SKILL_20150414_003677	$Creates a protective shield that reflects the amplified damage to the enemy.
 SKILL_20150414_003678	xx{#993399}{ol}[Magic]{/}{/}{nl}Continuously attack enemies with magic bullets.
 SKILL_20150414_003679	Skill cast time decerases.
-SKILL_20150414_003680	{#993399}{ol}[Magic] - [Fire]{/}{/}{nl}Summon fire ball. Enemies touching the fire ball receives continuous fire damage.
-SKILL_20150414_003681	{#993399}{ol}[Magic] - [Fire]{/}{/}{nl}Create a wall of fire that continuously damages approaching enemies.
-SKILL_20150414_003682	Temporarily add Fire Attribute to your and party member's attacks.
-SKILL_20150414_003683	{#993399}{ol}[Magic] - [Fire]{/}{/}{nl}Blast burning enemy and inflict damage.
-SKILL_20150414_003684	{#993399}{ol}[Magic] - [Fire]{/}{/}{nl}Summon fire pillar and inflict damage to enemy.
-SKILL_20150414_003685	{#993399}{ol}[Magic] - [Fire]{/}{/}{nl}Continuously fume fire forward. Enemy received fire damage.
-SKILL_20150414_003686	{#993399}{ol}[Magic] - [Ice] - [Pierce]{/}{/}{nl}Shoot ice arrows with chance of freezing enemy.
+SKILL_20150414_003680	${#993399}{ol}[Magic] - [Fire]{/}{/}{nl}Summons a fireball. Enemies touching the fireball will receive continuous fire damage.
+SKILL_20150414_003681	${#993399}{ol}[Magic] - [Fire]{/}{/}{nl}Creates a wall of fire that continuously damages approaching enemies.
+SKILL_20150414_003682	$Temporarily grants the Fire property to you and your party member's attacks.
+SKILL_20150414_003683	${#993399}{ol}[Magic] - [Fire]{/}{/}{nl}Inflicts damage by exploding a burning enemy.
+SKILL_20150414_003684	${#993399}{ol}[Magic] - [Fire]{/}{/}{nl}Summons a fire pillar to inflict damage on enemies.
+SKILL_20150414_003685	${#993399}{ol}[Magic] - [Fire]{/}{/}{nl}Attack by continuously fuming fire forward to enemies. Deals continuous fire damage to enemies.
+SKILL_20150414_003686	${#993399}{ol}[Magic] - [Ice] - [Pierce]{/}{/}{nl}Launches a bolt of ice to an enemy that inflicts damage and has a chance to freeze the enemy.
 SKILL_20150414_003687	{#993399}{ol}[Magic] - [Ice] - [Pierce]{/}{/}}{nl}Spurt ice thorns and attack enemies in front with chance of freezing.
 SKILL_20150414_003688	Create ice wall to trap enemy with chance of freezing nearby enemies.
 SKILL_20150414_003689	{#993399}{ol}[Magic] - [Ice]{/}{/}{nl}Smack frozen enemies in front. Can freeze one more enemy nearby.
 SKILL_20150414_003690	Create ice tent to block and freeze enemy.
 SKILL_20150414_003691	Create strong wind to push away target. Use on frozen enemies to attack neaby enemies.
 SKILL_20150414_003692	{#993399}{ol}[Magic] - [Ice] - [Strike]{/}{/}{nl}Ride on huge snowball and smash enemy.
-SKILL_20150414_003693	{#993399}{ol}[Magic]{/}{/}{nl}Focus psychokinesis to the tip of your hand and inflict continuous damage.
-SKILL_20150414_003694	{#993399}{ol}[Magic]{/}{/}{nl}Use psychokinesis to move target's location. Use arrow keys to set where to throw the target. Target receives damage when thrown.
-SKILL_20150414_003695	Change location with target.
-SKILL_20150414_003696	$Teleports you to a random location.
+SKILL_20150414_003693	${#993399}{ol}[Magic]{/}{/}{nl}Concentrate on the the tip of your hand to inflict continuous damage with psychokinesis.
+SKILL_20150414_003694	${#993399}{ol}[Magic]{/}{/}{nl}Use psychokinesis to capture a target in front to move its location.{nl}Inflicts damage by throwing the captured target to a direction using your arrow keys. 
+SKILL_20150414_003695	$Swaps your position with that of the enemy.
+SKILL_20150414_003696	$Teleport to a random location.
 SKILL_20150414_003697	{#993399}{ol}[Magic]{/}{/}{nl}Move target to collide with another enemy.
 SKILL_20150414_003698	Raise nearby enemies into the air. Enemies in the air are temporarily detected as flight type.
 SKILL_20150414_003699	Create a straight line gravitational force that pull the enemies.
@@ -3895,7 +3895,7 @@ SKILL_20150414_003894	Temporarily transform into an animal, plant, insect type m
 SKILL_20150414_003895	Transform back into the monster last shape shifted to.
 SKILL_20150414_003896	Grass in the target area protects you and your party.
 SKILL_20150414_003897	Grass temporarily growns on target area. Monsters entering the area is as plant type.
-SKILL_20150414_003898	Randomly summon a monster in the same area to your front.
+SKILL_20150414_003898	$Randomly summons enemies to your front from the area you are currently in.
 SKILL_20150414_003899	Increase max. SP and STA of you and your party.
 SKILL_20150414_003900	Change the monster in front to a different monster.
 SKILL_20150414_003901	Predict and show beforehand which item the monster will drop
