@@ -1477,8 +1477,8 @@ ETC_20150317_001476	Team does not exist
 ETC_20150317_001477	{S18}{ol}{#ffffcc}This character does not exist
 ETC_20150317_001478	Cannot start game
 ETC_20150317_001479	{S18}{ol}{#ffffcc} Disconnected from the server due to verification failure
-ETC_20150317_001480	You have exceeded the maximum weight and cannot receive item. {nl}Sell or discard items in inventory to reduce weight.
-ETC_20150317_001481	You cannot receive the item. You have exceeded the maximum number of items allowed
+ETC_20150317_001480	$You've exceeded your maximum carrying weight.{nl}Sell or discard items from your inventory to reduce weight. 
+ETC_20150317_001481	$You cannot obtain any more items. You have exceeded the maximum number of items allowed.
 ETC_20150317_001482	Your inventory is full
 ETC_20150317_001483	This server is closed
 ETC_20150317_001484	This item cannot be equipped
@@ -1694,7 +1694,7 @@ ETC_20150317_001693	Click an item to enhance
 ETC_20150317_001694	Success!!
 ETC_20150317_001695	Failed!!!
 ETC_20150317_001696	There is no empty socket that matches this type.
-ETC_20150317_001697	Please drag the item you wish to enhance.
+ETC_20150317_001697	Place the item you want to enhance.
 ETC_20150317_001698	Card Enhancement
 ETC_20150317_001699	Gem Enhancement
 ETC_20150317_001700	You can no longer equip it. 
@@ -3852,8 +3852,8 @@ ETC_20150317_003851	when quest (complete standby-> complete)
 ETC_20150317_003852	in QuestProgressCheck XML
 ETC_20150317_003853	ClassName is missing.
 ETC_20150317_003854	in SessionObject XML
-ETC_20150317_003855	- Repeat ({Auto_1} / {Auto_2})
-ETC_20150317_003856	- Repeat ({Auto_1} / infinite)
+ETC_20150317_003855	- Repeatable ({Auto_1} / {Auto_2})
+ETC_20150317_003856	- Repeatable ({Auto_1} / infinite)
 ETC_20150317_003857	Check how many quests are in progress. You can have up to 10 at once.
 ETC_20150317_003858	There is no quest information. Please try again.
 ETC_20150317_003859	Cannot give up auto start quest
@@ -4199,8 +4199,8 @@ ETC_20150317_004198	] Attribute will be learned soon! (1 minute)
 ETC_20150317_004199	 minutes required
 ETC_20150317_004200	 seconds required
 ETC_20150317_004201	{@st42b} Silver
-ETC_20150317_004202	{@st42_yellow}{s16} Top Level Master!
-ETC_20150317_004203	{@st42_yellow}{s16} Studying attribute..
+ETC_20150317_004202	${@st42_yellow}{s16} Maximum Level
+ETC_20150317_004203	{@st42_yellow}{s16} Learning attribute...
 ETC_20150317_004204	You have obtained the [{Auto_1}] achievement.
 ETC_20150317_004205	Auction List
 ETC_20150317_004206	Cabinet
@@ -4338,7 +4338,7 @@ ETC_20150317_004337	's Bulletin Board
 ETC_20150317_004338	Reset Status Points
 ETC_20150317_004339	Requires iCoin.{nl}Are you sure you want to reset?
 ETC_20150317_004340	{@st59} Increase in Physical Attack and Critical Attack{/}
-ETC_20150317_004341	{@st59} Increase in HP, HP Recovery rate, Critical Resistance and Max Inventory Slots{/}
+ETC_20150317_004341	{@st59} Increase in HP, HP Recovery Rate, Critical Resistance and maximum Carry Weight{/}
 ETC_20150317_004342	{@st59} Increase in Magic Damage and Block Penetration{/}
 ETC_20150317_004343	{@st59} Increase in Accuracy, Evasion and Critical Rate {/}
 ETC_20150317_004344	] Do you want to use this card?
@@ -9553,7 +9553,7 @@ ETC_20150323_009553	Casket
 ETC_20150323_009554	Green Eldigo
 ETC_20150323_009555	Gremrin
 ETC_20150323_009556	Vasilisk
-ETC_20150323_009557	Food distribution table
+ETC_20150323_009557	$Refreshment Table
 ETC_20150323_009558	Pink Root Mole
 ETC_20150323_009559	Srautas Canyon
 ETC_20150323_009560	Nefritas Cliff
@@ -10748,8 +10748,8 @@ ETC_20150406_010749	Make jerky in the Drying Room
 ETC_20150406_010750	Destroy the magic circle with magic stone of blessing
 ETC_20150406_010751	No!
 ETC_20150406_010752	Recipe - Dunkel Bastard Sword
-ETC_20150406_010753	The food table can only be set up near the basecamp.
-ETC_20150406_010754	Only one basecamp can be set up.
+ETC_20150406_010753	The refreshment table can only be set up near the base camp.
+ETC_20150406_010754	Only one base camp can be set up.
 ETC_20150406_010755	Rubbed and removed the nasty energy.
 ETC_20150406_010756	This must be the strange energy.
 ETC_20150406_010757	Checking the crops
@@ -10918,7 +10918,7 @@ ETC_20150414_010919	Centurions command the battle with formations. They control 
 ETC_20150414_010920	Corsairs are specialized in dual-wielding and ambushing enemies from behind. Anyone who joins the Corsairs' party becomes a pirate.
 ETC_20150414_010921	Attack, Party
 ETC_20150414_010922	Doppelsoeldners are mercenaries who endure high risk for high rewards. They dangerously expose themselves to the enemies and receive high attack power or high EXP.
-ETC_20150414_010923	Squires are warriors who support fellow soldiers. They support by repairing and enhancing others' weapons or set up a basecamp to aid the team.
+ETC_20150414_010923	Squires are warriors who support fellow soldiers. They support by repairing and enhancing others' weapons or set up a base camp to aid the team.
 ETC_20150414_010924	Support, Craft, Party
 ETC_20150414_010925	Attack, Support
 ETC_20150414_010926	Alchemists use alchemy to enhance gems and synthesize or craft items.
@@ -11105,13 +11105,13 @@ ETC_20150414_011106	Falconer Advancement
 ETC_20150414_011107	Dispeller Craft attribute required.
 ETC_20150414_011108	Craft Arrow
 ETC_20150414_011109	Arrow Crafting attribute required.
-ETC_20150414_011110	Basecamp does not exist.
+ETC_20150414_011110	Base camp does not exist.
 ETC_20150414_011111	{Auto_1} required
 ETC_20150414_011112	Cannot install offering box in this area.
 ETC_20150414_011113	A new patch is available. The client will shutdown for the update.
-ETC_20150414_011114	You can set up only one food table.
+ETC_20150414_011114	$You can set up only one refreshment table.
 ETC_20150414_011115	You cannot mount this Companion.
-ETC_20150414_011116	Restart from the basecamp
+ETC_20150414_011116	Restart from the base camp
 ETC_20150414_011117	Please check your purchase quantity.
 ETC_20150414_011118	Frequently warped region
 ETC_20150414_011119	The region where battle is intense
@@ -11192,7 +11192,7 @@ ETC_20150414_011193	Exceeded maximum poison capacity.
 ETC_20150414_011194	About Purification
 ETC_20150414_011195	About Mobilizing Power
 ETC_20150414_011196	About the Baron
-ETC_20150414_011197	You cannot set up a basecamp in this area.
+ETC_20150414_011197	You cannot set up a base camp in this area.
 ETC_20150414_011198	[Oracle Master]{nl}Apolonjia Barbora
 ETC_20150414_011199	[Warehouse Keeper]{nl}                  Rita
 ETC_20150414_011200	Mysterious Box of Legwyn Family
@@ -14012,7 +14012,7 @@ ETC_20150729_014013	The ticket will be expired when you cancel it. Do you want t
 ETC_20150729_014014	Found the key of the great king!
 ETC_20150729_014015	{s16}{ol}{#ffcc33}[{Auto_1}] Explore Rate {nl}{Auto_2}/{Auto_3}
 ETC_20150729_014016	{cl}{s16}{ol}{#ffcc33}{Auto_1} Complete Explore Rate
-ETC_20150729_014017	{@st59} Increase in Physical Attack, Critical Attack, Max Inventory{/}
+ETC_20150729_014017	{@st59} Increase in Physical Attack, Critical Attack and maximum Carry Weight{/}
 ETC_20150729_014018	Scoll use area
 ETC_20150729_014019	Exceeded the number of Mission Instance. Try again later
 ETC_20150729_014020	[Doppelsoeldner Master]{nl} Guera
