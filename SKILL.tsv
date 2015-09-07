@@ -1429,7 +1429,7 @@ SKILL_20150317_001428	Cure
 SKILL_20150317_001429	xx{#993399}{ol}[Magic] - [Divine]{/}{/}{nl} Create a magic tile that removes harmful effects from allies and damages enemies that walk on it.
 SKILL_20150317_001430	xxAttack #{SkillAtkAdd}#{nl}Attack count #{CaptionRatio}# times {nl}Magic circle Duration #{CaptionTime}# seconds
 SKILL_20150317_001431	Safety Zone
-SKILL_20150317_001432	$Creates a magic square that blocks incoming attacks.
+SKILL_20150317_001432	$Creates a magic circle that blocks incoming attacks.
 SKILL_20150317_001433	Defense #{SkillFactor}# times{nl} Magic circle duration 20 seconds
 SKILL_20150317_001434	Deprotected Zone
 SKILL_20150317_001435	xxCreate magic circle that continuously decrease the defense of target.
@@ -2286,7 +2286,7 @@ SKILL_20150317_002285	xxCharacter's Fire Resistance increases by 5 per attribute
 SKILL_20150317_002286	$Zalciai: Intelligence
 SKILL_20150317_002287	Effect of [Zalciai] to clerics is changed from STR to INT.
 SKILL_20150317_002288	$Divine Stigma: Intelligence
-SKILL_20150317_002289	$Increases INT, but not STR when using [Divine Stigma] by 20% per level.
+SKILL_20150317_002289	$Increases INT by 20% per level when using [Divine Stigma]. 
 SKILL_20150317_002290	$Zaibas: Splash
 SKILL_20150317_002291	xx[Zaibas] is affected by splash and inflicts damage on multiple targets at once. (total count does not change)
 SKILL_20150317_002292	$Daino: Duration
@@ -3821,22 +3821,22 @@ SKILL_20150414_003820	Hovering
 SKILL_20150414_003821	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Float on target area and attack enemy passing below.
 SKILL_20150414_003822	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Throw practice hawk doll and attack that area.
 SKILL_20150414_003823	xxHand and Shoot
-SKILL_20150414_003824	Hang on the hawk. You do not receive damage while hanging and can make normal attacks to enemies.
-SKILL_20150414_003825	${#993399}{ol}[Magic] - [Holy]{/}{/}{nl}Creates a magic circle that recovers HP or inflicts damage to enemies. This does not apply to airborne enemies.
-SKILL_20150414_003826	${#993399}{ol}[Magic] - [Holy]{/}{/}{nl}Creates a magic circle that removes a Lv1 abnormal status from allies or inflicts damage to enemies. This does not apply to airborne enemies.
+SKILL_20150414_003824	$Let your hawk carry you. While being carried, you can inflict damage to enemies using your basic attack without being attacked.
+SKILL_20150414_003825	${#993399}{ol}[Magic] - [Holy]{/}{/}{nl}Creates a magic circle that recovers HP or inflicts damage to enemies. Does not apply to airborne enemies.
+SKILL_20150414_003826	${#993399}{ol}[Magic] - [Holy]{/}{/}{nl}Creates a magic circle that removes a Lv1 abnormal status from allies or inflicts damage to enemies. Does not apply to airborne enemies.
 SKILL_20150414_003827	$Creates a magic circle that decreases the defense of enemies over time. 
 SKILL_20150414_003828	$Creates a magic circle that increases the skill level of allies once.
 SKILL_20150414_003829	$Summon a holy torch to improve the HP recovery rate of nearby allies.
 SKILL_20150414_003830	$Creates a magic circle that improves the Critical of allies or to worsen an enemy's Critical.
 SKILL_20150414_003831	$Increases the number of beneficial effects that you and your party members can receive.
 SKILL_20150414_003832	${#993399}{ol}[Magic] - [Lightning]{/}{/}{nl}Creates a magic circle that releases bolts of lightning using the power of the god of Thunder that strike down an enemy.
-SKILL_20150414_003833	$Engraves a stigma on an enemy. Increases you and your party member's STR and INT when the engraved enemy has been defeated.
+SKILL_20150414_003833	$Engraves a stigma on an enemy. Increases your and your party member's STR and INT when the engraved enemy has been defeated.
 SKILL_20150414_003834	$Creates a magic circle that helps you to maintain the beneficial effects of you and your party members.
 SKILL_20150414_003835	${#993399}{ol}[Magic] - [Holy]{/}{/}{nl}Sprinkle holy water to increase the defense of you and your allies as well as inflict damage to enemies.
 SKILL_20150414_003836	xxCreate magic circle where ally's DEX increase and enemy's ecasion and Physical defense decrease.
 SKILL_20150414_003837	xxGive blessings that grant additional damage on attacks of party members.
 SKILL_20150414_003838	$Resurrects a target in the state of Incapable of Combat.
-SKILL_20150414_003839	$Temporarily grants the Holy property on you and your party member's attacks.
+SKILL_20150414_003839	$Temporarily grants the Holy property to you and your party member's attacks.
 SKILL_20150414_003840	{#993399}{ol}[Magic] - [Holy]{/}{/}{nl}Create exorcism circle that attacks enemies stepping it then give continuous damage.
 SKILL_20150414_003841	Curse enemy to decrease its magic defense and prevent recovery.
 SKILL_20150414_003842	{#993399}{ol}[Magic] - [Dark]{/}{/}{nl}Control enemy under curse and inflict damage. Bonus damage applies on 3rd attack.
