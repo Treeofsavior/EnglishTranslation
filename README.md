@@ -7,7 +7,7 @@
 1. Wiki - Map has been updated. (**NEW**)
 
 2. We've temporarily marked unused lines with 'xx' at the beginning of the line. <br>
-   We've added the marks on SKILL.tsv first and the rest will follow suit maybe within the week.    
+   We've added the marks on SKILL.tsv first but the rest will follow suit hopefully within the week.    
 
 3. Have you checked out our official Forums? Click [**HERE**](https://forum.treeofsavior.com/) move to the forums for discussion. Please login and click on the github icon to link your github account to it as well.
 
