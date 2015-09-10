@@ -1599,17 +1599,17 @@ SKILL_20150317_001598	Can't move
 SKILL_20150317_001599	Fear
 SKILL_20150317_001600	While, after the falter, attack is low.
 SKILL_20150317_001601	Bleed
-SKILL_20150317_001602	Inflict bleeding damage every 1.5 seconds.
+SKILL_20150317_001602	$Inflicts bleeding damage every 1.5 seconds.
 SKILL_20150317_001603	Excessive Bleed
 SKILL_20150317_001604	Inflict stronger bleeding damage.
 SKILL_20150317_001605	Spurt
-SKILL_20150317_001606	Movement speed increases for 15 seconds.
+SKILL_20150317_001606	$Move faster for 15 seconds.
 SKILL_20150317_001607	Recovery
 SKILL_20150317_001608	Recover HP, SP by 5% per second
 SKILL_20150317_001609	Discovery
 SKILL_20150317_001610	Discovery.
 SKILL_20150317_001611	Rest
-SKILL_20150317_001612	HP, SP, and STA recovery increases.
+SKILL_20150317_001612	$Increases the recovery of HP, SP and STA.
 SKILL_20150317_001613	Safety
 SKILL_20150317_001614	Safety.
 SKILL_20150317_001615	Chilled
@@ -1630,8 +1630,8 @@ SKILL_20150317_001629	Unmovable.
 SKILL_20150317_001630	Fixed Movement Speed
 SKILL_20150317_001631	Darkness
 SKILL_20150317_001632	Field of vision interfered.
-SKILL_20150317_001633	{memo X}Fraud buff
-SKILL_20150317_001634	Attack increase.
+SKILL_20150317_001633	{memo X}OP Buff
+SKILL_20150317_001634	$Increased Attack.
 SKILL_20150317_001635	Deadly poison
 SKILL_20150317_001636	Receive poison damage periodically.
 SKILL_20150317_001637	Contagious deadly poison
@@ -1655,17 +1655,17 @@ SKILL_20150317_001654	Calm down and stop moving.
 SKILL_20150317_001655	Addiction
 SKILL_20150317_001656	Attack is increased while defense is reduced.
 SKILL_20150317_001657	Transparent
-SKILL_20150317_001658	Transparent state.
+SKILL_20150317_001658	$Transparent Status Effect.
 SKILL_20150317_001659	Recover HP every 3 seconds.
 SKILL_20150317_001660	monster Hold
 SKILL_20150317_001661	Monster hold script link
-SKILL_20150317_001662	Attack increase
+SKILL_20150317_001662	$Increased Attack
 SKILL_20150317_001663	Attack and evasion decrease
-SKILL_20150317_001664	Increase SP, Stamina
-SKILL_20150317_001665	Amount of SP,stamina recovery increase
-SKILL_20150317_001666	Defense and attack will be reduced.
-SKILL_20150317_001667	Rage
-SKILL_20150317_001668	Become enraged. Intelligence, physical defense, and magic defense are reduced while strength, physical attack, and movement speed are increased.
+SKILL_20150317_001664	$Increased SP & Stamina
+SKILL_20150317_001665	$Increases the amount of SP and Stamina recovery
+SKILL_20150317_001666	$Decreased Defense and Attack.
+SKILL_20150317_001667	$Rage
+SKILL_20150317_001668	$Become enraged. Increases STR, Physical Attack and Movement Speed., but decreases INT, Physical and Magic Defense.
 SKILL_20150317_001669	Curse target.
 SKILL_20150317_001670	Natural recovery impossible, magic defense decreases.
 SKILL_20150317_001671	Aurora of Addiction
@@ -1674,7 +1674,7 @@ SKILL_20150317_001673	Growth
 SKILL_20150317_001674	Confusion
 SKILL_20150317_001675	Can't distinguish friend and foe.
 SKILL_20150317_001676	Stiffen
-SKILL_20150317_001677	Player RAISEUP
+SKILL_20150317_001677	$Player RAISEUP
 SKILL_20150317_001678	When attacked by the enemy, attack is increased while defense is decreased.
 SKILL_20150317_001679	Frozen
 SKILL_20150317_001680	Actor Frozen
@@ -1687,21 +1687,21 @@ SKILL_20150317_001686	Sacrifice
 SKILL_20150317_001687	Exchange life
 SKILL_20150317_001688	Swap HP for SP, generate defence shield 50% of MHP for 10 seconds.
 SKILL_20150317_001689	Stop
-SKILL_20150317_001690	Increase Movement Speed
-SKILL_20150317_001691	Significantly increase movement speed
+SKILL_20150317_001690	$Increased Movement Speed
+SKILL_20150317_001691	$Significantly increases Movement Speed
 SKILL_20150317_001692	Ion
 SKILL_20150317_001693	Damage surroundings except target
 SKILL_20150317_001694	{memo X}Additional damage according to the number attacks by target while buff is enabled.
 SKILL_20150317_001695	Destroy Armor
-SKILL_20150317_001696	Defense will decrease to zero.
-SKILL_20150317_001697	{memo X}Damage Debuff
+SKILL_20150317_001696	$Decreased Defense to 0.
+SKILL_20150317_001697	${memo X}Damage Debuff
 SKILL_20150317_001698	{memo X}When the buff ends, take damage.
 SKILL_20150317_001699	Hide character (for video)
 SKILL_20150317_001700	Capture enemies with Telekinesis
-SKILL_20150317_001701	Caught by telekinesis
+SKILL_20150317_001701	$Captured by Telekinesis
 SKILL_20150317_001702	Reflect Shield
 SKILL_20150317_001703	Reflect all attacks for a certain time.
-SKILL_20150317_001704	FeverTime! Increases attack power by 5 per combo
+SKILL_20150317_001704	$Fever Time! Increased Attack by 5 combo
 SKILL_20150317_001705	Fear and confusion is caused
 SKILL_20150317_001706	Effect of Flu Flu
 SKILL_20150317_001707	Fear occurrence
@@ -1852,34 +1852,34 @@ SKILL_20150317_001851	Enchant Fire
 SKILL_20150317_001852	Fire Resistance has decreased.
 SKILL_20150317_001853	Fire attack force increase.
 SKILL_20150317_001854	Rage
-SKILL_20150317_001855	Damage increase, sp consumption increase
-SKILL_20150317_001856	Hangmans Knot : Splash
-SKILL_20150317_001857	Charging - evasion
-SKILL_20150317_001858	Gravity Pole: Decrease Defense
+SKILL_20150317_001855	$Increases Damage and SP consume
+SKILL_20150317_001856	$Hangman's Knot: Splash
+SKILL_20150317_001857	$Charging - Evasion
+SKILL_20150317_001858	$Gravity Pole: Decrease Defense
 SKILL_20150317_001859	Release from poisoned state.
 SKILL_20150317_001860	Needle Blow Poison
 SKILL_20150317_001861	Continuously receive poison damage.
-SKILL_20150317_001862	Make enemy under poison become confused.
+SKILL_20150317_001862	$Confuses the enemy affected by poison.
 SKILL_20150317_001863	{memo X}Gohan Venom
 SKILL_20150317_001864	{memo X}Pull down flying obejct
 SKILL_20150317_001865	Pull down flight type monsters.
-SKILL_20150317_001866	Unbalance
+SKILL_20150317_001866	$Unbalance
 SKILL_20150317_001867	Enemies become defenseless and vulnerable to knock down attacks.
 SKILL_20150317_001868	{memo X}Enemy's companion bites and holds. Become vulnerable to arrow attacks.
 SKILL_20150317_001869	Defense increases while attack decreases.
 SKILL_20150317_001870	Become vulnerable to stabbing attacks.
 SKILL_20150317_001871	Play the flute.
 SKILL_20150317_001872	Whistle.. Somehow I want to follow it
-SKILL_20150317_001873	Murmillo
-SKILL_20150317_001874	In Stance switching state.
-SKILL_20150317_001875	Level up
+SKILL_20150317_001873	$Murmillo
+SKILL_20150317_001874	$Switching Stance.
+SKILL_20150317_001875	$Level Up
 SKILL_20150317_001876	Enemy of the companion is gazing. It is disturbing.
-SKILL_20150317_001877	Clone
+SKILL_20150317_001877	$Shadow Clone
 SKILL_20150317_001878	Big Head
 SKILL_20150317_001879	{memo X}Head is enlarged.
 SKILL_20150317_001880	Receiving stats.
 SKILL_20150317_001881	Status transfer state.
-SKILL_20150317_001882	STR, CON, INT, SPR, DEX decrease.
+SKILL_20150317_001882	$Decreases STR, CON, INT, SPR and DEX.
 SKILL_20150317_001883	Trap
 SKILL_20150317_001884	Cannot move and receive continuous damage.
 SKILL_20150317_001885	Bomb explodes and inflicts damage around
@@ -1900,101 +1900,101 @@ SKILL_20150317_001899	Agility is increased
 SKILL_20150317_001900	Power of destruction
 SKILL_20150317_001901	Power of the guardian
 SKILL_20150317_001902	Increase defense
-SKILL_20150317_001903	Super mario
-SKILL_20150317_001904	{memo X}Super Mario buff
-SKILL_20150317_001905	Purification of Goddess
+SKILL_20150317_001903	$Super Mario
+SKILL_20150317_001904	${memo X}Super Mario Buff
+SKILL_20150317_001905	$Goddess' Purification
 SKILL_20150317_001906	Loss ability to attack
-SKILL_20150317_001907	SP recovery
-SKILL_20150317_001908	SP recovery
-SKILL_20150317_001909	HP recovery
-SKILL_20150317_001910	HP recovery
-SKILL_20150317_001911	Medusa
+SKILL_20150317_001907	SP Recovery
+SKILL_20150317_001908	SP Recovery
+SKILL_20150317_001909	HP Recovery
+SKILL_20150317_001910	HP Recovery
+SKILL_20150317_001911	$Medusa
 SKILL_20150317_001912	STA will not be consumed for a certain time.
-SKILL_20150317_001913	Power of Cafrisun
-SKILL_20150317_001914	Inflict 12 Additional Earth Property attack
+SKILL_20150317_001913	$Cafrisun's Power
+SKILL_20150317_001914	$Adds +12 Earth Property Damage
 SKILL_20150317_001915	Increased recovery amount and recovery rate of HP, SP and STA.
 SKILL_20150317_001916	Recover HP per second. Total 500 HP for 5 seconds.
 SKILL_20150317_001917	HP SP recovery
 SKILL_20150317_001918	HP, SP recovery
 SKILL_20150317_001919	Reuse waiting time decrease by 50%
-SKILL_20150317_001920	Gaigalas card activated
+SKILL_20150317_001920	$Gaigalas Card activated
 SKILL_20150317_001921	Continiously receiving damage.
-SKILL_20150317_001922	Poata card activated
-SKILL_20150317_001923	Melinas Sequoia card activated
-SKILL_20150317_001924	Zalias Woodspirit card activated
-SKILL_20150317_001925	Earth Property resistance will increase.
-SKILL_20150317_001926	Chafer Card activated
-SKILL_20150317_001927	Word Pome Nation card activated
-SKILL_20150317_001928	Attack force of mutant monsters will increase.
-SKILL_20150317_001929	Woodspirit card activated
-SKILL_20150317_001930	HP will continuously recover.
-SKILL_20150317_001931	MagBurk card activated
-SKILL_20150317_001932	Fire Resistance increases.
-SKILL_20150317_001933	Deadborn Card Activated
-SKILL_20150317_001934	Denoptic Card activated
-SKILL_20150317_001935	Moldyhorn card activated
-SKILL_20150317_001936	Tomb Lord card activated
-SKILL_20150317_001937	All resistance will increase.
-SKILL_20150317_001938	Mushcaria card activated
-SKILL_20150317_001939	Ginklas card activated
+SKILL_20150317_001922	$Poata Card activated
+SKILL_20150317_001923	$Melinas Sequoia Card activated
+SKILL_20150317_001924	$Zalias Woodspirit Card activated
+SKILL_20150317_001925	$Increases Earth Property Resistance
+SKILL_20150317_001926	$Chafer Card activated
+SKILL_20150317_001927	$Abomination Card activated
+SKILL_20150317_001928	$Increases attack against mutant-type monsters.
+SKILL_20150317_001929	$Woodspirit Card activated
+SKILL_20150317_001930	$Continuously recovers HP.
+SKILL_20150317_001931	$Magbirk Card activated
+SKILL_20150317_001932	$Increases Fire Property Resistance.
+SKILL_20150317_001933	$Deadborn Card activated
+SKILL_20150317_001934	$Denoptic Card activated
+SKILL_20150317_001935	$Moldyhorn Card activated
+SKILL_20150317_001936	$Tomb Lord Card activated
+SKILL_20150317_001937	$Increases All Resistance.
+SKILL_20150317_001938	$Mushcaria Card activated
+SKILL_20150317_001939	$Ginklas Card activated
 SKILL_20150317_001940	State of being continuously receiving damage.
-SKILL_20150317_001941	Velorchard card activated
-SKILL_20150317_001942	Evasion will increase.
-SKILL_20150317_001943	Jack-o'-lantern Card activated
-SKILL_20150317_001944	Increase attack against demon type monsters.
-SKILL_20150317_001945	Sparnas card activated
-SKILL_20150317_001946	Critical damage will increase.
-SKILL_20150317_001947	Rikaus Card activated
-SKILL_20150317_001948	SP continuously recover.
-SKILL_20150317_001949	Kerberos Card activated
-SKILL_20150317_001950	Fire Property attack will increase.
-SKILL_20150317_001951	Carapace card activated
-SKILL_20150317_001952	Yonazolem card activated
-SKILL_20150317_001953	Dark Property attack will increase.
-SKILL_20150317_001954	Kepa Chieftain Card activated
-SKILL_20150317_001955	Ellaganos card activated
-SKILL_20150317_001956	Umbo, Rim attack increase.
+SKILL_20150317_001941	$Velorchard Card activated
+SKILL_20150317_001942	$Increases Evasion.
+SKILL_20150317_001943	$Jack O'Lantern Card activated
+SKILL_20150317_001944	$Increases attack against demon-type monsters.
+SKILL_20150317_001945	$Sparnas Card activated
+SKILL_20150317_001946	$Increases Critical Damage.
+SKILL_20150317_001947	$Rikaus Card activated
+SKILL_20150317_001948	$Continuously recovers SP.
+SKILL_20150317_001949	$Cerberos Card activated
+SKILL_20150317_001950	$Increases Fire Property Attack.
+SKILL_20150317_001951	$Carapace Card activated
+SKILL_20150317_001952	$Yonazolem Card activated
+SKILL_20150317_001953	$Increases Dark Property Attack.
+SKILL_20150317_001954	$Kepa Chieftain Card activated
+SKILL_20150317_001955	$Elaganos Card activated
+SKILL_20150317_001956	$Increases the attack of Umbo, Rim.
 SKILL_20150317_001957	Endure
 SKILL_20150317_001958	Does not knock down to enemy attacks.
-SKILL_20150317_001959	Venom of Hydra
+SKILL_20150317_001959	$Hydra's Venom
 SKILL_20150317_001960	Frozen feet
-SKILL_20150317_001961	Movement speed is reduced.
+SKILL_20150317_001961	$Decreased Movement Speed.
 SKILL_20150317_001962	Corruption
 SKILL_20150317_001963	Reject Magic
-SKILL_20150317_001964	Riding on companion.
+SKILL_20150317_001964	$Mounting Companion.
 SKILL_20150317_001965	Give ride to master
-SKILL_20150317_001966	HP Potion Booster
-SKILL_20150317_001967	HP potion cooldown is reduced. {Nl} (decrease by 10% per level)
-SKILL_20150317_001968	SP Potion Booster
-SKILL_20150317_001969	SP potion cooldown decreases. {Nl} (decrease by 10% per level)
-SKILL_20150317_001970	Sword Mastery
-SKILL_20150317_001971	Handle Sword type items well. {Nl} (Damage increase by 5% per level when using Sword type items)
-SKILL_20150317_001972	Staff Mastery
-SKILL_20150317_001973	Handle Staff type items well. {Nl} (Damage increase by 5% per level when using Staff type items)
-SKILL_20150317_001974	Bow Mastery
-SKILL_20150317_001975	Handle Bow type items well. {Nl} (Damage increase by 5% per level when using Bow type items)
-SKILL_20150317_001976	Mace Mastery
-SKILL_20150317_001977	Handle Mace type items well. {Nl} (Damage increase by 5% per level when using Mace type items)
-SKILL_20150317_001978	Survival instinct
-SKILL_20150317_001979	Attack increases when HP is below 40%. {Nl} For Level 1 only. Learn only once!
-SKILL_20150317_001980	Ice Spear
-SKILL_20150317_001981	Ice Bolt deals additional damage to frozen enemies {Nl} (added by 25% per level)
-SKILL_20150317_001982	Blow of Rupture
-SKILL_20150317_001983	Chance of inflicting explosion damage on enemies with hit attack. {Nl} (triggered at 5% chance per level)
-SKILL_20150317_001984	Rupture
-SKILL_20150317_001985	Blunt weapons will deal more damage to plate armor. {Nl} (increase by 20% per level)
+SKILL_20150317_001966	$HP Potion Booster
+SKILL_20150317_001967	$Decreases the cooldown on HP potions.{nl}(-10% per level)
+SKILL_20150317_001968	$SP Potion Booster
+SKILL_20150317_001969	$Decreases the cooldown on SP potions.{nl}(-10% per level)
+SKILL_20150317_001970	$Sword Mastery
+SKILL_20150317_001971	$Proficient in using Sword-type items.{nl}(+5% damage per level when equipped with a Sword-type item)
+SKILL_20150317_001972	$Staff Mastery
+SKILL_20150317_001973	$Proficient in using Staff-type items.{nl}(+5% damage per level when equipped with a Staff-type item)
+SKILL_20150317_001974	$Bow Mastery
+SKILL_20150317_001975	$Proficient in using Bow-type items.{nl}(+5% damage per level when equipped with a Bow-type item)
+SKILL_20150317_001976	$Mace Mastery
+SKILL_20150317_001977	$Proficient in using Mace-type items.{nl}(+5% damage per level when equipped with a Mace-type item)
+SKILL_20150317_001978	Survival Instinct
+SKILL_20150317_001979	$Increases attack when your HP is below 40%.{nl}Level 1 only. You can only learn it once!
+SKILL_20150317_001980	$Ice Spear
+SKILL_20150317_001981	$Adds additional damage to frozen enemies when attacking with Ice Bolt.{nl}(Adds 25% per level)
+SKILL_20150317_001982	$Rupture Blow
+SKILL_20150317_001983	Has a chance of inflicting damage with an explosion on nearby enemies when attacking with Hit-attacks. (5% chance of activating per level)
+SKILL_20150317_001984	$Rupture
+SKILL_20150317_001985	$Increases damage when using a Blunt weapon on chain armor-type enemies.{nl}(Increases by 20% per level)
 SKILL_20150317_001986	Overcome
-SKILL_20150317_001987	Have increased critical rate when using swords. {Nl} (increased by critical rate of 10% per level)
-SKILL_20150317_001988	Jump
-SKILL_20150317_001989	You can jump. Press the [X] key to jump.
-SKILL_20150317_001990	Sidestep
-SKILL_20150317_001991	Move sideways. Press arrow keys while holding down the [Shift] key, to move sideways. Consumes energy.
-SKILL_20150317_001992	Dash
-SKILL_20150317_001993	You can run. Press an arrow key twice to start the running.
-SKILL_20150317_001994	Meditation
-SKILL_20150317_001995	SP recovery amount increase. {Nl} (increased by 1% of the maximum energy level x)
-SKILL_20150317_001996	Play
-SKILL_20150317_001997	Amount of HP recovery increases. {Nl} (increased by level x 1% of max. HP)
+SKILL_20150317_001987	$Increases Critical Chance when using Sword items.{nl}(Increases Critical by 10% per level)
+SKILL_20150317_001988	$Jump
+SKILL_20150317_001989	$You can jump. Press the [X] key to jump.
+SKILL_20150317_001990	$Sidestep
+SKILL_20150317_001991	$Move sideways. Press the arrow keys while holding down the [Shift] key to move sideways. Consumes Stamina.
+SKILL_20150317_001992	$Dash
+SKILL_20150317_001993	$You can run. Press an arrow key twice to start running.
+SKILL_20150317_001994	$Meditation
+SKILL_20150317_001995	$Increases SP recovery.{nl}(Increases Lv. x maximum Stamina by 1%)
+SKILL_20150317_001996	$Regeneration
+SKILL_20150317_001997	$Increases HP recovery.{nl}(Increases Lv. x maximum HP by 1%)
 SKILL_20150317_001998	Inspiration
 SKILL_20150317_001999	Defense level will increase. {Nl} (increased by level x 10)
 SKILL_20150317_002000	Enemies hit with strong strike have chance of fainting for 5 seconds.
@@ -2049,42 +2049,42 @@ SKILL_20150317_002048	Centrifugal Force
 SKILL_20150317_002049	Tricks
 SKILL_20150317_002050	Shiver
 SKILL_20150317_002051	$[Swash Buckling] Increases Critical Rate. {nl} (Increases by 1% per level)
-SKILL_20150317_002052	Thrust: Knockback Distance
-SKILL_20150317_002053	{memo X}Pushing Force of [Thrust] increases by 50% per attribute level.
-SKILL_20150317_002054	Thrust: Continuous Attack
-SKILL_20150317_002055	{memo X}Trigger Continuous Attack when using [Thrust] at 1% chance per attribute level.
-SKILL_20150317_002056	Bash: Splash
-SKILL_20150317_002057	{memo X}Splash is increased by 1 per attribute level in [Bash].
-SKILL_20150317_002058	Gung Ho: Remaining Defense
-SKILL_20150317_002059	Remaining defense after using [Gung Ho] is 5% per level.
-SKILL_20150317_002060	Bash: Knock Down
-SKILL_20150317_002061	Monsters attacked with [Bash] are knocked down.
-SKILL_20150317_002062	Concentrate: Stun
-SKILL_20150317_002063	While the [Astral Projection] is enabled, enemy falls under [Stun] at 2% per attribute level when attacked.
-SKILL_20150317_002064	Restrain: Duration
-SKILL_20150317_002065	{memo X}Duration of [Retrain] will increase by 5 seconds per level
-SKILL_20150317_002066	{memo X}Thrust: Chance of Critical
-SKILL_20150317_002067	{memo X}Critical probability of [Thrust] increases by 10% per attribute level.
+SKILL_20150317_002052	$Thrust: Knockback Distance
+SKILL_20150317_002053	${memo X}Increases the knockback power by 50 per attribute level.
+SKILL_20150317_002054	$Thrust: Continuous Attack
+SKILL_20150317_002055	${memo X}Activates a continuous attack when using [Thrust] by 1% per attribute level.
+SKILL_20150317_002056	$Bash: Splash
+SKILL_20150317_002057	${memo X}Adds Splash from [Bash] by 1 per attribute level.
+SKILL_20150317_002058	$Gung Ho: Remaining Defense
+SKILL_20150317_002059	$The remaining defense after using [Gung Ho] becomes 5% per level.
+SKILL_20150317_002060	$Bash: Knockdown
+SKILL_20150317_002061	$Enemies hit by [Bash] are knocked down.
+SKILL_20150317_002062	$Concentrate: Stun
+SKILL_20150317_002063	$When you attack while [Concentrate] is active, there is a 2% chance per attribute level to stun enemies.
+SKILL_20150317_002064	$Restrain: Duration
+SKILL_20150317_002065	${memo X}Increases the duration of [Restrain] by 5 seconds per level.
+SKILL_20150317_002066	${memo X}Thrust: Critical Chance
+SKILL_20150317_002067	${memo X}Increases the critical chance of [Thrust] by 10% per attribute level.
 SKILL_20150317_002068	$Swash Buckling: Maximum HP
-SKILL_20150317_002069	{memo X}$Increases the maximum HP of your character by 5% per attribute level while [Swash Buckling] is active. 
-SKILL_20150317_002070	Swash Buckling: Range
+SKILL_20150317_002069	${memo X}Increases the maximum HP of your character by 5% per attribute level while [Swash Buckling] is active. 
+SKILL_20150317_002070	$Swash Buckling: Range
 SKILL_20150317_002071	$Increases the provocation range of [Swash Buckling] by 0.2m per level.
-SKILL_20150317_002072	Umbo Blow: Stun
-SKILL_20150317_002073	{memo X}Enemies attacked with [Umbo Blow] fall under [Stun] by a chance of 5% per attribute level.
-SKILL_20150317_002074	Shield Lob: Splash
-SKILL_20150317_002075	{memo X}Splash of [Shield Lob] increases by 1 per attribute level.
-SKILL_20150317_002076	Shield Mastery
-SKILL_20150317_002077	{memo X}When [Shield] is equipped block is increased by 5% per attribute level.
-SKILL_20150317_002078	Peltasta: Guard
-SKILL_20150317_002079	{memo X}Press C button to use [Guard] while wearing shield.
-SKILL_20150317_002080	Block: Counter Attack
-SKILL_20150317_002081	After a successful [Block] [Umbo blow] will do 200% extra damage of the damage. Critical damage is also increased by 5% per level for 5 seconds
+SKILL_20150317_002072	$Umbo Blow: Stun
+SKILL_20150317_002073	${memo X}Enemies hit by [Umbo Blow] have a 5% chance per attribute level to become stunned.
+SKILL_20150317_002074	$Shield Lob: Splash
+SKILL_20150317_002075	${memo X}Increases the splash from [Shield Lob] by 1 per attribute level.
+SKILL_20150317_002076	$Shield Mastery
+SKILL_20150317_002077	${memo X}Increases Block by 5% per attribute when equipped with a shield.
+SKILL_20150317_002078	$Peltasta: Guard
+SKILL_20150317_002079	${memo X}Use [Guard] by pressing the C button after equipping a shield.
+SKILL_20150317_002080	$Block: Counter Attack
+SKILL_20150317_002081	$Adds 200% damage to [Umbo Blow] after a successful [Block]. In addition, increases your Critical Damage by 5% for 5 seconds per level.
 SKILL_20150317_002082	$[Umbo Blow]: Add Knockdown
-SKILL_20150317_002083	{memo X}$Enemies hit with [Umbo Blow] fall down and the knockdown power increases by 40 per level.
-SKILL_20150317_002084	Rim Blow: Frozen Stone
-SKILL_20150317_002085	Use [Rim Blow] on frozen or petrified enemies to inflict additional 20% damage per level.
-SKILL_20150317_002086	Guard: Defense
-SKILL_20150317_002087	{memo X}Defense of character is increased by 10% while [Guard] is enabled.
+SKILL_20150317_002083	${memo X}Enemies hit with [Umbo Blow] are knocked down and its knockdown power increases by 40 per attribute level.
+SKILL_20150317_002084	$Rim Blow: Frozen Stone
+SKILL_20150317_002085	$Adds 20% damage to [Rim Blow] per level when using the skill on frozen or petrified enemies.
+SKILL_20150317_002086	$Guard: Defense
+SKILL_20150317_002087	${memo X}Increases the character's defense by 10% while [Guard] is active.
 SKILL_20150317_002088	Cartar Stroke: Collision Damage
 SKILL_20150317_002089	{memo X}$When enemies knocked back by [Cartar Stroke] hit a wall, they take an additional 50% physical damage.
 SKILL_20150317_002090	{memo X}Cartar Stroke: Knockback Distance
@@ -4154,7 +4154,7 @@ SKILL_20150714_004153	{memo X}Attack - #{CaptionRatio}#% {nl}Defense + #{Caption
 SKILL_20150714_004154	Attack #{SkillAtkAdd}#{nl}Attribute Attack #{CaptionRatio}#%{nl}Casting Time 1 seconds{nl}Range Attack Ratio #{SkillSR}#
 SKILL_20150714_004155	Attack #{SkillAtkAdd}#{nl}Attribute Attack #{CaptionRatio}#%
 SKILL_20150714_004156	Attack #{SkillAtkAdd}#{nl}Attribute Attack #{CaptionRatio}#%{nl}Attack Count #{SkillSR}# times{nl}Duration #{CaptionTime}#seconds
-SKILL_20150714_004157	Attribute Attack #{CaptionTime}#%{nl}Firewall #{CaptionRatio}#ea{nl}Attack Cotun #{CaptionRatio2}#times{nl}Duration 15 seconds
+SKILL_20150714_004157	Attribute Attack: #{CaptionTime}#%{nl}Fire Wall: #{CaptionRatio}#{nl}Number of Hits: #{CaptionRatio2}#{nl}Duration: 15 seconds
 SKILL_20150714_004158	{memo X}Attack #{SkillAtkAdd}#{nl}Attribute Attack #{CaptionRatio2}#%{nl} #{CaptionRatio}#% of SP consumed per 0.5 seconds
 SKILL_20150714_004159	Attack #{SkillAtkAdd}#{nl}Attribute Attack #{CaptionRatio}#%{nl}{#339999}{ol}[Freeze]{/}{/} Duration 3 seconds
 SKILL_20150714_004160	Attack #{SkillAtkAdd}#{nl}Attribute Attack #{CaptionRatio}#%{nl}{#339999}{ol}[Freeze]{/}{/} Duration 4 seconds
