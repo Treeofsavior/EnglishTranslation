@@ -2098,48 +2098,48 @@ SKILL_20150317_002097	{memo X}Splash is increased by 1 in [Wagon Wheel].
 SKILL_20150317_002098	$Cross Guard: Counterattack
 SKILL_20150317_002099	Whe an attack is succesfully blocked by [Cross Guard] You inflict 10% per attribute level of your physical attack on your attack as damage.
 SKILL_20150317_002100	$Cross Guard: Defense
-SKILL_20150317_002101	If at least 3 monsters are provoked when using [Cross Guard], damage received decreases by 10% per level.
+SKILL_20150317_002101	$Decreases damage received by 10% per level when at least 3 enemies or more are provoked when using [Cross Guard].
 SKILL_20150317_002102	$Two-handed Sword Mastery
 SKILL_20150317_002103	{memo X}[Two-handed Sword] wearing critical attack is increased by 10% per level of features.
 SKILL_20150317_002104	Moulinet: Critical occurrece
 SKILL_20150317_002105	{memo X}Critical rate for [Moulinet] is increased by 10% per Attribute level.
 SKILL_20150317_002106	$Stabbing: Evasion
 SKILL_20150317_002107	{memo X}Evasion increase by 5% per Attribute level when attacking enemy with [Stabbing].
-SKILL_20150317_002108	Pierce: Continuous Attack
+SKILL_20150317_002108	$Pierce: Continuous Attack
 SKILL_20150317_002109	[Pierce] makes 4 continuous attacks on boss monster.
 SKILL_20150317_002110	$Pierce: Bleeding
 SKILL_20150317_002111	{memo X}Gain a 2% probability per attribute level that an enemy hit by [Pierce] gains the status [Bleeding] for 5 seconds.
-SKILL_20150317_002112	Finestra: Physical Damage
-SKILL_20150317_002113	10% of character's INT is added to Physical damage while [Finestra] is enabled.
-SKILL_20150317_002114	Synchro Thrusting: Critical occurrence
+SKILL_20150317_002112	$Finestra: Physical Damage
+SKILL_20150317_002113	$Adds 10% of INT to physical damage while [Finestra] is active.
+SKILL_20150317_002114	$Synchro Thrusting: Critical Rate
 SKILL_20150317_002115	Critical chance increases by 5% per attribute level for 5 seconds if [Synchro Thrusting] is successfully used as a counter attack. 
 SKILL_20150317_002116	Synchro Thrusting: Pierce
 SKILL_20150317_002117	{memo X}Hit damage of the shield attack decrease by 10% per attribute level while the  Pierce damage increase by 20% per attribute level.
-SKILL_20150317_002118	Finestra: Splash
+SKILL_20150317_002118	$Finestra: Splash
 SKILL_20150317_002119	{memo X}Spash increase by 2 and evasion decrease twice as much when [Finestra] is enabled.
 SKILL_20150317_002120	{memo X}Warcry: defense decrease
 SKILL_20150317_002121	{memo X}Number of enemies that lose defese when [Warcry] is used increases by 1 per level.
-SKILL_20150317_002122	Warcry: duration
+SKILL_20150317_002122	$Warcry: Duration
 SKILL_20150317_002123	{memo X}Duration of [Warcry] will increase by 2 seconds per level
-SKILL_20150317_002124	Aggressor: Critical occurrence
+SKILL_20150317_002124	$Aggressor: Critical Rate
 SKILL_20150317_002125	Accuracy added is lowered to half but chance of critical increases as much as evasion decreases when [Aggressor] is enabled.
-SKILL_20150317_002126	Aggressor: Additional Accuracy
+SKILL_20150317_002126	$Aggressor: Additional Accuracy
 SKILL_20150317_002127	Additional Accuracy is increased by 2% per level and Evasion is decreased further by 2% per level when using [Aggressor]
-SKILL_20150317_002128	Savagery: Critical occurrence
+SKILL_20150317_002128	$Savagery: Critical Rate
 SKILL_20150317_002129	{memo X}Critical rate for [Savagery] is increased by 5% per Attribute level.
-SKILL_20150317_002130	Savagery: Slash repeat
+SKILL_20150317_002130	$Savagery: Continuous Slash
 SKILL_20150317_002131	Continuous hit bonus is also applied to Slash attack for [Savagery].
-SKILL_20150317_002132	Targe Smash: Frozen Stone
+SKILL_20150317_002132	$Targe Smash: Frozen Stone
 SKILL_20150317_002133	{memo X}Attacking [Frozen] or [Petrified] enemies deals 20% more damage per attribute level.
-SKILL_20150317_002134	Montano: Size slow
+SKILL_20150317_002134	$Montano: Size Slow
 SKILL_20150317_002135	{memo X}[Slow] is inflicted on small, medium, large monsters for 3, 2, 1 second(s) when using [Montano].
-SKILL_20150317_002136	Shield Charge: Knockback
-SKILL_20150317_002137	Knockback distance of [Shield Charge] increases by 1m per level.
-SKILL_20150317_002138	Counter Thrust: Deprotect
+SKILL_20150317_002136	$Shield Charge: Knockback
+SKILL_20150317_002137	$Increases the knockback distance of [Shield Charge] by 1m per level.
+SKILL_20150317_002138	$Counter Thrust: Deprotect
 SKILL_20150317_002139	Counter Thrust has a 10% chance per attribute level of inflicted [Deprotect] for 5 seconds, negating all active buffs on the target.
-SKILL_20150317_002140	Shield Push: Unbalance
+SKILL_20150317_002140	$Shield Push: Unbalance
 SKILL_20150317_002141	Knocking down enemies under [Unbalance] with [Shield Push] deals an additional 20% damage.
-SKILL_20150317_002142	Targe Smash: Flame
+SKILL_20150317_002142	$Targe Smash: Flame
 SKILL_20150317_002143	{memo X}Spreads [Flame] to a number of enemies equal to the attribute level when an enemy sufferig from [Flame] is killed with [Targe Smash].
 SKILL_20150317_002144	Cyclone: Moving
 SKILL_20150317_002145	Can move while using [Cyclone].
@@ -3616,7 +3616,7 @@ SKILL_20150414_003615	$Hit your shield to provoke nearby enemies making them pur
 SKILL_20150414_003616	$Increases your defense while decreasing your attack. Cannot be used with Gung Ho.
 SKILL_20150414_003617	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Throw shield to attack. Shield dropped on ground may disappear if not picked up within time limit.
 SKILL_20150414_003618	Change to active stance using shield in front. Block and increases while attack and critical decrease.
-SKILL_20150414_003619	Block +#{CaptionRatio}# {nl}Attack -#{CaptionTime}#% {nl}Chance of critical -#{CaptionRatio2}#
+SKILL_20150414_003619	$Block: +#{CaptionRatio}# {nl}Attack: -#{CaptionTime}#% {nl}Critical Chance: -#{CaptionRatio2}#
 SKILL_20150414_003620	{#DD5500}{ol}[Physical] - [Strike] - [Slash]{/}{/}{nl}Use shield and sword to make continuous attacks.
 SKILL_20150414_003621	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Use weapon to raise and blow away enemy.
 SKILL_20150414_003622	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Smack down enemy's head. Target's INT and SPR temporarily decrease.
@@ -3789,8 +3789,8 @@ SKILL_20150414_003788	Hide yourself in an empty container. Blocks agains few Phy
 SKILL_20150414_003789	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Shoot arrow that makes noise. Enemies nearby falls under fear.
 SKILL_20150414_003790	Temporarily hide yourself away from enemy's vision. You become exposed when jumping or attacking.
 SKILL_20150414_003791	Distort sense of distance and make attack of allies possible outside the range.
-SKILL_20150414_003792	Show items or enemies hidden within range.
-SKILL_20150414_003793	Temporarily increase chance of critical when attacking from behind enemy.
+SKILL_20150414_003792	Show hidden items or enemies within range.
+SKILL_20150414_003793	$Temporarily increases your Critical Chance when attacking enemies from behind. 
 SKILL_20150414_003794	Trick enemies to lower their guards. Evasion of enemies in front decreases.
 SKILL_20150414_003795	Hide on the ground. You can attack but cannot move.
 SKILL_20150414_003796	Steal enemy's trap and magic circle. You may use it alter when you need it.
@@ -4992,19 +4992,19 @@ SKILL_20150729_004991	The maximum number of zombies in [Zombify] increases by 1.
 SKILL_20150730_004992	Summon the devil of card inserted in Grimore. Character's INT, SPR affects the ATK and DEF of summoned devil. Ability increases by 10% per card star. Grimore can only equip Demon type monster card.
 SKILL_20150730_004993	Make Shogos molded based on the card inserted in Necronomicon. Character's INT, SPR affects the ATK and DEF of summoned devil. Ability increases by 10% per card star. Necronomicon can equip only Animal, Plant, and Mutant type cards.
 SKILL_20150730_004994	Companion bites and holds on to target. Target's Physical DEF decreases and bonus chance of critical is applied.
-SKILL_20150730_004995	Physical DEF -#{CaptionRatio}# {nl}Addt'l chance of critical 30%{nl}Duration #{CaptionTime}#sec
+SKILL_20150730_004995	$Physical Defense: -#{CaptionRatio}# {nl}Additional Critical Chance: 30%{nl}Duration: #{CaptionTime}# seconds
 SKILL_20150803_004996	Quick Cast
 SKILL_20150803_004997	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Sit down to increase focus. ATK, speed and range increases.
-SKILL_20150803_004998	Physical Damage +#{CaptionRatio}#{nl} Range +#{CaptionRatio2}# Attack speed +#{CaptionTime}#
-SKILL_20150803_004999	Attribute ATK #{CaptionRatio}#%{nl}Throw #{CaptionRatio2}#{nl}Caldrop duration #{CaptionTime}#sec
-SKILL_20150803_005000	Attack 150% +#{SkillAtkAdd}#{nl}Attribute Attack #{CaptionRatio}#%{nl}{#339999}{ol}[Stun]{/}{/} Duration #{CaptionTime}#seconds{nl}Use 1 stone bullet
-SKILL_20150803_005001	ATK #{SkillAtkAdd}#{nl}Attribute ATK #{CaptionRatio}#%{nl}Trap duration 15sec{nl}Use 3 Ash wood
-SKILL_20150803_005002	Max. duration #{CaptionRatio}#seconds
+SKILL_20150803_004998	$Physical Damage: +#{CaptionRatio}#{nl} Range: +#{CaptionRatio2}# Attack speed: +#{CaptionTime}#
+SKILL_20150803_004999	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio}#%{nl}#Number of caltrops: {CaptionRatio2}#{nl}Caltrop duration: #{CaptionTime}# seconds
+SKILL_20150803_005000	$Attack: 150% +#{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio}#%{nl}{#339999}{ol}[Stun]{/}{/} Duration: #{CaptionTime}# seconds{nl}Consumes 1 Stone Bullet
+SKILL_20150803_005001	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio}#%{nl}Trap duration: 15seconds{nl}Consumes 3 Ash Wood
+SKILL_20150803_005002	$Maximum duration: #{CaptionRatio}# seconds
 SKILL_20150803_005003	Create magic circle that turns enemies killed into zombies. The HP of created zombies are based on the caster's SPR.
-SKILL_20150803_005004	Max. HP +#{CaptionRatio}#{nl}Movement Speed +#{CaptionRatio2}#% Duration #{CaptionTime}#seconds{nl}pattern duration 15 seconds
-SKILL_20150803_005005	Strength +#{CaptionRatio}#{nl}Duration #{CaptionRatio2}#{nl} pattern duration 15 seconds
-SKILL_20150803_005006	Attribute Attack #{CaptionRatio2}#%{nl}Additional Damage to plant type monsters +#{CaptionRatio}#{nl}drop rate of statue materials#{CaptionTime}#%
-SKILL_20150803_005007	Can use monster's skill{nl}Max duration #{CaptionTime}#seconds
+SKILL_20150803_005004	$Maximum HP: +#{CaptionRatio}#{nl}Movement Speed: +#{CaptionRatio2}#% Duration: #{CaptionTime}# seconds{nl}Glyph duration: 15 seconds
+SKILL_20150803_005005	$STR: +#{CaptionRatio}#{nl}Duration: #{CaptionRatio2}#{nl}Glyph duration: 15 seconds
+SKILL_20150803_005006	$Attribute Attack: #{CaptionRatio2}#%{nl}Additional Damage to Plant-type monsters: +#{CaptionRatio}#{nl}Drop rate for statue materials: #{CaptionTime}#%
+SKILL_20150803_005007	$Can use monster's skill{nl}Maximum duration: #{CaptionTime}# seconds
 SKILL_20150803_005008	$Effigy Enhance
 SKILL_20150803_005009	$Increases the attack bonus of Effigy
 SKILL_20150803_005010	$Increases the additional damage of [Concentrate] by 2 per attribute level.
