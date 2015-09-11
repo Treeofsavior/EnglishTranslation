@@ -4116,11 +4116,11 @@ SKILL_20150428_004115	$Punji Stake: Fall Damage
 SKILL_20150428_004116	{memo X}Air type monsters that fall on ground with [Snatching] receives 20% more damage per attribute level when attacked with Slash, Hit type attacks.
 SKILL_20150428_004117	{memo X}Ice attack increases by 3 per attribute level when using [Rod].
 SKILL_20150428_004118	{memo X}There is 1% chance per attribute level for enemies pushed away with [Rush] to fall under [Stun].
-SKILL_20150714_004119	$Lv. 1 Attack Ratio: #{SkillFactor}#, Range Attack Ratio: #{SkillSR}#
+SKILL_20150714_004119	$Lv. 1 Attack Ratio: #{SkillFactor}#, AoE Attack Ratio: #{SkillSR}#
 SKILL_20150714_004120	$Staff Attack
 SKILL_20150714_004121	$Attack an enemy from a short distance.
-SKILL_20150714_004122	$Attack +#{SkillFactor}#, Range Attack Ratio: #{SkillSR}#{nl}Consumes #{SpendSP}# SP
-SKILL_20150714_004123	$Duration: #{CaptionTime}# seconds{nl}Range Attack Ratio: #{CaptionRatio}#
+SKILL_20150714_004122	$Attack +#{SkillFactor}#, AoE Attack Ratio: #{SkillSR}#{nl}Consumes #{SpendSP}# SP
+SKILL_20150714_004123	$Duration: #{CaptionTime}# seconds{nl}AoE Attack Ratio: #{CaptionRatio}#
 SKILL_20150714_004124	$Increase HP & SP Recovery
 SKILL_20150714_004125	{memo X}All Status Increase
 SKILL_20150714_004126	{memo X}Cooltime Decrease
@@ -4128,20 +4128,20 @@ SKILL_20150714_004127	$Increase EXP Rate
 SKILL_20150714_004128	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio}#%{nl}Duration: #{CaptionTime}# seconds
 SKILL_20150714_004129	$Removes the armor's effect from the target.
 SKILL_20150714_004130	$Decreases the target's defense.
-SKILL_20150714_004131	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio}#%{nl}Range Attack Ratio: #{SkillSR}#
-SKILL_20150714_004132	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio2}#%{nl}Ignores the defense of small-type and medium-type targets #{CaptionRatio}#{nl}Range Attack Ratio: #{SkillSR}#
-SKILL_20150714_004133	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio}#%{nl}Casting Time: 0.5 seconds{nl}Range Attack Ratio: #{SkillSR}#
-SKILL_20150714_004134	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio}#%{nl}{#339999}{ol}[Shock]{/}{/} Duration: #{CaptionTime}# seconds {nl}Range Attack Ratio: #{SkillSR}#
+SKILL_20150714_004131	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio}#%{nl}AoE Attack Ratio: #{SkillSR}#
+SKILL_20150714_004132	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio2}#%{nl}Ignores the defense of small-type and medium-type targets #{CaptionRatio}#{nl}AoE Attack Ratio: #{SkillSR}#
+SKILL_20150714_004133	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio}#%{nl}Casting Time: 0.5 seconds{nl}AoE Attack Ratio: #{SkillSR}#
+SKILL_20150714_004134	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio}#%{nl}{#339999}{ol}[Shock]{/}{/} Duration: #{CaptionTime}# seconds {nl}AoE Attack Ratio: #{SkillSR}#
 SKILL_20150714_004135	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio}#%{nl}Medium-type targets: 2 consecutive attacks{nl}Large-type targets: 3 consecutive attacks
-SKILL_20150714_004136	$Spear Attack: #{SkillAtkAdd}#{nl}Shield Attack: #{CaptionRatio}#{nl}Attribute Attack: #{CaptionRatio2}#%{nl}Range Attack Ratio: #{SkillSR}#
+SKILL_20150714_004136	$Spear Attack: #{SkillAtkAdd}#{nl}Shield Attack: #{CaptionRatio}#{nl}Attribute Attack: #{CaptionRatio2}#%{nl}AoE Attack Ratio: #{SkillSR}#
 SKILL_20150714_004137	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio}#%{nl}Maximum duration: 5 seconds{nl}Consumes Stamina
 SKILL_20150714_004138	{memo X}Attack #{SkillAtkAdd}#{nl}Attribute Attack #{CaptionRatio}#%{nl}{#339999}{ol}[Stun]{/}{/} Duration 7 seconds
-SKILL_20150714_004139	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio}#%{nl}{#339999}{ol}[Darkness]{/}{/} Duration: 3 seconds{nl}Range Attack Ratio: #{SkillSR}#
+SKILL_20150714_004139	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio}#%{nl}{#339999}{ol}[Darkness]{/}{/} Duration: 3 seconds{nl}AoE Attack Ratio: #{SkillSR}#
 SKILL_20150714_004140	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio2}#%{nl}Defense: -#{CaptionRatio}#{nl}{#339999}{ol}[Unbalance]{/}{/} Duration: #{CaptionTime}# seconds
 SKILL_20150714_004141	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio}#%{nl}Maximum duration: 10 seconds
-SKILL_20150714_004142	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio}#%{nl}Range Attack Ratio: #{SkillSR}#{nl}Can use while riding
-SKILL_20150714_004143	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio}#%{nl}Maximum duration: 10 seconds{nl}Range Attack Ratio: #{SkillSR}#{nl}Can use while riding
-SKILL_20150714_004144	$Attack: #{SkillAtkAdd}#{nl}Range Attack Ratio: #{SkillSR}#{nl}Can use while riding
+SKILL_20150714_004142	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio}#%{nl}AoE Attack Ratio: #{SkillSR}#{nl}Can use while riding
+SKILL_20150714_004143	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio}#%{nl}Maximum duration: 10 seconds{nl}AoE Attack Ratio: #{SkillSR}#{nl}Can use while riding
+SKILL_20150714_004144	$Attack: #{SkillAtkAdd}#{nl}AoE Attack Ratio: #{SkillSR}#{nl}Can use while riding
 SKILL_20150714_004145	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio}#%{nl}Maximum duration: 10 seconds{nl}Consumes Stamina
 SKILL_20150714_004146	{memo X}Attack #{SkillFactor}#% + #{SkillAtkAdd}#{nl}Attribute Attack #{CaptionRatio2}#%{nl}#{CaptionRatio}#Continouse hits
 SKILL_20150714_004147	{memo X}Block Increase{nl}Use SP 1% per 2 seconds
@@ -4151,7 +4151,7 @@ SKILL_20150714_004150	{memo X}When attack #{CaptionRatio}# continous hits{nl} Us
 SKILL_20150714_004151	{memo X}Use SP 1% per 2 seconds
 SKILL_20150714_004152	$Switches to the Testudo formation. Increases the defense of all members at the cost of slower movement speed.
 SKILL_20150714_004153	{memo X}Attack - #{CaptionRatio}#% {nl}Defense + #{CaptionRatio}#%{nl}Additional defense #{CaptionRatio2}#%{nl} Use SP 1% per 2 secodns
-SKILL_20150714_004154	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio}#%{nl}Casting Time: 1 second{nl}Range Attack Ratio: #{SkillSR}#
+SKILL_20150714_004154	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio}#%{nl}Casting Time: 1 second{nl}AoE Attack Ratio: #{SkillSR}#
 SKILL_20150714_004155	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio}#%
 SKILL_20150714_004156	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio}#%{nl}Number of hits: #{SkillSR}#{nl}Duration: #{CaptionTime}# seconds
 SKILL_20150714_004157	$Attribute Attack: #{CaptionTime}#%{nl}Number of tiles: #{CaptionRatio}#{nl}Number of hits: #{CaptionRatio2}#{nl}Duration: 15 seconds
@@ -4161,19 +4161,19 @@ SKILL_20150714_004160	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRat
 SKILL_20150714_004161	$Number of tiles: #{CaptionRatio}#{nl}{#339999}{ol}[Freeze]{/}{/} Duration: 3 seconds{nl}Ice Wall Duration: 15 seconds
 SKILL_20150714_004162	${#339999}{ol}[Freeze]{/}{/} Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio}#%
 SKILL_20150714_004163	{memo X}Enemies attacked {#339999}{ol}[Freeze]{/}{/}Chance 50%{nl}{#339999}{ol}[Freeze]{/}{/} Duration #{CaptionRatio}#seconds
-SKILL_20150714_004164	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio2}#%{nl}Range Attack Ratio: #{CaptionRatio}#{nl}Duration: #{CaptionTime}# seconds
-SKILL_20150714_004165	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionTime}#%{nl}Range Attack Ratio: #{CaptionRatio}#{nl}Consumes #{CaptionRatio2}#% SP per second
+SKILL_20150714_004164	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio2}#%{nl}AoE Attack Ratio: #{CaptionRatio}#{nl}Duration: #{CaptionTime}# seconds
+SKILL_20150714_004165	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionTime}#%{nl}AoE Attack Ratio: #{CaptionRatio}#{nl}Consumes #{CaptionRatio2}#% SP per second
 SKILL_20150714_004166	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio2}#%{nl}Number of hits: #{CaptionRatio}#{nl}Duration: #{CaptionTime}# seconds
 SKILL_20150714_004167	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio2}#%{nl}Number of targets: #{CaptionRatio}#
 SKILL_20150714_004168	$Duration: #{CaptionTime}# seconds{nl}Number of targets: #{CaptionRatio}#
 SKILL_20150714_004169	{memo X}Attack #{SkillAtkAdd}#{nl}Attribute Attack #{CaptionRatio}#%{nl}Duration 15 seconds
-SKILL_20150714_004170	{memo X}Attack #{SkillAtkAdd}#{nl}Attribute Attack #{CaptionRatio}#%{nl}Casting Time #{CaptionTime}#seconds{nl}Range Attack Ratio #{SkillSR}#
+SKILL_20150714_004170	{memo X}Attack #{SkillAtkAdd}#{nl}Attribute Attack #{CaptionRatio}#%{nl}Casting Time #{CaptionTime}#seconds{nl}AoE Attack Ratio #{SkillSR}#
 SKILL_20150714_004171	{memo X}Duration #{CaptionTime}#seconds{nl}Move speed decreases 10%{nl}{#DD5500}{ol}Eletric{/}{/}Attribute Attack Additional Damage{nl}{#DD5500}{ol}Flame{/}{/}Attribute Target #{SkillAtkAdd}#
 SKILL_20150714_004172	{memo X}Summon Demon type boss{nl}Demon status #{CaptionRatio}#% increases
 SKILL_20150714_004173	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio2}#%{nl}Summons Familiar: #{CaptionRatio}#
-SKILL_20150714_004174	$[Increase SP Recovery Speed]{nl}[Increase Range Attack Ratio]{nl}[Stamina Recovery]{nl}[Increase Magic Defense]{nl}[Increase Dark Property Attack]
+SKILL_20150714_004174	$[Increase SP Recovery Speed]{nl}[Increase AoE Attack Ratio]{nl}[Stamina Recovery]{nl}[Increase Magic Defense]{nl}[Increase Dark Property Attack]
 SKILL_20150714_004175	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio}#%{nl}Collect corpses of each type
-SKILL_20150714_004176	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio2}#%{nl}Range Attack Ratio: #{SkillSR}#{nl}Plant-type, Beast-type, Mutant-type corpses{nl}Consumes #{CaptionRatio}# each
+SKILL_20150714_004176	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio2}#%{nl}AoE Attack Ratio: #{SkillSR}#{nl}Plant-type, Beast-type, Mutant-type corpses{nl}Consumes #{CaptionRatio}# each
 SKILL_20150714_004177	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio2}#%{nl}Duration: 15 seconds{nl}Consumes #{CaptionRatio}# Mutant-type Corpse
 SKILL_20150714_004178	$Target Range: #{CaptionRatio}#
 SKILL_20150714_004179	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio2}#%{nl}Fires #{CaptionRatio}# times
@@ -4186,7 +4186,7 @@ SKILL_20150714_004185	{memo X}Attribute Attack #{CaptionRatio}#%{nl}Throw#{Capti
 SKILL_20150714_004186	{memo X}Attack #{SkillAtkAdd}#{nl}Attribute Attack #{CaptionRatio}#%{nl}{#339999}{ol}[Stun]{/}{/} Duration #{CaptionTime}#seconds{nl}Use 1 stone bullet
 SKILL_20150714_004187	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio}#%{nl}Maximum Load Time: #{CaptionTime}# seconds
 SKILL_20150714_004188	{memo X}Attack #{SkillAtkAdd}#{nl}Attribute Attack #{CaptionRatio}#%{nl}Duration 15 seconds{nl}Use 3 Ash wood
-SKILL_20150714_004189	{memo X}Attack #{SkillAtkAdd}#{nl}Attribute Attack #{CaptionRatio}#%{nl}Range Attack Ratio #{CaptionRatio}#{nl}Use 1 Claymore
+SKILL_20150714_004189	{memo X}Attack #{SkillAtkAdd}#{nl}Attribute Attack #{CaptionRatio}#%{nl}AoE Attack Ratio #{CaptionRatio}#{nl}Use 1 Claymore
 SKILL_20150714_004190	{memo X}Attack #{SkillAtkAdd}#{nl}Attribute Attack #{CaptionRatio}#%{nl}Casting Time 3 seconds{nl}Use 1 Pine Tree
 SKILL_20150714_004191	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio2}#%{nl}Number of explosions: #{CaptionRatio}#
 SKILL_20150714_004192	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionTime}#%{nl}Number of arrows: #{CaptionRatio}#{nl}Set up range: #{CaptionRatio2}#{nl}Consumes 2 Wires
@@ -4716,7 +4716,7 @@ SKILL_20150717_004715	Temporarily decrease defense of nearby enemies, and add th
 SKILL_20150717_004716	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Tramp down on enemy while on air or jumping. Attack damage will be decided,according to the Character's height and Shoes's defense.
 SKILL_20150717_004717	Caputre time #{CaptionRatio}#seconds
 SKILL_20150717_004718	Attack - #{CaptionRatio}#% {nl}Increase defense according to reduced attack{nl}Additonal defense #{CaptionRatio2}#%{nl}Use SP 2 % per 2 seconds
-SKILL_20150717_004719	Attack #{SkillAtkAdd}#{nl}Attribute Attack #{CaptionRatio}#%{nl}Duration #{CaptionRatio2}#seconds{nl}Range Attack Ratio #{SkillSR}#
+SKILL_20150717_004719	Attack #{SkillAtkAdd}#{nl}Attribute Attack #{CaptionRatio}#%{nl}Duration #{CaptionRatio2}#seconds{nl}AoE Attack Ratio #{SkillSR}#
 SKILL_20150717_004720	{memo X}Summon the devil of card inserted in Grimore. The attack and defense of summoned devil will be decided according to character's INT, SPR. Grimore can only equip Devil type monster card.
 SKILL_20150717_004721	Summon Demon type boss{nl}Demon additional attack #{CaptionRatio}#{nl}Demon additional defense #{CaptionRatio2}#
 SKILL_20150717_004722	Movement speed - #{CaptionRatio}# {nl}Magic circle duration #{CaptionRatio2}#seconds{nl}{#339999}{ol}[Slow]{/}{/} Duration 5 seconds
