@@ -3952,10 +3952,10 @@ SKILL_20150414_003951	$Heavy Shot: Enhance 2
 SKILL_20150414_003952	Damage of [Heavy Shot] is enhanced to Archer Circle 3.
 SKILL_20150414_003953	$Twin Arrows: Enhance
 SKILL_20150414_003954	{memo X}Damage of [Twin Arrow] increase per attribute level.
-SKILL_20150414_003955	$Tear Down: Enhance
-SKILL_20150414_003956	{memo X}Damage of [Tear Down] increase per attribute level.
-SKILL_20150414_003957	$Tear Down: Enhance 2
-SKILL_20150414_003958	$Enhanced the damage of [Tear Down] to Quarrel Shooter's 3rd Circle standards.
+SKILL_20150414_003955	$Teardown: Enhance
+SKILL_20150414_003956	{memo X}Damage of [Teardown] increase per attribute level.
+SKILL_20150414_003957	$Teardown: Enhance 2
+SKILL_20150414_003958	$Enhanced the damage of [Teardown] to Quarrel Shooter's 3rd Circle standards.
 SKILL_20150414_003959	$Running Shot: Enhance
 SKILL_20150414_003960	$Increases the damage of [Running Shot] per attribute level.
 SKILL_20150414_003961	$Tear Gas: Additional Damage
@@ -3996,7 +3996,7 @@ SKILL_20150414_003995	$Decreases the amount of created dungeon waves with [Item 
 SKILL_20150414_003996	$Weapon Swap
 SKILL_20150414_003997	{memo X}You can change weapon.
 SKILL_20150414_003998	$Vendetta: Counter Attack
-SKILL_20150414_003999	$Double damage applies when hitting an enemy with [Vendetta] who is affected by the [Bleed] status effect.
+SKILL_20150414_003999	$Double damage applies when hitting an enemy affected by the [Bleed] status effect with [Vendetta].
 SKILL_20150414_004000	$Backstep: Massive Bleed
 SKILL_20150414_004001	{memo X}Enemy falls under [Massive Bleed] status when attack with [Back Step] while bleeding.
 SKILL_20150414_004002	$Magic Arrow: Silence
@@ -4493,7 +4493,7 @@ SKILL_20150714_004492	$Increases the damage dealt on an enemy with [Gather Corps
 SKILL_20150714_004493	$Increases the damage dealt on an enemy with [Flash Cannon] by 1% per attribute level.
 SKILL_20150714_004494	$Increases the damage dealt on an enemy with [Flash Hoop] by 1% per attribute level.
 SKILL_20150714_004495	{memo X}When an enemy gets shot by [Flash Canon], it will fall into Decay status for 30 secs with a certain probability. The rate will increase by 5% per Attribute level.
-SKILL_20150714_004496	Create Shoggoth: Decay
+SKILL_20150714_004496	$Create Shoggoth: Decay
 SKILL_20150714_004497	{memo X}The enemies near Shoggoth will fall into Decay status for 10 secs. This ability will last for 1 min per Attribute level after Shoggoth gets summoned.
 SKILL_20150714_004498	$Disinter: Range Increase
 SKILL_20150714_004499	{memo X}$Increases the range of [Disinter].
@@ -4525,15 +4525,15 @@ SKILL_20150714_004524	$Increases the damage dealt on an enemy with [Bounce Shot]
 SKILL_20150714_004525	$Knockbacks enemies hit by [Barrage] with a 10% chance per attribute level.
 SKILL_20150714_004526	$Inflicts [Slow] on enemies hit by [Bounce Shot] with a 10% chance per attribute level.
 SKILL_20150714_004527	$Spiral Arrow: Weakness Attack
-SKILL_20150714_004528	The attacks with the effect of [Spiral Arrow] will be Critical with a certain probability to the enemies that are in Armor Break status. The probability will increase by 10% per Attribute level.
+SKILL_20150714_004528	$Has a chance to apply Critical to attacks with the effect of [Spiral Arrow] to enemies afflicted with Armor Break. Increases the chance by 10% per attribute level.
 SKILL_20150714_004529	$Increases the damage dealt on an enemy with [Scatter Caltrop] by 1% per attribute level.
 SKILL_20150714_004530	$Increases the damage dealt on an enemy with [Stone Shot] by 1% per attribute level.
 SKILL_20150714_004531	$Increases the damage dealt on an enemy with [Rapid Fire] by 1% per attribute level.
-SKILL_20150714_004532	$Increases the damage dealt on an enemy with [Tear Down] by 1% per attribute level.
+SKILL_20150714_004532	$Increases the damage dealt on an enemy with [Teardown] by 1% per attribute level.
 SKILL_20150714_004533	$Increases the duration of [Scatter Caltrop] by 1 second per attribute level.
-SKILL_20150714_004534	When stepped on [Scatter Caltrops], the target will fall into [Bleeding] with 8% probability per Attribute level.
-SKILL_20150714_004535	Tear Down: Tear down the sculpture
-SKILL_20150714_004536	[Tear Down] enables you to tear down the fragments of Divine Tree.
+SKILL_20150714_004534	$There is a 8% chance per attribute level to afflict [Bleed] when stepping on [Scatter Caltrop].
+SKILL_20150714_004535	$Teardown: Teardown Statue
+SKILL_20150714_004536	$Dismantle the pieces of Dievdirbys' World Tree with [Teardown].
 SKILL_20150714_004537	$Increases the damage dealt on an enemy with [Broom Trap] by 1% per attribute level.
 SKILL_20150714_004538	$Increases the damage dealt on an enemy with [Claymore] by 1% per attribute level.
 SKILL_20150714_004539	$Increases the damage dealt on an enemy with [Punji Stake] by 1% per attribute level.
@@ -4546,16 +4546,16 @@ SKILL_20150714_004545	{memo X}As the enemy that was flown to the air by [Punji S
 SKILL_20150714_004546	Monsters attacked by [Pointing] will fall into [Fear] with 5% probability per Atttribute level every 3 secs.
 SKILL_20150714_004547	{memo X}DEF of the enemies that are attacked with [Retrieve] will decrease by 10 per Attribute level.
 SKILL_20150714_004548	Monsters in the air that are dropped on the ground by [Snatching] will receive additional 20% damage from Slash, Hit properties' attacks per Attribute level.
-SKILL_20150714_004549	Movement speed of Companion will increase by 5% per Attribute level with [Praise].
+SKILL_20150714_004549	$Increases the movement speed of your Companion by 5% per attribute level with [Praise].
 SKILL_20150714_004550	Coursing: Tear up the mind
-SKILL_20150714_004551	Magic DEF of the enemies that are inflicted with [Coursing] will decrease by 10 per Attribute level.
-SKILL_20150714_004552	Hounding: Confusion
-SKILL_20150714_004553	Enemies that are discovered while in [Hounding] will be in Confusion with a certain probability. The probability will increase by 10% per Attribute level.
+SKILL_20150714_004551	$Decreases the enemy's magic defense afflicted with [Coursing] by 10 per attribute level.
+SKILL_20150714_004552	$Hounding: Confusion
+SKILL_20150714_004553	$Enemies discovered during [Hounding] will become confused with a certain chance. Increases the chance by 10% per attribute level.
 SKILL_20150714_004554	$Increases the damage dealt on an enemy with [Needle Blow] by 1% per attribute level.
 SKILL_20150714_004555	$Increases the damage dealt on an enemy with [Wugong Gu] by 1% per attribute level.
 SKILL_20150714_004556	$Increases the damage dealt on an enemy with [Throw Gu Pot] by 1% per attribute level.
 SKILL_20150714_004557	{memo X}A character whose [Poison] is removed due to [Detoxify] will be immune to [Poison] for 2 secs per Attribute level.
-SKILL_20150714_004558	[Wugong Gu]: Infection continues
+SKILL_20150714_004558	$Wugong Gu: Continuous Infection
 SKILL_20150714_004559	Duration of the infected status of the object which is infected by the host of [Wugong Gu] will increase by 1 sec per Attribute level.
 SKILL_20150714_004560	{memo X}Even if an object gets out of the range of [Throw Gu Pot], [Poison] will last for 2 secs per Attribute level.
 SKILL_20150714_004561	The Max amount of Poison that could be stored increases by 10 per Attribute level with [Poison Pot].
@@ -4563,11 +4563,11 @@ SKILL_20150714_004562	Jincan Gu: Vitality
 SKILL_20150714_004563	Life time of the bugs that are born from [Jincan Gu] with a fixed probability will be doubled. The probability will increase by 5% per Attribute level.
 SKILL_20150714_004564	$Increases the damage dealt on an enemy with [Flu Flu] by 1% per attribute level.
 SKILL_20150714_004565	$Increases the damage dealt on an enemy with [Flare Shot] by 1% per attribute level.
-SKILL_20150714_004566	Physical ATK of the allies in the range of [Undistance] will increase by 5% per Attribute level.
-SKILL_20150714_004567	The number of enemies that will be influenced by [Flu Flu] will increase by 1 per Attribute level.
+SKILL_20150714_004566	$Increases the physical attack of allies within the range of [Undistance] by 5% per attribute level.
+SKILL_20150714_004567	$Increases the number of enemies influenced by [Flu Flu] by 1 per attribute level.
 SKILL_20150714_004568	$Camouflage: Jump
 SKILL_20150714_004569	$Able to jump while in [Camouflage].
-SKILL_20150714_004570	Scan: Confusion
+SKILL_20150714_004570	$Scan: Confusion
 SKILL_20150714_004571	{memo X}The enemies that are in the range of [Scan] will fall into Confusion with a certain probability. The probability will increase by 10% per Attribute level.
 SKILL_20150714_004572	$Increases the damage dealt on an enemy with [Vendetta] by 1% per attribute level.
 SKILL_20150714_004573	$Increases the damage dealt on an enemy with [Backstep] by 1% per attribute level.
@@ -4591,7 +4591,7 @@ SKILL_20150714_004590	Call: Obtain
 SKILL_20150714_004591	The Hawk which will return as a result of [Call] would bring Potions or Herbs with 50% probability.
 SKILL_20150714_004592	$Hovering: Duration
 SKILL_20150714_004593	$Increases the duration of [Hovering] by 3 seconds per attribute level.
-SKILL_20150714_004594	Hovering: Attack Speed Buff
+SKILL_20150714_004594	$Hovering: Attack Speed Buff
 SKILL_20150714_004595	$Your hawk will attack enemies faster while using [Hovering].
 SKILL_20150714_004596	$Increases the damage dealt on an enemy with [Concentrated Fire] by 1% per attribute level.
 SKILL_20150714_004597	$Increases the damage dealt on an enemy with [Caracole] by 1% per attribute level.
@@ -4608,15 +4608,15 @@ SKILL_20150714_004607	$Safety Zone: Range Increase
 SKILL_20150714_004608	{memo X}The range that will be applied by [Safety Zone] will be increased.
 SKILL_20150714_004609	$Guardian Saint: Damage Decrease
 SKILL_20150714_004610	$Decreases the damage taken when applied with a character's [Saint Guardian] by 5% per attribute level.
-SKILL_20150714_004611	Damage dealt on an enemy with [Zaibas] will increase by 1% per Attribute level.
+SKILL_20150714_004611	$Increases the damage dealt on an enemy with [Zaibas] by 1% per attribute level.
 SKILL_20150714_004612	{memo X}Character's Fire resistance will increase by 5 per Attribute level and the resistance to Darkness will decrease by 3 per Attribute level.
-SKILL_20150714_004613	Effective duration of [Daino] will increase by 40 secs per Attribute level.
-SKILL_20150714_004614	Aukuras: Fire Resistance
-SKILL_20150714_004615	When [Aukuras] is being activated, a character's Fire resistance will increase by 14 per Attribute level.
+SKILL_20150714_004613	$Increases the duration of [Daino]'s effect by 40 seconds per attribute level.
+SKILL_20150714_004614	$Aukuras: Fire Property Resistance
+SKILL_20150714_004615	$Increases the character's fire property resistance by 14 per attribute level while [Aukuras] is active. 
 SKILL_20150714_004616	$Zalciai: Duration
 SKILL_20150714_004617	$Increases the duration of [Zalciai] by 3 seconds per attribute level.
 SKILL_20150714_004618	Zalciai: Magic Amplified
-SKILL_20150714_004619	While [Zalciai] is being activated, a character's Magic Amplification will increase by 12 per Attribute level.
+SKILL_20150714_004619	$Increases the character's magic amplification by 12 per attribute level while [Zalciai] is active.
 SKILL_20150714_004620	$Divine Stigma: Duration
 SKILL_20150714_004621	$Increases the duration of [Divine Stigma] by 1 second per attribute level.
 SKILL_20150714_004622	$Melstis: Range Increase
@@ -4636,8 +4636,8 @@ SKILL_20150714_004635	$Increases the damage dealt on an enemy with [Effigy] by 1
 SKILL_20150714_004636	$Decreases the accumulated damage from [Mackangdal] by 2 per attribute level.
 SKILL_20150714_004637	$Increases the damage dealt on an enemy with [Bwa Kayiman] by 1% per attribute level.
 SKILL_20150714_004638	$Increases the damage dealt on an enemy with [Damballa] by 1% per attribute level.
-SKILL_20150714_004639	When transforming a gigantic monster into a zombie, the possibility that such zombie will be gigantic increases by 1% per Attribute level.
-SKILL_20150714_004640	When creating a zombie, the possibility that a Wheelchair zombie would come out increases by 1% per Attribute level.
+SKILL_20150714_004639	$Increases the chance of creating a large-type zombie when zombifying a large-type monster by 1% per attribute level.
+SKILL_20150714_004640	$Increases the chance of creating Wheelchair Zombie when creating a zombie by 1% per attribute level.
 SKILL_20150714_004641	{memo X}Whenever an enemy gets shot by [Effigy], it could be inflicted with [Blind] with 5% probability per Attribute level.
 SKILL_20150714_004642	The power of enemies that are within the range of [Ogounveve] decreases by 2 per Attribute level.
 SKILL_20150714_004643	The probability that a new zombie would come out from [Damballa] increases by 2% per Attribute level.
