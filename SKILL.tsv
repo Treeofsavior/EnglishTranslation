@@ -1268,7 +1268,7 @@ SKILL_20150317_001267	{memo X}Make ground skill of enemies be usable by allies.
 SKILL_20150317_001268	{memo X}test
 SKILL_20150317_001269	$Multi Shot
 SKILL_20150317_001270	${#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Quickly launch multiple arrows at a specified location.
-SKILL_20150317_001271	Attack #{SkillAtkAdd}#{nl}Shoot #{CaptionRatio}# times
+SKILL_20150317_001271	$Attack: #{SkillAtkAdd}#{nl}Number of shots: #{CaptionRatio}#
 SKILL_20150317_001272	$Fulldraw
 SKILL_20150317_001273	{memo X}{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Fire a shot that can skewer enemies together.
 SKILL_20150317_001274	{memo X}Attack #{SkillAtkAdd}#{nl}{#339999}{ol}[Skew]{/}{/} Duration #{CaptionTime}# seconds
@@ -1290,45 +1290,45 @@ SKILL_20150317_001289	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Shoot arrow to
 SKILL_20150317_001290	$Attack #{SkillAtkAdd}#{nl}Additional Critical Chance 50%
 SKILL_20150317_001291	$Steady Aim
 SKILL_20150317_001292	{memo X}Attak power increase but attack speed decrease.
-SKILL_20150317_001293	Additional Damage + #{CaptionRatio}#{nl}Attack Speed -#{CaptionRatio2}#% {nl}Duration 40 seconds
-SKILL_20150317_001294	Time Bomb Arrow
+SKILL_20150317_001293	$Additional Damage: +#{CaptionRatio}#{nl}Attack Speed: -#{CaptionRatio2}#% {nl}Duration: 40 seconds
+SKILL_20150317_001294	$Time Bomb Arrow
 SKILL_20150317_001295	{memo X}{#DD5500}{ol}[Physical] [Strike]{/}{/}{nl}Hang a bomb on an arrow and shoot it at an enemy.
 SKILL_20150317_001296	{memo X}Attack #{SkillAtkAdd}#{nl}Bomb duration 5 seconds
-SKILL_20150317_001297	Bounce Shot
+SKILL_20150317_001297	$Bounce Shot
 SKILL_20150317_001298	{memo X}{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Shoot an arrow that bounces off the target to hit nearby enemies.
-SKILL_20150317_001299	Arrow Sprinkle
+SKILL_20150317_001299	$Arrow Sprinkle
 SKILL_20150317_001300	{memo X}{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Jump backwards while shooting multiple arrows forward.
 SKILL_20150317_001301	{memo X}Attack #{SkillAtkAdd}#{nl}Attack 5 times
-SKILL_20150317_001302	Spiral Arrow
+SKILL_20150317_001302	$Spiral Arrow
 SKILL_20150317_001303	{memo X}Buffs your next attack to do an additional hit.
-SKILL_20150317_001304	Attack # {CaptionRatio} # times {nl}Duration 10 seconds
-SKILL_20150317_001305	Deploy Pavise
+SKILL_20150317_001304	Continuous Attacks: #{CaptionRatio}# {nl}Duration: 10 seconds
+SKILL_20150317_001305	$Deploy Pavise
 SKILL_20150317_001306	{memo X}Install a Pavise on the ground to defend against projectiles.
 SKILL_20150317_001307	{memo X}Defend range projectile #{SkillFactor}# times{nl}Pavise duration #{CaptionTime}# seconds
-SKILL_20150317_001308	Scatter Caltrops
+SKILL_20150317_001308	$Scatter Caltrops
 SKILL_20150317_001309	{memo X}{#DD5500}{ol}[Physical] - [Pierce]{/}{/}Throw caldrop on ground to damage and slow down enemies when stepping on it.
 SKILL_20150317_001310	{memo X}Attack #{SkillAtkAdd}#{nl}Throw #{CaptionRatio2}#{nl}Caldrop duration 20 seconds{nl}{#339999}{ol}[Slow]{/}{/} Duration 10 seconds
-SKILL_20150317_001311	Stone Picking
+SKILL_20150317_001311	$Stone Picking
 SKILL_20150317_001312	{memo X}Pick up stone projectiles found on the field. Cannot be obtained in town.
-SKILL_20150317_001313	Get up to #{SkillFactor}# stone bullets
-SKILL_20150317_001314	Stone shot
+SKILL_20150317_001313	$Obtainable Stone Bullets: #{SkillFactor}#
+SKILL_20150317_001314	$Stone shot
 SKILL_20150317_001315	{memo X}{#DD5500}{ol}[Physical] [Strike]{/}{/}{nlFire stone bullet and push away enemy. Target becomes stun by chance.
 SKILL_20150317_001316	{memo X}Attack #{SkillAtkAdd}#{nl}{#339999}{ol}[Stun]{/}{/} Duration #{CaptionRatio2}# seconds{nl}Use 1 stone bullet
-SKILL_20150317_001317	Rapid Fire
+SKILL_20150317_001317	$Rapid Fire
 SKILL_20150317_001318	{memo X}{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl} Load multiple arrows into your crossbow and then quickly shoot them at the enemy.
 SKILL_20150317_001319	{memo X}Attack #{SkillAtkAdd}#{nl}Max. loading time #{CaptionTime}# seconds
-SKILL_20150317_001320	Broom Trap
+SKILL_20150317_001320	$Broom Trap
 SKILL_20150317_001321	{memo X}{#DD5500}{ol}[Physical] [Strike]{/}{/}{nl}Install a trap that damages nearby enemies.
-SKILL_20150317_001322	Attack #{SkillAtkAdd}#{nl}Duration 15 seconds
+SKILL_20150317_001322	$Attack: #{SkillAtkAdd}#{nl}Duration: 15 seconds
 SKILL_20150317_001323	{memo X}{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Install a trap that fires buckshot and damages enemy.
 SKILL_20150317_001324	{memo X}Attack #{SkillAtkAdd}#{nl}Splash #{CaptionRatio}#
-SKILL_20150317_001325	Punji Stake
+SKILL_20150317_001325	$Punji Stake
 SKILL_20150317_001326	{memo X}{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Install trap that blows away enemies when stepping on it.
 SKILL_20150317_001327	{memo X}Attack #{SkillAtkAdd}#{nl}Cast Time 3 seconds
-SKILL_20150317_001328	Detonate Traps
+SKILL_20150317_001328	$Detonate Traps
 SKILL_20150317_001329	{memo X}{#DD5500}{ol}[Physical] [Strike]{/}{/}{nl}Detonate nearby traps and magic circles to damage enemies.
 SKILL_20150317_001330	{memo X}Attack #{SkillAtkAdd}#{nl}Bomb explosion #{CaptionRatio}# times
-SKILL_20150317_001331	Coursing
+SKILL_20150317_001331	$Coursing
 SKILL_20150317_001332	{memo X}Companion bites and holds on to target. Bonus chance of critical is applied on target.
 SKILL_20150317_001333	{memo X}Critical chance +30% {nl}Duration #{CaptionTime}# seconds
 SKILL_20150317_001334	Retrieve
@@ -1481,40 +1481,40 @@ SKILL_20150317_001480	{memo X}Lure zombies to target area.
 SKILL_20150317_001481	Summoned zombies requried {nl}Level 1 Master
 SKILL_20150317_001482	Zombify
 SKILL_20150317_001483	{memo X}Create a magic circle on the ground. Enemies killed in the circle rise as zombies.
-SKILL_20150317_001484	Magic Circle Duration #{CaptionTime}# seconds{nl}Summon Max. #{CaptionRatio}# Zombies
-SKILL_20150317_001485	Mackangdal
+SKILL_20150317_001484	$Magic Circle duration: #{CaptionTime}# {nl}Maximum Zombie Summons: #{CaptionRatio}#
+SKILL_20150317_001485	$Mackangdal
 SKILL_20150317_001486	{memo X}Throw amulet on target. Becomes invincible while under effect but receive accumulated damage when effect is gone.
 SKILL_20150317_001487	Invincible Duration #{CaptionTime}# seconds
-SKILL_20150317_001488	Bwa Kayiman
+SKILL_20150317_001488	$Bwa Kayiman
 SKILL_20150317_001489	{memo X}{#DD5500}{ol}[Physical] [Strike]{/}{/}{nl}Zombies roam around target area. Enemies are pushed away and damaged when toufching the zombies.
 SKILL_20150317_001490	{memo X}Attack #{SkillAtkAdd}#{nl}Summoned zombie required
-SKILL_20150317_001491	Samediveve
+SKILL_20150317_001491	$Samdiveve
 SKILL_20150317_001492	{memo X}Place a flag on the ground that increases the Movement speed and max HP of nearby targets.
 SKILL_20150317_001493	{memo X}Max. HP +#{CaptionRatio}#{nl}Movement Speed +#{CaptionRatio2}#% Duration 30 seconds {nl}
-SKILL_20150317_001494	Ogounveve
+SKILL_20150317_001494	$Ogouveve
 SKILL_20150317_001495	{memo X}Place a flag on the ground that increases the STR of nearby allies targets.
 SKILL_20150317_001496	{memo X}Strength + #{CaptionRatio}#{nl}Duration 30 seconds
-SKILL_20150317_001497	Damballa
+SKILL_20150317_001497	$Damballa
 SKILL_20150317_001498	{memo X}{#993399}{ol}[Magic]{/}{/}{nl}Causes zombies in the target area to explode, damaging nearby enemies.
 SKILL_20150317_001499	{memo X}Attack #{SkillAtkAdd}#{nl}Summoned zombie required{nl}Target #{SkillSR}#
 SKILL_20150317_001500	{memo X}Carve Statue of Vakarine. Statue can be used to warp to other areas.
 SKILL_20150317_001501	{memo X}Warp #{CaptionRatio}# times {nl}Statue Duration 30 seconds{nl}Use 3 Oak wood
-SKILL_20150317_001502	Goddess Zemyna Statue
+SKILL_20150317_001502	$Carve Goddess Zemyna
 SKILL_20150317_001503	{memo X}Carve Goddess Zemyna Statue. Party members SP consumption will decrease when near statue.
 SKILL_20150317_001504	{memo X}SP - #{CaptionRatio}# {nl} {nl} Statue Duration 30 seconds{nl}Use 5 Pine woods
-SKILL_20150317_001505	Laima Statue
+SKILL_20150317_001505	$Carve Goddess Laima
 SKILL_20150317_001506	{memo X}Carve Goddess Zemyna Statue. Spalsh of party members around the statue is increased.
 SKILL_20150317_001507	{memo X}Splash +#{CaptionRatio}# {nl}Statue duration 30 seconds {nl} Use 5 cedar wood
-SKILL_20150317_001508	Carve
+SKILL_20150317_001508	$Carve
 SKILL_20150317_001509	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Use carving knife to attack the target. Additional damage applies to plant type monsters and can obtain statue materials
 SKILL_20150317_001510	{memo X}Attack #{SkillAtkAdd}#{nl}Additional damage +#{CaptionRatio}#
-SKILL_20150317_001511	Owl Statue
+SKILL_20150317_001511	$Carve Owl
 SKILL_20150317_001512	{memo X}{#993399}{ol}[Magic] - [Fire]{/}{/}{nl} Summon the owl statue to attack targets located in front of it.
 SKILL_20150317_001513	{memo X}Attack #{SkillAtkAdd}#{nl}Defense #{CaptionRatio}# times{nl}Duration #{CaptionTime}# seconds{nl} Use 2 Oak tree
-SKILL_20150317_001514	Carve Austras Koks
+SKILL_20150317_001514	$Carve Austras Koks
 SKILL_20150317_001515	{memo X}Carve a statue of the holy tree to silence nearby enemies.
 SKILL_20150317_001516	{memo X}Statue duration #{CaptionRatio} seconds#{nl}Use #{CaptionRatio2}# Ash wood
-SKILL_20150317_001517	Out of Body
+SKILL_20150317_001517	$Out of Body
 SKILL_20150317_001518	{memo X}Remove spirit from body. Spirit can only move near the body.
 SKILL_20150317_001519	{memo X}Body moving range 150
 SKILL_20150317_001520	Prakriti
@@ -3593,13 +3593,13 @@ SKILL_20150406_003592	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Gather
 SKILL_20150406_003593	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Throw coin to attack target. Max. SP of targets hit will temporarily decrease.
 SKILL_20150406_003594	{memo X}{#993399}{ol}[Magic] - [Holy]{/}{/}{nl}Heals target and party members while damaging enemy.
 SKILL_20150406_003595	{memo X}Attack #{SkillAtkAdd}#{nl}Attack #{CaptionRatio}# enemies{nl}Heall all party members{nl}Heal #{CaptionRatio}# allies{nl}
-SKILL_20150406_003596	$Reflects close range attacks.
+SKILL_20150406_003596	$Reflects close ranged attacks.
 SKILL_20150406_003597	$Gradually decreases maximum HP.
 SKILL_20150406_003598	$Nullifies all attacks.
 SKILL_20150406_003599	Use sword while moving forward
 SKILL_20150406_003600	{memo X}[Pardoner] Make despeller
-SKILL_20150406_003601	Create Anti-magic
-SKILL_20150406_003602	[Pardoner] Make anti-magic
+SKILL_20150406_003601	$Craft Anti-Magic
+SKILL_20150406_003602	$[Pardoner] Craft Anti-Magic
 SKILL_20150414_003603	Shovelling
 SKILL_20150414_003604	Detect metal
 SKILL_20150414_003605	Water spray
@@ -3635,7 +3635,7 @@ SKILL_20150414_003634	{memo X}Attack #{SkillAtkAdd}#{nl}Defense -#{CaptionRatio}
 SKILL_20150414_003635	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Hold key to bend down and move forward. Evasion increases and attacks enemy after moving.
 SKILL_20150414_003636	{#DD5500}{ol}[Physical] - [Pierce] - [Strike]{/}{/}{nl}Use sword and shield to attack continuously.
 SKILL_20150414_003637	{#DD5500}{ol}[Pierce]{/}{/}{nl}Penetrate small, medium sized enemy on spear and bring around. Enemy skewed can be used to attack other enemies.
-SKILL_20150414_003638	Movement speed increases when you are riding.
+SKILL_20150414_003638	$Increases your movement speed while riding.
 SKILL_20150414_003639	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Dash forward and attack enemy.
 SKILL_20150414_003640	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Gather force and strongly stab enemy with tip of spear.
 SKILL_20150414_003641	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Throw spear over head to attack.
@@ -3646,14 +3646,14 @@ SKILL_20150414_003645	Temporarily make stab attacks be applied as repeated attac
 SKILL_20150414_003646	{memo X}Temporarily decrease defense of nearby enemies, and add that much to your ATK.
 SKILL_20150414_003647	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Tramp down on enemy while on air or jumping.
 SKILL_20150414_003648	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Dash forward and attack enemies blocking the way.
-SKILL_20150414_003649	Giant Swing
+SKILL_20150414_003649	$Giant Swing
 SKILL_20150414_003650	{memo X}USe centrifugal force to throw away enemy.
 SKILL_20150414_003651	{memo X}Open shop to repair weapon and temporarily increase its performance.
 SKILL_20150414_003652	{memo X}Open shop to repair weapon and temporarily increase its performance. Physical defense is added. Repair is only for top, Pants, and Shield.
 SKILL_20150414_003653	Open shop for repairing items. Items are repaired to have higher durability than max. durability.
 SKILL_20150414_003654	Bind all enemies to stop it from moving including the boss monster.
 SKILL_20150414_003655	{memo X}Install basecamp for party members. Party members can use basecamp as storage or for teleport.
-SKILL_20150414_003656	Duration #{CaptionRatio}# hours{nl}Food effects duration at least 30 minutes
+SKILL_20150414_003656	$Duration: #{CaptionRatio}# hours{nl}Duration of the food effects is at least 30 minutes
 SKILL_20150414_003657	$Sets up a refreshment table to prepare dishes that temporarily increases the abilities for your party members. A refreshment table can only be set up near the base camp, and if the camp is removed, the refreshment table will be removed as well.
 SKILL_20150414_003658	{memo X}Ping a flag that boosts pirates' abilities. Kill enemies repeatedly near the flag for combo attack.
 SKILL_20150414_003659	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Drag and pull enemies captured with Iron Hook. Enemy receives damage each time it is pulled.
@@ -3752,11 +3752,11 @@ SKILL_20150414_003751	{memo X}Each weapon has different dungeon{nl}and potential
 SKILL_20150414_003752	{memo X}{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Quickly shoot multiple arrows.
 SKILL_20150414_003753	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Pull bow and shoot an arrow that penetrates the enemy. Target may be skewed if there are other enemies nearby.
 SKILL_20150414_003754	{memo X}{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Sit down to increase focus. ATK and range increases.
-SKILL_20150414_003755	Attack and movement speed increase temporarily.
+SKILL_20150414_003755	$Temporarily increases your movement speed while attacking.
 SKILL_20150414_003756	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Arrow bounces off attacking one more enemy.
-SKILL_20150414_003757	Heavy Shot
+SKILL_20150414_003757	$Heavy Shot
 SKILL_20150414_003758	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Pull bow strongly to shoot and target is pushed away.
-SKILL_20150414_003759	Twin Arrow
+SKILL_20150414_003759	$Twins Arrow
 SKILL_20150414_003760	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Shoot two arrows at once.
 SKILL_20150414_003761	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Use tip of arrow to aim at target and penetrate stright forward.
 SKILL_20150414_003762	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Shoot arrow with high rate of critical.
@@ -3847,21 +3847,21 @@ SKILL_20150414_003846	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Order zombies 
 SKILL_20150414_003847	Install a Samedi pattern that represents death noir on the ground. Movement speed and max. HP of zombies and allies around the pattern increase.
 SKILL_20150414_003848	{memo X}Install a Oguon pattern that represents strength noir on the ground. Strength of zombies and allies around the pattern increase.
 SKILL_20150414_003849	{#993399}{ol}[Magic]{/}{/}{nl}Explode zombies near target area and attack nearby enemies.
-SKILL_20150414_003850	Carve Statue of Vakarine, the Goddess of Evening Star. {nl}You may warp to other areas through the statue.
-SKILL_20150414_003851	Carve Statue of Zemyna, the Goddess of Earth. {nl}Allies near the statue use less SP when using skills.
-SKILL_20150414_003852	SP -#{CaptionRatio}# {nl}Statue duration #{CaptionRatio2}# seconds{nl}Use 4 Pine woods
-SKILL_20150414_003853	Carve Statue of Laima, Goddess of Fate. {nl}Skill cooltime of party members nearby decrease.
-SKILL_20150414_003854	Cooltime -#{CaptionRatio}#%{nl}Statue duration #{CaptionRatio2}# seconds{nl}Use 4 cedar woods
+SKILL_20150414_003850	$Carve a statue of Vakarine, the Goddess of Evening Star. {nl}You may warp to other areas through the Goddess Statue.
+SKILL_20150414_003851	$Carve a statue of Zemyna, the Goddess of Earth.{nl}Decreases the SP cost for allies who are nearby the Goddess Statue.
+SKILL_20150414_003852	$SP -#{CaptionRatio}# {nl}Statue duration: #{CaptionRatio2}# seconds{nl}Consumes 4 Pine Wood
+SKILL_20150414_003853	$Carve a statue of Laima, the Goddess of Fate. {nl}Decreases the cooldown of your party member's skills nearby the Goddess Statue.
+SKILL_20150414_003854	$Cooldown duration: -#{CaptionRatio}#%{nl}Statue duration: #{CaptionRatio2}# seconds{nl}Consumes 4 Cedar Wood
 SKILL_20150414_003855	{#993399}{ol}[Magic] - [Fire]{/}{/}{nl}Carve an owl statue that attacks the enemy.
 SKILL_20150414_003856	{memo X}Attack #{SkillAtkAdd}#{nl}Defend #{CaptionRatio}#times{nl}Duration #{CaptionTime}# seconds{nl}Use 3 Oak wood
 SKILL_20150414_003857	Carve a holy tree that silence nearby enemies.
 SKILL_20150414_003858	Statue duration #{CaptionRatio}# seconds{nl}Use 6 Ash woods
-SKILL_20150414_003859	Carve Statue of Ausrine, Goddess of Morning Star. You and your allied do not receive damage after rotating around the statue three times.
-SKILL_20150414_003860	{#339999}{ol}[Blessing of Goddess]{/}{/} Duration #{CaptionRatio}# seconds{nl}Goddess Statue duration 30 seconds{nl}Use 4 Cedar wood
+SKILL_20150414_003859	$Carve a statue of Ausrine, the Goddess of Morning Star. You and your allies do not receive damage after rotating around the Goddess Statue 3 times.
+SKILL_20150414_003860	${#339999}{ol}[Blessing of the Goddess]{/}{/} Duration: #{CaptionRatio}# seconds{nl}Goddess Statue duration: 30 seconds{nl}Consumes 4 Cedar Wood
 SKILL_20150414_003861	Move your spirit out of the body. The spirit can only move near the body.
 SKILL_20150414_003862	Move body to the spirit to unite again. Can only be used when spirit is out of body.
 SKILL_20150414_003863	{#993399}{ol}[Magic] - [Holy]{/}{/}{nl}Bind enemy to stop its movement and inflict damage.
-SKILL_20150414_003864	Decrease STR, CON, INT, SPR, DEX of enemies nearby.
+SKILL_20150414_003864	$Decreases the STR, CON, INT, SPR and DEX of enemies nearby.
 SKILL_20150414_003865	{#993399}{ol}[Magic]{/}{/}{nl}Explode the souls separated from the body and inflict damage.
 SKILL_20150414_003866	Transfer your abilities to allies in front of you .
 SKILL_20150414_003867	Attack soul
@@ -3887,16 +3887,16 @@ SKILL_20150414_003886	Create your skill into a scroll that anyone can use.
 SKILL_20150414_003887	Create a shop to sell your skills.
 SKILL_20150414_003888	Use ritual to heal abnormal state level 2 and above of allies or attack enemies.
 SKILL_20150414_003889	{memo X}Attack #{SkillAtkAdd}#{nl}Target #{CaptionRatio}#{nl}Heal all party members{nl}Heal #{CaptionRatio}# allies{nl}Use 500 silver
-SKILL_20150414_003890	Create offering box to receive donation of allies' item. Can installed nearby Goddess Statue only.
+SKILL_20150414_003890	$Open an Offering Box to receive donations from allies. Can only be opened nearby a Goddess Statue.
 SKILL_20150414_003891	Extend duration of harmful effects applied on enemy.
 SKILL_20150414_003892	Penetrate into the mind of an enemy in front and control it.
 SKILL_20150414_003893	{#993399}{ol}[Magic]{/}{/}{nl}Grass nearby target area attacks the enemy.
-SKILL_20150414_003894	Temporarily transform into an animal, plant, insect type monster in front.
-SKILL_20150414_003895	Transform back into the monster last shape shifted to.
+SKILL_20150414_003894	$Temporarily transform into an Animal-type, Plant-type or Insect-type monster in front.
+SKILL_20150414_003895	$Transform back into the monster that you last shape shifted to.
 SKILL_20150414_003896	Grass in the target area protects you and your party.
 SKILL_20150414_003897	Grass temporarily growns on target area. Monsters entering the area is as plant type.
 SKILL_20150414_003898	$Randomly summons enemies to your front from the area you are currently in.
-SKILL_20150414_003899	Increase max. SP and STA of you and your party.
+SKILL_20150414_003899	$Increases your and your party member's maximum SP and STA.
 SKILL_20150414_003900	Change the monster in front to a different monster.
 SKILL_20150414_003901	Predict and show beforehand which item the monster will drop
 SKILL_20150414_003902	Invalidate magic of enemies nearby.
@@ -3905,15 +3905,15 @@ SKILL_20150414_003904	{memo X}Change enemy's drop item. Know if rare item will b
 SKILL_20150414_003905	Sentence death to enemy. Target dies when time is up.
 SKILL_20150414_003906	Max. provoke increased.
 SKILL_20150414_003907	Insensible to pain.
-SKILL_20150414_003908	Fire, Ice, Lightning, Poison, Earth Resistance increase.
-SKILL_20150414_003909	Physical, Magic attack increase
-SKILL_20150414_003910	Pillaging.
+SKILL_20150414_003908	$Increased Fire, Ice, Lightning, Poison and Earth Property Resistance.
+SKILL_20150414_003909	$Increased Physical and Magic Attack.
+SKILL_20150414_003910	$Pillaging.
 SKILL_20150414_003911	Cannot see in front
-SKILL_20150414_003912	Blessings of Goddess
+SKILL_20150414_003912	$Blessing of the Goddess
 SKILL_20150414_003913	Can search
 SKILL_20150414_003914	$Muscle Pumping
 SKILL_20150414_003915	$Increases STR, but decreases maximum Stamina
-SKILL_20150414_003916	Guard set buff
+SKILL_20150414_003916	$Sentinel Set Buff
 SKILL_20150414_003917	{memo X}Status buff where Will of Guard buff can be activated
 SKILL_20150414_003918	Will of Guard
 SKILL_20150414_003919	$Increases damage against Demon-type targets by +125
@@ -3926,11 +3926,11 @@ SKILL_20150414_003925	{memo X}When using [Resist Elements] Fire, Ice, Lightning 
 SKILL_20150414_003926	{memo X}Monsters stabbed with [Pointing] have 5% chance per attribute level of falling under [Fear] every 3 seconds.
 SKILL_20150414_003927	{memo X}Defense of enemies receiving [Retrieve] attacks decrease by 10 per attribute level.
 SKILL_20150414_003928	{memo X}Max. poison capacity of [Poison Pot] increases by 10 per attribute level.
-SKILL_20150414_003929	Arrest: Slowdown
+SKILL_20150414_003929	$Arrest: Slowdown
 SKILL_20150414_003930	{memo X}[Slowdown] is left after [Arrest]. Higher attribute level prolongs its duration.
 SKILL_20150414_003931	$Weapon Maintenance: Count Increase
 SKILL_20150414_003932	{memo X}Count of [Weapon Repair] increase by 1 per level.
-SKILL_20150414_003933	Armor Maintenance: Count Increase
+SKILL_20150414_003933	$Armor Maintenance: Count Increase
 SKILL_20150414_003934	{memo X}Count of [Armor Repair] increase by 1 per level.
 SKILL_20150414_003935	$Keel Hauling: Bleeding
 SKILL_20150414_003936	{memo X}Enemy falls under [Bleed] for 5 seconds when attacked with [Keel Hauling]. Duratino of [Bleed] increases by a seconds per level.
@@ -4034,7 +4034,7 @@ SKILL_20150428_004033	Attack #{SkillAtkAdd}#{nl}Rotate 9 times{nl}Distance throw
 SKILL_20150428_004034	Max. Target #{CaptionRatio}#{nl}Duration 10 seconds
 SKILL_20150428_004035	Pin down pirate flag boosts ATK of pirates. Defeat enemy continuously near the flag to trigger combo. {only triggered when party leader is Corsair.)
 SKILL_20150428_004036	Can use key to open a higher level treasure chest.
-SKILL_20150428_004037	Key level +#{CaptionRatio}#
+SKILL_20150428_004037	$Key Lv.: +#{CaptionRatio}#
 SKILL_20150428_004038	Double Weapon Assault
 SKILL_20150428_004039	There is a chance of stealing enemy's item when you attack monsters while the flagged is pinned.
 SKILL_20150428_004040	{memo X}Reduce skill casting time. Applied once on the next skill.
@@ -4533,7 +4533,7 @@ SKILL_20150714_004532	$Increases the damage dealt on an enemy with [Teardown] by
 SKILL_20150714_004533	$Increases the duration of [Scatter Caltrops] by 1 second per attribute level.
 SKILL_20150714_004534	$There is a 8% chance per attribute level to  be afflicted with [Bleeding] when stepping on a caltrop.
 SKILL_20150714_004535	$Teardown: Teardown Statue
-SKILL_20150714_004536	$Dismantle the pieces of Dievdirbys' World Tree with [Teardown].
+SKILL_20150714_004536	$Allows you to dismantle the pieces of Dievdirbys' Carve Austras Koks with [Teardown].
 SKILL_20150714_004537	$Increases the damage dealt on an enemy with [Broom Trap] by 1% per attribute level.
 SKILL_20150714_004538	$Increases the damage dealt on an enemy with [Claymore] by 1% per attribute level.
 SKILL_20150714_004539	$Increases the damage dealt on an enemy with [Punji Stake] by 1% per attribute level.
