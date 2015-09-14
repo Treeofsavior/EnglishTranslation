@@ -1052,10 +1052,10 @@ SKILL_20150317_001051	{memo X}$Inflicts damage by releasing a powerful spinning 
 SKILL_20150317_001052	{memo X}Lv.1 Attack Rate #{SkillFactor}#, Splash 3Lv.2 Attack Rate #{SkillFactor}#, Splash 6Lv.3 Attack Rate #{SkillFactor}#, Splash 9Lv.4 Attack Rate #{SkillFactor}#, Splash 12Lv.5 Attack Rate #{SkillFactor}#, Splash 15
 SKILL_20150317_001053	$Selfdestruct
 SKILL_20150317_001054	$Shadow Clone
-SKILL_20150317_001055	Prepare for Attack
-SKILL_20150317_001056	Murmillo 1
-SKILL_20150317_001057	Murmillo 2
-SKILL_20150317_001058	Block against enemy attacks.
+SKILL_20150317_001055	$Prepare for Attack
+SKILL_20150317_001056	$Murmillo 1
+SKILL_20150317_001057	$Murmillo 2
+SKILL_20150317_001058	$Defend yourself against attacks from enemies.
 SKILL_20150317_001059	{memo X}Buff Duration #{CaptionTime}#sec{nl}#Paering Probability {CaptionRatio}#%
 SKILL_20150317_001060	{memo X}Use shoulder to tackle and push away enemy
 SKILL_20150317_001061	{memo X}{#CC3300}{ol}[Strike]{/}{/} Attribute{nl} Attack #{SkillFactor}#%+#{SkillAtkAdd}#{nl}Splash #{SkillSR}#{nl} SP Consumed #{SpendSP}#
@@ -1268,7 +1268,7 @@ SKILL_20150317_001267	{memo X}Make ground skill of enemies be usable by allies.
 SKILL_20150317_001268	{memo X}test
 SKILL_20150317_001269	$Multi Shot
 SKILL_20150317_001270	${#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Quickly launch multiple arrows at a specified location.
-SKILL_20150317_001271	Attack #{SkillAtkAdd}#{nl}Shoot #{CaptionRatio}# times
+SKILL_20150317_001271	$Attack: #{SkillAtkAdd}#{nl}Number of shots: #{CaptionRatio}#
 SKILL_20150317_001272	$Fulldraw
 SKILL_20150317_001273	{memo X}{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Fire a shot that can skewer enemies together.
 SKILL_20150317_001274	{memo X}Attack #{SkillAtkAdd}#{nl}{#339999}{ol}[Skew]{/}{/} Duration #{CaptionTime}# seconds
@@ -1290,117 +1290,117 @@ SKILL_20150317_001289	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Shoot arrow to
 SKILL_20150317_001290	$Attack #{SkillAtkAdd}#{nl}Additional Critical Chance 50%
 SKILL_20150317_001291	$Steady Aim
 SKILL_20150317_001292	{memo X}Attak power increase but attack speed decrease.
-SKILL_20150317_001293	Additional Damage + #{CaptionRatio}#{nl}Attack Speed -#{CaptionRatio2}#% {nl}Duration 40 seconds
-SKILL_20150317_001294	Time Bomb Arrow
+SKILL_20150317_001293	$Additional Damage: +#{CaptionRatio}#{nl}Attack Speed: -#{CaptionRatio2}#% {nl}Duration: 40 seconds
+SKILL_20150317_001294	$Time Bomb Arrow
 SKILL_20150317_001295	{memo X}{#DD5500}{ol}[Physical] [Strike]{/}{/}{nl}Hang a bomb on an arrow and shoot it at an enemy.
 SKILL_20150317_001296	{memo X}Attack #{SkillAtkAdd}#{nl}Bomb duration 5 seconds
-SKILL_20150317_001297	Bounce Shot
+SKILL_20150317_001297	$Bounce Shot
 SKILL_20150317_001298	{memo X}{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Shoot an arrow that bounces off the target to hit nearby enemies.
-SKILL_20150317_001299	Arrow Sprinkle
+SKILL_20150317_001299	$Arrow Sprinkle
 SKILL_20150317_001300	{memo X}{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Jump backwards while shooting multiple arrows forward.
 SKILL_20150317_001301	{memo X}Attack #{SkillAtkAdd}#{nl}Attack 5 times
-SKILL_20150317_001302	Spiral Arrow
+SKILL_20150317_001302	$Spiral Arrow
 SKILL_20150317_001303	{memo X}Buffs your next attack to do an additional hit.
-SKILL_20150317_001304	Attack # {CaptionRatio} # times {nl}Duration 10 seconds
-SKILL_20150317_001305	Deploy Pavise
+SKILL_20150317_001304	Continuous Attacks: #{CaptionRatio}# {nl}Duration: 10 seconds
+SKILL_20150317_001305	$Deploy Pavise
 SKILL_20150317_001306	{memo X}Install a Pavise on the ground to defend against projectiles.
 SKILL_20150317_001307	{memo X}Defend range projectile #{SkillFactor}# times{nl}Pavise duration #{CaptionTime}# seconds
-SKILL_20150317_001308	Scatter Caltrop
+SKILL_20150317_001308	$Scatter Caltrops
 SKILL_20150317_001309	{memo X}{#DD5500}{ol}[Physical] - [Pierce]{/}{/}Throw caldrop on ground to damage and slow down enemies when stepping on it.
 SKILL_20150317_001310	{memo X}Attack #{SkillAtkAdd}#{nl}Throw #{CaptionRatio2}#{nl}Caldrop duration 20 seconds{nl}{#339999}{ol}[Slow]{/}{/} Duration 10 seconds
-SKILL_20150317_001311	Stone Picking
+SKILL_20150317_001311	$Stone Picking
 SKILL_20150317_001312	{memo X}Pick up stone projectiles found on the field. Cannot be obtained in town.
-SKILL_20150317_001313	Get up to #{SkillFactor}# stone bullets
-SKILL_20150317_001314	Stone shot
+SKILL_20150317_001313	$Obtainable Stone Bullets: #{SkillFactor}#
+SKILL_20150317_001314	$Stone shot
 SKILL_20150317_001315	{memo X}{#DD5500}{ol}[Physical] [Strike]{/}{/}{nlFire stone bullet and push away enemy. Target becomes stun by chance.
 SKILL_20150317_001316	{memo X}Attack #{SkillAtkAdd}#{nl}{#339999}{ol}[Stun]{/}{/} Duration #{CaptionRatio2}# seconds{nl}Use 1 stone bullet
-SKILL_20150317_001317	Rapid Fire
+SKILL_20150317_001317	$Rapid Fire
 SKILL_20150317_001318	{memo X}{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl} Load multiple arrows into your crossbow and then quickly shoot them at the enemy.
 SKILL_20150317_001319	{memo X}Attack #{SkillAtkAdd}#{nl}Max. loading time #{CaptionTime}# seconds
-SKILL_20150317_001320	Broom Trap
+SKILL_20150317_001320	$Broom Trap
 SKILL_20150317_001321	{memo X}{#DD5500}{ol}[Physical] [Strike]{/}{/}{nl}Install a trap that damages nearby enemies.
-SKILL_20150317_001322	Attack #{SkillAtkAdd}#{nl}Duration 15 seconds
+SKILL_20150317_001322	$Attack: #{SkillAtkAdd}#{nl}Duration: 15 seconds
 SKILL_20150317_001323	{memo X}{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Install a trap that fires buckshot and damages enemy.
 SKILL_20150317_001324	{memo X}Attack #{SkillAtkAdd}#{nl}Splash #{CaptionRatio}#
-SKILL_20150317_001325	Punji Stake
+SKILL_20150317_001325	$Punji Stake
 SKILL_20150317_001326	{memo X}{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Install trap that blows away enemies when stepping on it.
 SKILL_20150317_001327	{memo X}Attack #{SkillAtkAdd}#{nl}Cast Time 3 seconds
-SKILL_20150317_001328	Detonate Traps
+SKILL_20150317_001328	$Detonate Traps
 SKILL_20150317_001329	{memo X}{#DD5500}{ol}[Physical] [Strike]{/}{/}{nl}Detonate nearby traps and magic circles to damage enemies.
 SKILL_20150317_001330	{memo X}Attack #{SkillAtkAdd}#{nl}Bomb explosion #{CaptionRatio}# times
-SKILL_20150317_001331	Coursing
+SKILL_20150317_001331	$Coursing
 SKILL_20150317_001332	{memo X}Companion bites and holds on to target. Bonus chance of critical is applied on target.
 SKILL_20150317_001333	{memo X}Critical chance +30% {nl}Duration #{CaptionTime}# seconds
 SKILL_20150317_001334	Retrieve
 SKILL_20150317_001335	Companion bites the target and brings it to the player.
 SKILL_20150317_001336	{memo X}Drive in enemies with less HP less than #{CaptionRatio}#%{nl} Duration 4 seconds
-SKILL_20150317_001337	Snatching
-SKILL_20150317_001338	Companion bites flying enemies and drags them to the ground.
-SKILL_20150317_001339	Praise
+SKILL_20150317_001337	$Snatching
+SKILL_20150317_001338	$Your Companion bites airborne enemies and drags them to the ground.
+SKILL_20150317_001339	$Praise
 SKILL_20150317_001340	{memo X}Temporarily increase movement speed and attack speed of companion.
 SKILL_20150317_001341	{memo X}Companion movement speed + #{CaptionRatio}#% {nl} Duration 60 seconds
-SKILL_20150317_001342	Pointing
-SKILL_20150317_001343	Companion paces around target decreasing the target's evasion.
+SKILL_20150317_001342	$Pointing
+SKILL_20150317_001343	$Your Companion taunts and draws attention from the target. Decreases the target's Evasion.
 SKILL_20150317_001344	{memo X}Evasion -#{CaptionRatio}#{nl}Duration 10 seconds
-SKILL_20150317_001345	Hounding
-SKILL_20150317_001346	Companion finds hidden enemies.
-SKILL_20150317_001347	Detoxify
+SKILL_20150317_001345	$Hounding
+SKILL_20150317_001346	$Your Companion finds hidden nearby enemies.
+SKILL_20150317_001347	$Detoxify
 SKILL_20150317_001348	{memo X}Removes poison from the target. Cannot cure poisons that are higher level than Detoxify, instead decreasing their duration.
-SKILL_20150317_001349	Duration - #{CaptionRatio}# seconds{nl} Use #{SpendPoison}# Poison pot poison
-SKILL_20150317_001350	Needle Blow
+SKILL_20150317_001349	$Duration: -#{CaptionRatio}# seconds{nl}Consumes #{SpendPoison}# Poison Pot Poison
+SKILL_20150317_001350	$Needle Blow
 SKILL_20150317_001351	{memo X}{#DD5500}{ol}[Physical] - [Poison] - [Pierce]{/}{/}{nl}Shoot toxic arrow that poisons the enemy to inflict damage over time.
 SKILL_20150317_001352	{memo X}Attack #{SkillAtkAdd}#{nl}{#339999}{ol}[Poison]{/}{/} Duration 30 seconds{nl}Use #{SpendPoison}# Poison pot
-SKILL_20150317_001353	Bewitch
-SKILL_20150317_001354	Confuse a poisoned enemy.
+SKILL_20150317_001353	$Bewitch
+SKILL_20150317_001354	$Inflicts confusion on a poisoned enemy.
 SKILL_20150317_001355	{#339999}{ol}[confused]{/}{/}{nl} lasts 10 seconds Poison Poison Podcast # {SpendPoison} # consumption
-SKILL_20150317_001356	Wugong Gu
+SKILL_20150317_001356	$Wugong Gu
 SKILL_20150317_001357	{memo X}{#DD5500}{ol}[Physical] - [Poison] - [Pierce]{/}{/}{nl}Shoot contagious poison arrow. Target spreads poison around to nearby enemies whenever it is hit with magic.
 SKILL_20150317_001358	{memo X}Attack #{SkillAtkAdd}#{nl}{#339999}{ol}[Poison]{/}{/} Duration 10 seconds{nl}Use #{SpendPoison}# Poison pot
-SKILL_20150317_001359	Throw Gu Pot
+SKILL_20150317_001359	$Throw Gu Pot
 SKILL_20150317_001360	{memo X}{#DD5500}{ol}[Physical] - [Poison] - [Pierce]{/}{/}{nl}Throw Poison jar and create a poison puddle.
 SKILL_20150317_001361	{memo X}Attack #{SkillAtkAdd}#{nl}Duration 10 seconds{nl}Use #{SpendPoison}# Poison pot
-SKILL_20150317_001362	Jincan Gu
+SKILL_20150317_001362	$Jincan Gu
 SKILL_20150317_001363	{memo X}{#DD5500}{ol}[Physical] - [Poison] - [Pierce]{/}{/}{nl}Shoot an arrow containing parasites at the enemy.
 SKILL_20150317_001364	{memo X}Attack #{SkillAtkAdd}#{nl}Use #{SpendPoison}# Poison pot
-SKILL_20150317_001365	Camouflage
+SKILL_20150317_001365	$Camouflage
 SKILL_20150317_001366	{memo X}Hide yourself in an apple barrel to evade enemies attention. The Barrel provides defence against several attacks.
-SKILL_20150317_001367	Defend #{CaptionRatio}# times{nl}Movement Speed -#{CaptionRatio}#
-SKILL_20150317_001368	Flu Flu
+SKILL_20150317_001367	Number of blocks: #{CaptionRatio}#{nl}Movement Speed: -#{CaptionRatio}#
+SKILL_20150317_001368	$Flu Flu
 SKILL_20150317_001369	{memo X}Shoot a noisemaker arrow at the enemy. Also affect enemies nearby.
 SKILL_20150317_001370	{memo X}Attack #{SkillAtkAdd}#{nl}target hit {#339999}{ol}[Fear]{/}{/}+{#339999}{ol}[Chaos]{/}{/}{nl}{#339999}{ol}Inflict [Fear] to max. target #{CaptionRatio}# {#339999}{ol}{/}{/}{nl}Duration #{CaptionTime}#
-SKILL_20150317_001371	Flare shot
+SKILL_20150317_001371	$Flare Shot
 SKILL_20150317_001372	{memo X}Shoot a flare at the target area. Sparks shoot out of the flare to damage nearby enemies.
 SKILL_20150317_001373	{memo X}Attack #{SkillAtkAdd}#{nl}Duration 10 seconds
-SKILL_20150317_001374	Cloaking
+SKILL_20150317_001374	$Cloaking
 SKILL_20150317_001375	{memo X}Hide from enemy.
-SKILL_20150317_001376	Duration #{CaptionTime}# seconds
-SKILL_20150317_001377	Undistance
+SKILL_20150317_001376	$Duration: #{CaptionTime}# seconds
+SKILL_20150317_001377	$Undistance
 SKILL_20150317_001378	{memo X}Distort your location to make close range attacks possible even from afar.
 SKILL_20150317_001379	{memo X}Max. duration 10 seconds {nl} #{CaptionRatio}# SP consumed per second
-SKILL_20150317_001380	Scan
+SKILL_20150317_001380	$Scan
 SKILL_20150317_001381	{memo X}Shows hidden enemies and items in target area.
-SKILL_20150317_001382	Duration 10 seconds
+SKILL_20150317_001382	$Duration: 10 seconds
 SKILL_20150317_001383	Be Prepared
-SKILL_20150317_001384	Reduces the cooldown on all current skills
-SKILL_20150317_001385	Cooltime -#{CaptionRatio} seconds#{nl}Consume #{SpendSP}# SP
-SKILL_20150317_001386	Sneak Hit
-SKILL_20150317_001387	Feint
-SKILL_20150317_001388	Brandish Bow
+SKILL_20150317_001384	$Decreases the cooldown on all current skills.
+SKILL_20150317_001385	$Cooldown: -#{CaptionRatio} seconds#{nl}Consumes #{SpendSP}# SP
+SKILL_20150317_001386	$Sneak Hit
+SKILL_20150317_001387	$Feint
+SKILL_20150317_001388	$Brandish Bow
 SKILL_20150317_001389	{memo X}Arrow fight...
 SKILL_20150317_001390	{memo X}{#CC3300}{ol}[Pierce]{/}{/}Attribute {nl}#{SkillFactor}#% + #{SkillAtkAdd}#{nl} Target 20% damage to the defending leather {nl} sheeting defensive target to -20% damage every 1 sec {nl} + #{CaptionRatio}# bleed damage sustained six seconds {nl} {nl} consumption bleeding SP #{SpendSP}#
-SKILL_20150317_001391	Burrow
-SKILL_20150317_001392	Broad head
+SKILL_20150317_001391	$Burrow
+SKILL_20150317_001392	$Broadhead
 SKILL_20150317_001393	{memo X}Shoots an arrow that causes bleeding effect.
-SKILL_20150317_001394	Bodkin Point
+SKILL_20150317_001394	$Bodkin Point
 SKILL_20150317_001395	{memo X}Shoots an arrow that decreases enemy defense and removes shielding magic.
 SKILL_20150317_001396	{memo X}{#CC3300}{ol}[Pierce]{/}{/}Attribute {nl}#{SkillFactor}#% + #{SkillAtkAdd}#{nl} Splash #{SkillSR}#{nl}#{odds shield removal CaptionRatio}#% {nl} Armor reduced by 30% to 70% chance {nl} consumption SP #{SpendSP}#
-SKILL_20150317_001397	Barbed Arrow
+SKILL_20150317_001397	$Barbed Arrow
 SKILL_20150317_001398	{memo X}Shoots a barbed arrow. Hits an enemy multiple times, depending on the enemy's armor type.
 SKILL_20150317_001399	{memo X}Attack rate #{SkillFactor}#
-SKILL_20150317_001400	Cross Fire
+SKILL_20150317_001400	$Cross Fire
 SKILL_20150317_001401	{memo X}Shoot an arrow that explodes in a cross if it kills the monster.
 SKILL_20150317_001402	{memo X}{#CC3300}{ol}[Pierce]{/}{/}Attribute {nl}#{SkillFactor}#% + #{SkillAtkAdd}#{nl} Splash #{SkillSR}#{nl} Consume #{SpendSP }# SP
-SKILL_20150317_001403	Flute Performance
+SKILL_20150317_001403	Playing Flute
 SKILL_20150317_001404	Feelings
 SKILL_20150317_001405	{memo X}Move away from current area by jumping and rotating backwards. Successfully evading enemy attack results in drastic increase of critical strike chance on the next attack.
 SKILL_20150317_001406	Leg Shot
@@ -1411,110 +1411,111 @@ SKILL_20150317_001410	{memo X}Install turret that inflicts damage to enemies in 
 SKILL_20150317_001411	{memo X}Install scarecrow that provokes enemies to attack itself.
 SKILL_20150317_001412	{memo X}Temporarily blind enemy. Enemy cannot use abilities whilst blinded.
 SKILL_20150317_001413	{memo X}Chance of Blindness #{CaptionRatio}#% {nl} Consume #{SpendSP}# SP
-SKILL_20150317_001414	Saber Thrust
-SKILL_20150317_001415	Saber Bash
-SKILL_20150317_001416	Cavalry Charge
+SKILL_20150317_001414	$Saber Thrust
+SKILL_20150317_001415	$Saber Bash
+SKILL_20150317_001416	$Cavalry Charge
 SKILL_20150317_001417	Horse Tackle
 SKILL_20150317_001418	Blank Ammunition
-SKILL_20150317_001419	Concentrated Fire
+SKILL_20150317_001419	$Concentrated Fire
 SKILL_20150317_001420	Pommel Attack
-SKILL_20150317_001421	Weakening
-SKILL_20150317_001422	Caracole
-SKILL_20150317_001423	Limacon
+SKILL_20150317_001421	$Weakening
+SKILL_20150317_001422	$Caracole
+SKILL_20150317_001423	$Limacon
 SKILL_20150317_001424	{memo X}{#DD5500}{ol}[Pierce]{/}{/}{nl} Installs a large crossbow.
 SKILL_20150317_001425	{memo X}Attack {#DD4400}{ol}[Physical Damage]{/}{/}+#{SkillAtkAdd}#{nl}Duration 60 seconds{nl}Consume #{SpendSP}# SP
 SKILL_20150317_001426	{memo X}{#993399}{ol}[Magic] - [Divine]{/}{/}{nl} Creates up to five magic tiles that heals allies and damage enemies that walk on it.
 SKILL_20150317_001427	{memo X}Attack #{SkillAtkAdd}#{nl}HP Recovery #{CaptionRatio}# ~ #{CaptionRatio2}#{nl}Magic circle Duration 40 seconds
-SKILL_20150317_001428	Cure
+SKILL_20150317_001428	$Cure
 SKILL_20150317_001429	{memo X}{#993399}{ol}[Magic] - [Divine]{/}{/}{nl} Create a magic tile that removes harmful effects from allies and damages enemies that walk on it.
 SKILL_20150317_001430	{memo X}Attack #{SkillAtkAdd}#{nl}Attack count #{CaptionRatio}# times {nl}Magic circle Duration #{CaptionTime}# seconds
-SKILL_20150317_001431	Safety Zone
+SKILL_20150317_001431	$Safety Zone
 SKILL_20150317_001432	$Creates a magic circle that blocks incoming attacks.
-SKILL_20150317_001433	Defense #{SkillFactor}# times{nl} Magic circle duration 20 seconds
-SKILL_20150317_001434	Deprotected Zone
+SKILL_20150317_001433	$Number of blocks: #{SkillFactor}#{nl} Magic Circle duration: 20 seconds
+SKILL_20150317_001434	$Deprotected Zone
 SKILL_20150317_001435	{memo X}Create magic circle that continuously decrease the defense of target.
-SKILL_20150317_001436	Defense -#{CaptionRatio}#{nl}- #{CaptionRatio2} per overlap #{nl}Magic circle duration #{CaptionTime}# seconds
-SKILL_20150317_001437	Divine Might
+SKILL_20150317_001436	$Defense: -#{CaptionRatio}#{nl}Per stack: -#{CaptionRatio2}#{nl}Magic Circle duration: #{CaptionTime}# seconds
+SKILL_20150317_001437	$Divine Might
 SKILL_20150317_001438	{memo X}Create magic circle that increases skill level of target. Effect is gone when used and cannot be overlapped.
-SKILL_20150317_001439	Skill Level +#{SkillFactor}#{nl}Duration 10 seconds {nl}Magic circle duration 20 seconds
+SKILL_20150317_001439	Skill Level: +#{SkillFactor}#{nl}Duration: 10 seconds {nl}Magic Circle duration: 20 seconds
 SKILL_20150317_001440	{memo X}Summon torch and increase HP recovery in the vicinity.
 SKILL_20150317_001441	{memo X}HP recovery ability increases {nl}Torch duration #{CaptionTime}# seconds
-SKILL_20150317_001442	Zalciai
+SKILL_20150317_001442	$Zalciai
 SKILL_20150317_001443	{memo X}Generate magic circle that change critical capacity of the subject.
-SKILL_20150317_001444	Critical of allies +#{CaptionRatio}#{nl}Enemy critical resistance -#{CaptionRatio2}#
-SKILL_20150317_001445	Daino
+SKILL_20150317_001444	Ally's Critical Attack: +#{CaptionRatio}#{nl}Enemy's Critical Resistance: -#{CaptionRatio2}#
+SKILL_20150317_001445	$Daino
 SKILL_20150317_001446	{memo X}Increase number of beneficial buffs that a user can have at any one time.
 SKILL_20150317_001447	{memo X}Max. count +#{SkillFactor}#{nl}Duration 200 seconds
 SKILL_20150317_001448	{memo X}{#993399}{ol}[Magic] - [Fire]{/}{/}{nl} Create a magic circle circle that summons lightning to strike anything within it.
 SKILL_20150317_001449	{memo X}Attack #{SkillAtkAdd}#{nl}Attack #{CaptionRatio}# times {nl}Magic circle Duration 30 seconds
-SKILL_20150317_001450	Divine Stigma
+SKILL_20150317_001450	$Divine Stigma
 SKILL_20150317_001451	{memo X}Mark monster. The player that kills the monster will get increased STR and INT.
-SKILL_20150317_001452	STR, INT + #{CaptionRatio}#Duration 30 seconds {nl} {nl}Stigma duration #{CaptionRatio2}# seconds
-SKILL_20150317_001453	Melstis
+SKILL_20150317_001452	$STR, INT: +#{CaptionRatio}#{nl}Effect duration: 30 seconds{nl}Stigma duration: #{CaptionRatio2}# seconds
+SKILL_20150317_001453	$Melstis
 SKILL_20150317_001454	{memo X}Create magic circle that retains buffs for party members.
 SKILL_20150317_001455	{memo X}Max. duration 20 seconds {nl} #{CaptionRatio}#% of SP consumed per second
-SKILL_20150317_001456	Aspersion
+SKILL_20150317_001456	$Aspersion
 SKILL_20150317_001457	{memo X}{#993399}{ol}[Magic] - [Divine]{/}{/}{nl}Sprinkle holy water to increase defense of target and damage enemies.
 SKILL_20150317_001458	{memo X}Attack #{SkillAtkAdd}#{nl}Defense +#{CaptionRatio}# {nl}Target 10{nl}Duration #{CaptionRatio2}# seconds{nl}Use 1 Holy water
-SKILL_20150317_001459	Monstrance
+SKILL_20150317_001459	$Monstrance
 SKILL_20150317_001460	{memo X}Dexterity of allies is increased and randomly create magic circle that cause evasion and Physical damage of enemies to decrease.
-SKILL_20150317_001461	Create #{SkillFactor}# Magic Circle {nl}Ally DEX increase {nl}Enemy's evasion, defense -#{CaptionRatio}# {nl} Magic Circle Duration 20 seconds
-SKILL_20150317_001462	Blessing
+SKILL_20150317_001461	$Maximum number of Magic Circles: #{SkillFactor}#{nl}Increases ally's DEX{nl}Enemy's Evasion and Defense -#{CaptionRatio}#{nl}Magic Circle duration: 20 seconds
+Create #{SkillFactor}# Magic Circle {nl}Ally DEX increase {nl}Enemy's evasion, defense -#{CaptionRatio}# {nl} Magic Circle Duration 20 seconds
+SKILL_20150317_001462	$Blessing
 SKILL_20150317_001463	{memo X}Increase the damage of party members' skills.
 SKILL_20150317_001464	{memo X}Additional Damage + #{CaptionRatio}# {nl} Attack# {CaptionRatio2} # times{nl} {nl} Duration 30 seconds{nl}Use 1 Holy Powder
-SKILL_20150317_001465	Resurrection
+SKILL_20150317_001465	$Resurrection
 SKILL_20150317_001466	{memo X}Revive deceased players.
-SKILL_20150317_001467	Attack #{SkillAtkAdd}#{nl}Cast Time #{CaptionTime}# seconds{nl}Recover #{CaptionRatio}#% HP after recovering from incapable of combat
-SKILL_20150317_001468	Sacrament
+SKILL_20150317_001467	$Attack: #{SkillAtkAdd}#{nl}Casting Time: #{CaptionTime}# seconds{nl}HP recovery after recovering from incapable of combat: #{CaptionRatio}#%
+SKILL_20150317_001468	$Sacrament
 SKILL_20150317_001469	{memo X}Grant Holy attribute ATK to party member. Additional damage is applied with basic attacks.
 SKILL_20150317_001470	{memo X}Divine Attributes Attack + #{CaptionRatio}#{nl} Additional Damage + #{CaptionRatio2}#{nl} Duration #{CaptionTime} seconds#{nl}Use 1 Gislotis
-SKILL_20150317_001471	Protection
-SKILL_20150317_001472	Dodola
-SKILL_20150317_001473	Hexing
+SKILL_20150317_001471	$Protection
+SKILL_20150317_001472	$Dodola
+SKILL_20150317_001473	$Hexing
 SKILL_20150317_001474	{memo X}Curse an enemy and decrease its magic defense.
-SKILL_20150317_001475	Magic defense -#{CaptionRatio}#{nl} Hexing duration #{CaptionTime}# seconds
-SKILL_20150317_001476	Effigy
+SKILL_20150317_001475	$Magic Defense: -#{CaptionRatio}#{nl}Hexing duration: #{CaptionTime}# seconds
+SKILL_20150317_001476	$Effigy
 SKILL_20150317_001477	{memo X}{#993399}{ol}[Magic] - [Dark]{/}{/}{nl}Damage enemies affected by Hexing. The third attack deals additional damage.
 SKILL_20150317_001478	{memo X}Attack #{SkillAtkAdd}#{nl}Attack bonus on 3rd attack #{CaptionRatio}# times ~ #{CaptionRatio2}#times
-SKILL_20150317_001479	Tet Mamak La
+SKILL_20150317_001479	$Tet Mamak La
 SKILL_20150317_001480	{memo X}Lure zombies to target area.
-SKILL_20150317_001481	Summoned zombies requried {nl}Level 1 Master
-SKILL_20150317_001482	Zombify
+SKILL_20150317_001481	Requires a summoned zombie{nl}Maximum Level: 1
+SKILL_20150317_001482	$Zombify
 SKILL_20150317_001483	{memo X}Create a magic circle on the ground. Enemies killed in the circle rise as zombies.
-SKILL_20150317_001484	Magic Circle Duration #{CaptionTime}# seconds{nl}Summon Max. #{CaptionRatio}# Zombies
-SKILL_20150317_001485	Mackangdal
+SKILL_20150317_001484	$Magic Circle duration: #{CaptionTime}# {nl}Maximum Zombie Summons: #{CaptionRatio}#
+SKILL_20150317_001485	$Mackangdal
 SKILL_20150317_001486	{memo X}Throw amulet on target. Becomes invincible while under effect but receive accumulated damage when effect is gone.
-SKILL_20150317_001487	Invincible Duration #{CaptionTime}# seconds
-SKILL_20150317_001488	Bwa Kayiman
+SKILL_20150317_001487	$Invincibility duration: #{CaptionTime}# seconds
+SKILL_20150317_001488	$Bwa Kayiman
 SKILL_20150317_001489	{memo X}{#DD5500}{ol}[Physical] [Strike]{/}{/}{nl}Zombies roam around target area. Enemies are pushed away and damaged when toufching the zombies.
 SKILL_20150317_001490	{memo X}Attack #{SkillAtkAdd}#{nl}Summoned zombie required
-SKILL_20150317_001491	Samediveve
+SKILL_20150317_001491	$Samdiveve
 SKILL_20150317_001492	{memo X}Place a flag on the ground that increases the Movement speed and max HP of nearby targets.
 SKILL_20150317_001493	{memo X}Max. HP +#{CaptionRatio}#{nl}Movement Speed +#{CaptionRatio2}#% Duration 30 seconds {nl}
-SKILL_20150317_001494	Ogounveve
+SKILL_20150317_001494	$Ogouveve
 SKILL_20150317_001495	{memo X}Place a flag on the ground that increases the STR of nearby allies targets.
 SKILL_20150317_001496	{memo X}Strength + #{CaptionRatio}#{nl}Duration 30 seconds
-SKILL_20150317_001497	Damballa
+SKILL_20150317_001497	$Damballa
 SKILL_20150317_001498	{memo X}{#993399}{ol}[Magic]{/}{/}{nl}Causes zombies in the target area to explode, damaging nearby enemies.
 SKILL_20150317_001499	{memo X}Attack #{SkillAtkAdd}#{nl}Summoned zombie required{nl}Target #{SkillSR}#
 SKILL_20150317_001500	{memo X}Carve Statue of Vakarine. Statue can be used to warp to other areas.
 SKILL_20150317_001501	{memo X}Warp #{CaptionRatio}# times {nl}Statue Duration 30 seconds{nl}Use 3 Oak wood
-SKILL_20150317_001502	Goddess Zemyna Statue
+SKILL_20150317_001502	$Carve Goddess Zemyna
 SKILL_20150317_001503	{memo X}Carve Goddess Zemyna Statue. Party members SP consumption will decrease when near statue.
 SKILL_20150317_001504	{memo X}SP - #{CaptionRatio}# {nl} {nl} Statue Duration 30 seconds{nl}Use 5 Pine woods
-SKILL_20150317_001505	Laima Statue
+SKILL_20150317_001505	$Carve Goddess Laima
 SKILL_20150317_001506	{memo X}Carve Goddess Zemyna Statue. Spalsh of party members around the statue is increased.
 SKILL_20150317_001507	{memo X}Splash +#{CaptionRatio}# {nl}Statue duration 30 seconds {nl} Use 5 cedar wood
-SKILL_20150317_001508	Carve
+SKILL_20150317_001508	$Carve
 SKILL_20150317_001509	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Use carving knife to attack the target. Additional damage applies to plant type monsters and can obtain statue materials
 SKILL_20150317_001510	{memo X}Attack #{SkillAtkAdd}#{nl}Additional damage +#{CaptionRatio}#
-SKILL_20150317_001511	Owl Statue
+SKILL_20150317_001511	$Carve Owl
 SKILL_20150317_001512	{memo X}{#993399}{ol}[Magic] - [Fire]{/}{/}{nl} Summon the owl statue to attack targets located in front of it.
 SKILL_20150317_001513	{memo X}Attack #{SkillAtkAdd}#{nl}Defense #{CaptionRatio}# times{nl}Duration #{CaptionTime}# seconds{nl} Use 2 Oak tree
-SKILL_20150317_001514	Carve Austras Koks
+SKILL_20150317_001514	$Carve Austras Koks
 SKILL_20150317_001515	{memo X}Carve a statue of the holy tree to silence nearby enemies.
 SKILL_20150317_001516	{memo X}Statue duration #{CaptionRatio} seconds#{nl}Use #{CaptionRatio2}# Ash wood
-SKILL_20150317_001517	Out of Body
+SKILL_20150317_001517	$Out of Body
 SKILL_20150317_001518	{memo X}Remove spirit from body. Spirit can only move near the body.
 SKILL_20150317_001519	{memo X}Body moving range 150
 SKILL_20150317_001520	Prakriti
@@ -1598,7 +1599,7 @@ SKILL_20150317_001597	Stun
 SKILL_20150317_001598	Can't move
 SKILL_20150317_001599	Fear
 SKILL_20150317_001600	While, after the falter, attack is low.
-SKILL_20150317_001601	Bleed
+SKILL_20150317_001601	$Bleeding
 SKILL_20150317_001602	$Inflicts bleeding damage every 1.5 seconds.
 SKILL_20150317_001603	Excessive Bleed
 SKILL_20150317_001604	Inflict stronger bleeding damage.
@@ -2091,55 +2092,55 @@ SKILL_20150317_002090	{memo X}Cartar Stroke: Knockback Distance
 SKILL_20150317_002091	{memo X}The knock back power of [Cartar Stroke] increases by 50% per attribute level.
 SKILL_20150317_002092	Crown: Decrease
 SKILL_20150317_002093	{memo X}Amount of INT and SPR consumption is reduced by 2% per attribute level when using [Crown].
-SKILL_20150317_002094	Wagon Wheel: Fall Damage
+SKILL_20150317_002094	$Wagon Wheel: Knockdown Damage
 SKILL_20150317_002095	{memo X}Enemies in the air by [Wagon Wheel] receive damage of 50% of character's Physical damage.
-SKILL_20150317_002096	Wagon Wheel: Splash
+SKILL_20150317_002096	$Wagon Wheel: Splash
 SKILL_20150317_002097	{memo X}Splash is increased by 1 in [Wagon Wheel].
-SKILL_20150317_002098	Cross Guard: Counterattack
+SKILL_20150317_002098	$Cross Guard: Counterattack
 SKILL_20150317_002099	Whe an attack is succesfully blocked by [Cross Guard] You inflict 10% per attribute level of your physical attack on your attack as damage.
-SKILL_20150317_002100	Cross Guard: Defense
-SKILL_20150317_002101	If at least 3 monsters are provoked when using [Cross Guard], damage received decreases by 10% per level.
-SKILL_20150317_002102	Two-handed Sword Mastery
+SKILL_20150317_002100	$Cross Guard: Defense
+SKILL_20150317_002101	$Decreases damage received by 10% per level when at least 3 enemies or more are provoked when using [Cross Guard].
+SKILL_20150317_002102	$Two-handed Sword Mastery
 SKILL_20150317_002103	{memo X}[Two-handed Sword] wearing critical attack is increased by 10% per level of features.
 SKILL_20150317_002104	Moulinet: Critical occurrece
 SKILL_20150317_002105	{memo X}Critical rate for [Moulinet] is increased by 10% per Attribute level.
-SKILL_20150317_002106	Stabbing: Evasion
+SKILL_20150317_002106	$Stabbing: Evasion
 SKILL_20150317_002107	{memo X}Evasion increase by 5% per Attribute level when attacking enemy with [Stabbing].
-SKILL_20150317_002108	Pierce: Continuous hit
+SKILL_20150317_002108	$Pierce: Continuous Attack
 SKILL_20150317_002109	[Pierce] makes 4 continuous attacks on boss monster.
-SKILL_20150317_002110	Pierce: Bleed
+SKILL_20150317_002110	$Pierce: Bleeding
 SKILL_20150317_002111	{memo X}Gain a 2% probability per attribute level that an enemy hit by [Pierce] gains the status [Bleeding] for 5 seconds.
-SKILL_20150317_002112	Finestra: Physical Damage
-SKILL_20150317_002113	10% of character's INT is added to Physical damage while [Finestra] is enabled.
-SKILL_20150317_002114	Synchro Thrusting: Critical occurrence
+SKILL_20150317_002112	$Finestra: Physical Damage
+SKILL_20150317_002113	$Adds 10% of INT to physical damage while [Finestra] is active.
+SKILL_20150317_002114	$Synchro Thrusting: Critical Rate
 SKILL_20150317_002115	Critical chance increases by 5% per attribute level for 5 seconds if [Synchro Thrusting] is successfully used as a counter attack. 
 SKILL_20150317_002116	Synchro Thrusting: Pierce
 SKILL_20150317_002117	{memo X}Hit damage of the shield attack decrease by 10% per attribute level while the  Pierce damage increase by 20% per attribute level.
-SKILL_20150317_002118	Finestra: Splash
+SKILL_20150317_002118	$Finestra: Splash
 SKILL_20150317_002119	{memo X}Spash increase by 2 and evasion decrease twice as much when [Finestra] is enabled.
 SKILL_20150317_002120	{memo X}Warcry: defense decrease
 SKILL_20150317_002121	{memo X}Number of enemies that lose defese when [Warcry] is used increases by 1 per level.
-SKILL_20150317_002122	Warcry: duration
+SKILL_20150317_002122	$Warcry: Duration
 SKILL_20150317_002123	{memo X}Duration of [Warcry] will increase by 2 seconds per level
-SKILL_20150317_002124	Aggressor: Critical occurrence
+SKILL_20150317_002124	$Aggressor: Critical Rate
 SKILL_20150317_002125	Accuracy added is lowered to half but chance of critical increases as much as evasion decreases when [Aggressor] is enabled.
-SKILL_20150317_002126	Aggressor: Additional Accuracy
+SKILL_20150317_002126	$Aggressor: Additional Accuracy
 SKILL_20150317_002127	Additional Accuracy is increased by 2% per level and Evasion is decreased further by 2% per level when using [Aggressor]
-SKILL_20150317_002128	Savagery: Critical occurrence
+SKILL_20150317_002128	$Savagery: Critical Rate
 SKILL_20150317_002129	{memo X}Critical rate for [Savagery] is increased by 5% per Attribute level.
-SKILL_20150317_002130	Savagery: Slash repeat
+SKILL_20150317_002130	$Savagery: Continuous Slash
 SKILL_20150317_002131	Continuous hit bonus is also applied to Slash attack for [Savagery].
-SKILL_20150317_002132	Targe Smash: Frozen Stone
+SKILL_20150317_002132	$Targe Smash: Frozen Stone
 SKILL_20150317_002133	{memo X}Attacking [Frozen] or [Petrified] enemies deals 20% more damage per attribute level.
-SKILL_20150317_002134	Montano: Size slow
+SKILL_20150317_002134	$Montano: Size Slow
 SKILL_20150317_002135	{memo X}[Slow] is inflicted on small, medium, large monsters for 3, 2, 1 second(s) when using [Montano].
-SKILL_20150317_002136	Shield Charge: Knockback
-SKILL_20150317_002137	Knockback distance of [Shield Charge] increases by 1m per level.
-SKILL_20150317_002138	Counter Thrust: Deprotect
+SKILL_20150317_002136	$Shield Charge: Knockback
+SKILL_20150317_002137	$Increases the knockback distance of [Shield Charge] by 1m per level.
+SKILL_20150317_002138	$Counter Thrust: Deprotect
 SKILL_20150317_002139	Counter Thrust has a 10% chance per attribute level of inflicted [Deprotect] for 5 seconds, negating all active buffs on the target.
-SKILL_20150317_002140	Shield Push: Unbalance
+SKILL_20150317_002140	$Shield Push: Unbalance
 SKILL_20150317_002141	Knocking down enemies under [Unbalance] with [Shield Push] deals an additional 20% damage.
-SKILL_20150317_002142	Targe Smash: Flame
+SKILL_20150317_002142	$Targe Smash: Flame
 SKILL_20150317_002143	{memo X}Spreads [Flame] to a number of enemies equal to the attribute level when an enemy sufferig from [Flame] is killed with [Targe Smash].
 SKILL_20150317_002144	Cyclone: Moving
 SKILL_20150317_002145	Can move while using [Cyclone].
@@ -2213,60 +2214,60 @@ SKILL_20150317_002212	{memo X}Hangman's Knot: Splash defense
 SKILL_20150317_002213	{memo X}Spash defense of enemies gathered through [Hangman's Knot] decrease by 1.
 SKILL_20150317_002214	Swell Body: Movement speed decrease
 SKILL_20150317_002215	{memo X}$Movement speed of enemy enlarged by [Swell Body] decreases by 10% per attribute level and Physical, Magic attack increases by 5% per attribute level.
-SKILL_20150317_002216	Shrink Body: Increase movement speed
+SKILL_20150317_002216	$Shrink Body: Movement Speed Increase
 SKILL_20150317_002217	{memo X}$Movement of enemy shrunk with [Shrink Body] increases by 5% per attribute level and Physical, magic attack decreases by 10% per attribute level.
-SKILL_20150317_002218	Swell Body: Add Damage
+SKILL_20150317_002218	$Swell Body: Additional Damage
 SKILL_20150317_002219	{memo X}Damage an enemy with 30% of your magic attack per Attribute level when its size is changed by [Size Enlarge].
-SKILL_20150317_002220	Shrink Body: Add damage
+SKILL_20150317_002220	$Shrink Body: Additional Damage
 SKILL_20150317_002221	{memo X}Damage an enemy with 30% of your magic attack per Attribute level when its size is changed by [Size Shrink].
-SKILL_20150317_002222	Swell Right Arm: Duration
-SKILL_20150317_002223	Duration of [Swell Right Arm] increases by 1 second per attribute level.
-SKILL_20150317_002224	Electrocute: Freezing magic damage
+SKILL_20150317_002222	$Swell Right Arm: Duration
+SKILL_20150317_002223	$Increases the duration of [Swell Right Arm] by 1 second per attribute level.
+SKILL_20150317_002224	Electrocute: Freezing Magic Damage
 SKILL_20150317_002225	{memo X}Deals an additional 50% damage per attribute level when using [Electrocute] on enemies under [Freeze].
-SKILL_20150317_002226	Stone Curse: Increase number of petrifications
-SKILL_20150317_002227	Number of [Petrify] using [Stone Curse] increase by attribute level.
+SKILL_20150317_002226	Stone Curse: Petrification Increase
+SKILL_20150317_002227	$Increases the number of [Petrify] with [Stone Curse] by attribute level.
 SKILL_20150317_002228	Prominence: Prominence wandering
 SKILL_20150317_002229	Prominence [Prominence] wanders in a smaller range.
-SKILL_20150317_002230	Hail: Freeze
+SKILL_20150317_002230	$Hail: Freeze
 SKILL_20150317_002231	{memo X}Enemies attacked with [Hail] falls under [Freeze] at a 5% chance per Attribute level.
-SKILL_20150317_002232	Meteor: Evasion
+SKILL_20150317_002232	$Meteor: Evasion
 SKILL_20150317_002233	{memo X}Evasion increase by 10 per attribute level when charging [Meteor].
 SKILL_20150317_002234	{memo X}Elementalist: Resistance
 SKILL_20150317_002235	{memo X}Fire, Ice, and Lightning Resistances increase by 5 per attribute level.
-SKILL_20150317_002236	Quicken: Critical occurrence
+SKILL_20150317_002236	$Quicken: Critical Rate
 SKILL_20150317_002237	{memo X}Critical chance for [Quicken] increases by 5% per attribute level, while evasion is reduced by 2% per attribute level.
 SKILL_20150317_002238	{memo X}Slow : Critical defense
-SKILL_20150317_002239	Critical resistance of enemy under [Slow] decreases by the amount of character's intelligence.
+SKILL_20150317_002239	$Decreases the enemy's Critical Resistance affected by the [Slow] status effect by the amount of your INT.
 SKILL_20150317_002240	{memo X}Samsara : Two
 SKILL_20150317_002241	{memo X}When enemies revives after [Samsara], two appear at a 1% chance per attribute level.
-SKILL_20150317_002242	Stop : Control Boss Monster
+SKILL_20150317_002242	$Stop: Control Boss Monster
 SKILL_20150317_002243	{memo X}[Stop] can also stop boss monsters but once stop ends, the boss cannot be stopped again.
 SKILL_20150317_002244	{memo X}Back Masking : Panic
 SKILL_20150317_002245	{memo X}Enemies provoked after using [Back Masking] will fall under [Panic] for 2 seconds per attribute level.
-SKILL_20150317_002246	Multi Shot : Critical Chance
+SKILL_20150317_002246	$Multi Shot: Critical Rate
 SKILL_20150317_002247	{memo X}Critical probability of skill [multi-shot] is increased by 1% per Attribute level.
 SKILL_20150317_002248	{memo X}Fulldraw : Knockback Distance
-SKILL_20150317_002249	The pushing force of the skill [Fulldraw] is increased by 50.
+SKILL_20150317_002249	$Increases the knockback power of [Fulldraw] by 50.
 SKILL_20150317_002250	$Fulldraw: Charging Speed
-SKILL_20150317_002251	The charging speed of [Fulldraw] skill will be decreased by 0.5 sec per level.
+SKILL_20150317_002251	$Decreases the charging speed of [Fulldraw] by 0.5 seconds per level.
 SKILL_20150317_002252	$Kneeling Shot: Critical Chance
 SKILL_20150317_002253	{memo X}Critical chance increases by 2% per attribute level while in [Kneeling Shot].
 SKILL_20150317_002254	$Cure: Damage Interval
 SKILL_20150317_002255	$Decreases the interval of [Cure]'s magic circle by 0.2 seconds.
-SKILL_20150317_002256	Divine
+SKILL_20150317_002256	$Divine
 SKILL_20150317_002257	[Heal] 1 only sacred attack for each level of 5 seconds when I stepped on the skills to ally increases
 SKILL_20150317_002258	$Heal: Creating Extra
 SKILL_20150317_002259	{memo X}Receive [Heal] at 2% chance per attribute level when using [Heal].
-SKILL_20150317_002260	Deprotected Zone: Follow enemy
-SKILL_20150317_002261	Magic circle of [Deprotected Zone] follows the monsters nearby.
-SKILL_20150317_002262	Deprotected Zone: Retention time
+SKILL_20150317_002260	$Deprotected Zone: Following Enemies
+SKILL_20150317_002261	$Your Magic Circle of [Deprotected Zone] will follow nearby monsters.
+SKILL_20150317_002262	$Deprotected Zone: Retention Time
 SKILL_20150317_002263	{memo X}Magic circle duration of [Deprotected zone] increase by 1 second per attribute level.
-SKILL_20150317_002264	Divine Might: Demon Type Damage
+SKILL_20150317_002264	$Divine Might: Demon-type Damage
 SKILL_20150317_002265	Deals 100% of magic attack as damage when demon type monster enters magic circle of [Divine Might].
-SKILL_20150317_002266	Aspersion : Decrease DEF
-SKILL_20150317_002267	[Aspersion] reduce defense of monster by 8% per attribute level. Uses 2 holy water.
-SKILL_20150317_002268	Monstrance: Follow enenmy
-SKILL_20150317_002269	Magic circle of [Monstrance] follows nearby monsters.
+SKILL_20150317_002266	$Aspersion : Defense Decrease
+SKILL_20150317_002267	$Decreases the monster's armor with [Aspersion] by 8% per attribute level. Consumes 2 Holy Water.
+SKILL_20150317_002268	$Monstrance: Following Enemies
+SKILL_20150317_002269	$Your Magic Circle of [Monstrance] will follow nearby monsters.
 SKILL_20150317_002270	{memo X}Monstrance: Evasion Defense
 SKILL_20150317_002271	{memo X}When allies are within [Monstrance] magic circle, evasion and Physical defense of target increase by 2% per attribute level.
 SKILL_20150317_002272	$Blessing: Number of Attacks
@@ -2276,7 +2277,7 @@ SKILL_20150317_002275	{memo X}Number of targets of [Blessing] increases by 1 per
 SKILL_20150317_002276	{memo X}Sacrament: Dark Property resistance
 SKILL_20150317_002277	{memo X}Dark Resistance increases by 5 per attribute levvel while [Sacrament] is activated.
 SKILL_20150317_002278	$Resurrection: HP Recovery
-SKILL_20150317_002279	A Character revived by[Resurrection] will recover 10% of max. HP per attribute level.
+SKILL_20150317_002279	$Recovers the maximum HP of a revived character with [Resurrection] by 10% per attribute level.
 SKILL_20150317_002280	$Resurrection: Revive Count
 SKILL_20150317_002281	{memo X}Number of targets revived by [Resurrection] increases by 1 per Attribute level.
 SKILL_20150317_002282	$Blunt Mastery: Stun
@@ -2297,7 +2298,7 @@ SKILL_20150317_002296	$Effigy: Blind
 SKILL_20150317_002297	{memo X}Enemies attacked with [Effigy] fall under [Blind] state at a 5% chance per Attribute level.
 SKILL_20150317_002298	$Ogouveve: Decrease Strength
 SKILL_20150317_002299	{memo X}Strength of enemies within [Ogouveve] decreases by 2 per attribute level.
-SKILL_20150317_002300	Damballa: Probability of zombie appearance
+SKILL_20150317_002300	$Damballa: Chance of Zombification
 SKILL_20150317_002301	{memo X}Chance of new zombie appearing increase by 2% per attribute level when using [Damballa].
 SKILL_20150317_002302	{memo X}Bwa Kayiman: zombie defense
 SKILL_20150317_002303	{memo X}Physical defense of zombies in [Bwa Kayiman] increases by 3 per Attribute level.
@@ -2312,136 +2313,136 @@ SKILL_20150317_002311	$[Carve] deals 5% additional damage per attribute level to
 SKILL_20150317_002312	$Carve Owl: Maintain Numbers
 SKILL_20150317_002313	$Increases the numbers [Carve Owl] can maintain by 1 per attribute level.
 SKILL_20150317_002314	$Carve Owl: Flame
-SKILL_20150317_002315	Enemies hit by [Carve Owl] have a 5% chance per attribute level of being inflicted with [Flame], taking 5% of your magic damage as damage for 5 seconds.
+SKILL_20150317_002315	$Enemies hit with [Carve Owl] have a 5% chance per attribute level of being afflicted with [Flame], taking 5% of your magic damage as damage for 5 seconds.
 SKILL_20150317_002316	{memo X}Carve Austras Koks: Pull
 SKILL_20150317_002317	{memo X}Pulls enemies within range of [Carve Austras Koks].
-SKILL_20150317_002318	Dievdirbys : Damage of Plant Type
+SKILL_20150317_002318	$Dievdirbys: Plant-type Damage
 SKILL_20150317_002319	{memo X}[Blunt object] do 10% extra damage per attribute level to plant type monsters.
-SKILL_20150317_002320	Zemyna Statue: Duration
-SKILL_20150317_002321	Duration of [Zemyna Statue] increases by 2 seconds per attribute level.
-SKILL_20150317_002322	Out of Body: Moving distance
-SKILL_20150317_002323	Maximum distance that can be moved using [Astral Projection] increases by 1m per level
+SKILL_20150317_002320	$Goddess Zemyna Statue: Duration
+SKILL_20150317_002321	$Increases the duration of [Goddess Zemyna Statue] by 2 seconds per attribute level.
+SKILL_20150317_002322	$Out of Body: Movement Distance
+SKILL_20150317_002323	$Increases the maximum distance that can be moved using [Out of Body] by 1m per level.
 SKILL_20150317_002324	{memo X}Out of Body: Avoidance
 SKILL_20150317_002325	{memo X}While the [Astral Projection] is enabled, evasion of body increases by 10% per attribute level.
-SKILL_20150317_002326	Astral Body Explosion : Knock down
-SKILL_20150317_002327	Enemies hit by [Astral Body Explosion] are knocked down.
-SKILL_20150317_002328	Prakriti: HP recovery
+SKILL_20150317_002326	$Astral Body Explosion: Knockdown
+SKILL_20150317_002327	$Enemies hit with [Astral Body Explosion] are knocked down.
+SKILL_20150317_002328	$Prakriti: HP Recovery
 SKILL_20150317_002329	{memo X}Recovers 5% of max. HP per attribute level when using [Prakriti].
-SKILL_20150317_002330	Body Basic Attack : Enemy DEF decrease
+SKILL_20150317_002330	$Out of Body Basic Attack: Enemy Defense Weakened
 SKILL_20150317_002331	{memo X}Enemies hit with normal attack in spirit state falls under [Defense Weakening] by 5% chance per attribute level.
 SKILL_20150317_002332	{memo X}Resist Elements: Resist
 SKILL_20150317_002333	{memo X}Fire, Ice, and Lightning resistances increase by 5 and Poison, Earth resistance decreases by 5 per attribute level when using [Resists Elements]
-SKILL_20150317_002334	Barrier: Pierce damage
-SKILL_20150317_002335	Pierce damage of allies within [Barrier] increases by 10%
-SKILL_20150317_002336	Barrier: Holy damage
+SKILL_20150317_002334	$Barrier: Pierce damage
+SKILL_20150317_002335	$Increases the Pierce damage of allies within the range of [Barrier] by 10% per level.
+SKILL_20150317_002336	$Barrier: Holy Damage
 SKILL_20150317_002337	{memo X}Enemies hit by skill [Barrier] received 20% of Magic attack per attribute level as Holy damage.
-SKILL_20150317_002338	Smite : Falling damage
-SKILL_20150317_002339	Inflict damage of 50% extra damage when knocking flying enemies out of the air.
-SKILL_20150317_002340	Turn Undead: spirit
+SKILL_20150317_002338	$Smite: Knockdown Damage
+SKILL_20150317_002339	Inflicts damage equal to 50% of physical attack to an enemy in the air.
+SKILL_20150317_002340	$Turn Undead: Spirit
 SKILL_20150317_002341	{memo X}Instant death probability of skill [Turn Undead] also affects your spirit.
-SKILL_20150317_002342	Conversion: Increase Strength
+SKILL_20150317_002342	$Conversion: Increase STR
 SKILL_20150317_002343	Strength of monsters converted with [Conversion] increase by 10%.
 SKILL_20150317_002344	{memo X}[Two-handed Bow] Deals 20% more damage to Flying type monsters.
-SKILL_20150317_002345	Oblique shot: Slow
+SKILL_20150317_002345	$Oblique Shot: Slow
 SKILL_20150317_002346	{memo X}When [Swift step] is active, enemies attacked with [Oblique shot] are inflicted with [Slow] at a rate of 5% per attribute level.
-SKILL_20150317_002347	Multi-shot -SP recovery
-SKILL_20150317_002348	[Multi-shot] is characteristic Lv x 5% SP recovery when hit in the critical
-SKILL_20150317_002349	Swift step: Critical
+SKILL_20150317_002347	$Multi-Shot: SP Recovery
+SKILL_20150317_002348	Recovers the attribute by Lv x 5% SP when Multi-Shot is critical. 
+SKILL_20150317_002349	$Swift Step: Critical
 SKILL_20150317_002350	{memo X}When the skill [Swift step] is active, critical rate increases by 10% per attribute level.
-SKILL_20150317_002351	Fulldraw: Defense decrease
+SKILL_20150317_002351	$Fulldraw: Defense Decrease
 SKILL_20150317_002352	{memo X}Physical Defense of the enemy skewered by [Fulldraw] decreases by 2% per attribute level.
-SKILL_20150317_002353	Barrage: Knockback
+SKILL_20150317_002353	$Barrage: Knockback
 SKILL_20150317_002354	{memo X}Enemies hit by [Barrage] are pushed away by at a 10% chance per attribute level.
-SKILL_20150317_002355	High anchoring: rotation
+SKILL_20150317_002355	$High Anchoring: Directional Rotation
 SKILL_20150317_002356	Can change directions while charging [High Anchoring]
-SKILL_20150317_002357	Bounce shot: Slow
+SKILL_20150317_002357	$Bounce Shot: Slow
 SKILL_20150317_002358	{memo X}Enemy attacked with [Bounce shot] are inflicted with [Slow] at a 3% chance per attribute level.
-SKILL_20150317_002359	Steady Aim: Attack speed remaining
+SKILL_20150317_002359	$Steady Aim: Attack Speed Remaining
 SKILL_20150317_002360	Attack speed lost while under[Steady Aim] decreases 5% per attribute level.
-SKILL_20150317_002361	[Arrow Sprinkle]
-SKILL_20150317_002362	Deploy Pavise: Quantity
+SKILL_20150317_002361	$[Arrow Sprinkle]
+SKILL_20150317_002362	$Deploy Pavise: Quantity
 SKILL_20150317_002363	Number of Pavises deployable with [Deploy Pavise] increases to 2 but their HP are halved.
-SKILL_20150317_002364	Scatter Caltrop: Duration
+SKILL_20150317_002364	$Scatter Caltrops: Duration
 SKILL_20150317_002365	{memo X}Durations of caltrops scattered by [Scatter Caldrop] increases by 1 second per attribute level.
-SKILL_20150317_002366	Scatter Caltrop: Bleed
+SKILL_20150317_002366	$Scatter Caltrops: Bleeding
 SKILL_20150317_002367	{memo X}Enemies are inflicted with [Bleed] at an 8% chance per attribute level when stepping on caltrops.
-SKILL_20150317_002368	Stone shot: Stun
-SKILL_20150317_002369	Stun probability of [Stone shot] increases by 5% per level
-SKILL_20150317_002370	Rapid Fire: rotation
+SKILL_20150317_002368	$Stone Shot: Stun
+SKILL_20150317_002369	$Increases the chance of stun from [Stone Shot] by 5% per level.
+SKILL_20150317_002370	$Rapid Fire: Directional Rotation
 SKILL_20150317_002371	Can change direction while charging [Rapid Fire] (Impossible when shooting starts)
-SKILL_20150317_002372	Stone Picking: Quantity
+SKILL_20150317_002372	$Stone Picking: Quantity
 SKILL_20150317_002373	The number of stone bullets picked by [Stone Picking] becomes [attribute level].
-SKILL_20150317_002374	Broom Trap: Rotation speed
+SKILL_20150317_002374	$Broom Trap: Revolutions Count
 SKILL_20150317_002375	{memo X}Rotation time of [Broom Trap] decreases by 0.2 seconds per attribute level and number of rotations decreases by 1 per attribute level.
-SKILL_20150317_002376	Claymore: Splash
+SKILL_20150317_002376	$Claymore: Splash
 SKILL_20150317_002377	{memo X}Number of enemies hit by [Claymore] increases by 1 per Attribute level.
 SKILL_20150317_002378	{memo X}Punji Stake: Fall damage
 SKILL_20150317_002379	{memo X}Enemies blown away with [Punji Steak] receive fall damage equal to 50% of character's Physical attack.
-SKILL_20150317_002380	Detonate Traps: Party trap
+SKILL_20150317_002380	$Detonate Traps: Party Trap
 SKILL_20150317_002381	Number of magic circles and tiles that can be detonated with [Detonate Traps] increases by 1 per attribute level.
-SKILL_20150317_002382	Pointing: fear
+SKILL_20150317_002382	$Pointing: Fear
 SKILL_20150317_002383	{memo X}Monster affected by [Pointing] are inflicted with [fear] with a 10% chance per attribute level.
-SKILL_20150317_002384	Coursing: Aggro
+SKILL_20150317_002384	$Coursing: Aggro
 SKILL_20150317_002385	Enemies bitten with [Coursing] attack the companion.
 SKILL_20150317_002386	Retrieve: Defense decrease
 SKILL_20150317_002387	{memo X}Defense of enemies attacked with [Retrieve] decreases by 5 per attribute level.
-SKILL_20150317_002388	Snatching: Flight type damage
+SKILL_20150317_002388	$Snatching: Airborne Enemy Damage
 SKILL_20150317_002389	{memo X}Flight type monsters grounded by [Snatching] receive 20% more damage by Slash and Strike type attacks.
-SKILL_20150317_002390	Praise: Movement speed
+SKILL_20150317_002390	$Praise: Movement Speed
 SKILL_20150317_002391	{memo X}Movement speed of companion added by [Praise] is increased by 5% per attribute level.
 SKILL_20150317_002392	{memo X}Hounding: Panic
 SKILL_20150317_002393	{memo X}Enemy found using [Hounding] is inflicted wtih [Confusion] with a 10% chance per attribute level.
-SKILL_20150317_002394	Detoxifiy: Poison immunity
+SKILL_20150317_002394	$Detoxify: Poison Immunity
 SKILL_20150317_002395	{memo X}Character becomes immune to [Poison] for two seconds after being cured of [Poison] by [Detoxifiy].
-SKILL_20150317_002396	Needle Blow - use poison
+SKILL_20150317_002396	$Needle Blow - Use Poison
 SKILL_20150317_002397	[Needle Blow] decrease usage characteristics Lv x 5% of skills of poison
-SKILL_20150317_002398	Bewitch: Keep the poison
+SKILL_20150317_002398	$Bewitch: Maintaining Poison
 SKILL_20150317_002399	Enemies inflicted with [Confusion] by [Bewitch] will not be cured of [Poison] at a 5% chance per attribute level.
 SKILL_20150317_002400	{memo X}Wugong Gu: Host duration
 SKILL_20150317_002401	{memo X}Host state of the skill [Wugong Gu] increase by 2 seconds per attribute level.
-SKILL_20150317_002402	Throw Gu Pot: Poison remaining
+SKILL_20150317_002402	$Throw Gu Pot: Poison Remaining
 SKILL_20150317_002403	{memo X}[Poison] is maintained for 2 seconds per attribute level even when enemy leaves range of [Throw Gu Pot].
 SKILL_20150317_002404	{memo X}Jincan Gu: Duration
 SKILL_20150317_002405	{memo X}Duration of venom insect summoned by [Jincan Gu] increases by 2 seconds per level.
-SKILL_20150317_002406	Poison pot: stocked amount
+SKILL_20150317_002406	$Poison Pot: Stock
 SKILL_20150317_002407	{memo X}Poison reserves of [poison pot] increase by 20%
-SKILL_20150317_002408	Cloaking: Physical Damage
+SKILL_20150317_002408	$Cloaking: Physical Damage
 SKILL_20150317_002409	The first attack made after using [Cloaking] will inflict 50% more physical damage.
-SKILL_20150317_002410	Camouflage: movement speed
-SKILL_20150317_002411	Movement speed increases by 10% per attribute level while using [Camouflage].
-SKILL_20150317_002412	Undistance: Physical Damage
+SKILL_20150317_002410	$Camouflage: Movement Speed
+SKILL_20150317_002411	$Increases your movement speed by 10% per attribute level when using [Camouflage].
+SKILL_20150317_002412	$Undistance: Physical Damage
 SKILL_20150317_002413	{memo X}Physical attack of allies within [Undistance] increases by 5% per attribute level.
-SKILL_20150317_002414	Reconnaissance: Pierce damage
+SKILL_20150317_002414	$Reconnaissance: Pierce Damage
 SKILL_20150317_002415	Monsters revealed with [Reconaissance] receive 10% more stab damage per level while the skill is enabled.
-SKILL_20150317_002416	Be Prepared: Reset aggro
+SKILL_20150317_002416	Be Prepared: Reset Aggro
 SKILL_20150317_002417	Character's aggro value held by enemy resets when using [Be Prepared]
-SKILL_20150317_002418	Sneak Hit: Duration
+SKILL_20150317_002418	$Sneak Hit: Duration
 SKILL_20150317_002419	{memo X}Duration of [Sneak Hit] increases by 2 seconds per attribute level.
-SKILL_20150317_002420	Feint: Evasion increase
+SKILL_20150317_002420	$Feint: Evasion Increase
 SKILL_20150317_002421	Evasion of allies within range of [Feint] increase by the amount the enemy's evasion decreased.
-SKILL_20150317_002422	Burrow: SP
+SKILL_20150317_002422	$Burrow: SP
 SKILL_20150317_002423	Skill [Burrow] to hide dug the ground with the SP recovery features Lv x 5 increase -> Delete
-SKILL_20150317_002424	Brandish Bow: Knockback
-SKILL_20150317_002425	The Knockback distance of [Brandish Bow] increases by 1m per attribute level.
-SKILL_20150317_002426	Unlock Chest: movement speed
+SKILL_20150317_002424	$Brandish Bow: Knockback
+SKILL_20150317_002425	$Increases the knockback distance of [Brandish Bow] by 1m per attribute level.
+SKILL_20150317_002426	$Unlock Chest: Movement Speed
 SKILL_20150317_002427	Movement speed increases by 10% per attribute level for 5 seconds after opening a treasure chest with [Unlock Chest]
-SKILL_20150317_002428	Arrow production
+SKILL_20150317_002428	$Arrow Crafting
 SKILL_20150317_002429	{memo X}[Fletcher] arrow production
-SKILL_20150317_002430	Broad head: Bleed
+SKILL_20150317_002430	$Broadhead: Bleeding
 SKILL_20150317_002431	{memo X}Duration of the [Bleed] inflicted by [Broadhead] increases by 2 seconds per attribute level.
 SKILL_20150317_002432	{memo X}Bodkin Point: Decrease defense
 SKILL_20150317_002433	{memo X}[Defense Decrease] of [Bodkin Point] is increased by 2% per attribute level.
-SKILL_20150317_002434	Flu Flu: Cross Fire
+SKILL_20150317_002434	$Flu Flu: Cross Fire
 SKILL_20150317_002435	If enemy hit with [Flu Flu] is killed with [Cross Fire], [Flu Flu] attack is made again.
-SKILL_20150317_002436	Flu Flu: Number of Debuff
+SKILL_20150317_002436	$Flu Flu: Number of Debuffs
 SKILL_20150317_002437	{memo X}Number of enemies affected by [Flu Flu] increases by 1 per attribute level.
 SKILL_20150317_002438	Cross Fire: image
 SKILL_20150317_002439	{memo X}There is a 10% chance per attribute level of any monster hit by [Crossfire] being inflicted with [image] and taking 5% of your Physical attack for 5 seconds.
-SKILL_20150317_002440	Rod Mastery: Ice
+SKILL_20150317_002440	$Rod Mastery: Ice
 SKILL_20150317_002441	{memo X}When wearig a [Rod], Ice element attack is increased by 5 per attribute level.
-SKILL_20150317_002442	Rush: Stun
+SKILL_20150317_002442	$Rush: Stun
 SKILL_20150317_002443	{memo X}Enemies pushed away by [Rush] are inflicted with [Stun] for 2 seconds at a 5% chance per attribute level.
-SKILL_20150317_002444	Impaler: Damage 2x
+SKILL_20150317_002444	$Impaler: Double Damage
 SKILL_20150317_002445	The original monster hit by[Impaler] receives double damage.
 SKILL_20150317_002446	Dragging Death: Control ally trap
 SKILL_20150317_002447	[Dragging Death] can drag traps and statues installed by allies.
@@ -2455,7 +2456,7 @@ SKILL_20150317_002454	{memo X}Weapon TouchUp: retention time
 SKILL_20150317_002455	{memo X}Retention time of [Weapon TouchUp] increases by 10 minutes per attribute level
 SKILL_20150317_002456	{memo X}Armor Touch Up: Retention time
 SKILL_20150317_002457	{memo X}Retention time of [Armor TouchUp] increases by 10 minutes per attribute level
-SKILL_20150317_002458	Iron Hook: Large monster
+SKILL_20150317_002458	$Iron Hook: Large-type Monster
 SKILL_20150317_002459	[Iron Hook] prevents large monsters from moving for 0.5 seconds per attribute level.
 SKILL_20150317_002460	Double Weapon Assault: Sub-Weapon damage
 SKILL_20150317_002461	Physical damage of the sub-weapon used in [Double Weapon Assault] increases by 10 per level.
@@ -2502,8 +2503,8 @@ SKILL_20150317_002501	$High Anchoring: Enhance
 SKILL_20150317_002502	{memo X}$Increases the damage of [High Anchoring] per attribute level.
 SKILL_20150317_002503	$Bounce Shot: Enhance
 SKILL_20150317_002504	{memo X}$Increases the damage of [Bounce Shot] per attribute level.
-SKILL_20150317_002505	$Scatter Caltrop: Enhance
-SKILL_20150317_002506	{memo X}$Increases the damage of [Scatter Caltrop] per attribute level.
+SKILL_20150317_002505	$Scatter Caltrops: Enhance
+SKILL_20150317_002506	{memo X}$Increases the damage of [Scatter Caltrops] per attribute level.
 SKILL_20150317_002507	$Stone Shot: Enhance
 SKILL_20150317_002508	{memo X}$Increases the damage of [Stone Shot] per attribute level.
 SKILL_20150317_002509	$Rapid Fire: Enhance
@@ -2746,10 +2747,10 @@ SKILL_20150317_002745	$Steady Aim: Enhance 2
 SKILL_20150317_002746	$Enhanced the additional damage effect of [Steady Aim] to Ranger's 2nd Circle standards.
 SKILL_20150317_002747	$Steady Aim: Enhance 3
 SKILL_20150317_002748	$Enhanced the additional damage effect of [Steady Aim] to Ranger's 3rd Circle standards.
-SKILL_20150317_002749	$Scatter Caltrop: Enhance 2
-SKILL_20150317_002750	$Enhanced the damage of [Scatter Caltrop] to Quarrel Shooter's 2nd Circle standards.
-SKILL_20150317_002751	$Scatter Caltrop: Enhance 3
-SKILL_20150317_002752	$Enhanced the damage of [Scatter Caltrop] to Quarrel Shooter's 3rd Circle standards.
+SKILL_20150317_002749	$Scatter Caltrops: Enhance 2
+SKILL_20150317_002750	$Enhanced the damage of [Scatter Caltrops] to Quarrel Shooter's 2nd Circle standards.
+SKILL_20150317_002751	$Scatter Caltrops: Enhance 3
+SKILL_20150317_002752	$Enhanced the damage of [Scatter Caltrops] to Quarrel Shooter's 3rd Circle standards.
 SKILL_20150317_002753	$Stone Shot: Enhance 2
 SKILL_20150317_002754	$Enhanced the damage of [Stone Shot] to Quarrel Shooter's 2nd Circle standards.
 SKILL_20150317_002755	$Stone Shot: Enhance 3
@@ -3112,7 +3113,7 @@ SKILL_20150323_003111	Swell Left Arm: Enhance 2
 SKILL_20150323_003112	Attack of [Swell Left Arm] is enhanced to Thaumaturge Circle 2.
 SKILL_20150323_003113	Swell Left Arm: Enhance 3
 SKILL_20150323_003114	Attack of [Swell Left Arm] is enhanced to Thaumaturge Circle 3.
-SKILL_20150323_003115	Thrust: Bleed
+SKILL_20150323_003115	$Thrust: Bleeding
 SKILL_20150323_003116	{memo X}Use [Thrust] on stunned enemies for additional Bleed effect.
 SKILL_20150323_003117	{memo X}Cross Guard: Debuff
 SKILL_20150323_003118	{memo X}Enemies blocked by [Cross Guard] temporarily become vulnerable to stab attacks.
@@ -3378,7 +3379,7 @@ SKILL_20150401_003377	{memo X}When enemies are killed with [Revive], two monster
 SKILL_20150401_003378	{memo X}Pommel Beat: Enhance
 SKILL_20150401_003379	{memo X}Damage of [Pommel Beat] Increase per Attribute level.
 SKILL_20150401_003380	{memo X}Pommel Beat: Enhance 2
-SKILL_20150401_003381	Damage of [Pommel Beat] is enhanced to Swordsman Circle 3.
+SKILL_20150401_003381	$Enhanced the damage of [Pommel Beat] to Swordsman's 3rd Circle standards.
 SKILL_20150401_003382	{memo X}Double Slash: Enhance
 SKILL_20150401_003383	{memo X}Damage of [Double Slash] Increase per Attribute level.
 SKILL_20150401_003384	{memo X}Butterfly: Enhance
@@ -3386,38 +3387,38 @@ SKILL_20150401_003385	{memo X}Damage of [Butterfly] Increase per Attribute level
 SKILL_20150401_003386	{memo X}Skull Swing: Enhance
 SKILL_20150401_003387	{memo X}Damage of [Skull Swing] Increase per Attribute level.
 SKILL_20150401_003388	{memo X}Skull Swing: Enhance 2
-SKILL_20150401_003389	Damage of [Skull Swing] is enhanced to Highlander Circle 3.
+SKILL_20150401_003389	$Enhanced the damage of [Skull Swing] to Highlander's 3rd Circle standards.
 SKILL_20150401_003390	{memo X}Spear Throw: Enhance
 SKILL_20150401_003391	{memo X}Damage of [Spear Throw] Increase per Attribute level.
 SKILL_20150401_003392	{memo X}Stomping Kick: Enhance 2
-SKILL_20150401_003393	Damage of [Stomping Kick] is enhanced to Barbarian Circle 3.
-SKILL_20150401_003394	Keel Hauling: Enhance
+SKILL_20150401_003393	$Enhanced the damage of [Stomping Kick] to Barbarian's 3rd Circle standards.
+SKILL_20150401_003394	$Keel Hauling: Enhance
 SKILL_20150401_003395	{memo X}Damage of [Keel Hauling] Increase per Attribute level.
-SKILL_20150401_003396	Cyclone: Enhance
+SKILL_20150401_003396	$Cyclone: Enhance
 SKILL_20150401_003397	{memo X}Damage of [Cyclone] Increase per Attribute level.
-SKILL_20150401_003398	Mordschlag: Enhance
-SKILL_20150401_003399	Punish: Enhance
-SKILL_20150401_003400	Snow Rolling: Enhance
+SKILL_20150401_003398	$Mordschlag: Enhance
+SKILL_20150401_003399	$Punish: Enhance
+SKILL_20150401_003400	$Snow Rolling: Enhance
 SKILL_20150401_003401	{memo X}Damage of [Snow Rolling] Increase per Attribute level.
-SKILL_20150401_003402	Gather Corpse: Enhance
+SKILL_20150401_003402	$Gather Corpse: Enhance
 SKILL_20150401_003403	{memo X}Damage of [Gather Corpse] Increase per Attribute level.
-SKILL_20150401_003404	Flesh Canon: Enhance
+SKILL_20150401_003404	$Flesh Cannon: Enhance
 SKILL_20150401_003405	{memo X}Damage of [Flesh Canon] Increase per Attribute level.
-SKILL_20150401_003406	Flesh Canon: Enhance 2
-SKILL_20150401_003407	Damage of [Flash Canon] is enhanced to Necromancer Circle 2.
-SKILL_20150401_003408	Flesh Canon: Enhance 3
-SKILL_20150401_003409	Damage of [Flash Canon] is enhanced to Necromancer Circle 3.
-SKILL_20150401_003410	Flesh Hoop: Enhance
+SKILL_20150401_003406	$Flesh Cannon: Enhance 2
+SKILL_20150401_003407	$Enhanced the damage of [Flesh Cannon] to Necromancer's 2nd Circle standards.
+SKILL_20150401_003408	$Flesh Cannon: Enhance 3
+SKILL_20150401_003409	$Enhanced the damage of [Flesh Cannon] to Necromancer's 3rd Circle standards.
+SKILL_20150401_003410	$Flesh Hoop: Enhance
 SKILL_20150401_003411	{memo X}Damage of [Flesh Hoop] Increase per Attribute level.
-SKILL_20150401_003412	Flesh Hoop: Enhance 2
-SKILL_20150401_003413	Damage of [Flash Canon] is enhanced to Necromancer Circle 3.
-SKILL_20150401_003414	Flesh Hoop: Enhance 3
-SKILL_20150401_003415	Combustion: Enhance
+SKILL_20150401_003412	$Flesh Hoop: Enhance 2
+SKILL_20150401_003413	$Enhanced the damage of [Flesh Hoop] to Necromancer's 3rd Circle standards.
+SKILL_20150401_003414	$Flesh Hoop: Enhance 3
+SKILL_20150401_003415	$Combustion: Enhance
 SKILL_20150401_003416	{memo X}Damage of [Combustion] Increase per Attribute level.
-SKILL_20150401_003417	Combustion: Enhance 2
-SKILL_20150401_003418	Damage of [Combustion] is enhanced to Alchemist Circle 2.
-SKILL_20150401_003419	Combustion: Enhance 3
-SKILL_20150401_003420	Damage of [Combustion] is enhanced to Alchemist Circle 3.
+SKILL_20150401_003417	$Combustion: Enhance 2
+SKILL_20150401_003418	$Enhanced the damage of [Combustion] to Alchemist's 2nd Circle standards.
+SKILL_20150401_003419	$Combustion: Enhance 3
+SKILL_20150401_003420	$Enhanced the damage of [Combustion] to Alchemist's 3rd Circle standards.
 SKILL_20150401_003421	{memo X}Knockback Shot: Enhance
 SKILL_20150401_003422	{memo X}Damage of [Knockback Shot] Increase per Attribute level.
 SKILL_20150401_003423	{memo X}Knockback Shot: Enhance 2
@@ -3430,107 +3431,107 @@ SKILL_20150401_003429	{memo X}Break Pavise: Enhance 2
 SKILL_20150401_003430	{memo X}Damage of [Break Pavise] is enhanced to Quarrel Shooter Circle 3.
 SKILL_20150401_003431	{memo X}Crossbow Mosing Shot: Enhance
 SKILL_20150401_003432	{memo X}Damage of [Crossbow Moving Shot] Increase per Attribute level.
-SKILL_20150401_003433	Spike Shooter: Enhance
+SKILL_20150401_003433	$Spike Shooter: Enhance
 SKILL_20150401_003434	{memo X}Damage of [Spike Shooter] Increase per Attribute level.
-SKILL_20150401_003435	Collar Bomb: Enhancce
+SKILL_20150401_003435	$Collar Bomb: Enhance
 SKILL_20150401_003436	{memo X}Damage of [Collar Bomb] Increase per Attribute level.
-SKILL_20150401_003437	Collar Bomb: Enhancce 2
-SKILL_20150401_003438	Damage of [Collar Bomb] is enhanced to Sapper Circle 3.
-SKILL_20150401_003439	Vendetta: Enhance
+SKILL_20150401_003437	$Collar Bomb: Enhance 2
+SKILL_20150401_003438	$Enhanced the damage of [Collar Bomb] to Sapper's 3rd Circle standards.
+SKILL_20150401_003439	$Vendetta: Enhance
 SKILL_20150401_003440	{memo X}Damage of [Vendetta] Increase per Attribute level.
-SKILL_20150401_003441	Vendetta: Enhance 2
-SKILL_20150401_003442	Damage of [Vendetta] is enhanced to Rogue Circle 3.
+SKILL_20150401_003441	$Vendetta: Enhance 2
+SKILL_20150401_003442	$Enhanced the damage of [Vendetta] to Rogue's 3rd Circle standards.
 SKILL_20150401_003443	{memo X}Lachrymator: Enhance
 SKILL_20150401_003444	{memo X}Damage of [Lachrymator] Increase per Attribute level.
-SKILL_20150401_003445	Lachrymator: Enhance 2
-SKILL_20150401_003446	Damage of [Lachrymator] is enhanced to Rogue Circle 2.
-SKILL_20150401_003447	Lachrymator: Enhance 3
-SKILL_20150401_003448	Damage of [Lachrymator] is enhanced to Rogue Circle 3.
-SKILL_20150401_003449	Backstep: Enhance
+SKILL_20150401_003445	$Lachrymator: Enhance 2
+SKILL_20150401_003446	$Enhanced the damage of [Lachrymator] to Rogue's 2nd Circle standards.
+SKILL_20150401_003447	$Lachrymator: Enhance 3
+SKILL_20150401_003448	$Enhanced the damage of [Lachrymator] to Rogue's 3rd Circle standards.
+SKILL_20150401_003449	$Backstep: Enhance
 SKILL_20150401_003450	{memo X}Damage of [Baskstep] Increase per Attribute level.
-SKILL_20150401_003451	Backstep: Enhance 2
-SKILL_20150401_003452	Damage of [Backstep] is enhanced to Rogue Circle 2.
-SKILL_20150401_003453	Backstep: Enhance 3
-SKILL_20150401_003454	Damage of [Backstep] is enhanced to Rogue Circle 3.
-SKILL_20150401_003455	Broadhead: Enhance
+SKILL_20150401_003451	$Backstep: Enhance 2
+SKILL_20150401_003452	$Enhanced the damage of [Backstep] to Rogue's 2nd Circle standards.
+SKILL_20150401_003453	$Backstep: Enhance 3
+SKILL_20150401_003454	$Enhanced the damage of [Backstep] to Rogue's 3rd Circle standards.
+SKILL_20150401_003455	$Broadhead: Enhance
 SKILL_20150401_003456	{memo X}Damage of [Broadhead] Increase per Attribute level.
-SKILL_20150401_003457	Broadhead: Enhance 2
-SKILL_20150401_003458	Damage of [Broad Head] is enhanced to Fletcher Circle 2.
-SKILL_20150401_003459	Broadhead: Enhance 3
-SKILL_20150401_003460	Damage of [Broad Head] is enhanced to Fletcher Circle 3.
-SKILL_20150401_003461	Bodkin Point: Enhance
+SKILL_20150401_003457	$Broadhead: Enhance 2
+SKILL_20150401_003458	$Enhanced the damage of [Broadhead] to Fletcher's 2nd Circle standards.
+SKILL_20150401_003459	$Broadhead: Enhance 3
+SKILL_20150401_003460	$Enhanced the damage of [Broadhead] to Fletcher's 3rd Circle standards.
+SKILL_20150401_003461	$Bodkin Point: Enhance
 SKILL_20150401_003462	{memo X}Damage of [Bodkin Point] Increase per Attribute level.
-SKILL_20150401_003463	Bodkin Point: Enhance 2
-SKILL_20150401_003464	Damage of [Bodkin Point] is enhanced to Fletcher Circle 2.
-SKILL_20150401_003465	Bodkin Point: Enhance 3
-SKILL_20150401_003466	Damage of [Bodkin Point] is enhanced to Fletcher Circle 3.
-SKILL_20150401_003467	Barbed Arrow: Enhance
+SKILL_20150401_003463	$Bodkin Point: Enhance 2
+SKILL_20150401_003464	$Enhanced the damage of [Bodkin Point] to Fletcher's 2nd Circle standards.
+SKILL_20150401_003465	$Bodkin Point: Enhance 3
+SKILL_20150401_003466	$Enhanced the damage of [Bodkin Point] to Fletcher's 3rd Circle standards.
+SKILL_20150401_003467	$Barbed Arrow: Enhance
 SKILL_20150401_003468	{memo X}Damage of [Barbed Arrowe] Increase per Attribute level.
-SKILL_20150401_003469	Barbed Arrow: Enhance 2
-SKILL_20150401_003470	Damage of [Barbed Arrow] is enhanced to Fletcher Circle 2.
-SKILL_20150401_003471	Barbed Arrow: Enhance 3
-SKILL_20150401_003472	Damage of [Barbed Arrow] is enhanced to Fletcher Circle 3.
-SKILL_20150401_003473	Cross Fire: Enhance
+SKILL_20150401_003469	$Barbed Arrow: Enhance 2
+SKILL_20150401_003470	$Enhanced the damage of [Barbed Arrow] to Fletcher's 2nd Circle standards.
+SKILL_20150401_003471	$Barbed Arrow: Enhance 3
+SKILL_20150401_003472	$Enhanced the damage of [Barbed Arrow] to Fletcher's 3rd Circle standards.
+SKILL_20150401_003473	$Cross Fire: Enhance
 SKILL_20150401_003474	{memo X}Damage of [Cross Fire] Increase per Attribute level.
-SKILL_20150401_003475	Cross Fire: Enhance 2
-SKILL_20150401_003476	Damage of [Cross Fire] is enhanced to Fletcher Circle 2.
-SKILL_20150401_003477	Cross Fire: Enhance 3
-SKILL_20150401_003478	Damage of [Cross Fire] is enhanced to Fletcher Circle 3.
+SKILL_20150401_003475	$Cross Fire: Enhance 2
+SKILL_20150401_003476	$Enhanced the damage of [Cross Fire] to Fletcher's 2nd Circle standards.
+SKILL_20150401_003477	$Cross Fire: Enhance 3
+SKILL_20150401_003478	$Enhanced the damage of [Cross Fire] to Fletcher's 3rd Circle standards.
 SKILL_20150401_003479	{memo X}Magic Arrow: Enhance
 SKILL_20150401_003480	{memo X}Damage of [Magic Arrow] Increase per Attribute level.
 SKILL_20150401_003481	{memo X}Magic Arrow: Enhance 2
 SKILL_20150401_003482	{memo X}Damage of [Magic Arrow] is enhanced to Fletcher Circle 3.
-SKILL_20150401_003483	Gather Corpse: Enahnce
+SKILL_20150401_003483	$Gather Corpse: Enhance
 SKILL_20150401_003484	{memo X}Damage of [Gather Corpse] Increase per Attribute level.
-SKILL_20150401_003485	Concentrate Fire: Enhance
+SKILL_20150401_003485	$Concentrated Fire: Enhance
 SKILL_20150401_003486	{memo X}Damage of [Concentrated Fire] Increase per Attribute level.
-SKILL_20150401_003487	Caracole: Enhance
+SKILL_20150401_003487	$Caracole: Enhance
 SKILL_20150401_003488	{memo X}Damage of [Caracole] Increase per Attribute level.
-SKILL_20150401_003489	Limacon: Enhance
+SKILL_20150401_003489	$Limacon: Enhance
 SKILL_20150401_003490	{memo X}Damage of [Remacon] Increase per Attribute level.
-SKILL_20150401_003491	Retreat Shot: Enhance
+SKILL_20150401_003491	$Retreat Shot: Enhance
 SKILL_20150401_003492	{memo X}Damage of [Retreat Shot] Increase per Attribute level.
-SKILL_20150401_003493	Exorcise: Enhance
+SKILL_20150401_003493	$Exorcise: Enhance
 SKILL_20150401_003494	{memo X}Damage of [Exorsize] Increase per Attribute level.
-SKILL_20150401_003495	Iron Skin: Enhance
-SKILL_20150401_003496	Damage of [Iron Skin] Increase per Attribute level.
-SKILL_20150401_003497	Double Punch: Enhance
+SKILL_20150401_003495	$Iron Skin: Enhance
+SKILL_20150401_003496	Increases the damage of [Iron Skin] per attribute level.
+SKILL_20150401_003497	$Double Punch: Enhance
 SKILL_20150401_003498	{memo X}Damage of [Double Punch] Increase per Attribute level.
-SKILL_20150401_003499	Double Punch: Enhance 2
-SKILL_20150401_003500	Damage of [Double Punch] is enhanced to Monk Circle 2.
-SKILL_20150401_003501	Double Punch: Enhance 3
-SKILL_20150401_003502	Damage of [Double Punch] is enhanced to Monk Circle 3.
-SKILL_20150401_003503	Palm Strike: Enhance
+SKILL_20150401_003499	$Double Punch: Enhance 2
+SKILL_20150401_003500	$Enhanced the damage of [Double Punch] to Monk's 2nd Circle standards.
+SKILL_20150401_003501	$Double Punch: Enhance 3
+SKILL_20150401_003502	$Enhanced the damage of [Double Punch] to Monk's 3rd Circle standards.
+SKILL_20150401_003503	$Palm Strike: Enhance
 SKILL_20150401_003504	{memo X}Damage of [Palm Strike] Increase per Attribute level.
-SKILL_20150401_003505	Palm Strike: Enhance 2
-SKILL_20150401_003506	Damage of [Palm Strike] is enhanced to Monk Circle 2.
-SKILL_20150401_003507	Palm Strike: Enhance 3
-SKILL_20150401_003508	Damage of [Palm Strike] is enhanced to Monk Circle 3.
-SKILL_20150401_003509	Palm Strike: Enhance
+SKILL_20150401_003505	$Palm Strike: Enhance 2
+SKILL_20150401_003506	$Enhanced the damage of [Palm Strike] to Monk's 2nd Circle standards.
+SKILL_20150401_003507	$Palm Strike: Enhance 3
+SKILL_20150401_003508	$Enhanced the damage of [Palm Strike] to Monk's 3rd Circle standards.
+SKILL_20150401_003509	$Hand Knife: Enhance
 SKILL_20150401_003510	{memo X}Damage of [Hand Knife] Increase per Attribute level.
-SKILL_20150401_003511	Palm Strike: Enhance 2
-SKILL_20150401_003512	Damage of [Hand Knife] is enhanced to Monk Circle 2.
-SKILL_20150401_003513	Palm Strike: Enhance 3
-SKILL_20150401_003514	Damage of [Hand Knife] is enhanced to Monk Circle 3.
-SKILL_20150401_003515	1 inch Punch: Enhance
+SKILL_20150401_003511	$Hand Knife: Enhance 2
+SKILL_20150401_003512	$Enhanced the damage of [Hand Knife] to Monk's 2nd Circle standards.
+SKILL_20150401_003513	$Hand Knife: Enhance 3
+SKILL_20150401_003514	$Enhanced the damage of [Hand Knife] to Monk's 3rd Circle standards.
+SKILL_20150401_003515	$1 Inch Punch: Enhance
 SKILL_20150401_003516	{memo X}Damage of [1 inch Punch] Increase per Attribute level.
-SKILL_20150401_003517	1 inch Punch: Enhance 2
-SKILL_20150401_003518	Damage of [1 inch Punch] is enhanced to Monk Circle 3.
-SKILL_20150401_003519	Energy Blast: Enhance
+SKILL_20150401_003517	$1 Inch Punch: Enhance 2
+SKILL_20150401_003518	$Enhanced the damage of [1 Inch Punch] to Monk's 3rd Circle standards.
+SKILL_20150401_003519	$Energy Blast: Enhance
 SKILL_20150401_003520	{memo X}Damage of [Energy Blast] Increase per Attribute level.
-SKILL_20150401_003521	Golden Finger Flick: Enhance
+SKILL_20150401_003521	$Golden Finger Flick: Enhance
 SKILL_20150401_003522	{memo X}Damage of [God Finger] Increase per Attribute level.
-SKILL_20150401_003523	Golden Finger Flick: Enhance 2
-SKILL_20150401_003524	Damage of [God Finger] is enhanced to Monk Circle 3.
-SKILL_20150401_003525	Carnivory: Enhancce
+SKILL_20150401_003523	$Golden Finger Flick: Enhance 2
+SKILL_20150401_003524	$Enhanced the damage of [Golden Finger Flick] to Monk's 3rd Circle standards.
+SKILL_20150401_003525	$Carnivory: Enhance
 SKILL_20150401_003526	{memo X}Damage of [Carnovory] Increase per Attribute level.
-SKILL_20150401_003527	Carnivory: Enhancce 2
-SKILL_20150401_003528	Damage of [Carnivory] is enhanced to Druid Circle 2.
-SKILL_20150401_003529	Carnivory: Enhancce 3
-SKILL_20150401_003530	Damage of [Carnivory] is enhanced to Druid Circle 3.
-SKILL_20150401_003531	Use Pistol
+SKILL_20150401_003527	$Carnivory: Enhance 2
+SKILL_20150401_003528	$Enhanced the damage of [Carnivory] to Druid's 2nd Circle standards.
+SKILL_20150401_003529	$Carnivory: Enhance 3
+SKILL_20150401_003530	$Enhanced the damage of [Carnivory] to Druid's 3rd Circle standards.
+SKILL_20150401_003531	$Use Pistol
 SKILL_20150401_003532	{memo X}Can use [Pistol] weapons
-SKILL_20150406_003533	Poisonous arrow
+SKILL_20150406_003533	$Poisonous Arrow
 SKILL_20150406_003534	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use bump of shield to attack.{nl}Block enemy's attack first then attack for additional damage.
 SKILL_20150406_003535	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use corner of shield to attack.{nl}Attack petrifies, frozen enemies for additional damage.
 SKILL_20150406_003536	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Throw shield to attack enemy. Shield falls on the ground and it must be picked up to reuse.
@@ -3549,12 +3550,12 @@ SKILL_20150406_003548	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Charge
 SKILL_20150406_003549	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Gather force and stab the enemy.
 SKILL_20150406_003550	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Tie enemy and drag around.{nl}Enemy is damaged when moving and Bleeds when released.
 SKILL_20150406_003551	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Make solid landing while jumping or on air to damage enemies.
-SKILL_20150406_003552	Pouncing
+SKILL_20150406_003552	$Pouncing
 SKILL_20150406_003553	{memo X}Install basecamp in field. Party members can sue the basecamp for personal storage and can freely warp to basecamp.
 SKILL_20150406_003554	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use Iron Hook to pull enemy. Enemy receives damage every time it is pulled.
 SKILL_20150406_003555	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use back of sword to hit smash enemy.
 SKILL_20150406_003556	{memo X}{#993399}{ol}[Magic] - [Ice] - [Strike]{/}{/}{nl}Summon huge snowball and damage nearby enemies.
-SKILL_20150406_003557	Summon Servant
+SKILL_20150406_003557	$Summon Servant
 SKILL_20150406_003558	{memo X}{#993399}{ol}[Magic]{/}{/}{nl}Collect corpse fragments when monsters are killed using this attack.
 SKILL_20150406_003559	{memo X}Attack #{SkillAtkAdd}#{nl}Collect corpse fragment of each monster type
 SKILL_20150406_003560	{memo X}{nl}Plant, Beast, Mutant Fragments{nl}Use #{CaptionRatio}# each
@@ -3568,9 +3569,9 @@ SKILL_20150406_003567	{memo X}Heavy Shot
 SKILL_20150406_003568	{memo X}Twin Arrow
 SKILL_20150406_003569	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Hang bomb on arrow and fire.
 SKILL_20150406_003570	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Shoot stone-bullets and push away target. Target may be stunned by chance.
-SKILL_20150406_003571	Teardown
+SKILL_20150406_003571	$Teardown
 SKILL_20150406_003572	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Destroy obstacles that block the way and damage enemies in front.
-SKILL_20150406_003573	Running Shot
+SKILL_20150406_003573	$Running Shot
 SKILL_20150406_003574	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Install traps that damage targets nearby.
 SKILL_20150406_003575	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Explode magic circle and installation to damage enemies.
 SKILL_20150406_003576	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Flame is fumed and cause damage.
@@ -3593,13 +3594,13 @@ SKILL_20150406_003592	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Gather
 SKILL_20150406_003593	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Throw coin to attack target. Max. SP of targets hit will temporarily decrease.
 SKILL_20150406_003594	{memo X}{#993399}{ol}[Magic] - [Holy]{/}{/}{nl}Heals target and party members while damaging enemy.
 SKILL_20150406_003595	{memo X}Attack #{SkillAtkAdd}#{nl}Attack #{CaptionRatio}# enemies{nl}Heall all party members{nl}Heal #{CaptionRatio}# allies{nl}
-SKILL_20150406_003596	Reflect close range attacks.
-SKILL_20150406_003597	Max. HP decreases
-SKILL_20150406_003598	Nullify all attacks
+SKILL_20150406_003596	$Reflects close ranged attacks.
+SKILL_20150406_003597	$Gradually decreases maximum HP.
+SKILL_20150406_003598	$Nullifies all attacks.
 SKILL_20150406_003599	Use sword while moving forward
 SKILL_20150406_003600	{memo X}[Pardoner] Make despeller
-SKILL_20150406_003601	Create Anti-magic
-SKILL_20150406_003602	[Pardoner] Make anti-magic
+SKILL_20150406_003601	$Craft Anti-Magic
+SKILL_20150406_003602	$[Pardoner] Craft Anti-Magic
 SKILL_20150414_003603	Shovelling
 SKILL_20150414_003604	Detect metal
 SKILL_20150414_003605	Water spray
@@ -3616,7 +3617,7 @@ SKILL_20150414_003615	$Hit your shield to provoke nearby enemies making them pur
 SKILL_20150414_003616	$Increases your defense while decreasing your attack. Cannot be used with Gung Ho.
 SKILL_20150414_003617	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Throw shield to attack. Shield dropped on ground may disappear if not picked up within time limit.
 SKILL_20150414_003618	Change to active stance using shield in front. Block and increases while attack and critical decrease.
-SKILL_20150414_003619	Block +#{CaptionRatio}# {nl}Attack -#{CaptionTime}#% {nl}Chance of critical -#{CaptionRatio2}#
+SKILL_20150414_003619	$Block: +#{CaptionRatio}# {nl}Attack: -#{CaptionTime}#% {nl}Critical Chance: -#{CaptionRatio2}#
 SKILL_20150414_003620	{#DD5500}{ol}[Physical] - [Strike] - [Slash]{/}{/}{nl}Use shield and sword to make continuous attacks.
 SKILL_20150414_003621	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Use weapon to raise and blow away enemy.
 SKILL_20150414_003622	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Smack down enemy's head. Target's INT and SPR temporarily decrease.
@@ -3635,7 +3636,7 @@ SKILL_20150414_003634	{memo X}Attack #{SkillAtkAdd}#{nl}Defense -#{CaptionRatio}
 SKILL_20150414_003635	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Hold key to bend down and move forward. Evasion increases and attacks enemy after moving.
 SKILL_20150414_003636	{#DD5500}{ol}[Physical] - [Pierce] - [Strike]{/}{/}{nl}Use sword and shield to attack continuously.
 SKILL_20150414_003637	{#DD5500}{ol}[Pierce]{/}{/}{nl}Penetrate small, medium sized enemy on spear and bring around. Enemy skewed can be used to attack other enemies.
-SKILL_20150414_003638	Movement speed increases when you are riding.
+SKILL_20150414_003638	$Increases your movement speed while riding.
 SKILL_20150414_003639	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Dash forward and attack enemy.
 SKILL_20150414_003640	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Gather force and strongly stab enemy with tip of spear.
 SKILL_20150414_003641	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Throw spear over head to attack.
@@ -3646,14 +3647,14 @@ SKILL_20150414_003645	Temporarily make stab attacks be applied as repeated attac
 SKILL_20150414_003646	{memo X}Temporarily decrease defense of nearby enemies, and add that much to your ATK.
 SKILL_20150414_003647	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Tramp down on enemy while on air or jumping.
 SKILL_20150414_003648	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Dash forward and attack enemies blocking the way.
-SKILL_20150414_003649	Giant Swing
+SKILL_20150414_003649	$Giant Swing
 SKILL_20150414_003650	{memo X}USe centrifugal force to throw away enemy.
 SKILL_20150414_003651	{memo X}Open shop to repair weapon and temporarily increase its performance.
 SKILL_20150414_003652	{memo X}Open shop to repair weapon and temporarily increase its performance. Physical defense is added. Repair is only for top, Pants, and Shield.
 SKILL_20150414_003653	Open shop for repairing items. Items are repaired to have higher durability than max. durability.
 SKILL_20150414_003654	Bind all enemies to stop it from moving including the boss monster.
 SKILL_20150414_003655	{memo X}Install basecamp for party members. Party members can use basecamp as storage or for teleport.
-SKILL_20150414_003656	Duration #{CaptionRatio}# hours{nl}Food effects duration at least 30 minutes
+SKILL_20150414_003656	$Duration: #{CaptionRatio}# hours{nl}Duration of the food effects is at least 30 minutes
 SKILL_20150414_003657	$Sets up a refreshment table to prepare dishes that temporarily increases the abilities for your party members. A refreshment table can only be set up near the base camp, and if the camp is removed, the refreshment table will be removed as well.
 SKILL_20150414_003658	{memo X}Ping a flag that boosts pirates' abilities. Kill enemies repeatedly near the flag for combo attack.
 SKILL_20150414_003659	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Drag and pull enemies captured with Iron Hook. Enemy receives damage each time it is pulled.
@@ -3752,11 +3753,11 @@ SKILL_20150414_003751	{memo X}Each weapon has different dungeon{nl}and potential
 SKILL_20150414_003752	{memo X}{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Quickly shoot multiple arrows.
 SKILL_20150414_003753	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Pull bow and shoot an arrow that penetrates the enemy. Target may be skewed if there are other enemies nearby.
 SKILL_20150414_003754	{memo X}{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Sit down to increase focus. ATK and range increases.
-SKILL_20150414_003755	Attack and movement speed increase temporarily.
+SKILL_20150414_003755	$Temporarily increases your movement speed while attacking.
 SKILL_20150414_003756	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Arrow bounces off attacking one more enemy.
-SKILL_20150414_003757	Heavy Shot
+SKILL_20150414_003757	$Heavy Shot
 SKILL_20150414_003758	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Pull bow strongly to shoot and target is pushed away.
-SKILL_20150414_003759	Twin Arrow
+SKILL_20150414_003759	$Twins Arrow
 SKILL_20150414_003760	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Shoot two arrows at once.
 SKILL_20150414_003761	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Use tip of arrow to aim at target and penetrate stright forward.
 SKILL_20150414_003762	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Shoot arrow with high rate of critical.
@@ -3789,15 +3790,15 @@ SKILL_20150414_003788	Hide yourself in an empty container. Blocks agains few Phy
 SKILL_20150414_003789	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Shoot arrow that makes noise. Enemies nearby falls under fear.
 SKILL_20150414_003790	Temporarily hide yourself away from enemy's vision. You become exposed when jumping or attacking.
 SKILL_20150414_003791	Distort sense of distance and make attack of allies possible outside the range.
-SKILL_20150414_003792	Show items or enemies hidden within range.
-SKILL_20150414_003793	Temporarily increase chance of critical when attacking from behind enemy.
+SKILL_20150414_003792	Show hidden items and enemies within range.
+SKILL_20150414_003793	$Temporarily increases your Critical Chance when attacking enemies from behind. 
 SKILL_20150414_003794	Trick enemies to lower their guards. Evasion of enemies in front decreases.
 SKILL_20150414_003795	Hide on the ground. You can attack but cannot move.
 SKILL_20150414_003796	Steal enemy's trap and magic circle. You may use it alter when you need it.
 SKILL_20150414_003797	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Enemy explodes when killed with this attack and your party's strength temporarily increase.
 SKILL_20150414_003798	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Throw tear gas on target area. Enemies fall under [Dark].
 SKILL_20150414_003799	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Make continuous attack using sword. Double attack with high rate of critical and has chance of fainting enemy.
-SKILL_20150414_003800	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Shoot broadhead arrow. Enemies hit falls under Bleed.
+SKILL_20150414_003800	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Shoot broadhead arrow. Enemies hit falls under Bleeding.
 SKILL_20150414_003801	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Shoot bodkin arrow with strong penetration. Defense of enemy hit temporarily decreases and nullify magic protecting the enemy.
 SKILL_20150414_003802	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Shoot barbed arrow. Hit count depends on defense type of enemy.
 SKILL_20150414_003803	{memo X}{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Shoot arrow that explodes enemy in cross form when killed.
@@ -3847,21 +3848,21 @@ SKILL_20150414_003846	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Order zombies 
 SKILL_20150414_003847	Install a Samedi pattern that represents death noir on the ground. Movement speed and max. HP of zombies and allies around the pattern increase.
 SKILL_20150414_003848	{memo X}Install a Oguon pattern that represents strength noir on the ground. Strength of zombies and allies around the pattern increase.
 SKILL_20150414_003849	{#993399}{ol}[Magic]{/}{/}{nl}Explode zombies near target area and attack nearby enemies.
-SKILL_20150414_003850	Carve Statue of Vakarine, the Goddess of Evening Star. {nl}You may warp to other areas through the statue.
-SKILL_20150414_003851	Carve Statue of Zemyna, the Goddess of Earth. {nl}Allies near the statue use less SP when using skills.
-SKILL_20150414_003852	SP -#{CaptionRatio}# {nl}Statue duration #{CaptionRatio2}# seconds{nl}Use 4 Pine woods
-SKILL_20150414_003853	Carve Statue of Laima, Goddess of Fate. {nl}Skill cooltime of party members nearby decrease.
-SKILL_20150414_003854	Cooltime -#{CaptionRatio}#%{nl}Statue duration #{CaptionRatio2}# seconds{nl}Use 4 cedar woods
+SKILL_20150414_003850	$Carve a statue of Vakarine, the Goddess of Evening Star. {nl}You may warp to other areas through the Goddess Statue.
+SKILL_20150414_003851	$Carve a statue of Zemyna, the Goddess of Earth.{nl}Decreases the SP cost for allies who are nearby the Goddess Statue.
+SKILL_20150414_003852	$SP -#{CaptionRatio}# {nl}Statue duration: #{CaptionRatio2}# seconds{nl}Consumes 4 Pine Wood
+SKILL_20150414_003853	$Carve a statue of Laima, the Goddess of Fate. {nl}Decreases the cooldown of your party member's skills nearby the Goddess Statue.
+SKILL_20150414_003854	$Cooldown duration: -#{CaptionRatio}#%{nl}Statue duration: #{CaptionRatio2}# seconds{nl}Consumes 4 Cedar Wood
 SKILL_20150414_003855	{#993399}{ol}[Magic] - [Fire]{/}{/}{nl}Carve an owl statue that attacks the enemy.
 SKILL_20150414_003856	{memo X}Attack #{SkillAtkAdd}#{nl}Defend #{CaptionRatio}#times{nl}Duration #{CaptionTime}# seconds{nl}Use 3 Oak wood
 SKILL_20150414_003857	Carve a holy tree that silence nearby enemies.
 SKILL_20150414_003858	Statue duration #{CaptionRatio}# seconds{nl}Use 6 Ash woods
-SKILL_20150414_003859	Carve Statue of Ausrine, Goddess of Morning Star. You and your allied do not receive damage after rotating around the statue three times.
-SKILL_20150414_003860	{#339999}{ol}[Blessing of Goddess]{/}{/} Duration #{CaptionRatio}# seconds{nl}Goddess Statue duration 30 seconds{nl}Use 4 Cedar wood
+SKILL_20150414_003859	$Carve a statue of Ausrine, the Goddess of Morning Star. You and your allies do not receive damage after rotating around the Goddess Statue 3 times.
+SKILL_20150414_003860	${#339999}{ol}[Blessing of the Goddess]{/}{/} Duration: #{CaptionRatio}# seconds{nl}Goddess Statue duration: 30 seconds{nl}Consumes 4 Cedar Wood
 SKILL_20150414_003861	Move your spirit out of the body. The spirit can only move near the body.
 SKILL_20150414_003862	Move body to the spirit to unite again. Can only be used when spirit is out of body.
 SKILL_20150414_003863	{#993399}{ol}[Magic] - [Holy]{/}{/}{nl}Bind enemy to stop its movement and inflict damage.
-SKILL_20150414_003864	Decrease STR, CON, INT, SPR, DEX of enemies nearby.
+SKILL_20150414_003864	$Decreases the STR, CON, INT, SPR and DEX of enemies nearby.
 SKILL_20150414_003865	{#993399}{ol}[Magic]{/}{/}{nl}Explode the souls separated from the body and inflict damage.
 SKILL_20150414_003866	Transfer your abilities to allies in front of you .
 SKILL_20150414_003867	Attack soul
@@ -3887,16 +3888,16 @@ SKILL_20150414_003886	Create your skill into a scroll that anyone can use.
 SKILL_20150414_003887	Create a shop to sell your skills.
 SKILL_20150414_003888	Use ritual to heal abnormal state level 2 and above of allies or attack enemies.
 SKILL_20150414_003889	{memo X}Attack #{SkillAtkAdd}#{nl}Target #{CaptionRatio}#{nl}Heal all party members{nl}Heal #{CaptionRatio}# allies{nl}Use 500 silver
-SKILL_20150414_003890	Create offering box to receive donation of allies' item. Can installed nearby Goddess Statue only.
+SKILL_20150414_003890	$Open an Offering Box to receive donations from allies. Can only be opened nearby a Goddess Statue.
 SKILL_20150414_003891	Extend duration of harmful effects applied on enemy.
 SKILL_20150414_003892	Penetrate into the mind of an enemy in front and control it.
 SKILL_20150414_003893	{#993399}{ol}[Magic]{/}{/}{nl}Grass nearby target area attacks the enemy.
-SKILL_20150414_003894	Temporarily transform into an animal, plant, insect type monster in front.
-SKILL_20150414_003895	Transform back into the monster last shape shifted to.
+SKILL_20150414_003894	$Temporarily transform into an Animal-type, Plant-type or Insect-type monster in front.
+SKILL_20150414_003895	$Transform back into the monster that you last shape shifted to.
 SKILL_20150414_003896	Grass in the target area protects you and your party.
 SKILL_20150414_003897	Grass temporarily growns on target area. Monsters entering the area is as plant type.
 SKILL_20150414_003898	$Randomly summons enemies to your front from the area you are currently in.
-SKILL_20150414_003899	Increase max. SP and STA of you and your party.
+SKILL_20150414_003899	$Increases your and your party member's maximum SP and STA.
 SKILL_20150414_003900	Change the monster in front to a different monster.
 SKILL_20150414_003901	Predict and show beforehand which item the monster will drop
 SKILL_20150414_003902	Invalidate magic of enemies nearby.
@@ -3905,15 +3906,15 @@ SKILL_20150414_003904	{memo X}Change enemy's drop item. Know if rare item will b
 SKILL_20150414_003905	Sentence death to enemy. Target dies when time is up.
 SKILL_20150414_003906	Max. provoke increased.
 SKILL_20150414_003907	Insensible to pain.
-SKILL_20150414_003908	Fire, Ice, Lightning, Poison, Earth Resistance increase.
-SKILL_20150414_003909	Physical, Magic attack increase
-SKILL_20150414_003910	Pillaging.
+SKILL_20150414_003908	$Increased Fire, Ice, Lightning, Poison and Earth Property Resistance.
+SKILL_20150414_003909	$Increased Physical and Magic Attack.
+SKILL_20150414_003910	$Pillaging.
 SKILL_20150414_003911	Cannot see in front
-SKILL_20150414_003912	Blessings of Goddess
+SKILL_20150414_003912	$Blessing of the Goddess
 SKILL_20150414_003913	Can search
 SKILL_20150414_003914	$Muscle Pumping
 SKILL_20150414_003915	$Increases STR, but decreases maximum Stamina
-SKILL_20150414_003916	Guard set buff
+SKILL_20150414_003916	$Sentinel Set Buff
 SKILL_20150414_003917	{memo X}Status buff where Will of Guard buff can be activated
 SKILL_20150414_003918	Will of Guard
 SKILL_20150414_003919	$Increases damage against Demon-type targets by +125
@@ -3926,11 +3927,11 @@ SKILL_20150414_003925	{memo X}When using [Resist Elements] Fire, Ice, Lightning 
 SKILL_20150414_003926	{memo X}Monsters stabbed with [Pointing] have 5% chance per attribute level of falling under [Fear] every 3 seconds.
 SKILL_20150414_003927	{memo X}Defense of enemies receiving [Retrieve] attacks decrease by 10 per attribute level.
 SKILL_20150414_003928	{memo X}Max. poison capacity of [Poison Pot] increases by 10 per attribute level.
-SKILL_20150414_003929	Arrest: Slowdown
+SKILL_20150414_003929	$Arrest: Slowdown
 SKILL_20150414_003930	{memo X}[Slowdown] is left after [Arrest]. Higher attribute level prolongs its duration.
 SKILL_20150414_003931	$Weapon Maintenance: Count Increase
 SKILL_20150414_003932	{memo X}Count of [Weapon Repair] increase by 1 per level.
-SKILL_20150414_003933	Armor Maintenance: Count Increase
+SKILL_20150414_003933	$Armor Maintenance: Count Increase
 SKILL_20150414_003934	{memo X}Count of [Armor Repair] increase by 1 per level.
 SKILL_20150414_003935	$Keel Hauling: Bleeding
 SKILL_20150414_003936	{memo X}Enemy falls under [Bleed] for 5 seconds when attacked with [Keel Hauling]. Duratino of [Bleed] increases by a seconds per level.
@@ -3952,10 +3953,10 @@ SKILL_20150414_003951	$Heavy Shot: Enhance 2
 SKILL_20150414_003952	Damage of [Heavy Shot] is enhanced to Archer Circle 3.
 SKILL_20150414_003953	$Twin Arrows: Enhance
 SKILL_20150414_003954	{memo X}Damage of [Twin Arrow] increase per attribute level.
-SKILL_20150414_003955	$Tear Down: Enhance
-SKILL_20150414_003956	{memo X}Damage of [Tear Down] increase per attribute level.
-SKILL_20150414_003957	$Tear Down: Enhance 2
-SKILL_20150414_003958	$Enhanced the damage of [Tear Down] to Quarrel Shooter's 3rd Circle standards.
+SKILL_20150414_003955	$Teardown: Enhance
+SKILL_20150414_003956	{memo X}Damage of [Teardown] increase per attribute level.
+SKILL_20150414_003957	$Teardown: Enhance 2
+SKILL_20150414_003958	$Enhanced the damage of [Teardown] to Quarrel Shooter's 3rd Circle standards.
 SKILL_20150414_003959	$Running Shot: Enhance
 SKILL_20150414_003960	$Increases the damage of [Running Shot] per attribute level.
 SKILL_20150414_003961	$Tear Gas: Additional Damage
@@ -3975,71 +3976,71 @@ SKILL_20150414_003974	{memo X}Duration of [Install Distribution Table] Yogurt in
 SKILL_20150414_003975	$High Guard: Defense Increase
 SKILL_20150414_003976	{memo X}Defense of [High Guard] increases by 1 per attribute level.
 SKILL_20150414_003977	{memo X}Defense of [Swell Right Arm] increases by 1 per attribute level.
-SKILL_20150414_003978	Swell Brain: Enhance
+SKILL_20150414_003978	$Swell Brain: Enhance
 SKILL_20150414_003979	{memo X}Intelligence effect of [Swell Brain] increases per attribute level.
-SKILL_20150414_003980	Unbind: Enemy damage
+SKILL_20150414_003980	$Unbind: Enemy Damage
 SKILL_20150414_003981	{memo X}Enemies [Unbinded] receive damage. Attack increase by 10% of magic attack per attribute level.
-SKILL_20150414_003982	Summon Familar Spirit: Enhance
+SKILL_20150414_003982	$Summon Familar: Enhance
 SKILL_20150414_003983	{memo X}Damage of Spirit summoned by [Summon Familiar Spirit] increases per attribute level.
-SKILL_20150414_003984	Summon Familar Spirit: Splash
+SKILL_20150414_003984	$Summon Familar: Splash
 SKILL_20150414_003985	{memo X}When summoned familiar spirit explodes itself, there 1% chance per attribute level for it to damage nearby enemies.
-SKILL_20150414_003986	Sorcerer: SP Recovery
+SKILL_20150414_003986	$Sorcerer: SP Recovery
 SKILL_20150414_003987	{memo X}Character's SP recovery increase by 1 per attribute level.
 SKILL_20150414_003988	{memo X}Flesh Canon: Decompose
 SKILL_20150414_003989	{memo X}There is a chance of enemy falling under decompose status for 30 seconds when attacked with [Flesh Canon]. Chance increases by 5% per attribute level.
 SKILL_20150414_003990	{memo X}Flesh Hoop: Demoralize
 SKILL_20150414_003991	{memo X}Attak of enemies nearby the hoop after using [Flesh Hoop] decrease for 15 seconds. It turns back to normal when moving away from the hoop.
 SKILL_20150414_003992	Item Awakening: Quick
-SKILL_20150414_003993	Monsters created in dungeon with [Item Awakening] decreases by 1.
+SKILL_20150414_003993	$Decreases the amount of monsters in dungeons created with [Item Awakening] by 1.
 SKILL_20150414_003994	Item Awakening: Prompt Decision
-SKILL_20150414_003995	Wavescreated in dungeon with [Item Awakening] decreases by 1.
-SKILL_20150414_003996	Weapon Swap
+SKILL_20150414_003995	$Decreases the amount of waves in dungeons created with [Item Awakening] by 1.
+SKILL_20150414_003996	$Weapon Swap
 SKILL_20150414_003997	{memo X}You can change weapon.
-SKILL_20150414_003998	Vendetta: Counter Attack
-SKILL_20150414_003999	Accurate attack on bleeding enemy with [Vendetta] inflicts double damage.
-SKILL_20150414_004000	Backstep: Massive Bleed
+SKILL_20150414_003998	$Vendetta: Counter Attack
+SKILL_20150414_003999	$Doubles the damage when hitting an enemy affected by the [Bleeding] status effect with [Vendetta].
+SKILL_20150414_004000	$Backstep: Massive Bleeding
 SKILL_20150414_004001	{memo X}Enemy falls under [Massive Bleed] status when attack with [Back Step] while bleeding.
-SKILL_20150414_004002	Magic Arrow: Silence
+SKILL_20150414_004002	$Magic Arrow: Silence
 SKILL_20150414_004003	{memo X}Enemies receiving [Magic Arrow] fire attacks have chance of falling under [Silence]. Chance increase by 10% per attribute level.
-SKILL_20150414_004004	Gather Corpse: Shock
-SKILL_20150414_004005	Enemy falls under [Shock] for 10 seconds when hit with [Gather Corpse].
-SKILL_20150414_004006	Revive: Duration
+SKILL_20150414_004004	$Gather Corpse: Shock
+SKILL_20150414_004005	$Enemies hit by [Gather Corpse] are affected by the [Shock] status effect for 10 seconds.
+SKILL_20150414_004006	$Revive: Duration
 SKILL_20150414_004007	{memo X}Duration of [Revive] increase by 10 seconds per attribute level.
-SKILL_20150414_004008	Palm Strike: Bleed
+SKILL_20150414_004008	$Palm Strike: Bleeding
 SKILL_20150414_004009	{memo X}Enemy falls under [Bleed] for 8 seconds when attacked with [Palm Strike]. Duration of [Bleed] incerases by a seconds per level.
-SKILL_20150414_004010	Hand Knife: Destroy Armor
+SKILL_20150414_004010	$Hand Knife: Armor Break
 SKILL_20150414_004011	{memo X}Enemies attacked with [Hand Knife] have chance of falling under [Armor Break]. Chance increases by 5% per attribute level.
-SKILL_20150414_004012	1 inch Punch: Silence
-SKILL_20150414_004013	Enemies fall under [Silence] for 5 seconds when attacked with [1inch Punch]
-SKILL_20150414_004014	Arcane Energy: Additional Damage
+SKILL_20150414_004012	$1 Inch Punch: Silence
+SKILL_20150414_004013	$Enemies hit by [1 Inch Punch] will be affected by the [Silence] status effect for 5 seconds.
+SKILL_20150414_004014	$Arcane Energy: Additional Damage
 SKILL_20150414_004015	{memo X}Enemies nearby receive Holy damage when using [Arcane Energy]. Damage increases per attribute level.
-SKILL_20150414_004016	Chortasmata: Duration
+SKILL_20150414_004016	$Chortasmata: Duration
 SKILL_20150414_004017	{memo X}Duration of [Chortasmata] increases by a second per attribute level.
 SKILL_20150414_004018	{memo X}Indulgentia: Additional Damage
 SKILL_20150414_004019	{memo X}Enemies receive additional damage amounting to 10% of character's magic damage per attribute level when attacked with [Indulgentia].
-SKILL_20150414_004020	Discerning Evil : Increase nunber of targets
+SKILL_20150414_004020	$Discerning Evil: Increase Number of Targets
 SKILL_20150414_004021	{memo X}Target of [Discerning] increase by 1 per attribute level.
-SKILL_20150414_004022	Call of Deities: Fade
+SKILL_20150414_004022	$Call of Deities: Fade
 SKILL_20150414_004023	Character is not threatened by monster summoned with [Call of Deities]. (except pre-emptive attack types)
-SKILL_20150414_004024	Forecast: Duration
+SKILL_20150414_004024	$Forecast: Duration
 SKILL_20150414_004025	{memo X}Duration of [Forecast] increases by a seconds per attribute level.
-SKILL_20150414_004026	Install Perch: Range Increase
+SKILL_20150414_004026	$Install Perch: Increase Range
 SKILL_20150414_004027	{memo X}Range of maintaining perch in [Install Perch] increases by 20 per attribute level.
 SKILL_20150428_004028	{memo X}Magic Missile
-SKILL_20150428_004029	{#993399}{ol}[Magic]{/}{/}{nl}Use Magic bullets to attack enemy continuously. A new bullet is fired when shooting enemy under sleep.
+SKILL_20150428_004029	${#993399}{ol}[Magic]{/}{/}{nl}Attack enemies consecutively by using magic bullets. An additional bullet is fired when attacking enemies under the Sleep condition.
 SKILL_20150428_004030	{memo X}Attack #{SkillAtkAdd}#{nl}Max. duration 5 seconds{nl}Consume Stamina
-SKILL_20150428_004031	Attack + #{CaptionRatio}# {nl}Max. overlap #{CaptionRatio2}# times{nl}Duration #{CaptionTime}# seconds
+SKILL_20150428_004031	$Attack +#{CaptionRatio}#{nl}Maximum Stacks: #{CaptionRatio2}#{nl}Duration: #{CaptionTime}# seconds
 SKILL_20150428_004032	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use centrifugal force to throw away enemy.
 SKILL_20150428_004033	Attack #{SkillAtkAdd}#{nl}Rotate 9 times{nl}Distance thrown 150
 SKILL_20150428_004034	Max. Target #{CaptionRatio}#{nl}Duration 10 seconds
 SKILL_20150428_004035	Pin down pirate flag boosts ATK of pirates. Defeat enemy continuously near the flag to trigger combo. {only triggered when party leader is Corsair.)
 SKILL_20150428_004036	Can use key to open a higher level treasure chest.
-SKILL_20150428_004037	Key level +#{CaptionRatio}#
+SKILL_20150428_004037	$Key Lv.: +#{CaptionRatio}#
 SKILL_20150428_004038	Double Weapon Assault
 SKILL_20150428_004039	There is a chance of stealing enemy's item when you attack monsters while the flagged is pinned.
 SKILL_20150428_004040	{memo X}Reduce skill casting time. Applied once on the next skill.
-SKILL_20150428_004041	Damage decrease with more links{nl}Max. links #{CaptionRatio}#{nl}Duration #{CaptionTime}# seconds{nl}Use 16 Stamina
-SKILL_20150428_004042	Max. links #{CaptionRatio}#{nl}Duration #{CaptionTime}# seconds
+SKILL_20150428_004041	$Damage decreases depending on the number of Links{nl}Maximum amount of Links: #{CaptionRatio}#{nl}Duration: #{CaptionTime}# seconds{nl}Consumes 16 Stamina
+SKILL_20150428_004042	$Maximum number of Links: #{CaptionRatio}#{nl}Duration: #{CaptionTime}# seconds
 SKILL_20150428_004043	Tighten link to gather up enemy.
 SKILL_20150428_004044	{#339999}{ol}[Bind]{/}{/} Duration #{CaptionTime}# seconds
 SKILL_20150428_004045	{memo X}Temporarily enlarge the your and party members' hands that are carrying sword and shield.
@@ -4048,181 +4049,181 @@ SKILL_20150428_004047	{memo X}Summon Demon type boss{nl}Demon power +#{CaptionRa
 SKILL_20150428_004048	{memo X}Effect applies #{CaptionRatio}# times
 SKILL_20150428_004049	{memo X}Back masking range100{nl}Cannot back mask for 10seconds in target area{nl}Use 1 Piece of Dimension
 SKILL_20150428_004050	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Arrow breaks down to multiple pieces and bounces nearby.
-SKILL_20150428_004051	Defend range projectile #{CaptionRatio}# times{nl}Parvis Duration #{CaptionTime}#seconds
+SKILL_20150428_004051	$Blocks ranged projectiles: #{CaptionRatio}#{nl}Pavise Duration: #{CaptionTime}# seconds
 SKILL_20150428_004052	{memo X}Attack #{SkillAtkAdd}#{nl}Duration 15 seconds{nl}Use 3 Ash tree
 SKILL_20150428_004053	{memo X}Attack #{SkillAtkAdd}#{nl}Splash #{CaptionRatio}#{nl}Use 1 Claymore
 SKILL_20150428_004054	{memo X}Attack #{SkillAtkAdd}#{nl}Casting 3 seconds{nl}Use 3 Pine Tree
 SKILL_20150428_004055	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Explode trap and magic circle to attack enemy.
 SKILL_20150428_004056	{memo X}Attack #{SkillAtkAdd}#{nl}#{CaptionRatio}# arrows{nl}Install range #{CaptionRatio2}#{nl}Use 2 wires
-SKILL_20150428_004057	Evasion -#{CaptionRatio}#{nl}Pointing AI duration 90 seconds
-SKILL_20150428_004058	Detect hiding monsters {nl}Hounding AI duration 90 seconds
-SKILL_20150428_004059	Use #{SpendPoison}# Poison Pot Poison
+SKILL_20150428_004057	$Evasion: -#{CaptionRatio}#{nl}Pointing AI Duration: 90 seconds
+SKILL_20150428_004058	$Detects hidden monsters {nl}Hounding AI Duration: 90 seconds
+SKILL_20150428_004059	$Consumes #{SpendPoison}# Poison Pot Poison
 SKILL_20150428_004060	{memo X}Attack #{SkillAtkAdd}#{nl}Duration 30 seconds
 SKILL_20150428_004061	Throw tear gas on target area. Target falls under Darkness.
-SKILL_20150428_004062	Tear gas duration #{CaptionTime}# seconds
+SKILL_20150428_004062	$Tear Gas Duration: #{CaptionTime}# seconds
 SKILL_20150428_004063	{memo X}Attack #{SkillAtkAdd}#{nl}Strike 2 times{nl}Critical rate #{CaptionRatio}#%
 SKILL_20150428_004064	{memo X}Attack #{SkillAtkAdd}#{nl}Bleed Duration #{CaptionTime}# seconds{nl}Use 1 Broadhead Arrow
 SKILL_20150428_004065	{memo X}Attack #{SkillAtkAdd}#{nl}Physical Defense -#{CaptionRatio}#% {nl}Use 1 Bodkin Arrow
 SKILL_20150428_004066	{memo X}Attack #{SkillAtkAdd}#{nl}Duration 10 seconds{nl}Use 1 Magic Arrow
 SKILL_20150428_004067	{memo X}Attack #{SkillAtkAdd}#{nl}Duration 10 seconds{nl}Use 1 Gather Corpse
-SKILL_20150428_004068	Hanging Shot
-SKILL_20150428_004069	Patron Saint Duration #{CaptionTime}# seconds{nl}Trigger rate 50%{nl}Trigger #{CaptionRatio}# times
+SKILL_20150428_004068	$Hanging Shot
+SKILL_20150428_004069	$Guardian Saint duration: #{CaptionTime}# seconds{nl}Chance on hit: 50%{nl}Charges: #{CaptionRatio}#
 SKILL_20150428_004070	$Creates a magic circle in front of you that increases the DEX of allies and decreases the enemy's evasion and physical defense. Party members will receive the effect without stepping on the magic circle.
 SKILL_20150428_004071	$Gives a blessing providing additional damage to the attacks of your party members and allies.
-SKILL_20150428_004072	Additional damage +#{CaptionRatio}#{nl}Attack #{CaptionRatio2}# times{nl}Target allies #{CaptionTime}#{nl}Duration 45 seconds{nl}Use 1 Holy Powder
+SKILL_20150428_004072	$Additional Damage: +#{CaptionRatio}#{nl}Number of hits: #{CaptionRatio2}#{nl}Allies affected: #{CaptionTime}#{nl}Duration: 45 seconds{nl}Consumes 1 Holy Powder
 SKILL_20150428_004073	{memo X}Body's moving range #{CaptionRatio}#{nl}Body's attack +#{CaptionRatio2}#
 SKILL_20150428_004074	{memo X}Reflect as much as target's Physical attack{nl}Additional damage reflected #{SkillAtkAdd}#{nl}Max. duration #{CaptionTime}# seconds{nl}Range projectile, Magic defense not possible
 SKILL_20150428_004075	{memo X}Attack #{SkillAtkAdd}#{nl}Use 2 Stamina
 SKILL_20150428_004076	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Attack enemy with tip of the hand to cause internal damage.
 SKILL_20150428_004077	{memo X}Attack per strike #{SkillAtkAdd}#{nl}Use #{CaptionRatio}# SP per 0.5 seconds
-SKILL_20150428_004078	Max. duration #{CaptionTime}# seconds{nl}Range projectile, Magic defense possible
-SKILL_20150428_004079	Max. purchase qty. #{CaptionRatio}#
+SKILL_20150428_004078	$Maximum duration: #{CaptionTime}# seconds{nl}Able to defend from ranged projectiles and magic
+SKILL_20150428_004079	$Maximum Purchase Quantity: #{CaptionRatio}#
 SKILL_20150428_004080	Remove magic circle nearby{nl}Max Duration 30 seconds{nl}Target #{CaptionRatio}#
 SKILL_20150428_004081	Can open the treasure chest easily
 SKILL_20150428_004082	Movement speed slightly decreases. Receive additional damage on Lightning attacks. Give continuous damage to Fire Attribute targets.
-SKILL_20150428_004083	Quick Cast: Magic Damage
-SKILL_20150428_004084	Magic damange of next skill increases.
-SKILL_20150428_004085	SP recovery speed
-SKILL_20150428_004086	Increase SP recovery speed.
+SKILL_20150428_004083	$Quick Cast: Magic Damage
+SKILL_20150428_004084	$Increases the Magic Damage of the next skill.
+SKILL_20150428_004085	$SP Recovery Speed
+SKILL_20150428_004086	$Increases the speed of SP recovery.
 SKILL_20150428_004087	{memo X}Increase Splash.
-SKILL_20150428_004088	Recover Stamina
-SKILL_20150428_004089	Continuously recover stamina.
-SKILL_20150428_004090	Increase magic defense.
-SKILL_20150428_004091	Increase Dark Property attack.
-SKILL_20150428_004092	Red Aura
-SKILL_20150428_004093	Blue Aura
-SKILL_20150428_004094	Yellow Aura
+SKILL_20150428_004088	$Stamina Recovery
+SKILL_20150428_004089	$Continuously recovers Stamina.
+SKILL_20150428_004090	$Increased Magic Defense.
+SKILL_20150428_004091	$Increased Dark Property Attack.
+SKILL_20150428_004092	$Red Aura
+SKILL_20150428_004093	$Blue Aura
+SKILL_20150428_004094	$Yellow Aura
 SKILL_20150428_004095	Increase Stamina recovery
 SKILL_20150428_004096	Give greater damage every 10 attacks
-SKILL_20150428_004097	Earth Set Buff
+SKILL_20150428_004097	$Earth Set Buff
 SKILL_20150428_004098	{memo X}Status buff where Rage of Earth Buff can be triggered
-SKILL_20150428_004099	Rage of Earth
+SKILL_20150428_004099	$Earth's Rage
 SKILL_20150428_004100	Additional fixed damage for Earth Attacks
 SKILL_20150428_004101	{memo X}Shovel status buff
-SKILL_20150428_004102	Set buff of Legwyn Family
+SKILL_20150428_004102	$Legwyn Family Set Buff
 SKILL_20150428_004103	{memo X}Status buff where Legacy of Legwyn Family buff can be triggered
-SKILL_20150428_004104	Legacy of Legwyn Family
+SKILL_20150428_004104	$Legwyn Family's Legacy
 SKILL_20150428_004105	Recover SP per second. Total of 200 SP is recovered for 5 seconds.
 SKILL_20150428_004106	{memo X}Critical rate of [Thrust] is increase by 5% per level.
 SKILL_20150428_004107	{memo X}Hit damage of [Synchro Thrusting] decrease by 10% per attribute level, and Pierce damage increease by 20% per attribute level.
 SKILL_20150428_004108	{memo X}Splash increases by 3 while [Finestra] is activated, Evasion decrease rate is doubled
 SKILL_20150428_004109	{memo X}[Montano] triggered [Slow] on target for 10 seconds. Duration of [Slow] increases by 3/2/1 second for small/medium/large monsters respectively.
-SKILL_20150428_004110	Lethargy: Additional damage
+SKILL_20150428_004110	$Lethargy: Additional Damage
 SKILL_20150428_004111	$Enemies affected by [Lethargy] will receive 20% additional damage with Hit-type attacks.
 SKILL_20150428_004112	{memo X}Character's Fire attack increases by 3 per attribute level when using [Staff] weapon.
 SKILL_20150428_004113	{memo X}Evasion increases by 10% per attribute level when using [Gravity Pull].
 SKILL_20150428_004114	{memo X}Skill duration of [Spiritual Chain] increases by 1 seconds per attribute level.
-SKILL_20150428_004115	Punji Stake: Dropping damage
+SKILL_20150428_004115	$Punji Stake: Knockdown Damage
 SKILL_20150428_004116	{memo X}Air type monsters that fall on ground with [Snatching] receives 20% more damage per attribute level when attacked with Slash, Hit type attacks.
 SKILL_20150428_004117	{memo X}Ice attack increases by 3 per attribute level when using [Rod].
 SKILL_20150428_004118	{memo X}There is 1% chance per attribute level for enemies pushed away with [Rush] to fall under [Stun].
-SKILL_20150714_004119	Lv.1 Attack Ratio #{SkillFactor}#, Range Attack Ration #{SkillSR}#
-SKILL_20150714_004120	Staff Attack
-SKILL_20150714_004121	Attack enemy withing close range.
-SKILL_20150714_004122	Attack + #{SkillFactor}#, Range Attack Ratio #{SkillSR}#{nl} Consume SP #{SpendSP}#
-SKILL_20150714_004123	Duration #{CaptionTime}#seconds{nl}Range Attack Ratio #{CaptionRatio}#
-SKILL_20150714_004124	HP, SP recovery increase
+SKILL_20150714_004119	$Lv. 1 Attack Ratio: #{SkillFactor}#, AoE Attack Ratio: #{SkillSR}#
+SKILL_20150714_004120	$Staff Attack
+SKILL_20150714_004121	$Attack an enemy from a short distance.
+SKILL_20150714_004122	$Attack +#{SkillFactor}#, AoE Attack Ratio: #{SkillSR}#{nl}Consumes #{SpendSP}# SP
+SKILL_20150714_004123	$Duration: #{CaptionTime}# seconds{nl}AoE Attack Ratio: #{CaptionRatio}#
+SKILL_20150714_004124	$Increase HP & SP Recovery
 SKILL_20150714_004125	{memo X}All Status Increase
 SKILL_20150714_004126	{memo X}Cooltime Decrease
-SKILL_20150714_004127	EXP Rate Increase
-SKILL_20150714_004128	Attack #{SkillAtkAdd}#{nl}Attribute Attack #{CaptionRatio}#%{nl}Duration #{CaptionTime}#seconds
-SKILL_20150714_004129	Remove the target armor's effect.
-SKILL_20150714_004130	Decrease the target's defense.
-SKILL_20150714_004131	Attack #{SkillAtkAdd}#{nl}Attribute Attack #{CaptionRatio}#%{nl}Range Attack Ratio #{SkillSR}#
-SKILL_20150714_004132	Attack #{SkillAtkAdd}#{nl}Attribute Attack #{CaptionRatio2}#%{nl}Ingnore small, medium target defense #{CaptionRatio}#{nl}Range Attack Ratio #{SkillSR}#
-SKILL_20150714_004133	Attack #{SkillAtkAdd}#{nl}Attribute Attack #{CaptionRatio}#%{nl}Casting Time 0.5 seconds{nl}Range Attack Ratio #{SkillSR}#
-SKILL_20150714_004134	Attack #{SkillAtkAdd}#{nl}Attribute Attack #{CaptionRatio}#%{nl}{#339999}{ol}[Shock]{/}{/} Duration #{CaptionTime}# seconds {nl}Range Attack Ratio #{SkillSR}#
-SKILL_20150714_004135	Attack #{SkillAtkAdd}#{nl}Attribute Attack #{CaptionRatio}#%{nl}2 Attacks on medium target{nl}3 Attacks on large target
-SKILL_20150714_004136	Spear Attack #{SkillAtkAdd}#{nl}Shield Attack #{CaptionRatio}#{nl}Attribute Attack #{CaptionRatio2}#%{nl}Range Attack Ratio #{SkillSR}#
-SKILL_20150714_004137	Attack #{SkillAtkAdd}#{nl}Attribute Attack #{CaptionRatio}#%{nl}Max Duration 5 seconds{nl}Consume stamina
+SKILL_20150714_004127	$Increase EXP Rate
+SKILL_20150714_004128	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio}#%{nl}Duration: #{CaptionTime}# seconds
+SKILL_20150714_004129	$Removes the armor's effect from the target.
+SKILL_20150714_004130	$Decreases the target's defense.
+SKILL_20150714_004131	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio}#%{nl}AoE Attack Ratio: #{SkillSR}#
+SKILL_20150714_004132	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio2}#%{nl}Ignores the defense of small-type and medium-type targets #{CaptionRatio}#{nl}AoE Attack Ratio: #{SkillSR}#
+SKILL_20150714_004133	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio}#%{nl}Casting Time: 0.5 seconds{nl}AoE Attack Ratio: #{SkillSR}#
+SKILL_20150714_004134	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio}#%{nl}{#339999}{ol}[Shock]{/}{/} Duration: #{CaptionTime}# seconds {nl}AoE Attack Ratio: #{SkillSR}#
+SKILL_20150714_004135	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio}#%{nl}Medium-type targets: 2 consecutive attacks{nl}Large-type targets: 3 consecutive attacks
+SKILL_20150714_004136	$Spear Attack: #{SkillAtkAdd}#{nl}Shield Attack: #{CaptionRatio}#{nl}Attribute Attack: #{CaptionRatio2}#%{nl}AoE Attack Ratio: #{SkillSR}#
+SKILL_20150714_004137	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio}#%{nl}Maximum duration: 5 seconds{nl}Consumes Stamina
 SKILL_20150714_004138	{memo X}Attack #{SkillAtkAdd}#{nl}Attribute Attack #{CaptionRatio}#%{nl}{#339999}{ol}[Stun]{/}{/} Duration 7 seconds
-SKILL_20150714_004139	Attack #{SkillAtkAdd}#{nl}Attribute Attack #{CaptionRatio}#%{nl}{#339999}{ol}[Darkness]{/}{/} Duration 3 seconds{nl}Range Attack Ratio #{SkillSR}#
-SKILL_20150714_004140	Attack #{SkillAtkAdd}#{nl}Attribute Attack #{CaptionRatio2}#%{nl}Defense #{CaptionRatio}# decrease{nl}{#339999}{ol}[Unblance]{/}{/} Duration #{CaptionTime}# seconds
-SKILL_20150714_004141	Attack #{SkillAtkAdd}#{nl}Attribute Attack #{CaptionRatio}#%{nl}Max duration 10 seconds
-SKILL_20150714_004142	Attack #{SkillAtkAdd}#{nl}Attribute Attack #{CaptionRatio}#%{nl}Range Attack Ratio #{SkillSR}#{nl}Can use while riding
-SKILL_20150714_004143	Attack #{SkillAtkAdd}#{nl}Attribute Attack #{CaptionRatio}#%{nl}Max duration 10 seconds{nl}Range Attack Ratio #{SkillSR}#{nl}Can use while riding
-SKILL_20150714_004144	Attack #{SkillAtkAdd}#{nl}Range Attack #{SkillSR}#{nl}Can use while riding
-SKILL_20150714_004145	Attack #{SkillAtkAdd}#{nl}Attribute Attack #{CaptionRatio}#%{nl}Max duration 10 seconds{nl}Consume Stamina
+SKILL_20150714_004139	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio}#%{nl}{#339999}{ol}[Darkness]{/}{/} Duration: 3 seconds{nl}AoE Attack Ratio: #{SkillSR}#
+SKILL_20150714_004140	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio2}#%{nl}Defense: -#{CaptionRatio}#{nl}{#339999}{ol}[Unbalance]{/}{/} Duration: #{CaptionTime}# seconds
+SKILL_20150714_004141	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio}#%{nl}Maximum duration: 10 seconds
+SKILL_20150714_004142	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio}#%{nl}AoE Attack Ratio: #{SkillSR}#{nl}Can use while riding
+SKILL_20150714_004143	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio}#%{nl}Maximum duration: 10 seconds{nl}AoE Attack Ratio: #{SkillSR}#{nl}Can use while riding
+SKILL_20150714_004144	$Attack: #{SkillAtkAdd}#{nl}AoE Attack Ratio: #{SkillSR}#{nl}Can use while riding
+SKILL_20150714_004145	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio}#%{nl}Maximum duration: 10 seconds{nl}Consumes Stamina
 SKILL_20150714_004146	{memo X}Attack #{SkillFactor}#% + #{SkillAtkAdd}#{nl}Attribute Attack #{CaptionRatio2}#%{nl}#{CaptionRatio}#Continouse hits
 SKILL_20150714_004147	{memo X}Block Increase{nl}Use SP 1% per 2 seconds
 SKILL_20150714_004148	{memo X}Defense + #{CaptionRatio}# {nl}Use SP 1% per 2 seconds
-SKILL_20150714_004149	Defense - #{CaptionRatio}#% {nl}Use SP 1% per 2 seconds
+SKILL_20150714_004149	$Defense: -#{CaptionRatio}#%{nl}Consumes 1% SP per 2 seconds
 SKILL_20150714_004150	{memo X}When attack #{CaptionRatio}# continous hits{nl} Use SP 1% per 2 seconds
 SKILL_20150714_004151	{memo X}Use SP 1% per 2 seconds
-SKILL_20150714_004152	Change to Testudo formation, Increase defense and defense of all troops and move slowly.
+SKILL_20150714_004152	$Switches to the Testudo formation. Increases the defense of all members at the cost of slower movement speed.
 SKILL_20150714_004153	{memo X}Attack - #{CaptionRatio}#% {nl}Defense + #{CaptionRatio}#%{nl}Additional defense #{CaptionRatio2}#%{nl} Use SP 1% per 2 secodns
-SKILL_20150714_004154	Attack #{SkillAtkAdd}#{nl}Attribute Attack #{CaptionRatio}#%{nl}Casting Time 1 seconds{nl}Range Attack Ratio #{SkillSR}#
-SKILL_20150714_004155	Attack #{SkillAtkAdd}#{nl}Attribute Attack #{CaptionRatio}#%
-SKILL_20150714_004156	Attack #{SkillAtkAdd}#{nl}Attribute Attack #{CaptionRatio}#%{nl}Attack Count #{SkillSR}# times{nl}Duration #{CaptionTime}#seconds
-SKILL_20150714_004157	Attribute Attack: #{CaptionTime}#%{nl}Fire Wall: #{CaptionRatio}#{nl}Number of Hits: #{CaptionRatio2}#{nl}Duration: 15 seconds
+SKILL_20150714_004154	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio}#%{nl}Casting Time: 1 second{nl}AoE Attack Ratio: #{SkillSR}#
+SKILL_20150714_004155	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio}#%
+SKILL_20150714_004156	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio}#%{nl}Number of hits: #{SkillSR}#{nl}Duration: #{CaptionTime}# seconds
+SKILL_20150714_004157	$Attribute Attack: #{CaptionTime}#%{nl}Number of tiles: #{CaptionRatio}#{nl}Number of hits: #{CaptionRatio2}#{nl}Duration: 15 seconds
 SKILL_20150714_004158	{memo X}Attack #{SkillAtkAdd}#{nl}Attribute Attack #{CaptionRatio2}#%{nl} #{CaptionRatio}#% of SP consumed per 0.5 seconds
-SKILL_20150714_004159	Attack #{SkillAtkAdd}#{nl}Attribute Attack #{CaptionRatio}#%{nl}{#339999}{ol}[Freeze]{/}{/} Duration 3 seconds
-SKILL_20150714_004160	Attack #{SkillAtkAdd}#{nl}Attribute Attack #{CaptionRatio}#%{nl}{#339999}{ol}[Freeze]{/}{/} Duration 4 seconds
-SKILL_20150714_004161	Icewall #{CaptionRatio}#ea{nl}{#339999}{ol}[Freeze]{/}{/} Duration 3 seconds{nl}Icewall Duration 15 seconds
-SKILL_20150714_004162	{#339999}{ol}[Freeze]{/}{/} Attack #{SkillAtkAdd}#{nl}Attribute Attack #{CaptionRatio}#%
+SKILL_20150714_004159	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio}#%{nl}{#339999}{ol}[Freeze]{/}{/} Duration: 3 seconds
+SKILL_20150714_004160	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio}#%{nl}{#339999}{ol}[Freeze]{/}{/} Duration: 4 seconds
+SKILL_20150714_004161	$Number of tiles: #{CaptionRatio}#{nl}{#339999}{ol}[Freeze]{/}{/} Duration: 3 seconds{nl}Ice Wall Duration: 15 seconds
+SKILL_20150714_004162	${#339999}{ol}[Freeze]{/}{/} Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio}#%
 SKILL_20150714_004163	{memo X}Enemies attacked {#339999}{ol}[Freeze]{/}{/}Chance 50%{nl}{#339999}{ol}[Freeze]{/}{/} Duration #{CaptionRatio}#seconds
-SKILL_20150714_004164	Attack #{SkillAtkAdd}#{nl}Attribute Attack #{CaptionRatio2}#%{nl}Range Attack Ratio #{CaptionRatio}#{nl}Duration #{CaptionTime}#seconds
-SKILL_20150714_004165	Attack #{SkillAtkAdd}#{nl}Attribute Attack #{CaptionTime}#%{nl}Range Attack Ratio #{CaptionRatio}#{nl}Use SP #{CaptionRatio2}#% per 1 seconds
-SKILL_20150714_004166	Attack #{SkillAtkAdd}#{nl}Attribute Attack #{CaptionRatio2}#%{nl}Attack Count #{CaptionRatio}#times{nl}Duration #{CaptionTime}#seconds
-SKILL_20150714_004167	Attack #{SkillAtkAdd}#{nl}Attribute Attack #{CaptionRatio2}#%{nl}Target #{CaptionRatio}#
-SKILL_20150714_004168	Duration #{CaptionTime}#seconds{nl}Target #{CaptionRatio}#
+SKILL_20150714_004164	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio2}#%{nl}AoE Attack Ratio: #{CaptionRatio}#{nl}Duration: #{CaptionTime}# seconds
+SKILL_20150714_004165	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionTime}#%{nl}AoE Attack Ratio: #{CaptionRatio}#{nl}Consumes #{CaptionRatio2}#% SP per second
+SKILL_20150714_004166	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio2}#%{nl}Number of hits: #{CaptionRatio}#{nl}Duration: #{CaptionTime}# seconds
+SKILL_20150714_004167	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio2}#%{nl}Number of targets: #{CaptionRatio}#
+SKILL_20150714_004168	$Duration: #{CaptionTime}# seconds{nl}Number of targets: #{CaptionRatio}#
 SKILL_20150714_004169	{memo X}Attack #{SkillAtkAdd}#{nl}Attribute Attack #{CaptionRatio}#%{nl}Duration 15 seconds
-SKILL_20150714_004170	{memo X}Attack #{SkillAtkAdd}#{nl}Attribute Attack #{CaptionRatio}#%{nl}Casting Time #{CaptionTime}#seconds{nl}Range Attack Ratio #{SkillSR}#
+SKILL_20150714_004170	{memo X}Attack #{SkillAtkAdd}#{nl}Attribute Attack #{CaptionRatio}#%{nl}Casting Time #{CaptionTime}#seconds{nl}AoE Attack Ratio #{SkillSR}#
 SKILL_20150714_004171	{memo X}Duration #{CaptionTime}#seconds{nl}Move speed decreases 10%{nl}{#DD5500}{ol}Eletric{/}{/}Attribute Attack Additional Damage{nl}{#DD5500}{ol}Flame{/}{/}Attribute Target #{SkillAtkAdd}#
 SKILL_20150714_004172	{memo X}Summon Demon type boss{nl}Demon status #{CaptionRatio}#% increases
-SKILL_20150714_004173	Attack #{SkillAtkAdd}#{nl}Attribute Attack #{CaptionRatio2}#%{nl}Familiar spirit #{CaptionRatio}# summon
-SKILL_20150714_004174	[Increase SP recovery speed]{nl}[Increase Range Attack Ratio]{nl}[STA recovery]{nl}[Increase Magic Defense]{nl}[Increase Dark Property Attack]
-SKILL_20150714_004175	Attack #{SkillAtkAdd}#{nl}Attribute Attack #{CaptionRatio}#%{nl}Collect corpse of each type
-SKILL_20150714_004176	Attack #{SkillAtkAdd}#{nl}Attribute Attack #{CaptionRatio2}#%{nl}Range Attack Ratio #{SkillSR}#{nl}Plant, Beast, Mutant monster corpse{nl}use #{CaptionRatio}#
-SKILL_20150714_004177	Attack #{SkillAtkAdd}#{nl}Attribute Attack #{CaptionRatio2}#%{nl}Duration 15 seconds{nl}Use #{CaptionRatio}#Mutant corpse
-SKILL_20150714_004178	Target Range #{CaptionRatio}#
-SKILL_20150714_004179	Attack #{SkillAtkAdd}#{nl}Attribute Attack #{CaptionRatio2}#%{nl}Shoot #{CaptionRatio}# times
-SKILL_20150714_004180	Attack #{SkillAtkAdd}#{nl}Attribute Attack #{CaptionRatio}#%{nl}{#339999}{ol}[Skew]{/}{/} Duration #{CaptionTime}#seconds
-SKILL_20150714_004181	Attack #{SkillAtkAdd}#{nl}Attribute Attack #{CaptionRatio2}#%{nl}Bounced arrow Attack #{CaptionRatio}#%
-SKILL_20150714_004182	Attack #{SkillAtkAdd}#{nl}Attribute Attack #{CaptionRatio}#%{nl}Chance of additional critical 50%
-SKILL_20150714_004183	Attack #{SkillAtkAdd}#{nl}Attribute Attack #{CaptionRatio}#%{nl}Bomb duration 5 seconds
-SKILL_20150714_004184	Attack #{SkillAtkAdd}#{nl}Attribute #{CaptionRatio2}#%{nl}Attack 5 times
+SKILL_20150714_004173	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio2}#%{nl}Summons Familiar: #{CaptionRatio}#
+SKILL_20150714_004174	$[Increase SP Recovery Speed]{nl}[Increase AoE Attack Ratio]{nl}[Stamina Recovery]{nl}[Increase Magic Defense]{nl}[Increase Dark Property Attack]
+SKILL_20150714_004175	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio}#%{nl}Collect corpses of each type
+SKILL_20150714_004176	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio2}#%{nl}AoE Attack Ratio: #{SkillSR}#{nl}Plant-type, Beast-type, Mutant-type corpses{nl}Consumes #{CaptionRatio}# each
+SKILL_20150714_004177	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio2}#%{nl}Duration: 15 seconds{nl}Consumes #{CaptionRatio}# Mutant-type Corpse
+SKILL_20150714_004178	$Target Range: #{CaptionRatio}#
+SKILL_20150714_004179	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio2}#%{nl}Fires #{CaptionRatio}# times
+SKILL_20150714_004180	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio}#%{nl}{#339999}{ol}[Skew]{/}{/} Duration: #{CaptionTime}# seconds
+SKILL_20150714_004181	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio2}#%{nl}Bounced Arrow Attack: #{CaptionRatio}#%
+SKILL_20150714_004182	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio}#%{nl}50% Additional Critical Chance
+SKILL_20150714_004183	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio}#%{nl}Bomb Duration: 5 seconds
+SKILL_20150714_004184	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio2}#%{nl}Number of hits: 5
 SKILL_20150714_004185	{memo X}Attribute Attack #{CaptionRatio}#%{nl}Throw#{CaptionRatio2}#{nl}Caldrop duration 20 seconds{nl}{#339999}{ol}[Slow]{/}{/} duration 10 seconds
 SKILL_20150714_004186	{memo X}Attack #{SkillAtkAdd}#{nl}Attribute Attack #{CaptionRatio}#%{nl}{#339999}{ol}[Stun]{/}{/} Duration #{CaptionTime}#seconds{nl}Use 1 stone bullet
-SKILL_20150714_004187	Attack #{SkillAtkAdd}#{nl}Attribute Attack #{CaptionRatio}#%{nl}Max. Loading time #{CaptionTime}# seconds
+SKILL_20150714_004187	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio}#%{nl}Maximum Load Time: #{CaptionTime}# seconds
 SKILL_20150714_004188	{memo X}Attack #{SkillAtkAdd}#{nl}Attribute Attack #{CaptionRatio}#%{nl}Duration 15 seconds{nl}Use 3 Ash wood
-SKILL_20150714_004189	{memo X}Attack #{SkillAtkAdd}#{nl}Attribute Attack #{CaptionRatio}#%{nl}Range Attack Ratio #{CaptionRatio}#{nl}Use 1 Claymore
+SKILL_20150714_004189	{memo X}Attack #{SkillAtkAdd}#{nl}Attribute Attack #{CaptionRatio}#%{nl}AoE Attack Ratio #{CaptionRatio}#{nl}Use 1 Claymore
 SKILL_20150714_004190	{memo X}Attack #{SkillAtkAdd}#{nl}Attribute Attack #{CaptionRatio}#%{nl}Casting Time 3 seconds{nl}Use 1 Pine Tree
-SKILL_20150714_004191	Attack #{SkillAtkAdd}#{nl}Attribute Attack #{CaptionRatio2}#%{nl}Bomb explosion #{CaptionRatio}# times
-SKILL_20150714_004192	Attack #{SkillAtkAdd}#{nl}Attribute Attack #{CaptionTime}#%{nl}No. of Arrows #{CaptionRatio}#{nl}Install range #{CaptionRatio2}#{nl}Use 2 Wires
-SKILL_20150714_004193	Attack #{SkillAtkAdd}#{nl}Attribute Attack #{CaptionRatio2}#%{nl}Install #{CaptionRatio}#
-SKILL_20150714_004194	Attack #{SkillAtkAdd}#{nl}Attribute Attack #{CaptionRatio}#%{nl}{#339999}{ol}[Poison]{/}{/} Duration #{CaptionRatio2}#seconds{nl}Use #{SpendPoison}# Poison Pot Poison
-SKILL_20150714_004195	Attack #{SkillAtkAdd}#{nl}Attribute Attack #{CaptionRatio}#%{nl}Duration 10 seconds{nl}Use #{SpendPoison}# Poison Pot Poison
+SKILL_20150714_004191	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio2}#%{nl}Number of explosions: #{CaptionRatio}#
+SKILL_20150714_004192	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionTime}#%{nl}Number of arrows: #{CaptionRatio}#{nl}Set up range: #{CaptionRatio2}#{nl}Consumes 2 Wires
+SKILL_20150714_004193	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio2}#%{nl}Number of setups: #{CaptionRatio}#
+SKILL_20150714_004194	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio}#%{nl}{#339999}{ol}[Poison]{/}{/} Duration: #{CaptionRatio2}# seconds{nl}Consumes #{SpendPoison}# Poison Pot Poison
+SKILL_20150714_004195	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio}#%{nl}Duration: 10 seconds{nl}Consumes #{SpendPoison}# Poison Pot Poison
 SKILL_20150714_004196	Attack #{SkillAtkAdd}#{nl}Attribute Attack #{CaptionRatio2}#%{nl}Target hit {#339999}{ol}[Fear]{/}{/}+{#339999}{ol}[Chaos]{/}{/}{nl}to max. target #{CaptionRatio}# {#339999}{ol}[Fear]{/}{/}{nl}Duration #{CaptionTime}#
 SKILL_20150714_004197	{memo X}Attribute Attack #{CaptionRatio}#%{nl}Duration 30 seconds
-SKILL_20150714_004198	Attack #{SkillAtkAdd}#{nl}Attribute Attack #{CaptionRatio2}#%{nl}Increases #{CaptionRatio}# {nl}Duration #{CaptionTime}#seconds
-SKILL_20150714_004199	Attack #{SkillAtkAdd}#{nl}Attribute Attack #{CaptionRatio2}#%{nl}Strike 2 times{nl}Critical rate #{CaptionRatio}#%
-SKILL_20150714_004200	Attack #{SkillAtkAdd}#{nl}Attribute Attack #{CaptionRatio2}#%{nl}Bleed Duration #{CaptionTime}#seconds{nl}Use 1 Broadhead Arrow
-SKILL_20150714_004201	Attack #{SkillAtkAdd}#{nl}Attribute Attack #{CaptionRatio2}#%{nl}Physical Defense - #{CaptionRatio}#% {nl}Remove Reflect Shield{nl}Use 1 Bodkin Arrow
-SKILL_20150714_004202	Attack #{SkillAtkAdd}#{nl}Attribute Attack #{CaptionRatio}#%{nl}Cloth armor 3 hit{nl}Leather armor 2 hit{nl}Plate armor 1 hit{nl}Ghost armor N/A{nl}Use 1 Barbed Arrow
-SKILL_20150714_004203	Attack #{SkillAtkAdd}#{nl}Attribute Attack #{CaptionRatio2}#%{nl}Explosion Attack #{CaptionRatio}#%{nl}Use 1 Hailmary Arrow
-SKILL_20150714_004204	Attribute Attack #{CaptionRatio}#%{nl}Duration 10 seconds{nl}Attack #{CaptionRatio2}#times{nl}Use 1 magic arrow
-SKILL_20150714_004205	Attack #{SkillAtkAdd}#{nl}Attribute Attack #{CaptionRatio}#%{nl}Duration 10 seconds{nl}Use1 Divine Arrow
-SKILL_20150714_004206	Attack #{SkillAtkAdd}#{nl}Attribute Attack #{CaptionRatio}#%{nl}Can use while riding
+SKILL_20150714_004198	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio2}#%{nl}STR: +#{CaptionRatio}# {nl}Duration: #{CaptionTime}# seconds
+SKILL_20150714_004199	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio2}#%{nl}Strikes 2 times{nl}Critical Chance: #{CaptionRatio}#%
+SKILL_20150714_004200	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio2}#%{nl}Bleeding duration: #{CaptionTime}# seconds{nl}Consumes 1 Broadhead Arrow
+SKILL_20150714_004201	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio2}#%{nl}Physical Defense: -#{CaptionRatio}#% {nl}Removes Reflect Shield{nl}Consumes 1 Bodkin Arrow
+SKILL_20150714_004202	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio}#%{nl}Cloth armor-type targets: 3 hits{nl}Leather armor-type targets: 2 hits{nl}Plate armor-type targets: 1 hit{nl}Ghost armor-type targets: Nullifies{nl}Consumes 1 Barbed Arrow
+SKILL_20150714_004203	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio2}#%{nl}Explosion Attack: #{CaptionRatio}#%{nl}Consumes 1 Hailmary Arrow
+SKILL_20150714_004204	$Attribute Attack: #{CaptionRatio}#%{nl}Duration: 10 seconds{nl}Number of hits: #{CaptionRatio2}#{nl}Consumes 1 Magic Arrow
+SKILL_20150714_004205	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio}#%{nl}Duration: 10 seconds{nl}Consumes 1 Divine Arrow
+SKILL_20150714_004206	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio}#%{nl}Can use while riding
 SKILL_20150714_004207	Fly circling around target area. Range defense of enemies within target area decreases.
-SKILL_20150714_004208	Range defense rate -#{CaptionRatio}# {nl}Duration 10 seconds
-SKILL_20150714_004209	Attack #{SkillAtkAdd}#{nl}Attribute Attack #{CaptionTime}#%{nl}HP recovery #{CaptionRatio}# ~ #{CaptionRatio2}#{nl}Magic Circle Duration 40 seconds
-SKILL_20150714_004210	Attack #{SkillAtkAdd}#{nl}Attribute Attack #{CaptionRatio2}#%{nl}Attack #{CaptionRatio}#times{nl}Magic Circle Duration #{CaptionTime}#seconds
-SKILL_20150714_004211	Attack #{SkillAtkAdd}#{nl}Attribute Attack #{CaptionRatio2}#%{nl}Attack #{CaptionRatio}#times{nl}Magic Circle Duration 30 seconds
-SKILL_20150714_004212	Attack #{SkillAtkAdd}#{nl}Attribute Attack #{CaptionRatio2}#%{nl}Defense #{CaptionRatio}# increases{nl}Target 10{nl}Duration #{CaptionTime}#seconds{nl}Use 1 Holy Water
-SKILL_20150714_004213	Attack #{SkillAtkAdd}#{nl}Attribute Attack #{CaptionRatio2}#%{nl}Duration #{CaptionTime}#seconds
-SKILL_20150714_004214	Attack #{SkillAtkAdd}#{nl}Attribute Attack #{CaptionTime}#%{nl}Attack bonus on 3rd attack #{CaptionRatio}#times ~ #{CaptionRatio2}#times
-SKILL_20150714_004215	Attack #{SkillAtkAdd}#{nl}Attribute Attack #{CaptionRatio}#%{nl}Summoned zombie required
+SKILL_20150714_004208	$AoE Defense Ratio: -#{CaptionRatio}# {nl}Duration: 10 seconds
+SKILL_20150714_004209	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionTime}#%{nl}HP Recovery: #{CaptionRatio}# ~ #{CaptionRatio2}#{nl}Magic Circle Duration: 40 seconds
+SKILL_20150714_004210	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio2}#%{nl}Number of hits: #{CaptionRatio}#{nl}Magic Circle Duration #{CaptionTime}# seconds
+SKILL_20150714_004211	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio2}#%{nl}Number of hits: #{CaptionRatio}#{nl}Magic Circle Duration: 30 seconds
+SKILL_20150714_004212	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio2}#%{nl}Defense: +#{CaptionRatio}#{nl}Targets: 10{nl}Duration: #{CaptionTime}# seconds{nl}Consumes 1 Holy Water
+SKILL_20150714_004213	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio2}#%{nl}Duration: #{CaptionTime}# seconds
+SKILL_20150714_004214	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionTime}#%{nl}Bonus on 3rd attack: x#{CaptionRatio}# ~ x#{CaptionRatio2}#
+SKILL_20150714_004215	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio}#%{nl}Requires Summoned Zombie
 SKILL_20150714_004216	{memo X}Attack #{SkillAtkAdd}#{nl}Attribute Attack #{CaptionRatio}#%{nl}Summoned zombie required{nl}Max. explosion #{SkillSR}#
 SKILL_20150714_004217	{memo X}Attribute Attack #{CaptionRatio2}#%{nl}Additional Damage +#{CaptionRatio}#
-SKILL_20150714_004218	Attack #{SkillAtkAdd}#{nl}Attribute Attack #{CaptionRatio2}#%{nl}Defend #{CaptionRatio}#times{nl}Duration #{CaptionTime}#seconds{nl}Use 3 Oak wood
-SKILL_20150714_004219	Attribute Attack #{CaptionTime}#%{nl}Ghost Moving Range #{CaptionRatio}#
-SKILL_20150714_004220	Attack #{SkillAtkAdd}#{nl}Attribute Attack #{CaptionRatio}#%{nl}Max. duration 5 seconds
+SKILL_20150714_004218	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio2}#%{nl}Number of blocks: #{CaptionRatio}#{nl}Duration: #{CaptionTime}# seconds{nl}Consumes 3 Oak wood
+SKILL_20150714_004219	$Attribute Attack: #{CaptionTime}#%{nl}Out-of-Body Range: #{CaptionRatio}#
+SKILL_20150714_004220	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio}#%{nl}Maximum Duration: 5 seconds
 SKILL_20150714_004221	{memo X}Attack #{SkillAtkAdd}#{nl}Attribute Attack #{CaptionRatio}#%{nl}Use 2 STA
-SKILL_20150714_004222	Attack per 1 hit #{SkillAtkAdd}#{nl}Attribute Attack #{CaptionRatio2}#%{nl}Use #{CaptionRatio}# per 0.5 seconds
-SKILL_20150714_004223	{memo X}Attack #{SkillAtkAdd}#{nl}Attribute Attack #{CaptionTime}#%{nl}Duration #{CaptionRatio}#seconds{nl}Use #{CaptionRatio2}# silver
-SKILL_20150714_004224	Attack #{SkillAtkAdd}#{nl}Attribute Attack #{CaptionRatio2}#%{nl}Attack #{CaptionRatio}#Target{nl}Heal all party members{nl}Heal #{CaptionRatio}# allies{nl}Use 500 silver
-SKILL_20150714_004225	Attack #{SkillAtkAdd}#{nl}Attribute Attack #{CaptionRatio2}#%{nl}Duration #{CaptionRatio}#seconds
+SKILL_20150714_004222	$Attacks per hit: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio2}#%{nl}Consumes #{CaptionRatio}# SP per 0.5 seconds
+SKILL_20150714_004223	{memo X}Attack #{SkillAtkAdd}#{nl}Attribute Attack #{CaptionTime}#%{nl}Duration: #{CaptionRatio}# seconds{nl}Consumes #{CaptionRatio2}# silver
+SKILL_20150714_004224	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio2}#%{nl}#{CaptionRatio}# players can attack enemies{nl}Heals the entire party{nl}Heals #{CaptionRatio}# allies{nl}Consumes 500 silver
+SKILL_20150714_004225	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio2}#%{nl}Duration: #{CaptionRatio}# seconds
 SKILL_20150714_004226	Additional damage according to the number attacks
 SKILL_20150714_004227	Damage Effect
 SKILL_20150714_004228	Receive damage after an effect
@@ -4232,7 +4233,7 @@ SKILL_20150714_004231	Max. HP is reduced, but the target will fall into [Stun] s
 SKILL_20150714_004232	Gohan
 SKILL_20150714_004233	Number of buff you can receive will increase.
 SKILL_20150714_004234	Remove the disable magic and bad buff
-SKILL_20150714_004235	Range Attack Ratio Increase.
+SKILL_20150714_004235	$Increased AoE Attack Ratio.
 SKILL_20150714_004236	Skull Swing: Can't jump
 SKILL_20150714_004237	{memo X}Can't jump
 SKILL_20150714_004238	Ani Change
@@ -4389,12 +4390,12 @@ SKILL_20150714_004388	Crane Wing: Change Formation
 SKILL_20150714_004389	Changing the shape of [Crane Wing] Formation. It will be the shape that will lure enemies more deep inside.
 SKILL_20150714_004390	$Schiltron: Healing Time
 SKILL_20150714_004391	$Decreases the member's HP recovery time by 2 seconds per attribute level while in the [Schiltron] formation.
-SKILL_20150714_004392	Testudo: Adapted to move
-SKILL_20150714_004393	When you are in [Testudo] position, Movement Speed of your squad members will decrease by 5% per Attribute level.
+SKILL_20150714_004392	$Testudo: Movement
+SKILL_20150714_004393	$Decreases the movement speed by 5% per attribute level of your members when changing into the [Testudo] formation. 
 SKILL_20150714_004394	$Increases the damage dealt on an enemy with [Cyclone] by 1% per attribute level.
 SKILL_20150714_004395	$Increases the damage dealt on an enemy with [Mordschlag] by 1% per attribute level.
 SKILL_20150714_004396	$Increases the damage dealt on an enemy with [Punish] by 1% per attribute level.
-SKILL_20150714_004397	$Critical damage is applied when you attack enemies with cloth armor with [Mordschlag].
+SKILL_20150714_004397	$Critical damage will apply when you attack cloth armor-type enemies with [Mordschlag].
 SKILL_20150714_004398	$While using [Pain Barrier], increases your Movement Speed by 5%, but decreases your Evasion by 10% per attribute level respectively.
 SKILL_20150714_004399	$Increases the damage dealt on an enemy with [Energy Bolt] by 1% per attribute level.
 SKILL_20150714_004400	{memo X}The reflective damage of [Reflect Shield] will increase per Attribute level and as a result, the amount of shooting damage will decrease.
@@ -4414,7 +4415,7 @@ SKILL_20150714_004413	$Knockbacks enemies hit by [Hell Breath] with a 10% chance
 SKILL_20150714_004414	{memo X}$Decreases the enemy's Fire Resistance by 10% for 5 seconds within the range of [Enchant Fire].
 SKILL_20150714_004415	$Increases the character's Fire property attack by 3 per attribute level when equipped with a [Staff].
 SKILL_20150714_004416	$Flare: Additional Damage
-SKILL_20150714_004417	$Increases the damage of [Flare] by 10 per attribute level to Cloth armor type enemies. 
+SKILL_20150714_004417	$Increases the damage of [Flare] by 10 per attribute level to Cloth armor-type enemies. 
 SKILL_20150714_004418	$Increases the damage dealt on an enemy with [Ice Bolt] by 1% per attribute level.
 SKILL_20150714_004419	$Increases the damage dealt on an enemy with [Ice Spike] by 1% per attribute level.
 SKILL_20150714_004420	$Increases the damage dealt on an enemy with [Ice Blast] by 1% per attribute level.
@@ -4422,35 +4423,35 @@ SKILL_20150714_004421	$Increases the damage dealt on an enemy with [Snow Rolling
 SKILL_20150714_004422	$Increases the chance of inflicting [Freeze] on enemies hit by [Ice Bolt] by 10% per attribute level.
 SKILL_20150714_004423	$Knockbacked enemies by [Gust] will take damage equal to 50% of Magic Attack.  
 SKILL_20150714_004424	$Increases the character's Ice property attack by 3 per attribute level when equipped with a [Rod].
-SKILL_20150714_004425	Ice Wall: Cryorite
-SKILL_20150714_004426	When [Ice Wall] disappears, Cryorite will be dropped with the probability 1% per Attribute level.
-SKILL_20150714_004427	Sub Zero Shield: Duration
-SKILL_20150714_004428	Duration of Freezing that will be applied due to [Sub Zero Shield] will increase by 1 sec per Attribute level.
-SKILL_20150714_004429	Ice Blast: Additional damage
-SKILL_20150714_004430	Damage of [Ice Blast] will be added by 10 per Attribute level to the enemies that are Leather Defence type.
-SKILL_20150714_004431	Cryomancer: Specialized in Freezing
-SKILL_20150714_004432	The enemy that are in Freezing due to a skill by Cryomancer will receive 10% additional damage from Lightning attacks.
+SKILL_20150714_004425	$Ice Wall: Cryorite
+SKILL_20150714_004426	$Cryorite can be dropped with a chance of 1% per attribute level when [Ice Wall] disappears.
+SKILL_20150714_004427	$Subzero Shield: Duration
+SKILL_20150714_004428	$Increases the duration of freeze that will be applied from [Subzero Shield] by 1 second per attribute level.
+SKILL_20150714_004429	$Ice Blast: Additional Damage
+SKILL_20150714_004430	$Increases the damage of [Ice Blast] by 10 per attribute level when attacking Leather armor-type enemies.
+SKILL_20150714_004431	$Cryomancer: Freeze Speciality
+SKILL_20150714_004432	$Frozen enemies due to the skills of the Cryomancer will receive 10% additional damage from Lightning attacks per attribute level.
 SKILL_20150714_004433	$Increases the damage dealt on an enemy with [Telekinesis] by 1% per attribute level.
 SKILL_20150714_004434	$Increases the damage dealt on an enemy with [Psychic Pressure] by 1% per attribute level.
 SKILL_20150714_004435	$Increases the damage dealt on an enemy with [Magnetic Force] by 1% per attribute level.
-SKILL_20150714_004436	Whenever an enemy gets shot by [Pshychic Pressure], it will fall into [Stun] for 1 sec with the probability of 10% per Attribute level.
+SKILL_20150714_004436	$Enemies hit by [Psychic Pressure] will become stunned for 1 second with a chance of 10% per attribute level.
 SKILL_20150714_004437	$Increases Evasion by 10% per attribute level when using [Gravity Pole].
 SKILL_20150714_004438	{memo X}The enemy that was shot by [Magnetic Force] will fall into [Stun] status for 1 sec with the probability of 5%.
-SKILL_20150714_004439	Physical DEF rate will decrease by 5% per Attribute level for the enemies that will be pulled by [Gravity Pole].
-SKILL_20150714_004440	Swap: Friendly
-SKILL_20150714_004441	[Swap] will be applied to allies and not enemies.
+SKILL_20150714_004439	$Decreases the physical defense by 5% per attribute level on enemies that are pulled by [Gravity Pole].
+SKILL_20150714_004440	$Swap: Friendly
+SKILL_20150714_004441	$[Swap] will be applied to allies and not enemies.
 SKILL_20150714_004442	$Hangman's Knot: Additional Damage
 SKILL_20150714_004443	{memo X}$Enemies hit by [Hangman's Knot] will receive additional damage equal to 20% of the character's Magic Attack per attribute level.
 SKILL_20150714_004444	$Umbilical Cord: Remaining Defense
 SKILL_20150714_004445	$10% of the physical defense remains per attribute level when using [Umbilical Cord].
 SKILL_20150714_004446	$Increases the duration of [Spiritual Chain] by 1 second per attribute level.
-SKILL_20150714_004447	The enemies that will be disconnected by [Unbind] will receive damage. ATK rate will increase by 10% of Magic ATK rate per Attribute level.
+SKILL_20150714_004447	Disconnected enemies by [Unbind] will receive damage. Increases attack of magic attack by 10% per attribute level.
 SKILL_20150714_004448	$Joint Penalty: Electricity
-SKILL_20150714_004449	The enemies that received [Joint Penalty] will receive 10% additional damage per Attribute level for Lightning attack.
+SKILL_20150714_004449   $Enemies affected by [Joint Penalty] will receive 10% additional damage from Lightning attacks per attribute level.
 SKILL_20150714_004450	$Joint Penalty: Poison
-SKILL_20150714_004451	The enemies that received [Joint Penalty] will receive 10% additional damage per Attribute level for Poison attack.
+SKILL_20150714_004451	$Enemies affected by [Joint Penalty] will receive 10% additional damage from Poison attacks per attribute level.
 SKILL_20150714_004452	$Joint Penalty: Earth
-SKILL_20150714_004453	The enemies that received [Joint Penalty] will receive 10% additional damage per Attribute level for Earth attack.
+SKILL_20150714_004453	$Enemies affected by [Joint Penalty] will receive 10% additional damage from Earth attacks per attribute level.
 SKILL_20150714_004454	{memo X}The enemy's movement speed will decrease by 10% whose size got bigger by [Swell Body] and Physical and Magical ATK rate will increase by 5% per Attribute level.
 SKILL_20150714_004455	{memo X}The enemy's movement speed will increase by 5% whose size got smaller by [Shrink Body] and Physical and Magical ATK rate will decrease by 10% per Attribute level.
 SKILL_20150714_004456	{memo X}Whenever the size of an enemy changes by [Swell Body], more damage will be incurred which is 30% of Magical ATK rate per Attribute level.
@@ -4462,9 +4463,9 @@ SKILL_20150714_004461	{memo X}When you attack an enemy that is in [Swell Body] w
 SKILL_20150714_004462	$Right Arm Enhance: Swiftness
 SKILL_20150714_004463	If you are not equipped with a Sub Weapon,
 SKILL_20150714_004464	$Transpose: Equilibrium
-SKILL_20150714_004465	When using [Transpose], INT and CON will not be changed, but instead their average value will be applied to each of them.
-SKILL_20150714_004466	Reversi: Exclusive for Capture
-SKILL_20150714_004467	When using [Reversi] the floor of allies will be changed to enemies'. It will be activated when the enemies are nearby.
+SKILL_20150714_004465	INT and CON will remain unchanged when using [Transpose], but it will apply the average values to each instead.
+SKILL_20150714_004466	$Reversi: Capture Only
+SKILL_20150714_004467	$Changes the floor of allies to enemies when using [Reversi]. It will activate when enemies are nearby.
 SKILL_20150714_004468	$Increases the damage dealt on an enemy with [Prominence] by 1% per attribute level.
 SKILL_20150714_004469	$Increases the damage dealt on an enemy with [Hail] by 1% per attribute level.
 SKILL_20150714_004470	$Increases the damage dealt on an enemy with [Electrocute] by 1% per attribute level.
@@ -4473,7 +4474,7 @@ SKILL_20150714_004472	$Deals additional damage equal to 50% of Magic Attack per 
 SKILL_20150714_004473	{memo X}Whenever an enemy gets shot by [Hail], it will fall into [Freezing] with 5% probability per Attribute level.
 SKILL_20150714_004474	{memo X}While charging [Meteor], Evasion will increase by 10 per Attribute level.
 SKILL_20150714_004475	{memo X}Resistances to Fire, Ice, Lightning Properties will increase by 5 per Attribute level.
-SKILL_20150714_004476	Rain: Monsoon
+SKILL_20150714_004476	$Rain: Monsoon
 SKILL_20150714_004477	$Has a chance to double the duration of [Rain]. Increases the chance by 5% per attribute level.
 SKILL_20150714_004478	$Increases the damage dealt on an enemy with [Summon Spiritual Demon] by 1% per attribute level.
 SKILL_20150714_004479	{memo X}When the Spiritual Demon explodes itself from the skill [Summon Spiritual Demon], it will inflict damage on nearby enemies with 1% probability per Attribute level.
@@ -4487,15 +4488,15 @@ SKILL_20150714_004486	$Has a chance to inflict Flame status for 10 seconds to an
 SKILL_20150714_004487	$Summon Salamion: Dark
 SKILL_20150714_004488	$Has a chance to inflict Dark status for 10 seconds to an enemy when it is attacked by Salamion. Increases the chance by 2% per attribute level.
 SKILL_20150714_004489	$Increases the Critical Rate effect from [Quicken] by 5% and decreases Evasion by 2% per attribute level.
-SKILL_20150714_004490	When an enemy inflicted with [Reincarnate] dies and reborn, two enemies will appear with 1% probability per Attribute level.
+SKILL_20150714_004490	$When an enemy affected by [Reincarnate] dies and is revived, two enemies will appear with a chance of 1% per attribute level.
 SKILL_20150714_004491	{memo X}After using [Back Masking], the enemies that will be pulled by Aggressive will fall into [Chaos] for 2 secs per Attribute level.
 SKILL_20150714_004492	$Increases the damage dealt on an enemy with [Gather Corpse] by 1% per attribute level.
 SKILL_20150714_004493	$Increases the damage dealt on an enemy with [Flash Cannon] by 1% per attribute level.
 SKILL_20150714_004494	$Increases the damage dealt on an enemy with [Flash Hoop] by 1% per attribute level.
 SKILL_20150714_004495	{memo X}When an enemy gets shot by [Flash Canon], it will fall into Decay status for 30 secs with a certain probability. The rate will increase by 5% per Attribute level.
-SKILL_20150714_004496	Create Shoggoth: Decay
+SKILL_20150714_004496	$Create Shoggoth: Decay
 SKILL_20150714_004497	{memo X}The enemies near Shoggoth will fall into Decay status for 10 secs. This ability will last for 1 min per Attribute level after Shoggoth gets summoned.
-SKILL_20150714_004498	$Disinter: Increase Range
+SKILL_20150714_004498	$Disinter: Range Increase
 SKILL_20150714_004499	{memo X}$Increases the range of [Disinter].
 SKILL_20150714_004500	$Increases the damage dealt on an enemy with [Combustion] by 1% per attribute level.
 SKILL_20150714_004501	$Dig: Reduce Cooldown time
@@ -4525,15 +4526,15 @@ SKILL_20150714_004524	$Increases the damage dealt on an enemy with [Bounce Shot]
 SKILL_20150714_004525	$Knockbacks enemies hit by [Barrage] with a 10% chance per attribute level.
 SKILL_20150714_004526	$Inflicts [Slow] on enemies hit by [Bounce Shot] with a 10% chance per attribute level.
 SKILL_20150714_004527	$Spiral Arrow: Weakness Attack
-SKILL_20150714_004528	The attacks with the effect of [Spiral Arrow] will be Critical with a certain probability to the enemies that are in Armor Break status. The probability will increase by 10% per Attribute level.
-SKILL_20150714_004529	$Increases the damage dealt on an enemy with [Scatter Caltrop] by 1% per attribute level.
+SKILL_20150714_004528	$Has a chance to apply Critical to attacks with the effect of [Spiral Arrow] to enemies afflicted with Armor Break. Increases the chance by 10% per attribute level.
+SKILL_20150714_004529	$Increases the damage dealt on an enemy with [Scatter Caltrops] by 1% per attribute level.
 SKILL_20150714_004530	$Increases the damage dealt on an enemy with [Stone Shot] by 1% per attribute level.
 SKILL_20150714_004531	$Increases the damage dealt on an enemy with [Rapid Fire] by 1% per attribute level.
-SKILL_20150714_004532	$Increases the damage dealt on an enemy with [Tear Down] by 1% per attribute level.
-SKILL_20150714_004533	$Increases the duration of [Scatter Caltrop] by 1 second per attribute level.
-SKILL_20150714_004534	When stepped on [Scatter Caltrops], the target will fall into [Bleeding] with 8% probability per Attribute level.
-SKILL_20150714_004535	Tear Down: Tear down the sculpture
-SKILL_20150714_004536	[Tear Down] enables you to tear down the fragments of Divine Tree.
+SKILL_20150714_004532	$Increases the damage dealt on an enemy with [Teardown] by 1% per attribute level.
+SKILL_20150714_004533	$Increases the duration of [Scatter Caltrops] by 1 second per attribute level.
+SKILL_20150714_004534	$There is a 8% chance per attribute level to  be afflicted with [Bleeding] when stepping on a caltrop.
+SKILL_20150714_004535	$Teardown: Teardown Statue
+SKILL_20150714_004536	$Allows you to dismantle the pieces of Dievdirbys' Carve Austras Koks with [Teardown].
 SKILL_20150714_004537	$Increases the damage dealt on an enemy with [Broom Trap] by 1% per attribute level.
 SKILL_20150714_004538	$Increases the damage dealt on an enemy with [Claymore] by 1% per attribute level.
 SKILL_20150714_004539	$Increases the damage dealt on an enemy with [Punji Stake] by 1% per attribute level.
@@ -4543,19 +4544,19 @@ SKILL_20150714_004542	$Increases the damage dealt on an enemy with [Victim Bomb]
 SKILL_20150714_004543	{memo X}Tumbleweed of [Broom Trap] will be reduced by 0.2 secs per Attribute level and the number of rotations will decrease by 1 per Attribute level.
 SKILL_20150714_004544	{memo X}Splash of [Claymore] will increase by 1 per Attribute level.
 SKILL_20150714_004545	{memo X}As the enemy that was flown to the air by [Punji Stake] falls down on the ground, it will receive damage equal to 50% of Physical ATK and the enemies nearby will also receive damage.
-SKILL_20150714_004546	Monsters attacked by [Pointing] will fall into [Fear] with 5% probability per Atttribute level every 3 secs.
+SKILL_20150714_004546	$Enemies affected by [Pointing] will be afflicted with [Fear] for 3 seconds with a 5% chance per attribute level.
 SKILL_20150714_004547	{memo X}DEF of the enemies that are attacked with [Retrieve] will decrease by 10 per Attribute level.
-SKILL_20150714_004548	Monsters in the air that are dropped on the ground by [Snatching] will receive additional 20% damage from Slash, Hit properties' attacks per Attribute level.
-SKILL_20150714_004549	Movement speed of Companion will increase by 5% per Attribute level with [Praise].
+SKILL_20150714_004548	$Aerial-type monsters who are dropped to the ground with [Snatching] will receive 20% additional damage from Slash and Strike attacks per attribute level.
+SKILL_20150714_004549	$Increases the movement speed of your Companion by 5% per attribute level with [Praise].
 SKILL_20150714_004550	Coursing: Tear up the mind
-SKILL_20150714_004551	Magic DEF of the enemies that are inflicted with [Coursing] will decrease by 10 per Attribute level.
-SKILL_20150714_004552	Hounding: Confusion
-SKILL_20150714_004553	Enemies that are discovered while in [Hounding] will be in Confusion with a certain probability. The probability will increase by 10% per Attribute level.
+SKILL_20150714_004551	$Decreases the enemy's magic defense afflicted with [Coursing] by 10 per attribute level.
+SKILL_20150714_004552	$Hounding: Confusion
+SKILL_20150714_004553	$Enemies discovered during [Hounding] will become confused with a certain chance. Increases the chance by 10% per attribute level.
 SKILL_20150714_004554	$Increases the damage dealt on an enemy with [Needle Blow] by 1% per attribute level.
 SKILL_20150714_004555	$Increases the damage dealt on an enemy with [Wugong Gu] by 1% per attribute level.
 SKILL_20150714_004556	$Increases the damage dealt on an enemy with [Throw Gu Pot] by 1% per attribute level.
 SKILL_20150714_004557	{memo X}A character whose [Poison] is removed due to [Detoxify] will be immune to [Poison] for 2 secs per Attribute level.
-SKILL_20150714_004558	[Wugong Gu]: Infection continues
+SKILL_20150714_004558	$Wugong Gu: Continuous Infection
 SKILL_20150714_004559	Duration of the infected status of the object which is infected by the host of [Wugong Gu] will increase by 1 sec per Attribute level.
 SKILL_20150714_004560	{memo X}Even if an object gets out of the range of [Throw Gu Pot], [Poison] will last for 2 secs per Attribute level.
 SKILL_20150714_004561	The Max amount of Poison that could be stored increases by 10 per Attribute level with [Poison Pot].
@@ -4563,18 +4564,18 @@ SKILL_20150714_004562	Jincan Gu: Vitality
 SKILL_20150714_004563	Life time of the bugs that are born from [Jincan Gu] with a fixed probability will be doubled. The probability will increase by 5% per Attribute level.
 SKILL_20150714_004564	$Increases the damage dealt on an enemy with [Flu Flu] by 1% per attribute level.
 SKILL_20150714_004565	$Increases the damage dealt on an enemy with [Flare Shot] by 1% per attribute level.
-SKILL_20150714_004566	Physical ATK of the allies in the range of [Undistance] will increase by 5% per Attribute level.
-SKILL_20150714_004567	The number of enemies that will be influenced by [Flu Flu] will increase by 1 per Attribute level.
+SKILL_20150714_004566	$Increases the physical attack of allies within the range of [Undistance] by 5% per attribute level.
+SKILL_20150714_004567	$Increases the number of enemies influenced by [Flu Flu] by 1 per attribute level.
 SKILL_20150714_004568	$Camouflage: Jump
 SKILL_20150714_004569	$Able to jump while in [Camouflage].
-SKILL_20150714_004570	Scan: Confusion
+SKILL_20150714_004570	$Scan: Confusion
 SKILL_20150714_004571	{memo X}The enemies that are in the range of [Scan] will fall into Confusion with a certain probability. The probability will increase by 10% per Attribute level.
 SKILL_20150714_004572	$Increases the damage dealt on an enemy with [Vendetta] by 1% per attribute level.
 SKILL_20150714_004573	$Increases the damage dealt on an enemy with [Backstep] by 1% per attribute level.
 SKILL_20150714_004574	$Increases the duration of [Sneak Hit] by 2 seconds per attribute level.
 SKILL_20150714_004575	$Burrow: Damage
 SKILL_20150714_004576	When enemies are nearby while you are removing [Burrow], you will inflict damage based on Physical ATK rate to those enemies.
-SKILL_20150714_004577	$Tear Gas: Increase Range
+SKILL_20150714_004577	$Tear Gas: Range Increase
 SKILL_20150714_004578	{memo X}$Increases the range of [Tear Gas].
 SKILL_20150714_004579	$Increases the damage dealt on an enemy with [Broad Head] by 1% per attribute level.
 SKILL_20150714_004580	$Increases the damage dealt on an enemy with [Bodkin Point] by 1% per attribute level.
@@ -4591,7 +4592,7 @@ SKILL_20150714_004590	Call: Obtain
 SKILL_20150714_004591	The Hawk which will return as a result of [Call] would bring Potions or Herbs with 50% probability.
 SKILL_20150714_004592	$Hovering: Duration
 SKILL_20150714_004593	$Increases the duration of [Hovering] by 3 seconds per attribute level.
-SKILL_20150714_004594	Hovering: Attack Speed Buff
+SKILL_20150714_004594	$Hovering: Attack Speed Buff
 SKILL_20150714_004595	$Your hawk will attack enemies faster while using [Hovering].
 SKILL_20150714_004596	$Increases the damage dealt on an enemy with [Concentrated Fire] by 1% per attribute level.
 SKILL_20150714_004597	$Increases the damage dealt on an enemy with [Caracole] by 1% per attribute level.
@@ -4604,22 +4605,22 @@ SKILL_20150714_004603	$Increases the damage dealt on an enemy with [Heal] by 1% 
 SKILL_20150714_004604	{memo X}Enemies hit with [Strike] has 2% chance per Attribute level to fall under Stun.
 SKILL_20150714_004605	$When using [Heal], you will receive the effect of [Heal] too, with a 2% chance per attribute level.
 SKILL_20150714_004606	$Increases the duration of the magic circle from [Deprotected Zone] by 1 second per attribute level.
-SKILL_20150714_004607	$Safety Zone: Increase Range
+SKILL_20150714_004607	$Safety Zone: Range Increase
 SKILL_20150714_004608	{memo X}The range that will be applied by [Safety Zone] will be increased.
 SKILL_20150714_004609	$Guardian Saint: Damage Decrease
 SKILL_20150714_004610	$Decreases the damage taken when applied with a character's [Saint Guardian] by 5% per attribute level.
-SKILL_20150714_004611	Damage dealt on an enemy with [Zaibas] will increase by 1% per Attribute level.
+SKILL_20150714_004611	$Increases the damage dealt on an enemy with [Zaibas] by 1% per attribute level.
 SKILL_20150714_004612	{memo X}Character's Fire resistance will increase by 5 per Attribute level and the resistance to Darkness will decrease by 3 per Attribute level.
-SKILL_20150714_004613	Effective duration of [Daino] will increase by 40 secs per Attribute level.
-SKILL_20150714_004614	Aukuras: Fire Resistance
-SKILL_20150714_004615	When [Aukuras] is being activated, a character's Fire resistance will increase by 14 per Attribute level.
+SKILL_20150714_004613	$Increases the duration of [Daino]'s effect by 40 seconds per attribute level.
+SKILL_20150714_004614	$Aukuras: Fire Property Resistance
+SKILL_20150714_004615	$Increases the character's fire property resistance by 14 per attribute level while [Aukuras] is active. 
 SKILL_20150714_004616	$Zalciai: Duration
 SKILL_20150714_004617	$Increases the duration of [Zalciai] by 3 seconds per attribute level.
 SKILL_20150714_004618	Zalciai: Magic Amplified
-SKILL_20150714_004619	While [Zalciai] is being activated, a character's Magic Amplification will increase by 12 per Attribute level.
+SKILL_20150714_004619	$Increases the character's magic amplification by 12 per attribute level while [Zalciai] is active.
 SKILL_20150714_004620	$Divine Stigma: Duration
 SKILL_20150714_004621	$Increases the duration of [Divine Stigma] by 1 second per attribute level.
-SKILL_20150714_004622	$Melstis: Increase Range
+SKILL_20150714_004622	$Melstis: Range Increase
 SKILL_20150714_004623	{memo X}The range that will be applied by [Melstis] will be increased.
 SKILL_20150714_004624	$Increases the damage dealt on an enemy with [Aspersion] by 1% per attribute level.
 SKILL_20150714_004625	$Increases the damage dealt on an enemy with [Exorcise] by 1% per attribute level.
@@ -4636,25 +4637,25 @@ SKILL_20150714_004635	$Increases the damage dealt on an enemy with [Effigy] by 1
 SKILL_20150714_004636	$Decreases the accumulated damage from [Mackangdal] by 2 per attribute level.
 SKILL_20150714_004637	$Increases the damage dealt on an enemy with [Bwa Kayiman] by 1% per attribute level.
 SKILL_20150714_004638	$Increases the damage dealt on an enemy with [Damballa] by 1% per attribute level.
-SKILL_20150714_004639	When transforming a gigantic monster into a zombie, the possibility that such zombie will be gigantic increases by 1% per Attribute level.
-SKILL_20150714_004640	When creating a zombie, the possibility that a Wheelchair zombie would come out increases by 1% per Attribute level.
+SKILL_20150714_004639	$Increases the chance of creating a large-type zombie when zombifying a large-type monster by 1% per attribute level.
+SKILL_20150714_004640	$Increases the chance of creating Wheelchair Zombie when creating a zombie by 1% per attribute level.
 SKILL_20150714_004641	{memo X}Whenever an enemy gets shot by [Effigy], it could be inflicted with [Blind] with 5% probability per Attribute level.
-SKILL_20150714_004642	The power of enemies that are within the range of [Ogounveve] decreases by 2 per Attribute level.
-SKILL_20150714_004643	The probability that a new zombie would come out from [Damballa] increases by 2% per Attribute level.
-SKILL_20150714_004644	Bwa Kayiman: Zombie Defence
-SKILL_20150714_004645	Physicial DEF of the zombies that are used in [Bwa Kayiman] increases by 3 per Attribute level.
+SKILL_20150714_004642	$Decreases the enemy's STR within the range of [Ogouveve] by 2 per attribute level.
+SKILL_20150714_004643	$Increases the chance of a new zombie emerging from [Damballa] by 2% per attribute level.
+SKILL_20150714_004644	$Bwa Kayiman: Zombie Defense
+SKILL_20150714_004645	$Increases the physical defense of the zombies while using [Bwa Kayiman] by 3 per attribute level.
 SKILL_20150714_004646	{memo X}The maximum number of zombies that could be created by [Zombify] increases by 1 per Attribute level.
 SKILL_20150714_004647	$Hexing: Darkness
-SKILL_20150714_004648	An enemy inflicted with [Haxing] will receive 10% additional damage from Dark attacks per Attribute level.
-SKILL_20150714_004649	Samediveve: Range Increase
+SKILL_20150714_004648	$Enemies afflicted with [Hexing] will receive 10% additional damage from dark property attacks per attribute level.
+SKILL_20150714_004649	$Samdiveve: Range Increase
 SKILL_20150714_004650	{memo X}The range of [Samediveve] will be increased.
-SKILL_20150714_004651	Ogounveve: Range Increase
+SKILL_20150714_004651	$Ogouveve: Range Increase
 SKILL_20150714_004652	{memo X}The range of [Ogounveve] will be increased.
 SKILL_20150714_004653	$Increases the damage dealt on an enemy with [Carve] by 1% per attribute level.
 SKILL_20150714_004654	$Increases the damage dealt on an enemy with [Carve Owl] by 1% per attribute level.
 SKILL_20150714_004655	$Carve: Chance to Obtain
 SKILL_20150714_004656	{memo X}The probability of obtaining ingredients increases 5% per Attribute level for [Carve].
-SKILL_20150714_004657	When equipped with [Mace], you will inflict additional 10% of Physical ATK to plant type monsters per Attribute level.
+SKILL_20150714_004657	$When equipped with a [Mace], you will inflict additional damage equal to 10% of the physical attack to Plant-type monsters per attribute level.
 SKILL_20150714_004658	$Goddess Vakarine Statue: Cooldown Decrease
 SKILL_20150714_004659	{memo X}Cooldown time of [Carve Vakarine] will be reduced.
 SKILL_20150714_004660	$Goddess Laima Statue: Home Ground
@@ -4716,7 +4717,7 @@ SKILL_20150717_004715	Temporarily decrease defense of nearby enemies, and add th
 SKILL_20150717_004716	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Tramp down on enemy while on air or jumping. Attack damage will be decided,according to the Character's height and Shoes's defense.
 SKILL_20150717_004717	Caputre time #{CaptionRatio}#seconds
 SKILL_20150717_004718	Attack - #{CaptionRatio}#% {nl}Increase defense according to reduced attack{nl}Additonal defense #{CaptionRatio2}#%{nl}Use SP 2 % per 2 seconds
-SKILL_20150717_004719	Attack #{SkillAtkAdd}#{nl}Attribute Attack #{CaptionRatio}#%{nl}Duration #{CaptionRatio2}#seconds{nl}Range Attack Ratio #{SkillSR}#
+SKILL_20150717_004719	Attack #{SkillAtkAdd}#{nl}Attribute Attack #{CaptionRatio}#%{nl}Duration #{CaptionRatio2}#seconds{nl}AoE Attack Ratio #{SkillSR}#
 SKILL_20150717_004720	{memo X}Summon the devil of card inserted in Grimore. The attack and defense of summoned devil will be decided according to character's INT, SPR. Grimore can only equip Devil type monster card.
 SKILL_20150717_004721	Summon Demon type boss{nl}Demon additional attack #{CaptionRatio}#{nl}Demon additional defense #{CaptionRatio2}#
 SKILL_20150717_004722	Movement speed - #{CaptionRatio}# {nl}Magic circle duration #{CaptionRatio2}#seconds{nl}{#339999}{ol}[Slow]{/}{/} Duration 5 seconds
@@ -4741,7 +4742,7 @@ SKILL_20150717_004740	Max HP and Physical DEF increase based on number of [Plate
 SKILL_20150717_004741	Incurs additional 20 damage per Attribute level whenever attack from an enemy's back with dagger.
 SKILL_20150717_004742	Physical damage of [Gung Ho] increases +1, while defense decreases increases +1
 SKILL_20150717_004743	AoE Atk Ratio of [Bash] increases by 1 per Attribute level.
-SKILL_20150717_004744	Enemies with [Stun] falls under [Bleed] for 5 secconds when attacked with [Thrust]. Bleeding damage is relative to character's strength. 
+SKILL_20150717_004744	Enemies with [Stun] falls under [Bleeding] for 5 secconds when attacked with [Thrust]. Bleeding damage is relative to character's strength. 
 SKILL_20150717_004745	The enemy that is attacked by [Umbo Blow] will fall into Stun with 5% probability for 5 seconds per Attribute level.
 SKILL_20150717_004746	Range attack rate will be added onto [Shield Lob] by 1 per Attribute level.
 SKILL_20150717_004747	Defense of character while [Guard] is enabled will increase by 10% per attribute level.
@@ -4801,7 +4802,7 @@ SKILL_20150717_004800	The range of [Disinter] will be increased by 10.
 SKILL_20150717_004801	Cooldown time of [Dig] will be reduced by 10 secs.
 SKILL_20150717_004802	Physical ATK and Magic ATK will be increased for 30 mins for the allies that participated in [Item Awakening] dungeon. ATK will increase by 20% per Attribute level.
 SKILL_20150717_004803	$Fulldraw: Knockback Increase
-SKILL_20150717_004804	$When equipped with a [Two-handed Bow], adds 20% additional physical attack damage against flying-type monsters.
+SKILL_20150717_004804	$When equipped with a [Two-handed Bow], adds 20% additional physical attack damage against airborne monsters.
 SKILL_20150717_004805	$While [Swift Step] is active, enemies that are hit by [Oblique Shot] will be affected by [Slow] for 7 seconds with a chance of 5% per attribute level. 
 SKILL_20150717_004806	Physical DEF of the enemies that are threaded with [Full Draw] will decrease by 10% per Attribute level.
 SKILL_20150717_004807	Tumbleweed of [Broom Trap] will be reduced by 0.5 secs per Attribute level and the number of rotations will decrease by 0.5 per Attribute level.
@@ -4812,8 +4813,8 @@ SKILL_20150717_004811	A character whose [Poison] is removed due to [Detoxify] wi
 SKILL_20150717_004812	Even if an object gets out of the range of [Throw Gu Pot], [Poison] will last for 2 secs per Attribute level.
 SKILL_20150717_004813	The enemies that are in the range of [Scan] will fall into Confusion with a certain probability for 5 secs. The probability will increase by 10% per Attribute level.
 SKILL_20150717_004814	Enemies within rage of [Tear Gas] receives damage every 2 seconds. Damage increases per attribute level.
-SKILL_20150717_004815	Enemy falls under [Massive Bleed] status when attack with [Back Step] while bleeding for 10 secs, the duration will increase by 1 per Attribute level. the Massive Bleed will be decided based on character's STR, Physical ATK.
-SKILL_20150717_004816	The range of [Tear Gas] has been increased by 75.
+SKILL_20150717_004815	Enemy falls under [Massive Bleeding] status when attack with [Back Step] while bleeding for 10 secs, the duration will increase by 1 per Attribute level. the Massive Bleeding will be decided based on character's STR, Physical ATK.
+SKILL_20150717_004816	$Increases the range of [Tear Gas] to 75.
 SKILL_20150717_004817	When use [Bodkin Point] for attack, the enemies DEF will be reduced by 1% per Attribute level.
 SKILL_20150717_004818	According to skill 5 seconds at MakuTaro bursts was 10% of probability for each level of that was attacked in the attack of [Crossfire], about 5% of the Physical damage of state [image]
 SKILL_20150717_004819	The enemies that are shot by [Magic Arrow] will fall into [Silence] with a certain probabillity. The probability will increase by 10% per Attribute level.
@@ -4992,19 +4993,19 @@ SKILL_20150729_004991	The maximum number of zombies in [Zombify] increases by 1.
 SKILL_20150730_004992	Summon the devil of card inserted in Grimore. Character's INT, SPR affects the ATK and DEF of summoned devil. Ability increases by 10% per card star. Grimore can only equip Demon type monster card.
 SKILL_20150730_004993	Make Shogos molded based on the card inserted in Necronomicon. Character's INT, SPR affects the ATK and DEF of summoned devil. Ability increases by 10% per card star. Necronomicon can equip only Animal, Plant, and Mutant type cards.
 SKILL_20150730_004994	Companion bites and holds on to target. Target's Physical DEF decreases and bonus chance of critical is applied.
-SKILL_20150730_004995	Physical DEF -#{CaptionRatio}# {nl}Addt'l chance of critical 30%{nl}Duration #{CaptionTime}#sec
+SKILL_20150730_004995	$Physical Defense: -#{CaptionRatio}# {nl}Additional Critical Chance: 30%{nl}Duration: #{CaptionTime}# seconds
 SKILL_20150803_004996	Quick Cast
 SKILL_20150803_004997	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Sit down to increase focus. ATK, speed and range increases.
-SKILL_20150803_004998	Physical Damage +#{CaptionRatio}#{nl} Range +#{CaptionRatio2}# Attack speed +#{CaptionTime}#
-SKILL_20150803_004999	Attribute ATK #{CaptionRatio}#%{nl}Throw #{CaptionRatio2}#{nl}Caldrop duration #{CaptionTime}#sec
-SKILL_20150803_005000	Attack 150% +#{SkillAtkAdd}#{nl}Attribute Attack #{CaptionRatio}#%{nl}{#339999}{ol}[Stun]{/}{/} Duration #{CaptionTime}#seconds{nl}Use 1 stone bullet
-SKILL_20150803_005001	ATK #{SkillAtkAdd}#{nl}Attribute ATK #{CaptionRatio}#%{nl}Trap duration 15sec{nl}Use 3 Ash wood
-SKILL_20150803_005002	Max. duration #{CaptionRatio}#seconds
+SKILL_20150803_004998	$Physical Damage: +#{CaptionRatio}#{nl} Range: +#{CaptionRatio2}# Attack speed: +#{CaptionTime}#
+SKILL_20150803_004999	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio}#%{nl}#Number of caltrops: {CaptionRatio2}#{nl}Caltrop duration: #{CaptionTime}# seconds
+SKILL_20150803_005000	$Attack: 150% +#{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio}#%{nl}{#339999}{ol}[Stun]{/}{/} Duration: #{CaptionTime}# seconds{nl}Consumes 1 Stone Bullet
+SKILL_20150803_005001	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio}#%{nl}Trap duration: 15seconds{nl}Consumes 3 Ash Wood
+SKILL_20150803_005002	$Maximum duration: #{CaptionRatio}# seconds
 SKILL_20150803_005003	Create magic circle that turns enemies killed into zombies. The HP of created zombies are based on the caster's SPR.
-SKILL_20150803_005004	Max. HP +#{CaptionRatio}#{nl}Movement Speed +#{CaptionRatio2}#% Duration #{CaptionTime}#seconds{nl}pattern duration 15 seconds
-SKILL_20150803_005005	Strength +#{CaptionRatio}#{nl}Duration #{CaptionRatio2}#{nl} pattern duration 15 seconds
-SKILL_20150803_005006	Attribute Attack #{CaptionRatio2}#%{nl}Additional Damage to plant type monsters +#{CaptionRatio}#{nl}drop rate of statue materials#{CaptionTime}#%
-SKILL_20150803_005007	Can use monster's skill{nl}Max duration #{CaptionTime}#seconds
+SKILL_20150803_005004	$Maximum HP: +#{CaptionRatio}#{nl}Movement Speed: +#{CaptionRatio2}#% Duration: #{CaptionTime}# seconds{nl}Glyph duration: 15 seconds
+SKILL_20150803_005005	$STR: +#{CaptionRatio}#{nl}Duration: #{CaptionRatio2}#{nl}Glyph duration: 15 seconds
+SKILL_20150803_005006	$Attribute Attack: #{CaptionRatio2}#%{nl}Additional Damage to Plant-type monsters: +#{CaptionRatio}#{nl}Drop rate for statue materials: #{CaptionTime}#%
+SKILL_20150803_005007	$Can use monster's skill{nl}Maximum duration: #{CaptionTime}# seconds
 SKILL_20150803_005008	$Effigy Enhance
 SKILL_20150803_005009	$Increases the attack bonus of Effigy
 SKILL_20150803_005010	$Increases the additional damage of [Concentrate] by 2 per attribute level.
