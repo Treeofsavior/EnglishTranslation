@@ -1070,7 +1070,7 @@ SKILL_20150317_001069	{memo X}Inflict lethargy upon the target.
 SKILL_20150317_001070	$Physical Attack -#{CaptionRatio}#{nl}Magic Attack -#{CaptionRatio}#{nl}Evasion -#{CaptionRatio2}#{nl}{#339999}{ol}[Lethargy]{/}{/} duration #{CaptionTime}# sec
 SKILL_20150317_001071	$Sleep
 SKILL_20150317_001072	{memo X}Inflicts sleep upon targets. Enemies will awake upon taking a certain number of hits, or once sleep runs out.
-SKILL_20150317_001073	${#339999}{ol}[Sleep]{/}{/} duration #{SkillFactor}# seconds{nl}Attack Threshold #{CaptionRatio}# times
+SKILL_20150317_001073	${#339999}{ol}[Sleep]{/}{/} duration: #{SkillFactor}# seconds{nl}Attack Threshold: #{CaptionRatio}#
 SKILL_20150317_001074	$Reflect Shield
 SKILL_20150317_001075	{memo X}$Creates a protective shield that reflects the amplified damage to the target.
 SKILL_20150317_001076	$Damage Reflection #{CaptionRatio}#{nl}Duration #{CaptionTime}# seconds{nl}Reflects #{CaptionRatio2}# times
@@ -1459,7 +1459,6 @@ SKILL_20150317_001458	{memo X}Attack #{SkillAtkAdd}#{nl}Defense +#{CaptionRatio}
 SKILL_20150317_001459	$Monstrance
 SKILL_20150317_001460	{memo X}Dexterity of allies is increased and randomly create magic circle that cause evasion and Physical damage of enemies to decrease.
 SKILL_20150317_001461	$Maximum number of Magic Circles: #{SkillFactor}#{nl}Increases ally's DEX{nl}Enemy's Evasion and Defense -#{CaptionRatio}#{nl}Magic Circle duration: 20 seconds
-Create #{SkillFactor}# Magic Circle {nl}Ally DEX increase {nl}Enemy's evasion, defense -#{CaptionRatio}# {nl} Magic Circle Duration 20 seconds
 SKILL_20150317_001462	$Blessing
 SKILL_20150317_001463	{memo X}Increase the damage of party members' skills.
 SKILL_20150317_001464	{memo X}Additional Damage + #{CaptionRatio}# {nl} Attack# {CaptionRatio2} # times{nl} {nl} Duration 30 seconds{nl}Use 1 Holy Powder
@@ -2142,74 +2141,74 @@ SKILL_20150317_002140	$Shield Push: Unbalance
 SKILL_20150317_002141	Knocking down enemies under [Unbalance] with [Shield Push] deals an additional 20% damage.
 SKILL_20150317_002142	$Targe Smash: Flame
 SKILL_20150317_002143	{memo X}Spreads [Flame] to a number of enemies equal to the attribute level when an enemy sufferig from [Flame] is killed with [Targe Smash].
-SKILL_20150317_002144	Cyclone: Moving
-SKILL_20150317_002145	Can move while using [Cyclone].
-SKILL_20150317_002146	Double Pay Earn: Attack damage
-SKILL_20150317_002147	Damage is reduced to 2x from 3x when skill [Double Pay Earn] is enabled.
+SKILL_20150317_002144	$Cyclone: Movement
+SKILL_20150317_002145	$You can move while using [Cyclone].
+SKILL_20150317_002146	$Double Pay Earn: Damage Taken
+SKILL_20150317_002147	$Decreases damage taken to x2 from x3 when [Double Pay Earn] is active.
 SKILL_20150317_002148	{memo X}Disqualification: Cloth Armor
 SKILL_20150317_002149	{memo X}Apply effects of [Mordschlag] on enemies with leather armor to choth armor as well.
 SKILL_20150317_002150	$Pain Barrier: Movement Speed
 SKILL_20150317_002151	{memo X}Movement speed increases by 5% per attribute level and evasion decreases by 10% per attribute level when using [Pain Barrier].
-SKILL_20150317_002152	Cyclone: Arrow flick
-SKILL_20150317_002153	Whe using [Cyclone] basic arrow attacks have a 10% chance per attribute level of bouncing off the character.
-SKILL_20150317_002154	Sleep: Maintain Debuff
+SKILL_20150317_002152	$Cyclone: Deflect Arrows
+SKILL_20150317_002153	$Deflects basic arrow attacks from enemies at a 10% chance per attribute level when using [Cyclone].
+SKILL_20150317_002154	$Sleep: Maintain Debuff
 SKILL_20150317_002155	Enemy under [Sleep] will not wake up even if attacked at a 1% chance per attribute level but the duration will decrease by 0.5 seconds per attribute level.
-SKILL_20150317_002156	Reflect Shield: Reflect Damage
+SKILL_20150317_002156	$Reflect Shield: Reflect Damage
 SKILL_20150317_002157	{memo X}Reflection damage of [Reflect shield] is added per attribute level, and hit damage is reduced.
-SKILL_20150317_002158	Reflect Shield: Defense
-SKILL_20150317_002159	Defense increase by 5% per level while [Reflect Shield] is active.
-SKILL_20150317_002160	Energy Bolt: Additional sleep damage
+SKILL_20150317_002158	$Reflect Shield: Defense
+SKILL_20150317_002159	$Increases your defense by 5% per level when [Reflect Shield] is active.
+SKILL_20150317_002160	$Energy Bolt: Additional Sleep Damage
 SKILL_20150317_002161	{memo X}Attack monster in [sleep] state with [Energy Bolt] to give additional damage of 50% of Magic attack.
-SKILL_20150317_002162	Lethargy : Duration
-SKILL_20150317_002163	Duration of [Lethargy] increases by 2 seconds per level
+SKILL_20150317_002162	$Lethargy: Duration
+SKILL_20150317_002163	$Increases the duration of [Lethargy] by 2 seconds per level.
 SKILL_20150317_002164	{memo X}Lethargy: Strike
 SKILL_20150317_002165	{memo X}Hit type attacks do 20% more damage to enemies suffering from [Lethargy].
-SKILL_20150317_002166	Quick Cast: Magic Damage
+SKILL_20150317_002166	$Quick Cast: Magic Damage
 SKILL_20150317_002167	{memo X}Magic damage of next attack increases by 10% per attribute level when [Quick Cast] is active.
-SKILL_20150317_002168	Fireball: Flame debuff
+SKILL_20150317_002168	$Fireball: Flame Debuff
 SKILL_20150317_002169	{memo X}Enemies hit by[Fire Ball] have a 10% chance per attribute level of suffering from [Flame] for 5 seconds.
-SKILL_20150317_002170	Fire Wall: Increase Fire resistance
+SKILL_20150317_002170	$Fire Wall: Fire Property Resistance Increase
 SKILL_20150317_002171	{memo X}Fire Property attack increases by 5 per Attribute level for 5 seconds when allies step on [Fire Wall].
-SKILL_20150317_002172	Hell Breath: Rotate direction
-SKILL_20150317_002173	Can change direction when using [Hell Breathe]
-SKILL_20150317_002174	Hell Breath: Knockback
+SKILL_20150317_002172	$Hell Breath: Directional Rotation
+SKILL_20150317_002173	$You can can change directions when using [Hell Breath].
+SKILL_20150317_002174	$Hell Breath: Knockback
 SKILL_20150317_002175	{memo X}Enemies hit with [Hell Breathe] is pushed away at 10% chance per Attribute level.
-SKILL_20150317_002176	Enchanted Fire: Fire attribute resistance increase
-SKILL_20150317_002177	Character's Fire resistnace increase by 5 per level and Ice reistance decrease by 5 per level when using [Enchant Fire]
+SKILL_20150317_002176	$Enchant Fire: Fire Property Resistance Increase
+SKILL_20150317_002177	$Increases and decreases the character's Fire Property Resistance and Ice Property Resistance by 5 per level respectively, when using [Enchant Fire].
 SKILL_20150317_002178	{memo X}Enchanted Fire: Fire attribute resistance decrease
 SKILL_20150317_002179	{memo X}Fire Resistance of enemy within range of [Enchant Fire] decrease by 10% per attribute level for 5 seconds.
-SKILL_20150317_002180	Fire pillar: Pull
-SKILL_20150317_002181	[Fire Pillar] pulls enemy nearby. Higher attribute level increases range of enemies pulled.
-SKILL_20150317_002182	Staff Mastery : Fire
+SKILL_20150317_002180	$Fire Pillar: Pull
+SKILL_20150317_002181	$Pulls nearby enemies with [Fire Pillar]. A higher attribute level increases the range of enemies pulled.
+SKILL_20150317_002182	$Staff Mastery: Fire
 SKILL_20150317_002183	{memo X}When equipped with a [Staff], the character's fire element attack increases by 5 per attribute level.
-SKILL_20150317_002184	Ice Bolt: Chance of Freeze
+SKILL_20150317_002184	$Ice Bolt: Chance of Freeze
 SKILL_20150317_002185	{memo X}Chance of enemy hit by [Ice Bolt] to [Freeze] increases by 10% per attribute level.
 SKILL_20150317_002186	Gust: Collision damage
 SKILL_20150317_002187	{memo X}Enemy receive 50% of magic attack as damage when hitting wall after being pushed away with [Gust].
-SKILL_20150317_002188	Ice Blast: Splash freeze
-SKILL_20150317_002189	Enemies attacked with [Ice Blast] falls under [Freeze] at a 10% chance per attribute level.
+SKILL_20150317_002188	$Ice Blast: Splash Freeze
+SKILL_20150317_002189	$Enemies hit with [Ice Blast] can be affected by [Freeze] with a 10% chance per attribute level.
 SKILL_20150317_002190	Telekinesis: Forced move
 SKILL_20150317_002191	Inflict damage of 20% of magic attack to enemies nearby when teleporting through [Telekinesis]
-SKILL_20150317_002192	Psychic Pressure: Stun
+SKILL_20150317_002192	$Psychic Pressure: Stun
 SKILL_20150317_002193	{memo X}Enemy falls under [Stun] for 1 second at a 10% chance per Attribute level when hit with [Psychic Pressure].
-SKILL_20150317_002194	Gravity Pole: Evasion
+SKILL_20150317_002194	$Gravity Pole: Evasion
 SKILL_20150317_002195	{memo X}Evasion increases by 10 per attribute level when using [Gravity Pull].
-SKILL_20150317_002196	Magnetic Force: Stun
+SKILL_20150317_002196	$Magnetic Force: Stun
 SKILL_20150317_002197	{memo X}Enemies attacked with [Magnetic Force] falls under [Stun] for 1 second at chance of 5% per attribute level.
-SKILL_20150317_002198	Gravity Pole: Decrease Defense
+SKILL_20150317_002198	$Gravity Pole: Defense Decrease
 SKILL_20150317_002199	{memo X}Physical Defense of enemy drawn in skill [Gravity Pole] is reduced by 5% per attribute level.
-SKILL_20150317_002200	Raise: Large monster
-SKILL_20150317_002201	[Raise] also applies to large monsters.
-SKILL_20150317_002202	Physical link: Defense
-SKILL_20150317_002203	Physical defense increased by [Connected party members + Attribute level] when [Physical Link] is enabled.
+SKILL_20150317_002200	$Raise: Large Monster
+SKILL_20150317_002201	$[Raise] applies to large-type monsters.
+SKILL_20150317_002202	$Physical Link: Defense
+SKILL_20150317_002203	$Increases physical defense equal to [connected party members + attribute level] when [Physical Link] is active.
 SKILL_20150317_002204	{memo X}$Hangman's Knot: Additional Damage
 SKILL_20150317_002205	{memo X}Enemies receive 20% of magic damage per attribute level when attacked with [Hangman's Knot].
 SKILL_20150317_002206	{memo X}$Umbilical Cord: Remaining Defense
 SKILL_20150317_002207	{memo X}Physical defense remains by 10% per attribute level when using [Umbilical Cord]
-SKILL_20150317_002208	Spiritual Chain: Duration
+SKILL_20150317_002208	$Spiritual Chain: Duration
 SKILL_20150317_002209	{memo X}Duration of [Spiritual Chain] increases by 2 seconds per attribute level.
-SKILL_20150317_002210	Joint penalty: Additional damage
-SKILL_20150317_002211	Enemies touching [Joint Penalty] receives additional damage of 20% of Magic damage.
+SKILL_20150317_002210	$Joint Penalty: Additional Damage
+SKILL_20150317_002211	$Enemies who are linked with [Joint Penalty] will receive additional damage equal to 20% magic damage.
 SKILL_20150317_002212	{memo X}Hangman's Knot: Splash defense
 SKILL_20150317_002213	{memo X}Spash defense of enemies gathered through [Hangman's Knot] decrease by 1.
 SKILL_20150317_002214	Swell Body: Movement speed decrease
@@ -2222,9 +2221,9 @@ SKILL_20150317_002220	$Shrink Body: Additional Damage
 SKILL_20150317_002221	{memo X}Damage an enemy with 30% of your magic attack per Attribute level when its size is changed by [Size Shrink].
 SKILL_20150317_002222	$Swell Right Arm: Duration
 SKILL_20150317_002223	$Increases the duration of [Swell Right Arm] by 1 second per attribute level.
-SKILL_20150317_002224	Electrocute: Freezing Magic Damage
+SKILL_20150317_002224	$Electrocute: Freezing Magic Damage
 SKILL_20150317_002225	{memo X}Deals an additional 50% damage per attribute level when using [Electrocute] on enemies under [Freeze].
-SKILL_20150317_002226	Stone Curse: Petrification Increase
+SKILL_20150317_002226	$Stone Curse: Petrification Increase
 SKILL_20150317_002227	$Increases the number of [Petrify] with [Stone Curse] by attribute level.
 SKILL_20150317_002228	Prominence: Prominence wandering
 SKILL_20150317_002229	Prominence [Prominence] wanders in a smaller range.
@@ -4207,9 +4206,9 @@ SKILL_20150714_004205	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRat
 SKILL_20150714_004206	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio}#%{nl}Can use while riding
 SKILL_20150714_004207	Fly circling around target area. Range defense of enemies within target area decreases.
 SKILL_20150714_004208	$AoE Defense Ratio: -#{CaptionRatio}# {nl}Duration: 10 seconds
-SKILL_20150714_004209	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionTime}#%{nl}HP Recovery: #{CaptionRatio}# ~ #{CaptionRatio2}#{nl}Magic Circle Duration: 40 seconds
-SKILL_20150714_004210	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio2}#%{nl}Number of hits: #{CaptionRatio}#{nl}Magic Circle Duration #{CaptionTime}# seconds
-SKILL_20150714_004211	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio2}#%{nl}Number of hits: #{CaptionRatio}#{nl}Magic Circle Duration: 30 seconds
+SKILL_20150714_004209	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionTime}#%{nl}HP Recovery: #{CaptionRatio}# ~ #{CaptionRatio2}#{nl}Magic Circle duration: 40 seconds
+SKILL_20150714_004210	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio2}#%{nl}Number of hits: #{CaptionRatio}#{nl}Magic Circle duration #{CaptionTime}# seconds
+SKILL_20150714_004211	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio2}#%{nl}Number of hits: #{CaptionRatio}#{nl}Magic Circle duration: 30 seconds
 SKILL_20150714_004212	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio2}#%{nl}Defense: +#{CaptionRatio}#{nl}Targets: 10{nl}Duration: #{CaptionTime}# seconds{nl}Consumes 1 Holy Water
 SKILL_20150714_004213	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio2}#%{nl}Duration: #{CaptionTime}# seconds
 SKILL_20150714_004214	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionTime}#%{nl}Bonus on 3rd attack: x#{CaptionRatio}# ~ x#{CaptionRatio2}#
@@ -4824,7 +4823,7 @@ SKILL_20150717_004822	$Increases the chance of stun by 2% per attribute level wh
 SKILL_20150717_004823	$Using basic sword attacks on enemies with [Deprotected Zone] will affect the [Weakened Defense] status effect. Can stack [Weakened Defense] up to 10 times. 
 SKILL_20150717_004824	$Increases the range applied by [Safety Zone] to 15.
 SKILL_20150717_004825	{memo X}HP recovery of [Aukuras] increases by 1 per attribute level.
-SKILL_20150717_004826	Character's Fire resistance will increase by 5 per Attribute level and the resistance to Dark will decrease by 3 per Attribute level.
+SKILL_20150717_004826	$Increases and decreases the character's Fire Property Resistance by 5 and Dark Property Resistance by 3 per attribute level respectively.
 SKILL_20150717_004827	[Zaibas] is affected by splash and inflicts damage on multiple target at once. (total count does not increase.)
 SKILL_20150717_004828	{memo X}$Increases the range of [Melstis] to 50. 
 SKILL_20150717_004829	$Sacrament: Dark Property Resistance
@@ -4836,9 +4835,9 @@ SKILL_20150717_004834	$Increases the range of [Ogounveve] to 110.
 SKILL_20150717_004835	$Decreases the cooldown time of [Carve Vakarine] to 10 seconds. 
 SKILL_20150717_004836	$Out of Body: Evasion
 SKILL_20150717_004837	$Increases the body's evasion by 10% per attribute level while [Out of Body] is active. 
-SKILL_20150717_004838	When in Out of Body status, the enemies that got shot by normal attacks will be infliced with [Deprotect] with 5% probability per Attribute level.
-SKILL_20150717_004839	SP consumption of [Vashita Siddhi] will be reduced.
-SKILL_20150717_004840	The enemies that are in the range of [Vashita Siddhi] will be inflicted with Confusion with a certain probability. The probability will increase by 10% per Attribute level.
+SKILL_20150717_004838	$Decreases the enemy's physical defense by 30% with a chance of 10% per attribute level when using a basic attack in the state of Out of Body.
+SKILL_20150717_004839	$Decreases the SP cost of [Vashita Siddhi] by 10. 
+SKILL_20150717_004840	$Enemies within the range of [Vashita Siddhi] have a chance to be afflicted with Confusion. Increases the chance by 10% per attribute level.
 SKILL_20150717_004841	{memo X}HP recovery effect of [Restoration] increases per attribute level
 SKILL_20150717_004842	Instant death probability of skill [Turn Undead] also affects your spirit.
 SKILL_20150717_004843	{memo X}Damage that will be reflected off from [Iron Skin] will be added 20% of Physical ATK per Attribute level.
@@ -4919,12 +4918,12 @@ SKILL_20150729_004917	$Open a shop to repair your weapon and temporarily increas
 SKILL_20150729_004918	$Open a shop to repair your weapon and temporarily increase its quality. Can repair Tops, Pants and Shields.
 SKILL_20150729_004919	$Set up a basecamp for party members. Party members can use the basecamp as storage or for teleportation. Duration of buffs used around the camp will increase.
 SKILL_20150729_004920	$Attack #{SkillAtkAdd}#{nl}Attribute Attack #{CaptionRatio2}#%{nl}#{CaptionRatio}#Continuous hits
-SKILL_20150729_004921	Can gather #{CaptionRatio}# troops
-SKILL_20150729_004922	Additional Block + #{CaptionRatio}# {nl}Use 1% SP every 2 sec
+SKILL_20150729_004921	$Able to assemble #{CaptionRatio}# members
+SKILL_20150729_004922	$Additional Block: +#{CaptionRatio}#{nl}Consumes 1% SP every 2 seconds
 SKILL_20150729_004923	Change to Tersio Formation. Defense is concentrated on the three frontline players and provokes enemy.
-SKILL_20150729_004924	Additional DEF + #{CaptionRatio}# {nl}Use 1% SP 1% every 2 sec
-SKILL_20150729_004925	Deliver #{CaptionRatio2}#% ATK to troop{nl}#{CaptionRatio}# hits when attack{nl}Use SP 1% every 2 sec
-SKILL_20150729_004926	Consumes 1% SP every 2 sec {nl} Master Level 1
+SKILL_20150729_004924	$Additional Defense: +#{CaptionRatio}#{nl}Consumes 1% SP every 2 seconds
+SKILL_20150729_004925	$Conveys #{CaptionRatio2}#% attack to members{nl}#{CaptionRatio}# continuous hits upon attack{nl}Consumes 1% SP every 2 seconds
+SKILL_20150729_004926	$Consumes 1% SP every 2 seconds{nl}Maximum Level: 1
 SKILL_20150729_004927	Rearrange in line with leader's direction. {nl}Master Lv 1
 SKILL_20150729_004928	$Attack + #{CaptionRatio}#% per stack{nl}Defense - #{CaptionRatio}#% per stack{nl}Stacks up to #{CaptionRatio2}# times{nl}Duration #{CaptionTime}# sec
 SKILL_20150729_004929	$Attack #{SkillAtkAdd}#{nl}Attribute Attack #{CaptionRatio2}#%{nl}Consumes SP #{CaptionRatio}#% every 0.5 sec
