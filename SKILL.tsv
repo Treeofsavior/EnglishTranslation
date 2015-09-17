@@ -1459,7 +1459,6 @@ SKILL_20150317_001458	{memo X}Attack #{SkillAtkAdd}#{nl}Defense +#{CaptionRatio}
 SKILL_20150317_001459	$Monstrance
 SKILL_20150317_001460	{memo X}Dexterity of allies is increased and randomly create magic circle that cause evasion and Physical damage of enemies to decrease.
 SKILL_20150317_001461	$Maximum number of Magic Circles: #{SkillFactor}#{nl}Increases ally's DEX{nl}Enemy's Evasion and Defense -#{CaptionRatio}#{nl}Magic Circle duration: 20 seconds
-Create #{SkillFactor}# Magic Circle {nl}Ally DEX increase {nl}Enemy's evasion, defense -#{CaptionRatio}# {nl} Magic Circle Duration 20 seconds
 SKILL_20150317_001462	$Blessing
 SKILL_20150317_001463	{memo X}Increase the damage of party members' skills.
 SKILL_20150317_001464	{memo X}Additional Damage + #{CaptionRatio}# {nl} Attack# {CaptionRatio2} # times{nl} {nl} Duration 30 seconds{nl}Use 1 Holy Powder
@@ -4207,9 +4206,9 @@ SKILL_20150714_004205	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRat
 SKILL_20150714_004206	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio}#%{nl}Can use while riding
 SKILL_20150714_004207	Fly circling around target area. Range defense of enemies within target area decreases.
 SKILL_20150714_004208	$AoE Defense Ratio: -#{CaptionRatio}# {nl}Duration: 10 seconds
-SKILL_20150714_004209	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionTime}#%{nl}HP Recovery: #{CaptionRatio}# ~ #{CaptionRatio2}#{nl}Magic Circle Duration: 40 seconds
-SKILL_20150714_004210	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio2}#%{nl}Number of hits: #{CaptionRatio}#{nl}Magic Circle Duration #{CaptionTime}# seconds
-SKILL_20150714_004211	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio2}#%{nl}Number of hits: #{CaptionRatio}#{nl}Magic Circle Duration: 30 seconds
+SKILL_20150714_004209	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionTime}#%{nl}HP Recovery: #{CaptionRatio}# ~ #{CaptionRatio2}#{nl}Magic Circle duration: 40 seconds
+SKILL_20150714_004210	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio2}#%{nl}Number of hits: #{CaptionRatio}#{nl}Magic Circle duration #{CaptionTime}# seconds
+SKILL_20150714_004211	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio2}#%{nl}Number of hits: #{CaptionRatio}#{nl}Magic Circle duration: 30 seconds
 SKILL_20150714_004212	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio2}#%{nl}Defense: +#{CaptionRatio}#{nl}Targets: 10{nl}Duration: #{CaptionTime}# seconds{nl}Consumes 1 Holy Water
 SKILL_20150714_004213	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio2}#%{nl}Duration: #{CaptionTime}# seconds
 SKILL_20150714_004214	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionTime}#%{nl}Bonus on 3rd attack: x#{CaptionRatio}# ~ x#{CaptionRatio2}#
@@ -4923,7 +4922,7 @@ SKILL_20150729_004921	$Able to assemble #{CaptionRatio}# members
 SKILL_20150729_004922	$Additional Block: +#{CaptionRatio}#{nl}Consumes 1% SP every 2 seconds
 SKILL_20150729_004923	Change to Tersio Formation. Defense is concentrated on the three frontline players and provokes enemy.
 SKILL_20150729_004924	$Additional Defense: +#{CaptionRatio}#{nl}Consumes 1% SP every 2 seconds
-SKILL_20150729_004925	$Conveys #{CaptionRatio2}#% to members{nl}#{CaptionRatio}# continuous hits upon attack{nl}Consumes 1% SP every 2 seconds
+SKILL_20150729_004925	$Conveys #{CaptionRatio2}#% attack to members{nl}#{CaptionRatio}# continuous hits upon attack{nl}Consumes 1% SP every 2 seconds
 SKILL_20150729_004926	$Consumes 1% SP every 2 seconds{nl}Maximum Level: 1
 SKILL_20150729_004927	Rearrange in line with leader's direction. {nl}Master Lv 1
 SKILL_20150729_004928	$Attack + #{CaptionRatio}#% per stack{nl}Defense - #{CaptionRatio}#% per stack{nl}Stacks up to #{CaptionRatio2}# times{nl}Duration #{CaptionTime}# sec
