@@ -1,12 +1,12 @@
-##NOTICE (Updated 08-09-2015)
+##NOTICE (Updated 21-09-2015)
 <br>
 **GUIDELINES IN WIKI HAVE BEEN UPDATED** <br>
 **PLEASE CHECK THE [GUIDELINES](https://github.com/Treeofsavior/EnglishTranslation/wiki/Guidelines) BEFORE SENDING YOUR PULL REQUESTS.**
 
 
-1. All unused lines have been marked with {memo X} in front of the lines. (**NEW**)
+1. Latest translations have been updated. (**NEW**)
 
-2. Wiki - Map has been updated.
+2. All unused lines have been marked with {memo X} in front of the lines. 
 
 3. Have you checked out our official Forums? Click [**HERE**](https://forum.treeofsavior.com/) move to the forums for discussion. Please login and click on the github icon to link your github account to it as well.
 
