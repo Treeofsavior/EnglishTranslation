@@ -1301,7 +1301,7 @@ SKILL_20150317_001300	{memo X}{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Jump b
 SKILL_20150317_001301	{memo X}Attack #{SkillAtkAdd}#{nl}Attack 5 times
 SKILL_20150317_001302	$Spiral Arrow
 SKILL_20150317_001303	{memo X}Buffs your next attack to do an additional hit.
-SKILL_20150317_001304	Continuous Attacks: #{CaptionRatio}# {nl}Duration: 10 seconds
+SKILL_20150317_001304	{memo X}Continuous Attacks: #{CaptionRatio}# {nl}Duration: 10 seconds
 SKILL_20150317_001305	$Deploy Pavise
 SKILL_20150317_001306	{memo X}Install a Pavise on the ground to defend against projectiles.
 SKILL_20150317_001307	{memo X}Defend range projectile #{SkillFactor}# times{nl}Pavise duration #{CaptionTime}# seconds
@@ -1727,8 +1727,8 @@ SKILL_20150317_001726	Hooked to enemy's provocation!
 SKILL_20150317_001727	Defense decreases.
 SKILL_20150317_001728	Receive damage after a while
 SKILL_20150317_001729	Continuously recieve Fire damage.
-SKILL_20150317_001730	Nearby party members stats increased.
-SKILL_20150317_001731	Movement speed and the max. HP of party members will increase.
+SKILL_20150317_001730	{memo X}Nearby party members stats increased.
+SKILL_20150317_001731	{memo X}Movement speed and the max. HP of party members will increase.
 SKILL_20150317_001732	Fire pillar
 SKILL_20150317_001733	Blinded.
 SKILL_20150317_001734	Infection
@@ -2336,11 +2336,11 @@ SKILL_20150317_002335	$Increases the Pierce damage of allies within the range of
 SKILL_20150317_002336	$Barrier: Holy Damage
 SKILL_20150317_002337	{memo X}Enemies hit by skill [Barrier] received 20% of Magic attack per attribute level as Holy damage.
 SKILL_20150317_002338	$Smite: Knockdown Damage
-SKILL_20150317_002339	Inflicts damage equal to 50% of physical attack to an enemy in the air.
+SKILL_20150317_002339	{memo X}Inflicts damage equal to 50% of physical attack to an enemy in the air.
 SKILL_20150317_002340	$Turn Undead: Spirit
 SKILL_20150317_002341	{memo X}Instant death probability of skill [Turn Undead] also affects your spirit.
 SKILL_20150317_002342	$Conversion: Increase STR
-SKILL_20150317_002343	Strength of monsters converted with [Conversion] increase by 10%.
+SKILL_20150317_002343	{memo X}Strength of monsters converted with [Conversion] increase by 10%.
 SKILL_20150317_002344	{memo X}[Two-handed Bow] Deals 20% more damage to Flying type monsters.
 SKILL_20150317_002345	$Oblique Shot: Slow
 SKILL_20150317_002346	{memo X}When [Swift step] is active, enemies attacked with [Oblique shot] are inflicted with [Slow] at a rate of 5% per attribute level.
@@ -3162,7 +3162,7 @@ SKILL_20150401_003161	{memo X}Duration #{CaptionRatio}# hours
 SKILL_20150401_003162	{memo X}Install food distribution table where you can share with party members. It can be installed nearby basecamp and it will disbanded when the basecamp is disbanded.
 SKILL_20150401_003163	$Increases the food effectivenes by skill level
 SKILL_20150401_003164	{memo X}Stick flag that boosts the combat abilities of the pirates on the ground. Kill enemies continuously for fever combo.
-SKILL_20150401_003165	Flag duration: 30 seconds.
+SKILL_20150401_003165	{memo X}Flag duration: 30 seconds.
 SKILL_20150401_003166	Capture enemy with hook.
 SKILL_20150401_003167	{memo X}Capture time 5 seconds
 SKILL_20150401_003168	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use Iron Hook to drag enemy. Enemy receives damage every time it is pulled.
@@ -3310,7 +3310,7 @@ SKILL_20150401_003309	Block state of Incapable of Combate once.
 SKILL_20150401_003310	Recover HP #{CaptionRatio}#%{nl}Invincible for #{CaptionRatio2}# seconds{nl}Duration #{CaptionTime}# seconds
 SKILL_20150401_003311	{memo X}{#993399}{ol}[Magic] - [Holy]{/}{/}{nl}Create magic circle with holy power. Enemy is damaged when and after entering the circle.
 SKILL_20150401_003312	{memo X}Attack #{SkillAtkAdd}#{nl}Divine Damage #{CaptionRatio}#{nl}Duration #{CaptionTime}# seconds
-SKILL_20150401_003313	Can warp #{CaptionRatio}# times{nl}Goddess Statue duration 30 seconds{nl}Use 3 Oak wood
+SKILL_20150401_003313	{memo X}Can warp #{CaptionRatio}# times{nl}Goddess Statue duration 30 seconds{nl}Use 3 Oak wood
 SKILL_20150401_003314	{memo X}SP - #{CaptionRatio}# {nl}Goddess Statue duration 30 seconds{nl}Use 5 Pine woods
 SKILL_20150401_003315	{memo X}Splash + #{CaptionRatio}# {nl}Goddess Statue duration 30 seconds{nl}Use 5 cedar wood
 SKILL_20150401_003316	{memo X}Attack #{SkillAtkAdd}#{nl}Block #{CaptionRatio}# times{nl}Duration #{CaptionTime}# seconds{nl}Use 2 Oak wood
@@ -3351,7 +3351,7 @@ SKILL_20150401_003350	#{CaptionRatio}# Pile of food{nl}Duration #{CaptionTime}# 
 SKILL_20150401_003351	{memo X}Summon the monster somewhere in the map to right in front.
 SKILL_20150401_003352	Summon #{CaptionRatio}# monsters
 SKILL_20150401_003353	{memo X}Increase max. SP and STA of party members
-SKILL_20150401_003354	Max. SP,STA + #{CaptionRatio}#%{nl}Duration #{CaptionTime}# seconds
+SKILL_20150401_003354	{memo X}Max. SP,STA + #{CaptionRatio}#%{nl}Duration #{CaptionTime}# seconds
 SKILL_20150401_003355	{memo X}Change the monster in fron to another monster.
 SKILL_20150401_003356	Level -#{CaptionRatio}# ~ +#{CaptionRatio}#
 SKILL_20150401_003357	{memo X}Preview item that the monster will drop
@@ -3687,8 +3687,8 @@ SKILL_20150414_003686	${#993399}{ol}[Magic] - [Ice] - [Pierce]{/}{/}{nl}Launches
 SKILL_20150414_003687	{#993399}{ol}[Magic] - [Ice] - [Pierce]{/}{/}}{nl}Spurt ice thorns and attack enemies in front with chance of freezing.
 SKILL_20150414_003688	Create ice wall to trap enemy with chance of freezing nearby enemies.
 SKILL_20150414_003689	{#993399}{ol}[Magic] - [Ice]{/}{/}{nl}Smack frozen enemies in front. Can freeze one more enemy nearby.
-SKILL_20150414_003690	Create ice tent to block and freeze enemy.
-SKILL_20150414_003691	Create strong wind to push away target. Use on frozen enemies to attack neaby enemies.
+SKILL_20150414_003690	{memo X}Create ice tent to block and freeze enemy.
+SKILL_20150414_003691	{memo X}Create strong wind to push away target. Use on frozen enemies to attack neaby enemies.
 SKILL_20150414_003692	{#993399}{ol}[Magic] - [Ice] - [Strike]{/}{/}{nl}Ride on huge snowball and smash enemy.
 SKILL_20150414_003693	${#993399}{ol}[Magic]{/}{/}{nl}Concentrate on the the tip of your hand to inflict continuous damage with psychokinesis.
 SKILL_20150414_003694	${#993399}{ol}[Magic]{/}{/}{nl}Use psychokinesis to capture a target in front to move its location.{nl}Inflicts damage by throwing the captured target to a direction using your arrow keys.
@@ -3724,11 +3724,11 @@ SKILL_20150414_003723	Summon fire devil Salamion. It follows its master and atta
 SKILL_20150414_003724	{memo X}Salamion Level #{CaptionRatio}#
 SKILL_20150414_003725	Summon Servant. Servant follows its master and gives good effects.
 SKILL_20150414_003726	{memo X}Servant HP #{CaptionRatio}#
-SKILL_20150414_003727	Control time and temporarily increase attack speed of yourself or 1 ally in front.
+SKILL_20150414_003727	{memo X}Control time and temporarily increase attack speed of yourself or 1 ally in front.
 SKILL_20150414_003728	{memo X}Control time and make the monster appear again where it was killed.
 SKILL_20150414_003729	Stop time of monsters within target area. Enemies do not receive damage when time is stopped.
 SKILL_20150414_003730	Control time and decrease movement speed of enemy.
-SKILL_20150414_003731	Control time and increase movement speed of yourself or 1 ally in front.
+SKILL_20150414_003731	{memo X}Control time and increase movement speed of yourself or 1 ally in front.
 SKILL_20150414_003732	Control the time around and temporarily change it back to previous state.
 SKILL_20150414_003733	{#993399}{ol}[Magic]{/}{/}{nl}Collect enemy corpse.
 SKILL_20150414_003734	{memo X}Attack #{SkillAtkAdd}#{nl}Collect corpse of each type
@@ -3739,7 +3739,7 @@ SKILL_20150414_003738	{memo X}Attack #{SkillAtkAdd}#{nl}Spalsh #{SkillSR}#{nl}Us
 SKILL_20150414_003739	{#993399}{ol}[Magic]{/}{/}{nl}Cover around with corpse parts and attack enemies nearby.
 SKILL_20150414_003740	{memo X}Attack #{SkillAtkAdd}#{nl}Duration 15 seconds{nl}Use #{CaptionRatio}# Mutant corpse
 SKILL_20150414_003741	Make a wall of corpse and block enemy attacks. Enemies attack neaby the wall becomes decomposed.
-SKILL_20150414_003742	Dirty Wall #{CaptionRatio}#{nl}Dirty Wall Duration15 seconds{nl}{#339999}{ol}[Decompose]{/}{/} Duration #{CaptionTime}# seconds{nl}{nl}Use #{CaptionRatio2}# each of {nl}Plant, Beast, Mutant corpse
+SKILL_20150414_003742	{memo X}Dirty Wall #{CaptionRatio}#{nl}Dirty Wall Duration15 seconds{nl}{#339999}{ol}[Decompose]{/}{/} Duration #{CaptionTime}# seconds{nl}{nl}Use #{CaptionRatio2}# each of {nl}Plant, Beast, Mutant corpse
 SKILL_20150414_003743	Collect piece of corpse left where the enemy died.
 SKILL_20150414_003744	{#993399}{ol}[Magic]{/}{/}{nl}Explode your item on the ground to attack enemies.
 SKILL_20150414_003745	{memo X}Dig the ground and get ores for alchemy.
@@ -3764,7 +3764,7 @@ SKILL_20150414_003763	{memo X}Attack speed decrease and ATK increase.
 SKILL_20150414_003764	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Fire arrows with bomb. Arrows explode after hitting enemy.
 SKILL_20150414_003765	{memo X}{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Arrow is split to pieces and bounces off attacking nearby enemies.
 SKILL_20150414_003766	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Run backwards and shoot multiple arrows forward.
-SKILL_20150414_003767	Make a spiral arrow that penetrates the enemy. The shot gives 1 additional attack.
+SKILL_20150414_003767	{memo X}Make a spiral arrow that penetrates the enemy. The shot gives 1 additional attack.
 SKILL_20150414_003768	Create standing shield to block enemy and enemy's range attack.
 SKILL_20150414_003769	Collect stones bullets to use for Stone Shot. Cannot be obtained in towns.
 SKILL_20150414_003770	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Charge crossbow with multiple arrows and shoot towards enemy.
@@ -3777,7 +3777,7 @@ SKILL_20150414_003776	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Explod
 SKILL_20150414_003777	Hide the installed trap from the enemies.
 SKILL_20150414_003778	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Install trap that shoots arrows when touching the wire.
 SKILL_20150414_003779	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Hang bomb on enemy. Enemy explodes when touching other enemies.
-SKILL_20150414_003780	Companion speed +#{CaptionRatio}#% {nl}Duration #{CaptionTime}# seconds
+SKILL_20150414_003780	{memo X}Companion speed +#{CaptionRatio}#% {nl}Duration #{CaptionTime}# seconds
 SKILL_20150414_003781	Companion threats and prevents enemy from approaching. Enemy may fall under Fear.
 SKILL_20150414_003782	Rush Dog
 SKILL_20150414_003783	Make companion rush forward to attack.
@@ -3844,7 +3844,7 @@ SKILL_20150414_003843	Use monkey skull to lure zombies to desired area.
 SKILL_20150414_003844	{memo X}Create magic circle that turns enemies killed into zombies.
 SKILL_20150414_003845	Throw amulet to target that stops pain. Target does not receive damage when effect is enabled but receives damage accumulated at once when the effect ends.
 SKILL_20150414_003846	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Order zombies to celebrate. Zombies dance around target area and enemies touching the zombies receive damage.
-SKILL_20150414_003847	Install a Samedi pattern that represents death noir on the ground. Movement speed and max. HP of zombies and allies around the pattern increase.
+SKILL_20150414_003847	{memo X}Install a Samedi pattern that represents death noir on the ground. Movement speed and max. HP of zombies and allies around the pattern increase.
 SKILL_20150414_003848	{memo X}Install a Oguon pattern that represents strength noir on the ground. Strength of zombies and allies around the pattern increase.
 SKILL_20150414_003849	{#993399}{ol}[Magic]{/}{/}{nl}Explode zombies near target area and attack nearby enemies.
 SKILL_20150414_003850	$Carve a statue of Vakarine, the Goddess of Evening Star. {nl}You may warp to other areas through the Goddess Statue.
@@ -3855,7 +3855,7 @@ SKILL_20150414_003854	$Cooldown duration: -#{CaptionRatio}#%{nl}Statue duration:
 SKILL_20150414_003855	{#993399}{ol}[Magic] - [Fire]{/}{/}{nl}Carve an owl statue that attacks the enemy.
 SKILL_20150414_003856	{memo X}Attack #{SkillAtkAdd}#{nl}Defend #{CaptionRatio}#times{nl}Duration #{CaptionTime}# seconds{nl}Use 3 Oak wood
 SKILL_20150414_003857	Carve a holy tree that silence nearby enemies.
-SKILL_20150414_003858	Statue duration #{CaptionRatio}# seconds{nl}Use 6 Ash woods
+SKILL_20150414_003858	{memo X}Statue duration #{CaptionRatio}# seconds{nl}Use 6 Ash woods
 SKILL_20150414_003859	$Carve a statue of Ausrine, the Goddess of Morning Star. You and your allies do not receive damage after rotating around the Goddess Statue 3 times.
 SKILL_20150414_003860	${#339999}{ol}[Blessing of the Goddess]{/}{/} Duration: #{CaptionRatio}# seconds{nl}Goddess Statue duration: 30 seconds{nl}Consumes 4 Cedar Wood
 SKILL_20150414_003861	Move your spirit out of the body. The spirit can only move near the body.
@@ -3872,7 +3872,7 @@ SKILL_20150414_003871	Enemies attacked have chance of creating magic circle of c
 SKILL_20150414_003872	Temporarily increase attribute resistance of you and your party.
 SKILL_20150414_003873	Fice, Ice, Lightning Resistance +#{CaptionRatio}# {nl}Poison, Earth Resistance +#{CaptionRatio2}#{nl}Buff Duration #{CaptionTime}#seconds
 SKILL_20150414_003874	May kill mutant or demon type enemy at once.
-SKILL_20150414_003875	Make a protective wall that push away enemies and block them from entering.
+SKILL_20150414_003875	{memo X}Make a protective wall that push away enemies and block them from entering.
 SKILL_20150414_003876	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Make skin hard as iron and bounce off enemy attacks to infllict damage.
 SKILL_20150414_003877	{memo X}Reflect attack amounting to target's Physical attack.{nl}Reflect damage +#{SkillAtkAdd}#{nl}Ranged projectile, cannot defend magic
 SKILL_20150414_003878	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use both arms to attack enemy continuously.
@@ -3893,8 +3893,8 @@ SKILL_20150414_003892	Penetrate into the mind of an enemy in front and control i
 SKILL_20150414_003893	{#993399}{ol}[Magic]{/}{/}{nl}Grass nearby target area attacks the enemy.
 SKILL_20150414_003894	$Temporarily transform into an Animal-type, Plant-type or Insect-type monster in front.
 SKILL_20150414_003895	$Transform back into the monster that you last shape shifted to.
-SKILL_20150414_003896	Grass in the target area protects you and your party.
-SKILL_20150414_003897	Grass temporarily growns on target area. Monsters entering the area is as plant type.
+SKILL_20150414_003896	{memo X}Grass in the target area protects you and your party.
+SKILL_20150414_003897	{memo X}Grass temporarily growns on target area. Monsters entering the area is as plant type.
 SKILL_20150414_003898	$Randomly summons enemies to your front from the area you are currently in.
 SKILL_20150414_003899	$Increases your and your party member's maximum SP and STA.
 SKILL_20150414_003900	Change the monster in front to a different monster.
@@ -4040,7 +4040,7 @@ SKILL_20150428_004039	There is a chance of stealing enemy's item when you attack
 SKILL_20150428_004040	{memo X}Reduce skill casting time. Applied once on the next skill.
 SKILL_20150428_004041	$Damage decreases depending on the number of Links{nl}Maximum amount of Links: #{CaptionRatio}#{nl}Duration: #{CaptionTime}# seconds{nl}Consumes 16 Stamina
 SKILL_20150428_004042	$Maximum number of Links: #{CaptionRatio}#{nl}Duration: #{CaptionTime}# seconds
-SKILL_20150428_004043	Tighten link to gather up enemy.
+SKILL_20150428_004043	{memo X}Tighten link to gather up enemy.
 SKILL_20150428_004044	{#339999}{ol}[Bind]{/}{/} Duration #{CaptionTime}# seconds
 SKILL_20150428_004045	{memo X}Temporarily enlarge the your and party members' hands that are carrying sword and shield.
 SKILL_20150428_004046	{memo X}Physical/Magic Defense +#{CaptionRatio}# for Shield{nl}Physical/Magic Defense + #{CaptionRatio2}# for Sword{nl}No effect with other subweapons{nl}Duration #{CaptionTime}# seconds
@@ -4444,9 +4444,9 @@ SKILL_20150714_004443	{memo X}$Enemies hit by [Hangman's Knot] will receive addi
 SKILL_20150714_004444	$Umbilical Cord: Remaining Defense
 SKILL_20150714_004445	$10% of the physical defense remains per attribute level when using [Umbilical Cord].
 SKILL_20150714_004446	$Increases the duration of [Spiritual Chain] by 1 second per attribute level.
-SKILL_20150714_004447	Disconnected enemies by [Unbind] will receive damage. Increases attack of magic attack by 10% per attribute level.
+SKILL_20150714_004447	{memo X}Disconnected enemies by [Unbind] will receive damage. Increases attack of magic attack by 10% per attribute level.
 SKILL_20150714_004448	$Joint Penalty: Electricity
-SKILL_20150714_004449   $Enemies affected by [Joint Penalty] will receive 10% additional damage from Lightning attacks per attribute level.
+SKILL_20150714_004449	$Enemies affected by [Joint Penalty] will receive 10% additional damage from Lightning attacks per attribute level.
 SKILL_20150714_004450	$Joint Penalty: Poison
 SKILL_20150714_004451	$Enemies affected by [Joint Penalty] will receive 10% additional damage from Poison attacks per attribute level.
 SKILL_20150714_004452	$Joint Penalty: Earth
@@ -4719,11 +4719,11 @@ SKILL_20150717_004718	$Attack: -#{CaptionRatio}#% {nl}Increased defense equal to
 SKILL_20150717_004719	Attack #{SkillAtkAdd}#{nl}Attribute Attack #{CaptionRatio}#%{nl}Duration #{CaptionRatio2}#seconds{nl}AoE Attack Ratio #{SkillSR}#
 SKILL_20150717_004720	{memo X}Summon the devil of card inserted in Grimore. The attack and defense of summoned devil will be decided according to character's INT, SPR. Grimore can only equip Devil type monster card.
 SKILL_20150717_004721	Summon Demon type boss{nl}Demon additional attack #{CaptionRatio}#{nl}Demon additional defense #{CaptionRatio2}#
-SKILL_20150717_004722	Movement speed - #{CaptionRatio}# {nl}Magic circle duration #{CaptionRatio2}#seconds{nl}{#339999}{ol}[Slow]{/}{/} Duration 5 seconds
+SKILL_20150717_004722	{memo X}Movement speed - #{CaptionRatio}# {nl}Magic circle duration #{CaptionRatio2}#seconds{nl}{#339999}{ol}[Slow]{/}{/} Duration 5 seconds
 SKILL_20150717_004723	{memo X}Create a Shoggoth molded after the card inserted in the Necronomicon. The attack and defense of summoned devil will be decided according to character's INT and SPR. Necronomicon can equip only Animal, Plant, and Mutant type cards.
-SKILL_20150717_004724	Shoggoth additional attack #{CaptionRatio}#{nl}Shoggoth additonal defense #{CaptionRatio2}#{nl}Use{nl} Plant, Beast, Mutant corpse#{CaptionTime}#
+SKILL_20150717_004724	{memo X}Shoggoth additional attack #{CaptionRatio}#{nl}Shoggoth additonal defense #{CaptionRatio2}#{nl}Use{nl} Plant, Beast, Mutant corpse#{CaptionTime}#
 SKILL_20150717_004725	{memo X}{#DD5500}{ol}[Physidal] - [Pierce]{/}{/}{nl}Install trap that bounces off enemy when stepped on.
-SKILL_20150717_004726	Install a Oguon pattern that represents strength noir on the ground. Strength of zombies and allies around the patern increase.
+SKILL_20150717_004726	{memo X}Install a Oguon pattern that represents strength noir on the ground. Strength of zombies and allies around the patern increase.
 SKILL_20150717_004727	Physical defense decrease
 SKILL_20150717_004728	Defense decrease
 SKILL_20150717_004729	Periodically receive Fire damage
@@ -4735,9 +4735,9 @@ SKILL_20150717_004734	Drop Silver increases
 SKILL_20150717_004735	Magic defense increase
 SKILL_20150717_004736	Magic defense increase, Physical defense increase
 SKILL_20150717_004737	Movement speed decrease
-SKILL_20150717_004738	Max SP and Magic DEF increase based on number of [Cloth] armor equipped and Attribute level (at least 3 same equipment type).
-SKILL_20150717_004739	Evasion increases based on number of [Leather] armor equipped and Attribute level. (at least 3 same equipment type).
-SKILL_20150717_004740	Max HP and Physical DEF increase based on number of [Plate] armor equipped and Attribute level. (at least 3 same equipment type).
+SKILL_20150717_004738	{memo X}Max SP and Magic DEF increase based on number of [Cloth] armor equipped and Attribute level (at least 3 same equipment type).
+SKILL_20150717_004739	{memo X}Evasion increases based on number of [Leather] armor equipped and Attribute level. (at least 3 same equipment type).
+SKILL_20150717_004740	{memo X}Max HP and Physical DEF increase based on number of [Plate] armor equipped and Attribute level. (at least 3 same equipment type).
 SKILL_20150717_004741	Incurs additional 20 damage per Attribute level whenever attack from an enemy's back with dagger.
 SKILL_20150717_004742	Physical damage of [Gung Ho] increases +1, while defense decreases increases +1
 SKILL_20150717_004743	AoE Atk Ratio of [Bash] increases by 1 per Attribute level.
@@ -4757,7 +4757,7 @@ SKILL_20150717_004756	Cool down time of [Long Stride] will be decreased by 10 se
 SKILL_20150717_004757	{memo X}$Increases the physical damage increase effect of [Warcry] by 1 per attribute level. (This attribute only applies after the enemy's defense is decreased.)
 SKILL_20150717_004758	$Warcry: Add Target
 SKILL_20150717_004759	The skill [Montano] will inflict the target with [Slow] for 10 secs and the duration of [Slow] will increase by 3secs/2secs/1secs based on Attribute level to small/medium/big sized monsters.
-SKILL_20150717_004760	Spreads [Flame] equal to amount of attribute level when killing enemy under [Flame] with [Targe Smash].
+SKILL_20150717_004760	{memo X}Spreads [Flame] equal to amount of attribute level when killing enemy under [Flame] with [Targe Smash].
 SKILL_20150717_004761	There is 1% chance per attribute level for enemies pushed away with [Rush] to fall under [Stun] for 2 seconds.
 SKILL_20150717_004762	Endow Earth Property to the attacks of the skill [Earth Wave]
 SKILL_20150717_004763	[Slowdown] is left for 4 seconds after [Arrest], Duration of [Slowdown] will increase 0.4 from Lv2 per Attribute level.
@@ -4766,7 +4766,7 @@ SKILL_20150717_004765	Phalanx: Slowdown
 SKILL_20150717_004766	When an enemy's attack gets blocked while in [Phalanx] position, the enemy will fall into Slowdown. Duration of Slowdown will increase by 4 secs per Attribute level.
 SKILL_20150717_004767	$Adds the reflect damage of [Reflect Shield] by 1 per attribute level, but decreases the damage received accordingly.
 SKILL_20150717_004768	$Increases the Physical and Magic Attack debuff effect of [Lethargy] by 1 per attribute level.
-SKILL_20150717_004769	Attack monster in [sleep] state with [Enegry Bolt] to give additional damage of 50% of Magic attack.
+SKILL_20150717_004769	{memo X}Attack monster in [sleep] state with [Enegry Bolt] to give additional damage of 50% of Magic attack.
 SKILL_20150717_004770	$Enemies hit by [Fireball] will receive flame damage for 5 seconds with a 10% chance per attribute level. The flame damage is based on the character's INT.
 SKILL_20150717_004771	$Increases the Fire property damage for 5 seconds by 5 per attribute level, when an ally steps on [Fire Wall].
 SKILL_20150717_004772	{memo X}When an enemy is near [Enchant Fire] range, the enemy's Fire resistance will decrease by 10% for 5 secs.
@@ -5034,6 +5034,211 @@ SKILL_20150804_005033	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Shoot arrow th
 SKILL_20150804_005034	$Attack 250% + #{SkillAtkAdd}#{nl}Attribute Attack #{CaptionRatio}#%{nl}AoE Attack Ratio #{SkillSR}#
 SKILL_20150804_005035	$Reflect #{CaptionRatio}#% of the target's physical attack{nl}Maximum Duration #{CaptionTime}# sec{nl}Range projectile, Magic defense not possible
 SKILL_20150804_005036	$Cartar Stroke: Remove Knockback
-SKILL_20150804_005037	Pushing power of [Cartar Stroke] becomes 0. (You will not be pushed if this attribute is ON.)
+SKILL_20150804_005037	{memo X}Pushing power of [Cartar Stroke] becomes 0. (You will not be pushed if this attribute is ON.)
 SKILL_20150804_005038	$Increases your Fire, Ice and Lightning properties by 5 and from Lv2 it increases by 1 per attribute level. 
 SKILL_20150804_005039	$Increases the reflection of [Iron Skin] by 5% per attribute level.
+SKILL_20150807_005040	
+SKILL_20150918_005041	
+SKILL_20150918_005042	
+SKILL_20150918_005043	
+SKILL_20150918_005044	
+SKILL_20150918_005045	
+SKILL_20150918_005046	
+SKILL_20150918_005047	
+SKILL_20150918_005048	
+SKILL_20150918_005049	
+SKILL_20150918_005050	
+SKILL_20150918_005051	
+SKILL_20150918_005052	
+SKILL_20150918_005053	
+SKILL_20150918_005054	
+SKILL_20150918_005055	
+SKILL_20150918_005056	
+SKILL_20150918_005057	
+SKILL_20150918_005058	
+SKILL_20150918_005059	
+SKILL_20150918_005060	
+SKILL_20150918_005061	
+SKILL_20150918_005062	
+SKILL_20150918_005063	
+SKILL_20150918_005064	
+SKILL_20150918_005065	
+SKILL_20150918_005066	
+SKILL_20150918_005067	
+SKILL_20150918_005068	
+SKILL_20150918_005069	
+SKILL_20150918_005070	
+SKILL_20150918_005071	
+SKILL_20150918_005072	
+SKILL_20150918_005073	
+SKILL_20150918_005074	
+SKILL_20150918_005075	
+SKILL_20150918_005076	
+SKILL_20150918_005077	
+SKILL_20150918_005078	
+SKILL_20150918_005079	
+SKILL_20150918_005080	
+SKILL_20150918_005081	
+SKILL_20150918_005082	
+SKILL_20150918_005083	
+SKILL_20150918_005084	
+SKILL_20150918_005085	
+SKILL_20150918_005086	
+SKILL_20150918_005087	
+SKILL_20150918_005088	
+SKILL_20150918_005089	
+SKILL_20150918_005090	
+SKILL_20150918_005091	
+SKILL_20150918_005092	
+SKILL_20150918_005093	
+SKILL_20150918_005094	
+SKILL_20150918_005095	
+SKILL_20150918_005096	
+SKILL_20150918_005097	
+SKILL_20150918_005098	
+SKILL_20150918_005099	
+SKILL_20150918_005100	
+SKILL_20150918_005101	
+SKILL_20150918_005102	
+SKILL_20150918_005103	
+SKILL_20150918_005104	
+SKILL_20150918_005105	
+SKILL_20150918_005106	
+SKILL_20150918_005107	
+SKILL_20150918_005108	
+SKILL_20150918_005109	
+SKILL_20150918_005110	
+SKILL_20150918_005111	
+SKILL_20150918_005112	
+SKILL_20150918_005113	
+SKILL_20150918_005114	
+SKILL_20150918_005115	
+SKILL_20150918_005116	
+SKILL_20150918_005117	
+SKILL_20150918_005118	
+SKILL_20150918_005119	
+SKILL_20150918_005120	
+SKILL_20150918_005121	
+SKILL_20150918_005122	
+SKILL_20150918_005123	
+SKILL_20150918_005124	
+SKILL_20150918_005125	
+SKILL_20150918_005126	
+SKILL_20150918_005127	
+SKILL_20150918_005128	
+SKILL_20150918_005129	
+SKILL_20150918_005130	
+SKILL_20150918_005131	
+SKILL_20150918_005132	
+SKILL_20150918_005133	
+SKILL_20150918_005134	
+SKILL_20150918_005135	
+SKILL_20150918_005136	
+SKILL_20150918_005137	
+SKILL_20150918_005138	
+SKILL_20150918_005139	
+SKILL_20150918_005140	
+SKILL_20150918_005141	
+SKILL_20150918_005142	
+SKILL_20150918_005143	
+SKILL_20150918_005144	
+SKILL_20150918_005145	
+SKILL_20150918_005146	
+SKILL_20150918_005147	
+SKILL_20150918_005148	
+SKILL_20150918_005149	
+SKILL_20150918_005150	
+SKILL_20150918_005151	
+SKILL_20150918_005152	
+SKILL_20150918_005153	
+SKILL_20150918_005154	
+SKILL_20150918_005155	
+SKILL_20150918_005156	
+SKILL_20150918_005157	
+SKILL_20150918_005158	
+SKILL_20150918_005159	
+SKILL_20150918_005160	
+SKILL_20150918_005161	
+SKILL_20150918_005162	
+SKILL_20150918_005163	
+SKILL_20150918_005164	
+SKILL_20150918_005165	
+SKILL_20150918_005166	
+SKILL_20150918_005167	
+SKILL_20150918_005168	
+SKILL_20150918_005169	
+SKILL_20150918_005170	
+SKILL_20150918_005171	
+SKILL_20150918_005172	
+SKILL_20150918_005173	
+SKILL_20150918_005174	
+SKILL_20150918_005175	
+SKILL_20150918_005176	
+SKILL_20150918_005177	
+SKILL_20150918_005178	
+SKILL_20150918_005179	
+SKILL_20150918_005180	
+SKILL_20150918_005181	
+SKILL_20150918_005182	
+SKILL_20150918_005183	
+SKILL_20150918_005184	
+SKILL_20150918_005185	
+SKILL_20150918_005186	
+SKILL_20150918_005187	
+SKILL_20150918_005188	
+SKILL_20150918_005189	
+SKILL_20150918_005190	
+SKILL_20150918_005191	
+SKILL_20150918_005192	
+SKILL_20150918_005193	
+SKILL_20150918_005194	
+SKILL_20150918_005195	
+SKILL_20150918_005196	
+SKILL_20150918_005197	
+SKILL_20150918_005198	
+SKILL_20150918_005199	
+SKILL_20150918_005200	
+SKILL_20150918_005201	
+SKILL_20150918_005202	
+SKILL_20150918_005203	
+SKILL_20150918_005204	
+SKILL_20150918_005205	
+SKILL_20150918_005206	
+SKILL_20150918_005207	
+SKILL_20150918_005208	
+SKILL_20150918_005209	
+SKILL_20150918_005210	
+SKILL_20150918_005211	
+SKILL_20150918_005212	
+SKILL_20150918_005213	
+SKILL_20150918_005214	
+SKILL_20150918_005215	
+SKILL_20150918_005216	
+SKILL_20150918_005217	
+SKILL_20150918_005218	
+SKILL_20150918_005219	
+SKILL_20150918_005220	
+SKILL_20150918_005221	
+SKILL_20150918_005222	
+SKILL_20150918_005223	
+SKILL_20150918_005224	
+SKILL_20150918_005225	
+SKILL_20150918_005226	
+SKILL_20150918_005227	
+SKILL_20150918_005228	
+SKILL_20150918_005229	
+SKILL_20150918_005230	
+SKILL_20150918_005231	
+SKILL_20150918_005232	
+SKILL_20150918_005233	
+SKILL_20150918_005234	
+SKILL_20150918_005235	
+SKILL_20150918_005236	
+SKILL_20150918_005237	
+SKILL_20150918_005238	
+SKILL_20150918_005239	
+SKILL_20150918_005240	
+SKILL_20150918_005241	
+SKILL_20150918_005242	
+SKILL_20150918_005243	
+SKILL_20150918_005244	
