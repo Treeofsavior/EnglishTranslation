@@ -6,11 +6,11 @@
 
 1. Latest translations have been updated. (**NEW**)
 
-2. All unused lines have been marked with {memo X} in front of the lines. 
+2. Please send a separate Pull Request for EACH FILE. 
 
-3. Have you checked out our official Forums? Click [**HERE**](https://forum.treeofsavior.com/) move to the forums for discussion. Please login and click on the github icon to link your github account to it as well.
+3. Please use the latest file version before editing the translations 
 
-4. Please use the latest file version before editing the translations :)
+4. Have you checked out our official Forums? Click [**HERE**](https://forum.treeofsavior.com/) move to the forums for discussion. Please login and click on the github icon to link your github account to it as well.
 
 5. Scroll down for a preview of how real-time translation works in game! 
 
