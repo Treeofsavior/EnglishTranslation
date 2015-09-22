@@ -1057,26 +1057,26 @@ UI_20150317_001056	Use Glow
 UI_20150317_001057	{@st41}Attack{/}
 UI_20150317_001058	{@St41}Defense{/}
 UI_20150317_001059	{@st41}Support{/}
-UI_20150317_001060	{@St41}Difficulty{/}
-UI_20150317_001061	{@St41}Hairstyle
-UI_20150317_001062	{@St41}Rotation
-UI_20150317_001063	{@St43}Create Character
-UI_20150317_001064	{@St59}Create a character with the above information{/}
-UI_20150317_001065	{@St41b}Cancel
-UI_20150317_001066	{@St59}Cancel selecting this character{/}
+UI_20150317_001060	{@st41}Difficulty{/}
+UI_20150317_001061	{@st41}Hairstyle
+UI_20150317_001062	{@st41}Rotation
+UI_20150317_001063	{@st43}Create Character
+UI_20150317_001064	{@st59}Create a character with the above information{/}
+UI_20150317_001065	{@st41b}Cancel
+UI_20150317_001066	{@st59}Cancel selecting this character{/}
 UI_20150317_001067	Character Information
-UI_20150317_001068	{@t41}Bring Along
-UI_20150317_001069	{@St59}Click then select the character for companion to follow{/}
+UI_20150317_001068	{@st41}Bring Along
+UI_20150317_001069	{@st59}After clicking this, select a character for the Companion to follow you{/}
 UI_20150317_001070	UI of Item Creation
-UI_20150317_001071	{S24}Name :
-UI_20150317_001072	{S16} STR :
-UI_20150317_001073	{S16} HP :
-UI_20150317_001074	{S16} AGI :
-UI_20150317_001075	{S16} VIT :
-UI_20150317_001076	{S16} Force :
-UI_20150317_001077	{S18} Class Selection
-UI_20150317_001078	{S18} Right Way Union
-UI_20150317_001079	{S18} Providence Evil Union
+UI_20150317_001071	{s24}Name :
+UI_20150317_001072	{s16} STR :
+UI_20150317_001073	{s16} HP :
+UI_20150317_001074	{s16} AGI :
+UI_20150317_001075	{s16} VIT :
+UI_20150317_001076	{s16} Force :
+UI_20150317_001077	{s18} Class Selection
+UI_20150317_001078	{s18} Right Way Union
+UI_20150317_001079	{s18} Providence Evil Union
 UI_20150317_001080	Hong Moo Moon
 UI_20150317_001081	Dae Do Cheon
 UI_20150317_001082	Fire Swords
@@ -1503,7 +1503,7 @@ UI_20150428_001502	When you report a bug, your gameplay up to that point will be
 UI_20150428_001503	{@st41b}Bug description :{/}
 UI_20150428_001504	{@st41b}Entering a description is not mandatory, but it will help us a lot in analyzing the bug.
 UI_20150428_001505	{@st41b}Send
-UI_20150428_001506	{@st42}{s14}{#ffff00}Lock Target{/}
+UI_20150428_001506	{@st42}{s14}{#ffff00}Target Lock{/}
 UI_20150428_001507	{@st59}Lock your target regardless of distance or direction
 UI_20150428_001508	Party found!
 UI_20150428_001509	Joystick Rest Quickslot
@@ -1723,7 +1723,7 @@ UI_20150717_001722	{@st66b}Quest Class Name{/}
 UI_20150717_001723	{@st59b}Shop{nl}{@st59s} - Use Shift + Right-click and enter a quantity to buy/sell multiple items{nl} - Right-click twice to sell all the items{/}
 UI_20150717_001724	{@st59}Mouse Info{/}
 UI_20150717_001725	{@st66b}Sort
-UI_20150717_001726	{@st59}Sort your items.{/}
+UI_20150717_001726	{@st59}Sorts your items.{/}
 UI_20150717_001727	{@st59}Equip weapons to this slot{nl}Press Alt+Z to swap weapons{/}
 UI_20150717_001728	Spectate another character
 UI_20150717_001729	{@st41}Battle Field
@@ -1774,30 +1774,30 @@ UI_20150807_001773	{memo X}
 UI_20150807_001774	{memo X}
 UI_20150918_001775	Camp Duration
 UI_20150918_001776	Effect
-UI_20150918_001777	Camp duration is increased when refreshed{nl} %s silver requried.
+UI_20150918_001777	Camp duration is increased when renewed{nl} Requires %s silver.
 UI_20150918_001778	Personal Warehouse
 UI_20150918_001779	{@st41b}Type : {@sti7}%s{/}
 UI_20150918_001780	{@st41b}Carve Difficulty : {@sti7}%s{/}
-UI_20150918_001781	I like this player {#ffff00}{ol}%s{/}
-UI_20150918_001782	{@st43}Instance Dungeon
+UI_20150918_001781	{#ffff00}{ol}%s{/} players like this character
+UI_20150918_001782	{@st43}Instanced Dungeons
 UI_20150918_001783	{@st41}Check Location
 UI_20150918_001784	{#000000}Name{/}
-UI_20150918_001785	{#000000}EntranceLevel{/}
-UI_20150918_001786	{#000000}Number of Entrance{/}
-UI_20150918_001787	{#000000}Entry count is reset at %s.{/}
+UI_20150918_001785	{#000000}Entry Level{/}
+UI_20150918_001786	{#000000}Entry Count{/}
+UI_20150918_001787	{#000000}The number of entries will reset at %s.{/}
 UI_20150918_001788	{img silver 20 20} Price
 UI_20150918_001789	Nearby Party Info
 UI_20150918_001790	Fragments needed : %s 
 UI_20150918_001791	{@st66b}Empty
-UI_20150918_001792	{@st42}Show Parties Nearby{/}
+UI_20150918_001792	{@st42}Show Nearby Parties{/}
 UI_20150918_001793	Friendship with {@sti9}%s{@st66b} : {@st66b}Level{/} {@sti9}%s {@st66b}
 UI_20150918_001794	Friendship
 UI_20150918_001795	{@st41b}Obtained crafting materials!
 UI_20150918_001796	{@st66b}{s20}You have become {/}{s20}{#cc6600}{ol}Incapable of Combat {/}{@st66b}{s20}!{/}
-UI_20150918_001797	{@st66b}Restart from nearest revival point{/}
-UI_20150918_001798	{@st66b}Restart here(%s iCoins required){/}
+UI_20150918_001797	{@st66b}Restart from nearest the Revival Point{/}
+UI_20150918_001798	{@st66b}Restart here (requires %s iCoins){/}
 UI_20150918_001799	{@st66b}Return to field{/}
-UI_20150918_001800	{@st66b}Abandone quest and try again{/}
+UI_20150918_001800	{@st66b}Abandon quest and try again{/}
 UI_20150918_001801	{@st66b}Try Again{/}
 UI_20150918_001802	{@st66b}Items Sold{/}
 UI_20150918_001803	{@st53}Ranking Point : %s units
