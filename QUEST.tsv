@@ -100,13 +100,13 @@ QUEST_20150317_000099	Everything that flies out of his mouth is a lie. Don't tru
 QUEST_20150317_000100	Siauliai Guard
 QUEST_20150317_000101	{memo X}There are monsters beyond this point. Be careful.
 QUEST_20150317_000102	These woods aren't exactly peaceful, but it's better than other places. {nl}There are forests that have nothing but spirits roaming about.
-QUEST_20150317_000103	I look for people like you, Revelators, the ones who have seen the Goddess in their dreams.
-QUEST_20150317_000104	From the beginning, I thought of the Revelators' visions as madness. {nl}The Goddesses have been gone for a long time after all.
-QUEST_20150317_000105	$Isn't it true that the Goddesses haven't been responding to our prayers since Medis Diena four years ago?
+QUEST_20150317_000103	$I'm looking for people like you, Revelators, the ones who have seen the Goddess in their dreams.
+QUEST_20150317_000104	$I thought the Revelators' visions were madness at first. {nl}The Goddesses have been gone for a long time after all.
+QUEST_20150317_000105	{memo $ changes linebreak}Isn't it true that the Goddesses haven't been responding to our prayers since Medis Diena four years ago?
 QUEST_20150317_000106	You can find Class Masters all around the kingdom. {nl}Why don't you visit them and learn what you can?
-QUEST_20150317_000107	You don't know? You must have come from really far away. {nl}Four years ago, things went out of control in the capital's center.
-QUEST_20150317_000108	{memo X}It was a disaster… Many people were either injured or killed. {nl}Once gentle creatures grew fierce and many new monsters emerged.
-QUEST_20150317_000109	If you want to understand what happened on Medis Diena four years ago, then go to Klaipeda. {nl}Many of its survivors have taken refuge there.
+QUEST_20150317_000107	$You don't know about Medis Diena? You must have come from really far away. {nl}Four years ago, things went out of control in the capital.
+QUEST_20150317_000108	${memo X}It was a disaster… Many people were either injured or killed. {nl}Once gentle creatures grew fierce and many new monsters emerged.
+QUEST_20150317_000109	$If you want to understand what happened on Medis Diena four years ago, then go to Klaipeda. {nl}Many of its survivors have taken refuge there.
 QUEST_20150317_000110	Eastern Woods Sentinel
 QUEST_20150317_000111	Are you heading to the Eastern Woods? {nl}You mustn't! It's far too dangerous!
 QUEST_20150317_000112	Damn, those stubborn things chased us this far!
@@ -132,7 +132,7 @@ QUEST_20150317_000131	Klaipeda Lady
 QUEST_20150317_000132	We can still grow from the land, and have a warm hearth at our homes to rest at. {nl}I will always believe the Goddess is somewhere in the world.
 QUEST_20150317_000133	Keep faith. {nl}The Goddess may still send a savior to us.
 QUEST_20150317_000134	Hoplite Master
-QUEST_20150317_000135	If the sword is a symbol of power, then the spear is of pure destruction. {nl}Power or destruction. What would you reach for on the battlefield?
+QUEST_20150317_000135	$If the sword is a symbol of power, then the spear is that of pure destruction. {nl}Power or destruction - what would you reach for on the battlefield?
 QUEST_20150317_000136	Machine Worker
 QUEST_20150317_000137	Even with the world as chaotic as it is, we can't stop working. {nl}It's been four years. Isn't it time to make peace with it and start over?
 QUEST_20150317_000138	Klaipeda is a town that lives off its mining. {nl}With Medis Diena, we ought to work on planting trees or cutting them.
@@ -806,7 +806,7 @@ QUEST_20150317_000805	Flower Shop Lady
 QUEST_20150317_000806	People don't buy flowers anymore. {nl}The only flowers they buy are the ones to offer for the Goddesses' return. {nl}It's really depressing in many ways.
 QUEST_20150317_000807	I hope Klaipeda becomes lively like it used to be… {nl}with the fragrance of flowers in the air and people dancing in spring to worship Goddess Zemyna, {nl}the Goddess of the Earth…
 QUEST_20150317_000808	Warning
-QUEST_20150317_000809	Be careful of the Leaf Bug!{nl}They are different from Beetles. {nl}It is hard to fight them when they come in flocks so be careful.
+QUEST_20150317_000809	$Beware of Leaf Bugs! They are different from Beetles. {nl}It is hard to fight them when they come in flocks so be careful. 
 QUEST_20150317_000810	Large Kepa Notice : It is not an onion!{nl}Wearing goggles is useless against Large Kepa. {nl}Watch out for powerful attacks that shake the ground.
 QUEST_20150317_000811	Please worship the image with a pious mind. You will grow stronger with {nl}the Goddess Zemyna's power, blessed from the overseer of the earth herself.
 QUEST_20150317_000812	Goddess Zemyna's Statue lies at the end of this road.
@@ -839,7 +839,7 @@ QUEST_20150317_000838	Hmph… {nl}Who would've thought I'd be challenged by huma
 QUEST_20150317_000839	Your death shall be painful!
 QUEST_20150317_000840	Soldier Recruitment Notice
 QUEST_20150317_000841	We want you! {nl}Protect your family and your kingdom. {nl} - Klaipeda Recruiting Station
-QUEST_20150317_000842	We are seeking brave young men who will bring order to this chaotic time. {nl}You are what the world wants. {nl} - Klaipeda Recruiting Station
+QUEST_20150317_000842	We are seeking brave young men who will bring order to this chaotic time. {nl}The world wants you! {nl} - Klaipeda Recruiting Station
 QUEST_20150317_000843	Honor. {nl}That is what your uniform will be made of. {nl} - Klaipeda Recruiting Station
 QUEST_20150317_000844	Warning! Civilians prohibited.
 QUEST_20150317_000845	{memo X}Only authorized personnel are allowed inside.
@@ -1233,7 +1233,7 @@ QUEST_20150317_001233	{memo X}Since that time, whenever Modestas took on a wager
 QUEST_20150317_001234	Though Modestas died an undefeated, invincible gambler, by then he had never bet anything other than the Goddess' identity, living purely off the profits gained from such bets through the end of his life. {nl}
 QUEST_20150317_001235	{memo X}In the end, this unknown Goddess, in exchange for giving income to a certain gambler from Klaipeda, created an interesting, mysterious, yet beautiful statue for the city of Klaipeda, and a tale to last for times to come.{nl} {nl}
 QUEST_20150317_001236	Talk To Knight Titas
-QUEST_20150317_001237	To the Scout
+QUEST_20150317_001237	$Talk to the Scout
 QUEST_20150317_001238	Road to Klaipeda
 QUEST_20150317_001239	To the Battle Commander
 QUEST_20150317_001240	Sentinel's Favor
@@ -1981,7 +1981,7 @@ QUEST_20150511_001984	$Just don't believe everything he says. {nl}He was known f
 QUEST_20150511_001985	$It would be nice if all these Revelators being here meant that the Goddesses are back.
 QUEST_20150511_001986	$Power is the most important attribute for swordsmen. {nl}You could also train yourself to be agile and possess strong stamina. {nl}You should take a moment to decide on what to prioritize from now on.
 QUEST_20150511_001987	$Power is the most important attribute for archers. {nl}But, of course you can't ignore agile movement. {nl}You should take a moment to decide on what to prioritize from now on.
-QUEST_20150511_001988	$Intelligence is the most important attribute for Clerics. {nl}But sometimes you many need strong power or spirit. {nl}You should take a moment to decide on what to prioritize from now on.
+QUEST_20150511_001988	$Intelligence is the most important attribute for Clerics. {nl}But sometimes you may need more strength or a stronger spirit. {nl}You should take a moment to decide what to prioritize from now on.
 QUEST_20150511_001989	$Helping reconstruct Fedimian may be more meaningful than pottery. {nl}But people need something to soothe their hearts.
 QUEST_20150511_001990	$If I had the diary, I could continue my adventure, but I wasn't chosen… {nl}But for you things might be different…
 QUEST_20150511_001991	{memo X}$If you cleverly use the dry air that forms around areas of severe cold, you'd be able to freeze any object even in a desert. {nl}However, if you can't receive the blessing from the Goddess, it won't be possible to make that kind of air.

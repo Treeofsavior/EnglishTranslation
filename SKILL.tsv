@@ -198,7 +198,7 @@ SKILL_20150317_000197	[Bagworm] Magic, Magic, Poison Property, Frontal Poison Sp
 SKILL_20150317_000198	[Bagworm] Long Distance, Magic, Poison Property, Ranged Poison Shot
 SKILL_20150317_000199	[Saurman Axeman] Normal attack.
 SKILL_20150317_000200	[Saurman Axeman] Normal attack 2.
-SKILL_20150317_000201	Heal
+SKILL_20150317_000201	$Heal
 SKILL_20150317_000202	Monster Heal
 SKILL_20150317_000203	Vubbe Miner Attack
 SKILL_20150317_000204	[Feral Pokubu] Normal attack.
@@ -1430,10 +1430,10 @@ SKILL_20150317_001429	{memo X}{#993399}{ol}[Magic] - [Divine]{/}{/}{nl} Create a
 SKILL_20150317_001430	{memo X}Attack #{SkillAtkAdd}#{nl}Attack count #{CaptionRatio}# times {nl}Magic circle Duration #{CaptionTime}# seconds
 SKILL_20150317_001431	$Safety Zone
 SKILL_20150317_001432	$Creates a magic circle that blocks incoming attacks.
-SKILL_20150317_001433	$Number of blocks: #{SkillFactor}#{nl} Magic Circle Duration: 20 seconds
+SKILL_20150317_001433	$Number of Blocks: #{SkillFactor}#{nl} Magic Circle Duration: 20 seconds
 SKILL_20150317_001434	$Deprotected Zone
 SKILL_20150317_001435	{memo X}Create magic circle that continuously decrease the defense of target.
-SKILL_20150317_001436	$Defense: -#{CaptionRatio}#{nl}Per stack: -#{CaptionRatio2}#{nl}Magic Circle Duration: #{CaptionTime}# seconds
+SKILL_20150317_001436	$Defense: -#{CaptionRatio}#{nl}Per Stack: -#{CaptionRatio2}#{nl}Magic Circle Duration: #{CaptionTime}# seconds
 SKILL_20150317_001437	$Divine Might
 SKILL_20150317_001438	{memo X}Create magic circle that increases skill level of target. Effect is gone when used and cannot be overlapped.
 SKILL_20150317_001439	{memo X}Skill Level: +#{SkillFactor}#{nl}Duration: 10 seconds {nl}Magic Circle Duration: 20 seconds
@@ -1458,7 +1458,7 @@ SKILL_20150317_001457	{memo X}{#993399}{ol}[Magic] - [Divine]{/}{/}{nl}Sprinkle 
 SKILL_20150317_001458	{memo X}Attack #{SkillAtkAdd}#{nl}Defense +#{CaptionRatio}# {nl}Target 10{nl}Duration #{CaptionRatio2}# seconds{nl}Use 1 Holy water
 SKILL_20150317_001459	$Monstrance
 SKILL_20150317_001460	{memo X}Dexterity of allies is increased and randomly create magic circle that cause evasion and Physical damage of enemies to decrease.
-SKILL_20150317_001461	{memo X}$Maximum number of Magic Circles: #{SkillFactor}#{nl}Increases ally's DEX{nl}Enemy's Evasion and Defense: -#{CaptionRatio}#{nl}Magic Circle Duration: 20 seconds
+SKILL_20150317_001461	{memo X}$Maximum number of Magic Circles: #{SkillFactor}#{nl}Increases Ally's DEX{nl}Enemy's Evasion and Defense: -#{CaptionRatio}#{nl}Magic Circle Duration: 20 seconds
 SKILL_20150317_001462	$Blessing
 SKILL_20150317_001463	{memo X}Increase the damage of party members' skills.
 SKILL_20150317_001464	{memo X}Additional Damage + #{CaptionRatio}# {nl} Attack# {CaptionRatio2} # times{nl} {nl} Duration 30 seconds{nl}Use 1 Holy Powder
@@ -2258,7 +2258,7 @@ SKILL_20150317_002257	$Increases Holy attacks by 1 for 5 seconds per level the w
 SKILL_20150317_002258	$Heal: Creating Extra
 SKILL_20150317_002259	{memo X}Receive [Heal] at 2% chance per attribute level when using [Heal].
 SKILL_20150317_002260	$Deprotected Zone: Following Enemies
-SKILL_20150317_002261	$Your Magic Circle of [Deprotected Zone] will follow nearby monsters.
+SKILL_20150317_002261	$Your magic circle of [Deprotected Zone] will follow nearby monsters.
 SKILL_20150317_002262	$Deprotected Zone: Retention Time
 SKILL_20150317_002263	{memo X}Magic circle duration of [Deprotected zone] increase by 1 second per attribute level.
 SKILL_20150317_002264	$Divine Might: Demon-type Damage
@@ -4957,7 +4957,7 @@ SKILL_20150729_004956	$Maximum Duration: 10 seconds{nl}Consumes #{CaptionRatio}#
 SKILL_20150729_004957	$HP recovery: +#{CaptionRatio}#{nl}HP Recovery Time: -#{CaptionRatio2}# seconds{nl}Torch Duration: #{CaptionTime}# seconds
 SKILL_20150729_004958	$Maximum Amount: +#{SkillFactor}#{nl}Duration: 200 seconds
 SKILL_20150729_004959	$Maximum Duration: 20 seconds {nl}Consumes #{CaptionRatio}#% SP per second
-SKILL_20150729_004960	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio}#%{nl}Maximum number of Targets: #{CaptionRatio2}#
+SKILL_20150729_004960	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio}#%{nl}Maximum Number of Targets: #{CaptionRatio2}#
 SKILL_20150729_004961	$STR, CON, INT, SPR, DEX: -#{CaptionRatio}#{nl}Consumes 3% SP per 3 seconds{nl}Maximum Duration: 10 seconds
 SKILL_20150729_004962	$Transmits #{CaptionRatio}# of INT
 SKILL_20150729_004963	$Magic Circle Duration: #{CaptionTime}# seconds
@@ -5107,8 +5107,8 @@ SKILL_20150918_005106	$Consumes #{SpendPoison}# Poison Pot Poison{nl}독충 Dura
 SKILL_20150918_005107	$Zhendu
 SKILL_20150918_005108	$Applies a poison once to the weapon of you and your party members for the next attack.
 SKILL_20150918_005109	$Duration: 30 seconds{nl}Zhendu Duration: #{CaptionRatio}# seconds{nl}Consumes #{SpendPoison}# Poison Pot Poison
-SKILL_20150918_005110	
-SKILL_20150918_005111	
+SKILL_20150918_005110	${#993399}{ol}[Magic] - [Holy]{/}{/}{nl}Creates a magic circle in front of you, healing allies or damaging enemies. Does not affect flying-type monsters. Amount of HP recovered depends on target's max HP.
+SKILL_20150918_005111	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionTime}#%{nl}HP Recovery: 10% of max HP{nl}Additional HP recovery: #{CaptionRatio}# ~ #{CaptionRatio2}# HP{nl}Magic circle duration: 40 seconds
 SKILL_20150918_005112	
 SKILL_20150918_005113	
 SKILL_20150918_005114	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio2}#%{nl}Physical Defense: +#{CaptionRatio}#%{nl}Targets: 10{nl}Duration: #{CaptionTime}# seconds{nl}Consumes 1 Holy Water

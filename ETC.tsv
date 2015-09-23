@@ -1736,7 +1736,7 @@ ETC_20150317_001735	This item does not have enough Potential.
 ETC_20150317_001736	This item does not have enough sockets.
 ETC_20150317_001737	You have insufficient funds.
 ETC_20150317_001738	Level 1 or higher
-ETC_20150317_001739	All Classes
+ETC_20150317_001739	any class
 ETC_20150317_001740	Swordsman 
 ETC_20150317_001741	Archer 
 ETC_20150317_001742	Cleric 
@@ -1760,7 +1760,7 @@ ETC_20150317_001759	{nl}{nl}Number of magic amulets that can be equipped: {Remai
 ETC_20150317_001760	Please select an item to repair.
 ETC_20150317_001761	There is no item to repair.
 ETC_20150317_001762	$Not possible on this item type.
-ETC_20150317_001763	 can equip
+ETC_20150317_001763	{memo part of item requirement, sounds awkward, so removed for now. Originally " can equip"} 
 ETC_20150317_001764	You do not have enough Potential to trade.
 ETC_20150317_001765	Please select an item.
 ETC_20150317_001766	Do you want to consume the selected items to create poison?
@@ -3535,7 +3535,7 @@ ETC_20150317_003534	Chase the Haming!
 ETC_20150317_003535	Defeat the Large Kepa!
 ETC_20150317_003536	Defeat the sealed Golem!
 ETC_20150317_003537	Get rid of the Kepa blocking the road!
-ETC_20150317_003538	Ask about the Dream of the Goddess
+ETC_20150317_003538	$Ask about the Dream of the Goddess
 ETC_20150317_003539	{memo X}Ask about the story
 ETC_20150317_003540	{memo X}Pester and ask about the story
 ETC_20150317_003541	{memo X}You must talk with the guards first
@@ -3811,7 +3811,7 @@ ETC_20150317_003810	Quest Starting Map:
 ETC_20150317_003811	Start NPC:
 ETC_20150317_003812	$ activated {nl}
 ETC_20150317_003813	 Use this to warp anywhere!
-ETC_20150317_003814	This camp does not have an activated Goddess Statue.{nl} Therefore you cannot move.
+ETC_20150317_003814	{memo Check if this appears in any other scenario. Don't put a $ here, changes linebreak.}You have not activated any other Goddess Statue, so you cant teleport yet.
 ETC_20150317_003815	The rest of the area
 ETC_20150317_003816	Rest of the camp
 ETC_20150317_003817	2. Select Siauliai ??Select West Siauliai Woods
@@ -5023,9 +5023,9 @@ ETC_20150317_005022	{memo X}The Mausoleum lanterns are being attacked by the gua
 ETC_20150317_005023	{memo X}Bearkaras' suppressed power has returned.
 ETC_20150317_005024	Panto_Rsword: Hot Panto Fighter: 50/Panto_Rspear: Hot Panto Spearman: 50/Panto_Rhand: Hot Panto: 50/Panto_Rstaff: Hot Panto Wizard: 51
 ETC_20150317_005025	$Crafting the item
-ETC_20150317_005026	I am a Revelator?
+ETC_20150317_005026	$A Revelator?
 ETC_20150317_005027	Ask about the current situation
-ETC_20150317_005028	Ask about Medis Diena that took place four years ago.
+ETC_20150317_005028	$Ask about Medis Diena that took place four years ago.
 ETC_20150317_005029	Ask about the disappearance of the Goddess
 ETC_20150317_005030	Ask what happened
 ETC_20150317_005031	I think you forgot to mention the Goddess Laima
@@ -6050,7 +6050,7 @@ ETC_20150317_006050	{memo X}can obtain character's Status Points
 ETC_20150317_006051	Treasure Chests
 ETC_20150317_006052	 contain obtainable, special items.
 ETC_20150317_006053	Hidden in many fields, 
-ETC_20150317_006054	 can be discovered by your character
+ETC_20150317_006054	 can be discovered by your character.
 ETC_20150317_006055	{memo X}There are many types of treasure chests that you can obtain special items from.
 ETC_20150317_006056	{memo X}You can receive the rewards by pressing {img SPACE 40 40} without any condition for a Lv1 treasure chest.
 ETC_20150317_006057	Keys are used to open Lv2 chests and greater.
@@ -13835,7 +13835,7 @@ ETC_20150729_013836	 gives you Status Points.
 ETC_20150729_013837	 enables you to warp to other areas.
 ETC_20150729_013838	There are many types of treasure chests {nl}and you can obtain special items from them.
 ETC_20150729_013839	You can receive the rewards by pressing {img SPACE 40 40} from level 1 treasure chests.
-ETC_20150729_013840	 You can obtain keys through{nl}progressing in quests.
+ETC_20150729_013840	 keys can be obtained through{nl}progressing in quests.
 ETC_20150729_013841	Socialize with other players.
 ETC_20150729_013842	[Friend] You can check your friends using {img F7 40 40}. Players should agree each other in order to add each other into their Friends List.
 ETC_20150729_013843	Use {img mouseclick_right 40 40} to send a request to another player that you want to become their friend.
