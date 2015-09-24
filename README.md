@@ -1,7 +1,10 @@
-##NOTICE (Updated 21-09-2015)
+##NOTICE (Updated 24-09-2015)
 <br>
 **GUIDELINES IN WIKI HAVE BEEN UPDATED** <br>
 **PLEASE CHECK THE [GUIDELINES](https://github.com/Treeofsavior/EnglishTranslation/wiki/Guidelines) BEFORE SENDING YOUR PULL REQUESTS.**
+
+Please be informed that September 26-29th are holidays in Korea to celebrate Chuseok (Korean Thanksgiving Day).
+Therefore, we will be off these days and continue our work from 30th.
 
 
 1. Latest translations have been updated. (**NEW**)
