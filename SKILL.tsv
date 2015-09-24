@@ -5107,8 +5107,8 @@ SKILL_20150918_005106	$Consumes #{SpendPoison}# Poison Pot Poison{nl}독충 Dura
 SKILL_20150918_005107	$Zhendu
 SKILL_20150918_005108	$Applies a poison once to the weapon of you and your party members for the next attack.
 SKILL_20150918_005109	$Duration: 30 seconds{nl}Zhendu Duration: #{CaptionRatio}# seconds{nl}Consumes #{SpendPoison}# Poison Pot Poison
-SKILL_20150918_005110	${#993399}{ol}[Magic] - [Holy]{/}{/}{nl}Creates a magic circle in front of you, healing allies or damaging enemies. Does not affect flying-type monsters. Amount of HP recovered depends on target's max HP.
-SKILL_20150918_005111	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionTime}#%{nl}HP Recovery: 10% of max HP{nl}Additional HP recovery: #{CaptionRatio}# ~ #{CaptionRatio2}# HP{nl}Magic circle duration: 40 seconds
+SKILL_20150918_005110	${#993399}{ol}[Magic] - [Holy]{/}{/}{nl}Creates a magic circle in front of you, healing allies or damaging enemies. Does not affect airborne enemies. Amount of HP recovered depends on target's maximum HP.
+SKILL_20150918_005111	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionTime}#%{nl}HP Recovery: 10% + #{CaptionRatio}# ~ #{CaptionRatio2}# HP{nl}Magic Circle Duration: 40 seconds
 SKILL_20150918_005112	
 SKILL_20150918_005113	
 SKILL_20150918_005114	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio2}#%{nl}Physical Defense: +#{CaptionRatio}#%{nl}Targets: 10{nl}Duration: #{CaptionTime}# seconds{nl}Consumes 1 Holy Water

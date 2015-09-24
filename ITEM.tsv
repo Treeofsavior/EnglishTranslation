@@ -1768,18 +1768,18 @@ ITEM_20150317_001767	Top
 ITEM_20150317_001768	Stamina +5 Increase Potion 
 ITEM_20150317_001769	Right-click to use. 
 ITEM_20150317_001770	Small HP Potion 
-ITEM_20150317_001771	$Restores 192 HP. {nl}Restores HP every 2 seconds over 15 seconds. {nl}Right-click to use.
+ITEM_20150317_001771	$Restores 192 HP. {nl}Restores HP every 2 seconds over 15 seconds. {nl}Right-click to use.{memo Cooldown of 30 seconds.}
 ITEM_20150317_001772	HP Potion 
 ITEM_20150317_001773	$Restores 320 HP. {nl}Restores HP every 2 seconds over 15 seconds. {nl}Right-click to use. Cooldown of 45 seconds.  
 ITEM_20150317_001774	Large HP Potion 
 ITEM_20150317_001775	$Restores 640 HP. {nl}Restores HP every 2 seconds over 15 seconds. {nl}Right-click to use. Cooldown of 60 seconds. 
 ITEM_20150317_001776	Small SP Potion 
-ITEM_20150317_001777	$Restores 144 SP. {nl}Restores SP every 2 seconds for 15 seconds. {nl}Right-click to use.
+ITEM_20150317_001777	$Restores 144 SP. {nl}Restores SP every 2 seconds for 15 seconds. {nl}Right-click to use.{memo Cooldown of 30 seconds.}
 ITEM_20150317_001778	Restores 240 SP. {nl}Restores SP every 2 seconds for 15 seconds. {nl}Right-click to use. Cooldown of 45 seconds. 
 ITEM_20150317_001779	Large SP Potion 
 ITEM_20150317_001780	Restores 480 SP. {nl}Restores SP every 2 seconds for 15 seconds. {nl}Right-click to use. Cooldown of 60 seconds. 
 ITEM_20150317_001781	Stamina Pill 
-ITEM_20150317_001782	${memo the cooldown is already stated in item popup, thus removed here}Restores 15 Stamina. {nl}Right-click to use. 
+ITEM_20150317_001782	${memo the cooldown is already stated in item popup, thus removed here}Restores 15 Stamina. {nl}Right-click to use.{memo Cooldown of 30 seconds.}
 ITEM_20150317_001783	{memo X}STA Pill (Medium) 
 ITEM_20150317_001784	Restores 30 Stamina. {nl}Right-click to use. Cooldown of 45 seconds. 
 ITEM_20150317_001785	{memo X}STA Pill (Large) 
@@ -6314,7 +6314,7 @@ ITEM_20150918_006313	Carelessly crumpled message. It seems barely readable.
 ITEM_20150918_006314	Vakis's completed research reports. Contains information related to the Royal Tombs. Readable.
 ITEM_20150918_006315	A record written by Hones and Liars's teacher. Say that it contains very important information.
 ITEM_20150918_006316	A jewel that instantly teleports you to a saved location. {nl}Cooldown: 15 minutes
-ITEM_20150918_006317	A stone that will warp you to Klaipeda. {nl}Right-click to use. Cooldown : 20 minutes
+ITEM_20150918_006317	$A stone that will transport you to Klaipeda. {nl}Right-click to use. {nl}Cooldown: 20 minutes
 ITEM_20150918_006318	Magic catalyst used by the Bokors. Bokors craft their own Bokor doll for a better spiritual magic effect.
 ITEM_20150918_006319	An old scroll hidden by the Pyromancer. Readable.
 ITEM_20150918_006320	A bag that seems to have belonged to a messenger. Contains a few reports and some food supplies.

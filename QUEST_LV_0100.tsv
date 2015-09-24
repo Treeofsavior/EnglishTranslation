@@ -262,9 +262,9 @@ QUEST_LV_0100_20150317_000261	$Thank you for your help.{nl}I think this will be 
 QUEST_LV_0100_20150317_000262	{memo X}$)}{nl}If you have time, please tell our troops to assemble.{nl} If you choose not to, you may just go ahead to Klaipeda.
 QUEST_LV_0100_20150317_000263	$Scout
 QUEST_LV_0100_20150317_000264	{memo X}$Go back, it's dangerous!{nl}Kepas will soon be marching in.
-QUEST_LV_0100_20150317_000265	$Oh, you're a Revelator. It must be fate that we are to fight together. {nl}Let me give you an inside scoop.
+QUEST_LV_0100_20150317_000265	$Oh, you're a Revelator. It must be fate that we are to fight together. {}nl}Let me give you an inside scoop.
 QUEST_LV_0100_20150317_000266	{memo X}$You mentioned that we need to assemble, right?{nl}Help me find some missing baggages and I'll go as soon as I can.
-QUEST_LV_0100_20150317_000267	$Have you found my belongings yet? I can't go back without them.
+QUEST_LV_0100_20150317_000267	$Have you found my belongings yet? I can't go back without it.
 QUEST_LV_0100_20150317_000268	$Thank you. You found it sooner than I expected.{nl}
 QUEST_LV_0100_20150317_000269	$If you follow the road to the north, you will find the Search Scout.{nl}Good luck.
 QUEST_LV_0100_20150317_000270	$Laimonas
@@ -287,7 +287,7 @@ QUEST_LV_0100_20150317_000286	$Shouldn't a Revelator be heading to Klaipeda inst
 QUEST_LV_0100_20150317_000287	{memo X}$I feel so relieved to be stationed in the Western Woods.{nl}There are some places where you'd rather die than be stationed.
 QUEST_LV_0100_20150317_000288	{memo X}$When you see a Goddess Statue, try offering your worship.{nl}Surely something nice will happen.
 QUEST_LV_0100_20150317_000289	$This is a dangerous area. What are you doing here?
-QUEST_LV_0100_20150317_000290	$Thank you.{nl}I better go report to Titas about the roaming Large Kepa.
+QUEST_LV_0100_20150317_000290	$Thank you.{nl}I should report the roaming Large Kepa to Titas.
 QUEST_LV_0100_20150317_000291	{memo X}$Weird... That is not a type of monster you'd face in a place like this.{nl}It must be hard to travel around.
 QUEST_LV_0100_20150317_000292	{memo X}$Assemble already?{nl}That's tough. There's still a pile of missions.
 QUEST_LV_0100_20150317_000293	{memo X}$First, defeat the Hanamings around here.{nl}Then, collect their petals.
@@ -530,7 +530,7 @@ QUEST_LV_0100_20150317_000529	Soldiers are reporting that other monsters are app
 QUEST_LV_0100_20150317_000530	Those silly things keep coming to us.{nl}Now may be the only chance we have to go and get Sparnas.{nl}Tell me when you are ready.
 QUEST_LV_0100_20150317_000531	They are just creating so many problems.{nl}They even got their hands on the supplies, I will not feel enough even if I hit him with a bat in the middle of the market.
 QUEST_LV_0100_20150317_000532	What? Tutu?{nl}I don't have time to think about those insignificant critters.
-QUEST_LV_0100_20150317_000533	$When you level up, you can increase an attribute of your choice and become stronger. {nl} Would you like to try doing so now?
+QUEST_LV_0100_20150317_000533	$When you level up, you can increase a status of your choice and become stronger. {nl} Would you like to try doing so now?
 QUEST_LV_0100_20150317_000534	It's important to keep in mind what you would want to be. {nl} That's never an easy thing.
 QUEST_LV_0100_20150317_000535	{memo X}Yes. That's how you do it. {nl} Pretty simple, huh?
 QUEST_LV_0100_20150317_000536	Aras is in the center area of the Woods. {nl} But there has been a tremendous increase in monsters around here so I suggest you don't go in.
@@ -2367,17 +2367,17 @@ QUEST_LV_0100_20150317_002366	$Return to Knight Titas
 QUEST_LV_0100_20150317_002367	{memo X}$[Tutorial] Talk to Knight Titas (2)
 QUEST_LV_0100_20150317_002368	{memo X}$Offer to help gather soldiers
 QUEST_LV_0100_20150317_002369	$Reject
-QUEST_LV_0100_20150317_002370	$Talk to the Scouts (1)
+QUEST_LV_0100_20150317_002370	$Talk to the Scout (1)
 QUEST_LV_0100_20150317_002371	$I'm just here to tell the troops to assemble
 QUEST_LV_0100_20150317_002372	$Quickly run away
-QUEST_LV_0100_20150317_002373	$Talk to the Scouts (2)
-QUEST_LV_0100_20150317_002374	$I'll find the missing luggage
+QUEST_LV_0100_20150317_002373	$Talk to the Scout (2)
+QUEST_LV_0100_20150317_002374	$I'll find the missing belongings.
 QUEST_LV_0100_20150317_002375	$I'll wait until you find it
 QUEST_LV_0100_20150317_002376	{memo X}$key to check the map #7
 QUEST_LV_0100_20150317_002377	$To Knight Titas (3)
 QUEST_LV_0100_20150317_002378	$Alright
 QUEST_LV_0100_20150317_002379	$Cancel
-QUEST_LV_0100_20150317_002380	$To the Search Scout
+QUEST_LV_0100_20150317_002380	$Talk to the Search Scout
 QUEST_LV_0100_20150317_002381	$There is an order to assemble
 QUEST_LV_0100_20150317_002382	$Nothing. Never mind
 QUEST_LV_0100_20150317_002383	{memo X}$Notice/!/ Use jump to avoid attacks from the Large Kepa!
@@ -2390,11 +2390,11 @@ QUEST_LV_0100_20150317_002389	$I can do that
 QUEST_LV_0100_20150317_002390	$The Road to Klaipeda (2)
 QUEST_LV_0100_20150317_002391	$I'll lend my strength to you
 QUEST_LV_0100_20150317_002392	$Enter Klaipeda
-QUEST_LV_0100_20150317_002393	$To the Battle Commander (1)
+QUEST_LV_0100_20150317_002393	$Talk to Battle Commander (1)
 QUEST_LV_0100_20150317_002394	$I'll help out with the missions
 QUEST_LV_0100_20150317_002395	$I'll wait then
 QUEST_LV_0100_20150317_002396	$About the monsters
-QUEST_LV_0100_20150317_002397	$To the Battle Commander (2)
+QUEST_LV_0100_20150317_002397	$Talk to Battle Commander (2)
 QUEST_LV_0100_20150317_002398	$Accept
 QUEST_LV_0100_20150317_002399	$Start of Trouble
 QUEST_LV_0100_20150317_002400	$I'll try to look for them
@@ -2851,8 +2851,8 @@ QUEST_LV_0100_20150317_002850	That would not happen.
 QUEST_LV_0100_20150317_002851	{memo X}Notice/!/Defeat Chafer!
 QUEST_LV_0100_20150317_002852	Attack of Mushcaria
 QUEST_LV_0100_20150317_002853	{memo X}Notice/!/Defeat Muchcaria!#8
-QUEST_LV_0100_20150317_002854	Try to learn skills
-QUEST_LV_0100_20150317_002855	Try to learn skills
+QUEST_LV_0100_20150317_002854	Learning skills
+QUEST_LV_0100_20150317_002855	Try to learn a skill
 QUEST_LV_0100_20150317_002856	Give me time to think about it
 QUEST_LV_0100_20150317_002857	{memo X}Press the key to check the skills. #7
 QUEST_LV_0100_20150317_002858	Black-colored Honor (1)
@@ -3537,8 +3537,8 @@ QUEST_LV_0100_20150317_003536	Another enemy
 QUEST_LV_0100_20150317_003537	I'll go and check on it
 QUEST_LV_0100_20150317_003538	Fear from the Sky (1)
 QUEST_LV_0100_20150317_003539	I'll participate
-QUEST_LV_0100_20150317_003540	$Using Attribute Points
-QUEST_LV_0100_20150317_003541	Try increasing an Attribute.
+QUEST_LV_0100_20150317_003540	$Using Status Points
+QUEST_LV_0100_20150317_003541	Try increasing a Status.
 QUEST_LV_0100_20150317_003542	{memo X}to check status #7
 QUEST_LV_0100_20150317_003543	The Road Back 
 QUEST_LV_0100_20150317_003544	Not As Intended (2)
@@ -4676,7 +4676,7 @@ QUEST_LV_0100_20150317_004675	Mushcaria that suddenly appeared
 QUEST_LV_0100_20150317_004676	Defeat Mushcaria
 QUEST_LV_0100_20150317_004677	Defeat Mushcaria
 QUEST_LV_0100_20150317_004678	Learn how to earn skills from the Search Scout.
-QUEST_LV_0100_20150317_004679	Learn new skills.
+QUEST_LV_0100_20150317_004679	Learn how to earn skills from{nl} the Search Scout.
 QUEST_LV_0100_20150317_004680	key to open the Skill window and learn skills. Try learning a skill.
 QUEST_LV_0100_20150317_004681	You have successfully learned a new skill. Talk to the Soldier again
 QUEST_LV_0100_20150317_004682	$Talk to the Guardian's Stone Statue
@@ -8095,10 +8095,10 @@ QUEST_LV_0100_20150908_008094
 QUEST_LV_0100_20150908_008095	
 QUEST_LV_0100_20150908_008096	
 QUEST_LV_0100_20150918_008097	$This place has become dangerous ever since monsters emerged on Medis Diena.{nl}Go back quickly while you still can, Kepas will overrun this position soon.
-QUEST_LV_0100_20150918_008098	$Ah, you said you came to tell me about the order to assemble, right?{nl}If you help me to find my luggage, I will be able to do so more quickly.
+QUEST_LV_0100_20150918_008098	$Ah, you said you came to tell me about the order to assemble, right?{nl}If you help me to find my belongings, I will be able to do so more quickly.
 QUEST_LV_0100_20150918_008099	Have you tried offering your worship to a Goddess Statue yet?{nl}The Goddesses might have forsaken us, but I still believe in them.
 QUEST_LV_0100_20150918_008100	I was worried that the monsters caused harm to the Goddess Statue.{nl}Even though the world is messed up.. It's terrible.
-QUEST_LV_0100_20150918_008101	Hey, I'm really in a bind.{nl}Who knew that the Kepa could grow so big.. Is it because of Medis Diena?
+QUEST_LV_0100_20150918_008101	$This has really gotten out of hand.{nl}Who knew that Kepas could grow so big...{nl}I wonder if it's because of Medis Diena?
 QUEST_LV_0100_20150918_008102	Don't forget to worship a Goddess Statue when you see one.{nl}It'll give you a blessing. I hope the Goddess hasn't forgotten about us.
 QUEST_LV_0100_20150918_008103	
 QUEST_LV_0100_20150918_008104	We need to assemble already?{nl}Even though the world may be on the brink of destruction, I can't accept this kind of insane order.{nl}I have enough missions on my hand as it is.
@@ -8116,8 +8116,8 @@ QUEST_LV_0100_20150918_008115
 QUEST_LV_0100_20150918_008116	
 QUEST_LV_0100_20150918_008117	
 QUEST_LV_0100_20150918_008118	Thank you for the regards from Laimonas.{nl}You should enter Klaipeda. Uska is waiting for the Revelators.
-QUEST_LV_0100_20150918_008119	There might be more of these Large Kepas roaming in the area nearby.{nl}Could you take a look for me, please?{nl}
-QUEST_LV_0100_20150918_008120	Just like I said so, right? It was this instinct that kept me alive during Medis Diena.
+QUEST_LV_0100_20150918_008119	$There might be more of these Large Kepas roaming in the area nearby.{nl}Could you take a look for me, please?{nl}
+QUEST_LV_0100_20150918_008120	$It was just as I thought, right? It was this instinct that kept me alive during Medis Diena.
 QUEST_LV_0100_20150918_008121	It's been too long, my men should've come back, but I haven't heard anything from them yet.{nl}I know it's been four years since Medis Diena, but my men are getting too relaxed recently.
 QUEST_LV_0100_20150918_008122	
 QUEST_LV_0100_20150918_008123	The Goddesses disappearing, things like golems appearing... {nl}Is there really any hope?
