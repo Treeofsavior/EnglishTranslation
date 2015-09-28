@@ -6005,7 +6005,7 @@ QUEST_LV_0200_20150401_006008	{memo X}Yoana wants to check what the force flowin
 QUEST_LV_0200_20150401_006009	{memo X}Bring the Goddess Statue
 QUEST_LV_0200_20150401_006010	{memo X}Jonas wants the power of Goddess. It seems like Yoana has the answer to the power of Goddess. Go and meet Yoana.
 QUEST_LV_0200_20150401_006011	Place the Goddess Statue in the magic circle
-QUEST_LV_0200_20150401_006012	Place the Goddess Statue you got from Yoana on the magic circle.
+QUEST_LV_0200_20150401_006012	$Place the Goddess Statue you got from Yoana on the magic circle.
 QUEST_LV_0200_20150401_006013	{memo X}Check the crops
 QUEST_LV_0200_20150401_006014	{memo X}Both the magic circle and Goddess statue disappeared when you placed the statue on the magic circle. Check what happened to the crops that Jonaris was worried about and tell Jonaris about it.
 QUEST_LV_0200_20150401_006015	{memo X}Tell Jonaris that the magic circle and statue broke and whent he magic circle disappeared, the crops turned back to normal.
@@ -6269,7 +6269,7 @@ QUEST_LV_0200_20150406_006272	Did you solve it? {nl}That's great. But there are 
 QUEST_LV_0200_20150406_006273	If the magic circles are really a like, then you should be able to remove the magic circles in Talia trails with Goddess' power. {nl}I mean something like the Goddess Statue. Is there any way to get it?
 QUEST_LV_0200_20150406_006274	If the magic circle really is good, I can just pay more rent and ask for forgiveness. {nl}We'll know for sure if we check with Goddess' power.
 QUEST_LV_0200_20150406_006275	But if it isn't, the baron better prepared. {nl}He fooled us, harmed the land, and lose colleagues.
-QUEST_LV_0200_20150406_006276	Indeed Yoana had it. Use that power to remove the magic circle. {nl}Then checking the crops around will make it sure.
+QUEST_LV_0200_20150406_006276	$Indeed Yoana had it. Use that power to remove the magic circle. {nl}Then checking the crops around will make it sure.
 QUEST_LV_0200_20150406_006277	You're just in time. {nl}You said you needed this Goddess Statue, right? Here, take it.
 QUEST_LV_0200_20150406_006278	I used the secretion you got to glue the pieces and indeed, it was a Goddess Statue. {nl}But this is all I can do so.. It might break easily.
 QUEST_LV_0200_20150406_006279	{memo X}The magic circle will be a problem whether it's good or bad. {nl}But at least, it's better than begging the baron.
@@ -6341,7 +6341,7 @@ QUEST_LV_0200_20150406_006344	Forgotten magic field(1)
 QUEST_LV_0200_20150406_006345	{memo X}Notice/!/Go back to Limas and report him about the magic field.#5
 QUEST_LV_0200_20150406_006346	{memo X}Sprinkling murky purifying liquid/STANDSPINKLE/1/TRACK_BEFORE/None
 QUEST_LV_0200_20150406_006347	{memo X}Notice/!/The magic field wants the monsters strongly!#5
-QUEST_LV_0200_20150406_006348	About menticen
+QUEST_LV_0200_20150406_006348	$About Mentiken
 QUEST_LV_0200_20150406_006349	{memo X}Notice/!/It looks like the head of the sculpture.{nl}Dig it from the ground.#5
 QUEST_LV_0200_20150406_006350	{memo X}Digging the head part of the sculpture/SITGROPE/2/TRACK_BEFORE/None
 QUEST_LV_0200_20150406_006351	{memo X}Investigating the box/LOOK/2/TRACK_BEFORE/SSN_HATE_AROUND
@@ -6387,8 +6387,8 @@ QUEST_LV_0200_20150406_006390	There's no strange energy as Arunas told you, but 
 QUEST_LV_0200_20150406_006391	Start the ritual to eliminate the strange energy
 QUEST_LV_0200_20150406_006392	Arunas requested you to do the ritual to eliminate the strange energy. Pile up the magic field where there's strange energy and burn the spell doll.
 QUEST_LV_0200_20150406_006393	You burnt the spell doll, but strangely the crops withered. Report this to Arunas.
-QUEST_LV_0200_20150406_006394	Talk to Limas
-QUEST_LV_0200_20150406_006395	Limas needs your help. Talk to Limas.
+QUEST_LV_0200_20150406_006394	$Talk to Limas
+QUEST_LV_0200_20150406_006395	$Limas needs your help. Talk to Limas.
 QUEST_LV_0200_20150406_006396	Look for the magic field that needs to be enhanced
 QUEST_LV_0200_20150406_006397	Look for the magic field that needs to be enhanced among the magic fields that is blocking the strange energy.
 QUEST_LV_0200_20150406_006398	Eliminate the strage crystal
@@ -6399,18 +6399,18 @@ QUEST_LV_0200_20150406_006402	Look closely at the other magic fields
 QUEST_LV_0200_20150406_006403	You should find the weak magic fields and enhance them. Look for the magic fields that are not working properly.
 QUEST_LV_0200_20150406_006404	{memo X}Collect the magical power of the monsters and bury them near the magic field
 QUEST_LV_0200_20150406_006405	{memo X}In order to enhance the magic fields, you should put the magical power into the bottles and bury them near the magic fields. Each bottle could only contain one kind of magical power.
-QUEST_LV_0200_20150406_006406	Report to Limas
-QUEST_LV_0200_20150406_006407	You've enhanced the magic fields. Go back to Limas and report.
-QUEST_LV_0200_20150406_006408	Limas told you that there are lots of other things to care about besides the magic fields. Talk to Limas.
+QUEST_LV_0200_20150406_006406	$Report to Limas
+QUEST_LV_0200_20150406_006407	$You've enhanced the magic fields. Go back to Limas and report.
+QUEST_LV_0200_20150406_006408	$Limas told you that there are lots of other things to care about besides the magic fields. Talk to Limas.
 QUEST_LV_0200_20150406_006409	Protect the storage from the monsters
-QUEST_LV_0200_20150406_006410	Limas told you that the monsters are going after the storage where the fuel of the power generator is accumulated. Please help Limas.
-QUEST_LV_0200_20150406_006411	You've defeated the monsters that were about to attack the storage. Tell Limas about it.
-QUEST_LV_0200_20150406_006412	It seems there are more magic fields besides the ones that Limas told you about. Get closer to the magic fields to look more carefully.
-QUEST_LV_0200_20150406_006413	The magic field is vibrating strangely unlike a while ago. First, go back to Limas and ask.
+QUEST_LV_0200_20150406_006410	$Limas told you that the monsters are going after the storage where the fuel of the power generator is stored. Help Limas.
+QUEST_LV_0200_20150406_006411	$You've defeated the monsters that were about to attack the storage. Tell Limas about it.
+QUEST_LV_0200_20150406_006412	$It seems there are more magic fields besides the ones that Limas told you about. Get closer to the magic fields to look more carefully.
+QUEST_LV_0200_20150406_006413	$The magic field is vibrating strangely unlike a while ago. First, go back to Limas and ask.
 QUEST_LV_0200_20150406_006414	Sprinkle the murky purification liquid on the magic fields
-QUEST_LV_0200_20150406_006415	Take the murky purification liquid that Limas gave to you and sprinkle it on the magic fields. You don't know why the vicious energies are enhancing the magic fields, but let's get some more information by doing what he told you.
+QUEST_LV_0200_20150406_006415	$Take the murky purification liquid that Limas gave you and sprinkle it on the magic fields. You don't know why the vicious energies are enhancing the magic fields, but let's get some more information by doing what he told you.
 QUEST_LV_0200_20150406_006416	Check the magic fields again
-QUEST_LV_0200_20150406_006417	The magic fields will now be enhanced since you sprinkled the murky purification liquid that Limas gave to you. Let's take a look at it again.
+QUEST_LV_0200_20150406_006417	$The magic fields will now be enhanced since you sprinkled the murky purification liquid that Limas gave to you. Let's take a look at it again.
 QUEST_LV_0200_20150406_006418	When the magic field was about to be enhanced, the monsters suddenly rushed in! It seems that they are lured to the murky purification liquid. Go defeat the monsters first.
 QUEST_LV_0200_20150406_006419	{memo X}This magic field strongly wants the monsters. Bring the monsters near the magic fields and defeat them.
 QUEST_LV_0200_20150406_006420	Talk to Veknews
@@ -6976,7 +6976,7 @@ QUEST_LV_0200_20150428_006979	Get monster's fluid from the monsters
 QUEST_LV_0200_20150428_006980	{memo X}This sanctuary also seems contaminated. Go to Pardoner Master for advice. You can move to Fedimian Outskirts easily if you buy the scroll from beside the stand.
 QUEST_LV_0200_20150428_006981	Velochard has been defeated and a treasure chest appeared! Open it.
 QUEST_LV_0200_20150428_006982	Use the portal in Parasa Altar and go to the room with revelation. You need to pass the final test of Mayvern to get the revelation.
-QUEST_LV_0200_20150428_006983	Baron secretary Arunas wants you to check the crops and a 'strange aura'. Go to the area Arunas is pointing and check it out. Move to the area marked in the map and check for a strange aura. Then pull out the crops nearby to check.
+QUEST_LV_0200_20150428_006983	$Baron secretary Arunas wants you to check the crops and a 'strange aura'. Go to the area Arunas is pointing and check it out. Move to the area marked in the map and check for a strange aura. Then pull out the crops nearby to check.
 QUEST_LV_0200_20150428_006984	$This magic circle strongly wants monster energy. Lure monsters over the magic circle and defeat them.
 QUEST_LV_0200_20150428_006985	Kupole Audra asked for your help to defeat the demons that are performing rituals in Rituala Assembly Area to help Demon Lord Bloot escape.
 QUEST_LV_0200_20150428_006986	We interrupted the ritual for Bloot's escape. Go back and report to Kupole Audra of Velnias Prison jail cell area.
@@ -7037,7 +7037,7 @@ QUEST_LV_0200_20150511_007040	Monsters poured out when you worshipped on the san
 QUEST_LV_0200_20150511_007041	Royal Investigation member Yukurt seems to have sensed something. Talk to Yukurt again.
 QUEST_LV_0200_20150511_007042	Get the secret hint from the platform in Memile Library and find the holy artifacts of mercy. If you have difficulties in solving the secrets, call on the soul of Aurelius and ask him for help.
 QUEST_LV_0200_20150511_007043	It's suspicious that a wooden liquir barrel is lying off the beaten path. Go and take a look at it.
-QUEST_LV_0200_20150511_007044	Yoana wants to find out what the strange aura near Ramus Crossroad is. Attack the monster to drop its HP below 50% then bring it to the strange aura below the magic circle and try to talk to it.
+QUEST_LV_0200_20150511_007044	$Yoana wants to find out what the strange aura near Ramus Crossroad is. Attack the monster to drop its HP below 50% then bring it to the strange aura below the magic circle and try to talk to it.
 QUEST_LV_0200_20150511_007045	Goddess Vakarine's strength alone is not enough to close the gap of contamination. Talk to Goddess Vakarine.
 QUEST_LV_0200_20150511_007046	Nuaelle is gone from Velnias Prison and to stabilize it, Kupole Arune asked you defeat the remaining demons in 1st Isolation Area.
 QUEST_LV_0200_20150714_007047	I really want to help the soldiers who are trying to clear the Forest of Thorns, but sadly I just don't have the means to.{nl} Could you do something about the Treegul(?) thats harassing the soldiers?
