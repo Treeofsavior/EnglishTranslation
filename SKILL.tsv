@@ -3143,7 +3143,7 @@ SKILL_20150401_003142	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Gather
 SKILL_20150401_003143	{memo X}{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Swong the spear over head to continuously attack enemies in front.
 SKILL_20150401_003144	{memo X}Attack #{SkillAtkAdd}#{nl}Max. Duration 10 seconds{nl}Splash #{SkillSR}#{nl}Can use while riding
 SKILL_20150401_003145	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Tie enemy with rope and drag it.{nl}Enemy received damage every time it is pulled and falls under Bleed state when released.
-SKILL_20150401_003146	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Kick the the enemy away with your foot after releasing a powerful stab.
+SKILL_20150401_003146	${#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Release a powerful stab to the enemy, then kick it away with your foot.
 SKILL_20150401_003147	{memo X}Attack using stab continuously.
 SKILL_20150401_003148	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Make solid landing when jumping or on air to damage enemies.
 SKILL_20150401_003149	$Weapon Maintenance
@@ -3189,7 +3189,7 @@ SKILL_20150401_003188	{memo X}Change direction of formation
 SKILL_20150401_003189	{memo X}The direction you face become front
 SKILL_20150401_003190	Attack speed increases while defense decreases per damage received.
 SKILL_20150401_003191	{memo X}Attack + #{CaptionRatio}#% {nl}Defense - #{CaptionRatio}#%{nl}Max. repeat #{CaptionRatio2}# times{nl}Duration #{CaptionTime}# seconds
-SKILL_20150401_003192	Temporarily does not become stunned, pushed away, nor fall.
+SKILL_20150401_003192	$Temporarily renders damage to the body incapable of inflicting knock back, knock down or stiffness.
 SKILL_20150401_003193	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use back of sword to smack down enemy.
 SKILL_20150401_003194	{memo X}Kill the enemy within set attack counts for additional EXP and rewards. But damage and Incapable of combate penalty also increases while the effects last.
 SKILL_20150401_003195	Attack limit #{CaptionRatio}# times{nl}EXP, Drop rate x2
@@ -3603,15 +3603,15 @@ SKILL_20150406_003602	$[Pardoner] Craft Anti-Magic
 SKILL_20150414_003603	Shovelling
 SKILL_20150414_003604	Detect metal
 SKILL_20150414_003605	Water spray
-SKILL_20150414_003606	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Use the end of your weapon to push an enemy away with a strong stab.
-SKILL_20150414_003607	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Inflicts damage to an enemy with a powerful attack.
+SKILL_20150414_003606	${#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Use the end of your weapon to push enemies away with a strong stab.
+SKILL_20150414_003607	${#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Inflicts damage to an enemy with a powerful attack.
 SKILL_20150414_003608	$Become determined by temporarily increasing your attack, while decreasing your defense.
 SKILL_20150414_003609	$Increases your attack power.
 SKILL_20150414_003610	Reduce your max. HP but enemy has high chance of faint.
-SKILL_20150414_003611	Chance of Enemy Faint #{CaptionRatio}#%{nl}Max. HP -#{CaptionRatio2}# {nl}Duration #{CaptionTime}# seconds
+SKILL_20150414_003611	$Chance of Stunning Enemy: #{CaptionRatio}#%{nl}Max. HP -#{CaptionRatio2}# {nl}Duration: #{CaptionTime}# seconds
 SKILL_20150414_003612	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Strike enemy with sword handle.{nl}Inflict additional damage on fainted monsters, and partially ignore defense of small and medium sized enemies.
-SKILL_20150414_003613	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use bump of shield to attack. Inflict additional attack on enemies under block.
-SKILL_20150414_003614	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use corner of shield to attack. Inflict additional on frozen enemies.
+SKILL_20150414_003613	${#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use the bump of your shield to attack enemies. Blocking provides additional damage on stiffed enemies.
+SKILL_20150414_003614	${#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use the edge of your shield to attack enemies. Inflicts additional damage on both petrified and frozen enemies.
 SKILL_20150414_003615	$Hit your shield to provoke nearby enemies making them pursue you.
 SKILL_20150414_003616	$Increases your defense while decreasing your attack. Cannot be used with Gung Ho.
 SKILL_20150414_003617	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Throw shield to attack. Shield dropped on ground may disappear if not picked up within time limit.
@@ -3633,19 +3633,19 @@ SKILL_20150414_003632	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Strongly attack
 SKILL_20150414_003633	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Smack down enemy using shield with change of enemy falling under [Dark].
 SKILL_20150414_003634	{memo X}Attack #{SkillAtkAdd}#{nl}Defense -#{CaptionRatio}# {nl}{#339999}{ol}[Unbalance]{/}{/} Duration 5 seconds
 SKILL_20150414_003635	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Hold key to bend down and move forward. Evasion increases and attacks enemy after moving.
-SKILL_20150414_003636	{#DD5500}{ol}[Physical] - [Pierce] - [Strike]{/}{/}{nl}Use sword and shield to attack continuously.
-SKILL_20150414_003637	{#DD5500}{ol}[Pierce]{/}{/}{nl}Penetrate small, medium sized enemy on spear and bring around. Enemy skewed can be used to attack other enemies.
+SKILL_20150414_003636	{memo X}{#DD5500}{ol}[Physical] - [Pierce] - [Strike]{/}{/}{nl}Use sword and shield to attack continuously.
+SKILL_20150414_003637	${#DD5500}{ol}[Pierce]{/}{/}{nl}Impales a small or medium-type monster with a spear. It is possible to attack other enemies with a skewered enemy.
 SKILL_20150414_003638	$Increases your movement speed while riding.
 SKILL_20150414_003639	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Dash forward and attack enemy.
 SKILL_20150414_003640	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Gather force and strongly stab enemy with tip of spear.
 SKILL_20150414_003641	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Throw spear over head to attack.
 SKILL_20150414_003642	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Drag around and hit enemy.
-SKILL_20150414_003643	ATK increases when continuously attacking same enemy.
+SKILL_20150414_003643	$Increases your attack when you keep repeatedly attacking one particular enemy.
 SKILL_20150414_003644	{memo X}Your attack hits target but chance of critical and critical evasion decreases?
 SKILL_20150414_003645	Temporarily make stab attacks be applied as repeated attacks.
 SKILL_20150414_003646	{memo X}Temporarily decrease defense of nearby enemies, and add that much to your ATK.
 SKILL_20150414_003647	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Tramp down on enemy while on air or jumping.
-SKILL_20150414_003648	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Dash forward and attack enemies blocking the way.
+SKILL_20150414_003648	${#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Charge forward to attack enemies blocking your way.
 SKILL_20150414_003649	$Giant Swing
 SKILL_20150414_003650	{memo X}USe centrifugal force to throw away enemy.
 SKILL_20150414_003651	{memo X}Open shop to repair weapon and temporarily increase its performance.
@@ -5048,14 +5048,14 @@ SKILL_20150918_005047
 SKILL_20150918_005048	$Vertical Slash
 SKILL_20150918_005049	
 SKILL_20150918_005050	
-SKILL_20150918_005051	
+SKILL_20150918_005051	$Attack per Stack: +#{CaptionRatio}#{nl}Maximum Stacks: #{CaptionRatio2}#{nl}Duration: #{CaptionTime}# seconds
 SKILL_20150918_005052	$Helm Chopper
 SKILL_20150918_005053	
 SKILL_20150918_005054	$Seism
 SKILL_20150918_005055	
 SKILL_20150918_005056	$Cleave
 SKILL_20150918_005057	
-SKILL_20150918_005058	
+SKILL_20150918_005058	${#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Use your shield and sword to successively attack enemies.
 SKILL_20150918_005059	$Shield Shoving
 SKILL_20150918_005060	
 SKILL_20150918_005061	
@@ -5124,13 +5124,13 @@ SKILL_20150918_005123
 SKILL_20150918_005124	
 SKILL_20150918_005125	
 SKILL_20150918_005126	$Zombie Capsule
-SKILL_20150918_005127	
-SKILL_20150918_005128	
-SKILL_20150918_005129	
-SKILL_20150918_005130	
-SKILL_20150918_005131	
-SKILL_20150918_005132	
-SKILL_20150918_005133	
+SKILL_20150918_005127	$Number of Warps: #{CaptionRatio}#{nl}Goddess Statue Duration: 30 seconds{nl}Consumes 1 Oak Wood
+SKILL_20150918_005128	$SP -#{CaptionRatio}#{nl}Goddess Statue Duration: #{CaptionRatio2}# seconds{nl}Consumes 1 Pine Wood
+SKILL_20150918_005129	$Cooldown Time: -#{CaptionRatio}#%{nl}Goddess Statue Duration: #{CaptionRatio2}# seconds{nl}Consumes 1 Cedar Wood
+SKILL_20150918_005130	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio2}#%{nl}Number of Blocks: #{CaptionRatio}#{nl}Duration: #{CaptionTime}# seconds{nl}Consumes 2 Oak Wood
+SKILL_20150918_005131	$Carve Statue Duration: #{CaptionRatio}# seconds{nl}Consumes 1 Ash Wood 1
+SKILL_20150918_005132	${#339999}{ol}[Goddess' Blessing]{/}{/} Duration: #{CaptionRatio}# seconds{nl}Goddess Statue Duration: 30 seconds{nl}Consumes 1 Cedar Wood
+SKILL_20150918_005133	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio}#%{nl}Up to 5 users{nl}Maximum Duration: 10 seconds
 SKILL_20150918_005134	
 SKILL_20150918_005135	
 SKILL_20150918_005136	$Conviction
@@ -5147,7 +5147,7 @@ SKILL_20150918_005146
 SKILL_20150918_005147	$Maximum SP: +#{CaptionRatio}#%{nl}Maximum STA: +#{CaptionRatio2}#{nl}Duration: #{CaptionTime}# minutes
 SKILL_20150918_005148	$Prophecy
 SKILL_20150918_005149	$Grants a temporary effect preventing Lv. 1 abnormal status effects to nearby party members.
-SKILL_20150918_005150	$Duration: #{CaptionTime}# seconds{nl}적용 횟수 #{CaptionRatio}#
+SKILL_20150918_005150	$Duration: #{CaptionTime}# seconds{nl}Applies #{CaptionRatio}# times
 SKILL_20150918_005151	$Increased STR stat.
 SKILL_20150918_005152	$Increased Movement Speed and maximum HP.
 SKILL_20150918_005153	$Bwa Kayiman state.
@@ -5156,13 +5156,13 @@ SKILL_20150918_005155	$Immune to Lv. 1 abnormal status
 SKILL_20150918_005156	$Increased Magic Defense.
 SKILL_20150918_005157	
 SKILL_20150918_005158	
-SKILL_20150918_005159	
-SKILL_20150918_005160	
-SKILL_20150918_005161	
+SKILL_20150918_005159	$Fire, Ice, Electricity, Earth and Poison Properties Decrease
+SKILL_20150918_005160	$Block Increase
+SKILL_20150918_005161	$Accuracy Decrease
 SKILL_20150918_005162	
-SKILL_20150918_005163	$Able to equip [Cloth] armor. In addition, your maximum SP increases when you equip 3 or more pieces of [Cloth] armor. Your magic defense increases once you have 4 [Cloth] armor pieces equipped.
-SKILL_20150918_005164	$Able to equip [Leather] armor. In addition, your evasion increases when you equip 3 or more pieces of [Leather] armor. Your evasion of attributes increases by 50% once you have 4 [Leather] armor pieces equipped.
-SKILL_20150918_005165	$Able to equip [Plate] armor. In addition, your maximum HP increases when you equip 3 or more pieces of [Plate] armor. Your maximum stamina increases once you have 4 [Plate] armor pieces equipped.
+SKILL_20150918_005163	$Able to equip [Cloth] armor. In addition, your maximum SP increases when you equip 3 or more pieces of [Cloth] armor. Your Magic Defense increases once you have 4 [Cloth] armor pieces equipped.
+SKILL_20150918_005164	$Able to equip [Leather] armor. In addition, your Evasion increases when you equip 3 or more pieces of [Leather] armor. Your Evasion of additional attributes increases by 50% once you have 4 [Leather] armor pieces equipped.
+SKILL_20150918_005165	$Able to equip [Plate] armor. In addition, your maximum HP increases when you equip 3 or more pieces of [Plate] armor. Your maximum Stamina increases once you have 4 [Plate] armor pieces equipped.
 SKILL_20150918_005166	$Double Slash: Critical
 SKILL_20150918_005167	$Shield Guard
 SKILL_20150918_005168	$Umbo Thrust: Enhance
