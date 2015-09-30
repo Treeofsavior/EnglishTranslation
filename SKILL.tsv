@@ -1014,7 +1014,7 @@ SKILL_20150317_001013	$Warcry
 SKILL_20150317_001014	{memo X}Reduces the nearby target's defense and add it to your attack.
 SKILL_20150317_001015	$Targets: #{CaptionRatio}#{nl} Maximum Physical Defense: -#{CaptionRatio2}#{nl}Duration: #{CaptionTime}# seconds
 SKILL_20150317_001016	$Stomping Kick
-SKILL_20150317_001017	{memo X}${#DD5500}{ol}[Strike]{/}{/}{nl} Stomp down on a target while airborne.
+SKILL_20150317_001017	{memo X}${#DD5500}{ol}[Blunt]{/}{/}{nl} Stomp down on a target while airborne.
 SKILL_20150317_001018	{memo X}Weapon Maintenance
 SKILL_20150317_001019	{memo X}Open a shop to repair weapons.
 SKILL_20150317_001020	{memo X}Armor Maintenance
@@ -1058,7 +1058,7 @@ SKILL_20150317_001057	$Murmillo 2
 SKILL_20150317_001058	$Defend yourself against attacks from enemies.
 SKILL_20150317_001059	{memo X}Buff Duration #{CaptionTime}#sec{nl}#Paering Probability {CaptionRatio}#%
 SKILL_20150317_001060	{memo X}Use shoulder to tackle and push away enemy
-SKILL_20150317_001061	{memo X}{#CC3300}{ol}[Strike]{/}{/} Attribute{nl} Attack #{SkillFactor}#%+#{SkillAtkAdd}#{nl}Splash #{SkillSR}#{nl} SP Consumed #{SpendSP}#
+SKILL_20150317_001061	{memo X}{#CC3300}{ol}[Blunt]{/}{/} Attribute{nl} Attack #{SkillFactor}#%+#{SkillAtkAdd}#{nl}Splash #{SkillSR}#{nl} SP Consumed #{SpendSP}#
 SKILL_20150317_001062	{memo X}Increase Knockdown Power
 SKILL_20150317_001063	{memo X}Use chain to capture and fling nearby enemy.
 SKILL_20150317_001064	$Curse
@@ -1255,7 +1255,7 @@ SKILL_20150317_001254	{memo X}Duration #{CaptionTime}# seconds, Defend 6 times, 
 SKILL_20150317_001255	{memo X}Surround target with powerful energy. Inflict damage to those nearby target.
 SKILL_20150317_001256	{memo X}Attack rate #{SkillFactor}#, Splash #{SkillSR}#
 SKILL_20150317_001257	{memo X}Drop meteor around and inflict [Fire] damage on enemies.
-SKILL_20150317_001258	{memo X}[Fire] [Strike] Damage + #{SkillFactor}#{nl} meteor count #{CaptionRatio}#{nl} Dog Splash #{SkillSR}#{nl} consumption SP #{SpendSP}#
+SKILL_20150317_001258	{memo X}[Fire] [Blunt] Damage + #{SkillFactor}#{nl} meteor count #{CaptionRatio}#{nl} Dog Splash #{SkillSR}#{nl} consumption SP #{SpendSP}#
 SKILL_20150317_001259	{memo X}Freeze enemy.
 SKILL_20150317_001260	$Countdown
 SKILL_20150317_001261	{memo X}Turn back time of allies. HP, SP, STA, Skill cool
@@ -1292,7 +1292,7 @@ SKILL_20150317_001291	$Steady Aim
 SKILL_20150317_001292	{memo X}Attak power increase but attack speed decrease.
 SKILL_20150317_001293	$Additional Damage: +#{CaptionRatio}#{nl}Attack Speed: -#{CaptionRatio2}#% {nl}Duration: 40 seconds
 SKILL_20150317_001294	$Time Bomb Arrow
-SKILL_20150317_001295	{memo X}{#DD5500}{ol}[Physical] [Strike]{/}{/}{nl}Hang a bomb on an arrow and shoot it at an enemy.
+SKILL_20150317_001295	{memo X}{#DD5500}{ol}[Physical] [Blunt]{/}{/}{nl}Hang a bomb on an arrow and shoot it at an enemy.
 SKILL_20150317_001296	{memo X}Attack #{SkillAtkAdd}#{nl}Bomb duration 5 seconds
 SKILL_20150317_001297	$Bounce Shot
 SKILL_20150317_001298	{memo X}{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Shoot an arrow that bounces off the target to hit nearby enemies.
@@ -1312,13 +1312,13 @@ SKILL_20150317_001311	$Stone Picking
 SKILL_20150317_001312	{memo X}Pick up stone projectiles found on the field. Cannot be obtained in town.
 SKILL_20150317_001313	$Obtainable Stone Bullets: #{SkillFactor}#
 SKILL_20150317_001314	$Stone shot
-SKILL_20150317_001315	{memo X}{#DD5500}{ol}[Physical] [Strike]{/}{/}{nlFire stone bullet and push away enemy. Target becomes stun by chance.
+SKILL_20150317_001315	{memo X}{#DD5500}{ol}[Physical] [Blunt]{/}{/}{nlFire stone bullet and push away enemy. Target becomes stun by chance.
 SKILL_20150317_001316	{memo X}Attack #{SkillAtkAdd}#{nl}{#339999}{ol}[Stun]{/}{/} Duration #{CaptionRatio2}# seconds{nl}Use 1 stone bullet
 SKILL_20150317_001317	$Rapid Fire
 SKILL_20150317_001318	{memo X}{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl} Load multiple arrows into your crossbow and then quickly shoot them at the enemy.
 SKILL_20150317_001319	{memo X}Attack #{SkillAtkAdd}#{nl}Max. loading time #{CaptionTime}# seconds
 SKILL_20150317_001320	$Broom Trap
-SKILL_20150317_001321	{memo X}{#DD5500}{ol}[Physical] [Strike]{/}{/}{nl}Install a trap that damages nearby enemies.
+SKILL_20150317_001321	{memo X}{#DD5500}{ol}[Physical] [Blunt]{/}{/}{nl}Install a trap that damages nearby enemies.
 SKILL_20150317_001322	$Attack: #{SkillAtkAdd}#{nl}Duration: 15 seconds
 SKILL_20150317_001323	{memo X}{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Install a trap that fires buckshot and damages enemy.
 SKILL_20150317_001324	{memo X}Attack #{SkillAtkAdd}#{nl}Splash #{CaptionRatio}#
@@ -1326,7 +1326,7 @@ SKILL_20150317_001325	$Punji Stake
 SKILL_20150317_001326	{memo X}{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Install trap that blows away enemies when stepping on it.
 SKILL_20150317_001327	{memo X}Attack #{SkillAtkAdd}#{nl}Cast Time 3 seconds
 SKILL_20150317_001328	$Detonate Traps
-SKILL_20150317_001329	{memo X}{#DD5500}{ol}[Physical] [Strike]{/}{/}{nl}Detonate nearby traps and magic circles to damage enemies.
+SKILL_20150317_001329	{memo X}{#DD5500}{ol}[Physical] [Blunt]{/}{/}{nl}Detonate nearby traps and magic circles to damage enemies.
 SKILL_20150317_001330	{memo X}Attack #{SkillAtkAdd}#{nl}Bomb explosion #{CaptionRatio}# times
 SKILL_20150317_001331	$Coursing
 SKILL_20150317_001332	{memo X}Companion bites and holds on to target. Bonus chance of critical is applied on target.
@@ -1486,7 +1486,7 @@ SKILL_20150317_001485	$Mackangdal
 SKILL_20150317_001486	{memo X}Throw amulet on target. Becomes invincible while under effect but receive accumulated damage when effect is gone.
 SKILL_20150317_001487	$Invincibility duration: #{CaptionTime}# seconds
 SKILL_20150317_001488	$Bwa Kayiman
-SKILL_20150317_001489	{memo X}{#DD5500}{ol}[Physical] [Strike]{/}{/}{nl}Zombies roam around target area. Enemies are pushed away and damaged when toufching the zombies.
+SKILL_20150317_001489	{memo X}{#DD5500}{ol}[Physical] [Blunt]{/}{/}{nl}Zombies roam around target area. Enemies are pushed away and damaged when toufching the zombies.
 SKILL_20150317_001490	{memo X}Attack #{SkillAtkAdd}#{nl}Summoned zombie required
 SKILL_20150317_001491	$Samdiveve
 SKILL_20150317_001492	{memo X}Place a flag on the ground that increases the Movement speed and max HP of nearby targets.
@@ -1532,7 +1532,7 @@ SKILL_20150317_001531	$Transmit Prana
 SKILL_20150317_001532	{memo X}Give INT to target in front.
 SKILL_20150317_001533	{memo X}Intelligence passed #{CaptionRatio}#
 SKILL_20150317_001534	$Smite
-SKILL_20150317_001535	{memo X}{#DD5500}{ol}[Physical] [Strike]{/}{/}{nl}Strike down the enemy with a powerful blow.
+SKILL_20150317_001535	{memo X}{#DD5500}{ol}[Physical] [Blunt]{/}{/}{nl}Strike down the enemy with a powerful blow.
 SKILL_20150317_001536	$Restoration
 SKILL_20150317_001537	{memo X}Invoke aura and increase HP recovery of targets nearby.
 SKILL_20150317_001538	$HP Recovery: +#{CaptionRatio}#{nl} Aura Duration: 60 seconds
@@ -1867,7 +1867,7 @@ SKILL_20150317_001866	$Unbalance
 SKILL_20150317_001867	Enemies become defenseless and vulnerable to knock down attacks.
 SKILL_20150317_001868	{memo X}Enemy's companion bites and holds. Become vulnerable to arrow attacks.
 SKILL_20150317_001869	Defense increases while attack decreases.
-SKILL_20150317_001870	Become vulnerable to stabbing attacks.
+SKILL_20150317_001870	Become vulnerable to piercing attacks.
 SKILL_20150317_001871	Play the flute.
 SKILL_20150317_001872	Whistle.. Somehow I want to follow it
 SKILL_20150317_001873	$Murmillo
@@ -2280,7 +2280,7 @@ SKILL_20150317_002279	$Recovers the maximum HP of a revived character with [Resu
 SKILL_20150317_002280	$Resurrection: Revive Count
 SKILL_20150317_002281	{memo X}Number of targets revived by [Resurrection] increases by 1 per Attribute level.
 SKILL_20150317_002282	$Blunt Mastery: Stun
-SKILL_20150317_002283	{memo X}Enemies attacked with [Strike] type basic attacks have a 2% chance per Attribute level of being Stunned.
+SKILL_20150317_002283	{memo X}Enemies attacked with [Blunt] type basic attacks have a 2% chance per Attribute level of being Stunned.
 SKILL_20150317_002284	$Krivis: Fire Property Resistance
 SKILL_20150317_002285	{memo X}Character's Fire Resistance increases by 5 per attribute level while Dark Resistance decreases by 3 per attribute level.
 SKILL_20150317_002286	$Zalciai: Intelligence
@@ -2412,7 +2412,7 @@ SKILL_20150317_002411	$Increases your movement speed by 10% per attribute level 
 SKILL_20150317_002412	$Undistance: Physical Damage
 SKILL_20150317_002413	{memo X}Physical attack of allies within [Undistance] increases by 5% per attribute level.
 SKILL_20150317_002414	$Reconnaissance: Pierce Damage
-SKILL_20150317_002415	Monsters revealed with [Reconaissance] receive 10% more stab damage per level while the skill is enabled.
+SKILL_20150317_002415	Monsters revealed with [Reconaissance] receive 10% more Pierce damage per level while the skill is enabled.
 SKILL_20150317_002416	Be Prepared: Reset Aggro
 SKILL_20150317_002417	Character's aggro value held by enemy resets when using [Be Prepared]
 SKILL_20150317_002418	$Sneak Hit: Duration
@@ -3122,30 +3122,30 @@ SKILL_20150323_003121	$Ice Property: Slow
 SKILL_20150323_003122	{memo X}Using Ice Property attacks to finsih enemies will slow down nearby enemies.
 SKILL_20150323_003123	$Deprotected Zone: Sword Attack
 SKILL_20150323_003124	{memo X}Using sword attacks on enemies with [Depreotected Zone] dereases defense.
-SKILL_20150401_003125	[Woodfung] Physical, Strike, Non-Attribute Attack
-SKILL_20150401_003126	[Velleg] Physical, Strike, Dark Property Attack
+SKILL_20150401_003125	[Woodfung] Physical, Blunt, Non-Attribute Attack
+SKILL_20150401_003126	[Velleg] Physical, Blunt, Dark Property Attack
 SKILL_20150401_003127	$Right-handed Pistol (Pistol Only)
-SKILL_20150401_003128	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use sword handle to smack enemy.{nl}Attack stunned enemies for additinal damage. Damage ignore bonus applies to small and medium sized monsters.
+SKILL_20150401_003128	{memo X}{#DD5500}{ol}[Physical] - [Blunt]{/}{/}{nl}Use sword handle to smack enemy.{nl}Attack stunned enemies for additinal damage. Damage ignore bonus applies to small and medium sized monsters.
 SKILL_20150401_003129	{memo X}Attack #{SkillAtkAdd}#{nl}Ingnore small, medium target defense #{CaptionRatio}#{nl}Splash #{SkillSR}#
 SKILL_20150401_003130	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Slash enemies sidewards.{nl}Attack enemies under Bleed state for additional damage.
-SKILL_20150401_003131	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Throw shield to attack. Shield falls on the ground and must be picked up to reuse.
+SKILL_20150401_003131	{memo X}{#DD5500}{ol}[Physical] - [Blunt]{/}{/}{nl}Throw shield to attack. Shield falls on the ground and must be picked up to reuse.
 SKILL_20150401_003132	{memo X}Change to stance using Shield. Block and Critiacal resistance increase but basic attack decreases.
 SKILL_20150401_003133	{memo X}Block + #{CaptionRatio}# {nl}Critical resistance + #{CaptionRatio2}# {nl}Attack - #{CaptionTime}#%
-SKILL_20150401_003134	{memo X}{#DD5500}{ol}[Physical] - [Strike] - [Slash]{/}{/}{nl}Use corner of shield to attack then Slash enemy.
-SKILL_20150401_003135	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use back of knife to strike and push away enemy. Enemy falls under Armor Break (Permanent on monsters)
+SKILL_20150401_003134	{memo X}{#DD5500}{ol}[Physical] - [Blunt] - [Slash]{/}{/}{nl}Use corner of shield to attack then Slash enemy.
+SKILL_20150401_003135	{memo X}{#DD5500}{ol}[Physical] - [Blunt]{/}{/}{nl}Use back of knife to strike and push away enemy. Enemy falls under Armor Break (Permanent on monsters)
 SKILL_20150401_003136	{memo X}{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Pierce the enemy.{nl}Continuous attack bonus is applied depending on size of enemy.
 SKILL_20150401_003137	{memo X}{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Throw spear to attack enemy. Spear falls on ground and should be picked up to reuse.
 SKILL_20150401_003138	$Slithering
 SKILL_20150401_003139	{memo X}Attack #{SkillAtkAdd}#{nl}Splash #{SkillSR}#{nl}Can use when riding
-SKILL_20150401_003140	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Gather force and smash the ground with weapon to attack target.
-SKILL_20150401_003141	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Charge forward and push away enemy.
-SKILL_20150401_003142	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Gather force and stab the enemy.
+SKILL_20150401_003140	{memo X}{#DD5500}{ol}[Physical] - [Blunt]{/}{/}{nl}Gather force and smash the ground with weapon to attack target.
+SKILL_20150401_003141	{memo X}{#DD5500}{ol}[Physical] - [Blunt]{/}{/}{nl}Charge forward and push away enemy.
+SKILL_20150401_003142	{memo X}{#DD5500}{ol}[Physical] - [Blunt]{/}{/}{nl}Gather force and stab the enemy.
 SKILL_20150401_003143	{memo X}{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Swong the spear over head to continuously attack enemies in front.
 SKILL_20150401_003144	{memo X}Attack #{SkillAtkAdd}#{nl}Max. Duration 10 seconds{nl}Splash #{SkillSR}#{nl}Can use while riding
-SKILL_20150401_003145	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Tie enemy with rope and drag it.{nl}Enemy received damage every time it is pulled and falls under Bleed state when released.
+SKILL_20150401_003145	{memo X}{#DD5500}{ol}[Physical] - [Blunt]{/}{/}{nl}Tie enemy with rope and drag it.{nl}Enemy received damage every time it is pulled and falls under Bleed state when released.
 SKILL_20150401_003146	${#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Release a powerful stab to the enemy, then kick it away with your foot.
 SKILL_20150401_003147	{memo X}Attack using stab continuously.
-SKILL_20150401_003148	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Make solid landing when jumping or on air to damage enemies.
+SKILL_20150401_003148	{memo X}{#DD5500}{ol}[Physical] - [Blunt]{/}{/}{nl}Make solid landing when jumping or on air to damage enemies.
 SKILL_20150401_003149	$Weapon Maintenance
 SKILL_20150401_003150	{memo X}Open shop for repairing weapons. ATK is added when repaired.
 SKILL_20150401_003151	$Increases attack equal to [Skill Level]×[Number of Weapon Stars]{nl}Attack Count: #{CaptionRatio2}#{nl}Duration: 4 hour
@@ -3165,7 +3165,7 @@ SKILL_20150401_003164	{memo X}Stick flag that boosts the combat abilities of the
 SKILL_20150401_003165	{memo X}Flag duration: 30 seconds.
 SKILL_20150401_003166	Capture enemy with hook.
 SKILL_20150401_003167	{memo X}Capture time 5 seconds
-SKILL_20150401_003168	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use Iron Hook to drag enemy. Enemy receives damage every time it is pulled.
+SKILL_20150401_003168	{memo X}{#DD5500}{ol}[Physical] - [Blunt]{/}{/}{nl}Use Iron Hook to drag enemy. Enemy receives damage every time it is pulled.
 SKILL_20150401_003169	{memo X}Attack #{SkillFactor}#% + #{SkillAtkAdd}#{nl}#{CaptionRatio}# continuous hits
 SKILL_20150401_003170	{memo X}Can open locked treasure chest.
 SKILL_20150401_003171	{memo X}Can open Treaure Chests below LV #{CaptionRatio}#
@@ -3190,7 +3190,7 @@ SKILL_20150401_003189	{memo X}The direction you face become front
 SKILL_20150401_003190	Attack speed increases while defense decreases per damage received.
 SKILL_20150401_003191	{memo X}Attack + #{CaptionRatio}#% {nl}Defense - #{CaptionRatio}#%{nl}Max. repeat #{CaptionRatio2}# times{nl}Duration #{CaptionTime}# seconds
 SKILL_20150401_003192	$Temporarily renders damage to the body incapable of inflicting knock back, knock down or stiffness.
-SKILL_20150401_003193	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use back of sword to smack down enemy.
+SKILL_20150401_003193	{memo X}{#DD5500}{ol}[Physical] - [Blunt]{/}{/}{nl}Use back of sword to smack down enemy.
 SKILL_20150401_003194	{memo X}Kill the enemy within set attack counts for additional EXP and rewards. But damage and Incapable of combate penalty also increases while the effects last.
 SKILL_20150401_003195	Attack limit #{CaptionRatio}# times{nl}EXP, Drop rate x2
 SKILL_20150401_003196	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Deeply stab the enemy that collapsed.
@@ -3253,22 +3253,22 @@ SKILL_20150401_003252	{memo X}{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Shoot 
 SKILL_20150401_003253	{memo X}{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Fire two arrows simultaneusly.
 SKILL_20150401_003254	{memo X}{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Using this attack to kill enemy will cause arrows to flick nearby the enemy.
 SKILL_20150401_003255	{memo X}Collect stone bullets in field. Cannot be collected in town.
-SKILL_20150401_003256	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Destroy pavise to damage target in front.
+SKILL_20150401_003256	{memo X}{#DD5500}{ol}[Physical] - [Blunt]{/}{/}{nl}Destroy pavise to damage target in front.
 SKILL_20150401_003257	{memo X}Attack #{SkillAtkAdd}#{nl}Can destroy Ice Wall, Dirty Wall
 SKILL_20150401_003258	{memo X}Move quickly towards target and shoot arrow.
 SKILL_20150401_003259	{memo X}Hide installation from enemies
 SKILL_20150401_003260	Conceal duration #{CaptionRatio}# minutes
-SKILL_20150401_003261	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Flame is fumed and damage target in the area.
+SKILL_20150401_003261	{memo X}{#DD5500}{ol}[Physical] - [Blunt]{/}{/}{nl}Flame is fumed and damage target in the area.
 SKILL_20150401_003262	{memo X}{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Install trap where arrows are fired when touching wire.
 SKILL_20150401_003263	{memo X}Attack #{SkillAtkAdd}#{nl}No. of Arrows #{CaptionRatio}#{nl}Install range #{CaptionRatio2}#
-SKILL_20150401_003264	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Install bomb surrounding target. Bomb explosed when touching enemy.
+SKILL_20150401_003264	{memo X}{#DD5500}{ol}[Physical] - [Blunt]{/}{/}{nl}Install bomb surrounding target. Bomb explosed when touching enemy.
 SKILL_20150401_003265	{memo X}Attack #{SkillAtkAdd}#{nl}Install #{CaptionRatio}#
 SKILL_20150401_003266	{memo X}Evasion - #{CaptionRatio}# {nl}Pointing AI duration 10 minutes
 SKILL_20150401_003267	{memo X}Detect hidden monster{nl}Hounding AI duration 10 minutes
 SKILL_20150401_003268	{memo X}Companion guards against monsters approaching.
 SKILL_20150401_003269	{#339999}{ol}[Fear]{/}{/} Duration #{CaptionRatio}# seconds{nl}If distance between player and companion is at least {nl}250 meters, disable AI{nl}Growling AI Duration 10 minutes
 SKILL_20150401_003270	{memo X}{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Shoot arrows that make noise. It also affects target's surroundings.
-SKILL_20150401_003271	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Shoot flash arrows on the ground. Flash pops and shoots sparks to enemies nearby.
+SKILL_20150401_003271	{memo X}{#DD5500}{ol}[Physical] - [Blunt]{/}{/}{nl}Shoot flash arrows on the ground. Flash pops and shoots sparks to enemies nearby.
 SKILL_20150401_003272	{memo X}Max. duration 10 seconds{nl}Consume #{CaptionRatio}# SP per second
 SKILL_20150401_003273	{memo X}Rate of Critical temporarily increases when attacked form behind.
 SKILL_20150401_003274	Rate of Critical + #{CaptionRatio}#%{nl}Duration #{CaptionTime}# seconds
@@ -3280,9 +3280,9 @@ SKILL_20150401_003279	{memo X}Steal enemy's trap or magic circle. You can used t
 SKILL_20150401_003280	Acquire #{CaptionRatio}# enemy's lenolium
 SKILL_20150401_003281	Increase Evasion.
 SKILL_20150401_003282	Evasion rate +#{CaptionRatio}#% {nl}Duration #{CaptionTime}# seconds
-SKILL_20150401_003283	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Using this attack to kill enemy explodes target. Strength of party members is temporarily increased.
+SKILL_20150401_003283	{memo X}{#DD5500}{ol}[Physical] - [Blunt]{/}{/}{nl}Using this attack to kill enemy explodes target. Strength of party members is temporarily increased.
 SKILL_20150401_003284	{memo X}Attack #{SkillAtkAdd}#{nl}STR + #{CaptionRatio}#{nl}Duration #{CaptionTime}# seconds
-SKILL_20150401_003285	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Throw tear gas bomb. Target affected fall into Blind state.
+SKILL_20150401_003285	{memo X}{#DD5500}{ol}[Physical] - [Blunt]{/}{/}{nl}Throw tear gas bomb. Target affected fall into Blind state.
 SKILL_20150401_003286	{memo X}Attack #{SkillAtkAdd}#{nl}Tear gas Duration #{CaptionTime}# seconds
 SKILL_20150401_003287	{memo X}{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Continuously attack enemy with sword. Increases critical rate, no. of strikes are different each time.
 SKILL_20150401_003288	{memo X}Attack #{SkillAtkAdd}#{nl}Hit 1~4 times{nl}Critical rate #{CaptionRatio}#%
@@ -3294,12 +3294,12 @@ SKILL_20150401_003293	{memo X}{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Shoot 
 SKILL_20150401_003294	{memo X}Attack #{SkillAtkAdd}#{nl}Cloth armor 1 hit{nl}Leather armor 2 hits{nl}Plate armor 3 hits{nl}Ghost armor N/A{nl}Use 1 Barbed Arrow
 SKILL_20150401_003295	{memo X}{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Using this attack to kill enemy will shoot arrow that explosed in cross.
 SKILL_20150401_003296	{memo X}Attack #{SkillAtkAdd}#{nl}Explosion Attack #{CaptionRatio}#%{nl}Use1 Hail Mary Arrow
-SKILL_20150401_003297	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Shoot quick fire at enemies.
-SKILL_20150401_003298	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Shoot forward while moving back.
-SKILL_20150401_003299	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Quickly move towards target and fire shots.
+SKILL_20150401_003297	{memo X}{#DD5500}{ol}[Physical] - [Blunt]{/}{/}{nl}Shoot quick fire at enemies.
+SKILL_20150401_003298	{memo X}{#DD5500}{ol}[Physical] - [Blunt]{/}{/}{nl}Shoot forward while moving back.
+SKILL_20150401_003299	{memo X}{#DD5500}{ol}[Physical] - [Blunt]{/}{/}{nl}Quickly move towards target and fire shots.
 SKILL_20150401_003300	{memo X}Attack #{SkillAtkAdd}#{nl}Can use while riding
 SKILL_20150401_003301	Retreat Shot
-SKILL_20150401_003302	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Shoot opposite the direction you move.
+SKILL_20150401_003302	{memo X}{#DD5500}{ol}[Physical] - [Blunt]{/}{/}{nl}Shoot opposite the direction you move.
 SKILL_20150401_003303	Erase sign to remove monsters' threat and is not attacked first by monsters.
 SKILL_20150401_003304	Create Guardian Saint magic circle. Target receives damage instead of skill caster.
 SKILL_20150401_003305	{memo X}Guardian Saint Duration #{CaptionTime}#seconds{nl}Magic Circle Duration #{CaptionRatio}# seconds
@@ -3315,15 +3315,15 @@ SKILL_20150401_003314	{memo X}SP - #{CaptionRatio}# {nl}Goddess Statue duration 
 SKILL_20150401_003315	{memo X}Splash + #{CaptionRatio}# {nl}Goddess Statue duration 30 seconds{nl}Use 5 cedar wood
 SKILL_20150401_003316	{memo X}Attack #{SkillAtkAdd}#{nl}Block #{CaptionRatio}# times{nl}Duration #{CaptionTime}# seconds{nl}Use 2 Oak wood
 SKILL_20150401_003317	{memo X}Statue Duration #{CaptionRatio}# seconds{nl}Use #{CaptionRatio2}# ash woods
-SKILL_20150401_003318	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Push away enemiesand cause damage to nearby enemies.
+SKILL_20150401_003318	{memo X}{#DD5500}{ol}[Physical] - [Blunt]{/}{/}{nl}Push away enemiesand cause damage to nearby enemies.
 SKILL_20150401_003319	{memo X}Attack #{SkillAtkAdd}#{nl}Long range projectile, can't defend magic
-SKILL_20150401_003320	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Punch target twice.
-SKILL_20150401_003321	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use palm to push away enemy.
-SKILL_20150401_003322	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use hand knife to smack down enemy.
-SKILL_20150401_003323	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Shortly stretch hands to push away target and exhause target's SP. Target temporarily received continuous damage.
-SKILL_20150401_003324	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Gather force and shoot forward. Target hit is pushed back and receives damage.
+SKILL_20150401_003320	{memo X}{#DD5500}{ol}[Physical] - [Blunt]{/}{/}{nl}Punch target twice.
+SKILL_20150401_003321	{memo X}{#DD5500}{ol}[Physical] - [Blunt]{/}{/}{nl}Use palm to push away enemy.
+SKILL_20150401_003322	{memo X}{#DD5500}{ol}[Physical] - [Blunt]{/}{/}{nl}Use hand knife to smack down enemy.
+SKILL_20150401_003323	{memo X}{#DD5500}{ol}[Physical] - [Blunt]{/}{/}{nl}Shortly stretch hands to push away target and exhause target's SP. Target temporarily received continuous damage.
+SKILL_20150401_003324	{memo X}{#DD5500}{ol}[Physical] - [Blunt]{/}{/}{nl}Gather force and shoot forward. Target hit is pushed back and receives damage.
 SKILL_20150401_003325	{memo X}Hit damage 30%~50%{nl}Consume #{CaptionRatio}# SP per 0.5 seconds
-SKILL_20150401_003326	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Throw coin to attack enemy. Max SP of target decrease temporarily.
+SKILL_20150401_003326	{memo X}{#DD5500}{ol}[Physical] - [Blunt]{/}{/}{nl}Throw coin to attack enemy. Max SP of target decrease temporarily.
 SKILL_20150401_003327	{memo X}Attack #{SkillAtkAdd}#{nl}Duration #{CaptionRatio}# seconds{nl}Use #{CaptionRatio2}# silver
 SKILL_20150401_003328	{memo X}Temporarily defense against damage.
 SKILL_20150401_003329	{memo X}Long range projectile, can defend magic
@@ -3531,29 +3531,29 @@ SKILL_20150401_003530	$Enhanced the damage of [Carnivory] to Druid's 3rd Circle 
 SKILL_20150401_003531	$Use Pistol
 SKILL_20150401_003532	{memo X}Can use [Pistol] weapons
 SKILL_20150406_003533	$Poisonous Arrow
-SKILL_20150406_003534	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use bump of shield to attack.{nl}Block enemy's attack first then attack for additional damage.
-SKILL_20150406_003535	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use corner of shield to attack.{nl}Attack petrifies, frozen enemies for additional damage.
-SKILL_20150406_003536	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Throw shield to attack enemy. Shield falls on the ground and it must be picked up to reuse.
-SKILL_20150406_003537	{memo X}{#DD5500}{ol}[Physical] - [Strike] - [Slash]{/}{/}{nl}Attach using corner of the shield then slash.
-SKILL_20150406_003538	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Gather force and smash the ground with weapon to attack target.
-SKILL_20150406_003539	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Smach enemy's head. Temporarily decrease INT and SPR of target.
-SKILL_20150406_003540	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use back of knife to strike and push away enemy. Enemy falls under Armor Break (Permanent on monsters)
-SKILL_20150406_003541	{memo X}{#DD5500}{ol}[Physical] - [Pierce] - [Strike]{/}{/}{nl}Use shield and spear to attack enemy.
-SKILL_20150406_003542	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}March forward while pressing down key. Enemies nearby are hit with shield and falls down.
-SKILL_20150406_003543	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use shield to smack enemy. Target falls under darkness at a high rate.
-SKILL_20150406_003544	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use shield to interrupt enemy.{nl}Target falls under unbalanced status.
+SKILL_20150406_003534	{memo X}{#DD5500}{ol}[Physical] - [Blunt]{/}{/}{nl}Use bump of shield to attack.{nl}Block enemy's attack first then attack for additional damage.
+SKILL_20150406_003535	{memo X}{#DD5500}{ol}[Physical] - [Blunt]{/}{/}{nl}Use corner of shield to attack.{nl}Attack petrifies, frozen enemies for additional damage.
+SKILL_20150406_003536	{memo X}{#DD5500}{ol}[Physical] - [Blunt]{/}{/}{nl}Throw shield to attack enemy. Shield falls on the ground and it must be picked up to reuse.
+SKILL_20150406_003537	{memo X}{#DD5500}{ol}[Physical] - [Blunt] - [Slash]{/}{/}{nl}Attach using corner of the shield then slash.
+SKILL_20150406_003538	{memo X}{#DD5500}{ol}[Physical] - [Blunt]{/}{/}{nl}Gather force and smash the ground with weapon to attack target.
+SKILL_20150406_003539	{memo X}{#DD5500}{ol}[Physical] - [Blunt]{/}{/}{nl}Smach enemy's head. Temporarily decrease INT and SPR of target.
+SKILL_20150406_003540	{memo X}{#DD5500}{ol}[Physical] - [Blunt]{/}{/}{nl}Use back of knife to strike and push away enemy. Enemy falls under Armor Break (Permanent on monsters)
+SKILL_20150406_003541	{memo X}{#DD5500}{ol}[Physical] - [Pierce] - [Blunt]{/}{/}{nl}Use shield and spear to attack enemy.
+SKILL_20150406_003542	{memo X}{#DD5500}{ol}[Physical] - [Blunt]{/}{/}{nl}March forward while pressing down key. Enemies nearby are hit with shield and falls down.
+SKILL_20150406_003543	{memo X}{#DD5500}{ol}[Physical] - [Blunt]{/}{/}{nl}Use shield to smack enemy. Target falls under darkness at a high rate.
+SKILL_20150406_003544	{#DD5500}{ol}[Physical] - [Blunt]{/}{/}{nl}Use shield to interrupt enemy.{nl}Target falls under unbalanced status.
 SKILL_20150406_003545	{memo X}{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Use shield as lead and march forward while pressing key. Release key to use slash enemy.
 SKILL_20150406_003546	{memo X}Attack #{SkillAtkAdd}#{nl}Max. Duration 10 seconds
-SKILL_20150406_003547	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Gather force and smash the ground with weapon to attack enemy.
-SKILL_20150406_003548	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Charge forward and push away enemy.
-SKILL_20150406_003549	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Gather force and stab the enemy.
-SKILL_20150406_003550	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Tie enemy and drag around.{nl}Enemy is damaged when moving and Bleeds when released.
-SKILL_20150406_003551	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Make solid landing while jumping or on air to damage enemies.
+SKILL_20150406_003547	{#DD5500}{ol}[Physical] - [Blunt]{/}{/}{nl}Gather force and smash the ground with weapon to attack enemy.
+SKILL_20150406_003548	{memo X}{#DD5500}{ol}[Physical] - [Blunt]{/}{/}{nl}Charge forward and push away enemy.
+SKILL_20150406_003549	{memo X}{#DD5500}{ol}[Physical] - [Blunt]{/}{/}{nl}Gather force and stab the enemy.
+SKILL_20150406_003550	{memo X}{#DD5500}{ol}[Physical] - [Blunt]{/}{/}{nl}Tie enemy and drag around.{nl}Enemy is damaged when moving and Bleeds when released.
+SKILL_20150406_003551	{memo X}{#DD5500}{ol}[Physical] - [Blunt]{/}{/}{nl}Make solid landing while jumping or on air to damage enemies.
 SKILL_20150406_003552	$Pouncing
 SKILL_20150406_003553	{memo X}Install basecamp in field. Party members can sue the basecamp for personal storage and can freely warp to basecamp.
-SKILL_20150406_003554	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use Iron Hook to pull enemy. Enemy receives damage every time it is pulled.
-SKILL_20150406_003555	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use back of sword to hit smash enemy.
-SKILL_20150406_003556	{memo X}{#993399}{ol}[Magic] - [Ice] - [Strike]{/}{/}{nl}Summon huge snowball and damage nearby enemies.
+SKILL_20150406_003554	{memo X}{#DD5500}{ol}[Physical] - [Blunt]{/}{/}{nl}Use Iron Hook to pull enemy. Enemy receives damage every time it is pulled.
+SKILL_20150406_003555	{memo X}{#DD5500}{ol}[Physical] - [Blunt]{/}{/}{nl}Use back of sword to hit smash enemy.
+SKILL_20150406_003556	{memo X}{#993399}{ol}[Magic] - [Ice] - [Blunt]{/}{/}{nl}Summon huge snowball and damage nearby enemies.
 SKILL_20150406_003557	$Summon Servant
 SKILL_20150406_003558	{memo X}{#993399}{ol}[Magic]{/}{/}{nl}Collect corpse fragments when monsters are killed using this attack.
 SKILL_20150406_003559	{memo X}Attack #{SkillAtkAdd}#{nl}Collect corpse fragment of each monster type
@@ -3566,31 +3566,31 @@ SKILL_20150406_003565	{memo X}#{CaptionRatio}# Dirty Wall {nl}Duration 15 second
 SKILL_20150406_003566	{memo X}Collect the corpse fragments left where the monster died.
 SKILL_20150406_003567	{memo X}Heavy Shot
 SKILL_20150406_003568	{memo X}Twin Arrow
-SKILL_20150406_003569	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Hang bomb on arrow and fire.
-SKILL_20150406_003570	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Shoot stone-bullets and push away target. Target may be stunned by chance.
+SKILL_20150406_003569	{memo X}{#DD5500}{ol}[Physical] - [Blunt]{/}{/}{nl}Hang bomb on arrow and fire.
+SKILL_20150406_003570	{#DD5500}{ol}[Physical] - [Blunt]{/}{/}{nl}Shoot stone-bullets and push away target. Target may be stunned by chance.
 SKILL_20150406_003571	$Teardown
-SKILL_20150406_003572	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Destroy obstacles that block the way and damage enemies in front.
+SKILL_20150406_003572	{memo X}{#DD5500}{ol}[Physical] - [Blunt]{/}{/}{nl}Destroy obstacles that block the way and damage enemies in front.
 SKILL_20150406_003573	$Running Shot
-SKILL_20150406_003574	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Install traps that damage targets nearby.
-SKILL_20150406_003575	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Explode magic circle and installation to damage enemies.
-SKILL_20150406_003576	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Flame is fumed and cause damage.
-SKILL_20150406_003577	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Install bomb around target. Bomb explosed when touching enemy.
-SKILL_20150406_003578	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Shoot flash arrows on the ground. Flash pops and shoots sparks to enemies nearby.
-SKILL_20150406_003579	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use this attack to explode enemy when it is killed. Strength of party members temporarily increase.
-SKILL_20150406_003580	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Throw tear gas. Target affected fall into Blind state.
-SKILL_20150406_003581	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Zombies circle around specified area. Enemies that touch zombies are push away and receives damage.
+SKILL_20150406_003574	{memo X}{#DD5500}{ol}[Physical] - [Blunt]{/}{/}{nl}Install traps that damage targets nearby.
+SKILL_20150406_003575	{memo X}{#DD5500}{ol}[Physical] - [Blunt]{/}{/}{nl}Explode magic circle and installation to damage enemies.
+SKILL_20150406_003576	{#DD5500}{ol}[Physical] - [Blunt]{/}{/}{nl}Flame is fumed and cause damage.
+SKILL_20150406_003577	{memo X}{#DD5500}{ol}[Physical] - [Blunt]{/}{/}{nl}Install bomb around target. Bomb explosed when touching enemy.
+SKILL_20150406_003578	{#DD5500}{ol}[Physical] - [Blunt]{/}{/}{nl}Shoot flash arrows on the ground. Flash pops and shoots sparks to enemies nearby.
+SKILL_20150406_003579	{memo X}{#DD5500}{ol}[Physical] - [Blunt]{/}{/}{nl}Use this attack to explode enemy when it is killed. Strength of party members temporarily increase.
+SKILL_20150406_003580	{memo X}{#DD5500}{ol}[Physical] - [Blunt]{/}{/}{nl}Throw tear gas. Target affected fall into Blind state.
+SKILL_20150406_003581	{memo X}{#DD5500}{ol}[Physical] - [Blunt]{/}{/}{nl}Zombies circle around specified area. Enemies that touch zombies are push away and receives damage.
 SKILL_20150406_003582	{memo X}{#993399}{ol}[Magic]{/}{/}{nl}Explode zombies in specific area and damage target enemies.
 SKILL_20150406_003583	{memo X}Attack #{SkillAtkAdd}#{nl}Summoned zombie required{nl}Max. explosion #{SkillSR}#
 SKILL_20150406_003584	$Goddess Ausrine Statue
 SKILL_20150406_003585	{memo X}Ausrine
-SKILL_20150406_003586	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Smack down strongly.
-SKILL_20150406_003587	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Flick enemies attacking nearby and cause damage.
-SKILL_20150406_003588	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Punce target twice.
-SKILL_20150406_003589	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use palm to push away enemy.
-SKILL_20150406_003590	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Smack down enemy with hand knife.
-SKILL_20150406_003591	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Make a short stretch to push away enemy and consume its SP. Target hit will receive continuous damage.
-SKILL_20150406_003592	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Gather power to and strike forward. Targets are pushed back and receive damage..
-SKILL_20150406_003593	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Throw coin to attack target. Max. SP of targets hit will temporarily decrease.
+SKILL_20150406_003586	{memo X}{#DD5500}{ol}[Physical] - [Blunt]{/}{/}{nl}Smack down strongly.
+SKILL_20150406_003587	{memo X}{#DD5500}{ol}[Physical] - [Blunt]{/}{/}{nl}Flick enemies attacking nearby and cause damage.
+SKILL_20150406_003588	{memo X}{#DD5500}{ol}[Physical] - [Blunt]{/}{/}{nl}Punce target twice.
+SKILL_20150406_003589	{memo X}{#DD5500}{ol}[Physical] - [Blunt]{/}{/}{nl}Use palm to push away enemy.
+SKILL_20150406_003590	{memo X}{#DD5500}{ol}[Physical] - [Blunt]{/}{/}{nl}Smack down enemy with hand knife.
+SKILL_20150406_003591	{memo X}{#DD5500}{ol}[Physical] - [Blunt]{/}{/}{nl}Make a short stretch to push away enemy and consume its SP. Target hit will receive continuous damage.
+SKILL_20150406_003592	{memo X}{#DD5500}{ol}[Physical] - [Blunt]{/}{/}{nl}Gather power to and strike forward. Targets are pushed back and receive damage..
+SKILL_20150406_003593	{memo X}{#DD5500}{ol}[Physical] - [Blunt]{/}{/}{nl}Throw coin to attack target. Max. SP of targets hit will temporarily decrease.
 SKILL_20150406_003594	{memo X}{#993399}{ol}[Magic] - [Holy]{/}{/}{nl}Heals target and party members while damaging enemy.
 SKILL_20150406_003595	{memo X}Attack #{SkillAtkAdd}#{nl}Attack #{CaptionRatio}# enemies{nl}Heall all party members{nl}Heal #{CaptionRatio}# allies{nl}
 SKILL_20150406_003596	$Reflects close ranged attacks.
@@ -3609,42 +3609,42 @@ SKILL_20150414_003608	$Become determined by temporarily increasing your attack, 
 SKILL_20150414_003609	$Increases your attack power.
 SKILL_20150414_003610	Reduce your max. HP but enemy has high chance of faint.
 SKILL_20150414_003611	$Chance of Stunning Enemy: #{CaptionRatio}#%{nl}Max. HP -#{CaptionRatio2}# {nl}Duration: #{CaptionTime}# seconds
-SKILL_20150414_003612	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Strike enemy with sword handle.{nl}Inflict additional damage on fainted monsters, and partially ignore defense of small and medium sized enemies.
-SKILL_20150414_003613	${#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use the bump of your shield to attack enemies. Blocking provides additional damage on stiffed enemies.
-SKILL_20150414_003614	${#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use the edge of your shield to attack enemies. Inflicts additional damage on both petrified and frozen enemies.
+SKILL_20150414_003612	{#DD5500}{ol}[Physical] - [Blunt]{/}{/}{nl}Strike enemy with sword handle.{nl}Inflict additional damage on fainted monsters, and partially ignore defense of small and medium sized enemies.
+SKILL_20150414_003613	${#DD5500}{ol}[Physical] - [Blunt]{/}{/}{nl}Use the bump of your shield to attack enemies. Blocking provides additional damage on stiffed enemies.
+SKILL_20150414_003614	${#DD5500}{ol}[Physical] - [Blunt]{/}{/}{nl}Use the edge of your shield to attack enemies. Inflicts additional damage on both petrified and frozen enemies.
 SKILL_20150414_003615	$Hit your shield to provoke nearby enemies making them pursue you.
 SKILL_20150414_003616	$Increases your defense while decreasing your attack. Cannot be used with Gung Ho.
-SKILL_20150414_003617	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Throw shield to attack. Shield dropped on ground may disappear if not picked up within time limit.
+SKILL_20150414_003617	{#DD5500}{ol}[Physical] - [Blunt]{/}{/}{nl}Throw shield to attack. Shield dropped on ground may disappear if not picked up within time limit.
 SKILL_20150414_003618	Change to active stance using shield in front. Block and increases while attack and critical decrease.
 SKILL_20150414_003619	$Block: +#{CaptionRatio}# {nl}Attack: -#{CaptionTime}#% {nl}Critical Chance: -#{CaptionRatio2}#
-SKILL_20150414_003620	{#DD5500}{ol}[Physical] - [Strike] - [Slash]{/}{/}{nl}Use shield and sword to make continuous attacks.
+SKILL_20150414_003620	{#DD5500}{ol}[Physical] - [Blunt] - [Slash]{/}{/}{nl}Use shield and sword to make continuous attacks.
 SKILL_20150414_003621	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Use weapon to raise and blow away enemy.
-SKILL_20150414_003622	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Smack down enemy's head. Target's INT and SPR temporarily decrease.
-SKILL_20150414_003623	$Use your weapon to take a defensive stance. Blocked enemies become vulnerable to stab attacks.
+SKILL_20150414_003622	{#DD5500}{ol}[Physical] - [Blunt]{/}{/}{nl}Smack down enemy's head. Target's INT and SPR temporarily decrease.
+SKILL_20150414_003623	$Use your weapon to take a defensive stance. Blocked enemies become vulnerable to pierce attacks.
 SKILL_20150414_003624	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Swing sword around to make continuous attack.
-SKILL_20150414_003625	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Strike and push enemy sidewards using the side of sword. Enemy's shield is destroyed.
+SKILL_20150414_003625	{#DD5500}{ol}[Physical] - [Blunt]{/}{/}{nl}Strike and push enemy sidewards using the side of sword. Enemy's shield is destroyed.
 SKILL_20150414_003626	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Repeatedly stab enemy with spear.
 SKILL_20150414_003627	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Pierce enemy with spear. Continuous damage is applied as the size the monster is larger.
 SKILL_20150414_003628	{memo X}Change to Window formation for active attack. Chance of critical increases but evasion decreases.
-SKILL_20150414_003629	{#DD5500}{ol}[Physical] - [Pierce] - [Strike]{/}{/}{nl}Use spear and shield to attack enemy. Making counter attacks give additional damage.
+SKILL_20150414_003629	{#DD5500}{ol}[Physical] - [Pierce] - [Blunt]{/}{/}{nl}Use spear and shield to attack enemy. Making counter attacks give additional damage.
 SKILL_20150414_003630	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Throw spear to attack enemy. Spear dropped on ground may disappear if not picked up within time limit.
-SKILL_20150414_003631	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use shield and dash pushing away enemies. Enemies nearby falls down when hit.
+SKILL_20150414_003631	{#DD5500}{ol}[Physical] - [Blunt]{/}{/}{nl}Use shield and dash pushing away enemies. Enemies nearby falls down when hit.
 SKILL_20150414_003632	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Strongly attack bottom of enemy with chance of paralyzing.
-SKILL_20150414_003633	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Smack down enemy using shield with change of enemy falling under [Dark].
+SKILL_20150414_003633	{#DD5500}{ol}[Physical] - [Blunt]{/}{/}{nl}Smack down enemy using shield with change of enemy falling under [Dark].
 SKILL_20150414_003634	{memo X}Attack #{SkillAtkAdd}#{nl}Defense -#{CaptionRatio}# {nl}{#339999}{ol}[Unbalance]{/}{/} Duration 5 seconds
 SKILL_20150414_003635	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Hold key to bend down and move forward. Evasion increases and attacks enemy after moving.
-SKILL_20150414_003636	{memo X}{#DD5500}{ol}[Physical] - [Pierce] - [Strike]{/}{/}{nl}Use sword and shield to attack continuously.
+SKILL_20150414_003636	{memo X}{#DD5500}{ol}[Physical] - [Pierce] - [Blunt]{/}{/}{nl}Use sword and shield to attack continuously.
 SKILL_20150414_003637	${#DD5500}{ol}[Pierce]{/}{/}{nl}Impales a small or medium-type monster with a spear. It is possible to attack other enemies with a skewered enemy.
 SKILL_20150414_003638	$Increases your movement speed while riding.
-SKILL_20150414_003639	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Dash forward and attack enemy.
+SKILL_20150414_003639	{#DD5500}{ol}[Physical] - [Blunt]{/}{/}{nl}Dash forward and attack enemy.
 SKILL_20150414_003640	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Gather force and strongly stab enemy with tip of spear.
 SKILL_20150414_003641	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Throw spear over head to attack.
-SKILL_20150414_003642	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Drag around and hit enemy.
+SKILL_20150414_003642	{#DD5500}{ol}[Physical] - [Blunt]{/}{/}{nl}Drag around and hit enemy.
 SKILL_20150414_003643	$Increases your attack when you keep repeatedly attacking one particular enemy.
 SKILL_20150414_003644	{memo X}Your attack hits target but chance of critical and critical evasion decreases?
-SKILL_20150414_003645	Temporarily make stab attacks be applied as repeated attacks.
+SKILL_20150414_003645	Temporarily make pierce attacks be applied as repeated attacks.
 SKILL_20150414_003646	{memo X}Temporarily decrease defense of nearby enemies, and add that much to your ATK.
-SKILL_20150414_003647	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Tramp down on enemy while on air or jumping.
+SKILL_20150414_003647	{memo X}{#DD5500}{ol}[Physical] - [Blunt]{/}{/}{nl}Tramp down on enemy while on air or jumping.
 SKILL_20150414_003648	${#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Charge forward to attack enemies blocking your way.
 SKILL_20150414_003649	$Giant Swing
 SKILL_20150414_003650	{memo X}USe centrifugal force to throw away enemy.
@@ -3656,7 +3656,7 @@ SKILL_20150414_003655	{memo X}Install basecamp for party members. Party members 
 SKILL_20150414_003656	$Duration: #{CaptionRatio}# hours{nl}Duration of the food effects is at least 30 minutes
 SKILL_20150414_003657	$Sets up a refreshment table to prepare dishes that temporarily increases the abilities for your party members. A refreshment table can only be set up near the base camp, and if the camp is removed, the refreshment table will be removed as well.
 SKILL_20150414_003658	{memo X}Ping a flag that boosts pirates' abilities. Kill enemies repeatedly near the flag for combo attack.
-SKILL_20150414_003659	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Drag and pull enemies captured with Iron Hook. Enemy receives damage each time it is pulled.
+SKILL_20150414_003659	{#DD5500}{ol}[Physical] - [Blunt]{/}{/}{nl}Drag and pull enemies captured with Iron Hook. Enemy receives damage each time it is pulled.
 SKILL_20150414_003660	Can you sword {nl}without delay after normal attack.{nl}Duration #{CaptionTime}# seconds
 SKILL_20150414_003661	{memo X}Attack with chance of stealing enemy items.
 SKILL_20150414_003662	Make a formation that calls on the troops.
@@ -3668,7 +3668,7 @@ SKILL_20150414_003667	Change to Wedge formation.
 SKILL_20150414_003668	Change to Schiltron formation. All troops stop and raise their weapon to block enemies.
 SKILL_20150414_003669	{memo X}Change to Testudo formation. Increase defense and block of all troops and move slowly.
 SKILL_20150414_003670	Realign direction of formation to leader's view.
-SKILL_20150414_003671	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Hold the sword backwards and use its handle to smack down enemy.
+SKILL_20150414_003671	{#DD5500}{ol}[Physical] - [Blunt]{/}{/}{nl}Hold the sword backwards and use its handle to smack down enemy.
 SKILL_20150414_003672	Defeat enemy within set attack count for double EXP and rewards. Damage received increases by 3times while the effect is active and durability reduced more in incapable of combat status.
 SKILL_20150414_003673	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Use centrifugal force and continuously attack enemies.
 SKILL_20150414_003674	${#993399}{ol}[Magic]{/}{/}{nl}Gather powerful magical energy to launch it towards the enemy. Increases the inflicted damage depending on the amount of gathered energy.
@@ -3689,7 +3689,7 @@ SKILL_20150414_003688	Create ice wall to trap enemy with chance of freezing near
 SKILL_20150414_003689	{#993399}{ol}[Magic] - [Ice]{/}{/}{nl}Smack frozen enemies in front. Can freeze one more enemy nearby.
 SKILL_20150414_003690	{memo X}Create ice tent to block and freeze enemy.
 SKILL_20150414_003691	{memo X}Create strong wind to push away target. Use on frozen enemies to attack neaby enemies.
-SKILL_20150414_003692	{#993399}{ol}[Magic] - [Ice] - [Strike]{/}{/}{nl}Ride on huge snowball and smash enemy.
+SKILL_20150414_003692	{#993399}{ol}[Magic] - [Ice] - [Blunt]{/}{/}{nl}Ride on huge snowball and smash enemy.
 SKILL_20150414_003693	${#993399}{ol}[Magic]{/}{/}{nl}Concentrate on the the tip of your hand to inflict continuous damage with psychokinesis.
 SKILL_20150414_003694	${#993399}{ol}[Magic]{/}{/}{nl}Use psychokinesis to capture a target in front to move its location.{nl}Inflicts damage by throwing the captured target to a direction using your arrow keys.
 SKILL_20150414_003695	$Swaps your position with that of the enemy.
@@ -3761,22 +3761,22 @@ SKILL_20150414_003760	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Shoot two arro
 SKILL_20150414_003761	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Use tip of arrow to aim at target and penetrate stright forward.
 SKILL_20150414_003762	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Shoot arrow with high rate of critical.
 SKILL_20150414_003763	{memo X}Attack speed decrease and ATK increase.
-SKILL_20150414_003764	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Fire arrows with bomb. Arrows explode after hitting enemy.
+SKILL_20150414_003764	{#DD5500}{ol}[Physical] - [Blunt]{/}{/}{nl}Fire arrows with bomb. Arrows explode after hitting enemy.
 SKILL_20150414_003765	{memo X}{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Arrow is split to pieces and bounces off attacking nearby enemies.
 SKILL_20150414_003766	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Run backwards and shoot multiple arrows forward.
 SKILL_20150414_003767	{memo X}Make a spiral arrow that penetrates the enemy. The shot gives 1 additional attack.
 SKILL_20150414_003768	Create standing shield to block enemy and enemy's range attack.
 SKILL_20150414_003769	Collect stones bullets to use for Stone Shot. Cannot be obtained in towns.
 SKILL_20150414_003770	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Charge crossbow with multiple arrows and shoot towards enemy.
-SKILL_20150414_003771	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Remove obstacles in front and attack nearby enemies.
+SKILL_20150414_003771	{#DD5500}{ol}[Physical] - [Blunt]{/}{/}{nl}Remove obstacles in front and attack nearby enemies.
 SKILL_20150414_003772	Move quickly while using catapault attacks.
-SKILL_20150414_003773	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Install rotating trap that inflicts enemy within radius.
+SKILL_20150414_003773	{#DD5500}{ol}[Physical] - [Blunt]{/}{/}{nl}Install rotating trap that inflicts enemy within radius.
 SKILL_20150414_003774	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Install trap that shoots buckshot. Trap is controlled using percussion machine.
 SKILL_20150414_003775	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Install trap that bounces off enemy when stepped on.
-SKILL_20150414_003776	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Explode ally magic circle and inflict damage to enemy.
+SKILL_20150414_003776	{memo X}{#DD5500}{ol}[Physical] - [Blunt]{/}{/}{nl}Explode ally magic circle and inflict damage to enemy.
 SKILL_20150414_003777	Hide the installed trap from the enemies.
 SKILL_20150414_003778	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Install trap that shoots arrows when touching the wire.
-SKILL_20150414_003779	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Hang bomb on enemy. Enemy explodes when touching other enemies.
+SKILL_20150414_003779	{#DD5500}{ol}[Physical] - [Blunt]{/}{/}{nl}Hang bomb on enemy. Enemy explodes when touching other enemies.
 SKILL_20150414_003780	{memo X}Companion speed +#{CaptionRatio}#% {nl}Duration #{CaptionTime}# seconds
 SKILL_20150414_003781	Companion threats and prevents enemy from approaching. Enemy may fall under Fear.
 SKILL_20150414_003782	Rush Dog
@@ -3794,19 +3794,19 @@ SKILL_20150414_003793	$Temporarily increases your Critical Chance when attacking
 SKILL_20150414_003794	Trick enemies to lower their guards. Evasion of enemies in front decreases.
 SKILL_20150414_003795	Hide on the ground. You can attack but cannot move.
 SKILL_20150414_003796	Steal enemy's trap and magic circle. You may use it alter when you need it.
-SKILL_20150414_003797	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Enemy explodes when killed with this attack and your party's strength temporarily increase.
-SKILL_20150414_003798	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Throw tear gas on target area. Enemies fall under [Dark].
+SKILL_20150414_003797	{#DD5500}{ol}[Physical] - [Blunt]{/}{/}{nl}Enemy explodes when killed with this attack and your party's strength temporarily increase.
+SKILL_20150414_003798	{memo X}{#DD5500}{ol}[Physical] - [Blunt]{/}{/}{nl}Throw tear gas on target area. Enemies fall under [Dark].
 SKILL_20150414_003799	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Make continuous attack using sword. Double attack with high rate of critical and has chance of fainting enemy.
 SKILL_20150414_003800	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Shoot broadhead arrow. Enemies hit falls under Bleeding.
 SKILL_20150414_003801	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Shoot bodkin arrow with strong penetration. Defense of enemy hit temporarily decreases and nullify magic protecting the enemy.
 SKILL_20150414_003802	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Shoot barbed arrow. Hit count depends on defense type of enemy.
 SKILL_20150414_003803	{memo X}{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Shoot arrow that explodes enemy in cross form when killed.
 SKILL_20150414_003804	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Flame fumes from area shot with arrow and attacks enemy.
-SKILL_20150414_003805	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Hang bomb on arrow and shoot. Arrow explodes after hitting enemy.
-SKILL_20150414_003806	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Fire multiple bullets toward the enemy.
-SKILL_20150414_003807	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Shoot forward while moving backwards.
-SKILL_20150414_003808	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use speed to move fast while attacking when riding on top.
-SKILL_20150414_003809	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Shoot opposite the direction you move while running.
+SKILL_20150414_003805	{#DD5500}{ol}[Physical] - [Blunt]{/}{/}{nl}Hang bomb on arrow and shoot. Arrow explodes after hitting enemy.
+SKILL_20150414_003806	{#DD5500}{ol}[Physical] - [Blunt]{/}{/}{nl}Fire multiple bullets toward the enemy.
+SKILL_20150414_003807	{#DD5500}{ol}[Physical] - [Blunt]{/}{/}{nl}Shoot forward while moving backwards.
+SKILL_20150414_003808	{#DD5500}{ol}[Physical] - [Blunt]{/}{/}{nl}Use speed to move fast while attacking when riding on top.
+SKILL_20150414_003809	{#DD5500}{ol}[Physical] - [Blunt]{/}{/}{nl}Shoot opposite the direction you move while running.
 SKILL_20150414_003810	Call
 SKILL_20150414_003811	Call back the hawk that flew away
 SKILL_20150414_003812	Level 1 Master
@@ -3818,8 +3818,8 @@ SKILL_20150414_003817	Circling
 SKILL_20150414_003818	{memo X}Fly circling around target area. Range defense of enemies within target area decreases.
 SKILL_20150414_003819	{memo X}Range defense rate -#{CaptionRatio}# {nl}Duration 0 seconds
 SKILL_20150414_003820	Hovering
-SKILL_20150414_003821	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Float on target area and attack enemy passing below.
-SKILL_20150414_003822	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Throw practice hawk doll and attack that area.
+SKILL_20150414_003821	{#DD5500}{ol}[Physical] - [Blunt]{/}{/}{nl}Float on target area and attack enemy passing below.
+SKILL_20150414_003822	{#DD5500}{ol}[Physical] - [Blunt]{/}{/}{nl}Throw practice hawk doll and attack that area.
 SKILL_20150414_003823	{memo X}Hand and Shoot
 SKILL_20150414_003824	$Let your hawk carry you. While being carried, you can inflict damage to enemies using your basic attack without being attacked.
 SKILL_20150414_003825	${#993399}{ol}[Magic] - [Holy]{/}{/}{nl}Creates a magic circle that recovers HP or inflicts damage to enemies. Does not apply to airborne enemies.
@@ -3843,7 +3843,7 @@ SKILL_20150414_003842	{#993399}{ol}[Magic] - [Dark]{/}{/}{nl}Control enemy under
 SKILL_20150414_003843	Use monkey skull to lure zombies to desired area.
 SKILL_20150414_003844	{memo X}Create magic circle that turns enemies killed into zombies.
 SKILL_20150414_003845	Throw amulet to target that stops pain. Target does not receive damage when effect is enabled but receives damage accumulated at once when the effect ends.
-SKILL_20150414_003846	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Order zombies to celebrate. Zombies dance around target area and enemies touching the zombies receive damage.
+SKILL_20150414_003846	{#DD5500}{ol}[Physical] - [Blunt]{/}{/}{nl}Order zombies to celebrate. Zombies dance around target area and enemies touching the zombies receive damage.
 SKILL_20150414_003847	{memo X}Install a Samedi pattern that represents death noir on the ground. Movement speed and max. HP of zombies and allies around the pattern increase.
 SKILL_20150414_003848	{memo X}Install a Oguon pattern that represents strength noir on the ground. Strength of zombies and allies around the pattern increase.
 SKILL_20150414_003849	{#993399}{ol}[Magic]{/}{/}{nl}Explode zombies near target area and attack nearby enemies.
@@ -3866,21 +3866,21 @@ SKILL_20150414_003865	{#993399}{ol}[Magic]{/}{/}{nl}Explode the souls separated 
 SKILL_20150414_003866	Transfer your abilities to allies in front of you .
 SKILL_20150414_003867	Attack soul
 SKILL_20150414_003868	Basic attack on spirits when outside the body.
-SKILL_20150414_003869	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Strongly smack down enemy.
+SKILL_20150414_003869	{#DD5500}{ol}[Physical] - [Blunt]{/}{/}{nl}Strongly smack down enemy.
 SKILL_20150414_003870	Activate aura and increase HP recovery of allies nearby.
 SKILL_20150414_003871	Enemies attacked have chance of creating magic circle of conversion.
 SKILL_20150414_003872	Temporarily increase attribute resistance of you and your party.
 SKILL_20150414_003873	Fice, Ice, Lightning Resistance +#{CaptionRatio}# {nl}Poison, Earth Resistance +#{CaptionRatio2}#{nl}Buff Duration #{CaptionTime}#seconds
 SKILL_20150414_003874	May kill mutant or demon type enemy at once.
 SKILL_20150414_003875	{memo X}Make a protective wall that push away enemies and block them from entering.
-SKILL_20150414_003876	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Make skin hard as iron and bounce off enemy attacks to infllict damage.
+SKILL_20150414_003876	{#DD5500}{ol}[Physical] - [Blunt]{/}{/}{nl}Make skin hard as iron and bounce off enemy attacks to infllict damage.
 SKILL_20150414_003877	{memo X}Reflect attack amounting to target's Physical attack.{nl}Reflect damage +#{SkillAtkAdd}#{nl}Ranged projectile, cannot defend magic
-SKILL_20150414_003878	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use both arms to attack enemy continuously.
+SKILL_20150414_003878	{#DD5500}{ol}[Physical] - [Blunt]{/}{/}{nl}Use both arms to attack enemy continuously.
 SKILL_20150414_003879	{memo X}{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Continuously attack with tip of hand.
-SKILL_20150414_003880	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use hand knife to destroy the shield.
-SKILL_20150414_003881	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Punch enemy from a close range. Enemy loses SP and receives continuous damage.
-SKILL_20150414_003882	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Gather force then shoot forward. Enemy is pushed away and received damage.
-SKILL_20150414_003883	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use tip of finger to throw coin and attack enemy.
+SKILL_20150414_003880	{#DD5500}{ol}[Physical] - [Blunt]{/}{/}{nl}Use hand knife to destroy the shield.
+SKILL_20150414_003881	{#DD5500}{ol}[Physical] - [Blunt]{/}{/}{nl}Punch enemy from a close range. Enemy loses SP and receives continuous damage.
+SKILL_20150414_003882	{#DD5500}{ol}[Physical] - [Blunt]{/}{/}{nl}Gather force then shoot forward. Enemy is pushed away and received damage.
+SKILL_20150414_003883	{#DD5500}{ol}[Physical] - [Blunt]{/}{/}{nl}Use tip of finger to throw coin and attack enemy.
 SKILL_20150414_003884	$Temporarily become invincible from all attacks.
 SKILL_20150414_003885	Create a dispeller that block harmful magic or effects.
 SKILL_20150414_003886	Create your skill into a scroll that anyone can use.
@@ -4029,7 +4029,7 @@ SKILL_20150428_004028	{memo X}Magic Missile
 SKILL_20150428_004029	${#993399}{ol}[Magic]{/}{/}{nl}Attack enemies consecutively by using magic bullets. An additional bullet is fired when attacking enemies under the Sleep condition.
 SKILL_20150428_004030	{memo X}Attack #{SkillAtkAdd}#{nl}Max. duration 5 seconds{nl}Consume Stamina
 SKILL_20150428_004031	$Attack +#{CaptionRatio}#{nl}Maximum Stacks: #{CaptionRatio2}#{nl}Duration: #{CaptionTime}# seconds
-SKILL_20150428_004032	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use centrifugal force to throw away enemy.
+SKILL_20150428_004032	{#DD5500}{ol}[Physical] - [Blunt]{/}{/}{nl}Use centrifugal force to throw away enemy.
 SKILL_20150428_004033	Attack #{SkillAtkAdd}#{nl}Rotate 9 times{nl}Distance thrown 150
 SKILL_20150428_004034	Max. Target #{CaptionRatio}#{nl}Duration 10 seconds
 SKILL_20150428_004035	Pin down pirate flag boosts ATK of pirates. Defeat enemy continuously near the flag to trigger combo. {only triggered when party leader is Corsair.)
@@ -4052,7 +4052,7 @@ SKILL_20150428_004051	$Blocks ranged projectiles: #{CaptionRatio}#{nl}Pavise Dur
 SKILL_20150428_004052	{memo X}Attack #{SkillAtkAdd}#{nl}Duration 15 seconds{nl}Use 3 Ash tree
 SKILL_20150428_004053	{memo X}Attack #{SkillAtkAdd}#{nl}Splash #{CaptionRatio}#{nl}Use 1 Claymore
 SKILL_20150428_004054	{memo X}Attack #{SkillAtkAdd}#{nl}Casting 3 seconds{nl}Use 3 Pine Tree
-SKILL_20150428_004055	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Explode trap and magic circle to attack enemy.
+SKILL_20150428_004055	{#DD5500}{ol}[Physical] - [Blunt]{/}{/}{nl}Explode trap and magic circle to attack enemy.
 SKILL_20150428_004056	{memo X}Attack #{SkillAtkAdd}#{nl}#{CaptionRatio}# arrows{nl}Install range #{CaptionRatio2}#{nl}Use 2 wires
 SKILL_20150428_004057	$Evasion: -#{CaptionRatio}#{nl}Pointing AI Duration: 90 seconds
 SKILL_20150428_004058	$Detects hidden monsters {nl}Hounding AI Duration: 90 seconds
@@ -4108,7 +4108,7 @@ SKILL_20150428_004107	{memo X}Hit damage of [Synchro Thrusting] decrease by 10% 
 SKILL_20150428_004108	{memo X}Splash increases by 3 while [Finestra] is activated, Evasion decrease rate is doubled
 SKILL_20150428_004109	{memo X}[Montano] triggered [Slow] on target for 10 seconds. Duration of [Slow] increases by 3/2/1 second for small/medium/large monsters respectively.
 SKILL_20150428_004110	$Lethargy: Additional Damage
-SKILL_20150428_004111	$Enemies affected by [Lethargy] will receive 20% additional damage with Hit-type attacks.
+SKILL_20150428_004111	$Enemies affected by [Lethargy] will receive 20% additional damage with Blunt-type attacks.
 SKILL_20150428_004112	{memo X}Character's Fire attack increases by 3 per attribute level when using [Staff] weapon.
 SKILL_20150428_004113	{memo X}Evasion increases by 10% per attribute level when using [Gravity Pull].
 SKILL_20150428_004114	{memo X}Skill duration of [Spiritual Chain] increases by 1 seconds per attribute level.
@@ -4601,7 +4601,7 @@ SKILL_20150714_004600	$Gun Mastery: Accuracy
 SKILL_20150714_004601	$Increases your accuracy by 30 per attribute level when equipped with a Pistol-type weapon.
 SKILL_20150714_004602	$Increases the damage dealt on an enemy with [Cure] by 1% per attribute level.
 SKILL_20150714_004603	$Increases the damage dealt on an enemy with [Heal] by 1% per attribute level.
-SKILL_20150714_004604	{memo X}Enemies hit with [Strike] has 2% chance per Attribute level to fall under Stun.
+SKILL_20150714_004604	{memo X}Enemies hit with [Blunt] has 2% chance per Attribute level to fall under Stun.
 SKILL_20150714_004605	$When using [Heal], you will receive the effect of [Heal] too, with a 2% chance per attribute level.
 SKILL_20150714_004606	$Increases the duration of the magic circle from [Deprotected Zone] by 1 second per attribute level.
 SKILL_20150714_004607	$Safety Zone: Range Increase
@@ -4713,7 +4713,7 @@ SKILL_20150717_004712	$Movement Speed: +#{CaptionRatio}#{nl}Duration: #{CaptionT
 SKILL_20150717_004713	{memo X}Your attack hits target but chance of critical and critical evasion decreases.
 SKILL_20150717_004714	{memo X}Critical Chance -#{CaptionRatio}#%{nl}Critical Resistance -#{CaptionRatio}#%{nl}Duration #{CaptionTime}# seconds
 SKILL_20150717_004715	$Shout a warcry that causes your enemies to panic and drop their defense, bolstering your attack proportionally.
-SKILL_20150717_004716	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Tramp down on enemy while on air or jumping. Attack damage will be decided,according to the Character's height and Shoes's defense.
+SKILL_20150717_004716	{#DD5500}{ol}[Physical] - [Blunt]{/}{/}{nl}Tramp down on enemy while on air or jumping. Attack damage will be decided,according to the Character's height and Shoes's defense.
 SKILL_20150717_004717	$Capture Time: #{CaptionRatio}# seconds
 SKILL_20150717_004718	$Attack: -#{CaptionRatio}#% {nl}Increased defense equal to the decreased attack{nl}Additonal Defense: #{CaptionRatio2}#%{nl}Consumes 1% SP per 2 seconds
 SKILL_20150717_004719	Attack #{SkillAtkAdd}#{nl}Attribute Attack #{CaptionRatio}#%{nl}Duration #{CaptionRatio2}#seconds{nl}AoE Attack Ratio #{SkillSR}#
@@ -4739,8 +4739,8 @@ SKILL_20150717_004738	{memo X}Max SP and Magic DEF increase based on number of [
 SKILL_20150717_004739	{memo X}Evasion increases based on number of [Leather] armor equipped and Attribute level. (at least 3 same equipment type).
 SKILL_20150717_004740	{memo X}Max HP and Physical DEF increase based on number of [Plate] armor equipped and Attribute level. (at least 3 same equipment type).
 SKILL_20150717_004741	Incurs additional 20 damage per Attribute level whenever attack from an enemy's back with dagger.
-SKILL_20150717_004742	$Increases the physical damage increase effect of [Gung Ho] by 1, while decreasing the decreased defense effect by 1 per attribute level.
-SKILL_20150717_004743	$Adds the AoE Attack Ratio of [Bash] by 1 per attribute level.
+SKILL_20150717_004742	$Increases the physical damage increase effect and the defense decrease effect of [Gung Ho] by 1 per attribute level.
+SKILL_20150717_004743	$Increases the AoE Attack Ratio of [Bash] by 1 per attribute level.
 SKILL_20150717_004744	$Enemies affected by [Stun] because of [Thrust] will be afflicted with [Bleeding] for 5 seconds. Bleeding damage depends on your STR.
 SKILL_20150717_004745	$Enemies hit by [Umbo Blow] have a 5% chance to become stunned for 3 seconds per attribute level.
 SKILL_20150717_004746	$Increases the AoE Attack Ratio of [Shield Lob] by 1 per attribute level.
@@ -4751,7 +4751,7 @@ SKILL_20150717_004750	$Adds the AoE Attack Ratio of [Wagon Wheel] by 1.
 SKILL_20150717_004751	$Deals additional damage equal to 50% physical attack to knock backed enemies with [Cartar Stroke].
 SKILL_20150717_004752	{memo X}The enemy that was attacked by [Skull Swing] will not be able to jump for 3 seconds.
 SKILL_20150717_004753	{memo X}The enemy that is attacked by [Pierce] will be in [Bleeding] for 5 seconds with 2% probability. Beeeding damage will be decided based on Physical ATK.
-SKILL_20150717_004754	$Decreases the Strike damage dealt on an enemy with [Synchro Thrusting] by 10%, while increasing the Pierce damage by 10% per attribute level.
+SKILL_20150717_004754	$Decreases the Blunt damage dealt on an enemy with [Synchro Thrusting] by 10%, while increasing the Pierce damage by 10% per attribute level.
 SKILL_20150717_004755	Range attack rate increases by 3 while [Finestra] is activated, Evasion decrease rate is doubled.
 SKILL_20150717_004756	$Decreases the cooldown time of [Long Stride] by 10 seconds.
 SKILL_20150717_004757	{memo X}$Increases the physical damage increase effect of [Warcry] by 1 per attribute level. (This attribute only applies after the enemy's defense is decreased.)
