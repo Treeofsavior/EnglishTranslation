@@ -1277,7 +1277,7 @@ SKILL_20150317_001276	{memo X}{#DD5500}{ol}[Physical] - [Pierce]{/}{/} {nl}Kneel
 SKILL_20150317_001277	{memo X}Physical Damage + #{CaptionRatio}#{nl} Range + #{CaptionRatio2}#
 SKILL_20150317_001278	$Swift Step
 SKILL_20150317_001279	{memo X}Increase movement speed while attacking.
-SKILL_20150317_001280	$Moving Shot movement speed +#{SkillFactor}#%{nl}Defense -#{CaptionRatio}#{nl}Duration #{CaptionTime}# seconds
+SKILL_20150317_001280	$Moving Shot Movement Speed: +#{SkillFactor}#%{nl}Defense: -#{CaptionRatio}#{nl}Duration: #{CaptionTime}# seconds
 SKILL_20150317_001281	$Oblique Shot
 SKILL_20150317_001282	{memo X}{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Fire an arrow that bounces off of the target to hit an adjacent enemy.
 SKILL_20150317_001283	{memo X}Attack #{SkillAtkAdd}#{nl}Bounced arrow damage #{CaptionRatio}#%
@@ -1430,13 +1430,13 @@ SKILL_20150317_001429	{memo X}{#993399}{ol}[Magic] - [Divine]{/}{/}{nl} Create a
 SKILL_20150317_001430	{memo X}Attack #{SkillAtkAdd}#{nl}Attack count #{CaptionRatio}# times {nl}Magic circle Duration #{CaptionTime}# seconds
 SKILL_20150317_001431	$Safety Zone
 SKILL_20150317_001432	$Creates a magic circle that blocks incoming attacks.
-SKILL_20150317_001433	$Number of blocks: #{SkillFactor}#{nl} Magic Circle duration: 20 seconds
+SKILL_20150317_001433	$Number of blocks: #{SkillFactor}#{nl} Magic Circle Duration: 20 seconds
 SKILL_20150317_001434	$Deprotected Zone
 SKILL_20150317_001435	{memo X}Create magic circle that continuously decrease the defense of target.
-SKILL_20150317_001436	$Defense: -#{CaptionRatio}#{nl}Per stack: -#{CaptionRatio2}#{nl}Magic Circle duration: #{CaptionTime}# seconds
+SKILL_20150317_001436	$Defense: -#{CaptionRatio}#{nl}Per stack: -#{CaptionRatio2}#{nl}Magic Circle Duration: #{CaptionTime}# seconds
 SKILL_20150317_001437	$Divine Might
 SKILL_20150317_001438	{memo X}Create magic circle that increases skill level of target. Effect is gone when used and cannot be overlapped.
-SKILL_20150317_001439	Skill Level: +#{SkillFactor}#{nl}Duration: 10 seconds {nl}Magic Circle duration: 20 seconds
+SKILL_20150317_001439	Skill Level: +#{SkillFactor}#{nl}Duration: 10 seconds {nl}Magic Circle Duration: 20 seconds
 SKILL_20150317_001440	{memo X}Summon torch and increase HP recovery in the vicinity.
 SKILL_20150317_001441	{memo X}HP recovery ability increases {nl}Torch duration #{CaptionTime}# seconds
 SKILL_20150317_001442	$Zalciai
@@ -1458,7 +1458,7 @@ SKILL_20150317_001457	{memo X}{#993399}{ol}[Magic] - [Divine]{/}{/}{nl}Sprinkle 
 SKILL_20150317_001458	{memo X}Attack #{SkillAtkAdd}#{nl}Defense +#{CaptionRatio}# {nl}Target 10{nl}Duration #{CaptionRatio2}# seconds{nl}Use 1 Holy water
 SKILL_20150317_001459	$Monstrance
 SKILL_20150317_001460	{memo X}Dexterity of allies is increased and randomly create magic circle that cause evasion and Physical damage of enemies to decrease.
-SKILL_20150317_001461	$Maximum number of Magic Circles: #{SkillFactor}#{nl}Increases ally's DEX{nl}Enemy's Evasion and Defense -#{CaptionRatio}#{nl}Magic Circle duration: 20 seconds
+SKILL_20150317_001461	$Maximum number of Magic Circles: #{SkillFactor}#{nl}Increases ally's DEX{nl}Enemy's Evasion and Defense: -#{CaptionRatio}#{nl}Magic Circle Duration: 20 seconds
 SKILL_20150317_001462	$Blessing
 SKILL_20150317_001463	{memo X}Increase the damage of party members' skills.
 SKILL_20150317_001464	{memo X}Additional Damage + #{CaptionRatio}# {nl} Attack# {CaptionRatio2} # times{nl} {nl} Duration 30 seconds{nl}Use 1 Holy Powder
@@ -1481,7 +1481,7 @@ SKILL_20150317_001480	{memo X}Lure zombies to target area.
 SKILL_20150317_001481	Requires a summoned zombie{nl}Maximum Level: 1
 SKILL_20150317_001482	$Zombify
 SKILL_20150317_001483	{memo X}Create a magic circle on the ground. Enemies killed in the circle rise as zombies.
-SKILL_20150317_001484	$Magic Circle duration: #{CaptionTime}# {nl}Maximum Zombie Summons: #{CaptionRatio}#
+SKILL_20150317_001484	$Magic Circle Duration: #{CaptionTime}# {nl}Maximum Zombie Summons: #{CaptionRatio}#
 SKILL_20150317_001485	$Mackangdal
 SKILL_20150317_001486	{memo X}Throw amulet on target. Becomes invincible while under effect but receive accumulated damage when effect is gone.
 SKILL_20150317_001487	$Invincibility duration: #{CaptionTime}# seconds
@@ -3151,7 +3151,7 @@ SKILL_20150401_003150	{memo X}Open shop for repairing weapons. ATK is added when
 SKILL_20150401_003151	$Increases attack equal to [Skill Level]×[Number of Weapon Stars]{nl}Attack Count: #{CaptionRatio2}#{nl}Duration: 4 hour
 SKILL_20150401_003152	$Armor Maintenance
 SKILL_20150401_003153	{memo X}Open shop for repairing armors. Only top, pants, and shield can be repaired. Physical defense is added when repaired.
-SKILL_20150401_003154	$Physical Defense +#{CaptionRatio}#{nl}Number of shots: #{CaptionRatio2}#{nl}Duration: 4 hours
+SKILL_20150401_003154	$Physical Defense: +#{CaptionRatio}#{nl}Number of Shots: #{CaptionRatio2}#{nl}Duration: 4 hours
 SKILL_20150401_003155	{memo X}Open shop to repair equipments. Item can be repaired beyond max. durability.
 SKILL_20150401_003156	Repairs over #{CaptionRatio}# durability
 SKILL_20150401_003157	{memo X}You're holding the enemy tied on rope. You can also hold the boss monsters.
@@ -4069,13 +4069,13 @@ SKILL_20150428_004068	$Hanging Shot
 SKILL_20150428_004069	$Guardian Saint duration: #{CaptionTime}# seconds{nl}Chance on hit: 50%{nl}Charges: #{CaptionRatio}#
 SKILL_20150428_004070	$Creates a magic circle in front of you that increases the DEX of allies and decreases the enemy's evasion and physical defense. Party members will receive the effect without stepping on the magic circle.
 SKILL_20150428_004071	$Gives a blessing providing additional damage to the attacks of your party members and allies.
-SKILL_20150428_004072	$Additional Damage: +#{CaptionRatio}#{nl}Number of hits: #{CaptionRatio2}#{nl}Allies affected: #{CaptionTime}#{nl}Duration: 45 seconds{nl}Consumes 1 Holy Powder
+SKILL_20150428_004072	$Additional Damage: +#{CaptionRatio}#{nl}Number of Hits: #{CaptionRatio2}#{nl}Allies affected: #{CaptionTime}#{nl}Duration: 45 seconds{nl}Consumes 1 Holy Powder
 SKILL_20150428_004073	{memo X}Body's moving range #{CaptionRatio}#{nl}Body's attack +#{CaptionRatio2}#
 SKILL_20150428_004074	{memo X}Reflect as much as target's Physical attack{nl}Additional damage reflected #{SkillAtkAdd}#{nl}Max. duration #{CaptionTime}# seconds{nl}Range projectile, Magic defense not possible
 SKILL_20150428_004075	{memo X}Attack #{SkillAtkAdd}#{nl}Use 2 Stamina
 SKILL_20150428_004076	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Attack enemy with tip of the hand to cause internal damage.
 SKILL_20150428_004077	{memo X}Attack per strike #{SkillAtkAdd}#{nl}Use #{CaptionRatio}# SP per 0.5 seconds
-SKILL_20150428_004078	$Maximum duration: #{CaptionTime}# seconds{nl}Able to defend from ranged projectiles and magic
+SKILL_20150428_004078	$Maximum Duration: #{CaptionTime}# seconds{nl}Able to defend from ranged projectiles and magic
 SKILL_20150428_004079	$Maximum Purchase Quantity: #{CaptionRatio}#
 SKILL_20150428_004080	Remove magic circle nearby{nl}Max Duration 30 seconds{nl}Target #{CaptionRatio}#
 SKILL_20150428_004081	Can open the treasure chest easily
@@ -4134,13 +4134,13 @@ SKILL_20150714_004133	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRat
 SKILL_20150714_004134	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio}#%{nl}{#339999}{ol}[Shock]{/}{/} Duration: #{CaptionTime}# seconds {nl}AoE Attack Ratio: #{SkillSR}#
 SKILL_20150714_004135	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio}#%{nl}Medium-type Targets: 2 consecutive attacks{nl}Large-type Targets: 3 consecutive attacks
 SKILL_20150714_004136	$Spear Attack: #{SkillAtkAdd}#{nl}Shield Attack: #{CaptionRatio}#{nl}Attribute Attack: #{CaptionRatio2}#%{nl}AoE Attack Ratio: #{SkillSR}#
-SKILL_20150714_004137	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio}#%{nl}Maximum duration: 5 seconds{nl}Consumes Stamina
+SKILL_20150714_004137	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio}#%{nl}Maximum Duration: 5 seconds{nl}Consumes Stamina
 SKILL_20150714_004138	{memo X}Attack #{SkillAtkAdd}#{nl}Attribute Attack #{CaptionRatio}#%{nl}{#339999}{ol}[Stun]{/}{/} Duration 7 seconds
 SKILL_20150714_004139	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio}#%{nl}{#339999}{ol}[Darkness]{/}{/} Duration: 3 seconds{nl}AoE Attack Ratio: #{SkillSR}#
 SKILL_20150714_004140	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio2}#%{nl}Defense: -#{CaptionRatio}#{nl}{#339999}{ol}[Unbalance]{/}{/} Duration: #{CaptionTime}# seconds
 SKILL_20150714_004141	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio}#%{nl}Maximum Duration: 10 seconds
 SKILL_20150714_004142	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio}#%{nl}AoE Attack Ratio: #{SkillSR}#{nl}Able to use while riding
-SKILL_20150714_004143	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio}#%{nl}Maximum duration: 10 seconds{nl}AoE Attack Ratio: #{SkillSR}#{nl}Able to use while riding
+SKILL_20150714_004143	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio}#%{nl}Maximum Duration: 10 seconds{nl}AoE Attack Ratio: #{SkillSR}#{nl}Able to use while riding
 SKILL_20150714_004144	$Attack: #{SkillAtkAdd}#{nl}AoE Attack Ratio: #{SkillSR}#{nl}Able to use while riding
 SKILL_20150714_004145	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio}#%{nl}Maximum Duration: 10 seconds{nl}Consumes Stamina
 SKILL_20150714_004146	{memo X}Attack #{SkillFactor}#% + #{SkillAtkAdd}#{nl}Attribute Attack #{CaptionRatio2}#%{nl}#{CaptionRatio}#Continouse hits
@@ -4201,14 +4201,14 @@ SKILL_20150714_004200	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRat
 SKILL_20150714_004201	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio2}#%{nl}Physical Defense: -#{CaptionRatio}#% {nl}Removes Reflect Shield{nl}Consumes 1 Bodkin Arrow
 SKILL_20150714_004202	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio}#%{nl}Cloth armor-type Targets: 3 hits{nl}Leather armor-type Targets: 2 hits{nl}Plate armor-Type targets: 1 hit{nl}Ghost armor-type targets: Nullifies{nl}Consumes 1 Barbed Arrow
 SKILL_20150714_004203	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio2}#%{nl}Explosion Attack: #{CaptionRatio}#%{nl}Consumes 1 Hailmary Arrow
-SKILL_20150714_004204	$Attribute Attack: #{CaptionRatio}#%{nl}Duration: 10 seconds{nl}Number of hits: #{CaptionRatio2}#{nl}Consumes 1 Magic Arrow
+SKILL_20150714_004204	$Attribute Attack: #{CaptionRatio}#%{nl}Duration: 10 seconds{nl}Number of Hits: #{CaptionRatio2}#{nl}Consumes 1 Magic Arrow
 SKILL_20150714_004205	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio}#%{nl}Duration: 10 seconds{nl}Consumes 1 Divine Arrow
 SKILL_20150714_004206	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio}#%{nl}Able to use while riding
 SKILL_20150714_004207	Fly circling around target area. Range defense of enemies within target area decreases.
 SKILL_20150714_004208	$AoE Defense Ratio: -#{CaptionRatio}# {nl}Duration: 10 seconds
 SKILL_20150714_004209	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionTime}#%{nl}HP Recovery: #{CaptionRatio}# ~ #{CaptionRatio2}#{nl}Magic Circle Duration: 40 seconds
-SKILL_20150714_004210	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio2}#%{nl}Number of hits: #{CaptionRatio}#{nl}Magic Circle Duration: #{CaptionTime}# seconds
-SKILL_20150714_004211	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio2}#%{nl}Number of hits: #{CaptionRatio}#{nl}Magic Circle Duration: 30 seconds
+SKILL_20150714_004210	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio2}#%{nl}Number of Hits: #{CaptionRatio}#{nl}Magic Circle Duration: #{CaptionTime}# seconds
+SKILL_20150714_004211	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio2}#%{nl}Number of Hits: #{CaptionRatio}#{nl}Magic Circle Duration: 30 seconds
 SKILL_20150714_004212	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio2}#%{nl}Defense: +#{CaptionRatio}#{nl}Targets: 10{nl}Duration: #{CaptionTime}# seconds{nl}Consumes 1 Holy Water
 SKILL_20150714_004213	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio2}#%{nl}Duration: #{CaptionTime}# seconds
 SKILL_20150714_004214	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionTime}#%{nl}Bonus on 3rd attack: x#{CaptionRatio}# ~ x#{CaptionRatio2}#
@@ -4953,7 +4953,7 @@ SKILL_20150729_004952	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRat
 SKILL_20150729_004953	{memo X}ATK #{SkillAtkAdd}#{nl}Attribute ATK #{CaptionRatio}#%{nl}Defense Trap duration 15sec{nl}Use 3 Ash wood
 SKILL_20150729_004954	$Temporarily increases the movement speed of your Companion.
 SKILL_20150729_004955	$Attribute Attack: #{CaptionRatio}#%{nl}Duration: #{CaptionRatio2}# seconds
-SKILL_20150729_004956	$Maximum duration: 10 seconds{nl}Consumes #{CaptionRatio}#% SP per second
+SKILL_20150729_004956	$Maximum Duration: 10 seconds{nl}Consumes #{CaptionRatio}#% SP per second
 SKILL_20150729_004957	$HP recovery: +#{CaptionRatio}#{nl}HP Recovery Time: -#{CaptionRatio2}# seconds{nl}Torch Duration: #{CaptionTime}# seconds
 SKILL_20150729_004958	$Maximum Amount: +#{SkillFactor}#{nl}Duration: 200 seconds
 SKILL_20150729_004959	$Maximum Duration: 20 seconds {nl}Consumes #{CaptionRatio}#% SP per second
@@ -4999,12 +4999,12 @@ SKILL_20150803_004998	$Physical Damage: +#{CaptionRatio}#{nl} Range: +#{CaptionR
 SKILL_20150803_004999	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio}#%{nl}#Number of caltrops: {CaptionRatio2}#{nl}Caltrop duration: #{CaptionTime}# seconds
 SKILL_20150803_005000	$Attack: 150% +#{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio}#%{nl}{#339999}{ol}[Stun]{/}{/} Duration: #{CaptionTime}# seconds{nl}Consumes 1 Stone Bullet
 SKILL_20150803_005001	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio}#%{nl}Trap duration: 15seconds{nl}Consumes 3 Ash Wood
-SKILL_20150803_005002	$Maximum duration: #{CaptionRatio}# seconds
+SKILL_20150803_005002	$Maximum Duration: #{CaptionRatio}# seconds
 SKILL_20150803_005003	$Creates a magic circle that turns a dead enemy into a zombie. The HP of the created zombie is based on the caster's SPR.
 SKILL_20150803_005004	$Maximum HP: +#{CaptionRatio}#{nl}Movement Speed: +#{CaptionRatio2}#% Duration: #{CaptionTime}# seconds{nl}Glyph duration: 15 seconds
 SKILL_20150803_005005	$STR: +#{CaptionRatio}#{nl}Duration: #{CaptionRatio2}#{nl}Glyph duration: 15 seconds
 SKILL_20150803_005006	$Attribute Attack: #{CaptionRatio2}#%{nl}Additional Damage to Plant-type monsters: +#{CaptionRatio}#{nl}Drop rate for statue materials: #{CaptionTime}#%
-SKILL_20150803_005007	$Can use monster's skill{nl}Maximum duration: #{CaptionTime}# seconds
+SKILL_20150803_005007	$Can use monster's skill{nl}Maximum Duration: #{CaptionTime}# seconds
 SKILL_20150803_005008	$Effigy Enhance
 SKILL_20150803_005009	$Increases the attack bonus of Effigy
 SKILL_20150803_005010	$Increases the additional damage of [Concentrate] by 2 per attribute level.
@@ -5111,7 +5111,7 @@ SKILL_20150918_005110
 SKILL_20150918_005111	
 SKILL_20150918_005112	
 SKILL_20150918_005113	
-SKILL_20150918_005114	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio2}#%{nl}Physical Defense +#{CaptionRatio}#%{nl}Targets: 10{nl}Duration: #{CaptionTime}# seconds{nl}Consumes 1 Holy Water
+SKILL_20150918_005114	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio2}#%{nl}Physical Defense: +#{CaptionRatio}#%{nl}Targets: 10{nl}Duration: #{CaptionTime}# seconds{nl}Consumes 1 Holy Water
 SKILL_20150918_005115	$Maximum number of Magic Circles: #{SkillFactor}#{nl}Increases DEX for allies{nl}Enemy's Evasion & Defense: -#{CaptionRatio}#{nl} Duration: #{CaptionTime}# seconds
 SKILL_20150918_005116	$Mass Heal
 SKILL_20150918_005117	$Restores your HP and that of your allies in front of you. 
