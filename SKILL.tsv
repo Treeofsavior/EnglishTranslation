@@ -1867,7 +1867,7 @@ SKILL_20150317_001866	$Unbalance
 SKILL_20150317_001867	Enemies become defenseless and vulnerable to knock down attacks.
 SKILL_20150317_001868	{memo X}Enemy's companion bites and holds. Become vulnerable to arrow attacks.
 SKILL_20150317_001869	Defense increases while attack decreases.
-SKILL_20150317_001870	Become vulnerable to stabbing attacks.
+SKILL_20150317_001870	Become vulnerable to piercing attacks.
 SKILL_20150317_001871	Play the flute.
 SKILL_20150317_001872	Whistle.. Somehow I want to follow it
 SKILL_20150317_001873	$Murmillo
@@ -1982,7 +1982,7 @@ SKILL_20150317_001981	$Adds additional damage to frozen enemies when attacking w
 SKILL_20150317_001982	$Rupture Blow
 SKILL_20150317_001983	Has a chance of inflicting damage with an explosion on nearby enemies when attacking with Strike-attacks. (5% chance of activating per level)
 SKILL_20150317_001984	$Rupture
-SKILL_20150317_001985	$Increases damage when using a Blunt weapon on chain armor-type enemies.{nl}(Increases by 20% per level)
+SKILL_20150317_001985	$Increases damage when using a [Blunt] type weapon on Plate armor-type enemies.{nl}(Increases by 20% per level)
 SKILL_20150317_001986	Overcome
 SKILL_20150317_001987	$Increases Critical Chance when using Sword items.{nl}(Increases Critical by 10% per level)
 SKILL_20150317_001988	$Jump
@@ -2412,7 +2412,7 @@ SKILL_20150317_002411	$Increases your movement speed by 10% per attribute level 
 SKILL_20150317_002412	$Undistance: Physical Damage
 SKILL_20150317_002413	{memo X}Physical attack of allies within [Undistance] increases by 5% per attribute level.
 SKILL_20150317_002414	$Reconnaissance: Pierce Damage
-SKILL_20150317_002415	Monsters revealed with [Reconaissance] receive 10% more stab damage per level while the skill is enabled.
+SKILL_20150317_002415	Monsters revealed with [Reconaissance] receive 10% more Pierce damage per level while the skill is enabled.
 SKILL_20150317_002416	Be Prepared: Reset Aggro
 SKILL_20150317_002417	Character's aggro value held by enemy resets when using [Be Prepared]
 SKILL_20150317_002418	$Sneak Hit: Duration
@@ -3620,7 +3620,7 @@ SKILL_20150414_003619	$Block: +#{CaptionRatio}# {nl}Attack: -#{CaptionTime}#% {n
 SKILL_20150414_003620	{#DD5500}{ol}[Physical] - [Strike] - [Slash]{/}{/}{nl}Use shield and sword to make continuous attacks.
 SKILL_20150414_003621	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Use weapon to raise and blow away enemy.
 SKILL_20150414_003622	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Smack down enemy's head. Target's INT and SPR temporarily decrease.
-SKILL_20150414_003623	$Use your weapon to take a defensive stance. Blocked enemies become vulnerable to stab attacks.
+SKILL_20150414_003623	$Use your weapon to take a defensive stance. Blocked enemies become vulnerable to Pierce attacks.
 SKILL_20150414_003624	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Swing sword around to make continuous attack.
 SKILL_20150414_003625	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Strike and push enemy sidewards using the side of sword. Enemy's shield is destroyed.
 SKILL_20150414_003626	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Repeatedly stab enemy with spear.
@@ -3642,7 +3642,7 @@ SKILL_20150414_003641	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Throw spear ove
 SKILL_20150414_003642	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Drag around and hit enemy.
 SKILL_20150414_003643	$Increases your attack when you keep repeatedly attacking one particular enemy.
 SKILL_20150414_003644	{memo X}Your attack hits target but chance of critical and critical evasion decreases?
-SKILL_20150414_003645	Temporarily make stab attacks be applied as repeated attacks.
+SKILL_20150414_003645	Temporarily make pierce attacks be applied as repeated attacks.
 SKILL_20150414_003646	{memo X}Temporarily decrease defense of nearby enemies, and add that much to your ATK.
 SKILL_20150414_003647	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Tramp down on enemy while on air or jumping.
 SKILL_20150414_003648	${#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Charge forward to attack enemies blocking your way.
@@ -4739,8 +4739,8 @@ SKILL_20150717_004738	{memo X}Max SP and Magic DEF increase based on number of [
 SKILL_20150717_004739	{memo X}Evasion increases based on number of [Leather] armor equipped and Attribute level. (at least 3 same equipment type).
 SKILL_20150717_004740	{memo X}Max HP and Physical DEF increase based on number of [Plate] armor equipped and Attribute level. (at least 3 same equipment type).
 SKILL_20150717_004741	Incurs additional 20 damage per Attribute level whenever attack from an enemy's back with dagger.
-SKILL_20150717_004742	$Increases the physical damage increase effect of [Gung Ho] by 1, while decreasing the decreased defense effect by 1 per attribute level.
-SKILL_20150717_004743	$Adds the AoE Attack Ratio of [Bash] by 1 per attribute level.
+SKILL_20150717_004742	$Increases the physical damage increase effect and the defense decrease effect of [Gung Ho] by 1 per attribute level.
+SKILL_20150717_004743	$Increases the AoE Attack Ratio of [Bash] by 1 per attribute level.
 SKILL_20150717_004744	$Enemies affected by [Stun] because of [Thrust] will be afflicted with [Bleeding] for 5 seconds. Bleeding damage depends on your STR.
 SKILL_20150717_004745	$Enemies hit by [Umbo Blow] have a 5% chance to become stunned for 3 seconds per attribute level.
 SKILL_20150717_004746	$Increases the AoE Attack Ratio of [Shield Lob] by 1 per attribute level.
@@ -5234,7 +5234,7 @@ SKILL_20150918_005233	$Cloaking: Movement Speed Increase
 SKILL_20150918_005234	$Increases the movement speed of [Cloaking] by 1 per attribute level.
 SKILL_20150918_005235	
 SKILL_20150918_005236	
-SKILL_20150918_005237	$Deals 10% additional damage to Plant-type monsters when equipped with a [Blunt].
+SKILL_20150918_005237	$Deals 10% additional damage to Plant-type monsters when equipped with a [Blunt] type weapon.
 SKILL_20150918_005238	
 SKILL_20150918_005239	Conversion: Might Enhance
 SKILL_20150918_005240	
