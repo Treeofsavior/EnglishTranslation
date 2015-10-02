@@ -1,9 +1,9 @@
-##NOTICE (Updated 01-10-2015)
+##NOTICE (Updated 02-10-2015)
 <br>
 **GUIDELINES IN WIKI HAVE BEEN UPDATED** <br>
 **PLEASE CHECK THE [GUIDELINES](https://github.com/Treeofsavior/EnglishTranslation/wiki/Guidelines) BEFORE SENDING YOUR PULL REQUESTS.**
 
-1. Latest translations have been updated. (**NEW**)
+1. {memo X} have been updated to English files. (**NEW**)
 
 2. Please send a separate Pull Request for EACH FILE. 
 
@@ -46,7 +46,7 @@ You may also create new issues to discuss the translations with other translator
 
 #### Don't know Korean but still want to contribute?  
 
-You can still contribute by editing translation errors :)
+You can still contribute by proofreading and editing translation errors :)
 
 **Tip:** The translations should be kept as short as possible to fit in game UI. 
 
