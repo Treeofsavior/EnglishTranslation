@@ -477,10 +477,10 @@ UI_20150317_000476	{@st43}Companion Info
 UI_20150317_000477	{@st59b} Companion Info{nl}{@st59s} - You can set your Companion to Active or in Rest Mode using the button below. {nl} - The attributes and equipped items of your Companion can be customized. {/}
 UI_20150317_000478	{@st59}Close Companion Info{/}
 UI_20150317_000479	{memo X}{@st41b}Name : {@sti9}%s{/}
-UI_20150317_000480	{@sti9}%s{@st41b}Closeness : {@sti9}%s {@st41b}Level{/}
-UI_20150317_000481	{@st41b}EXP{/}
-UI_20150317_000482	{@st41b}Stamina{/}
-UI_20150317_000483	{@st41b}Closeness{/}
+UI_20150317_000480	{memo X}{@sti9}%s{@st41b}Closeness : {@sti9}%s {@st41b}Level{/}
+UI_20150317_000481	{memo X}{@st41b}EXP{/}
+UI_20150317_000482	{memo X}{@st41b}Stamina{/}
+UI_20150317_000483	{memo X}{@st41b}Closeness{/}
 UI_20150317_000484	{memo X}{@st41b}Attributes and Information
 UI_20150317_000485	{@st43}Companion{/}
 UI_20150317_000486	{@st59b}Companion{nl}{@st59s} - Click on an item in the list to view more information. {/}
@@ -602,12 +602,12 @@ UI_20150317_000601	{@st42}Repair{/}
 UI_20150317_000602	{@st59}Repair as current settings{/}
 UI_20150317_000603	{@st59}Do not repair{/}
 UI_20150317_000604	{@st44}Resume{/}
-UI_20150317_000605	{@st41b}You have become {/}{s20}{#cc6600}{ol} incapable of combat{/}{@st41b}{/}
-UI_20150317_000606	{@st41b}Respawn from the nearest Revival Point{/}
-UI_20150317_000607	{@st41b}Respawn here (requires %s iCoins) {/}
-UI_20150317_000608	{@st41b}Return to field{/}
-UI_20150317_000609	{@st41b}Abandon quest and restart{/}
-UI_20150317_000610	{@st41b}Try again{/}
+UI_20150317_000605	{memo X}{@st41b}You have become {/}{s20}{#cc6600}{ol} incapable of combat{/}{@st41b}{/}
+UI_20150317_000606	{memo X}{@st41b}Respawn from the nearest Revival Point{/}
+UI_20150317_000607	{memo X}{@st41b}Respawn here (requires %s iCoins) {/}
+UI_20150317_000608	{memo X}{@st41b}Return to field{/}
+UI_20150317_000609	{memo X}{@st41b}Abandon quest and restart{/}
+UI_20150317_000610	{memo X}{@st41b}Try again{/}
 UI_20150317_000611	Sanctuary of Resurrection (70031)
 UI_20150317_000612	This item is required.
 UI_20150317_000613	Rest Quickslot
@@ -631,7 +631,7 @@ UI_20150317_000630	{@st41b}Items Purchased{/}
 UI_20150317_000631	{@st41b}Items Sold{/}
 UI_20150317_000632	{memo X}{@st41b}Price{/}
 UI_20150317_000633	{memo X}{@st41b}Balance{/}
-UI_20150317_000634	{@st41b}My Sold Items{/}
+UI_20150317_000634	{memo X}{@st41b}My Sold Items{/}
 UI_20150317_000635	{@st41}Empty slots{/}
 UI_20150317_000636	{@st43}Total{/}
 UI_20150317_000637	{@st41}Settle Transaction{/}
@@ -1307,7 +1307,7 @@ UI_20150323_001306	{@st59}Renews the lasting time.{/}
 UI_20150323_001307	{memo X}{@st41b}Base Camp Lasting Time
 UI_20150323_001308	{@st41b}Effect
 UI_20150323_001309	{memo X}{@st42b}A base camp lasts for an additional 24 hours when renewed. Consumes %s silver.
-UI_20150323_001310	{@st41b}Personal Storage
+UI_20150323_001310	{memo X}{@st41b}Personal Storage
 UI_20150323_001311	{memo X}{@stc1}Storing and taking items in and from storage costs %s silver.{/}
 UI_20150323_001312	{memo X}{@st41}{#ffff00}Lock Target{/}
 UI_20150323_001313	{@st43}Refreshment Table
@@ -1339,7 +1339,7 @@ UI_20150323_001338	Amount Left
 UI_20150323_001339	{@st42}Close
 UI_20150323_001340	${@st43}Weapon Maintenance{/}
 UI_20150323_001341	${@st43}Equipment Maintenance{/}
-UI_20150323_001342	{@st41b}Price to receive
+UI_20150323_001342	{memo X}{@st41b}Price to receive
 UI_20150323_001343	{@st41b}Materials
 UI_20150323_001344	{@st43}Repair{/}
 UI_20150323_001345	{@st41b}Repair{/}
@@ -1400,8 +1400,8 @@ UI_20150323_001399	Unit Price
 UI_20150323_001400	{memo X}{@sti5}×%s{/}
 UI_20150323_001401	{@st41}Eat
 UI_20150323_001402	{@st41}Craft
-UI_20150323_001403	{@st41}Quantity
-UI_20150323_001404	{@st41}Consumable Material
+UI_20150323_001403	{memo X}{@st41}Quantity
+UI_20150323_001404	{memo X}{@st41}Consumable Material
 UI_20150401_001405	{@st59}Close Briquetting{/}
 UI_20150401_001406	{memo X}{@st41}Remove Base Camp
 UI_20150401_001407	{@st43}[Circle %s]{/}
@@ -1427,7 +1427,7 @@ UI_20150401_001426	Offer
 UI_20150401_001427	Settle Transaction
 UI_20150401_001428	Estimated Balance
 UI_20150401_001429	{@st45tw}Offering Box
-UI_20150401_001430	{@st41}Empty
+UI_20150401_001430	{memo X}{@st41}Empty
 UI_20150401_001431	{@st43}Current zone user list{/}
 UI_20150401_001432	{@st59}Close GM UI list{/}
 UI_20150401_001433	{memo X}{@st41}Party Description :
@@ -1456,9 +1456,9 @@ UI_20150401_001455	{memo X}{@st42}Amount
 UI_20150406_001456	{@st43}Base Camp
 UI_20150406_001457	{@st42}Construct
 UI_20150406_001458	{@st42}Cancel
-UI_20150406_001459	{@stc1}Camp Duration
+UI_20150406_001459	{memo X}{@stc1}Camp Duration
 UI_20150406_001460	{@st41b}Base Camp
-UI_20150406_001461	{@st41b}Camp Duration
+UI_20150406_001461	{memo X}{@st41b}Camp Duration
 UI_20150406_001462	{memo X}{@st42b}A base camp lasts for an additional 24 hours when renewed. {nl}%s silver is consumed.
 UI_20150406_001463	{memo X}{@st41}Remove Camp
 UI_20150406_001464	{memo X}{@st42}Remove Table
@@ -1477,9 +1477,9 @@ UI_20150406_001476	{@st59}Sell the item(s) you've added.{/}
 UI_20150406_001477	{@st59}Close Personal Storage{/}
 UI_20150406_001478	{memo X}{@st41b} %s silver is consumed when storing and taking items from storage.{/}
 UI_20150406_001479	{@st41b}Quantity
-UI_20150414_001480	{@st42b}The duration of your camp can be increased.{nl} Cost: %s silver.
-UI_20150414_001481	{@st41b}Type {@sti7}%s{/}
-UI_20150414_001482	{@st41b}Control Difficulty {@sti7}%s{/}
+UI_20150414_001480	{memo X}{@st42b}The duration of your camp can be increased.{nl} Cost: %s silver.
+UI_20150414_001481	{memo X}{@st41b}Type {@sti7}%s{/}
+UI_20150414_001482	{memo X}{@st41b}Control Difficulty {@sti7}%s{/}
 UI_20150414_001483	{@st59b} Item {/}
 UI_20150414_001484	{@st59b} Monster {/}
 UI_20150414_001485	{@st59b} Move Map {/}
@@ -1625,7 +1625,7 @@ UI_20150714_001624	{@st59}Close Skills & Attributes{/}
 UI_20150714_001625	{@st43}Skills & Attributes{/}
 UI_20150714_001626	Remaining Status Points {nl}{@st46}%s
 UI_20150714_001627	Likes Received : %s
-UI_20150714_001628	{@st66b}Show EXP acquired{/}
+UI_20150714_001628	{memo X}{@st66b}Show EXP acquired{/}
 UI_20150714_001629	{@st66b}Show Character Name{/}
 UI_20150714_001630	{@st66b}Show Team Name only{/}
 UI_20150714_001631	{@st66b}Show Other Players' Names{/}
@@ -1699,7 +1699,7 @@ UI_20150717_001698	{@st66b}Enter
 UI_20150717_001699	{@st42}My Summon Info
 UI_20150717_001700	Your movement slows down when you do not have enough{@st59}STA{/}
 UI_20150717_001701	{@st59}Sorts your inventory{/}
-UI_20150717_001702	Sort
+UI_20150717_001702	{memo X}Sort
 UI_20150717_001703	{@st59}Close Joypad Control Info.{/}
 UI_20150717_001704	{@st59}Close Keyboard Control info.{/}
 UI_20150717_001705	Mouse Tutorial
@@ -1761,9 +1761,9 @@ UI_20150729_001760	{@st59}Accept Party Mission{/}
 UI_20150729_001761	{@st59}Delete this Ticket{/}
 UI_20150729_001762	Score
 UI_20150729_001763	Join Team Battle League
-UI_20150730_001764	{@st56}My Rank
-UI_20150730_001765	{@st56}Kill Rank
-UI_20150730_001766	{@st56}Damage Rank
+UI_20150730_001764	{memo X}{@st56}My Rank
+UI_20150730_001765	{memo X}{@st56}Kill Rank
+UI_20150730_001766	{memo X}{@st56}Damage Rank
 UI_20150803_001767	General: /s chat{nl}Shout: /y chat {nl}Party: /p chat{nl} Whisper: /w TeamName Chat
 UI_20150803_001768	{@st66b}Joypad Vibration{/}
 UI_20150803_001769	A match has been found. Please wait until you can join the game.
@@ -1796,8 +1796,8 @@ UI_20150918_001795	{@st41b}Obtained material for crafting an item!
 UI_20150918_001796	{@st66b}{s20}You have become {/}{s20}{#cc6600}{ol}Incapable of Combat {/}{@st66b}{s20}!{/}
 UI_20150918_001797	{@st66b}Restart from nearest the Revival Point{/}
 UI_20150918_001798	{@st66b}Restart here (requires %s iCoins){/}
-UI_20150918_001799	{@st66b}Return to field{/}
-UI_20150918_001800	{@st66b}Abandon quest and try again{/}
+UI_20150918_001799	{@st66b}Return to the field{/}
+UI_20150918_001800	{@st66b}Abandon the quest and try again{/}
 UI_20150918_001801	{@st66b}Try Again{/}
 UI_20150918_001802	{@st66b}Items Sold{/}
 UI_20150918_001803	{@st53}Ranking Points : %s
