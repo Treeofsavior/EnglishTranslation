@@ -1,9 +1,9 @@
-##NOTICE (Updated 01-10-2015)
+##NOTICE (Updated 02-10-2015)
 <br>
 **GUIDELINES IN WIKI HAVE BEEN UPDATED** <br>
 **PLEASE CHECK THE [GUIDELINES](https://github.com/Treeofsavior/EnglishTranslation/wiki/Guidelines) BEFORE SENDING YOUR PULL REQUESTS.**
 
-1. Latest translations have been updated. (**NEW**)
+1. {memo X} have been updated to English files. (**NEW**)
 
 2. Please send a separate Pull Request for EACH FILE. 
 
