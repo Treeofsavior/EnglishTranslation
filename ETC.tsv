@@ -2586,7 +2586,7 @@ ETC_20150317_002585	Break Ice Rim Blow
 ETC_20150317_002586	Break Rim Blow
 ETC_20150317_002587	Adjust Rim Blow
 ETC_20150317_002588	Close Shot Penalty
-ETC_20150317_002589	Wood Engraving Attack
+ETC_20150317_002589	Carve
 ETC_20150317_002590	Leave Guild
 ETC_20150317_002591	Party Request
 ETC_20150317_002592	Failed to create a party
@@ -2744,9 +2744,9 @@ ETC_20150317_002743	Enhance Potential
 ETC_20150317_002744	Sell Price to Shop
 ETC_20150317_002745	Equip Level
 ETC_20150317_002746	Equip Class
-ETC_20150317_002747	Stabbing
-ETC_20150317_002748	Slashes
-ETC_20150317_002749	Blows
+ETC_20150317_002747	Piercing
+ETC_20150317_002748	Slashing
+ETC_20150317_002749	Striking
 ETC_20150317_002750	Increase Area
 ETC_20150317_002751	Increase area of slash
 ETC_20150317_002752	Attack Range
@@ -2807,9 +2807,9 @@ ETC_20150317_002806	Earth Attack
 ETC_20150317_002807	Earth Resistance
 ETC_20150317_002808	Physical damage when mounted
 ETC_20150317_002809	Magic damage when mounted
-ETC_20150317_002810	Stab Defense
+ETC_20150317_002810	Pierce Defense
 ETC_20150317_002811	Slash Defense
-ETC_20150317_002812	Blow Defense
+ETC_20150317_002812	Strike Defense
 ETC_20150317_002813	Available Carry Weight
 ETC_20150317_002814	Very Easy
 ETC_20150317_002815	Easy
@@ -2965,8 +2965,8 @@ ETC_20150317_002964	Holy
 ETC_20150317_002965	Earth
 ETC_20150317_002966	NA
 ETC_20150317_002967	Slash
-ETC_20150317_002968	Stab
-ETC_20150317_002969	Hit
+ETC_20150317_002968	Pierce
+ETC_20150317_002969	Strike
 ETC_20150317_002970	Magic
 ETC_20150317_002971	Physical
 ETC_20150317_002972	Distant
@@ -4338,9 +4338,9 @@ ETC_20150317_004337	's Bulletin Board
 ETC_20150317_004338	Reset Status Points
 ETC_20150317_004339	Requires iCoin.{nl}Are you sure you want to reset?
 ETC_20150317_004340	{memo X}{@st59} Increase in Physical Attack and Critical Attack{/}
-ETC_20150317_004341	{@st59} Increase in HP, HP Recovery, Critical Resistance and maximum Carry Weight{/}
+ETC_20150317_004341	{@st59} Increases HP, HP Recovery, Critical Resistance and maximum Carry Weight{/}
 ETC_20150317_004342	{memo X}{@st59} Increase in Magic Damage and Block Penetration{/}
-ETC_20150317_004343	{@st59} Increase in Accuracy, Evasion and Critical Rate {/}
+ETC_20150317_004343	{@st59} Increases Accuracy, Evasion and Critical Rate {/}
 ETC_20150317_004344	] Do you want to use this card?
 ETC_20150317_004345	Distance
 ETC_20150317_004346	{s16}{ol} Defense {/}{/}{/}{nl}{s18}{ol}
@@ -7371,12 +7371,12 @@ ETC_20150317_007369	Mutant-type +%d
 ETC_20150317_007370	Mutant-type Resistance +%d
 ETC_20150317_007371	Beast-type +%d
 ETC_20150317_007372	Beast-type Resistance +%d
-ETC_20150317_007373	Stab Damage +%d
-ETC_20150317_007374	Stab Resistance +%d
+ETC_20150317_007373	Pierce Damage +%d
+ETC_20150317_007374	Pierce Resistance +%d
 ETC_20150317_007375	Slash Damage +%d
 ETC_20150317_007376	Slash Resistance +%d
-ETC_20150317_007377	Hit +%d
-ETC_20150317_007378	Hit Resistance +%d
+ETC_20150317_007377	Strike Damage +%d
+ETC_20150317_007378	Strike Resistance +%d
 ETC_20150317_007379	Fire Damage +%d
 ETC_20150317_007380	Fire Resistance +%d
 ETC_20150317_007381	Ice Damage +%d
@@ -11173,7 +11173,7 @@ ETC_20150414_011172	Equip Two-Handed Sword
 ETC_20150414_011173	Equip One-Handed Sword
 ETC_20150414_011174	Equip One-Handed Sword and Shield
 ETC_20150414_011175	Equip Two-Handed Bow
-ETC_20150414_011176	Equip Blunt and Shield
+ETC_20150414_011176	Equip Blunt Weapon and Shield
 ETC_20150414_011177	Equip Shield
 ETC_20150414_011178	Equip Sorcerer
 ETC_20150414_011179	Bow Unequipped
@@ -11454,7 +11454,7 @@ ETC_20150428_011453	Your search query must contain at least {LEN} characters.
 ETC_20150428_011454	Sending successful. Thank you.
 ETC_20150428_011455	Failed to send.
 ETC_20150428_011456	This card is unequipped. Cannot be summoned.
-ETC_20150428_011457	One-Handed Blunt
+ETC_20150428_011457	One-Handed Blunt Weapon
 ETC_20150428_011458	One-Handed Spear
 ETC_20150428_011459	Pistol
 ETC_20150428_011460	Artifact
@@ -12209,7 +12209,7 @@ ETC_20150714_012208	Reject Friend Request (developing)
 ETC_20150714_012209	Use Forbidden words
 ETC_20150714_012210	Help!/What is this all about/Someone bring the guys up here!
 ETC_20150714_012211	One handed Sword Shield
-ETC_20150714_012212	Blunt Shield
+ETC_20150714_012212	Blunt Weapon Shield
 ETC_20150714_012213	Archer Does not have a bow
 ETC_20150714_012214	Twin Bows
 ETC_20150714_012215	Crossbow Sub
@@ -13612,7 +13612,7 @@ ETC_20150717_013611	{memo X}Suspicious Sculpture
 ETC_20150717_013612	This game is rated ESRB Teen.
 ETC_20150717_013613	{How} Silver obtained.
 ETC_20150717_013614	{memo X}{@st59}Increase in Max SP, SP Recovery and Block Penetration{/}
-ETC_20150717_013615	{@st59}Increase in Magic Attack{/}
+ETC_20150717_013615	{@st59}Increases Magic Attack{/}
 ETC_20150729_013616	Colimen
 ETC_20150729_013617	Mine Trap
 ETC_20150729_013618	Basic Trap
@@ -13965,7 +13965,7 @@ ETC_20150729_013964	This monster has a detonator!
 ETC_20150729_013965	The terminal rejected accesss!
 ETC_20150729_013966	You will lost your energy to the terminal for 1 minute!{nl}Sitrigaila could eliminate all the evil energy!
 ETC_20150729_013967	Obtained all core required.
-ETC_20150729_013968	{@st59}Increase in Max SP, SP Recovery, Block Penetration and Magic Defense{/}
+ETC_20150729_013968	{@st59}Increases Max SP, SP Recovery, Block Penetration and Magic Defense{/}
 ETC_20150729_013969	You can clearly hear the sounds of devices!{nl}When you go to 5th area, a lubricant should be there
 ETC_20150729_013970	Asking about the eternal life
 ETC_20150729_013971	You've dedicated the tendon of Big Siaulamb as an offering
@@ -14014,7 +14014,7 @@ ETC_20150729_014013	The ticket will be expired when you cancel it. Do you want t
 ETC_20150729_014014	Found the Great King's Key!
 ETC_20150729_014015	{s16}{ol}{#ffcc33}[{Auto_1}] Explore Rate {nl}{Auto_2}/{Auto_3}
 ETC_20150729_014016	{cl}{s16}{ol}{#ffcc33}{Auto_1} Complete Explore Rate
-ETC_20150729_014017	{@st59} Increase in Physical Attack, Critical Attack and maximum Carry Weight{/}
+ETC_20150729_014017	{@st59} Increases Physical Attack, Critical Attack and maximum Carry Weight{/}
 ETC_20150729_014018	Previous Warp
 ETC_20150729_014019	Exceeded the number of Mission Instance. Try again later
 ETC_20150729_014020	[Doppelsoeldner Master]{nl} Guera
