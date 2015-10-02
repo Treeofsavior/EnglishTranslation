@@ -46,7 +46,7 @@ You may also create new issues to discuss the translations with other translator
 
 #### Don't know Korean but still want to contribute?  
 
-You can still contribute by editing translation errors :)
+You can still contribute by proofreading and editing translation errors :)
 
 **Tip:** The translations should be kept as short as possible to fit in game UI. 
 
