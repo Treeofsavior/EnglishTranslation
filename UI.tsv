@@ -277,7 +277,7 @@ UI_20150317_000276	{@st59}Right Hand{/}
 UI_20150317_000277	{@st59}Bracelet 1{/}
 UI_20150317_000278	{@st59}Bracelet 2{/}
 UI_20150317_000279	{@st59}Armband{/}
-UI_20150317_000280	{@st59}Search for the keyword{/}
+UI_20150317_000280	{@st59}Search{/}
 UI_20150317_000281	Weight
 UI_20150317_000282	{memo X}{@st43}Equipment Buff{/}
 UI_20150317_000283	{@st59}Close the Item Repair UI{/}
@@ -298,7 +298,7 @@ UI_20150317_000297	Kills
 UI_20150317_000298	99 minutes 99 seconds
 UI_20150317_000299	38000 points
 UI_20150317_000300	Enhanced Speed Potion
-UI_20150317_000301	{@st41}OK {/}
+UI_20150317_000301	{@st41}Confirm{/}
 UI_20150317_000302	${@st59b} Adventure Journal {nl}{@st59s}- Your game progress is recorded in the Adventure Journal. {nl} - You can progress your Adventure Index through contents such as: obtaining items, hunting monsters, crafting and map exploration.{nl}    Adventure Index : The total of all your indexes. {nl}    Growth : 5 points per character level and class level {nl}    Items : Equipment : grade X 10 points, Books : 10 points, Others : 1 point {nl}    Monsters : 10 points per monster (50 points for Boss Monsters) {nl}    Maps : 1 point per 10% explored {nl}    Quests : 1 point per quest {nl}    Achievements : Varies by achievement {nl}    Crafting : 10 points {nl}    Collection : 5 points for a deck and 45 points when it is completed {nl} - You can receive special rewards from an NPC in town depending on your Adventure Index. {/}
 UI_20150317_000303	{@sti7}{s22}{ds}Achievements{/}
 UI_20150317_000304	{@st42b}{#22FF22} Top 10% / %s Points{/}
@@ -510,11 +510,11 @@ UI_20150317_000509	{@st59}Close{/}
 UI_20150317_000510	{@sti5}Total Purchase Amount: %s{/}
 UI_20150317_000511	{@sti5}Total Amount : %s{/}
 UI_20150317_000512	{@st41b} Purchase
-UI_20150317_000513	{@st43} Gained materials for a craftable item!
+UI_20150317_000513	{memo X}{@st43}Gained materials for a craftable item!
 UI_20150317_000514	{@st43}Magnum Opus{/}
 UI_20150317_000515	{@st41}Delete All
 UI_20150317_000516	{memo X}{@st42}Pension object {@stx1}(%s required){/}
-UI_20150317_000517	{@st41}Combination
+UI_20150317_000517	{@st41}Combine
 UI_20150317_000518	{@st43}Quest{/}
 UI_20150317_000519	${@st59b}Quests{nl}{@st59s} - When you are on a new quest, it will be added to the quest tracker. {nl} - A main quest is displayed in yellow color, while a subquest is displayed in blue. {nl} - The arrow on the character's foot leads to the location of your quest. {nl} - If you completed a quest, a 'Return' icon is displayed on the quest tracker. {nl}    (Teleports you to the Quest NPC using the Backspace key or a mouse-click) {nl} - Add or remove quests in the quest tracker by ticking or unticking the box in front of the quest name. {/}
 UI_20150317_000520	{@st41b}In Progress{/}
@@ -524,12 +524,12 @@ UI_20150317_000523	Mission Complete
 UI_20150317_000524	{@st41}Complete{/}
 UI_20150317_000525	Mission Progress Info
 UI_20150317_000526	{s18}{ol}Quest Information
-UI_20150317_000527	{S16}Remaining time
+UI_20150317_000527	{s16}Time Left
 UI_20150317_000528	Use quest item
 UI_20150317_000529	Quest Hint
-UI_20150317_000530	{@st41}OK{/}
+UI_20150317_000530	{@st41}Confirm{/}
 UI_20150317_000531	{@st43}{s22}Quest Completed{/}
-UI_20150317_000532	{@st41b}Complete {/}
+UI_20150317_000532	{@st41b}Complete{/}
 UI_20150317_000533	{@st41}Accept{/}
 UI_20150317_000534	{@st41}Decline{/}
 UI_20150317_000535	{@st44}Go Back{/}
@@ -863,7 +863,7 @@ UI_20150317_000862	History
 UI_20150317_000863	Rollback Value
 UI_20150317_000864	{ol}Select item
 UI_20150317_000865	Enter the name you want to search
-UI_20150317_000866	{@st42} OK {/}
+UI_20150317_000866	{@st42}Confirm{/}
 UI_20150317_000867	{@st41}Create UI{/}
 UI_20150317_000868	{ol}Frame
 UI_20150317_000869	{@st41}Frame{/}
@@ -1295,7 +1295,7 @@ UI_20150323_001294	Consume Quantity
 UI_20150323_001295	Quantity Available
 UI_20150323_001296	{memo X}{@sti6}Transaction Record
 UI_20150323_001297	{memo X}{@st43}Base Camp
-UI_20150323_001298	Signboard Name
+UI_20150323_001298	Signboard Title
 UI_20150323_001299	{memo X}{@st43}Build
 UI_20150323_001300	{memo X}{@stc1}Base Camp Lasting Time
 UI_20150323_001301	{@stc1}Effect
@@ -1364,7 +1364,7 @@ UI_20150323_001363	{memo X}{@st43}Items for sale
 UI_20150323_001364	{memo X}{@st43}Total Profit
 UI_20150323_001365	{memo X}{@st41}Sell
 UI_20150323_001366	{@st41}Alchemy Materials
-UI_20150323_001367	{@st41}For Alchemy {@stx1}(%s required){/}
+UI_20150323_001367	{@st41}Alchemy Result {@stx1}(%s required){/}
 UI_20150323_001368	{@st59}Summon Pet{/}
 UI_20150323_001369	{@st41b}Character{/}
 UI_20150323_001370	{@st59}Grimoire{/}
@@ -1380,8 +1380,8 @@ UI_20150323_001379	{memo X}{@sti6}Storing and taking items from storage costs %s
 UI_20150323_001380	{memo X}{@st59}Alt+Z to change weapons{/}
 UI_20150323_001381	{@st59}Save Lodge Settings{/}
 UI_20150323_001382	Change Lodge
-UI_20150323_001383	{@st59}Close Change Lodge window
-UI_20150323_001384	{@st59}Change Lodge{nl} - Change Lodge to change map and expand slots.
+UI_20150323_001383	{@st59}Close Change Lodge Window
+UI_20150323_001384	{@st59}Change Lodge{nl} - Change the map and expand the number of available characters by changing your Lodge. 
 UI_20150323_001385	{memo X}{@st41}Cancel Preview
 UI_20150323_001386	{memo X}{@st46}My iCoins : %s{/}
 UI_20150323_001387	{memo X}{@st41b}Change Lodge{/}
@@ -1401,7 +1401,7 @@ UI_20150323_001400	{memo X}{@sti5}×%s{/}
 UI_20150323_001401	{@st41}Eat
 UI_20150323_001402	{@st41}Craft
 UI_20150323_001403	{@st41}Quantity
-UI_20150323_001404	{@st41}Consume Materials
+UI_20150323_001404	{@st41}Consumable Material
 UI_20150401_001405	{@st59}Close Briquetting{/}
 UI_20150401_001406	{memo X}{@st41}Remove Base Camp
 UI_20150401_001407	{@st43}[Circle %s]{/}
@@ -1774,7 +1774,7 @@ UI_20150807_001773	{memo X}
 UI_20150807_001774	{memo X}
 UI_20150918_001775	Camp Duration
 UI_20150918_001776	Effect
-UI_20150918_001777	Camp duration is increased when renewed{nl} Requires %s silver.
+UI_20150918_001777	Camp duration is increased when it is renewed{nl} Requires %s silver.
 UI_20150918_001778	Personal Warehouse
 UI_20150918_001779	{@st41b}Type : {@sti7}%s{/}
 UI_20150918_001780	{@st41b}Difficulty : {@sti7}%s{/}
@@ -1804,7 +1804,7 @@ UI_20150918_001803	{@st53}Ranking Points : %s
 UI_20150918_001804	Total Untradable: %s
 UI_20150918_001805	{@st42b}Check Dialogue{/}
 UI_20150918_001806	{@st66b}Give food to outside party{/}
-UI_20150918_001807	{@st41b}Change signboard name
+UI_20150918_001807	{@st41b}Change Signboard Title
 UI_20150918_001808	{@sti9}My Rank
 UI_20150918_001809	{@sti9}Kill Rank
 UI_20150918_001810	{@sti9}Damage Rank
