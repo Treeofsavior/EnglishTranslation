@@ -1768,18 +1768,18 @@ ITEM_20150317_001767	Top
 ITEM_20150317_001768	Stamina +5 Increase Potion 
 ITEM_20150317_001769	Right-click to use. 
 ITEM_20150317_001770	Small HP Potion 
-ITEM_20150317_001771	$Restores 192 HP. {nl}Restores HP every 2 seconds over 15 seconds. {nl}Right-click to use. Cooldown of 30 seconds. 
+ITEM_20150317_001771	$Restores 192 HP. {nl}Restores HP every 2 seconds over 15 seconds. {nl}Right-click to use.{memo Cooldown of 30 seconds.}
 ITEM_20150317_001772	HP Potion 
 ITEM_20150317_001773	$Restores 320 HP. {nl}Restores HP every 2 seconds over 15 seconds. {nl}Right-click to use. Cooldown of 45 seconds.  
 ITEM_20150317_001774	Large HP Potion 
 ITEM_20150317_001775	$Restores 640 HP. {nl}Restores HP every 2 seconds over 15 seconds. {nl}Right-click to use. Cooldown of 60 seconds. 
 ITEM_20150317_001776	Small SP Potion 
-ITEM_20150317_001777	Restores 144 SP. {nl}Restores SP every 2 seconds for 15 seconds. {nl}Right-click to use. Cooldown of 30 seconds. 
+ITEM_20150317_001777	$Restores 144 SP. {nl}Restores SP every 2 seconds for 15 seconds. {nl}Right-click to use.{memo Cooldown of 30 seconds.}
 ITEM_20150317_001778	Restores 240 SP. {nl}Restores SP every 2 seconds for 15 seconds. {nl}Right-click to use. Cooldown of 45 seconds. 
 ITEM_20150317_001779	Large SP Potion 
 ITEM_20150317_001780	Restores 480 SP. {nl}Restores SP every 2 seconds for 15 seconds. {nl}Right-click to use. Cooldown of 60 seconds. 
 ITEM_20150317_001781	Stamina Pill 
-ITEM_20150317_001782	Restores 15 Stamina. {nl}Right-click to use. Cooldown of 30 seconds. 
+ITEM_20150317_001782	${memo the cooldown is already stated in item popup, thus removed here}Restores 15 Stamina. {nl}Right-click to use.{memo Cooldown of 30 seconds.}
 ITEM_20150317_001783	{memo X}STA Pill (Medium) 
 ITEM_20150317_001784	Restores 30 Stamina. {nl}Right-click to use. Cooldown of 45 seconds. 
 ITEM_20150317_001785	{memo X}STA Pill (Large) 
@@ -2083,11 +2083,11 @@ ITEM_20150317_002082	Marionette Card
 ITEM_20150317_002083	Kanseril Card 
 ITEM_20150317_002084	Krabil Card 
 ITEM_20150317_002085	Megaphone 
-ITEM_20150317_002086	Amplifies your voice.{nl}Use [/y 'chat'] to send your message to all maps in your server. 
+ITEM_20150317_002086	$Amplifies your voice. Use [/y 'chat'] to send your message to all maps in your server. 
 ITEM_20150317_002087	Vubbe Magic Stone 
 ITEM_20150317_002088	A quest item obtained from monsters. 
 ITEM_20150317_002089	A dark magic stone obtainable only from Vubbes that have been exposed to Crystals for a long period of time. 
-ITEM_20150317_002090	Hanaming Petal  
+ITEM_20150317_002090	Hanaming Petal 
 ITEM_20150317_002091	Ingredient of a consumable item. {nl} Tradeable with NPCs. 
 ITEM_20150317_002092	A sweet-smelling flower leaf. Obtained from Hanamings. 
 ITEM_20150317_002093	Lv2 Treasure Chest Key 
@@ -2101,9 +2101,9 @@ ITEM_20150317_002100	Lv5 Treasure Chest Key
 ITEM_20150317_002101	A key to open a Lv5 Treasure Chest. 
 ITEM_20150317_002102	Kepa Stem 
 ITEM_20150317_002103	Item obtained from a monster. 
-ITEM_20150317_002104	Long stem that tastes slightly spicy. {nl}Obtained from Kepas. 
+ITEM_20150317_002104	$Long stem that tastes slightly spicy. {nl}Obtained from Kepas. 
 ITEM_20150317_002105	Leaf Bug Shell 
-ITEM_20150317_002106	Thin back shell. A faint pattern is visible. Obtained from Leaf Bugs. 
+ITEM_20150317_002106	$A thin back shell. A faint pattern is visible. {nl}Obtained from Leaf Bugs. 
 ITEM_20150317_002107	Chinency Leaf 
 ITEM_20150317_002108	A leaf that tastes slightly bitter. It becomes thicker as it gets closer to the stem. Obtained from Chinencys. 
 ITEM_20150317_002109	{memo X}Infro Rocktor Shell 
@@ -2218,10 +2218,10 @@ ITEM_20150317_002217	Long Arm Tree Crystal
 ITEM_20150317_002218	This crystal formation found inside the plant comes from the solidification of its sap. Obtained from Long Arm Trees. 
 ITEM_20150317_002219	{memo X}Infro Birk Shell 
 ITEM_20150317_002220	{memo X}A shellpiece that can withstand heavy impact despite its thin appearance. Obtained from Infro Birks. 
-ITEM_20150317_002221	Zolem Core 
-ITEM_20150317_002222	A mutant variation of the Nucl, the power source of mutant monsters. Contains highly condensed magic that might explode if handled carelessly. Obtained from Zolems. 
-ITEM_20150317_002223	Cemetery Golem Core 
-ITEM_20150317_002224	A mutant variation of the Nucl, the power source of mutant monsters. Contains highly condensed magic that might explode if handled carelessly. Obtained from Cemetary Golems. 
+ITEM_20150317_002221	Zolem Core
+ITEM_20150317_002222	A mutant variation of the Nucl, the power source of mutant monsters. Contains highly condensed magic that might explode if handled carelessly. Obtained from Zolems.
+ITEM_20150317_002223	Gravegolem Core
+ITEM_20150317_002224	A mutant variation of the Nucl, the power source of mutant monsters. Contains highly condensed magic that might explode if handled carelessly. Obtained from Gravegolems.
 ITEM_20150317_002225	Hallowventer Spirit Matter 
 ITEM_20150317_002226	A physical manifestation of a strong spirit. You might become possessed if you handle it without a safety device. Obtained from Hallowventers. 
 ITEM_20150317_002227	Big Cockatrice Heart 
@@ -3037,7 +3037,7 @@ ITEM_20150317_003036	{memo X}Treasure that belonged to human victims and was hoa
 ITEM_20150317_003037	Loose Package 
 ITEM_20150317_003038	Broken Necklace from Thorn Forest 
 ITEM_20150317_003039	Bushobell's Bundle 
-ITEM_20150317_003040	$Soldier's Luggage  
+ITEM_20150317_003040	$Soldier's Belongings  
 ITEM_20150317_003041	{memo X}$Belongings from a soldier, stolen by a Leafbug. Looks like it's been stolen many times since then. 
 ITEM_20150317_003042	$Piece of Vubbe Cloth  
 ITEM_20150317_003043	{memo X}$A ripped cloth piece from Vubbe. It's from the dirty waist area. 
@@ -3142,8 +3142,8 @@ ITEM_20150317_003141	Blazing Magic Source
 ITEM_20150317_003142	A Magic Source that shows the locations of the Royal Mausoleum's Guardians.
 ITEM_20150317_003143	Wheelen Mark
 ITEM_20150317_003144	{memo X}A mark of Wheelens. Collecting them gives the power to defeat enemies.
-ITEM_20150317_003145	Brother's Diary 
-ITEM_20150317_003146	{memo X}A diary that Coven asked you to find. 
+ITEM_20150317_003145	Brother's Diary
+ITEM_20150317_003146	{memo X}A diary that Coben asked you to find. 
 ITEM_20150317_003147	Cockatrice Fat 
 ITEM_20150317_003148	{memo X}Fat mass from a Cockatrice. 
 ITEM_20150317_003149	Highly Enriched Cockatrice Fat. 
@@ -3236,11 +3236,11 @@ ITEM_20150317_003235	Condensed Magical Resource
 ITEM_20150317_003236	{memo X}It seems it will explode if it is touched. Be careful. 
 ITEM_20150317_003237	Hogma Tooth
 ITEM_20150317_003238	A Hogma's tooth used to scratch out something on the slate. 
-ITEM_20150317_003239	Infrobirk Meat 
-ITEM_20150317_003240	{memo X}Meat gotten by slaying Infrobirk. It looks tough. 
+ITEM_20150317_003239	Infroburk Meat 
+ITEM_20150317_003240	{memo X}Meat gotten by slaying Infroburk. It looks tough. 
 ITEM_20150317_003241	Stubby Tree Trunk 
 ITEM_20150317_003242	This trunk looks like that of a normal tree. 
-ITEM_20150317_003243	Remains of Treearmbloow 
+ITEM_20150317_003243	Remains of Tree Ambulo
 ITEM_20150317_003244	{memo X}It seems to use as a firewood. 
 ITEM_20150317_003245	Broken Tombstone Fragment 
 ITEM_20150317_003246	{memo X}Lydia Schaffen's tombstone piece regained from Cemetery Golems and Guri. 
@@ -3250,8 +3250,8 @@ ITEM_20150317_003249	Restored Tombstone of Lydia Schaffen
 ITEM_20150317_003250	{memo X}Finally restored the tombstone. What is in there? 
 ITEM_20150317_003251	Destroyed Tombstone Fragment 
 ITEM_20150317_003252	{memo X}A piece of Flurry's tombstone that a Tama picked up and ate. 
-ITEM_20150317_003253	Village People's Luggage 
-ITEM_20150317_003254	{memo X}Luggage filled with  odds and ends 
+ITEM_20150317_003253	Villager's Bag 
+ITEM_20150317_003254	{memo X}Bag filled with odds and ends 
 ITEM_20150317_003255	Black Coal Powder 
 ITEM_20150317_003256	{memo X}A magical black powder made from coal that makes ink stick clearly onto parchment. 
 ITEM_20150317_003257	Eternal Ember 
@@ -3330,7 +3330,7 @@ ITEM_20150317_003329	{memo X}A Fragaras' resin is an effective exorcising materi
 ITEM_20150317_003330	Ritualistic Rope 
 ITEM_20150317_003331	{memo X}A ceremonial rope carried by a Panto Shaman 
 ITEM_20150317_003332	Enchanted Mane
-ITEM_20150317_003333	{memo X}A mane taken from the nape of a defeated Mushcarian 
+ITEM_20150317_003333	{memo X}A mane taken from the nape of a defeated Mushcaria
 ITEM_20150317_003334	$Divine Sphere
 ITEM_20150317_003335	{memo X}$A legendary holy sphere used to defeat Gesti. Seems like it's not the right time to use this. 
 ITEM_20150317_003336	{memo X}$A legendary holy sphere used to defeat Gesti. It needs to be recharged before it can be used. 
@@ -3532,7 +3532,7 @@ ITEM_20150317_003531	Mali Seeds
 ITEM_20150317_003532	{memo X}Mali seeds obtained from killing Malis. 
 ITEM_20150317_003533	Destroyer Shaman Doll Summon Scroll 
 ITEM_20150317_003534	{memo X}A scroll to summon a Destructive Shaman Doll 
-ITEM_20150317_003535	Destroyed Piece of Barrier 
+ITEM_20150317_003535	Destroyed Barrier Piece 
 ITEM_20150317_003536	{memo X}Part of a broken enchantment used to protect Mazas' nest. Can it be restored? 
 ITEM_20150317_003537	{memo X}Mallardu Fat 
 ITEM_20150317_003538	{memo X}A material that is needed to wake up the Nepenthes. It doesn't catch fire in its current state. 
@@ -3636,8 +3636,8 @@ ITEM_20150317_003635	{memo X}A bomb that can light the Long Arm Tree on fire.
 ITEM_20150317_003636	{memo X}Revelation that Bramble had. It's unreadable - let's take it to Goddess Saule. 
 ITEM_20150317_003637	Guardian Awakening Device 
 ITEM_20150317_003638	{memo X}It is said to be able to wake the sleeping Boowook. 
-ITEM_20150317_003639	Zolem Magic Stone 
-ITEM_20150317_003640	{memo X}A Zolem's Magic Stone needed to lure a Unicorn 
+ITEM_20150317_003639	Zolem Magic Stone
+ITEM_20150317_003640	{memo X}A Zolem's Magic Stone needed to lure a Unicorn
 ITEM_20150317_003641	Unicorn Horn 
 ITEM_20150317_003642	{memo X}A trophy taken from a defeated Unicorn. Let's take it to Fedimian Army Officer. 
 ITEM_20150317_003643	Empty Beehive 
@@ -6314,7 +6314,7 @@ ITEM_20150918_006313	Carelessly crumpled message. It seems barely readable.
 ITEM_20150918_006314	Vakis's completed research reports. Contains information related to the Royal Tombs. Readable.
 ITEM_20150918_006315	A record written by Hones and Liars's teacher. Say that it contains very important information.
 ITEM_20150918_006316	A jewel that instantly teleports you to a saved location. {nl}Cooldown: 15 minutes
-ITEM_20150918_006317	A stone that will warp you to Klaipeda. {nl}Right-click to use. Cooldown : 20 minutes
+ITEM_20150918_006317	$A stone that will transport you to Klaipeda. {nl}Right-click to use. {nl}Cooldown: 20 minutes
 ITEM_20150918_006318	Magic catalyst used by the Bokors. Bokors craft their own Bokor doll for a better spiritual magic effect.
 ITEM_20150918_006319	An old scroll hidden by the Pyromancer. Readable.
 ITEM_20150918_006320	A bag that seems to have belonged to a messenger. Contains a few reports and some food supplies.
@@ -6418,7 +6418,7 @@ ITEM_20150918_006417	This stone is said to attract Sauga. Could this be true?
 ITEM_20150918_006418	A fragment of a relic swallowed by Denoptic. A monster that feeds on stone, how curious.
 ITEM_20150918_006419	A pouch of coins meant for payment. Graverobber Kujang asked you to deliver this to Graverobber Bushobell.
 ITEM_20150918_006420	Treasure that belonged to human victims and was hoarded by the monster.
-ITEM_20150918_006421	Belongings from a soldier, stolen by a Leafbug. Looks like it's been stolen many times since then.
+ITEM_20150918_006421	$Belongings of a soldier, stolen by a Leaf Bug. {nl}Looks like it's not the first time it has been stolen.
 ITEM_20150918_006422	A ripped cloth piece from Vubbe. It's from the dirty waist area.
 ITEM_20150918_006423	
 ITEM_20150918_006424	Goods used as a provision for emergencies in the Mining Town.
@@ -6455,7 +6455,7 @@ ITEM_20150918_006454	A slate that ordered the Guardians to attack evil things. T
 ITEM_20150918_006455	A stone that lights stone lanterns. Although it is burning, it isn't very hot.
 ITEM_20150918_006456	Overusing the inhibitor can cause it to overheat and break.
 ITEM_20150918_006457	A token of Wheelens. Collecting them gives the power to defeat enemies.
-ITEM_20150918_006458	A diary that Coven asked you to find.
+ITEM_20150918_006458	$A diary that Coben asked you to find.
 ITEM_20150918_006459	A lump of fat that was pulled out after defeating Cockatrice.
 ITEM_20150918_006460	Charcoal found from Hallowventers.
 ITEM_20150918_006461	If you set up this jar, it will absorb magical power from around you.
@@ -6490,7 +6490,7 @@ ITEM_20150918_006489	A research report lost by the new Royal Mausoleum researche
 ITEM_20150918_006490	Could someone eventually find out the location of the Great King Zachariel's inheritance?
 ITEM_20150918_006491	An antidote that can counteract Scorpion's poison. Let's bring this to Dezic.
 ITEM_20150918_006492	It seems it will explode if it is touched. Be careful.
-ITEM_20150918_006493	Meat gotten by slaying Infrobirk. It looks tough.
+ITEM_20150918_006493	Meat gotten by slaying Infroburk. It looks tough.
 ITEM_20150918_006494	It seems to use as a firewood.
 ITEM_20150918_006495	Lydia Schaffen's tombstone piece regained from Cemetery Golems and Guri.
 ITEM_20150918_006496	A piece of a broken tombstone found from a Sea Turtle. You have to put the pieces of tombstone together to see whose it is.
@@ -6532,7 +6532,7 @@ ITEM_20150918_006531	Parts acquired from around the broken cable car
 ITEM_20150918_006532	Good medicine for when the atmosphere becomes contaminated and hazy.
 ITEM_20150918_006533	A Fragaras' resin is an effective exorcising material.
 ITEM_20150918_006534	Ceremonial ropes that the Panto Magician was carrying around
-ITEM_20150918_006535	A mane taken from the nape of a defeated Mushcarian
+ITEM_20150918_006535	A mane taken from the nape of a defeated Mushcaria
 ITEM_20150918_006536	A legendary verse used to defeat Gesti. Seems like it's not the right time to use this.
 ITEM_20150918_006537	A legendary verse used to defeat Gesti. It needs to be recharged before it can be used.
 ITEM_20150918_006538	The legendary lection that will be used for defeating Gesti. You are ready to use it.
