@@ -472,8 +472,8 @@ ETC_20150317_000471	Please do not look directly into their hoods.
 ETC_20150317_000472	Meleech
 ETC_20150317_000473	Firm and toxic, their blood-sucking ability is unique.
 ETC_20150317_000474	Infro Salamander
-ETC_20150317_000475	Zolrem
-ETC_20150317_000476	Unlike traditional Golems, Zolrem move by a mysterious aura, not magic.
+ETC_20150317_000475	Zolem
+ETC_20150317_000476	Unlike traditional Golems, Zolem move by a mysterious aura, not magic.
 ETC_20150317_000477	KepaRaider
 ETC_20150317_000478	Although a Kepa by name, it actually comes from the demon realm.
 ETC_20150317_000479	Mushcarfung
@@ -1736,11 +1736,11 @@ ETC_20150317_001735	This item does not have enough Potential.
 ETC_20150317_001736	This item does not have enough sockets.
 ETC_20150317_001737	You have insufficient funds.
 ETC_20150317_001738	Level 1 or higher
-ETC_20150317_001739	All Classes
-ETC_20150317_001740	Swordsman 
-ETC_20150317_001741	Archer 
-ETC_20150317_001742	Cleric 
-ETC_20150317_001743	Wizard 
+ETC_20150317_001739	any class
+ETC_20150317_001740	$Swordsman 
+ETC_20150317_001741	$Archer 
+ETC_20150317_001742	$Cleric 
+ETC_20150317_001743	$Wizard 
 ETC_20150317_001744	Not possible on this item.
 ETC_20150317_001745	This item is not equipped with a gem.
 ETC_20150317_001746	Please select a socket.
@@ -1760,7 +1760,7 @@ ETC_20150317_001759	{nl}{nl}Number of magic amulets that can be equipped: {Remai
 ETC_20150317_001760	Please select an item to repair.
 ETC_20150317_001761	There is no item to repair.
 ETC_20150317_001762	$Not possible on this item type.
-ETC_20150317_001763	 can equip
+ETC_20150317_001763	{memo part of item requirement, sounds awkward, so removed for now. Originally " can equip"} 
 ETC_20150317_001764	You do not have enough Potential to trade.
 ETC_20150317_001765	Please select an item.
 ETC_20150317_001766	Do you want to consume the selected items to create poison?
@@ -2152,7 +2152,7 @@ ETC_20150317_002151	Dandel: Dandel: 51 / Dandel: Dandel: 51 / Dandel: Dandel: 51
 ETC_20150317_002152	$Gap Wendigo
 ETC_20150317_002153	What kind of place is Fedimian?
 ETC_20150317_002154	Divine district and Business district
-ETC_20150317_002155	Central Zemyna Goddess Statue
+ETC_20150317_002155	Central Statue of Goddess Zemyna
 ETC_20150317_002156	Identity of the old man
 ETC_20150317_002157	Food of Fedimian
 ETC_20150317_002158	{memo X}Talk to the summoned guardian of Zachariel to unseal!
@@ -2810,7 +2810,7 @@ ETC_20150317_002809	Magic damage when mounted
 ETC_20150317_002810	Pierce Defense
 ETC_20150317_002811	Slash Defense
 ETC_20150317_002812	Strike Defense
-ETC_20150317_002813	Available Carry Weight
+ETC_20150317_002813	Maximum Carry Weight
 ETC_20150317_002814	Very Easy
 ETC_20150317_002815	Easy
 ETC_20150317_002816	Normal
@@ -3535,7 +3535,7 @@ ETC_20150317_003534	Chase the Haming!
 ETC_20150317_003535	Defeat the Large Kepa!
 ETC_20150317_003536	Defeat the sealed Golem!
 ETC_20150317_003537	Get rid of the Kepa blocking the road!
-ETC_20150317_003538	Ask about the Dream of the Goddess
+ETC_20150317_003538	$Ask about the dream
 ETC_20150317_003539	{memo X}Ask about the story
 ETC_20150317_003540	{memo X}Pester and ask about the story
 ETC_20150317_003541	{memo X}You must talk with the guards first
@@ -3811,7 +3811,7 @@ ETC_20150317_003810	Quest Starting Map:
 ETC_20150317_003811	Start NPC:
 ETC_20150317_003812	$ activated {nl}
 ETC_20150317_003813	 Use this to warp anywhere!
-ETC_20150317_003814	This camp does not have an activated Goddess Statue.{nl} Therefore you cannot move.
+ETC_20150317_003814	{memo Check if this appears in any other scenario. Don't put a $ here, changes linebreak.}You have not activated any other Goddess Statue, so you cant teleport yet.
 ETC_20150317_003815	The rest of the area
 ETC_20150317_003816	Rest of the camp
 ETC_20150317_003817	2. Select Siauliai ??Select West Siauliai Woods
@@ -4179,7 +4179,7 @@ ETC_20150317_004178	Try item enhancement {/} {/}.
 ETC_20150317_004179	Upgradeable{nl}There are items.{nl}
 ETC_20150317_004180	Use a potion to restore your HP.
 ETC_20150317_004181	{nl} Shortcut: {#0000FF}
-ETC_20150317_004182	You can use the potion items, you will be able to recover SP.
+ETC_20150317_004182	You can use a potion to recover your SP.
 ETC_20150317_004183	By using a potion, you will be able to recover Stamina
 ETC_20150317_004184	{s18}{#001100}You can raise your character's stats {nl} by leveling up.
 ETC_20150317_004185	Click apply {nl} after increasing stats by using buttons.
@@ -4338,7 +4338,7 @@ ETC_20150317_004337	's Bulletin Board
 ETC_20150317_004338	Reset Status Points
 ETC_20150317_004339	Requires iCoin.{nl}Are you sure you want to reset?
 ETC_20150317_004340	{memo X}{@st59} Increase in Physical Attack and Critical Attack{/}
-ETC_20150317_004341	{@st59} Increases HP, HP Recovery, Critical Resistance and maximum Carry Weight{/}
+ETC_20150317_004341	{@st59} Increases HP, HP Recovery, Critical Resistance and Maximum Carry Weight{/}
 ETC_20150317_004342	{memo X}{@st59} Increase in Magic Damage and Block Penetration{/}
 ETC_20150317_004343	{@st59} Increases Accuracy, Evasion and Critical Rate {/}
 ETC_20150317_004344	] Do you want to use this card?
@@ -4886,8 +4886,8 @@ ETC_20150317_004885	 allows you to teleport back to the Quest NPC.{nl}{@st50}You
 ETC_20150317_004886	{@st50}Key of the Quest Information{/}
 ETC_20150317_004887	The shaman doll of destruction has destroyed the Panto totem!
 ETC_20150317_004888	{memo X}The holy beads have been charged by attacking the Demon forces.
-ETC_20150317_004889	Status Point Distribution
-ETC_20150317_004890	Skill Point Distribution
+ETC_20150317_004889	$Status Point Distribution
+ETC_20150317_004890	$Skill Point Distribution
 ETC_20150317_004891	Move to Klaipeda Entrance
 ETC_20150317_004892	Complete[300]
 ETC_20150317_004893	{memo X}The Gesti is near.{nl}Try to not get detected!
@@ -5023,9 +5023,9 @@ ETC_20150317_005022	{memo X}The Mausoleum lanterns are being attacked by the gua
 ETC_20150317_005023	{memo X}Bearkaras' suppressed power has returned.
 ETC_20150317_005024	Panto_Rsword: Hot Panto Fighter: 50/Panto_Rspear: Hot Panto Spearman: 50/Panto_Rhand: Hot Panto: 50/Panto_Rstaff: Hot Panto Wizard: 51
 ETC_20150317_005025	$Crafting the item
-ETC_20150317_005026	I am a Revelator?
+ETC_20150317_005026	$A Revelator?
 ETC_20150317_005027	Ask about the current situation
-ETC_20150317_005028	Ask about Medis Diena that took place four years ago.
+ETC_20150317_005028	$Ask about Medis Diena
 ETC_20150317_005029	Ask about the disappearance of the Goddess
 ETC_20150317_005030	Ask what happened
 ETC_20150317_005031	I think you forgot to mention the Goddess Laima
@@ -5145,7 +5145,7 @@ ETC_20150317_005144	{memo X}Chase Grita who took the Essence of Fire!
 ETC_20150317_005145	{memo X}Well then.
 ETC_20150317_005146	Magic Circle
 ETC_20150317_005147	{memo X}Helgacercle
-ETC_20150317_005148	Please defeat Poata!
+ETC_20150317_005148	Defeat Poata!
 ETC_20150317_005149	Nest of Poata
 ETC_20150317_005150	Baby Pantos are returning to Capria
 ETC_20150317_005151	{memo X}Capria looks very angry.{nl}Abandon the plan and defeat it!
@@ -5154,7 +5154,7 @@ ETC_20150317_005153	Please defeat the Berserk Karnorber!
 ETC_20150317_005154	Please defeat Mushcaria and obtain its mane filled with spirits!
 ETC_20150317_005155	Please defeat the Minotaur {nl} and its follower Kayetonas!
 ETC_20150317_005156	Let's go!
-ETC_20150317_005157	Please defeat Viteresina!
+ETC_20150317_005157	Defeat Biteregina!
 ETC_20150317_005158	Small Hive
 ETC_20150317_005159	We are too late!
 ETC_20150317_005160	Wounded Villager
@@ -5170,9 +5170,9 @@ ETC_20150317_005169	Restraining Magic Circle
 ETC_20150317_005170	Temple Border
 ETC_20150317_005171	Goddess Shaule
 ETC_20150317_005172	Portal
-ETC_20150317_005173	Please defeat Golem!
-ETC_20150317_005174	Please defeat Spanashon!
-ETC_20150317_005175	Please defeat Yekub!
+ETC_20150317_005173	Defeat Golem!
+ETC_20150317_005174	Defeat Spanashon!
+ETC_20150317_005175	Defeat Yekub!
 ETC_20150317_005176	Patient
 ETC_20150317_005177	Trigger to kill soldiers
 ETC_20150317_005178	{memo X}Defeat Yonazolem and obtain the faintly burning stone!
@@ -5180,8 +5180,8 @@ ETC_20150317_005179	Let the fight begin!
 ETC_20150317_005180	Mines Manager
 ETC_20150317_005181	See? Not just a day or two...
 ETC_20150317_005182	Argh! There it is!!!
-ETC_20150317_005183	Please defeat Shadowgaler
-ETC_20150317_005184	Please defeat Minotaur!
+ETC_20150317_005183	Defeat Shadowgaler
+ETC_20150317_005184	Defeat Minotaur!
 ETC_20150317_005185	Minotaur
 ETC_20150317_005186	Remarkable Vubbe Fighter
 ETC_20150317_005187	{memo X}Defeat the Oracle Master!
@@ -5194,18 +5194,18 @@ ETC_20150317_005193	Everything was sent to the masters in Klaipeda as you reques
 ETC_20150317_005194	But...
 ETC_20150317_005195	I forgot to bring the shield and armor again.
 ETC_20150317_005196	Well then, I will get going
-ETC_20150317_005197	Please defeat Sparnas!
+ETC_20150317_005197	Defeat Sparnas!
 ETC_20150317_005198	All will die
 ETC_20150317_005199	Don't come closer!
-ETC_20150317_005200	Please defeat the aggressive Harpia!
-ETC_20150317_005201	Please defeat Reaverpede!
+ETC_20150317_005200	Defeat the aggressive Harpia!
+ETC_20150317_005201	Defeat Reaverpede!
 ETC_20150317_005202	{memo X}I will not go easy on you!
-ETC_20150317_005203	Please defeat the Rogue Master!
+ETC_20150317_005203	Defeat the Rogue Master!
 ETC_20150317_005204	Here I go!
-ETC_20150317_005205	{memo X}Please defeat Rocktortuga and obtain the natural agate stone!
-ETC_20150317_005206	{memo X}Please defeat Schwarzer Reiter!
-ETC_20150317_005207	Please defeat Deadbone!
-ETC_20150317_005208	Please defeat Rajatoad!
+ETC_20150317_005205	{memo X}Defeat Rocktortuga and obtain the natural agate stone!
+ETC_20150317_005206	{memo X}Defeat Schwarzer Reiter!
+ETC_20150317_005207	Defeat Deadbone!
+ETC_20150317_005208	Defeat Rajatoad!
 ETC_20150317_005209	{memo X}Monsters have appeared!
 ETC_20150317_005210	Oil Boxes
 ETC_20150317_005211	Broken Owl Statue
@@ -5271,7 +5271,7 @@ ETC_20150317_005270	{memo X}An uncontrollable Necroventer was summoned.{nl}The e
 ETC_20150317_005271	Uncontrollable Necroventer
 ETC_20150317_005272	Please defeat Unicorn together with Soldier's Soul!
 ETC_20150317_005273	It's here. Let's go!
-ETC_20150317_005274	{memo X}Reaverpede made a surprise attack{nl}Please defeat Reaverpede!
+ETC_20150317_005274	{memo X}Reaverpede made a surprise attack{nl}Defeat Reaverpede!
 ETC_20150317_005275	Beacon
 ETC_20150317_005276	Look. I'll be hiding.
 ETC_20150317_005277	Artifact of the Royal Mausoleum
@@ -5978,7 +5978,7 @@ ETC_20150317_005977	{memo X}Spontaneous Recovery is slow compared to other recov
 ETC_20150317_005978	{memo X}[Potion Recovery]: Recover HP/SP/Stamina immediately using potions.
 ETC_20150317_005979	{memo X}Potions have a cooldown timer before they can be re-used.
 ETC_20150317_005980	{memo X}[Tree Root Crystal]: Destroy Tree Root Crystals to recover Stamina.
-ETC_20150317_005981	Tree Root Crystals are randomly generated around the field.
+ETC_20150317_005981	{memo $}Tree Root Crystals randomly appear in the fields.
 ETC_20150317_005982	{memo X}[Rest Mode]: Using the bonfire during Rest Mode speeds up your recovery.
 ETC_20150317_005983	{memo X}Recovery during Rest Mode is faster than Spontaneous Recovery, and it is even faster if you use a bonfire during Rest Mode.
 ETC_20150317_005984	Overkill will be activated if you kill the monster with a strong finish.
@@ -6021,7 +6021,7 @@ ETC_20150317_006021	{memo X} in the information tab.
 ETC_20150317_006022	Convenience
 ETC_20150317_006023	{memo X}   Use warp to quickly move to your desired area.
 ETC_20150317_006024	{memo X}Activating 
-ETC_20150317_006025	Goddess Statues
+ETC_20150317_006025	$Goddess Statues
 ETC_20150317_006026	 or activated 
 ETC_20150317_006027	{memo X} enables you to warp to other areas.
 ETC_20150317_006028	{memo X}Approach the Statue to activate it.
@@ -6047,13 +6047,13 @@ ETC_20150317_006047	{memo X}is used to warp to other areas.
 ETC_20150317_006048	To use the warp function, the 
 ETC_20150317_006049	 of the area needs to be activated
 ETC_20150317_006050	{memo X}can obtain character's Status Points
-ETC_20150317_006051	Treasure Chests
-ETC_20150317_006052	 contain obtainable, special items.
-ETC_20150317_006053	Hidden in many fields, 
-ETC_20150317_006054	 can be discovered by your character
+ETC_20150317_006051	Treasure Chest
+ETC_20150317_006052	 contain special items that you can obtain.
+ETC_20150317_006053	Hidden in many fields, a 
+ETC_20150317_006054	 can be discovered by your character.
 ETC_20150317_006055	{memo X}There are many types of treasure chests that you can obtain special items from.
 ETC_20150317_006056	{memo X}You can receive the rewards by pressing {img SPACE 40 40} without any condition for a Lv1 treasure chest.
-ETC_20150317_006057	Keys are used to open Lv2 chests and greater.
+ETC_20150317_006057	Keys are used to open level 2 chests and greater.
 ETC_20150317_006058	{memo X}You can obtain the keys through quest progress.
 ETC_20150317_006059	Item Enhancement
 ETC_20150317_006060	{memo X}You can enhance your equipment through the enhancement system.
@@ -6242,7 +6242,7 @@ ETC_20150317_006242	{S18} and {#001100} attacking you will be able to obtain a l
 ETC_20150317_006243	{memo X}{S18} {#001100} items when you attack the Treasure monster will drop !!! {/}
 ETC_20150317_006244	{S18} {#001100} You can progress the quest by pressing the Space key in the vicinity of the red flag of NPC. {/}
 ETC_20150317_006245	{S18} {#001100} You can increase the capacity value by collecting items to the collection. {/}
-ETC_20150317_006246	Swordsmen are warriors who have strong physical abilities. They use various weapons to deal with enemies up close at the front line.
+ETC_20150317_006246	$Swordsmen are warriors who have strong physical abilities.{nl}They use various weapons to deal with enemies up close {nl}at the front lines.
 ETC_20150317_006247	Highlander
 ETC_20150317_006248	{memo X}Highlanders are tough fighters and use two-handed swords. They make enemies collide with each other or terrain so they are great for handling multiple enemies.
 ETC_20150317_006249	Peltasta
@@ -6260,7 +6260,7 @@ ETC_20150317_006260	Rodelero
 ETC_20150317_006261	Rodeleros ambush and disintegrate enemies. Their defensive skills using shields are effective for blocking long range attacks.
 ETC_20150317_006262	Squire
 ETC_20150317_006263	Shinobi
-ETC_20150317_006264	Wizards use magic to block attacks and protect themselves. They can cast powerful and concentrated spells, dealing damage to a single target or multiple enemies in an area.
+ETC_20150317_006264	{memo $ shifts linebreak}Wizards use magic to block attacks and protect themselves.{nl}They can cast powerful and concentrated spells, dealing damage to a single target or multiple enemies in an area.
 ETC_20150317_006265	Pyromancer
 ETC_20150317_006266	Pyromancers use continuous fire magic to fight against multiple enemies.
 ETC_20150317_006267	Cryomancer
@@ -6281,7 +6281,7 @@ ETC_20150317_006281	{memo X}Elementalist
 ETC_20150317_006282	Elementalists use the power of elements and can cast powerful magic attacks. However, their spells have a long cooldown time, so it is recommended to cooperate with other players.
 ETC_20150317_006283	Mimic
 ETC_20150317_006284	Taoist Priest
-ETC_20150317_006285	Archers use bows and various secondary equipment. Their specialties are long range and moving attacks.
+ETC_20150317_006285	$Archers use bows and various secondary equipment.{nl}Their specialties are long range and moving attacks.
 ETC_20150317_006286	Hunter
 ETC_20150317_006287	Hunters are trainers who hunt enemies using companions. Companions use skills which require cooperation with their owners, such as biting and holding onto enemies or finding hidden targets.
 ETC_20150317_006288	Quarrel Shooter
@@ -6299,7 +6299,7 @@ ETC_20150317_006299	Schwarzer Reiter
 ETC_20150317_006300	Fletcher
 ETC_20150317_006301	Pied Piper
 ETC_20150317_006302	Appraiser
-ETC_20150317_006303	Clerics heal and protect allies through the blessings of the Goddess, while knocking down their enemies with powerful blows.
+ETC_20150317_006303	$Clerics heal and protect allies through the blessings{nl}of the Goddess, while knocking down their enemies {nl}with powerful blows.
 ETC_20150317_006304	Priest
 ETC_20150317_006305	Priests are clerics who give blessings and resurrect the dead with their holy powers.
 ETC_20150317_006306	Krivis
@@ -7025,9 +7025,9 @@ ETC_20150317_007025	Lever 1
 ETC_20150317_007026	Lever 2
 ETC_20150317_007027	Gabija's Torch
 ETC_20150317_007028	Writing Table
-ETC_20150317_007029	Goddess Laima Statue
-ETC_20150317_007030	Goddess Zemyna Statue
-ETC_20150317_007031	Goddess Ausrine Statue
+ETC_20150317_007029	Statue of Goddess Laima
+ETC_20150317_007030	Statue of Goddess Zemyna
+ETC_20150317_007031	Statue of Goddess Ausrine
 ETC_20150317_007032	Kepa Dummy
 ETC_20150317_007033	Casemate
 ETC_20150317_007034	Siege Supporting Arms
@@ -7588,7 +7588,7 @@ ETC_20150317_007588	{memo X}Revealment
 ETC_20150317_007589	First Soldier
 ETC_20150317_007590	Request from Drasius
 ETC_20150317_007591	Second Soldier
-ETC_20150317_007592	Offer worship to the Goddess Zemyna Statue 
+ETC_20150317_007592	Offer worship to the Statue of Goddess Zemyna 
 ETC_20150317_007593	Advice of Laimonas (4)
 ETC_20150317_007594	To Klaipeda
 ETC_20150317_007595	Third Soldier
@@ -7607,11 +7607,11 @@ ETC_20150317_007607	{memo X}Check the research result
 ETC_20150317_007608	$Collect Stone to craft with
 ETC_20150317_007609	{memo X}Fine the trace of scout
 ETC_20150317_007610	Collect the flame's essence
-ETC_20150317_007611	Western Woods Goddess Vakarine Statue
-ETC_20150317_007612	Western Woods Goddess Zemyna Statue
-ETC_20150317_007613	Eastern Woods Goddess Vakarine Statue
-ETC_20150317_007614	Miners' Village Goddess Vakarine Statue
-ETC_20150317_007615	Miners' Village Goddess Zemyna Statue
+ETC_20150317_007611	Statue of Goddess Vakarine, Western Woods
+ETC_20150317_007612	Statue of Goddess Zemyna, Western Woods
+ETC_20150317_007613	Statue of Goddess Vakarine, Eastern Woods
+ETC_20150317_007614	Statue of Goddess Vakarine, Miners' Village
+ETC_20150317_007615	Statue of Goddess Zemyna, Miners' Village
 ETC_20150317_007616	First Scroll to save the reference
 ETC_20150317_007617	Second Scroll to save the reference
 ETC_20150317_007618	Third Scroll to save the reference
@@ -7725,9 +7725,9 @@ ETC_20150317_007725	Find the Paladin Master again (1)
 ETC_20150317_007726	Mission of the Paladin Master
 ETC_20150317_007727	Verification Damage (1)
 ETC_20150317_007728	Pick the herb asked by Cleric Master
-ETC_20150317_007729	Offer worship to the Goddess Vakarine Statue in Fedimian
-ETC_20150317_007730	Manage the Goddess Vakarine Statue in Fedimian
-ETC_20150317_007731	Manage the Statue of Vakarine in Klaipeda
+ETC_20150317_007729	Offer worship to the Statue of Goddess Vakarine in Fedimian
+ETC_20150317_007730	Manage the Statue of Goddess Vakarine in Fedimian
+ETC_20150317_007731	Manage the Statue of Goddess Vakarine in Klaipeda
 ETC_20150317_007732	Remove the source of contamination
 ETC_20150317_007733	Use the Crest of Emptiness towards the girl near the portal
 ETC_20150317_007734	{memo X}Sanctum of Secrecy - Swordsman type_conditions
@@ -7764,7 +7764,7 @@ ETC_20150317_007764	Collect the reed's dew
 ETC_20150317_007765	{memo X}Remove the monster summon circle
 ETC_20150317_007766	{memo X}Protect an altar from monsters running
 ETC_20150317_007767	{memo X}Collect the flag to find the curse monsters through a faith's mark
-ETC_20150317_007768	Protect an Goddess Statue from the ivy is getting very tense
+ETC_20150317_007768	Protect a Goddess Statue from the ivy entangling it
 ETC_20150317_007769	Pick the wild flower around altar
 ETC_20150317_007770	Collect the tombstone's dew
 ETC_20150317_007771	{memo X}Collect material of drug with monster live on reed root
@@ -7819,7 +7819,7 @@ ETC_20150317_007819	N/A
 ETC_20150317_007820	Open the front gate of Sanctum (4)
 ETC_20150317_007821	Release the barrier
 ETC_20150317_007822	Move to experimental place
-ETC_20150317_007823	Find related army person in Fedimian
+ETC_20150317_007823	Find the related military official in Fedimian
 ETC_20150317_007824	Enter to petrified city
 ETC_20150317_007825	Plaza Check
 ETC_20150317_007826	{memo X}Check B area
@@ -7844,7 +7844,7 @@ ETC_20150317_007844	Get the keepsake
 ETC_20150317_007845	{memo X}Victim Liberation
 ETC_20150317_007846	{memo X}Truth transmission of Ruklys
 ETC_20150317_007847	{memo X}Use a Petrifaction Fusion
-ETC_20150317_007848	Cordiality of Moje Dcell (3)
+ETC_20150317_007848	Cordiality of Moses Diesel (3)
 ETC_20150317_007849	{memo X}The first Thorn Gate (1)
 ETC_20150317_007850	{memo X}The first Thorn Gate (2)
 ETC_20150317_007851	{memo X}The second Thorn Gate (1)
@@ -8815,9 +8815,9 @@ ETC_20150317_008815	Shiny Monsters can drop items up to more than ten times than
 ETC_20150317_008816	Village Tip
 ETC_20150317_008817	Various merchants and master NPC for each class are located in a village.
 ETC_20150317_008818	Warp move_1 Tip
-ETC_20150317_008819	You can move to other areas through Goddess Vakarine Statue.
+ETC_20150317_008819	You can move to other areas through a Statue of Goddess Vakarine.
 ETC_20150317_008820	Warp move_2 Tip
-ETC_20150317_008821	You can move to other areas using the Warp Scroll if there is no Goddess Vakarine Statue nearby.
+ETC_20150317_008821	You can move to other areas using the Warp Scroll if there is no Statue of Goddess Vakarine nearby.
 ETC_20150317_008822	Treasure Chest Tip
 ETC_20150317_008823	During your adventure, you can find hidden treasure chests. Some treasure chests may require keys that match the level.
 ETC_20150317_008824	Video Recording Tip
@@ -9665,7 +9665,7 @@ ETC_20150323_009665	{memo X}They are running away!
 ETC_20150323_009666	{memo X}Hurry!
 ETC_20150323_009667	{memo X}Use the branch!
 ETC_20150323_009668	Please defeat Yonazolem!
-ETC_20150323_009669	You touched the rotten meat which caused Reaverpede to appear!
+ETC_20150323_009669	You touched the rotten meat, causing Reaverpede to appear!
 ETC_20150323_009670	Son! Stay awake..
 ETC_20150323_009671	{memo X}The barrier protecting Tree Root Crystal of Laziness appeared!{nl}Better destroy it all before it disappear.
 ETC_20150323_009672	{memo X}The fire looks like it would die out soon.{nl}Get more kindling from the monsters and keep the fire alive.
@@ -10423,7 +10423,7 @@ ETC_20150401_010424	Earth Apparition
 ETC_20150401_010425	Earth Raflower
 ETC_20150401_010426	Earth Shredded
 ETC_20150401_010427	Earth Deadborns Cap
-ETC_20150401_010428	Earth Hallowventor
+ETC_20150401_010428	Earth Hallowventer
 ETC_20150401_010429	Earth Temple Shooter
 ETC_20150401_010430	Earth Canceril
 ETC_20150401_010431	Earth Archon
@@ -11280,11 +11280,11 @@ ETC_20150428_011281	Hairstyle Color - White
 ETC_20150428_011282	Complete a party quest 25 times
 ETC_20150428_011283	Introduction to Crafting
 ETC_20150428_011284	Hairstyle Color - Blue
-ETC_20150428_011285	Complete Manackle Grave Quest
+ETC_20150428_011285	Complete Owl Burial Ground Quest
 ETC_20150428_011286	Unexpected Test
 ETC_20150428_011287	Hairstyle Color - Pink
-ETC_20150428_011288	Hunted 500 Hanammings.
-ETC_20150428_011289	Wipe out Hanammings!
+ETC_20150428_011288	Hunted 500 Hanamings.
+ETC_20150428_011289	Wipe out Hanamings!
 ETC_20150428_011290	Hairstyle Color - Black
 ETC_20150428_011291	Play for 7 days
 ETC_20150428_011292	Never Ending Story
@@ -11599,7 +11599,7 @@ ETC_20150511_011600	]{nl}Quest Completed!
 ETC_20150511_011601	Why now..!
 ETC_20150511_011602	Did you defeat them all?
 ETC_20150511_011603	Uh..!
-ETC_20150511_011604	It is a curious thing!
+ETC_20150511_011604	What a curious creature!
 ETC_20150511_011605	What happened..!
 ETC_20150511_011606	The red crystal is activating!
 ETC_20150511_011607	The blue crystal is activating!
@@ -12165,7 +12165,7 @@ ETC_20150714_012166	Pull down the third lever
 ETC_20150714_012167	For another tombstone(1)
 ETC_20150714_012168	Block the monsters that are rushing in
 ETC_20150714_012169	Corrosive Agent(1)
-ETC_20150714_012170	Obtain the boiling liquid from Hallowbenter Curse Speller
+ETC_20150714_012170	Obtain the boiling liquid from Hallowventer Curse Speller
 ETC_20150714_012171	Obtain an adequate wood stick
 ETC_20150714_012172	Obtain a magnetic stone
 ETC_20150714_012173	Make a detecting stick
@@ -12243,7 +12243,7 @@ ETC_20150714_012244	Your character's level is not high enough.
 ETC_20150714_012245	The connection with the server has been disconnected. Reconnecting...
 ETC_20150714_012246	The error from the server has occurred so it restored automatically.
 ETC_20150714_012247	Attached Items
-ETC_20150714_012248	Do you want to give this item to {PC}?
+ETC_20150714_012248	$Do you want to give the item(s) to {PC}?
 ETC_20150714_012249	$You have received the item(s).
 ETC_20150714_012250	$You are too close to the base camp.
 ETC_20150714_012251	$You are far away from the refreshment table.
@@ -13314,9 +13314,9 @@ ETC_20150717_013315	{memo X}You can restore your HP/SP/Stamina.
 ETC_20150717_013316	{memo X}[Rest Mode] Press {img Insert 40 40} to Rest.
 ETC_20150717_013317	{memo X}While in Rest Mode, movement is limited but restoration speed increases. You can still do other activities.
 ETC_20150717_013318	{memo X}[Bonfire] Light a Bonfire during Rest Mode to increase your restoration speed further.
-ETC_20150717_013319	Use {img key1 40 40}~{img key9 40 40} to pick a Bonfire location. {nl}Bonfires require Firewood, which can be bought from a merchant.
+ETC_20150717_013319	$Use {img key1 40 40}~{img key9 40 40} to pick the location of the Bonfire. You need Firewood to light a Bonfire, which can be bought from a merchant NPC.
 ETC_20150717_013320	{memo X}[Natural Recovery] :
-ETC_20150717_013321	 ability influences 
+ETC_20150717_013321	 status influences 
 ETC_20150717_013322	HP Recovery Speed
 ETC_20150717_013323	, recovering HP in intervals.
 ETC_20150717_013324	{memo X}Restoring Naturally is very slow compared to other methods, but does not require any control or conditions.
@@ -13413,7 +13413,7 @@ ETC_20150717_013414	{memo X}will revive you in the dungeon entrance outside.
 ETC_20150717_013415	Be careful when you delve into a dungeon!
 ETC_20150717_013416	You can obtain Gems by hunting in dungeons.
 ETC_20150717_013417	{memo X}Watch out! Gems can be lost on death!
-ETC_20150717_013418	Worship the Goddess to receive beneficial effects.
+ETC_20150717_013418	$Pray in front of a Goddess Statue to receive beneficial effects.
 ETC_20150717_013419	{memo X}is used to warp to other areas.
 ETC_20150717_013420	{memo X}gives Status Points.
 ETC_20150717_013421	Community
@@ -13739,15 +13739,15 @@ ETC_20150729_013740	{memo X}You can freely set up a party name, description, Ite
 ETC_20150729_013741	{memo X}You can check the list of Public Parties on the right side of the screen.
 ETC_20150729_013742	View information of monsters nearby or when you face the monster.
 ETC_20150729_013743	Each monster has an element and defense property.
-ETC_20150729_013744	You can restore your consumed HP/SP/Stamina.
-ETC_20150729_013745	[Rest Mode] Press {img Insert 40 40} to Rest.
-ETC_20150729_013746	While in Rest Mode, light a Bonfire to speed up your recovery.
-ETC_20150729_013747	{nl}{nl}[Bonfire] Light a Bonfire during Rest Mode to speed up recovery.
-ETC_20150729_013748	{nl}{nl}[Natural Recovery] : 
-ETC_20150729_013749	Natural Recovery is very slow compared to other methods, but does not require any control or conditions.
-ETC_20150729_013750	{nl}{nl}[Restore by Potion] : Restore HP/SP/STA instantly using various potions.
+ETC_20150729_013744	Methods to restore your consumed HP/SP/Stamina.
+ETC_20150729_013745	[Rest Mode]: Press {img Insert 40 40} to rest.
+ETC_20150729_013746	$While you are in Rest Mode, it is possible to light a [Bonfire] to speed up your recovery.
+ETC_20150729_013747	$[Bonfire]: While in Rest Mode, light a Bonfire to speed up your recovery.
+ETC_20150729_013748	{memo $}{nl}{nl}[Natural Recovery]: The 
+ETC_20150729_013749	{memo $}Natural Recovery is very slow compared to other methods, but does not have any requirements.
+ETC_20150729_013750	{memo $}{nl}{nl}[Recovery using Potions]: Amount of HP/SP/STA restored depends on the potion consumed.
 ETC_20150729_013751	However, potions have a cooldown before they can be re-used.
-ETC_20150729_013752	{nl}{nl}[Destroy Tree Root Crystal] : Destroy a Tree Root Crystal to restore the Stamina of all nearby players.
+ETC_20150729_013752	{memo $}{nl}{nl}[Destroying Tree Root Crystals]: Destroying a Tree Root Crystal will restore the Stamina of all nearby players.
 ETC_20150729_013753	Destroying a Tree Root Crystal recovers your Stamina.
 ETC_20150729_013754	Stamina of all the players nearby will be restored when you destroy a Tree Root Crystal.
 ETC_20150729_013755	Team Battle League
@@ -13830,12 +13830,12 @@ ETC_20150729_013831	Monsters found in dungeons will attack players on sight.
 ETC_20150729_013832	Gems may be lost when you die in dungeons. So, be careful!
 ETC_20150729_013833	When you die in a dungeon, click 
 ETC_20150729_013834	 to revive at the entrance outside the dungeon.
-ETC_20150729_013835	Receive beneficial effects when you worship the Goddess Statues.
-ETC_20150729_013836	 gives you Status Points.
+ETC_20150729_013835	 $       Receive beneficial effects when you worship {nl}                                   a Goddess Statue.
+ETC_20150729_013836	 gives you bonus Status Points.
 ETC_20150729_013837	 enables you to warp to other areas.
 ETC_20150729_013838	There are many types of treasure chests {nl}and you can obtain special items from them.
-ETC_20150729_013839	You can receive the rewards by pressing {img SPACE 40 40} from level 1 treasure chests.
-ETC_20150729_013840	 You can obtain keys through{nl}progressing in quests.
+ETC_20150729_013839	You can receive the items by pressing {img SPACE 40 40} in front of level 1 treasure chests.
+ETC_20150729_013840	 keys can be obtained through{nl}progressing in quests.
 ETC_20150729_013841	Socialize with other players.
 ETC_20150729_013842	[Friend] You can check your friends using {img F7 40 40}. Players should agree each other in order to add each other into their Friends List.
 ETC_20150729_013843	Use {img mouseclick_right 40 40} to send a request to another player that you want to become their friend.
@@ -14012,7 +14012,7 @@ ETC_20150729_014013	The ticket will be expired when you cancel it. Do you want t
 ETC_20150729_014014	Found the Great King's Key!
 ETC_20150729_014015	{s16}{ol}{#ffcc33}[{Auto_1}] Explore Rate {nl}{Auto_2}/{Auto_3}
 ETC_20150729_014016	{cl}{s16}{ol}{#ffcc33}{Auto_1} Complete Explore Rate
-ETC_20150729_014017	{@st59} Increases Physical Attack, Critical Attack and maximum Carry Weight{/}
+ETC_20150729_014017	{@st59} Increases Physical Attack, Critical Attack and Maximum Carry Weight{/}
 ETC_20150729_014018	Previous Warp
 ETC_20150729_014019	Exceeded the number of Mission Instance. Try again later
 ETC_20150729_014020	[Doppelsoeldner Master]{nl} Guera
