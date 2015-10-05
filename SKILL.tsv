@@ -198,7 +198,7 @@ SKILL_20150317_000197	[Bagworm] Magic, Magic, Poison Property, Frontal Poison Sp
 SKILL_20150317_000198	[Bagworm] Long Distance, Magic, Poison Property, Ranged Poison Shot
 SKILL_20150317_000199	[Saurman Axeman] Normal attack.
 SKILL_20150317_000200	[Saurman Axeman] Normal attack 2.
-SKILL_20150317_000201	Heal
+SKILL_20150317_000201	$Heal
 SKILL_20150317_000202	Monster Heal
 SKILL_20150317_000203	Vubbe Miner Attack
 SKILL_20150317_000204	[Feral Pokubu] Normal attack.
@@ -628,9 +628,9 @@ SKILL_20150317_000627	[Mushwort] Physical Non-Property Magic
 SKILL_20150317_000628	[Mushwort] Magic Non-Property Magic
 SKILL_20150317_000629	[Mushwort] Magic Poison Property Magic
 SKILL_20150317_000630	[Naktis] Magic Non-Property Strike
-SKILL_20150317_000631	[Draperiun] Physical Non-Property Pierce
-SKILL_20150317_000632	[Draperiun] Physical Non-Property Magic
-SKILL_20150317_000633	[Draperiun] Magic Dark Property Magic
+SKILL_20150317_000631	[Drapeliun] Physical Non-Property Pierce
+SKILL_20150317_000632	[Drapeliun] Physical Non-Property Magic
+SKILL_20150317_000633	[Drapeliun] Magic Dark Property Magic
 SKILL_20150317_000634	[Sparnas Horn] Physical Non-Property Strike
 SKILL_20150317_000635	[Sparnas Horn] Physical Non-Property Pierce
 SKILL_20150317_000636	[Sparnas Horn] Physical Lightning Property Magic
@@ -856,7 +856,7 @@ SKILL_20150317_000855	[Mummyghast Card] Physical Dark Property Magic
 SKILL_20150317_000856	$Ice Breath
 SKILL_20150317_000857	[Ironbaum Card] Physical Fire Property Strike
 SKILL_20150317_000858	[Gorgon Card] Magic Dark Property Pierce
-SKILL_20150317_000859	[Draperiun Card] Physical Dark Property Pierce
+SKILL_20150317_000859	[Drapeliun Card] Physical Dark Property Pierce
 SKILL_20150317_000860	[Unicorn Card] Magic Dark Property Slash
 SKILL_20150317_000861	[Moldyhorn Card] Magic Poison Property Magic
 SKILL_20150317_000862	[Rytaswort Card] Magic Poison Property Pierce
@@ -1430,10 +1430,10 @@ SKILL_20150317_001429	{memo X}{#993399}{ol}[Magic] - [Divine]{/}{/}{nl} Create a
 SKILL_20150317_001430	{memo X}Attack #{SkillAtkAdd}#{nl}Attack count #{CaptionRatio}# times {nl}Magic circle Duration #{CaptionTime}# seconds
 SKILL_20150317_001431	$Safety Zone
 SKILL_20150317_001432	$Creates a magic circle that blocks incoming attacks.
-SKILL_20150317_001433	$Number of blocks: #{SkillFactor}#{nl} Magic Circle Duration: 20 seconds
+SKILL_20150317_001433	$Number of Blocks: #{SkillFactor}#{nl} Magic Circle Duration: 20 seconds
 SKILL_20150317_001434	$Deprotected Zone
 SKILL_20150317_001435	{memo X}Create magic circle that continuously decrease the defense of target.
-SKILL_20150317_001436	$Defense: -#{CaptionRatio}#{nl}Per stack: -#{CaptionRatio2}#{nl}Magic Circle Duration: #{CaptionTime}# seconds
+SKILL_20150317_001436	$Defense: -#{CaptionRatio}#{nl}Per Stack: -#{CaptionRatio2}#{nl}Magic Circle Duration: #{CaptionTime}# seconds
 SKILL_20150317_001437	$Divine Might
 SKILL_20150317_001438	{memo X}Create magic circle that increases skill level of target. Effect is gone when used and cannot be overlapped.
 SKILL_20150317_001439	{memo X}Skill Level: +#{SkillFactor}#{nl}Duration: 10 seconds {nl}Magic Circle Duration: 20 seconds
@@ -1458,7 +1458,7 @@ SKILL_20150317_001457	{memo X}{#993399}{ol}[Magic] - [Divine]{/}{/}{nl}Sprinkle 
 SKILL_20150317_001458	{memo X}Attack #{SkillAtkAdd}#{nl}Defense +#{CaptionRatio}# {nl}Target 10{nl}Duration #{CaptionRatio2}# seconds{nl}Use 1 Holy water
 SKILL_20150317_001459	$Monstrance
 SKILL_20150317_001460	{memo X}Dexterity of allies is increased and randomly create magic circle that cause evasion and Physical damage of enemies to decrease.
-SKILL_20150317_001461	{memo X}$Maximum number of Magic Circles: #{SkillFactor}#{nl}Increases ally's DEX{nl}Enemy's Evasion and Defense: -#{CaptionRatio}#{nl}Magic Circle Duration: 20 seconds
+SKILL_20150317_001461	{memo X}$Maximum number of Magic Circles: #{SkillFactor}#{nl}Increases Ally's DEX{nl}Enemy's Evasion and Defense: -#{CaptionRatio}#{nl}Magic Circle Duration: 20 seconds
 SKILL_20150317_001462	$Blessing
 SKILL_20150317_001463	{memo X}Increase the damage of party members' skills.
 SKILL_20150317_001464	{memo X}Additional Damage + #{CaptionRatio}# {nl} Attack# {CaptionRatio2} # times{nl} {nl} Duration 30 seconds{nl}Use 1 Holy Powder
@@ -1780,7 +1780,7 @@ SKILL_20150317_001779	Increase knockdown power
 SKILL_20150317_001780	Time is stopped.
 SKILL_20150317_001781	{memo X}Max. strength is reduced, attack will increase
 SKILL_20150317_001782	Increased attacking damage.
-SKILL_20150317_001783	Resisting to knock down and Knockback.
+SKILL_20150317_001783	Resistant to knockdown and knockback.
 SKILL_20150317_001784	You can see the hidden enemy.
 SKILL_20150317_001785	Throw Equipment
 SKILL_20150317_001786	Threw equipment.
@@ -2258,7 +2258,7 @@ SKILL_20150317_002257	$Increases Holy attacks by 1 for 5 seconds per level the w
 SKILL_20150317_002258	$Heal: Creating Extra
 SKILL_20150317_002259	{memo X}Receive [Heal] at 2% chance per attribute level when using [Heal].
 SKILL_20150317_002260	$Deprotected Zone: Following Enemies
-SKILL_20150317_002261	$Your Magic Circle of [Deprotected Zone] will follow nearby monsters.
+SKILL_20150317_002261	$Your magic circle of [Deprotected Zone] will follow nearby monsters.
 SKILL_20150317_002262	$Deprotected Zone: Retention Time
 SKILL_20150317_002263	{memo X}Magic circle duration of [Deprotected zone] increase by 1 second per attribute level.
 SKILL_20150317_002264	$Divine Might: Demon-type Damage
@@ -2317,8 +2317,8 @@ SKILL_20150317_002316	{memo X}Carve Austras Koks: Pull
 SKILL_20150317_002317	{memo X}Pulls enemies within range of [Carve Austras Koks].
 SKILL_20150317_002318	$Dievdirbys: Plant-type Damage
 SKILL_20150317_002319	{memo X}[Blunt object] do 10% extra damage per attribute level to plant type monsters.
-SKILL_20150317_002320	$Goddess Zemyna Statue: Duration
-SKILL_20150317_002321	$Increases the duration of [Goddess Zemyna Statue] by 2 seconds per attribute level.
+SKILL_20150317_002320	$Statue of Goddess Zemyna: Duration
+SKILL_20150317_002321	$Increases the duration of [Statue of Goddess Zemyna] by 2 seconds per attribute level.
 SKILL_20150317_002322	$Out of Body: Movement Distance
 SKILL_20150317_002323	$Increases the maximum distance that can be moved using [Out of Body] by 1m per level.
 SKILL_20150317_002324	{memo X}Out of Body: Avoidance
@@ -3581,7 +3581,7 @@ SKILL_20150406_003580	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Throw 
 SKILL_20150406_003581	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Zombies circle around specified area. Enemies that touch zombies are push away and receives damage.
 SKILL_20150406_003582	{memo X}{#993399}{ol}[Magic]{/}{/}{nl}Explode zombies in specific area and damage target enemies.
 SKILL_20150406_003583	{memo X}Attack #{SkillAtkAdd}#{nl}Summoned zombie required{nl}Max. explosion #{SkillSR}#
-SKILL_20150406_003584	$Goddess Ausrine Statue
+SKILL_20150406_003584	$Statue of Goddess Ausrine
 SKILL_20150406_003585	{memo X}Ausrine
 SKILL_20150406_003586	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Smack down strongly.
 SKILL_20150406_003587	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Flick enemies attacking nearby and cause damage.
@@ -4655,9 +4655,9 @@ SKILL_20150714_004654	$Increases the damage dealt on an enemy with [Carve Owl] b
 SKILL_20150714_004655	$Carve: Chance to Obtain
 SKILL_20150714_004656	{memo X}The probability of obtaining ingredients increases 5% per Attribute level for [Carve].
 SKILL_20150714_004657	{memo X}$When equipped with a [Mace], you will inflict additional damage equal to 10% of the physical attack to Plant-type monsters per attribute level.
-SKILL_20150714_004658	$Goddess Vakarine Statue: Cooldown Decrease
+SKILL_20150714_004658	$Statue of Goddess Vakarine: Cooldown Decrease
 SKILL_20150714_004659	{memo X}Cooldown time of [Carve Vakarine] will be reduced.
-SKILL_20150714_004660	$Goddess Laima Statue: Home Ground
+SKILL_20150714_004660	$Statue of Goddess Laima: Home Ground
 SKILL_20150714_004661	Cooldown time of a skill increases for the enemies that are in the range where the effect of [Carve Laima] reaches.
 SKILL_20150714_004662	$Increases the damage dealt on an enemy with [Astral Body Explosion] by 1% per attribute level.
 SKILL_20150714_004663	$Increases the damage dealt on an enemy while in the state of Out of Body by 1% per attribute level.
@@ -4957,7 +4957,7 @@ SKILL_20150729_004956	$Maximum Duration: 10 seconds{nl}Consumes #{CaptionRatio}#
 SKILL_20150729_004957	$HP recovery: +#{CaptionRatio}#{nl}HP Recovery Time: -#{CaptionRatio2}# seconds{nl}Torch Duration: #{CaptionTime}# seconds
 SKILL_20150729_004958	$Maximum Amount: +#{SkillFactor}#{nl}Duration: 200 seconds
 SKILL_20150729_004959	$Maximum Duration: 20 seconds {nl}Consumes #{CaptionRatio}#% SP per second
-SKILL_20150729_004960	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio}#%{nl}Maximum number of Targets: #{CaptionRatio2}#
+SKILL_20150729_004960	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio}#%{nl}Maximum Number of Targets: #{CaptionRatio2}#
 SKILL_20150729_004961	$STR, CON, INT, SPR, DEX: -#{CaptionRatio}#{nl}Consumes 3% SP per 3 seconds{nl}Maximum Duration: 10 seconds
 SKILL_20150729_004962	$Transmits #{CaptionRatio}# of INT
 SKILL_20150729_004963	$Magic Circle Duration: #{CaptionTime}# seconds
@@ -5107,10 +5107,10 @@ SKILL_20150918_005106	$Consumes #{SpendPoison}# Poison Pot Poison{nl}독충 Dura
 SKILL_20150918_005107	$Zhendu
 SKILL_20150918_005108	$Applies a poison once to the weapon of you and your party members for the next attack.
 SKILL_20150918_005109	$Duration: 30 seconds{nl}Zhendu Duration: #{CaptionRatio}# seconds{nl}Consumes #{SpendPoison}# Poison Pot Poison
-SKILL_20150918_005110	
-SKILL_20150918_005111	
-SKILL_20150918_005112	
-SKILL_20150918_005113	
+SKILL_20150918_005110	${#993399}{ol}[Magic] - [Holy]{/}{/}{nl}Creates a magic circle in front of you, healing allies or damaging enemies. Does not affect airborne enemies. Amount of HP recovered depends on target's maximum HP.
+SKILL_20150918_005111	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionTime}#%{nl}HP Recovery: 10% + #{CaptionRatio}# ~ #{CaptionRatio2}# HP{nl}Magic Circle Duration: 40 seconds
+SKILL_20150918_005112	$Summons a holy torch, improving the HP recovery of nearby allies. Decreases the accuracy of nearby enemies.
+SKILL_20150918_005113	{#993399}{ol}[Magic] - [Holy]{/}{/}{nl}Sprinkle holy water to increase the physical defense of you and your allies and to inflict damage on enemies.
 SKILL_20150918_005114	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio2}#%{nl}Physical Defense: +#{CaptionRatio}#%{nl}Targets: 10{nl}Duration: #{CaptionTime}# seconds{nl}Consumes 1 Holy Water
 SKILL_20150918_005115	$Maximum number of Magic Circles: #{SkillFactor}#{nl}Increases DEX for allies{nl}Enemy's Evasion & Defense: -#{CaptionRatio}#{nl} Duration: #{CaptionTime}# seconds
 SKILL_20150918_005116	$Mass Heal
