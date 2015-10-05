@@ -5109,8 +5109,8 @@ SKILL_20150918_005108	$Applies a poison once to the weapon of you and your party
 SKILL_20150918_005109	$Duration: 30 seconds{nl}Zhendu Duration: #{CaptionRatio}# seconds{nl}Consumes #{SpendPoison}# Poison Pot Poison
 SKILL_20150918_005110	${#993399}{ol}[Magic] - [Holy]{/}{/}{nl}Creates a magic circle in front of you, healing allies or damaging enemies. Does not affect airborne enemies. Amount of HP recovered depends on target's maximum HP.
 SKILL_20150918_005111	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionTime}#%{nl}HP Recovery: 10% + #{CaptionRatio}# ~ #{CaptionRatio2}# HP{nl}Magic Circle Duration: 40 seconds
-SKILL_20150918_005112	
-SKILL_20150918_005113	
+SKILL_20150918_005112	$Summons a holy torch, improving the HP recovery of nearby allies. Decreases the accuracy of nearby enemies.
+SKILL_20150918_005113	{#993399}{ol}[Magic] - [Holy]{/}{/}{nl}Sprinkle holy water to increase the physical defense of you and your allies and to inflict damage on enemies.
 SKILL_20150918_005114	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio2}#%{nl}Physical Defense: +#{CaptionRatio}#%{nl}Targets: 10{nl}Duration: #{CaptionTime}# seconds{nl}Consumes 1 Holy Water
 SKILL_20150918_005115	$Maximum number of Magic Circles: #{SkillFactor}#{nl}Increases DEX for allies{nl}Enemy's Evasion & Defense: -#{CaptionRatio}#{nl} Duration: #{CaptionTime}# seconds
 SKILL_20150918_005116	$Mass Heal
