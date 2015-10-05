@@ -519,7 +519,7 @@ UI_20150317_000518	{@st43}Quest{/}
 UI_20150317_000519	${@st59b}Quests{nl}{@st59s} - When you are on a new quest, it will be added to the quest tracker. {nl} - A main quest is displayed in yellow color, while a subquest is displayed in blue. {nl} - The arrow on the character's foot leads to the location of your quest. {nl} - If you completed a quest, a 'Return' icon is displayed on the quest tracker. {nl}    (Teleports you to the Quest NPC using the Backspace key or a mouse-click) {nl} - Add or remove quests in the quest tracker by ticking or unticking the box in front of the quest name. {/}
 UI_20150317_000520	{@st41b}In Progress{/}
 UI_20150317_000521	{@st41b}Abandon{/}
-UI_20150317_000522	{@st43}{s22}Quest Information{/}
+UI_20150317_000522	${@st43}{s22}Quest Information{/}
 UI_20150317_000523	Mission Complete
 UI_20150317_000524	{@st41}Complete{/}
 UI_20150317_000525	Mission Progress Info
@@ -706,7 +706,7 @@ UI_20150317_000705	{@st41} All {/}
 UI_20150317_000706	{@st41} Party {/}
 UI_20150317_000707	{@st41} Monster {/}
 UI_20150317_000708	{memo X}{@st41b}{#f0dcaa}Remaining Status Points ▶ {@st46}%s
-UI_20150317_000709	{@st59b}My Information{nl}{@st59s}- Status : By leveling up, you can earn points that you can use to enhance the 5 abilities to become more powerful. {nl}- Information : This is information about your character based on your current status and equipment. {nl}- Title : Titles can be earned by accomplishing achievements. {nl} {/}
+UI_20150317_000709	{@st59b}My Information{nl}{@st59s}- Status : By leveling up, you can earn status points that you can use to enhance the 5 statuses to become more powerful. {nl}- Information : This is information about your character based on your current status and equipment. {nl}- Title : Titles can be earned by accomplishing achievements. {nl} {/}
 UI_20150317_000710	{@st41b}Info{/}
 UI_20150317_000711	{memo X}{@st41b}Title{/}
 UI_20150317_000712	Show Class
@@ -959,7 +959,7 @@ UI_20150317_000958	{@St41b}Name
 UI_20150317_000959	{@St41b}Price
 UI_20150317_000960	{@St41b}State
 UI_20150317_000961	{@St44}New Character{/}
-UI_20150317_000962	{@St41b}{s22}Select Character Class{/}
+UI_20150317_000962	{@St41b}{s22}$Select Character Class{/}
 UI_20150317_000963	{@St41b}Go Back{/}
 UI_20150317_000964	{@St59}Go back to your Lodge without creating a character
 UI_20150317_000965	Change Character
@@ -1767,7 +1767,7 @@ UI_20150730_001766	{memo X}{@st56}Damage Rank
 UI_20150803_001767	General: /s chat{nl}Shout: /y chat {nl}Party: /p chat{nl} Whisper: /w TeamName Chat
 UI_20150803_001768	{@st66b}Joypad Vibration{/}
 UI_20150803_001769	A match has been found. Please wait until you can join the game.
-UI_20150804_001770	{@st43}{s18}Select the character you wish to receive the item(s).{/}
+UI_20150804_001770	${memo had to be shortened to fit the UI}{@st43}{s18}Pick the character to receive the item(s).{/}
 UI_20150804_001771	$Maximum Sockets : %s
 UI_20150807_001772	{@st41b}Details {img red_down_arrow 16 16}
 UI_20150807_001773	{memo X}
@@ -1794,7 +1794,7 @@ UI_20150918_001793	Friendship with {@sti9}%s{@st66b} : {@st66b}Level{/} {@sti9}%
 UI_20150918_001794	Friendship
 UI_20150918_001795	{@st41b}Obtained material for crafting an item!
 UI_20150918_001796	{@st66b}{s20}You have become {/}{s20}{#cc6600}{ol}Incapable of Combat {/}{@st66b}{s20}!{/}
-UI_20150918_001797	{@st66b}Restart from nearest the Revival Point{/}
+UI_20150918_001797	{@st66b}Restart from the nearest Revival Point{/}
 UI_20150918_001798	{@st66b}Restart here (requires %s iCoins){/}
 UI_20150918_001799	{@st66b}Return to the field{/}
 UI_20150918_001800	{@st66b}Abandon the quest and try again{/}
