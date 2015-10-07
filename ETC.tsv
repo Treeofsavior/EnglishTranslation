@@ -3357,11 +3357,11 @@ ETC_20150317_003356	Quest completed. Go to the information officer!
 ETC_20150317_003357	There is a hostile monster in that location.
 ETC_20150317_003358	$Collecting Butterfly Fragrance
 ETC_20150317_003359	$Please.. Help!
-ETC_20150317_003360	$I..I can't stand it anymore!
+ETC_20150317_003360	$I.. I can't stand it anymore!
 ETC_20150317_003361	Releasing Shackles
 ETC_20150317_003362	$Thank you so much...
 ETC_20150317_003363	$You're..too.. late...
-ETC_20150317_003364	$Ooh...Ahhhh!
+ETC_20150317_003364	$Ooh... Ahhhh!
 ETC_20150317_003365	$I must return...
 ETC_20150317_003366	$I will follow you...!
 ETC_20150317_003367	$You are already guiding a soul.
@@ -4158,8 +4158,8 @@ ETC_20150317_004157	Equipment
 ETC_20150317_004158	] The [
 ETC_20150317_004159	Do you want to equip it to ]?
 ETC_20150317_004160	 Level
-ETC_20150317_004161	{#FFFF00}[{Auto_1}] achieved <{Auto_2}> achievements.
-ETC_20150317_004162	{#FFFF00}{a SEARCH_FAME_RANK {Auto_1} {Auto_2}}[{Auto_3}] achieved <{Auto_4}> achievements.
+ETC_20150317_004161	{#FFFF00}[{Auto_1}] achieved the <{Auto_2}> achievement.
+ETC_20150317_004162	{#FFFF00}{a SEARCH_FAME_RANK {Auto_1} {Auto_2}}[{Auto_3}] achieved <{Auto_4}> achievement.
 ETC_20150317_004163	Items cannot be used in the salon.
 ETC_20150317_004164	This item cannot be traded after you equip it. Would you like to equip it?
 ETC_20150317_004165	You do not meet the level requirement.{nl}Check the required level in the item description
@@ -4168,8 +4168,8 @@ ETC_20150317_004167	Male characters cannot equip this item. Check the gender and
 ETC_20150317_004168	Request Contribution:
 ETC_20150317_004169	Please enter the changed value.
 ETC_20150317_004170	The ClassName does already exist
-ETC_20150317_004171	{ol}{@st41b} Silver that will receive: {Auto_1} {img Zeny 20 20}
-ETC_20150317_004172	{Img {Auto_1} 20 20} {ol} {@st45w3} {s18} {Auto_2} Buff
+ETC_20150317_004171	{ol}{@st41b} Received silver: {Auto_1} {img Zeny 20 20}
+ETC_20150317_004172	{img {Auto_1} 20 20}{ol}{@st45w3}{s18} {Auto_2} Buff
 ETC_20150317_004173	Function is not nagging class:
 ETC_20150317_004174	Your inventory is full. {nl}
 ETC_20150317_004175	Enhancement{/}{/} or
@@ -4347,7 +4347,7 @@ ETC_20150317_004346	{s16}{ol} Defense {/}{/}{/}{nl}{s18}{ol}
 ETC_20150317_004347	{s16}{ol} Race {/}{/}
 ETC_20150317_004348	{s16}{ol} Defense {/}{/}{/}{s16}{ol}
 ETC_20150317_004349	{@s16}{ol}{Auto_1} and {a VIEW_LIKERS {Auto_2}}{ul}{#8888FF}{Auto_3} {/}{/}{/} like {/}
-ETC_20150317_004350	You obtained the {A OPEN_ACHIEVE 0}{#050505}{s24} [{Auto_1}] {nl}{s20} achievement. {/}{/}
+ETC_20150317_004350	{a OPEN_ACHIEVE 0}Obtained the {#050505}{s24}[{Auto_1}]{nl}{s20}achievement.{/}{/}
 ETC_20150317_004351	There is no information.
 ETC_20150317_004352	This name is already taken
 ETC_20150317_004353	Please enter a log
@@ -5765,13 +5765,13 @@ ETC_20150317_005764	Body shrinks down
 ETC_20150317_005765	Enlargement
 ETC_20150317_005766	Body becomes larger
 ETC_20150317_005767	Receive damage like you will be acted in a body with different string state object.
-ETC_20150317_005768	INT and SPI significantly decreased for a period of time.
-ETC_20150317_005769	Can't see surroundings temporarily
-ETC_20150317_005770	Defense has increased.
-ETC_20150317_005771	Movement Speed has increased.
-ETC_20150317_005772	Attack has increased.
+ETC_20150317_005768	Temporarily decreases INT and SPR significantly.
+ETC_20150317_005769	Temporarily cannot see your surroundings.
+ETC_20150317_005770	Improved defense.
+ETC_20150317_005771	Improved movement speed.
+ETC_20150317_005772	Improved attack.
 ETC_20150317_005773	Armor
-ETC_20150317_005774	All damage received will temporarily reflect 20% back to the attacker.
+ETC_20150317_005774	Temporarily reflects an attack by 20%.
 ETC_20150317_005775	Shock Absorption
 ETC_20150317_005776	Creates a protective barrier that temporarily blocks all incoming damage.
 ETC_20150317_005777	Movement Speed has decreased.
@@ -13521,8 +13521,8 @@ ETC_20150717_013522	Do you want to learn this attribute?
 ETC_20150717_013523	Connecting to the server...
 ETC_20150717_013524	{gr gradation2}{s19}{ol}{b}{#ffcc00}Right-click: Sell / Buy Button{/}{/}{nl}Press and hold the Shift button + right-click to sell multiple quantities of an item.{nl}Double-click to sell all.
 ETC_20150717_013525	You will be moved to another channel, due to this one being too full.
-ETC_20150717_013526	If the enhancement of armor, bracelets or necklaces above level {#ffffcc}+{Auto_1} fails, its Potential will be consumed. When the Potential falls below 0, the item will be destroyed. Do you want to continue?
-ETC_20150717_013527	If the enhancement of weapons above level +{Auto_1} fails, its Potential will be consumed. When the Potential falls below 0, the item will be destroyed. Do you want to continue?
+ETC_20150717_013526	When enhancing armor, bracelets or necklaces past +{Auto_1}, if it fails, the Potential of that item will decrease by 1.{nl} {nl}When the Potential falls below 0, the item will be destroyed. Do you want to continue?
+ETC_20150717_013527	When enhancing weapons past +{Auto_1}, if it fails, the Potential of that item will decrease by 1.{nl} {nl}When the Potential falls below 0, the item will be destroyed. Do you want to continue?
 ETC_20150717_013528	Will be entered automatically after 5 secs
 ETC_20150717_013529	When you go out of the dungeon, you will fail Awaken. Are you going to really go out?
 ETC_20150717_013530	You've obtained silver
@@ -14506,7 +14506,7 @@ ETC_20150918_014507	Dedicate it and receive the blessing
 ETC_20150918_014508	Do not dedicate
 ETC_20150918_014509	You don't have the heart of Stoulet
 ETC_20150918_014510	When you dedicate the heart of Stoulet, you will always receive the blessing
-ETC_20150918_014511	You've failed the test
+ETC_20150918_014511	You have failed the test
 ETC_20150918_014512	Absorbed the Guardian's energy!
 ETC_20150918_014513	You have succeeded in destroying the demon summoning circle!
 ETC_20150918_014514	The demonic power purifier has been destroyed!
