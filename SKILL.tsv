@@ -734,8 +734,8 @@ SKILL_20150317_000733	[Harpeia] Physical Non-Property Pierce
 SKILL_20150317_000734	[Harpeia] Magic Non-Property Magic
 SKILL_20150317_000735	[Harpeia] Physical Lightning Property Magic
 SKILL_20150317_000736	[Rajatoad] Physical Ice Property Magic
-SKILL_20150317_000737	[Malletwyvern] Physical Ice Property Strike
-SKILL_20150317_000738	[Malletwyvern] Physical Ice Property Magic
+SKILL_20150317_000737	[Mallet Wyvern] Physical Ice Property Strike
+SKILL_20150317_000738	[Mallet Wyvern] Physical Ice Property Magic
 SKILL_20150317_000739	[Merge] Physical Non-Property Slash
 SKILL_20150317_000740	[Merge] Physical Non-Property Pierce
 SKILL_20150317_000741	[Unicorn] Physical Non-Property Pierce
@@ -893,7 +893,7 @@ SKILL_20150317_000892	[Unknocker Card] Physical Dark Property Strike
 SKILL_20150317_000893	[Saltistter Card] Physical Water Property Strike
 SKILL_20150317_000894	[Deadborn Card] Physical Non-Property Slash
 SKILL_20150317_000895	[Corrupted Card] Magic Holy Property Magic
-SKILL_20150317_000896	[Malletwyvern Card] Magic Non-Property Strike
+SKILL_20150317_000896	[Mallet Wyvern Card] Magic Non-Property Strike
 SKILL_20150317_000897	[Moyabruka Card] Physical Non-Property Strike
 SKILL_20150317_000898	[Colimencia Card] Physical Water Property Strike
 SKILL_20150317_000899	[Rajapearl Card] Magic Water Property Strike
@@ -3070,12 +3070,12 @@ SKILL_20150323_003069	$Capture
 SKILL_20150323_003070	$Evasion
 SKILL_20150323_003071	$Vendetta
 SKILL_20150323_003072	$Lachrymator
-SKILL_20150323_003073	$Backstep
+SKILL_20150323_003073	$Backstab
 SKILL_20150323_003074	$Fade
 SKILL_20150323_003075	$Guardian Saint
 SKILL_20150323_003076	$Revive
 SKILL_20150323_003077	$Exorcise
-SKILL_20150323_003078	$Golden Finger Flick
+SKILL_20150323_003078	$God Finger Flick
 SKILL_20150323_003079	$Golden Bell Shield
 SKILL_20150323_003080	$Discerning Evil
 SKILL_20150323_003081	$Resetting
@@ -3446,12 +3446,12 @@ SKILL_20150401_003445	$Lachrymator: Enhance 2
 SKILL_20150401_003446	$Enhanced the damage of [Lachrymator] to Rogue's 2nd Circle standards.
 SKILL_20150401_003447	$Lachrymator: Enhance 3
 SKILL_20150401_003448	$Enhanced the damage of [Lachrymator] to Rogue's 3rd Circle standards.
-SKILL_20150401_003449	$Backstep: Enhance
+SKILL_20150401_003449	$Backstab: Enhance
 SKILL_20150401_003450	{memo X}Damage of [Baskstep] Increase per Attribute level.
-SKILL_20150401_003451	$Backstep: Enhance 2
-SKILL_20150401_003452	$Enhanced the damage of [Backstep] to Rogue's 2nd Circle standards.
-SKILL_20150401_003453	$Backstep: Enhance 3
-SKILL_20150401_003454	$Enhanced the damage of [Backstep] to Rogue's 3rd Circle standards.
+SKILL_20150401_003451	$Backstab: Enhance 2
+SKILL_20150401_003452	$Enhanced the damage of [Backstab] to Rogue's 2nd Circle standards.
+SKILL_20150401_003453	$Backstab: Enhance 3
+SKILL_20150401_003454	$Enhanced the damage of [Backstab] to Rogue's 3rd Circle standards.
 SKILL_20150401_003455	$Broadhead: Enhance
 SKILL_20150401_003456	{memo X}Damage of [Broadhead] Increase per Attribute level.
 SKILL_20150401_003457	$Broadhead: Enhance 2
@@ -3518,10 +3518,10 @@ SKILL_20150401_003517	$1 Inch Punch: Enhance 2
 SKILL_20150401_003518	$Enhanced the damage of [1 Inch Punch] to Monk's 3rd Circle standards.
 SKILL_20150401_003519	$Energy Blast: Enhance
 SKILL_20150401_003520	{memo X}Damage of [Energy Blast] Increase per Attribute level.
-SKILL_20150401_003521	$Golden Finger Flick: Enhance
+SKILL_20150401_003521	$God Finger Flick: Enhance
 SKILL_20150401_003522	{memo X}Damage of [God Finger] Increase per Attribute level.
-SKILL_20150401_003523	$Golden Finger Flick: Enhance 2
-SKILL_20150401_003524	$Enhanced the damage of [Golden Finger Flick] to Monk's 3rd Circle standards.
+SKILL_20150401_003523	$God Finger Flick: Enhance 2
+SKILL_20150401_003524	$Enhanced the damage of [God Finger Flick] to Monk's 3rd Circle standards.
 SKILL_20150401_003525	$Carnivory: Enhance
 SKILL_20150401_003526	{memo X}Damage of [Carnovory] Increase per Attribute level.
 SKILL_20150401_003527	$Carnivory: Enhance 2
@@ -3781,9 +3781,9 @@ SKILL_20150414_003780	{memo X}Companion speed +#{CaptionRatio}#% {nl}Duration #{
 SKILL_20150414_003781	Companion threats and prevents enemy from approaching. Enemy may fall under Fear.
 SKILL_20150414_003782	Rush Dog
 SKILL_20150414_003783	Make companion rush forward to attack.
-SKILL_20150414_003784	Heal addicted ally. Poison with higher level than Detox can't be healed but its duration decrease.
+SKILL_20150414_003784	Heal poisoned ally. Poison with higher level than Detox can't be healed but its duration decrease.
 SKILL_20150414_003785	{#DD5500}{ol}[Physical] - [Poison] - [Pierce]{/}{/}{nl}Blow toxic arrow and inflict continuous damage.
-SKILL_20150414_003786	{#DD5500}{ol}[Physical] - [Poison] - [Pierce]{/}{/}{nl}Throw jar of Poison to create poisonous puddle. Enemies become addicted when stepping on the puddle.
+SKILL_20150414_003786	{#DD5500}{ol}[Physical] - [Poison] - [Pierce]{/}{/}{nl}Throw jar of Poison to create poisonous puddle. Enemies become poisoned when stepping on the puddle.
 SKILL_20150414_003787	{#DD5500}{ol}[Physical] - [Poison] - [Pierce]{/}{/}{nl}Throw hairpin to parasite on enemy. Venomous insect is born when the host is killed.
 SKILL_20150414_003788	Hide yourself in an empty container. Blocks agains few Physical attacks.
 SKILL_20150414_003789	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Shoot arrow that makes noise. Enemies nearby falls under fear.
@@ -3997,7 +3997,7 @@ SKILL_20150414_003996	$Weapon Swap
 SKILL_20150414_003997	{memo X}You can change weapon.
 SKILL_20150414_003998	$Vendetta: Counter Attack
 SKILL_20150414_003999	$Doubles the damage when hitting an enemy affected by the [Bleeding] status effect with [Vendetta].
-SKILL_20150414_004000	$Backstep: Massive Bleeding
+SKILL_20150414_004000	$Backstab: Massive Bleeding
 SKILL_20150414_004001	{memo X}Enemy falls under [Massive Bleed] status when attack with [Back Step] while bleeding.
 SKILL_20150414_004002	$Magic Arrow: Silence
 SKILL_20150414_004003	{memo X}Enemies receiving [Magic Arrow] fire attacks have chance of falling under [Silence]. Chance increase by 10% per attribute level.
@@ -4570,10 +4570,10 @@ SKILL_20150714_004569	$Able to jump while in [Camouflage].
 SKILL_20150714_004570	$Scan: Confusion
 SKILL_20150714_004571	{memo X}The enemies that are in the range of [Scan] will fall into Confusion with a certain probability. The probability will increase by 10% per Attribute level.
 SKILL_20150714_004572	$Increases the damage dealt on an enemy with [Vendetta] by 1% per attribute level.
-SKILL_20150714_004573	$Increases the damage dealt on an enemy with [Backstep] by 1% per attribute level.
+SKILL_20150714_004573	$Increases the damage dealt on an enemy with [Backstab] by 1% per attribute level.
 SKILL_20150714_004574	$Increases the duration of [Sneak Hit] by 2 seconds per attribute level.
 SKILL_20150714_004575	$Burrow: Damage
-SKILL_20150714_004576	When enemies are nearby while you are removing [Burrow], you will inflict damage based on Physical ATK rate to those enemies.
+SKILL_20150714_004576	Deals damage equal to physical attack on nearby enemies while removing [Burrow].
 SKILL_20150714_004577	$Tear Gas: Range Increase
 SKILL_20150714_004578	{memo X}$Increases the range of [Tear Gas].
 SKILL_20150714_004579	$Increases the damage dealt on an enemy with [Broad Head] by 1% per attribute level.
@@ -5071,10 +5071,10 @@ SKILL_20150918_005070	$Flag Duration: #{CaptionTime}# seconds
 SKILL_20150918_005071	$Dust Devil
 SKILL_20150918_005072	
 SKILL_20150918_005073	$Hexen Dropper
-SKILL_20150918_005074	
-SKILL_20150918_005075	
-SKILL_20150918_005076	
-SKILL_20150918_005077	
+SKILL_20150918_005074	${#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Use your weapon with both hands to deal successive strikes on an enemy.
+SKILL_20150918_005075	${#993399}{ol}[Magic] - [Ice]{/}{/}{nl}Inflicts damage on a frozen enemy in front of you. There is a small chance to remove freeze from the enemy when it takes damage.
+SKILL_20150918_005076	$Creates a curtain of ice for defense. Inflicts damage after successfully blocking an attack from an enemy. There is a certain chance to freeze nearby enemies. 
+SKILL_20150918_005077	$Creates a strong gust of wind that pushes enemies. When inflicting damage on a frozen enemy, it will unfreeze.
 SKILL_20150918_005078	
 SKILL_20150918_005079	$Large-type->Medium-type->Small-type{nl}Targets: #{CaptionRatio}#{nl}Duration: #{CaptionTime}# seconds
 SKILL_20150918_005080	$Small-type->Medium-type->Large-type{nl}Targets: #{CaptionRatio}#{nl}Duration: #{CaptionTime}# seconds
