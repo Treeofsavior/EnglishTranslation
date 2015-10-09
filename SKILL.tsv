@@ -2585,7 +2585,7 @@ SKILL_20150317_002584	{memo X}$Increases the physical attack of [Kneeling Shot] 
 SKILL_20150317_002585	$Steady Aim: Enhance
 SKILL_20150317_002586	{memo X}$Increases the additional damage of [Steady Aim] per attribute level.
 SKILL_20150317_002587	$Sacrament: Enhance
-SKILL_20150317_002588	$Increases the damage on Holy property of [Sacrament] per attribute level.
+SKILL_20150317_002588	$Increases the Holy property damage of [Sacrament] per attribute level.
 SKILL_20150317_002589	$Bash: Enhance 2
 SKILL_20150317_002590	$Enhanced the damage of [Bash] to Swordsman's 2nd Circle standards. 
 SKILL_20150317_002591	$Bash: Enhance 3
@@ -3836,7 +3836,7 @@ SKILL_20150414_003835	{memo X}${#993399}{ol}[Magic] - [Holy]{/}{/}{nl}Sprinkle h
 SKILL_20150414_003836	{memo X}Create magic circle where ally's DEX increase and enemy's ecasion and Physical defense decrease.
 SKILL_20150414_003837	{memo X}Give blessings that grant additional damage on attacks of party members.
 SKILL_20150414_003838	$Resurrects a target that has been defeated in combat.
-SKILL_20150414_003839	$Temporarily grants the Holy property to you and your party member's attacks.
+SKILL_20150414_003839	$Temporarily grants a holy property to you and your party member's attacks.
 SKILL_20150414_003840	{#993399}{ol}[Magic] - [Holy]{/}{/}{nl}Create an exorcism circle that damages enemies inside, then deals continuous damage.
 SKILL_20150414_003841	Curse enemy to decrease its magic defense and prevent recovery.
 SKILL_20150414_003842	{#993399}{ol}[Magic] - [Dark]{/}{/}{nl}Control enemy under curse and inflict damage. Bonus damage applies on 3rd attack.
@@ -4067,7 +4067,7 @@ SKILL_20150428_004066	{memo X}Attack #{SkillAtkAdd}#{nl}Duration 10 seconds{nl}U
 SKILL_20150428_004067	{memo X}Attack #{SkillAtkAdd}#{nl}Duration 10 seconds{nl}Use 1 Gather Corpse
 SKILL_20150428_004068	$Hanging Shot
 SKILL_20150428_004069	$Guardian Saint duration: #{CaptionTime}# seconds{nl}Chance on hit: 50%{nl}Charges: #{CaptionRatio}#
-SKILL_20150428_004070	$Creates a magic circle in front of you that increases the DEX of allies and decreases the enemy's evasion and physical defense. Party members will receive the effect without stepping on the magic circle.
+SKILL_20150428_004070	$Create a magic circle in front of you that increases the dexterity of allies whilst decreasing the enemy's evasion and physical defense. Party members will receive the effect without stepping on the magic circle.
 SKILL_20150428_004071	$Give a blessing granting additional damage to the attacks of your party members and allies.
 SKILL_20150428_004072	$Additional Damage: +#{CaptionRatio}#{nl}Number of Hits: #{CaptionRatio2}#{nl}Allies affected: #{CaptionTime}#{nl}Duration: 45 seconds{nl}Consumes 1 Holy Powder
 SKILL_20150428_004073	{memo X}Body's moving range #{CaptionRatio}#{nl}Body's attack +#{CaptionRatio2}#
