@@ -2137,8 +2137,8 @@ SKILL_20150317_002136	$Shield Charge: Knockback
 SKILL_20150317_002137	$Increases the knockback distance of [Shield Charge] by 1m per level.
 SKILL_20150317_002138	$Counter Thrust: Deprotect
 SKILL_20150317_002139	Counter Thrust has a 10% chance per attribute level of inflicting [Deprotect] for 5 seconds, negating all active buffs on the target.
-SKILL_20150317_002140	$Shield Push: Unbalance
-SKILL_20150317_002141	$[Shield Push] deals 20% additional damage per level based on the character's physical damage, to knockdowned enemies affected by [Unbalance].
+SKILL_20150317_002140	Shield Push: Unbalance
+SKILL_20150317_002141	[Shield Push] deals 20% additional damage per level based on the character's physical damage, to knockdowned enemies affected by [Unbalance].
 SKILL_20150317_002142	{memo X}$Targe Smash: Flame
 SKILL_20150317_002143	{memo X}Spreads [Flame] to a number of enemies equal to the attribute level when an enemy sufferig from [Flame] is killed with [Targe Smash].
 SKILL_20150317_002144	$Cyclone: Movement
@@ -2584,8 +2584,8 @@ SKILL_20150317_002583	$Kneeling Shot: Enhance
 SKILL_20150317_002584	{memo X}$Increases the physical attack of [Kneeling Shot] per attribute level.
 SKILL_20150317_002585	$Steady Aim: Enhance
 SKILL_20150317_002586	{memo X}$Increases the additional damage of [Steady Aim] per attribute level.
-SKILL_20150317_002587	$Sacrament: Enhance
-SKILL_20150317_002588	$Increases the Holy property damage of [Sacrament] per attribute level.
+SKILL_20150317_002587	Sacrament: Enhance
+SKILL_20150317_002588	Increases the Holy property damage of [Sacrament] per attribute level.
 SKILL_20150317_002589	$Bash: Enhance 2
 SKILL_20150317_002590	$Enhanced the damage of [Bash] to Swordsman's 2nd Circle standards. 
 SKILL_20150317_002591	$Bash: Enhance 3
@@ -3306,7 +3306,7 @@ SKILL_20150401_003305	{memo X}Guardian Saint Duration #{CaptionTime}#seconds{nl}
 SKILL_20150401_003306	{memo X}Attack #{SkillAtkAdd}#{nl}Defense + #{CaptionRatio}# {nl}Target 10{nl}Duration #{CaptionRatio2}# seconds{nl}Use 1 Holy water
 SKILL_20150401_003307	{memo X}Additional damage +#{CaptionRatio}#{nl}Attack #{CaptionRatio2}#times{nl}Duration 30seconds{nl}Use 1 Holy Powder
 SKILL_20150401_003308	$Holy Property Attack: +#{CaptionRatio}#{nl}Additional Damage: +#{CaptionRatio2}#{nl}Duration: #{CaptionTime}# seconds{nl}Consumes 1 Gyslotis
-SKILL_20150401_003309	$Prevents you from being defeated in combat.
+SKILL_20150401_003309	Prevents you from being defeated in combat.
 SKILL_20150401_003310	$HP Recovery: #{CaptionRatio}#%{nl}Invincible for #{CaptionRatio2}# seconds{nl}Duration: #{CaptionTime}# seconds
 SKILL_20150401_003311	{memo X}{#993399}{ol}[Magic] - [Holy]{/}{/}{nl}Create magic circle with holy power. Enemy is damaged when and after entering the circle.
 SKILL_20150401_003312	{memo X}Attack #{SkillAtkAdd}#{nl}Divine Damage #{CaptionRatio}#{nl}Duration #{CaptionTime}# seconds
@@ -3827,16 +3827,16 @@ SKILL_20150414_003826	${#993399}{ol}[Magic] - [Holy]{/}{/}{nl}Creates a magic ci
 SKILL_20150414_003827	$Creates a magic circle that decreases the defense of enemies over time. 
 SKILL_20150414_003828	{memo X}$Creates a magic circle that increases the skill level of allies once.
 SKILL_20150414_003829	{memo X}$Summon a holy torch to improve the HP recovery rate of nearby allies.
-SKILL_20150414_003830	$Create a magic circle that improves the critical rate of allies or decreases the critical rate of enemies.
-SKILL_20150414_003831	$Increases the number of beneficial effects that you and your party members can receive.
-SKILL_20150414_003832	${#993399}{ol}[Magic] - [Lightning]{/}{/}{nl}Using the God of Thunder's power, create a magic circle that calls down bolts of lightning.
-SKILL_20150414_003833	$Engraves the divine stigma on an enemy. You and your party member's strength and intelligence are increased when the engraved enemy has been defeated.
-SKILL_20150414_003834	$Create a magic circle that temporarily maintains the beneficial effects of you and your party members.
+SKILL_20150414_003830	Create a magic circle that improves the critical rate of allies or decreases the critical rate of enemies.
+SKILL_20150414_003831	Increases the number of beneficial effects that you and your party members can receive.
+SKILL_20150414_003832	{#993399}{ol}[Magic] - [Lightning]{/}{/}{nl}Using the God of Thunder's power, create a magic circle that calls down bolts of lightning.
+SKILL_20150414_003833	Engraves the divine stigma on an enemy. You and your party member's strength and intelligence are increased when the engraved enemy has been defeated.
+SKILL_20150414_003834	Create a magic circle that temporarily maintains the beneficial effects of you and your party members.
 SKILL_20150414_003835	{memo X}${#993399}{ol}[Magic] - [Holy]{/}{/}{nl}Sprinkle holy water to increase the defense of you and your allies as well as inflict damage to enemies.
 SKILL_20150414_003836	{memo X}Create magic circle where ally's DEX increase and enemy's ecasion and Physical defense decrease.
 SKILL_20150414_003837	{memo X}Give blessings that grant additional damage on attacks of party members.
-SKILL_20150414_003838	$Resurrects a target that has been defeated in combat.
-SKILL_20150414_003839	$Temporarily grants a holy property to you and your party member's attacks.
+SKILL_20150414_003838	Resurrects a target that has been defeated in combat.
+SKILL_20150414_003839	Temporarily grants a holy property to you and your party member's attacks.
 SKILL_20150414_003840	{#993399}{ol}[Magic] - [Holy]{/}{/}{nl}Create an exorcism circle that damages enemies inside, then deals continuous damage.
 SKILL_20150414_003841	Curse an enemy to decrease its magical defense and prevent recovery.
 SKILL_20150414_003842	{#993399}{ol}[Magic] - [Dark]{/}{/}{nl}Control an enemy afflicted by curse and inflict damage from afar. Bonus damage is dealt on the 3rd attack.
@@ -4067,8 +4067,8 @@ SKILL_20150428_004066	{memo X}Attack #{SkillAtkAdd}#{nl}Duration 10 seconds{nl}U
 SKILL_20150428_004067	{memo X}Attack #{SkillAtkAdd}#{nl}Duration 10 seconds{nl}Use 1 Gather Corpse
 SKILL_20150428_004068	$Hanging Shot
 SKILL_20150428_004069	$Guardian Saint duration: #{CaptionTime}# seconds{nl}Chance on hit: 50%{nl}Charges: #{CaptionRatio}#
-SKILL_20150428_004070	$Create a magic circle in front of you that increases the dexterity of allies whilst decreasing the enemy's evasion and physical defense. Party members will receive the effect without stepping on the magic circle.
-SKILL_20150428_004071	$Give a blessing granting additional damage to the attacks of your party members and allies.
+SKILL_20150428_004070	Create a magic circle in front of you that increases the dexterity of allies whilst decreasing the enemy's evasion and physical defense. Party members will receive the effect without stepping on the magic circle.
+SKILL_20150428_004071	Give a blessing granting additional damage to the attacks of your party members and allies.
 SKILL_20150428_004072	$Additional Damage: +#{CaptionRatio}#{nl}Number of Hits: #{CaptionRatio2}#{nl}Allies affected: #{CaptionTime}#{nl}Duration: 45 seconds{nl}Consumes 1 Holy Powder
 SKILL_20150428_004073	{memo X}Body's moving range #{CaptionRatio}#{nl}Body's attack +#{CaptionRatio2}#
 SKILL_20150428_004074	{memo X}Reflect as much as target's Physical attack{nl}Additional damage reflected #{SkillAtkAdd}#{nl}Max. duration #{CaptionTime}# seconds{nl}Range projectile, Magic defense not possible
@@ -4707,7 +4707,7 @@ SKILL_20150714_004706	$Change: Win
 SKILL_20150714_004707	{memo X}The monster that is transformed by [Change] would have Item Jackpot Buff with 0.05% probability per Attribute level.
 SKILL_20150714_004708	$Increases the knockback power of [Thrust] by 50 per attribute level.
 SKILL_20150714_004709	When the enemies in the air by [Wagon Wheel] fall to ground receive of 50% of character's damage.
-SKILL_20150714_004710	$Increases the number of times [Repair] can be used by 1 per level.
+SKILL_20150714_004710	Increases the number of times [Repair] can be used by 1 per level.
 SKILL_20150717_004711	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio}#%{nl}{#339999}{ol}[Stun]{/}{/} duration: 1 second
 SKILL_20150717_004712	$Movement Speed: +#{CaptionRatio}#{nl}Duration: #{CaptionTime}# seconds
 SKILL_20150717_004713	{memo X}Your attack hits target but chance of critical and critical evasion decreases.
@@ -4940,8 +4940,8 @@ SKILL_20150729_004939	$Movement Speed: +#{CaptionRatio}#%{nl}Duration: #{Caption
 SKILL_20150729_004940	Back Masking Range: #{CaptionRatio}#{nl}Unable to use Back Masking nearby for 10 seconds{nl}Consumes 1 Dimensional Piece
 SKILL_20150729_004941	$Flesh Cannon
 SKILL_20150729_004942	$Flesh Hoop
-SKILL_20150729_004943	$Dig up the ground to collect materials for alchemy.
-SKILL_20150729_004944	$Recieve different materials depending on the terrain.
+SKILL_20150729_004943	Dig up the ground to collect materials for alchemy.
+SKILL_20150729_004944	Recieve different materials depending on the terrain.
 SKILL_20150729_004945	Each weapon has different dungeon{nl}and potential effects{nl}Slots available #{CaptionRatio}#
 SKILL_20150729_004946	Attack speed decreases while skill damage increases.
 SKILL_20150729_004947	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}Throw caltrops on the ground and inflict damage to enemies stepping on them.
@@ -5000,7 +5000,7 @@ SKILL_20150803_004999	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRat
 SKILL_20150803_005000	$Attack: 150% +#{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio}#%{nl}{#339999}{ol}[Stun]{/}{/} Duration: #{CaptionTime}# seconds{nl}Consumes 1 Stone Bullet
 SKILL_20150803_005001	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio}#%{nl}Trap duration: 15seconds{nl}Consumes 3 Ash Wood
 SKILL_20150803_005002	$Maximum Duration: #{CaptionRatio}# seconds
-SKILL_20150803_005003	$Create a magic circle that raises a dead enemy into a zombie. The HP of the raised zombie is based on the caster's SPR.
+SKILL_20150803_005003	Create a magic circle that raises a dead enemy into a zombie. The HP of the raised zombie is based on the caster's SPR.
 SKILL_20150803_005004	$Maximum HP: +#{CaptionRatio}#{nl}Movement Speed: +#{CaptionRatio2}#% Duration: #{CaptionTime}# seconds{nl}Glyph duration: 15 seconds
 SKILL_20150803_005005	$STR: +#{CaptionRatio}#{nl}Duration: #{CaptionRatio2}#{nl}Glyph duration: 15 seconds
 SKILL_20150803_005006	$Attribute Attack: #{CaptionRatio2}#%{nl}Additional Damage to Plant-type monsters: +#{CaptionRatio}#{nl}Drop rate for statue materials: #{CaptionTime}#%
@@ -5096,7 +5096,7 @@ SKILL_20150918_005095	{memo X}$Corpe Tower Duration: #{CaptionRatio}# seconds{nl
 SKILL_20150918_005096	$Raise Dead
 SKILL_20150918_005097	${#993399}{ol}[Magic]{/}{/}Summons a skeleton soldier made with a corpse. The skeleton soldier will engage in combat and follow its master.
 SKILL_20150918_005098	$Summons #{CaptionRatio}# Skeleton Soldiers{nl}Consumes #{CaptionRatio2}# Corpse(s){nl}Maximum Level: 5
-SKILL_20150918_005099	${#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Attack your enemy with a spiraling arrow inflicting multiple strikes. 
+SKILL_20150918_005099	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Attack your enemy with a spiraling arrow inflicting multiple strikes. 
 SKILL_20150918_005100	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio2}#%{nl}Number of Hits: #{CaptionRatio}#
 SKILL_20150918_005101	$Attack: #{SkillAtkAdd}#{nl}Blocks ranged projectiles: #{CaptionRatio}#{nl}Pavise Duration: #{CaptionTime}# seconds
 SKILL_20150918_005102	$Temporarily increases your Companion's Attack, Accuracy and Critical Rate.
@@ -5114,7 +5114,7 @@ SKILL_20150918_005113	{#993399}{ol}[Magic] - [Holy]{/}{/}{nl}Sprinkle holy water
 SKILL_20150918_005114	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio2}#%{nl}Physical Defense: +#{CaptionRatio}#%{nl}Targets: 10{nl}Duration: #{CaptionTime}# seconds{nl}Consumes 1 Holy Water
 SKILL_20150918_005115	$Maximum number of Magic Circles: #{SkillFactor}#{nl}Increases DEX for allies{nl}Enemy's Evasion & Defense: -#{CaptionRatio}#{nl} Duration: #{CaptionTime}# seconds
 SKILL_20150918_005116	$Mass Heal
-SKILL_20150918_005117	$Restores the HP of you and that of your allies in front of you. 
+SKILL_20150918_005117	Restores the HP of you and that of your allies in front of you. 
 SKILL_20150918_005118	$Restores #{CaptionRatio}#% of your maximum HP{nl}Additional HP Recovery: #{CaptionRatio2}#{nl}
 SKILL_20150918_005119	$Stone Skin
 SKILL_20150918_005120	$Temporarily increase the number of blocks of you and your party members.
