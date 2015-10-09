@@ -2136,9 +2136,9 @@ SKILL_20150317_002135	{memo X}[Slow] is inflicted on small, medium, large monste
 SKILL_20150317_002136	$Shield Charge: Knockback
 SKILL_20150317_002137	$Increases the knockback distance of [Shield Charge] by 1m per level.
 SKILL_20150317_002138	$Counter Thrust: Deprotect
-SKILL_20150317_002139	Counter Thrust has a 10% chance per attribute level of inflicted [Deprotect] for 5 seconds, negating all active buffs on the target.
+SKILL_20150317_002139	Counter Thrust has a 10% chance per attribute level of inflicting [Deprotect] for 5 seconds, negating all active buffs on the target.
 SKILL_20150317_002140	$Shield Push: Unbalance
-SKILL_20150317_002141	$Deals 20% additional damage per level from the character's physical damage to knockdowned enemies affected by the [Unbalance] status effect with [Shield Push].
+SKILL_20150317_002141	$[Shield Push] deals 20% additional damage per level based on the character's physical damage, to knockdowned enemies affected by [Unbalance].
 SKILL_20150317_002142	{memo X}$Targe Smash: Flame
 SKILL_20150317_002143	{memo X}Spreads [Flame] to a number of enemies equal to the attribute level when an enemy sufferig from [Flame] is killed with [Targe Smash].
 SKILL_20150317_002144	$Cyclone: Movement
@@ -3651,7 +3651,7 @@ SKILL_20150414_003650	{memo X}USe centrifugal force to throw away enemy.
 SKILL_20150414_003651	{memo X}Open shop to repair weapon and temporarily increase its performance.
 SKILL_20150414_003652	{memo X}Open shop to repair weapon and temporarily increase its performance. Physical defense is added. Repair is only for top, Pants, and Shield.
 SKILL_20150414_003653	Open shop for repairing items. Items are repaired to have higher durability than max. durability.
-SKILL_20150414_003654	Bind all enemies to stop it from moving including the boss monster.
+SKILL_20150414_003654	Bind all enemies including boss monsters to prevent them from moving.
 SKILL_20150414_003655	{memo X}Install basecamp for party members. Party members can use basecamp as storage or for teleport.
 SKILL_20150414_003656	$Duration: #{CaptionRatio}# hours{nl}Duration of the food effects is at least 30 minutes
 SKILL_20150414_003657	$Sets up a refreshment table to prepare dishes that temporarily increases the abilities for your party members. A refreshment table can only be set up near the base camp, and if the camp is removed, the refreshment table will be removed as well.
@@ -4231,7 +4231,7 @@ SKILL_20150714_004230	Right Hand is enlarged. Effect applies according to the su
 SKILL_20150714_004231	Max. HP is reduced, but the target will fall into [Stun] status
 SKILL_20150714_004232	Gohan
 SKILL_20150714_004233	Number of buff you can receive will increase.
-SKILL_20150714_004234	Remove the disable magic and bad buff
+SKILL_20150714_004234	Disable magic status and harmful effects are removed
 SKILL_20150714_004235	$Increased AoE Attack Ratio.
 SKILL_20150714_004236	Skull Swing: Can't jump
 SKILL_20150714_004237	{memo X}Can't jump
@@ -4684,7 +4684,7 @@ SKILL_20150714_004683	{memo X}$Adds 20% of the character's physical attack of th
 SKILL_20150714_004684	{memo X}$Enemies hit by [Palm Strike] will be affected by the [Bleeding] status for 8 seconds. The duration of [Bleeding] increases by 1 per attribute level.
 SKILL_20150714_004685	{memo X}$Enemies hit by [Hand Knife] will be afflicted by [Break Armor] with a certain chance. Increases the chance by 5% per attribute level.
 SKILL_20150714_004686	$Golden Bell Shield: Safety Zone
-SKILL_20150714_004687	The arer of around Caster will be Safe Zone while using [Golden Bell Shield].
+SKILL_20150714_004687	The area around the caster will be a Safe Zone whilst using [Golden Bell Shield].
 SKILL_20150714_004688	$Indulgentia: Enhance
 SKILL_20150714_004689	$Increases the damage dealt on an enemy with [Indulgentia] by 1% per attribute level.
 SKILL_20150714_004690	$Adds 1 person per attribute level to the applied target of [Discerning Evil].
@@ -4707,7 +4707,7 @@ SKILL_20150714_004706	$Change: Win
 SKILL_20150714_004707	{memo X}The monster that is transformed by [Change] would have Item Jackpot Buff with 0.05% probability per Attribute level.
 SKILL_20150714_004708	$Increases the knockback power of [Thrust] by 50 per attribute level.
 SKILL_20150714_004709	When the enemies in the air by [Wagon Wheel] fall to ground receive of 50% of character's damage.
-SKILL_20150714_004710	$Increases the number of times of using [Repair] by 1 per level.
+SKILL_20150714_004710	$Increases the number of times [Repair] can be used by 1 per level.
 SKILL_20150717_004711	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio}#%{nl}{#339999}{ol}[Stun]{/}{/} duration: 1 second
 SKILL_20150717_004712	$Movement Speed: +#{CaptionRatio}#{nl}Duration: #{CaptionTime}# seconds
 SKILL_20150717_004713	{memo X}Your attack hits target but chance of critical and critical evasion decreases.
@@ -4812,7 +4812,7 @@ SKILL_20150717_004811	A character whose [Poison] is removed due to [Detoxify] wi
 SKILL_20150717_004812	Even if an object gets out of the range of [Throw Gu Pot], [Poison] will last for 2 secs per Attribute level.
 SKILL_20150717_004813	The enemies that are in the range of [Scan] will fall into Confusion with a certain probability for 5 secs. The probability will increase by 10% per Attribute level.
 SKILL_20150717_004814	Enemies within rage of [Tear Gas] receives damage every 2 seconds. Damage increases per attribute level.
-SKILL_20150717_004815	Enemy falls under [Massive Bleeding] status when attack with [Back Step] while bleeding for 10 secs, the duration will increase by 1 per Attribute level. the Massive Bleeding will be decided based on character's STR, Physical ATK.
+SKILL_20150717_004815	Enemy falls under [Massive Bleeding] for 10 seconds when attacked with [Backstab] whilst bleeding. The duration will increase by 1 second per Attribute level. Massive Bleed damage is based on character's STR, Physical ATK.
 SKILL_20150717_004816	$Increases the range of [Tear Gas] to 75.
 SKILL_20150717_004817	When use [Bodkin Point] for attack, the enemies DEF will be reduced by 1% per Attribute level.
 SKILL_20150717_004818	[Crossfire] gets a 10% chance per level of inflicting [Burn] on targets, Burn damage scales with character's physical damage.
@@ -4940,8 +4940,8 @@ SKILL_20150729_004939	$Movement Speed: +#{CaptionRatio}#%{nl}Duration: #{Caption
 SKILL_20150729_004940	Back Masking Range: #{CaptionRatio}#{nl}Unable to use Back Masking nearby for 10 seconds{nl}Consumes 1 Dimensional Piece
 SKILL_20150729_004941	$Flesh Cannon
 SKILL_20150729_004942	$Flesh Hoop
-SKILL_20150729_004943	$Dig in the ground to obtain materials required for alchemy.
-SKILL_20150729_004944	$Obtain other materials by digging depending on the ground.
+SKILL_20150729_004943	$Dig up the ground to collect materials for alchemy.
+SKILL_20150729_004944	$Recieve different materials depending on the terrain.
 SKILL_20150729_004945	Each weapon has different dungeon{nl}and potential effects{nl}Slots available #{CaptionRatio}#
 SKILL_20150729_004946	Attack speed decreases while skill ATK increases.
 SKILL_20150729_004947	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}Throw caldrop on ground and inflict damage on enemies stepping on it.
@@ -4976,7 +4976,7 @@ SKILL_20150729_004975	Electric Shock
 SKILL_20150729_004976	Periodically receive lightning damage
 SKILL_20150729_004977	Physical DEF, Magic DEF decreases
 SKILL_20150729_004978	MP decreases
-SKILL_20150729_004979	damage received increases
+SKILL_20150729_004979	Damage received increases
 SKILL_20150729_004980	Gather plants
 SKILL_20150729_004981	Lunacy
 SKILL_20150729_004982	Release Lunacy
