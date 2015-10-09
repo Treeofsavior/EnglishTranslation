@@ -3808,20 +3808,20 @@ SKILL_20150414_003807	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Shoot forward 
 SKILL_20150414_003808	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use speed to move fast while attacking when riding on top.
 SKILL_20150414_003809	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Shoot in the opposite direction you are moving.
 SKILL_20150414_003810	Call
-SKILL_20150414_003811	Call back the hawk that flew away
+SKILL_20150414_003811	Recall your hawk
 SKILL_20150414_003812	Level 1 Master
 SKILL_20150414_003813	Looking
 SKILL_20150414_003814	Install Perch
-SKILL_20150414_003815	Install a perch where the hawk can wait. The hawk waits for the owner's order on the perch. It disappears when you move away from it.
+SKILL_20150414_003815	Install a perch where the hawk can sit. The hawk will wait for the owner's order on the perch. The perch disappears when you move away from it.
 SKILL_20150414_003816	Range #{CaptionRatio}#{nl}Torch duration #{CaptionRatio2}# seconds
 SKILL_20150414_003817	Circling
 SKILL_20150414_003818	{memo X}Fly circling around target area. Range defense of enemies within target area decreases.
 SKILL_20150414_003819	{memo X}Range defense rate -#{CaptionRatio}# {nl}Duration 0 seconds
 SKILL_20150414_003820	Hovering
-SKILL_20150414_003821	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Float on target area and attack enemy passing below.
-SKILL_20150414_003822	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Throw practice hawk doll and attack that area.
+SKILL_20150414_003821	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Hawk circles above the target area and attacks enemys passing below.
+SKILL_20150414_003822	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Throw a training doll and have your hawk attack the location.
 SKILL_20150414_003823	{memo X}Hand and Shoot
-SKILL_20150414_003824	$Let your hawk carry you. While being carried, you can inflict damage to enemies using your basic attack without being attacked.
+SKILL_20150414_003824	Have your hawk carry you. Whilst being carried, you can inflict damage to enemies below using your basic attacks without being harmed.
 SKILL_20150414_003825	{memo X}${#993399}{ol}[Magic] - [Holy]{/}{/}{nl}Creates a magic circle that recovers HP or inflicts damage to enemies. Does not apply to airborne enemies.
 SKILL_20150414_003826	${#993399}{ol}[Magic] - [Holy]{/}{/}{nl}Creates a magic circle that removes a Lv1 abnormal status from allies or inflicts damage to enemies. Does not apply to airborne enemies.
 SKILL_20150414_003827	$Creates a magic circle that decreases the defense of enemies over time. 
@@ -4204,7 +4204,7 @@ SKILL_20150714_004203	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRat
 SKILL_20150714_004204	$Attribute Attack: #{CaptionRatio}#%{nl}Duration: 10 seconds{nl}Number of Hits: #{CaptionRatio2}#{nl}Consumes 1 Magic Arrow
 SKILL_20150714_004205	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio}#%{nl}Duration: 10 seconds{nl}Consumes 1 Divine Arrow
 SKILL_20150714_004206	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio}#%{nl}Able to use while riding
-SKILL_20150714_004207	Fly circling around target area. Range defense of enemies within target area decreases.
+SKILL_20150714_004207	Hawk will encircle a target area. Enemies within radius have their defence reduced.
 SKILL_20150714_004208	$AoE Defense Ratio: -#{CaptionRatio}# {nl}Duration: 10 seconds
 SKILL_20150714_004209	{memo X}$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionTime}#%{nl}HP Recovery: #{CaptionRatio}# ~ #{CaptionRatio2}#{nl}Magic Circle Duration: 40 seconds
 SKILL_20150714_004210	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio2}#%{nl}Number of Hits: #{CaptionRatio}#{nl}Magic Circle Duration: #{CaptionTime}# seconds
