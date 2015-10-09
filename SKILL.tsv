@@ -3306,7 +3306,7 @@ SKILL_20150401_003305	{memo X}Guardian Saint Duration #{CaptionTime}#seconds{nl}
 SKILL_20150401_003306	{memo X}Attack #{SkillAtkAdd}#{nl}Defense + #{CaptionRatio}# {nl}Target 10{nl}Duration #{CaptionRatio2}# seconds{nl}Use 1 Holy water
 SKILL_20150401_003307	{memo X}Additional damage +#{CaptionRatio}#{nl}Attack #{CaptionRatio2}#times{nl}Duration 30seconds{nl}Use 1 Holy Powder
 SKILL_20150401_003308	$Holy Property Attack: +#{CaptionRatio}#{nl}Additional Damage: +#{CaptionRatio2}#{nl}Duration: #{CaptionTime}# seconds{nl}Consumes 1 Gyslotis
-SKILL_20150401_003309	$Prevents you from becoming Incapable of Combat once.
+SKILL_20150401_003309	$Prevents you from being defeated in combat.
 SKILL_20150401_003310	$HP Recovery: #{CaptionRatio}#%{nl}Invincible for #{CaptionRatio2}# seconds{nl}Duration: #{CaptionTime}# seconds
 SKILL_20150401_003311	{memo X}{#993399}{ol}[Magic] - [Holy]{/}{/}{nl}Create magic circle with holy power. Enemy is damaged when and after entering the circle.
 SKILL_20150401_003312	{memo X}Attack #{SkillAtkAdd}#{nl}Divine Damage #{CaptionRatio}#{nl}Duration #{CaptionTime}# seconds
@@ -3835,9 +3835,9 @@ SKILL_20150414_003834	$Create a magic circle that temporarily maintains the bene
 SKILL_20150414_003835	{memo X}${#993399}{ol}[Magic] - [Holy]{/}{/}{nl}Sprinkle holy water to increase the defense of you and your allies as well as inflict damage to enemies.
 SKILL_20150414_003836	{memo X}Create magic circle where ally's DEX increase and enemy's ecasion and Physical defense decrease.
 SKILL_20150414_003837	{memo X}Give blessings that grant additional damage on attacks of party members.
-SKILL_20150414_003838	$Resurrects a target in the state of Incapable of Combat.
+SKILL_20150414_003838	$Resurrects a target that has been defeated in combat.
 SKILL_20150414_003839	$Temporarily grants the Holy property to you and your party member's attacks.
-SKILL_20150414_003840	{#993399}{ol}[Magic] - [Holy]{/}{/}{nl}Create exorcism circle that attacks enemies stepping it then give continuous damage.
+SKILL_20150414_003840	{#993399}{ol}[Magic] - [Holy]{/}{/}{nl}Create an exorcism circle that damages enemies inside, then deals continuous damage.
 SKILL_20150414_003841	Curse enemy to decrease its magic defense and prevent recovery.
 SKILL_20150414_003842	{#993399}{ol}[Magic] - [Dark]{/}{/}{nl}Control enemy under curse and inflict damage. Bonus damage applies on 3rd attack.
 SKILL_20150414_003843	Use monkey skull to lure zombies to desired area.
@@ -5114,7 +5114,7 @@ SKILL_20150918_005113	{#993399}{ol}[Magic] - [Holy]{/}{/}{nl}Sprinkle holy water
 SKILL_20150918_005114	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio2}#%{nl}Physical Defense: +#{CaptionRatio}#%{nl}Targets: 10{nl}Duration: #{CaptionTime}# seconds{nl}Consumes 1 Holy Water
 SKILL_20150918_005115	$Maximum number of Magic Circles: #{SkillFactor}#{nl}Increases DEX for allies{nl}Enemy's Evasion & Defense: -#{CaptionRatio}#{nl} Duration: #{CaptionTime}# seconds
 SKILL_20150918_005116	$Mass Heal
-SKILL_20150918_005117	$Restores your HP and that of your allies in front of you. 
+SKILL_20150918_005117	$Restores the HP of you and that of your allies in front of you. 
 SKILL_20150918_005118	$Restores #{CaptionRatio}#% of your maximum HP{nl}Additional HP Recovery: #{CaptionRatio2}#{nl}
 SKILL_20150918_005119	$Stone Skin
 SKILL_20150918_005120	$Temporarily increases the number of blocks of you and your party members.
