@@ -734,8 +734,8 @@ SKILL_20150317_000733	[Harpeia] Physical Non-Property Pierce
 SKILL_20150317_000734	[Harpeia] Magic Non-Property Magic
 SKILL_20150317_000735	[Harpeia] Physical Lightning Property Magic
 SKILL_20150317_000736	[Rajatoad] Physical Ice Property Magic
-SKILL_20150317_000737	[Malletwyvern] Physical Ice Property Strike
-SKILL_20150317_000738	[Malletwyvern] Physical Ice Property Magic
+SKILL_20150317_000737	[Mallet Wyvern] Physical Ice Property Strike
+SKILL_20150317_000738	[Mallet Wyvern] Physical Ice Property Magic
 SKILL_20150317_000739	[Merge] Physical Non-Property Slash
 SKILL_20150317_000740	[Merge] Physical Non-Property Pierce
 SKILL_20150317_000741	[Unicorn] Physical Non-Property Pierce
@@ -893,7 +893,7 @@ SKILL_20150317_000892	[Unknocker Card] Physical Dark Property Strike
 SKILL_20150317_000893	[Saltistter Card] Physical Water Property Strike
 SKILL_20150317_000894	[Deadborn Card] Physical Non-Property Slash
 SKILL_20150317_000895	[Corrupted Card] Magic Holy Property Magic
-SKILL_20150317_000896	[Malletwyvern Card] Magic Non-Property Strike
+SKILL_20150317_000896	[Mallet Wyvern Card] Magic Non-Property Strike
 SKILL_20150317_000897	[Moyabruka Card] Physical Non-Property Strike
 SKILL_20150317_000898	[Colimencia Card] Physical Water Property Strike
 SKILL_20150317_000899	[Rajapearl Card] Magic Water Property Strike
@@ -3781,9 +3781,9 @@ SKILL_20150414_003780	{memo X}Companion speed +#{CaptionRatio}#% {nl}Duration #{
 SKILL_20150414_003781	Companion threats and prevents enemy from approaching. Enemy may fall under Fear.
 SKILL_20150414_003782	Rush Dog
 SKILL_20150414_003783	Make companion rush forward to attack.
-SKILL_20150414_003784	Heal addicted ally. Poison with higher level than Detox can't be healed but its duration decrease.
+SKILL_20150414_003784	Heal poisoned ally. Poison with higher level than Detox can't be healed but its duration decrease.
 SKILL_20150414_003785	{#DD5500}{ol}[Physical] - [Poison] - [Pierce]{/}{/}{nl}Blow toxic arrow and inflict continuous damage.
-SKILL_20150414_003786	{#DD5500}{ol}[Physical] - [Poison] - [Pierce]{/}{/}{nl}Throw jar of Poison to create poisonous puddle. Enemies become addicted when stepping on the puddle.
+SKILL_20150414_003786	{#DD5500}{ol}[Physical] - [Poison] - [Pierce]{/}{/}{nl}Throw jar of Poison to create poisonous puddle. Enemies become poisoned when stepping on the puddle.
 SKILL_20150414_003787	{#DD5500}{ol}[Physical] - [Poison] - [Pierce]{/}{/}{nl}Throw hairpin to parasite on enemy. Venomous insect is born when the host is killed.
 SKILL_20150414_003788	Hide yourself in an empty container. Blocks agains few Physical attacks.
 SKILL_20150414_003789	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Shoot arrow that makes noise. Enemies nearby falls under fear.
@@ -4815,7 +4815,7 @@ SKILL_20150717_004814	Enemies within rage of [Tear Gas] receives damage every 2 
 SKILL_20150717_004815	Enemy falls under [Massive Bleeding] status when attack with [Back Step] while bleeding for 10 secs, the duration will increase by 1 per Attribute level. the Massive Bleeding will be decided based on character's STR, Physical ATK.
 SKILL_20150717_004816	$Increases the range of [Tear Gas] to 75.
 SKILL_20150717_004817	When use [Bodkin Point] for attack, the enemies DEF will be reduced by 1% per Attribute level.
-SKILL_20150717_004818	According to skill 5 seconds at MakuTaro bursts was 10% of probability for each level of that was attacked in the attack of [Crossfire], about 5% of the Physical damage of state [image]
+SKILL_20150717_004818	[Crossfire] gets a 10% chance per level of inflicting [Burn] on targets, Burn damage scales with character's physical damage.
 SKILL_20150717_004819	The enemies that are shot by [Magic Arrow] will fall into [Silence] with a certain probabillity. The probability will increase by 10% per Attribute level.
 SKILL_20150717_004820	You can create the arrows for Fletcher. Crafting arrow is available while rest mode.
 SKILL_20150717_004821	{memo X}Defense decrease effect of [Deprotected Zone] increases by 1 per attribute level.
