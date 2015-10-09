@@ -3838,11 +3838,11 @@ SKILL_20150414_003837	{memo X}Give blessings that grant additional damage on att
 SKILL_20150414_003838	$Resurrects a target that has been defeated in combat.
 SKILL_20150414_003839	$Temporarily grants a holy property to you and your party member's attacks.
 SKILL_20150414_003840	{#993399}{ol}[Magic] - [Holy]{/}{/}{nl}Create an exorcism circle that damages enemies inside, then deals continuous damage.
-SKILL_20150414_003841	Curse enemy to decrease its magic defense and prevent recovery.
-SKILL_20150414_003842	{#993399}{ol}[Magic] - [Dark]{/}{/}{nl}Control enemy under curse and inflict damage. Bonus damage applies on 3rd attack.
-SKILL_20150414_003843	Use monkey skull to lure zombies to desired area.
+SKILL_20150414_003841	Curse an enemy to decrease its magical defense and prevent recovery.
+SKILL_20150414_003842	{#993399}{ol}[Magic] - [Dark]{/}{/}{nl}Control an enemy afflicted by curse and inflict damage from afar. Bonus damage is dealt on the 3rd attack.
+SKILL_20150414_003843	Use a monkey skull to lure zombies to the desired location.
 SKILL_20150414_003844	{memo X}Create magic circle that turns enemies killed into zombies.
-SKILL_20150414_003845	Throw amulet to target that stops pain. Target does not receive damage when effect is enabled but receives damage accumulated at once when the effect ends.
+SKILL_20150414_003845	Throw a talisman to an ally that temporarily suppresses pain. Ally is invunerable to any damage when the talisman is enabled, but receives the accumulated damage at once when the effect ends.
 SKILL_20150414_003846	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Order zombies to celebrate. Zombies dance around target area and enemies touching the zombies receive damage.
 SKILL_20150414_003847	{memo X}Install a Samedi pattern that represents death noir on the ground. Movement speed and max. HP of zombies and allies around the pattern increase.
 SKILL_20150414_003848	{memo X}Install a Oguon pattern that represents strength noir on the ground. Strength of zombies and allies around the pattern increase.
@@ -5000,7 +5000,7 @@ SKILL_20150803_004999	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRat
 SKILL_20150803_005000	$Attack: 150% +#{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio}#%{nl}{#339999}{ol}[Stun]{/}{/} Duration: #{CaptionTime}# seconds{nl}Consumes 1 Stone Bullet
 SKILL_20150803_005001	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio}#%{nl}Trap duration: 15seconds{nl}Consumes 3 Ash Wood
 SKILL_20150803_005002	$Maximum Duration: #{CaptionRatio}# seconds
-SKILL_20150803_005003	$Creates a magic circle that turns a dead enemy into a zombie. The HP of the created zombie is based on the caster's SPR.
+SKILL_20150803_005003	$Create a magic circle that raises a dead enemy into a zombie. The HP of the raised zombie is based on the caster's SPR.
 SKILL_20150803_005004	$Maximum HP: +#{CaptionRatio}#{nl}Movement Speed: +#{CaptionRatio2}#% Duration: #{CaptionTime}# seconds{nl}Glyph duration: 15 seconds
 SKILL_20150803_005005	$STR: +#{CaptionRatio}#{nl}Duration: #{CaptionRatio2}#{nl}Glyph duration: 15 seconds
 SKILL_20150803_005006	$Attribute Attack: #{CaptionRatio2}#%{nl}Additional Damage to Plant-type monsters: +#{CaptionRatio}#{nl}Drop rate for statue materials: #{CaptionTime}#%
