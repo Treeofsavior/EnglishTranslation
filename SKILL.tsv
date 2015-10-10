@@ -1506,7 +1506,7 @@ SKILL_20150317_001505	$Statue of Goddess Laima
 SKILL_20150317_001506	{memo X}Carve Goddess Zemyna Statue. Spalsh of party members around the statue is increased.
 SKILL_20150317_001507	{memo X}Splash +#{CaptionRatio}# {nl}Statue duration 30 seconds {nl} Use 5 cedar wood
 SKILL_20150317_001508	$Carve
-SKILL_20150317_001509	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Use carving knife to attack the target. Additional damage applies to plant type monsters and can obtain statue materials
+SKILL_20150317_001509	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Use a carving knife to attack. Plant type monsters take additional damage and may drop statue materials.
 SKILL_20150317_001510	{memo X}Attack #{SkillAtkAdd}#{nl}Additional damage +#{CaptionRatio}#
 SKILL_20150317_001511	$Carve Owl
 SKILL_20150317_001512	{memo X}{#993399}{ol}[Magic] - [Fire]{/}{/}{nl} Summon the owl statue to attack targets located in front of it.
@@ -3848,11 +3848,11 @@ SKILL_20150414_003847	{memo X}Install a Samedi pattern that represents death noi
 SKILL_20150414_003848	{memo X}Install a Oguon pattern that represents strength noir on the ground. Strength of zombies and allies around the pattern increase.
 SKILL_20150414_003849	{#993399}{ol}[Magic]{/}{/}{nl}Detonate zombies near the target area and deal damage to nearby enemies.
 SKILL_20150414_003850	$Carve a statue of Vakarine, the Goddess of Evening Star. {nl}You may warp to other areas through the Goddess Statue.
-SKILL_20150414_003851	$Carve a statue of Zemyna, the Goddess of Earth.{nl}Decreases the SP cost for allies who are nearby the Goddess Statue.
+SKILL_20150414_003851	$Carve a statue of Zemyna, the Goddess of Earth.{nl}Decreases the SP cost for allies who are within radius of the Goddess Statue.
 SKILL_20150414_003852	{memo X}$SP -#{CaptionRatio}# {nl}Statue duration: #{CaptionRatio2}# seconds{nl}Consumes 4 Pine Wood
-SKILL_20150414_003853	$Carve a statue of Laima, the Goddess of Fate. {nl}Decreases the cooldown of your party member's skills nearby the Goddess Statue.
+SKILL_20150414_003853	$Carve a statue of Laima, the Goddess of Fate. {nl}Decreases the cooldown of your party members skills within radius of the Goddess Statue.
 SKILL_20150414_003854	{memo X}$Cooldown duration: -#{CaptionRatio}#%{nl}Statue duration: #{CaptionRatio2}# seconds{nl}Consumes 4 Cedar Wood
-SKILL_20150414_003855	{#993399}{ol}[Magic] - [Fire]{/}{/}{nl}Carve an owl statue that attacks the enemy.
+SKILL_20150414_003855	{#993399}{ol}[Magic] - [Fire]{/}{/}{nl}Carve an owl statue that attacks enemies in front.
 SKILL_20150414_003856	{memo X}Attack #{SkillAtkAdd}#{nl}Defend #{CaptionRatio}#times{nl}Duration #{CaptionTime}# seconds{nl}Use 3 Oak wood
 SKILL_20150414_003857	Carve a holy tree that silence nearby enemies.
 SKILL_20150414_003858	{memo X}Statue duration #{CaptionRatio}# seconds{nl}Use 6 Ash woods
