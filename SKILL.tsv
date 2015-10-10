@@ -2138,7 +2138,7 @@ SKILL_20150317_002137	$Increases the knockback distance of [Shield Charge] by 1m
 SKILL_20150317_002138	$Counter Thrust: Deprotect
 SKILL_20150317_002139	$Counter Thrust has a 10% chance per attribute level of inflicting [Deprotect] for 5 seconds, negating all active buffs on the target.
 SKILL_20150317_002140	$Shield Push: Unbalance
-SKILL_20150317_002141	$[Shield Push] deals 20% additional damage per level based on based on your physical attack, to knockdowned enemies affected by [Unbalance].
+SKILL_20150317_002141	$[Shield Push] deals an additional 20% damage per level based on your physical attack, to knockdowned enemies affected by [Unbalance].
 SKILL_20150317_002142	{memo X}$Targe Smash: Flame
 SKILL_20150317_002143	{memo X}Spreads [Flame] to a number of enemies equal to the attribute level when an enemy sufferig from [Flame] is killed with [Targe Smash].
 SKILL_20150317_002144	$Cyclone: Movement
@@ -2585,7 +2585,7 @@ SKILL_20150317_002584	{memo X}$Increases the physical attack of [Kneeling Shot] 
 SKILL_20150317_002585	$Steady Aim: Enhance
 SKILL_20150317_002586	{memo X}$Increases the additional damage of [Steady Aim] per attribute level.
 SKILL_20150317_002587	$Sacrament: Enhance
-SKILL_20150317_002588	$Increases the Holy property damage of [Sacrament] per attribute level.
+SKILL_20150317_002588	$Increases the Holy property damage of [Sacrament].
 SKILL_20150317_002589	$Bash: Enhance 2
 SKILL_20150317_002590	$Enhanced the damage of [Bash] to Swordsman's 2nd Circle standards. 
 SKILL_20150317_002591	$Bash: Enhance 3
@@ -3306,7 +3306,7 @@ SKILL_20150401_003305	{memo X}Guardian Saint Duration #{CaptionTime}#seconds{nl}
 SKILL_20150401_003306	{memo X}Attack #{SkillAtkAdd}#{nl}Defense + #{CaptionRatio}# {nl}Target 10{nl}Duration #{CaptionRatio2}# seconds{nl}Use 1 Holy water
 SKILL_20150401_003307	{memo X}Additional damage +#{CaptionRatio}#{nl}Attack #{CaptionRatio2}#times{nl}Duration 30seconds{nl}Use 1 Holy Powder
 SKILL_20150401_003308	$Holy Property Attack: +#{CaptionRatio}#{nl}Additional Damage: +#{CaptionRatio2}#{nl}Duration: #{CaptionTime}# seconds{nl}Consumes 1 Gyslotis
-SKILL_20150401_003309	Prevents you from being defeated in combat.
+SKILL_20150401_003309	$Prevents you from becoming Incapable of Combat once.
 SKILL_20150401_003310	$HP Recovery: #{CaptionRatio}#%{nl}Invincible for #{CaptionRatio2}# seconds{nl}Duration: #{CaptionTime}# seconds
 SKILL_20150401_003311	{memo X}{#993399}{ol}[Magic] - [Holy]{/}{/}{nl}Create magic circle with holy power. Enemy is damaged when and after entering the circle.
 SKILL_20150401_003312	{memo X}Attack #{SkillAtkAdd}#{nl}Divine Damage #{CaptionRatio}#{nl}Duration #{CaptionTime}# seconds
@@ -3651,7 +3651,7 @@ SKILL_20150414_003650	{memo X}USe centrifugal force to throw away enemy.
 SKILL_20150414_003651	{memo X}Open shop to repair weapon and temporarily increase its performance.
 SKILL_20150414_003652	{memo X}Open shop to repair weapon and temporarily increase its performance. Physical defense is added. Repair is only for top, Pants, and Shield.
 SKILL_20150414_003653	Open shop for repairing items. Items are repaired to have higher durability than max. durability.
-SKILL_20150414_003654	Bind all enemies including boss monsters to prevent them from moving.
+SKILL_20150414_003654	Bind all enemies, including boss monsters to prevent them from moving.
 SKILL_20150414_003655	{memo X}Install basecamp for party members. Party members can use basecamp as storage or for teleport.
 SKILL_20150414_003656	$Duration: #{CaptionRatio}# hours{nl}Duration of the food effects is at least 30 minutes
 SKILL_20150414_003657	$Sets up a refreshment table to prepare dishes that temporarily increases the abilities for your party members. A refreshment table can only be set up near the base camp, and if the camp is removed, the refreshment table will be removed as well.
@@ -3754,9 +3754,9 @@ SKILL_20150414_003753	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Draw your bows
 SKILL_20150414_003754	{memo X}{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Sit down to increase focus. ATK and range increases.
 SKILL_20150414_003755	$Temporarily increases your movement speed while attacking.
 SKILL_20150414_003756	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Arrow ricochets to a nearby enemy.
-SKILL_20150414_003757	$HeavyShot
+SKILL_20150414_003757	$Heavy Shot
 SKILL_20150414_003758	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Demonstrate your strength by firing an arrow that pushes enemies away.
-SKILL_20150414_003759	$TwinArrows
+SKILL_20150414_003759	$Twin Arrows
 SKILL_20150414_003760	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Shoot two arrows at once.
 SKILL_20150414_003761	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Penetrate straight through the enemy by aiming with the tip of your arrow. 
 SKILL_20150414_003762	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Shoot an arrow with a high critical chance.
@@ -3770,17 +3770,17 @@ SKILL_20150414_003769	Collect stones to use as bullets for Stone Shot. Cannot be
 SKILL_20150414_003770	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Charge crossbow with multiple arrows and shoot towards enemy.
 SKILL_20150414_003771	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Damage nearby enemies by destroying the obstacles in front.
 SKILL_20150414_003772	Attack with your crossbow while moving quickly.
-SKILL_20150414_003773	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Install a rotating trap that inflicts damage to enemies within radius.
-SKILL_20150414_003774	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Install a trap that shoots buckshot. Trap is triggered using a plunger.
-SKILL_20150414_003775	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Install a trap that rebounds enemies when stepped on.
+SKILL_20150414_003773	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Prepare a rotating trap that inflicts damage to enemies within a radius.
+SKILL_20150414_003774	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Prepare a trap that shoots buckshot. Trap is triggered using a detonator.
+SKILL_20150414_003775	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Prepare a trap that rebounds enemies when stepped on.
 SKILL_20150414_003776	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Explode ally magic circle and inflict damage to enemy.
-SKILL_20150414_003777	Hide the installed trap from enemies.
-SKILL_20150414_003778	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Install a trap that shoots arrows when an enemy touches the wire.
-SKILL_20150414_003779	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Attatch a bomb to an enemy. Enemy explodes when coming into contact with other enemies.
+SKILL_20150414_003777	Hide the prepared trap from enemies.
+SKILL_20150414_003778	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Prepare a trap that shoots arrows when an enemy touches the wire.
+SKILL_20150414_003779	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Attach a bomb to an enemy. The enemy explodes when it comes in contact with other enemies.
 SKILL_20150414_003780	{memo X}Companion speed +#{CaptionRatio}#% {nl}Duration #{CaptionTime}# seconds
-SKILL_20150414_003781	Companion intimidates the enemy and prevents it from approaching. Enemy may fall under Fear.
+SKILL_20150414_003781	Your companion intimidates the enemy and prevents it from approaching. Enemies may fall under Fear.
 SKILL_20150414_003782	Rush Dog
-SKILL_20150414_003783	Order companion to rush forward and attack the enemy.
+SKILL_20150414_003783	Order your companion to rush forward and attack the enemy.
 SKILL_20150414_003784	Heal poisoned ally. A poison status with a higher level than Detox can't be healed however its duration decreases.
 SKILL_20150414_003785	{#DD5500}{ol}[Physical] - [Poison] - [Pierce]{/}{/}{nl}Blow toxic arrow and inflict continuous damage.
 SKILL_20150414_003786	{#DD5500}{ol}[Physical] - [Poison] - [Pierce]{/}{/}{nl}Throw jar of Poison to create poisonous puddle. Enemies become poisoned when stepping on the puddle.
@@ -3791,9 +3791,9 @@ SKILL_20150414_003790	Temporarily hide yourself away from enemy's vision. You be
 SKILL_20150414_003791	Distort sense of distance and make attack of allies possible outside the range.
 SKILL_20150414_003792	Show hidden items and enemies within range.
 SKILL_20150414_003793	$Temporarily increases your Critical Chance when attacking enemies from behind. 
-SKILL_20150414_003794	Trick enemies to lower their guard. Evasion of enemies in front decreases.
+SKILL_20150414_003794	Trick enemies to lower their guard. Temporarily decreases the evasion of enemies in front of you.
 SKILL_20150414_003795	Hide underground to conceal your appearance. In this state you can attack but cannot move.
-SKILL_20150414_003796	Steal enemy's trap and magic circle. You may use it later when you need it.
+SKILL_20150414_003796	Steal the enemy's trap and magic circle. You may use it later when you need it.
 SKILL_20150414_003797	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Enemy explodes when killed with this attack and your party's strength temporarily increases.
 SKILL_20150414_003798	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Throw tear gas on target area. Enemies fall under [Dark].
 SKILL_20150414_003799	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Continuously attack using your dagger. A Double attack with high critical rate and a chance to stun the enemy.
@@ -3946,11 +3946,11 @@ SKILL_20150414_003945	{memo X}Skull Swing: Enhance
 SKILL_20150414_003946	$Skull Swing: Enhance 2
 SKILL_20150414_003947	$Throwing Spear: Enhance
 SKILL_20150414_003948	$Stomping Kick: Enhance 2
-SKILL_20150414_003949	$HeavyShot: Enhance
+SKILL_20150414_003949	$Heavy Shot: Enhance
 SKILL_20150414_003950	{memo X}Damage of [Knock Heavy Shot] increase per attribute level.
-SKILL_20150414_003951	$HeavyShot: Enhance 2
-SKILL_20150414_003952	Damage of [HeavyShot] is enhanced to Archer Circle 3.
-SKILL_20150414_003953	$TwinArrows: Enhance
+SKILL_20150414_003951	$Heavy Shot: Enhance 2
+SKILL_20150414_003952	Damage of [Heavy Shot] is enhanced to Archer Circle 3.
+SKILL_20150414_003953	$Twin Arrows: Enhance
 SKILL_20150414_003954	{memo X}Damage of [Twin Arrow] increase per attribute level.
 SKILL_20150414_003955	$Teardown: Enhance
 SKILL_20150414_003956	{memo X}Damage of [Teardown] increase per attribute level.
@@ -4510,8 +4510,8 @@ SKILL_20150714_004509	$Obtain the recipe of Magic Amplification Increase Potion 
 SKILL_20150714_004510	$Increases the damage dealt on an enemy with [Multi Shot] by 1% per attribute level.
 SKILL_20150714_004511	$Increases the damage dealt on an enemy with [Fulldraw] by 1% per attribute level.
 SKILL_20150714_004512	$Increases the damage dealt on an enemy with [Oblique Shot] by 1% per attribute level.
-SKILL_20150714_004513	$Increases the damage dealt on an enemy with [HeavyShot] by 1% per attribute level.
-SKILL_20150714_004514	$Increases the damage dealt on an enemy with [TwinArrows] by 1% per attribute level.
+SKILL_20150714_004513	$Increases the damage dealt on an enemy with [Heavy Shot] by 1% per attribute level.
+SKILL_20150714_004514	$Increases the damage dealt on an enemy with [Twin Arrows] by 1% per attribute level.
 SKILL_20150714_004515	$Increases the Critical Chance of [Multi Shot] by 1% per attribute level.
 SKILL_20150714_004516	$Increases the Critical Rate of [Kneeling Shot] by 2% per attribute level.
 SKILL_20150714_004517	{memo X}$While [Swift Step] is active, enemies that are hit by [Oblique Shot] will be affected by [Slow] with a 5% chance per attribute level.
