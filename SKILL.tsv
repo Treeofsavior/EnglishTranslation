@@ -3750,7 +3750,7 @@ SKILL_20150414_003749	Use pluvial of alchemy and create a new item.
 SKILL_20150414_003750	Being battle of outside world to awaken the item's potential. You can use item's hidden option when you win the battle but item potential will be reduced.
 SKILL_20150414_003751	{memo X}Each weapon has different dungeon{nl}and potential effects{nl}Level 1 Master
 SKILL_20150414_003752	{memo X}{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Quickly shoot multiple arrows.
-SKILL_20150414_003753	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Pull bow and shoot an arrow that penetrates the enemy. Target may be skewed if there are other enemies nearby.
+SKILL_20150414_003753	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Draw your bowstring and fire an arrow that penetrates enemies. Targets close to one another may be skewered together.
 SKILL_20150414_003754	{memo X}{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Sit down to increase focus. ATK and range increases.
 SKILL_20150414_003755	$Temporarily increases your movement speed while attacking.
 SKILL_20150414_003756	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Arrow bounces off attacking one more enemy.
@@ -4803,7 +4803,7 @@ SKILL_20150717_004802	Physical ATK and Magic ATK will be increased for 30 mins f
 SKILL_20150717_004803	$Fulldraw: Knockback Increase
 SKILL_20150717_004804	{memo X}$When equipped with a [Two-handed Bow], adds 20% additional physical attack damage against airborne monsters.
 SKILL_20150717_004805	$While [Swift Step] is active, enemies that are hit by [Oblique Shot] will be affected by [Slow] for 7 seconds with a chance of 5% per attribute level. 
-SKILL_20150717_004806	Physical DEF of the enemies that are threaded with [Full Draw] will decrease by 10% per Attribute level.
+SKILL_20150717_004806	Physical DEF of the enemies that are threaded with [Fulldraw] will decrease by 10% per Attribute level.
 SKILL_20150717_004807	{memo X}Tumbleweed of [Broom Trap] will be reduced by 0.5 secs per Attribute level and the number of rotations will decrease by 0.5 per Attribute level.
 SKILL_20150717_004808	Range attack rate of [Claymore] will increase by 1 per Attribute level.
 SKILL_20150717_004809	As the enemy that was flown to the air by [Punji Stake] falls down on the ground, it will receive damage equal to 50% of Physical ATK and the enemies nearby will also receive damage.
@@ -5000,7 +5000,7 @@ SKILL_20150803_004999	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRat
 SKILL_20150803_005000	$Attack: 150% +#{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio}#%{nl}{#339999}{ol}[Stun]{/}{/} Duration: #{CaptionTime}# seconds{nl}Consumes 1 Stone Bullet
 SKILL_20150803_005001	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio}#%{nl}Trap duration: 15seconds{nl}Consumes 3 Ash Wood
 SKILL_20150803_005002	$Maximum Duration: #{CaptionRatio}# seconds
-SKILL_20150803_005003	Create a magic circle that raises a dead enemy into a zombie. The HP of the raised zombie is based on the caster's SPR.
+SKILL_20150803_005003	Create a magic circle that raises a dead enemy as a zombie. The HP of the raised zombie is based on the caster's SPR.
 SKILL_20150803_005004	$Maximum HP: +#{CaptionRatio}#{nl}Movement Speed: +#{CaptionRatio2}#% Duration: #{CaptionTime}# seconds{nl}Glyph duration: 15 seconds
 SKILL_20150803_005005	$STR: +#{CaptionRatio}#{nl}Duration: #{CaptionRatio2}#{nl}Glyph duration: 15 seconds
 SKILL_20150803_005006	$Attribute Attack: #{CaptionRatio2}#%{nl}Additional Damage to Plant-type monsters: +#{CaptionRatio}#{nl}Drop rate for statue materials: #{CaptionTime}#%
