@@ -2136,9 +2136,9 @@ SKILL_20150317_002135	{memo X}[Slow] is inflicted on small, medium, large monste
 SKILL_20150317_002136	$Shield Charge: Knockback
 SKILL_20150317_002137	$Increases the knockback distance of [Shield Charge] by 1m per level.
 SKILL_20150317_002138	$Counter Thrust: Deprotect
-SKILL_20150317_002139	Counter Thrust has a 10% chance per attribute level of inflicting [Deprotect] for 5 seconds, negating all active buffs on the target.
-SKILL_20150317_002140	Shield Push: Unbalance
-SKILL_20150317_002141	[Shield Push] deals 20% additional damage per level based on the character's physical damage, to knockdowned enemies affected by [Unbalance].
+SKILL_20150317_002139	$Counter Thrust has a 10% chance per attribute level of inflicting [Deprotect] for 5 seconds, negating all active buffs on the target.
+SKILL_20150317_002140	$Shield Push: Unbalance
+SKILL_20150317_002141	$[Shield Push] deals 20% additional damage per level based on based on your physical attack, to knockdowned enemies affected by [Unbalance].
 SKILL_20150317_002142	{memo X}$Targe Smash: Flame
 SKILL_20150317_002143	{memo X}Spreads [Flame] to a number of enemies equal to the attribute level when an enemy sufferig from [Flame] is killed with [Targe Smash].
 SKILL_20150317_002144	$Cyclone: Movement
@@ -2584,8 +2584,8 @@ SKILL_20150317_002583	$Kneeling Shot: Enhance
 SKILL_20150317_002584	{memo X}$Increases the physical attack of [Kneeling Shot] per attribute level.
 SKILL_20150317_002585	$Steady Aim: Enhance
 SKILL_20150317_002586	{memo X}$Increases the additional damage of [Steady Aim] per attribute level.
-SKILL_20150317_002587	Sacrament: Enhance
-SKILL_20150317_002588	Increases the Holy property damage of [Sacrament] per attribute level.
+SKILL_20150317_002587	$Sacrament: Enhance
+SKILL_20150317_002588	$Increases the Holy property damage of [Sacrament] per attribute level.
 SKILL_20150317_002589	$Bash: Enhance 2
 SKILL_20150317_002590	$Enhanced the damage of [Bash] to Swordsman's 2nd Circle standards. 
 SKILL_20150317_002591	$Bash: Enhance 3
@@ -3567,7 +3567,7 @@ SKILL_20150406_003566	{memo X}Collect the corpse fragments left where the monste
 SKILL_20150406_003567	{memo X}Heavy Shot
 SKILL_20150406_003568	{memo X}Twin Arrow
 SKILL_20150406_003569	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Hang bomb on arrow and fire.
-SKILL_20150406_003570	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Shoot stone-bullets that push back the target. Target may be stunned by chance.
+SKILL_20150406_003570	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Shoot stone-bullets that push back the target. There is a chance to stun the target.
 SKILL_20150406_003571	$Teardown
 SKILL_20150406_003572	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Destroy obstacles that block the way and damage enemies in front.
 SKILL_20150406_003573	$Running Shot
@@ -3750,7 +3750,7 @@ SKILL_20150414_003749	Use pluvial of alchemy and create a new item.
 SKILL_20150414_003750	Being battle of outside world to awaken the item's potential. You can use item's hidden option when you win the battle but item potential will be reduced.
 SKILL_20150414_003751	{memo X}Each weapon has different dungeon{nl}and potential effects{nl}Level 1 Master
 SKILL_20150414_003752	{memo X}{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Quickly shoot multiple arrows.
-SKILL_20150414_003753	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Draw your bowstring and fire an arrow that penetrates enemies. Targets close to one another may be skewered together.
+SKILL_20150414_003753	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Draw your bowstring and fire an arrow that penetrates enemies. Enemies close to one another may be skewered together.
 SKILL_20150414_003754	{memo X}{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Sit down to increase focus. ATK and range increases.
 SKILL_20150414_003755	$Temporarily increases your movement speed while attacking.
 SKILL_20150414_003756	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Arrow ricochets to a nearby enemy.
@@ -3758,14 +3758,14 @@ SKILL_20150414_003757	$HeavyShot
 SKILL_20150414_003758	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Demonstrate your strength by firing an arrow that pushes enemies away.
 SKILL_20150414_003759	$TwinArrows
 SKILL_20150414_003760	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Shoot two arrows at once.
-SKILL_20150414_003761	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Penetrate straight through the enemy target by aiming with the tip of the arrow. 
-SKILL_20150414_003762	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Shoot an arrow with high critical chance.
+SKILL_20150414_003761	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Penetrate straight through the enemy by aiming with the tip of your arrow. 
+SKILL_20150414_003762	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Shoot an arrow with a high critical chance.
 SKILL_20150414_003763	{memo X}Attack speed decrease and ATK increase.
-SKILL_20150414_003764	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Fire an arrow with a bomb attatched. Arrows explode after a short amount of time. 
+SKILL_20150414_003764	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Fire an arrow with a bomb attached. Arrows explode after a short amount of time. 
 SKILL_20150414_003765	{memo X}{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Arrow is split to pieces and bounces off attacking nearby enemies.
 SKILL_20150414_003766	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Run backwards and shoot multiple arrows forward.
 SKILL_20150414_003767	{memo X}Make a spiral arrow that penetrates the enemy. The shot gives 1 additional attack.
-SKILL_20150414_003768	Plant an upright shield to block hostile enemies' ranged attacks.
+SKILL_20150414_003768	Plant an upright shield to block hostile enemies as well as their ranged attacks.
 SKILL_20150414_003769	Collect stones to use as bullets for Stone Shot. Cannot be obtained in towns.
 SKILL_20150414_003770	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Charge crossbow with multiple arrows and shoot towards enemy.
 SKILL_20150414_003771	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Damage nearby enemies by destroying the obstacles in front.
