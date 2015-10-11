@@ -1795,7 +1795,7 @@ SKILL_20150317_001794	HP decrease continuously.
 SKILL_20150317_001795	Explode the zombies.
 SKILL_20150317_001796	Range and attack are increased.
 SKILL_20150317_001797	Swift step
-SKILL_20150317_001798	Temporarily increase movement speed whilst attacking.
+SKILL_20150317_001798	Temporarily increase movement speed while attacking.
 SKILL_20150317_001799	Receive Fire damage.
 SKILL_20150317_001800	{memo X}Splash increases
 SKILL_20150317_001801	SP consumption is reduced.
@@ -3804,7 +3804,7 @@ SKILL_20150414_003803	{memo X}{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Shoot 
 SKILL_20150414_003804	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Flame fumes from area shot with arrow and attacks enemy.
 SKILL_20150414_003805	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Launches an arrow with explosives attached. Upon hitting its target, the arrow will explode after an amount of time and cause additional damage
 SKILL_20150414_003806	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Fires multiple bullets toward the enemy.
-SKILL_20150414_003807	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Shoot forward whilst moving backwards.
+SKILL_20150414_003807	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Shoot forward while moving backwards.
 SKILL_20150414_003808	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use speed to move fast while attacking when riding on top.
 SKILL_20150414_003809	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Shoot in the opposite direction you are moving.
 SKILL_20150414_003810	Call
@@ -4067,7 +4067,7 @@ SKILL_20150428_004066	{memo X}Attack #{SkillAtkAdd}#{nl}Duration 10 seconds{nl}U
 SKILL_20150428_004067	{memo X}Attack #{SkillAtkAdd}#{nl}Duration 10 seconds{nl}Use 1 Gather Corpse
 SKILL_20150428_004068	$Hanging Shot
 SKILL_20150428_004069	$Guardian Saint duration: #{CaptionTime}# seconds{nl}Chance on hit: 50%{nl}Charges: #{CaptionRatio}#
-SKILL_20150428_004070	$Creates a magic circle in front of you that increases DEX of allies whilst decreasing the enemy's evasion and physical defense. Party members will receive the effect without stepping on the magic circle.
+SKILL_20150428_004070	$Creates a magic circle in front of you that increases DEX of allies while decreasing the enemy's evasion and physical defense. Party members will receive the effect without stepping on the magic circle.
 SKILL_20150428_004071	$Gives a blessing granting additional damage to the attacks of your party members and allies.
 SKILL_20150428_004072	$Additional Damage: +#{CaptionRatio}#{nl}Number of Hits: #{CaptionRatio2}#{nl}Allies affected: #{CaptionTime}#{nl}Duration: 45 seconds{nl}Consumes 1 Holy Powder
 SKILL_20150428_004073	{memo X}Body's moving range #{CaptionRatio}#{nl}Body's attack +#{CaptionRatio2}#
@@ -4684,7 +4684,7 @@ SKILL_20150714_004683	{memo X}$Adds 20% of the character's physical attack of th
 SKILL_20150714_004684	{memo X}$Enemies hit by [Palm Strike] will be affected by the [Bleeding] status for 8 seconds. The duration of [Bleeding] increases by 1 per attribute level.
 SKILL_20150714_004685	{memo X}$Enemies hit by [Hand Knife] will be afflicted by [Break Armor] with a certain chance. Increases the chance by 5% per attribute level.
 SKILL_20150714_004686	$Golden Bell Shield: Safety Zone
-SKILL_20150714_004687	TThe area around the caster will be a Safe Zone whilst using [Golden Bell Shield].
+SKILL_20150714_004687	The area around the caster will be a Safe Zone while using [Golden Bell Shield].
 SKILL_20150714_004688	$Indulgentia: Enhance
 SKILL_20150714_004689	$Increases the damage dealt on an enemy with [Indulgentia] by 1% per attribute level.
 SKILL_20150714_004690	$Adds 1 person per attribute level to the applied target of [Discerning Evil].
@@ -4803,7 +4803,7 @@ SKILL_20150717_004802	Physical ATK and Magic ATK will be increased for 30 mins f
 SKILL_20150717_004803	$Fulldraw: Knockback Increase
 SKILL_20150717_004804	{memo X}$When equipped with a [Two-handed Bow], adds 20% additional physical attack damage against airborne monsters.
 SKILL_20150717_004805	$While [Swift Step] is active, enemies that are hit by [Oblique Shot] will be affected by [Slow] for 7 seconds with a chance of 5% per attribute level. 
-SKILL_20150717_004806	Physical DEF of the enemies that are threaded with [Fulldraw] will decrease by 10% per Attribute level.
+SKILL_20150717_004806	$Decreases the physical defense of enemy that is threaded with [Fulldraw] by 10% per attribute level. 
 SKILL_20150717_004807	{memo X}Tumbleweed of [Broom Trap] will be reduced by 0.5 secs per Attribute level and the number of rotations will decrease by 0.5 per Attribute level.
 SKILL_20150717_004808	Range attack rate of [Claymore] will increase by 1 per Attribute level.
 SKILL_20150717_004809	As the enemy that was flown to the air by [Punji Stake] falls down on the ground, it will receive damage equal to 50% of Physical ATK and the enemies nearby will also receive damage.
@@ -4812,7 +4812,7 @@ SKILL_20150717_004811	A character whose [Poison] is removed due to [Detoxify] wi
 SKILL_20150717_004812	Even if an object gets out of the range of [Throw Gu Pot], [Poison] will last for 2 secs per Attribute level.
 SKILL_20150717_004813	The enemies that are in the range of [Scan] will fall into Confusion with a certain probability for 5 secs. The probability will increase by 10% per Attribute level.
 SKILL_20150717_004814	Enemies within rage of [Tear Gas] receives damage every 2 seconds. Damage increases per attribute level.
-SKILL_20150717_004815	Enemy falls under [Massive Bleeding] for 10 seconds when attacked with [Backstab] whilst bleeding. The duration will increase by 1 second per Attribute level. Massive Bleed damage is based on character's STR, Physical ATK.
+SKILL_20150717_004815	Enemy falls under [Massive Bleeding] for 10 seconds when attacked with [Backstab] while bleeding. The duration will increase by 1 second per Attribute level. Massive Bleed damage is based on character's STR, Physical ATK.
 SKILL_20150717_004816	$Increases the range of [Tear Gas] to 75.
 SKILL_20150717_004817	When use [Bodkin Point] for attack, the enemies DEF will be reduced by 1% per Attribute level.
 SKILL_20150717_004818	[Crossfire] gets a 10% chance per level of inflicting [Burn] on targets, Burn damage scales with character's physical damage.
