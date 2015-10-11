@@ -1267,7 +1267,7 @@ SKILL_20150317_001266	{memo X}Buff for adding attack speed
 SKILL_20150317_001267	{memo X}Make ground skill of enemies be usable by allies.
 SKILL_20150317_001268	{memo X}test
 SKILL_20150317_001269	$Multi Shot
-SKILL_20150317_001270	${#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Quickly launch multiple arrows at an enemy.
+SKILL_20150317_001270	${#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Quickly launch multiple arrows at a specified location.
 SKILL_20150317_001271	$Attack: #{SkillAtkAdd}#{nl}Number of Shots: #{CaptionRatio}#
 SKILL_20150317_001272	$Fulldraw
 SKILL_20150317_001273	{memo X}{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Fire a shot that can skewer enemies together.
@@ -2585,7 +2585,7 @@ SKILL_20150317_002584	{memo X}$Increases the physical attack of [Kneeling Shot] 
 SKILL_20150317_002585	$Steady Aim: Enhance
 SKILL_20150317_002586	{memo X}$Increases the additional damage of [Steady Aim] per attribute level.
 SKILL_20150317_002587	$Sacrament: Enhance
-SKILL_20150317_002588	$Increases the Holy property damage of [Sacrament].
+SKILL_20150317_002588	$Increases the Holy property damage of [Sacrament] per attribute level.
 SKILL_20150317_002589	$Bash: Enhance 2
 SKILL_20150317_002590	$Enhanced the damage of [Bash] to Swordsman's 2nd Circle standards. 
 SKILL_20150317_002591	$Bash: Enhance 3
@@ -3797,13 +3797,13 @@ SKILL_20150414_003796	Steal the enemy's trap and magic circle. You may use it la
 SKILL_20150414_003797	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Enemy explodes when killed with this attack and your party's strength temporarily increases.
 SKILL_20150414_003798	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Throw tear gas on target area. Enemies fall under [Dark].
 SKILL_20150414_003799	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Continuously attack using your dagger. A double attack with a high critical rate that may stun the enemy.
-SKILL_20150414_003800	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Launch a broadhead arrow. Inflicts bleeding on the enemy hit.
-SKILL_20150414_003801	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Launch a bodkin arrow with strong penetration. Defense of enemy hit is temporarily decreased, and magic protecting the enemy is nullified.
-SKILL_20150414_003802	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Launch a barbed arrow. Strike count is based on enemies defence type.
+SKILL_20150414_003800	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Launches a wide broadhead arrow. Inflicts bleeding on the enemy hit.
+SKILL_20150414_003801	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Launches a bodkin arrow with strong penetration. When the enemy is hit, it temporarily decreases its defense and nullifies its magic.
+SKILL_20150414_003802	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Launches a barbed arrow. The number of strikes depends on the enemy's defense type.
 SKILL_20150414_003803	{memo X}{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Shoot arrow that explodes enemy in cross form when killed.
 SKILL_20150414_003804	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Flames sprout from the area shot by the arrow.
-SKILL_20150414_003805	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Launch an arrow with explosives attatched. The enemy will explode after a short amount of time.
-SKILL_20150414_003806	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Fire multiple bullets at the enemy.
+SKILL_20150414_003805	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Launches an arrow with explosives attached. Upon hitting its target, the arrow will explode after a short amount of time and cause additional damage.
+SKILL_20150414_003806	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Fires multiple bullets at the enemy.
 SKILL_20150414_003807	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Shoot forward whilst moving backwards.
 SKILL_20150414_003808	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use speed to move fast while attacking when riding on top.
 SKILL_20150414_003809	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Shoot in the opposite direction you are moving.
@@ -3819,7 +3819,7 @@ SKILL_20150414_003818	{memo X}Fly circling around target area. Range defense of 
 SKILL_20150414_003819	{memo X}Range defense rate -#{CaptionRatio}# {nl}Duration 0 seconds
 SKILL_20150414_003820	Hovering
 SKILL_20150414_003821	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Your hawk circles above a specified location and attacks enemies passing below.
-SKILL_20150414_003822	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Throw a training doll and have your hawk attack the location.
+SKILL_20150414_003822	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Throw a training doll and have your hawk attack the specified location.
 SKILL_20150414_003823	{memo X}Hand and Shoot
 SKILL_20150414_003824	Have your hawk carry you. Whilst being carried, you can inflict damage to enemies below using your basic attacks without being harmed.
 SKILL_20150414_003825	{memo X}${#993399}{ol}[Magic] - [Holy]{/}{/}{nl}Creates a magic circle that recovers HP or inflicts damage to enemies. Does not apply to airborne enemies.
@@ -3827,19 +3827,19 @@ SKILL_20150414_003826	${#993399}{ol}[Magic] - [Holy]{/}{/}{nl}Creates a magic ci
 SKILL_20150414_003827	$Creates a magic circle that decreases the defense of enemies over time. 
 SKILL_20150414_003828	{memo X}$Creates a magic circle that increases the skill level of allies once.
 SKILL_20150414_003829	{memo X}$Summon a holy torch to improve the HP recovery rate of nearby allies.
-SKILL_20150414_003830	Creates a magic circle that improves the critical rate of allies or decreases the critical rate of enemies.
-SKILL_20150414_003831	Increases the number of beneficial effects that you and your party members can receive.
-SKILL_20150414_003832	{#993399}{ol}[Magic] - [Lightning]{/}{/}{nl}Create a magic circle that calls down bolts of lightning using the God of Thunder's power.
-SKILL_20150414_003833	Engraves the divine stigma on an enemy. You and your party member's strength and intelligence are increased when the engraved enemy has been defeated.
-SKILL_20150414_003834	Creates a magic circle that temporarily maintains the beneficial effects of you and your party members.
+SKILL_20150414_003830	$Creates a magic circle that increases the critical abilities of allies or decreases the critical abilities of enemies.
+SKILL_20150414_003831	$Increases the number of beneficial effects that you and your party members can receive.
+SKILL_20150414_003832	{#993399}{ol}[Magic] - [Lightning]{/}{/}{nl}Creates a magic circle that calls down bolts of lightning on an enemy using the God of Thunder's power.
+SKILL_20150414_003833	$Engraves a stigma on an enemy. Increases the STR and INT of you and your party members when the engraved enemy has been defeated. 
+SKILL_20150414_003834	$Creates a magic circle that temporarily maintains the beneficial effects of you and your party members.
 SKILL_20150414_003835	{memo X}${#993399}{ol}[Magic] - [Holy]{/}{/}{nl}Sprinkle holy water to increase the defense of you and your allies as well as inflict damage to enemies.
 SKILL_20150414_003836	{memo X}Create magic circle where ally's DEX increase and enemy's ecasion and Physical defense decrease.
 SKILL_20150414_003837	{memo X}Give blessings that grant additional damage on attacks of party members.
 SKILL_20150414_003838	Resurrects a target that has been defeated in combat.
 SKILL_20150414_003839	Temporarily grants the Holy property to you and your party member's attacks.
-SKILL_20150414_003840	{#993399}{ol}[Magic] - [Holy]{/}{/}{nl}Create an exorcism circle that damages enemies inside, then deals continuous damage.
+SKILL_20150414_003840	{#993399}{ol}[Magic] - [Holy]{/}{/}{nl}Creates an exorcism circle that damages enemies inside, then deals continuous damage.
 SKILL_20150414_003841	Curse an enemy to decrease its magical defense and prevent recovery.
-SKILL_20150414_003842	{#993399}{ol}[Magic] - [Dark]{/}{/}{nl}Control an enemy afflicted by curse and inflict damage from afar. Bonus damage is dealt on the 3rd attack.
+SKILL_20150414_003842	{#993399}{ol}[Magic] - [Dark]{/}{/}{nl}Controls an enemy afflicted by curse and inflict damage from afar. Bonus damage is dealt on the 3rd attack.
 SKILL_20150414_003843	Use a monkey skull to lure zombies to the desired location.
 SKILL_20150414_003844	{memo X}Create magic circle that turns enemies killed into zombies.
 SKILL_20150414_003845	Throw a talisman to an ally that temporarily suppresses pain. Ally is invunerable to any damage when the talisman is enabled, but receives the accumulated damage at once when the effect ends.
@@ -3856,7 +3856,7 @@ SKILL_20150414_003855	{#993399}{ol}[Magic] - [Fire]{/}{/}{nl}Carve an owl statue
 SKILL_20150414_003856	{memo X}Attack #{SkillAtkAdd}#{nl}Defend #{CaptionRatio}#times{nl}Duration #{CaptionTime}# seconds{nl}Use 3 Oak wood
 SKILL_20150414_003857	Carve a holy tree that silences nearby enemies.
 SKILL_20150414_003858	{memo X}Statue duration #{CaptionRatio}# seconds{nl}Use 6 Ash woods
-SKILL_20150414_003859	$Carve a statue of Ausrine, the Goddess of Morning Star. You and your allies are granted invulnerability after rotating around the Goddess Statue 3 times.
+SKILL_20150414_003859	$Carve a statue of Goddess Ausrine of the Morning Star. You and your allies are granted invulnerability after rotating around the Goddess Statue 3 times.
 SKILL_20150414_003860	{memo X}${#339999}{ol}[Blessing of the Goddess]{/}{/} Duration: #{CaptionRatio}# seconds{nl}Goddess Statue duration: 30 seconds{nl}Consumes 4 Cedar Wood
 SKILL_20150414_003861	Move your spirit out of the body. The spirit can only move near the body.
 SKILL_20150414_003862	Move body to the spirit to unite again. Can only be used when spirit is out of body.
@@ -3885,7 +3885,7 @@ SKILL_20150414_003884	$Temporarily become invincible from all attacks.
 SKILL_20150414_003885	Create a dispeller that block harmful magic or effects.
 SKILL_20150414_003886	Craft your skill into a scroll that anyone can use.
 SKILL_20150414_003887	Create a shop to sell your skills.
-SKILL_20150414_003888	Use a ritual to heal allies with a level 2 abnormal state and above, or damage enemies.
+SKILL_20150414_003888	Use a ritual to heal allies with a level 2 abnormal state or to inflict damage on enemies.
 SKILL_20150414_003889	{memo X}Attack #{SkillAtkAdd}#{nl}Target #{CaptionRatio}#{nl}Heal all party members{nl}Heal #{CaptionRatio}# allies{nl}Use 500 silver
 SKILL_20150414_003890	$Open an Offering Box to receive donations from allies. Can only be opened nearby a Goddess Statue.
 SKILL_20150414_003891	Extend the duration of harmful effects applied to the enemy.
@@ -4067,8 +4067,8 @@ SKILL_20150428_004066	{memo X}Attack #{SkillAtkAdd}#{nl}Duration 10 seconds{nl}U
 SKILL_20150428_004067	{memo X}Attack #{SkillAtkAdd}#{nl}Duration 10 seconds{nl}Use 1 Gather Corpse
 SKILL_20150428_004068	$Hanging Shot
 SKILL_20150428_004069	$Guardian Saint duration: #{CaptionTime}# seconds{nl}Chance on hit: 50%{nl}Charges: #{CaptionRatio}#
-SKILL_20150428_004070	Create a magic circle in front of you that increases DEX of allies whilst decreasing the enemy's evasion and physical defense. Party members will receive the effect without stepping on the magic circle.
-SKILL_20150428_004071	Give a blessing granting additional damage to the attacks of your party members and allies.
+SKILL_20150428_004070	Creates a magic circle in front of you that increases DEX of allies whilst decreasing the enemy's evasion and physical defense. Party members will receive the effect without stepping on the magic circle.
+SKILL_20150428_004071	$Gives a blessing granting additional damage to the attacks of your party members and allies.
 SKILL_20150428_004072	$Additional Damage: +#{CaptionRatio}#{nl}Number of Hits: #{CaptionRatio2}#{nl}Allies affected: #{CaptionTime}#{nl}Duration: 45 seconds{nl}Consumes 1 Holy Powder
 SKILL_20150428_004073	{memo X}Body's moving range #{CaptionRatio}#{nl}Body's attack +#{CaptionRatio2}#
 SKILL_20150428_004074	{memo X}Reflect as much as target's Physical attack{nl}Additional damage reflected #{SkillAtkAdd}#{nl}Max. duration #{CaptionTime}# seconds{nl}Range projectile, Magic defense not possible
@@ -5000,7 +5000,7 @@ SKILL_20150803_004999	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRat
 SKILL_20150803_005000	$Attack: 150% +#{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio}#%{nl}{#339999}{ol}[Stun]{/}{/} Duration: #{CaptionTime}# seconds{nl}Consumes 1 Stone Bullet
 SKILL_20150803_005001	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio}#%{nl}Trap duration: 15seconds{nl}Consumes 3 Ash Wood
 SKILL_20150803_005002	$Maximum Duration: #{CaptionRatio}# seconds
-SKILL_20150803_005003	Create a magic circle that raises a dead enemy as a zombie. The HP of the raised zombie is based on the caster's SPR.
+SKILL_20150803_005003	Creates a magic circle that raises a dead enemy as a zombie. The HP of the raised zombie is based on the caster's SPR.
 SKILL_20150803_005004	$Maximum HP: +#{CaptionRatio}#{nl}Movement Speed: +#{CaptionRatio2}#% Duration: #{CaptionTime}# seconds{nl}Glyph duration: 15 seconds
 SKILL_20150803_005005	$STR: +#{CaptionRatio}#{nl}Duration: #{CaptionRatio2}#{nl}Glyph duration: 15 seconds
 SKILL_20150803_005006	$Attribute Attack: #{CaptionRatio2}#%{nl}Additional Damage to Plant-type monsters: +#{CaptionRatio}#{nl}Drop rate for statue materials: #{CaptionTime}#%
@@ -5096,7 +5096,7 @@ SKILL_20150918_005095	{memo X}$Corpe Tower Duration: #{CaptionRatio}# seconds{nl
 SKILL_20150918_005096	$Raise Dead
 SKILL_20150918_005097	${#993399}{ol}[Magic]{/}{/}Summons a skeleton soldier made with a corpse. The skeleton soldier will engage in combat and follow its master.
 SKILL_20150918_005098	$Summons #{CaptionRatio}# Skeleton Soldiers{nl}Consumes #{CaptionRatio2}# Corpse(s){nl}Maximum Level: 5
-SKILL_20150918_005099	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Attack your enemy with a spiraling arrow inflicting multiple strikes. 
+SKILL_20150918_005099	${#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Attack your enemy with a spiraling arrow inflicting multiple strikes. 
 SKILL_20150918_005100	$Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio2}#%{nl}Number of Hits: #{CaptionRatio}#
 SKILL_20150918_005101	$Attack: #{SkillAtkAdd}#{nl}Blocks ranged projectiles: #{CaptionRatio}#{nl}Pavise Duration: #{CaptionTime}# seconds
 SKILL_20150918_005102	$Temporarily increases your Companion's Attack, Accuracy and Critical Rate.
