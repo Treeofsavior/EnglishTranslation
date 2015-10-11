@@ -3801,7 +3801,7 @@ SKILL_20150414_003800	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Launches a wid
 SKILL_20150414_003801	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Launches a bodkin arrow with strong penetration. When the enemy is hit, it temporarily decreases its defense and nullifies its magic.
 SKILL_20150414_003802	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Launches a barbed arrow. The number of strikes depends on the enemy's defense type.
 SKILL_20150414_003803	{memo X}{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Shoot arrow that explodes enemy in cross form when killed.
-SKILL_20150414_003804	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Flames sprout from the area shot by the arrow.
+SKILL_20150414_003804	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Launches an arrow towards a specified location, that on impact, bursts into flames that damage the target.
 SKILL_20150414_003805	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Launches an arrow with explosives attached. Upon hitting its target, the arrow will explode after a short amount of time and cause additional damage.
 SKILL_20150414_003806	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Fires multiple bullets at the enemy.
 SKILL_20150414_003807	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Shoot forward whilst moving backwards.
@@ -4803,7 +4803,7 @@ SKILL_20150717_004802	Physical ATK and Magic ATK will be increased for 30 mins f
 SKILL_20150717_004803	$Fulldraw: Knockback Increase
 SKILL_20150717_004804	{memo X}$When equipped with a [Two-handed Bow], adds 20% additional physical attack damage against airborne monsters.
 SKILL_20150717_004805	$While [Swift Step] is active, enemies that are hit by [Oblique Shot] will be affected by [Slow] for 7 seconds with a chance of 5% per attribute level. 
-SKILL_20150717_004806	Physical DEF of the enemies that are threaded with [Fulldraw] will decrease by 10% per Attribute level.
+SKILL_20150717_004806	$Decreases the physical defense of enemy that is threaded with [Fulldraw] by 10% per attribute level.
 SKILL_20150717_004807	{memo X}Tumbleweed of [Broom Trap] will be reduced by 0.5 secs per Attribute level and the number of rotations will decrease by 0.5 per Attribute level.
 SKILL_20150717_004808	Range attack rate of [Claymore] will increase by 1 per Attribute level.
 SKILL_20150717_004809	As the enemy that was flown to the air by [Punji Stake] falls down on the ground, it will receive damage equal to 50% of Physical ATK and the enemies nearby will also receive damage.
