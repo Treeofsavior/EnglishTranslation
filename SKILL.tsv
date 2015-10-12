@@ -1269,7 +1269,7 @@ SKILL_20150317_001268	{memo X}test
 SKILL_20150317_001269	$Multi Shot
 SKILL_20150317_001270	${#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Quickly launch multiple arrows at a specified location.
 SKILL_20150317_001271	$Attack: #{SkillAtkAdd}#{nl}Number of Shots: #{CaptionRatio}#
-SKILL_20150317_001272	$Fulldraw
+SKILL_20150317_001272	$Full Draw
 SKILL_20150317_001273	{memo X}{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Fire a shot that can skewer enemies together.
 SKILL_20150317_001274	{memo X}Attack #{SkillAtkAdd}#{nl}{#339999}{ol}[Skew]{/}{/} Duration #{CaptionTime}# seconds
 SKILL_20150317_001275	$Kneeling Shot
@@ -1488,7 +1488,7 @@ SKILL_20150317_001487	$Invincibility Duration: #{CaptionTime}# seconds
 SKILL_20150317_001488	$Bwa Kayiman
 SKILL_20150317_001489	{memo X}{#DD5500}{ol}[Physical] [Strike]{/}{/}{nl}Zombies roam around target area. Enemies are pushed away and damaged when toufching the zombies.
 SKILL_20150317_001490	{memo X}Attack #{SkillAtkAdd}#{nl}Summoned zombie required
-SKILL_20150317_001491	$Samdiveve
+SKILL_20150317_001491	$Samediveve
 SKILL_20150317_001492	{memo X}Place a flag on the ground that increases the Movement speed and max HP of nearby targets.
 SKILL_20150317_001493	{memo X}Max. HP +#{CaptionRatio}#{nl}Movement Speed +#{CaptionRatio2}#% Duration 30 seconds {nl}
 SKILL_20150317_001494	$Ogouveve
@@ -1556,7 +1556,7 @@ SKILL_20150317_001555	$Hand Knife
 SKILL_20150317_001556	$1 Inch Punch
 SKILL_20150317_001557	$Energy Blast
 SKILL_20150317_001558	{memo X}{#6644FF}{ol}[Divine]{/}{/}Attribute{nl}#{SkillFactor}#% + #{SkillAtkAdd}#{nl} Splash #{SkillSR}#{nl} Consume #{SpendSP }# SP
-SKILL_20150317_001559	Craft Dispeller
+SKILL_20150317_001559	$Dispeller Crafting
 SKILL_20150317_001560	$Simony
 SKILL_20150317_001561	$Craft Booster
 SKILL_20150317_001562	$Spell Shop
@@ -2245,10 +2245,10 @@ SKILL_20150317_002244	{memo X}Back Masking : Panic
 SKILL_20150317_002245	{memo X}Enemies provoked after using [Back Masking] will fall under [Panic] for 2 seconds per attribute level.
 SKILL_20150317_002246	{memo X}$Multi Shot: Critical Rate
 SKILL_20150317_002247	{memo X}Critical probability of skill [multi-shot] is increased by 1% per Attribute level.
-SKILL_20150317_002248	{memo X}Fulldraw : Knockback Distance
-SKILL_20150317_002249	$Increases the knockback power of [Fulldraw] by 50.
-SKILL_20150317_002250	$Fulldraw: Charging Speed
-SKILL_20150317_002251	$Decreases the charging speed of [Fulldraw] by 0.5 seconds per level.
+SKILL_20150317_002248	{memo X}Full Draw : Knockback Distance
+SKILL_20150317_002249	$Increases the knockback power of [Full Draw] by 50.
+SKILL_20150317_002250	$Full Draw: Charging Speed
+SKILL_20150317_002251	$Decreases the charging speed of [Full Draw] by 0.5 seconds per level.
 SKILL_20150317_002252	$Kneeling Shot: Critical Chance
 SKILL_20150317_002253	{memo X}Critical chance increases by 2% per attribute level while in [Kneeling Shot].
 SKILL_20150317_002254	$Cure: Damage Interval
@@ -2348,8 +2348,8 @@ SKILL_20150317_002347	$Multi-Shot: SP Recovery
 SKILL_20150317_002348	Recovers the attribute by Lv x 5% SP when Multi-Shot is critical. 
 SKILL_20150317_002349	$Swift Step: Critical
 SKILL_20150317_002350	{memo X}When the skill [Swift step] is active, critical rate increases by 10% per attribute level.
-SKILL_20150317_002351	$Fulldraw: Defense Decrease
-SKILL_20150317_002352	{memo X}Physical Defense of the enemy skewered by [Fulldraw] decreases by 2% per attribute level.
+SKILL_20150317_002351	$Full Draw: Defense Decrease
+SKILL_20150317_002352	{memo X}Physical Defense of the enemy skewered by [Full Draw] decreases by 2% per attribute level.
 SKILL_20150317_002353	$Barrage: Knockback
 SKILL_20150317_002354	{memo X}Enemies hit by [Barrage] are pushed away by at a 10% chance per attribute level.
 SKILL_20150317_002355	$High Anchoring: Directional Rotation
@@ -2492,8 +2492,8 @@ SKILL_20150317_002491	$Moulinet: Enhance
 SKILL_20150317_002492	{memo X}$Increases the damage of [Moulinet] per attribute level.
 SKILL_20150317_002493	$Multi Shot: Enhance
 SKILL_20150317_002494	{memo X}$Increases the damage of [Multi Shot] per attribute level.
-SKILL_20150317_002495	$Fulldraw: Enhance
-SKILL_20150317_002496	{memo X}$Increases the damage of [Fulldraw] per attribute level.
+SKILL_20150317_002495	$Full Draw: Enhance
+SKILL_20150317_002496	{memo X}$Increases the damage of [Full Draw] per attribute level.
 SKILL_20150317_002497	$Oblique Shot: Enhance
 SKILL_20150317_002498	{memo X}$Increases the damage of [Oblique Shot] per attribute level.
 SKILL_20150317_002499	$Barrage: Enhance
@@ -2624,10 +2624,10 @@ SKILL_20150317_002623	$Multi Shot: Enhance 2
 SKILL_20150317_002624	$Enhanced the damage of [Multi Shot] to Archer's 2nd Circle standards.
 SKILL_20150317_002625	$Multi Shot: Enhance 3
 SKILL_20150317_002626	$Enhanced the damage of [Multi Shot] to Archer's 3rd Circle standards.
-SKILL_20150317_002627	$Fulldraw: Enhance 2
-SKILL_20150317_002628	$Enhanced the damage of [Fulldraw] to Archer's 2nd Circle standards.
-SKILL_20150317_002629	$Fulldraw: Enhance 3
-SKILL_20150317_002630	$Enhanced the damage of [Fulldraw] to Archer's 3rd Circle standards.
+SKILL_20150317_002627	$Full Draw: Enhance 2
+SKILL_20150317_002628	$Enhanced the damage of [Full Draw] to Archer's 2nd Circle standards.
+SKILL_20150317_002629	$Full Draw: Enhance 3
+SKILL_20150317_002630	$Enhanced the damage of [Full Draw] to Archer's 3rd Circle standards.
 SKILL_20150317_002631	$Oblique Shot: Enhance 2
 SKILL_20150317_002632	$Enhanced the damage of [Oblique Shot] to Archer's 2nd Circle standards.
 SKILL_20150317_002633	$Oblique Shot: Enhance 3
@@ -3622,7 +3622,7 @@ SKILL_20150414_003621	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Use weapon to r
 SKILL_20150414_003622	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Smack down enemy's head. Target's INT and SPR temporarily decrease.
 SKILL_20150414_003623	$Use your weapon to take a defensive stance. Blocked enemies become vulnerable to Pierce attacks.
 SKILL_20150414_003624	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Swing sword around to make continuous attack.
-SKILL_20150414_003625	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Strike and push enemy sidewards using the side of sword. Enemy's shield is destroyed.
+SKILL_20150414_003625	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Strike and push the enemy sidewards using the side of your sword. Enemy becomes under the Armor Break status effect.
 SKILL_20150414_003626	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Repeatedly stab enemy with spear.
 SKILL_20150414_003627	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Pierce enemy with spear. Continuous damage is applied as the size the monster is larger.
 SKILL_20150414_003628	{memo X}Change to Window formation for active attack. Chance of critical increases but evasion decreases.
@@ -3847,10 +3847,10 @@ SKILL_20150414_003846	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Order 
 SKILL_20150414_003847	{memo X}Install a Samedi pattern that represents death noir on the ground. Movement speed and max. HP of zombies and allies around the pattern increase.
 SKILL_20150414_003848	{memo X}Install a Oguon pattern that represents strength noir on the ground. Strength of zombies and allies around the pattern increase.
 SKILL_20150414_003849	{#993399}{ol}[Magic]{/}{/}{nl}Explode zombies near target area and attack nearby enemies.
-SKILL_20150414_003850	$Carve a statue of Vakarine, the Goddess of Evening Star. {nl}You may warp to other areas through the Goddess Statue.
-SKILL_20150414_003851	$Carve a statue of Zemyna, the Goddess of Earth.{nl}Decreases the SP cost for allies who are nearby the Goddess Statue.
+SKILL_20150414_003850	$Carve a statue of Goddess Vakarine of the Evening Star. {nl}You may warp to other areas through the Goddess Statue.
+SKILL_20150414_003851	$Carve a statue of Zemyna, Goddess of the Earth.{nl}Decreases the SP cost for allies who are within the radius of the Goddess Statue.
 SKILL_20150414_003852	{memo X}$SP -#{CaptionRatio}# {nl}Statue duration: #{CaptionRatio2}# seconds{nl}Consumes 4 Pine Wood
-SKILL_20150414_003853	$Carve a statue of Laima, the Goddess of Fate. {nl}Decreases the cooldown of your party member's skills nearby the Goddess Statue.
+SKILL_20150414_003853	$Carve a statue of Laima, Goddess of Fate. {nl}Decreases the cooldown of your party members' skills within the radius of the Goddess Statue.
 SKILL_20150414_003854	{memo X}$Cooldown duration: -#{CaptionRatio}#%{nl}Statue duration: #{CaptionRatio2}# seconds{nl}Consumes 4 Cedar Wood
 SKILL_20150414_003855	{#993399}{ol}[Magic] - [Fire]{/}{/}{nl}Carve an owl statue that attacks the enemy.
 SKILL_20150414_003856	{memo X}Attack #{SkillAtkAdd}#{nl}Defend #{CaptionRatio}#times{nl}Duration #{CaptionTime}# seconds{nl}Use 3 Oak wood
@@ -4233,7 +4233,7 @@ SKILL_20150714_004232	Gohan
 SKILL_20150714_004233	Number of buff you can receive will increase.
 SKILL_20150714_004234	Remove the disable magic and bad buff
 SKILL_20150714_004235	$Increased AoE Attack Ratio.
-SKILL_20150714_004236	Skull Swing: Can't jump
+SKILL_20150714_004236	Skull Swing: No Jump
 SKILL_20150714_004237	{memo X}Can't jump
 SKILL_20150714_004238	Ani Change
 SKILL_20150714_004239	Ani Change when damaged
@@ -4508,7 +4508,7 @@ SKILL_20150714_004507	$Obtain the recipe of Critical Attack Increase Potion that
 SKILL_20150714_004508	$Tincturing: Magic Amplification Increase Potion
 SKILL_20150714_004509	$Obtain the recipe of Magic Amplification Increase Potion that can be crafted with [Tincturing].
 SKILL_20150714_004510	$Increases the damage dealt on an enemy with [Multi Shot] by 1% per attribute level.
-SKILL_20150714_004511	$Increases the damage dealt on an enemy with [Fulldraw] by 1% per attribute level.
+SKILL_20150714_004511	$Increases the damage dealt on an enemy with [Full Draw] by 1% per attribute level.
 SKILL_20150714_004512	$Increases the damage dealt on an enemy with [Oblique Shot] by 1% per attribute level.
 SKILL_20150714_004513	$Increases the damage dealt on an enemy with [Heavy Shot] by 1% per attribute level.
 SKILL_20150714_004514	$Increases the damage dealt on an enemy with [Twin Arrows] by 1% per attribute level.
@@ -4516,7 +4516,7 @@ SKILL_20150714_004515	$Increases the Critical Chance of [Multi Shot] by 1% per a
 SKILL_20150714_004516	$Increases the Critical Rate of [Kneeling Shot] by 2% per attribute level.
 SKILL_20150714_004517	{memo X}$While [Swift Step] is active, enemies that are hit by [Oblique Shot] will be affected by [Slow] with a 5% chance per attribute level.
 SKILL_20150714_004518	{memo X}$Increases your Critical Rate by 10% per attribute level while [Swift Step] is active.
-SKILL_20150714_004519	{memo X}$Decreases the enemy's physical defense threaded with [Fulldraw] by 2% per attribute level.
+SKILL_20150714_004519	{memo X}$Decreases the enemy's physical defense threaded with [Full Draw] by 2% per attribute level.
 SKILL_20150714_004520	$Increases the damage dealt on an enemy with [Barrage] by 1% per attribute level.
 SKILL_20150714_004521	$Increases the damage dealt on an enemy with [High Anchoring] by 1% per attribute level.
 SKILL_20150714_004522	$Increases the damage dealt on an enemy with [Critical Shot] by 1% per attribute level.
@@ -4646,10 +4646,10 @@ SKILL_20150714_004645	$Increases the physical defense of the zombies while using
 SKILL_20150714_004646	{memo X}The maximum number of zombies that could be created by [Zombify] increases by 1 per Attribute level.
 SKILL_20150714_004647	$Hexing: Darkness
 SKILL_20150714_004648	$Enemies afflicted with [Hexing] will receive 10% additional damage from dark property attacks per attribute level.
-SKILL_20150714_004649	$Samdiveve: Range Increase
+SKILL_20150714_004649	$Samediveve: Range Increase
 SKILL_20150714_004650	{memo X}The range of [Samediveve] will be increased.
 SKILL_20150714_004651	$Ogouveve: Range Increase
-SKILL_20150714_004652	{memo X}The range of [Ogounveve] will be increased.
+SKILL_20150714_004652	{memo X}The range of [Ogouveve] will be increased.
 SKILL_20150714_004653	$Increases the damage dealt on an enemy with [Carve] by 1% per attribute level.
 SKILL_20150714_004654	$Increases the damage dealt on an enemy with [Carve Owl] by 1% per attribute level.
 SKILL_20150714_004655	$Carve: Chance to Obtain
@@ -4800,12 +4800,12 @@ SKILL_20150717_004799	The enemies near Shoggoth will fall into Decay status for 
 SKILL_20150717_004800	$Increases the range of [Disinter] by 10 per attribute level.
 SKILL_20150717_004801	$Decreases the cooldown of [Dig] by 10 seconds.
 SKILL_20150717_004802	Physical ATK and Magic ATK will be increased for 30 mins for the allies that participated in [Item Awakening] dungeon. ATK will increase by 20% per Attribute level.
-SKILL_20150717_004803	$Fulldraw: Knockback Increase
+SKILL_20150717_004803	$Full Draw: Knockback Increase
 SKILL_20150717_004804	{memo X}$When equipped with a [Two-handed Bow], adds 20% additional physical attack damage against airborne monsters.
 SKILL_20150717_004805	$While [Swift Step] is active, enemies that are hit by [Oblique Shot] will be affected by [Slow] for 7 seconds with a chance of 5% per attribute level. 
-SKILL_20150717_004806	Physical DEF of the enemies that are threaded with [Full Draw] will decrease by 10% per Attribute level.
+SKILL_20150717_004806	$Decreases the physical defense of an enemy who is threaded with [Full Draw] by 10% per attribute level.
 SKILL_20150717_004807	{memo X}Tumbleweed of [Broom Trap] will be reduced by 0.5 secs per Attribute level and the number of rotations will decrease by 0.5 per Attribute level.
-SKILL_20150717_004808	Range attack rate of [Claymore] will increase by 1 per Attribute level.
+SKILL_20150717_004808	$Increases the AoE Attack Ratio of [Claymore] by 1 per attribute level.
 SKILL_20150717_004809	As the enemy that was flown to the air by [Punji Stake] falls down on the ground, it will receive damage equal to 50% of Physical ATK and the enemies nearby will also receive damage.
 SKILL_20150717_004810	DEF of the enemies that are attacked with [Retrieve] will decrease by 10 per Attribute level.
 SKILL_20150717_004811	A character whose [Poison] is removed due to [Detoxify] will be immune to [Poison] for 2 secs per Attribute level.
@@ -4831,7 +4831,7 @@ SKILL_20150717_004830	$Increases your Dark property resistance by 5 per attribut
 SKILL_20150717_004831	$Increases the duration of [Revive] by 7 seconds per attribute level. 
 SKILL_20150717_004832	$Enemies hit by [Effigy] can be affected by [Darkness] with a 5% chance for 5 seconds per attribute level.
 SKILL_20150717_004833	$Increases the range of [Samediveve] to 110.
-SKILL_20150717_004834	$Increases the range of [Ogounveve] to 110. 
+SKILL_20150717_004834	$Increases the range of [Ogouveve] to 110. 
 SKILL_20150717_004835	$Decreases the cooldown time of [Carve Vakarine] to 10 seconds. 
 SKILL_20150717_004836	$Out of Body: Evasion
 SKILL_20150717_004837	$Increases the body's evasion by 10% per attribute level while [Out of Body] is active. 
