@@ -1,4 +1,4 @@
-##NOTICE (Updated 02-10-2015)
+##NOTICE (Updated 16-10-2015)
 <br>
 **GUIDELINES IN WIKI HAVE BEEN UPDATED** <br>
 **PLEASE CHECK THE [GUIDELINES](https://github.com/Treeofsavior/EnglishTranslation/wiki/Guidelines) BEFORE SENDING YOUR PULL REQUESTS.**
