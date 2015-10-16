@@ -1,4 +1,4 @@
-SKILL_20150317_000001	Attack
+﻿SKILL_20150317_000001	Attack
 SKILL_20150317_000002	[Elite Kepa] 1 time, Physical, Poison Property, Strike
 SKILL_20150317_000003	[Rafflesia] Spread Poison
 SKILL_20150317_000004	[Rafflesia] Poison Bomb
@@ -3619,7 +3619,7 @@ SKILL_20150414_003618	Change to active stance using shield in front. Block and i
 SKILL_20150414_003619	$Block: +#{CaptionRatio}# {nl}Attack: -#{CaptionTime}#% {nl}Critical Chance: -#{CaptionRatio2}#
 SKILL_20150414_003620	{#DD5500}{ol}[Physical] - [Strike] - [Slash]{/}{/}{nl}Use shield and sword to make continuous attacks.
 SKILL_20150414_003621	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Use weapon to raise and blow away enemy.
-SKILL_20150414_003622	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Smack your weapon down on an enemy's head. Target's INT and SPR temporarily decrease.
+SKILL_20150414_003622	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Smack your weapon down on an enemy's head. Temporarily decreases the target's INT and SPR.
 SKILL_20150414_003623	$Take a defensive stance, using your weapon to block. Blocked enemies become vulnerable to Pierce attacks.
 SKILL_20150414_003624	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Swing sword around to make continuous attack.
 SKILL_20150414_003625	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Strike and push the enemy sidewards using the side of your sword. Enemy becomes under the Armor Break status effect.
@@ -3630,7 +3630,7 @@ SKILL_20150414_003629	{#DD5500}{ol}[Physical] - [Pierce] - [Strike]{/}{/}{nl}Use
 SKILL_20150414_003630	{memo X}{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Throw spear to attack enemy. Spear dropped on ground may disappear if not picked up within time limit.
 SKILL_20150414_003631	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use shield and dash pushing away enemies. Enemies nearby falls down when hit.
 SKILL_20150414_003632	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Strongly attack bottom of enemy with chance of paralyzing.
-SKILL_20150414_003633	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Smacks down an enemy using your shield, causing the [Dark] status by chance.
+SKILL_20150414_003633	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Smacks down an enemy using your shield, afflicting the [Dark] status effect by a small chance.
 SKILL_20150414_003634	{memo X}Attack #{SkillAtkAdd}#{nl}Defense -#{CaptionRatio}# {nl}{#339999}{ol}[Unbalance]{/}{/} Duration 5 seconds
 SKILL_20150414_003635	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Hold key to bend down and move forward. Evasion increases and attacks enemy after moving.
 SKILL_20150414_003636	{memo X}{#DD5500}{ol}[Physical] - [Pierce] - [Strike]{/}{/}{nl}Use sword and shield to attack continuously.
@@ -3798,7 +3798,7 @@ SKILL_20150414_003797	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Temporarily in
 SKILL_20150414_003798	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Throw tear gas on target area. Enemies fall under [Dark].
 SKILL_20150414_003799	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Continuously attack using your dagger. A double attack with a high critical rate that may stun the enemy.
 SKILL_20150414_003800	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Launches a wide broadhead arrow. Inflicts bleeding on the enemy hit.
-SKILL_20150414_003801	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Launches a bodkin arrow that deeply penetrates the enemy. On hit, decreases enemies' defense and will remove Reflect Shield.
+SKILL_20150414_003801	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Launches a bodkin arrow that deeply penetrates the enemy. On hit, decreases enemies' defense and nullifies the magic that protects the enemy.
 SKILL_20150414_003802	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Launches a barbed arrow. The number of strikes depends on the enemy's defense type.
 SKILL_20150414_003803	{memo X}{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Shoot arrow that explodes enemy in cross form when killed.
 SKILL_20150414_003804	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Flame fumes from area shot with arrow and attacks enemy.
@@ -4713,7 +4713,7 @@ SKILL_20150717_004712	$Movement Speed: +#{CaptionRatio}#{nl}Duration: #{CaptionT
 SKILL_20150717_004713	{memo X}Your attack hits target but chance of critical and critical evasion decreases.
 SKILL_20150717_004714	{memo X}Critical Chance -#{CaptionRatio}#%{nl}Critical Resistance -#{CaptionRatio}#%{nl}Duration #{CaptionTime}# seconds
 SKILL_20150717_004715	$Shout a warcry that causes your enemies to panic and drop their defense, bolstering your attack proportionally.
-SKILL_20150717_004716	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Trample down on an enemy while in the air or jumping. Attack damage is determined by the Character's height and Shoes' defense.
+SKILL_20150717_004716	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Trample down on an enemy while in the air or jumping. Increased attack is according to your character's height, your shoes' defense and your armor's evasion.
 SKILL_20150717_004717	$Capture Time: #{CaptionRatio}# seconds
 SKILL_20150717_004718	$Attack: -#{CaptionRatio}#% {nl}Increased defense equal to the decreased attack{nl}Additonal Defense: #{CaptionRatio2}#%{nl}Consumes 1% SP per 2 seconds
 SKILL_20150717_004719	$Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Duration: #{CaptionRatio2}# seconds{nl}AoE Attack Ratio: #{SkillSR}#
@@ -4994,7 +4994,7 @@ SKILL_20150730_004993	Make Shogos molded based on the card inserted in Necronomi
 SKILL_20150730_004994	Your companion bites and holds onto a target. Decreases the physical defense of the bitten target. You receive a critical chance bonus against the target.
 SKILL_20150730_004995	$Physical Defense: -#{CaptionRatio}# {nl}Additional Critical Chance: 30%{nl}Duration: #{CaptionTime}# seconds
 SKILL_20150803_004996	$Quick Cast
-SKILL_20150803_004997	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Kneel to increase focus. Physical Attack, Attack Speed, and range increase.
+SKILL_20150803_004997	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Kneel to increase focus. Increases your attack, range and attack speed.
 SKILL_20150803_004998	$Physical Damage: +#{CaptionRatio}#{nl} Range: +#{CaptionRatio2}# Attack speed: +#{CaptionTime}#
 SKILL_20150803_004999	$Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Number of Caltrops: #{CaptionRatio2}#{nl}Caltrop Duration: #{CaptionTime}# seconds
 SKILL_20150803_005000	$Attack: 150% +#{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}{#339999}{ol}[Stun]{/}{/} Duration: #{CaptionTime}# seconds{nl}Consumes 1 Stone Bullet
@@ -5030,7 +5030,7 @@ SKILL_20150804_005029	$Your attacks are guaranteed to hit, increasing your Criti
 SKILL_20150804_005030	$Critical Rate + #{CaptionRatio}#%{nl}Critical Resistance + #{CaptionRatio}#%{nl}Duration #{CaptionTime}# sec
 SKILL_20150804_005031	$Attack 300% + #{SkillAtkAdd}#{nl}Attribute Damage #{CaptionRatio}#%{nl}Casting Time #{CaptionTime}# sec{nl}AoE Attack Ratio #{SkillSR}#
 SKILL_20150804_005032	${#DD5500}{ol}[Physical] - [Poison] - [Pierce]{/}{/}{nl}Launches a contagious poisonous arrow. Poison spreads through the target whenever it gets attacked. 
-SKILL_20150804_005033	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Shoot a Hail Mary arrow that explodes on enemy impact in a cross.
+SKILL_20150804_005033	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl} Launches an arrow that explodes on enemy impact in a cross.
 SKILL_20150804_005034	$Attack 250% + #{SkillAtkAdd}#{nl}Attribute Damage #{CaptionRatio}#%{nl}AoE Attack Ratio #{SkillSR}#
 SKILL_20150804_005035	$Reflect #{CaptionRatio}#% of the target's physical attack{nl}Maximum Duration #{CaptionTime}# sec{nl}Range projectile, Magic defense not possible
 SKILL_20150804_005036	$Cartar Stroke: Remove Knockback
@@ -5289,3 +5289,68 @@ SKILL_20151001_005288	$Increases the damage dealt on an enemy with [Split Arrow]
 SKILL_20151001_005289	$Deals damage equal to 100% magic attack to nearby Demon-type monsters when using [Divine Might].
 SKILL_20151001_005290	$Corsair 2nd Circle required
 SKILL_20151001_005291	$Lv. 2 Create Shoggath required
+SKILL_20151016_005292
+SKILL_20151016_005293
+SKILL_20151016_005294
+SKILL_20151016_005295
+SKILL_20151016_005296
+SKILL_20151016_005297
+SKILL_20151016_005298
+SKILL_20151016_005299
+SKILL_20151016_005300
+SKILL_20151016_005301
+SKILL_20151016_005302
+SKILL_20151016_005303
+SKILL_20151016_005304
+SKILL_20151016_005305
+SKILL_20151016_005306
+SKILL_20151016_005307
+SKILL_20151016_005308
+SKILL_20151016_005309
+SKILL_20151016_005310
+SKILL_20151016_005311
+SKILL_20151016_005312
+SKILL_20151016_005313
+SKILL_20151016_005314
+SKILL_20151016_005315
+SKILL_20151016_005316
+SKILL_20151016_005317
+SKILL_20151016_005318
+SKILL_20151016_005319
+SKILL_20151016_005320
+SKILL_20151016_005321
+SKILL_20151016_005322
+SKILL_20151016_005323
+SKILL_20151016_005324
+SKILL_20151016_005325
+SKILL_20151016_005326
+SKILL_20151016_005327
+SKILL_20151016_005328
+SKILL_20151016_005329
+SKILL_20151016_005330
+SKILL_20151016_005331
+SKILL_20151016_005332
+SKILL_20151016_005333
+SKILL_20151016_005334
+SKILL_20151016_005335
+SKILL_20151016_005336
+SKILL_20151016_005337
+SKILL_20151016_005338
+SKILL_20151016_005339
+SKILL_20151016_005340
+SKILL_20151016_005341
+SKILL_20151016_005342
+SKILL_20151016_005343
+SKILL_20151016_005344
+SKILL_20151016_005345
+SKILL_20151016_005346
+SKILL_20151016_005347
+SKILL_20151016_005348
+SKILL_20151016_005349
+SKILL_20151016_005350
+SKILL_20151016_005351
+SKILL_20151016_005352
+SKILL_20151016_005353
+SKILL_20151016_005354
+SKILL_20151016_005355
+SKILL_20151016_005356
