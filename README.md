@@ -3,17 +3,19 @@
 **GUIDELINES IN WIKI HAVE BEEN UPDATED** <br>
 **PLEASE CHECK THE [GUIDELINES](https://github.com/Treeofsavior/EnglishTranslation/wiki/Guidelines) BEFORE SENDING YOUR PULL REQUESTS.**
 
-1. {memo X} have been updated to English files. (**NEW**)
+1. Latest translations have been updated for 2nd iCBT. (**NEW**)
 
-2. Please send a separate Pull Request for EACH FILE. 
+2. {memo X} have been updated to English files. (**NEW**)
 
-3. Please use the latest file version before editing the translations 
+3. Please send a separate Pull Request for EACH FILE. 
 
-4. Have you checked out our official Forums? Click [**HERE**](https://forum.treeofsavior.com/) move to the forums for discussion. Please login and click on the github icon to link your github account to it as well.
+4. Please use the latest file version before editing the translations 
 
-5. Scroll down for a preview of how real-time translation works in game! 
+5. Have you checked out our official Forums? Click [**HERE**](https://forum.treeofsavior.com/) move to the forums for discussion. Please login and click on the github icon to link your github account to it as well.
 
-6. Be sure to take a look at the [**Wiki**](https://github.com/Treeofsavior/EnglishTranslation/wiki) page for guides and reminders before sending us your translations.
+6. Scroll down for a preview of how real-time translation works in game! 
+
+7. Be sure to take a look at the [**Wiki**](https://github.com/Treeofsavior/EnglishTranslation/wiki) page for guides and reminders before sending us your translations.
 
 
 <center><img src="https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-xap1/v/t1.0-9/969383_419497041509849_21485321_n.jpg?oh=4f5a38d7c9f8c311b803b4adb80a0a28&oe=56347E65&__gda__=1444560791_5463c6dc462165446fcead1c56bef11d"/></center>
