@@ -3,23 +3,32 @@
 **GUIDELINES IN WIKI HAVE BEEN UPDATED** <br>
 **PLEASE CHECK THE [GUIDELINES](https://github.com/Treeofsavior/EnglishTranslation/wiki/Guidelines) BEFORE SENDING YOUR PULL REQUESTS.**
 
-1. TOS(Eng. Ver) 2nd Beta Test Schedule
+We’d like to thank our Contributors in helping us shape the English version of Tree of Savior. 
 
-Our contributors will be able to join TOS without any additional process, if joined 1st iCBT already. If not, Please join us through the Forum.  (**NEW**)
+As a token of our appreciation, we will be securing Beta Keys for our Github Contributors in the upcoming 2nd iCBT.
 
-2. Latest translations have been updated for 2nd iCBT. (**NEW**)
+If you have contributed at least 100 lines by today, you will receive 3 Beta Keys via email regardless of your selection as Tester in the Official Website.
 
-3. {memo X} have been updated to English files. (**NEW**)
+In order to receive the keys, PLEASE MAKE SURE YOU AUTHENTICATE AND LINK your Github ID to the official website’s account. 
+If the accounts are not linked by Oct 22, you WILL NOT be able to receive the Beta Keys.
 
-4. Please send a separate Pull Request for EACH FILE. 
+You may check the list of those who qualify for the Beta Keys [**HERE**](https://github.com/Treeofsavior/EnglishTranslation/issues/1266)
 
-5. Please use the latest file version before editing the translations 
+Thank you and please continue to send us your support and interest for Tree of Savior.
 
-6. Have you checked out our official Forums? Click [**HERE**](https://forum.treeofsavior.com/) move to the forums for discussion. Please login and click on the github icon to link your github account to it as well.
+1. Latest translations have been updated for 2nd iCBT. (**NEW**)
 
-7. Scroll down for a preview of how real-time translation works in game! 
+2. {memo X} have been updated to English files.
 
-8. Be sure to take a look at the [**Wiki**](https://github.com/Treeofsavior/EnglishTranslation/wiki) page for guides and reminders before sending us your translations.
+3. Please send a separate Pull Request for EACH FILE. 
+
+4. Please use the latest file version before editing the translations 
+
+5. Have you checked out our official Forums? Click [**HERE**](https://forum.treeofsavior.com/) move to the forums for discussion. Please login and click on the github icon to link your github account to it as well.
+
+6. Scroll down for a preview of how real-time translation works in game! 
+
+7. Be sure to take a look at the [**Wiki**](https://github.com/Treeofsavior/EnglishTranslation/wiki) page for guides and reminders before sending us your translations.
 
 
 <center><img src="https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-xap1/v/t1.0-9/969383_419497041509849_21485321_n.jpg?oh=4f5a38d7c9f8c311b803b4adb80a0a28&oe=56347E65&__gda__=1444560791_5463c6dc462165446fcead1c56bef11d"/></center>
