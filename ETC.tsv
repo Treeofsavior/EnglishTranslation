@@ -14828,63 +14828,63 @@ ETC_20151001_014829	Failed to read the relevant xml file. Please check the xml f
 ETC_20151001_014830	Failed to read the relevant xml file. idSpace must be exists. Please check the xml file whether normal or not.
 ETC_20151001_014831	Failed to check the data version of client. Please check the game path, ipf file path and file name.
 ETC_20151001_014832	Failed to check the source verion of client. Please check the release.revision.txt file.
-ETC_20151001_014833	
-ETC_20151001_014834	
-ETC_20151001_014835	
-ETC_20151001_014836	
-ETC_20151001_014837	
-ETC_20151001_014838	
-ETC_20151001_014839	
-ETC_20151001_014840	
-ETC_20151001_014841	
-ETC_20151001_014842	
-ETC_20151001_014843	
-ETC_20151001_014844	
-ETC_20151001_014845	
-ETC_20151001_014846	
-ETC_20151001_014847	
-ETC_20151001_014848	
-ETC_20151001_014849	
-ETC_20151001_014850	
-ETC_20151001_014851	
-ETC_20151001_014852	
-ETC_20151001_014853	
-ETC_20151001_014854	
-ETC_20151001_014855	
-ETC_20151001_014856	
-ETC_20151001_014857	
-ETC_20151001_014858	
-ETC_20151001_014859	
-ETC_20151001_014860	
-ETC_20151001_014861	
-ETC_20151001_014862	
-ETC_20151001_014863	
-ETC_20151001_014864	
-ETC_20151001_014865	
-ETC_20151001_014866	
-ETC_20151001_014867	
-ETC_20151001_014868	
-ETC_20151001_014869	
-ETC_20151001_014870	
+ETC_20151001_014833	Failed to load the client option. Please check the path and information on client.xml, user.xml, patch//updater.config.xml and staticConfig.
+ETC_20151001_014834	Failed to check the patch url. Please check the client.xml.
+ETC_20151001_014835	Can't bring the relevant class' model.
+ETC_20151001_014836	Can't bring the relevant font. Please check the whether it is listed on fonts.xml or not.
+ETC_20151001_014837	A reading file and current colMesh's version is different.
+ETC_20151001_014838	There are no monster's Option.xml. Can't play the dead effect.
+ETC_20151001_014839	There are no monster's dead effect.
+ETC_20151001_014840	Unable to find the bit map. is it a image listed on baseskinset.xml?
+ETC_20151001_014841	Unable to find the animation data.
+ETC_20151001_014842	Failed to set Actor Part up. It is a not declared action count.
+ETC_20151001_014843	Main thread is unable to stop the sleep, tx. Please check the relevant function.
+ETC_20151001_014844	Error happened on Lua Script. Please check the error message.
+ETC_20151001_014845	Unable to find the appointed Lua script function. Please check the function name.
+ETC_20151001_014846	Failed to run the appointed Lua script function. Please check the function contents.
+ETC_20151001_014847	The mission script type is wrong.
+ETC_20151001_014848	Failed to bring the IES property value formed CP. Please check the whether it's running or not.
+ETC_20151001_014849	Failed to connect to the Mongo DB.
+ETC_20151001_014850	Failed to create the NetStream. Is it correrct ip?
+ETC_20151001_014851	Received incorrect Packet. It seems a Packet Hacking.
+ETC_20151001_014852	You're time out before getting fully the Packet.
+ETC_20151001_014853	Your connection is disconnected because of time out.
+ETC_20151001_014854	Unable to access the zone. Please check the map and channel is correct or server is on.
+ETC_20151001_014855	Failed to add the Accept Handler.
+ETC_20151001_014856	Failed to the Network setting. Please check the server is on and the information is correct.
+ETC_20151001_014857	Failed to access the Barrack Server. Please check the server is on and the information is correct.
+ETC_20151001_014858	Disconnected the NetStream.
+ETC_20151001_014859	Failed to the WorldTable setting. Please check the WorldTable, DB Table and OCBT setting.
+ETC_20151001_014860	Unable to find the appointed SID in the WorldTable.
+ETC_20151001_014861	Unable to find the zone information of appointed name in the WorldTable.
+ETC_20151001_014862	DB error happended. Please check the follow information.
+ETC_20151001_014863	Failed to reset the Redis DB. Please check the WorldTable to have the correct information.
+ETC_20151001_014864	Unable to find the property of IES object that match the classkey read from DB.
+ETC_20151001_014865	DSN file is incorrect. Please check the serverDB.int file is exists and the information.
+ETC_20151001_014866	Information of ID, PW to connect DB is incorrect. Please check the server.int is exists and the information.
+ETC_20151001_014867	Failed to create the field boss creation. Unable to find the server and zone from the mapID.
+ETC_20151001_014868	The error related with Redis server happened. Please check the error message.
+ETC_20151001_014869	Failed to the running SP. Please check the SP information and error code.
+ETC_20151001_014870	The command line parameter is incorrect. Please check the information of program bath file.
 ETC_20151001_014871	The client was terminated because of an error due to the display driver. Contact your display manufacturer.
 ETC_20151001_014872	Failed to initialize Nvidia Perf SDK.
-ETC_20151001_014873	
-ETC_20151001_014874	
+ETC_20151001_014873	The error from Sign Code moduel happened. Please refer to the printed error code.
+ETC_20151001_014874	The log is still not declared the error code.
 ETC_20151001_014875	Frame Drop
 ETC_20151001_014876	File Reloaded
 ETC_20151001_014877	Transferred Packet Log
 ETC_20151001_014878	Received Packet Log
 ETC_20151001_014879	Incorrect value. Please refer to the following information.
 ETC_20151001_014880	Developmental Information
-ETC_20151001_014881	
-ETC_20151001_014882	
-ETC_20151001_014883	
-ETC_20151001_014884	
-ETC_20151001_014885	
-ETC_20151001_014886	
-ETC_20151001_014887	
-ETC_20151001_014888	
-ETC_20151001_014889	
+ETC_20151001_014881	Kingdom Camp
+ETC_20151001_014882	Reama Small Square
+ETC_20151001_014883	Mailruma Steeple
+ETC_20151001_014884	Nucisto collapsed Area
+ETC_20151001_014885	Officer House
+ETC_20151001_014886	Bingcoolers Path
+ETC_20151001_014887	Vitina Waterway
+ETC_20151001_014888	Barrack
+ETC_20151001_014889	Sunken Path
 ETC_20151001_014890	Udringal Empty Lot
 ETC_20151001_014891	Rovima Magic Circle
 ETC_20151001_014892	Stati Slope
@@ -14893,10 +14893,10 @@ ETC_20151001_014894	Tinaga Stone
 ETC_20151001_014895	Neles Magic Circle
 ETC_20151001_014896	Silta Empty Lot
 ETC_20151001_014897	Gehima Empty Lot
-ETC_20151001_014898	
+ETC_20151001_014898	Camping Ground
 ETC_20151001_014899	Skaika Supply Route
 ETC_20151001_014900	The 1st Almol Work Place
-ETC_20151001_014901	
+ETC_20151001_014901	Work Management Office
 ETC_20151001_014902	Ulksh Camp
 ETC_20151001_014903	The 2nd Almol Work Place
 ETC_20151001_014904	Nubarsk Cliff
@@ -14912,45 +14912,45 @@ ETC_20151001_014913	Vadova Road
 ETC_20151001_014914	Silaisvin Wilderness
 ETC_20151001_014915	Raukyti Slope
 ETC_20151001_014916	Apgaudin Crossroads
-ETC_20151001_014917	
+ETC_20151001_014917	Mires Grave
 ETC_20151001_014918	Kruva Stream Bank
 ETC_20151001_014919	Mires Grave
 ETC_20151001_014920	Galvota Rest Area
-ETC_20151001_014921	
-ETC_20151001_014922	
-ETC_20151001_014923	
-ETC_20151001_014924	
-ETC_20151001_014925	
-ETC_20151001_014926	
+ETC_20151001_014921	Summon Magic Dolls
+ETC_20151001_014922	Candle02
+ETC_20151001_014923	Ancient Device01
+ETC_20151001_014924	Angel Staute01
+ETC_20151001_014925	Cracked Land
+ETC_20151001_014926	Crystal Light
 ETC_20151001_014927	Pilgrim Fence
 ETC_20151001_014928	Pardoner Erikas
-ETC_20151001_014929	
-ETC_20151001_014930	
-ETC_20151001_014931	
-ETC_20151001_014932	
-ETC_20151001_014933	
-ETC_20151001_014934	
-ETC_20151001_014935	
-ETC_20151001_014936	
+ETC_20151001_014929	Legywn family's vassal1
+ETC_20151001_014930	Legywn family's vassal2
+ETC_20151001_014931	Legywn family's vassal3
+ETC_20151001_014932	Stone Wall 01
+ETC_20151001_014933	Stone Wall02
+ETC_20151001_014934	Intensive Spirit Device1
+ETC_20151001_014935	Intensive Spirit Device2
+ETC_20151001_014936	No Shadow NPC_Tall
 ETC_20151001_014937	Historian (Male) 01
 ETC_20151001_014938	Historian (Male) 02
 ETC_20151001_014939	Historian (Male) 03
 ETC_20151001_014940	Historian (Male) 04
 ETC_20151001_014941	Historian (Female) 02
-ETC_20151001_014942	
+ETC_20151001_014942	Rock_Pilgrims of the road
 ETC_20151001_014943	Pilgrim (Female)_02
 ETC_20151001_014944	Pilgrim (Female)_03
-ETC_20151001_014945	
-ETC_20151001_014946	
-ETC_20151001_014947	
-ETC_20151001_014948	
-ETC_20151001_014949	
-ETC_20151001_014950	
-ETC_20151001_014951	
-ETC_20151001_014952	
-ETC_20151001_014953	
-ETC_20151001_014954	
-ETC_20151001_014955	
+ETC_20151001_014945	Monster Trap of Pilgrims of the road 
+ETC_20151001_014946	Empty Wagon_Coastal Fortress
+ETC_20151001_014947	Plateau Magic Circle Activation Device
+ETC_20151001_014948	Production Vine2
+ETC_20151001_014949	Plateau Magic Circle Activation Device
+ETC_20151001_014950	Black Stone
+ETC_20151001_014951	Broken Prison
+ETC_20151001_014952	Waterslide Ship
+ETC_20151001_014953	Giant Fruit Forest_Elevator
+ETC_20151001_014954	Fruit Ship
+ETC_20151001_014955	Waterway Gate
 ETC_20151001_014956	Druid Leja
 ETC_20151001_014957	Druid Benes
 ETC_20151001_014958	Dievdirbys
@@ -14958,63 +14958,63 @@ ETC_20151001_014959	Female Monk 1
 ETC_20151001_014960	Female Monk 2
 ETC_20151001_014961	Pig
 ETC_20151001_014962	Lesser Panda
-ETC_20151001_014963	
-ETC_20151001_014964	
-ETC_20151001_014965	
-ETC_20151001_014966	
-ETC_20151001_014967	
-ETC_20151001_014968	
-ETC_20151001_014969	
-ETC_20151001_014970	
-ETC_20151001_014971	
-ETC_20151001_014972	
-ETC_20151001_014973	
-ETC_20151001_014974	
-ETC_20151001_014975	
-ETC_20151001_014976	
-ETC_20151001_014977	
-ETC_20151001_014978	
-ETC_20151001_014979	
-ETC_20151001_014980	
-ETC_20151001_014981	
-ETC_20151001_014982	
-ETC_20151001_014983	
-ETC_20151001_014984	
-ETC_20151001_014985	
-ETC_20151001_014986	
-ETC_20151001_014987	
-ETC_20151001_014988	
-ETC_20151001_014989	
-ETC_20151001_014990	
+ETC_20151001_014963	Foward Ruklys' documents
+ETC_20151001_014964	Try to tame the flying monsters using the feed
+ETC_20151001_014965	Pass the stuff by talking the contact password
+ETC_20151001_014966	Defeat the lured demons lured by using temporary flare
+ETC_20151001_014967	Lure the demons by setting the temporary flare trap
+ETC_20151001_014968	Guard Alina to Iremantas
+ETC_20151001_014969	Obtain the black and blue herb from greenery
+ETC_20151001_014970	Neutraralize Magic
+ETC_20151001_014971	Protect him during Hauberk while he's reunifying 
+ETC_20151001_014972	Soul Scent Collect
+ETC_20151001_014973	Return to Sqaure Willy
+ETC_20151001_014974	Activate on appointed Altar only
+ETC_20151001_014975	Cremate the revived body
+ETC_20151001_014976	Pull out the grave guard's shaman doll from the box of the ground guard
+ETC_20151001_014977	Search the trace of girl
+ETC_20151001_014978	Find the Basket containing fresh foods
+ETC_20151001_014979	Pollute the fresh foods
+ETC_20151001_014980	Looking at the Farret Tendency
+ETC_20151001_014981	Find the trace of mysterious girl
+ETC_20151001_014982	Obatin the Urecho for crafting explosive bullets
+ETC_20151001_014983	Install the explosive bullets to the hallway of the upper storey
+ETC_20151001_014984	Install the explosive bullets to the down Assembly Area
+ETC_20151001_014985	Without getting caught by the guards of the kingdom military, move to the Drill Ground of Confliction together with Amanda
+ETC_20151001_014986	Collect usable equipment
+ETC_20151001_014987	Bring the souls
+ETC_20151001_014988	Find the repair parts
+ETC_20151001_014989	Collect the enough stone to write wording
+ETC_20151001_014990	Make a retreat command to souls by blowing a horn
 ETC_20151001_014991	Burn the voodoo doll
-ETC_20151001_014992	
-ETC_20151001_014993	
-ETC_20151001_014994	
-ETC_20151001_014995	
-ETC_20151001_014996	
-ETC_20151001_014997	
-ETC_20151001_014998	
-ETC_20151001_014999	
-ETC_20151001_015000	
-ETC_20151001_015001	
-ETC_20151001_015002	
-ETC_20151001_015003	
-ETC_20151001_015004	
-ETC_20151001_015005	
-ETC_20151001_015006	
-ETC_20151001_015007	
-ETC_20151001_015008	
-ETC_20151001_015009	
-ETC_20151001_015010	
-ETC_20151001_015011	
-ETC_20151001_015012	
-ETC_20151001_015013	
-ETC_20151001_015014	
-ETC_20151001_015015	
-ETC_20151001_015016	
-ETC_20151001_015017	
-ETC_20151001_015018	
-ETC_20151001_015019	
+ETC_20151001_014992	Move to the a safe place from Stone Frost
+ETC_20151001_014993	Check the petrification device on dock
+ETC_20151001_014994	Check the petrification device on the coast guard post
+ETC_20151001_014995	Check the petrification device on the Skida bastion
+ETC_20151001_014996	Check the petrification device on the Avansa Hall
+ETC_20151001_014997	Search the trace of the support soldiers
+ETC_20151001_014998	Obtain the last breath from the petrified monsters
+ETC_20151001_014999	Destory the barrier stone using the last breath
+ETC_20151001_015000	Obtain the detonator from the monsters
+ETC_20151001_015001	Protect the pillar from the monsters
+ETC_20151001_015002	Enter the correct number to chat window
+ETC_20151001_015003	Someone's record(3)
+ETC_20151001_015004	Collect the shiny moss
+ETC_20151001_015005	Help the people attacked by the monsters
+ETC_20151001_015006	Burn the Theologian's Altar(1)
+ETC_20151001_015007	Burn the Theologian's Altar(2)
+ETC_20151001_015008	Theologian's Story, Restoration(1)
+ETC_20151001_015009	Collect the stone for the restoration supply
+ETC_20151001_015010	Theologian's Story, Restoration(2)
+ETC_20151001_015011	Theologian's Story, Restoration(3)
+ETC_20151001_015012	Promote the merchant to novice revelators of the fields on Klaipeda and Orsha around.
+ETC_20151001_015013	Find the holy relics
+ETC_20151001_015014	Obtain the buired holy relics using the explorer
+ETC_20151001_015015	Obtain the fresh body fluid of monsters
+ETC_20151001_015016	Obtain the stone from the rocks nearby
+ETC_20151001_015017	Obatin the leather string from the monsters
+ETC_20151001_015018	Make the string bunch for bookbinding through the leather string
+ETC_20151001_015019	Plateau Defense Target NPC
 ETC_20151001_015020	One-handed Sword Dagger
 ETC_20151001_015021	One-handed Sword Sub
 ETC_20151001_015022	Crossbow Dagger
@@ -15024,173 +15024,173 @@ ETC_20151001_015025	Blunt Dagger
 ETC_20151001_015026	Blunt Sub
 ETC_20151001_015027	Pistol Dagger
 ETC_20151001_015028	/indun
-ETC_20151001_015029	
-ETC_20151001_015030	
-ETC_20151001_015031	
-ETC_20151001_015032	
-ETC_20151001_015033	
-ETC_20151001_015034	
-ETC_20151001_015035	
-ETC_20151001_015036	
-ETC_20151001_015037	
-ETC_20151001_015038	
-ETC_20151001_015039	
-ETC_20151001_015040	
-ETC_20151001_015041	{memo X}
-ETC_20151001_015042	
-ETC_20151001_015043	
-ETC_20151001_015044	
-ETC_20151001_015045	
+ETC_20151001_015029	I want to be recommended
+ETC_20151001_015030	This detector is not working!
+ETC_20151001_015031	This detector is working well
+ETC_20151001_015032	The barrier stone rejected access!
+ETC_20151001_015033	Obtained all last breath required!
+ETC_20151001_015034	You've obtained the keepstakes from the monsters!
+ETC_20151001_015035	Defend against the curse of the terminal!
+ETC_20151001_015036	This Goddess Statue is not responding
+ETC_20151001_015037	Looking at the powder
+ETC_20151001_015038	Unable to find the powder!
+ETC_20151001_015039	Obtained the powder!
+ETC_20151001_015040	He is not a petrified tomb robber!
+ETC_20151001_015041	{memo X}Summon Pillar
+ETC_20151001_015042	Obtained a fragment that is engraved with Romuva pattern!
+ETC_20151001_015043	You alreay have a fragment of the pole!
+ETC_20151001_015044	The blessing of Kedoraomer Merchants!
+ETC_20151001_015045	You successfully completed the promotion!
 ETC_20151001_015046	Revelator's level is not 1~10!
-ETC_20151001_015047	
-ETC_20151001_015048	
-ETC_20151001_015049	
-ETC_20151001_015050	
-ETC_20151001_015051	
-ETC_20151001_015052	
-ETC_20151001_015053	
-ETC_20151001_015054	
-ETC_20151001_015055	
-ETC_20151001_015056	
-ETC_20151001_015057	
-ETC_20151001_015058	
-ETC_20151001_015059	
-ETC_20151001_015060	
-ETC_20151001_015061	
-ETC_20151001_015062	
-ETC_20151001_015063	
-ETC_20151001_015064	
-ETC_20151001_015065	
-ETC_20151001_015066	
-ETC_20151001_015067	
-ETC_20151001_015068	
-ETC_20151001_015069	
-ETC_20151001_015070	
-ETC_20151001_015071	
-ETC_20151001_015072	
-ETC_20151001_015073	
-ETC_20151001_015074	
-ETC_20151001_015075	
-ETC_20151001_015076	
-ETC_20151001_015077	
-ETC_20151001_015078	
-ETC_20151001_015079	
-ETC_20151001_015080	
-ETC_20151001_015081	
-ETC_20151001_015082	
-ETC_20151001_015083	
-ETC_20151001_015084	
-ETC_20151001_015085	
-ETC_20151001_015086	
-ETC_20151001_015087	
-ETC_20151001_015088	
+ETC_20151001_015047	Setting the traps
+ETC_20151001_015048	You've set the traps. It will continue for 20 secs!
+ETC_20151001_015049	The monster that was caught by the trap
+ETC_20151001_015050	Pulling out the body fluid
+ETC_20151001_015051	You've pulled out all body fluid!
+ETC_20151001_015052	You've obtained all stones that are needed!
+ETC_20151001_015053	Connecting the leather strings to make a bundle for book binding
+ETC_20151001_015054	You've created the bundle of strings for book binding~
+ETC_20151001_015055	You've obtained the leather string!
+ETC_20151001_015056	The reseach documents have fallen a lot!
+ETC_20151001_015057	You've obtaind research materials!
+ETC_20151001_015058	You don't have research materials
+ETC_20151001_015059	The revelator already received the benefits before
+ETC_20151001_015060	The revelator is already receiving the benefits{nl}Look for an other revelator
+ETC_20151001_015061	You've obtained the divine object!
+ETC_20151001_015062	Activate the detector
+ETC_20151001_015063	You've found the place where the divine object is located
+ETC_20151001_015064	You can't find the place where the divine object is located{nl}Activate it again
+ETC_20151001_015065	It seems that the divine object is outside the range of the detector.{nl}Move within the range on the map and activate it again.
+ETC_20151001_015066	The location indicated on the detector
+ETC_20151001_015067	Excavating
+ETC_20151001_015068	You've found the divine object!
+ETC_20151001_015069	You've fired the disposable signal bomb.{nl}Defeat the demons that are chasing!
+ETC_20151001_015070	You've defeated the demons that were caught by the signal bomb!
+ETC_20151001_015071	You've set the signal trap.{nl}Protect it until the demons get lured to it!
+ETC_20151001_015072	Someone is calling you from up there
+ETC_20151001_015073	You've obtained the black herb
+ETC_20151001_015074	You can only use it at Sutatis Intersections
+ETC_20151001_015075	Die you monster!
+ETC_20151001_015076	We will help
+ETC_20151001_015077	Revenge!
+ETC_20151001_015078	What?Shameless?
+ETC_20151001_015079	Tell me again!
+ETC_20151001_015080	You are saying he is your friend and you don't know where is he buried?
+ETC_20151001_015081	Let's see who is right!
+ETC_20151001_015082	He doesn't seem to be Gailryus Legwyn.
+ETC_20151001_015083	Checking the unknown tombstone
+ETC_20151001_015084	Why are you disturbing my rest and who are you?
+ETC_20151001_015085	So rude to wake me up!
+ETC_20151001_015086	Are you a friend of Erikas?
+ETC_20151001_015087	Leave me alone...
+ETC_20151001_015088	You seem to have lots of stories like me.
 ETC_20151001_015089	Follow me..
-ETC_20151001_015090	
-ETC_20151001_015091	
-ETC_20151001_015092	
-ETC_20151001_015093	
-ETC_20151001_015094	
-ETC_20151001_015095	
+ETC_20151001_015090	You've found Gailrys Legwyn
+ETC_20151001_015091	You've collected the scent of the spirits
+ETC_20151001_015092	Rubbing the scent of the spirits
+ETC_20151001_015093	You've found the subordinate of Legwyn Family
+ETC_20151001_015094	Legwyn is calling me!
+ETC_20151001_015095	You've handed over the object of Grizina to Irumantas
 ETC_20151001_015096	Hey! Over here!
-ETC_20151001_015097	
-ETC_20151001_015098	
-ETC_20151001_015099	
-ETC_20151001_015100	
-ETC_20151001_015101	
+ETC_20151001_015097	Hurry.{nl}His life depends on you...
+ETC_20151001_015098	We can call out Harugal now.
+ETC_20151001_015099	Be the food for Hohes
+ETC_20151001_015100	Weak guys...
+ETC_20151001_015101	How long did you think I would just endure?
 ETC_20151001_015102	Demon Lord Hauberk has absorbed the power of the demons!
-ETC_20151001_015103	
+ETC_20151001_015103	You've defeated the demons that were lured!
 ETC_20151001_015104	Ugh..
-ETC_20151001_015105	
-ETC_20151001_015106	
+ETC_20151001_015105	It seems that the would has widened...
+ETC_20151001_015106	The monster appeared from the stone grave!
 ETC_20151001_015107	Found the Pardoner Master's book!
 ETC_20151001_015108	This does not seems to be the book of the Pardoner Master
-ETC_20151001_015109	
-ETC_20151001_015110	
-ETC_20151001_015111	
+ETC_20151001_015109	Setting Romuva of Purification
+ETC_20151001_015110	As you set the Romuva of Purification, the demonic power has weakened
+ETC_20151001_015111	This is the place where Romuva of Purification is already standing!
 ETC_20151001_015112	You are not feeling well!
 ETC_20151001_015113	Searching for the Bomb
 ETC_20151001_015114	Found the bomb
-ETC_20151001_015115	
-ETC_20151001_015116	
-ETC_20151001_015117	
-ETC_20151001_015118	
-ETC_20151001_015119	
+ETC_20151001_015115	This guard doesn't have any bomb
+ETC_20151001_015116	The resistance of the guard is strong
+ETC_20151001_015117	You've set the roar bomb
+ETC_20151001_015118	You've found the old unexploded bomb.{nl}Look for someone who is likely to know about the bomb
+ETC_20151001_015119	You've found the old unexploded bomb.{nl}Use the bomb disassembling toolbox
 ETC_20151001_015120	The trap was removed!
-ETC_20151001_015121	
-ETC_20151001_015122	
-ETC_20151001_015123	
-ETC_20151001_015124	
-ETC_20151001_015125	
-ETC_20151001_015126	
-ETC_20151001_015127	
-ETC_20151001_015128	
-ETC_20151001_015129	
-ETC_20151001_015130	
-ETC_20151001_015131	
-ETC_20151001_015132	
-ETC_20151001_015133	
-ETC_20151001_015134	
-ETC_20151001_015135	
-ETC_20151001_015136	
-ETC_20151001_015137	
-ETC_20151001_015138	
-ETC_20151001_015139	
-ETC_20151001_015140	
-ETC_20151001_015141	
-ETC_20151001_015142	
-ETC_20151001_015143	
-ETC_20151001_015144	
-ETC_20151001_015145	
-ETC_20151001_015146	
-ETC_20151001_015147	
-ETC_20151001_015148	
-ETC_20151001_015149	
-ETC_20151001_015150	
-ETC_20151001_015151	
-ETC_20151001_015152	
-ETC_20151001_015153	
-ETC_20151001_015154	
-ETC_20151001_015155	
-ETC_20151001_015156	
-ETC_20151001_015157	
-ETC_20151001_015158	
-ETC_20151001_015159	
-ETC_20151001_015160	
-ETC_20151001_015161	
-ETC_20151001_015162	
+ETC_20151001_015121	Setting the barricade
+ETC_20151001_015122	You've set the barricade!
+ETC_20151001_015123	You couldn't protect Amanda
+ETC_20151001_015124	As the Shaman doll of the guard was being destroyed, the barrier also destroyed!
+ETC_20151001_015125	You can't destroy it due to the unknown force that is surrounding the divine object of the religious body
+ETC_20151001_015126	Fallen corpse
+ETC_20151001_015127	Fallen corpse of the priest
+ETC_20151001_015128	You've found the hidden list of the ones who possess gardens
+ETC_20151001_015129	You can't find any more documents that are needed
+ETC_20151001_015130	The rights to own a garden in Kaliss region
+ETC_20151001_015131	It seems that this box is not the right box
+ETC_20151001_015132	You've found Shaman Doll z of the guard!
+ETC_20151001_015133	You've found everything that's needed
+ETC_20151001_015134	You've burnt the list of the ones who possess gardens
+ETC_20151001_015135	You can't burn it with just woods
+ETC_20151001_015136	Fainted out Ferret
+ETC_20151001_015137	Stealing the food
+ETC_20151001_015138	Ferrets called for his colleague
+ETC_20151001_015139	You can't destroy the demonic totem unless you defeat the demons that are protecting the totem
+ETC_20151001_015140	Checking the suspicious basket
+ETC_20151001_015141	You've found fresh food
+ETC_20151001_015142	Polluting the fresh food
+ETC_20151001_015143	Fresh Food
+ETC_20151001_015144	You've set the sculpture of peace
+ETC_20151001_015145	As you set the sculpture of peace, Ferrets became more violent
+ETC_20151001_015146	The girl disappeared somewhere after she saw Ferrets that suddenly appeared
+ETC_20151001_015147	Collecting the herbs for drowsiness
+ETC_20151001_015148	You've successfully collected the herbs for drowsiness
+ETC_20151001_015149	You can't move since you are drowsy
+ETC_20151001_015150	Untieing the tied string
+ETC_20151001_015151	Thank you so much
+ETC_20151001_015152	You've arrived well without being caught by the guards
+ETC_20151001_015153	You've detected an explosive
+ETC_20151001_015154	I am counting on you!
+ETC_20151001_015155	Now I am alive... Thank you!
+ETC_20151001_015156	You've failed to protect Hix
+ETC_20151001_015157	The shrine has restored to its previous status
+ETC_20151001_015158	You've succeeded activating Romuva magic field
+ETC_20151001_015159	When you activate the orb at the center, all shrines will come back to their original status.{nl}Objective : The shrine at the top
+ETC_20151001_015160	When you activate the orb at the center, all shrines will come back to their original status.{nl}Objective : The shrine at the left
+ETC_20151001_015161	When you activate the orb at the center, all shrines will come back to their original status.{nl}Objective : The shrine at the right
+ETC_20151001_015162	When you activate the orb at the center, all shrines will come back to their original status.{nl}Objective : The shrine at the bottom
 ETC_20151001_015163	The magic circle absorbed the monster's vitality!
 ETC_20151001_015164	The magic of the magic circle has been charged!
-ETC_20151001_015165	
-ETC_20151001_015166	
-ETC_20151001_015167	
-ETC_20151001_015168	
-ETC_20151001_015169	
-ETC_20151001_015170	
-ETC_20151001_015171	
-ETC_20151001_015172	
-ETC_20151001_015173	
-ETC_20151001_015174	
-ETC_20151001_015175	
-ETC_20151001_015176	
-ETC_20151001_015177	
-ETC_20151001_015178	
-ETC_20151001_015179	
-ETC_20151001_015180	
-ETC_20151001_015181	
-ETC_20151001_015182	
-ETC_20151001_015183	
-ETC_20151001_015184	
-ETC_20151001_015185	
-ETC_20151001_015186	
-ETC_20151001_015187	
-ETC_20151001_015188	
-ETC_20151001_015189	
-ETC_20151001_015190	
-ETC_20151001_015191	
-ETC_20151001_015192	
-ETC_20151001_015193	
-ETC_20151001_015194	
-ETC_20151001_015195	
+ETC_20151001_015165	Picking up potatoes
+ETC_20151001_015166	Looking at the bars
+ETC_20151001_015167	It is too rusty so it can't be used
+ETC_20151001_015168	Peeling off the barks of trees
+ETC_20151001_015169	You've peeled off the barks of trees well
+ETC_20151001_015170	This tree is already dried and dead!
+ETC_20151001_015171	It is not appropriate to write anything on it
+ETC_20151001_015172	Power Source
+ETC_20151001_015173	Explaining about the situation
+ETC_20151001_015174	There is already a restraied spirit
+ETC_20151001_015175	You've guided the spirit to the sprit memories device
+ETC_20151001_015176	What kind of memories do you have?
+ETC_20151001_015177	We are not the tools for an old manager!
+ETC_20151001_015178	You are being deceived by Eminent!
+ETC_20151001_015179	Leave us alone!
+ETC_20151001_015180	What is the device which was destroyed by Ruklys!
+ETC_20151001_015181	I will follow you
+ETC_20151001_015182	There are no usable components
+ETC_20151001_015183	Looking for components
+ETC_20151001_015184	The commander of Ruklys army
+ETC_20151001_015185	Returning
+ETC_20151001_015186	Looking for woods
+ETC_20151001_015187	You've found the woods for barricade
+ETC_20151001_015188	You already have woods
+ETC_20151001_015189	There are no woods that can be used to set barricade
+ETC_20151001_015190	There is some old man
+ETC_20151001_015191	Pulling out the flag of demons
+ETC_20151001_015192	Retreat Order!
+ETC_20151001_015193	You've told the spirit of the Ruklys squad memeber to{nl}retreat
+ETC_20151001_015194	Blowing Horn
+ETC_20151001_015195	Damn! I was detected!
 ETC_20151001_015196	Hang in there!
 ETC_20151001_015197	Don't die!
 ETC_20151001_015198	I will go!
@@ -15210,7 +15210,7 @@ ETC_20151001_015211	Able to use in Crystal Mine
 ETC_20151001_015212	Minimap -
 ETC_20151001_015213	Minimap +
 ETC_20151001_015214	Chat Macro
-ETC_20151001_015215	
+ETC_20151001_015215	Execute Quick Slot
 ETC_20151001_015216	Chat (Pad)
 ETC_20151001_015217	Status
 ETC_20151001_015218	Character Info
@@ -15221,62 +15221,62 @@ ETC_20151001_015222	Basic Actions
 ETC_20151001_015223	System Menu
 ETC_20151001_015224	Wizard Shaman Doll
 ETC_20151001_015225	Black Note
-ETC_20151001_015226	
+ETC_20151001_015226	The wall painting of the hidden sanctum
 ETC_20151001_015227	Priest Pranas
 ETC_20151001_015228	Chaser 
-ETC_20151001_015229	
+ETC_20151001_015229	Chaser Daramouse
 ETC_20151001_015230	Priest Auranas
-ETC_20151001_015231	
+ETC_20151001_015231	Priest Draznie
 ETC_20151001_015232	Priest Irma1
 ETC_20151001_015233	Priest Irma2
 ETC_20151001_015234	Priest Geliya
-ETC_20151001_015235	
+ETC_20151001_015235	The bag of the abondoned kingdom soldiers
 ETC_20151001_015236	Supply Box
-ETC_20151001_015237	
-ETC_20151001_015238	
+ETC_20151001_015237	The spirit of the commander of Ruklys army
+ETC_20151001_015238	Petrified kingdom guard
 ETC_20151001_015239	Barrier Crystal
 ETC_20151001_015240	Rajatoad's Egg
-ETC_20151001_015241	
+ETC_20151001_015241	The egg of Rajatadpole
 ETC_20151001_015242	Defensive Magic Circle
-ETC_20151001_015243	
-ETC_20151001_015244	
+ETC_20151001_015243	Defense Magic Field
+ETC_20151001_015244	Battle Field Defense Device
 ETC_20151001_015245	Demon Flag
 ETC_20151001_015246	Castle Field_65_3
-ETC_20151001_015247	
-ETC_20151001_015248	
+ETC_20151001_015247	Gigantic Fruit Forest_34_2
+ETC_20151001_015248	The grandchild of the elder
 ETC_20151001_015249	Village Headman
 ETC_20151001_015250	Village Resident
 ETC_20151001_015251	Dievdirbys Widas
-ETC_20151001_015252	
+ETC_20151001_015252	The new officer of the village
 ETC_20151001_015253	FreeDungeon_4_1
-ETC_20151001_015254	
-ETC_20151001_015255	
-ETC_20151001_015256	
-ETC_20151001_015257	
-ETC_20151001_015258	
-ETC_20151001_015259	
-ETC_20151001_015260	
-ETC_20151001_015261	
-ETC_20151001_015262	
-ETC_20151001_015263	
-ETC_20151001_015264	
-ETC_20151001_015265	
-ETC_20151001_015266	
-ETC_20151001_015267	
-ETC_20151001_015268	
-ETC_20151001_015269	
-ETC_20151001_015270	
-ETC_20151001_015271	
-ETC_20151001_015272	
-ETC_20151001_015273	
-ETC_20151001_015274	
-ETC_20151001_015275	
-ETC_20151001_015276	
-ETC_20151001_015277	{memo X}
-ETC_20151001_015278	{memo X}
-ETC_20151001_015279	{memo X}
-ETC_20151001_015280	
-ETC_20151001_015281	
+ETC_20151001_015254	The device to restrain the goddess
+ETC_20151001_015255	The device to absorb the vitalities
+ETC_20151001_015256	Cruvina Suppressor
+ETC_20151001_015257	Cruvina Suppressor
+ETC_20151001_015258	The crystal sphere of the goddess
+ETC_20151001_015259	The gigantic fruit forest_32_3
+ETC_20151001_015260	The gigantic fruit forest_32_4
+ETC_20151001_015261	The diary of Agatas
+ETC_20151001_015262	Omninous Seal Device
+ETC_20151001_015263	Stone Grave
+ETC_20151001_015264	Niyolle
+ETC_20151001_015265	PILGRIM_36_2_SQ_010To start quest
+ETC_20151001_015266	PILGRIM_36_2_SQ_020To complete quest
+ETC_20151001_015267	PILGRIM_36_2_SQ_050To complete quest
+ETC_20151001_015268	PILGRIM_36_2_SQ_150To start quest
+ETC_20151001_015269	Kepa that was put temporarily for a test
+ETC_20151001_015270	The corpse of the pilgrim Matas
+ETC_20151001_015271	Advice on restoring the records
+ETC_20151001_015272	Advice on collecting the divine objects
+ETC_20151001_015273	PILGRIM_48_SQ_050Trigger for quest
+ETC_20151001_015274	PILGRIM_48_SQ_060For quest
+ETC_20151001_015275	Thorny Vines Forest Dungeon
+ETC_20151001_015276	The corpse of the soldier
+ETC_20151001_015277	1st pole
+ETC_20151001_015278	2nd pole
+ETC_20151001_015279	3rd pole
+ETC_20151001_015280	4th pole to summon
+ETC_20151001_015281	Bracken Forest63_1
 ETC_20151001_015282	Tracer Talbasi
 ETC_20151001_015283	Tracer Sendal
 ETC_20151001_015284	Informer Dziugus
@@ -15296,13 +15296,13 @@ ETC_20151001_015297	Mayor Romanas
 ETC_20151001_015298	Immigrant Dallanas
 ETC_20151001_015299	Immigrant Ivanayus
 ETC_20151001_015300	Immigrant Izna
-ETC_20151001_015301	
+ETC_20151001_015301	Maple Forest25_2
 ETC_20151001_015302	Romuva Magic Circle Orb
 ETC_20151001_015303	Neres Magic Circle Orb
 ETC_20151001_015304	Monsters have gathered!
-ETC_20151001_015305	
-ETC_20151001_015306	
-ETC_20151001_015307	
+ETC_20151001_015305	Destroy the lump that spread the scent which lures monsters!
+ETC_20151001_015306	Protect Guus from the monsters rushing in!
+ETC_20151001_015307	Monsters are rushing in again!
 ETC_20151001_015308	Battle Start!
 ETC_20151001_015309	Team 2 Wins
 ETC_20151001_015310	Team 1 Wins
@@ -15332,12 +15332,12 @@ ETC_20151001_015333	It starts after 10 seconds
 ETC_20151001_015334	Defeat the rattling Necroventer!
 ETC_20151001_015335	Small Crystal
 ETC_20151001_015336	Destroy the red crystal emanating with red energy!
-ETC_20151001_015337	
+ETC_20151001_015337	The energies that are gathered again to the pole gives you the blessing!
 ETC_20151001_015338	The red crystal has been destroyed!
 ETC_20151001_015339	Now, the last crystal remains!
 ETC_20151001_015340	The Vubbes are attacking the crystal!
-ETC_20151001_015341	
-ETC_20151001_015342	
+ETC_20151001_015341	The next attacks of Vubbes continue!
+ETC_20151001_015342	Vubbes are pouring the last attack!
 ETC_20151001_015343	The crystal has been destroyed because of the Vubbe's attack!
 ETC_20151001_015344	
 ETC_20151001_015345	
@@ -15861,29 +15861,29 @@ ETC_20151016_015863
 ETC_20151016_015864
 ETC_20151016_015865
 ETC_20151016_015866	No, please don't do that!
-ETC_20151016_015867
-ETC_20151016_015868
-ETC_20151016_015869
-ETC_20151016_015870
-ETC_20151016_015871
-ETC_20151016_015872
+ETC_20151016_015867	He... No!!
+ETC_20151016_015868	Why are you...
+ETC_20151016_015869	It is not appropriate to write something on it
+ETC_20151016_015870	You've found adequate stones!{nl}Tell Amanda
+ETC_20151016_015871	You've torn off an adequate component
+ETC_20151016_015872	You've brought the spirit to the platform of the confessions
 ETC_20151016_015873	Now, tell me.
 ETC_20151016_015874	I will never tell you!
 ETC_20151016_015875	Please don't!
-ETC_20151016_015876
-ETC_20151016_015877
-ETC_20151016_015878
-ETC_20151016_015879
-ETC_20151016_015880
-ETC_20151016_015881
-ETC_20151016_015882
+ETC_20151016_015876	What is the device that was destroyed by Ruklys!
+ETC_20151016_015877	Persuading to go back to the goddess
+ETC_20151016_015878	I will follow you...
+ETC_20151016_015879	There aren't useful components
+ETC_20151016_015880	Destroying Demon Totems
+ETC_20151016_015881	Retreat Order!
+ETC_20151016_015882	Blew the horn to order for retreat
 ETC_20151016_015883	Checking the Trace
-ETC_20151016_015884
-ETC_20151016_015885
-ETC_20151016_015886
-ETC_20151016_015887
-ETC_20151016_015888
-ETC_20151016_015889
+ETC_20151016_015884	Roge
+ETC_20151016_015885	The beads no longer can be seen
+ETC_20151016_015886	Monsters appeared
+ETC_20151016_015887	You can't find anything
+ETC_20151016_015888	There are people
+ETC_20151016_015889	You've obtained Braken Herb
 ETC_20151016_015890	Collecting Herbs
 ETC_20151016_015891	The material item is currently locked.
 ETC_20151016_015892	Failed to lock the item. Please try again.
@@ -15893,26 +15893,26 @@ ETC_20151016_015895	Inesa Hamondale
 ETC_20151016_015896	Guard
 ETC_20151016_015897	Urbonas   {nl}Orsha Bishop
 ETC_20151016_015898	Soldier's Tomb
-ETC_20151016_015899
-ETC_20151016_015900
-ETC_20151016_015901
-ETC_20151016_015902
-ETC_20151016_015903
-ETC_20151016_015904
-ETC_20151016_015905
-ETC_20151016_015906
+ETC_20151016_015899 The platform of confessions
+ETC_20151016_015900	The foundation stone of the defensive magic field
+ETC_20151016_015901	The defensive trap at the battle field
+ETC_20151016_015902	Braken Forest 63-1
+ETC_20151016_015903	Braken Forest 63-3
+ETC_20151016_015904	Braken Forest 42_1
+ETC_20151016_015905	Braken Herbs
+ETC_20151016_015906	Liaison Officer Mardas
 ETC_20151016_015907	Owl Chief Sculpture
 ETC_20151016_015908	Karolis Altar
 ETC_20151016_015909	Karolis' Light
 ETC_20151016_015910	Karolis Sanctuary
-ETC_20151016_015911
+ETC_20151016_015911 The tower of spirit control
 ETC_20151016_015912	Free Dungeon
 ETC_20151016_015913	Incomplete Kruvina
 ETC_20151016_015914	Energy of Life
-ETC_20151016_015915
-ETC_20151016_015916
-ETC_20151016_015917
-ETC_20151016_015918
+ETC_20151016_015915 For effects of flame bombs
+ETC_20151016_015916 Golden Pole
+ETC_20151016_015917 Silver Pole
+ETC_20151016_015918 Bronze Pole
 ETC_20151016_015919	Officer Lutas
 ETC_20151016_015920	Defeat the Gray Golem and Carapace!
 
