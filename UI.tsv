@@ -140,7 +140,7 @@ UI_20150317_000139	{@st49}{a SAVE_EDIT_SPRAY}Save{/}{/}
 UI_20150317_000140	{@st49}{a LOAD_EDIT_SPRAY}Import{/}{/}
 UI_20150317_000141	{@st49}Close{/}
 UI_20150317_000142	{@st43} Companion Adoption
-UI_20150317_000143	{@st59} Enter the name of your newly adopted companion {/}
+UI_20150317_000143	{@st59} Enter the name of your newly adopted Companion {/}
 UI_20150317_000144	{@st41b}Name{/}
 UI_20150317_000145	{@st41b}Price %s{/}
 UI_20150317_000146	{@st59}Close the Companion Adoption window {/}
@@ -410,13 +410,13 @@ UI_20150317_000409	Object
 UI_20150317_000410	{@st43}Necronomicon{/}
 UI_20150317_000411	{@st59}Close Necronomicon UI{/}
 UI_20150317_000412	{memo X}{@st59}I am too lazy to think.{/}
-UI_20150317_000413	Summoning Item : {#ffcc33}%s{/}
+UI_20150317_000413	Summoned Creature : {#ffcc33}%s{/}
 UI_20150317_000414	{memo X}Undead Harpy
 UI_20150317_000415	{memo X}Skill : %s
 UI_20150317_000416	{memo X}Skill 1, Skill 2
 UI_20150317_000417	{memo X}Fragments needed : %s
 UI_20150317_000418	{memo X}Beast 60 / Insect 20/ Mutant 10
-UI_20150317_000419	Number of fragments
+UI_20150317_000419	Number of Fragments
 UI_20150317_000420	{memo X}Parts 1
 UI_20150317_000421	{memo X}Parts 2
 UI_20150317_000422	{memo X}Parts 3
@@ -1318,7 +1318,7 @@ UI_20150323_001317	{@st43}Grimoire{/}
 UI_20150323_001318	{@st59}Close the Grimoire UI{/}
 UI_20150323_001319	{memo X}My Summon Skill
 UI_20150323_001320	Main Card
-UI_20150323_001321	Sub Card
+UI_20150323_001321	Secondary Card
 UI_20150323_001322	{memo X}Stat
 UI_20150323_001323	{memo X}CON
 UI_20150323_001324	{memo X}INT
@@ -1462,7 +1462,7 @@ UI_20150406_001461	{memo X}{@st41b}Camp Duration
 UI_20150406_001462	{memo X}{@st42b}A base camp lasts for an additional 24 hours when renewed. {nl}%s silver is consumed.
 UI_20150406_001463	{memo X}{@st41}Remove Camp
 UI_20150406_001464	{memo X}{@st42}Remove Table
-UI_20150406_001465	{@st59b}Grimoire{nl}{@st59s} - Place card on deck and begin summon{/}
+UI_20150406_001465	{@st59b}Grimoire{nl}{@st59s} - Place a card on the deck to start summoning{/}
 UI_20150406_001466	{memo X}{@st41}My Summon Skill
 UI_20150406_001467	{memo X}{@st41}Stat
 UI_20150406_001468	{@st41b}Offerings Box Name
@@ -1787,7 +1787,7 @@ UI_20150918_001786	{#000000}Entry Count{/}
 UI_20150918_001787	{#000000}The number of entries will reset at %s.{/}
 UI_20150918_001788	{img silver 20 20} Price
 UI_20150918_001789	Nearby Party Info
-UI_20150918_001790	Fragments needed : %s 
+UI_20150918_001790	Required Fragments : %s 
 UI_20150918_001791	{@st66b}Empty
 UI_20150918_001792	{@st42}Show Nearby Parties{/}
 UI_20150918_001793	Friendship with {@sti9}%s{@st66b} : {@st66b}Level{/} {@sti9}%s {@st66b}
@@ -1823,10 +1823,10 @@ UI_20151016_001822 	Guild Name and Description
 UI_20151016_001823 	Team Name
 UI_20151016_001824	Title
 UI_20151016_001825 	Notice
-UI_20151022_001826	
-UI_20151022_001827	
-UI_20151022_001828	
-UI_20151022_001829	
-UI_20151023_001830	{@st41b}NXP{/}
-UI_20151023_001831	{@st41}NXP
-UI_20151023_001832	NXP
+UI_20151022_001826	{@st41}Server Queue
+UI_20151022_001827	{#000000}{s18}The server is currently full. Queueing for entry.
+UI_20151022_001828	{@st66b18}Current Position : %s
+UI_20151022_001829	{@st66b}Show Other Character's Effects
+UI_20151023_001830	{@st41b}iCoin{/}
+UI_20151023_001831	{@st41}iCoin
+UI_20151023_001832	iCoin
