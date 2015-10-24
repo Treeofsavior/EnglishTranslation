@@ -12,7 +12,7 @@ UI_20150317_000011	{@st41}Are you sure you want to craft this type of arrow?{/}
 UI_20150317_000012	{@st41b}Once{/}
 UI_20150317_000013	{@st41b}All{/}
 UI_20150317_000014	{@st41b}Pause{/}
-UI_20150317_000015	{@st43}Adventure Log{/}
+UI_20150317_000015	{@st43}Adventure Journal{/}
 UI_20150317_000016	{@st43}Auction House{/}
 UI_20150317_000017	{@st59}Close the Auction House{/}
 UI_20150317_000018	{memo X}{@st41b}Items Sold : ×%s, Items Unsold : ×%s{/}
@@ -1123,9 +1123,9 @@ UI_20150317_001122	Like HP
 UI_20150317_001123	{@st59}Hair Accessories{/}
 UI_20150317_001124	{@st59}Subsidiary Accessories{/}
 UI_20150317_001125	{@St42}Text{/}
-UI_20150317_001126	Name of a default content
-UI_20150317_001127	Name of a default group
-UI_20150317_001128	Name of a default item
+UI_20150317_001126	Basic content name
+UI_20150317_001127	Basic group name
+UI_20150317_001128	Basic item name
 UI_20150317_001129	Mr Kim
 UI_20150317_001130	Weight : %s
 UI_20150317_001131	N/A
@@ -1243,7 +1243,7 @@ UI_20150317_001242	{memo X}Consume iCoins
 UI_20150317_001243	Category Name
 UI_20150317_001244	This is a Help
 UI_20150317_001245	{@Sti7}%s Points{/}
-UI_20150317_001246	{@st41b}%s score
+UI_20150317_001246	{@st41b}%s Score
 UI_20150317_001247	Clear Quest 25
 UI_20150317_001248	[Sub]Thron Forest
 UI_20150317_001249	{@St42}Equipped Item
@@ -1272,7 +1272,7 @@ UI_20150317_001271	{@St41b}Craft
 UI_20150317_001272	{memo X}{@St41b}Price : %s{/}
 UI_20150317_001273	{@Sti5}Price : %s{/}
 UI_20150317_001274	{@Sti9} Party Quest (%s){/}
-UI_20150317_001275	{@st41_yellow} Map Explored %s% {/}
+UI_20150317_001275	{@st41_yellow} Exploration Rate %s% {/}
 UI_20150317_001276	{@st41_yellow} Score %s {/}
 UI_20150317_001277	{@st42b}{b}Achievement Rate{/}
 UI_20150317_001278	{@st59}Join Party Quest{/}
@@ -1381,7 +1381,7 @@ UI_20150323_001380	{memo X}{@st59}Alt+Z to change weapons{/}
 UI_20150323_001381	{@st59}Save Lodge Settings{/}
 UI_20150323_001382	Change Lodge
 UI_20150323_001383	{@st59}Close Change Lodge Window
-UI_20150323_001384	{@st59}Change Lodge{nl} - Change the map and expand the number of available characters by changing your Lodge. 
+UI_20150323_001384	{memo X}{@st59}Change Lodge{nl} - Change the map and expand the number of available characters by changing your Lodge. 
 UI_20150323_001385	{memo X}{@st41}Cancel Preview
 UI_20150323_001386	{memo X}{@st46}My iCoins : %s{/}
 UI_20150323_001387	{memo X}{@st41b}Change Lodge{/}
@@ -1441,11 +1441,11 @@ UI_20150401_001440	{@st41b}Achievements{/}
 UI_20150401_001441	Hairstyle Color
 UI_20150401_001442	Available Titles
 UI_20150401_001443	{memo X}{@st41b}Joystick UI mode{/}
-UI_20150401_001444	{@st41}{#ffffcc}Name
-UI_20150401_001445	{@st41}{#ffffcc}Price
-UI_20150401_001446	{@st41}{#ffffcc}Status
-UI_20150401_001447	{@st41b}Cancel Preview
-UI_20150401_001448	{@st41}{#ffff00}My iCoins : %s{/}
+UI_20150401_001444	{memo X}{@st41}{#ffffcc}Name
+UI_20150401_001445	{memo X}{@st41}{#ffffcc}Price
+UI_20150401_001446	{memo X}{@st41}{#ffffcc}Status
+UI_20150401_001447	{memo X}{@st41b}Cancel Preview
+UI_20150401_001448	{memo X}{@st41}{#ffff00}My iCoins : %s{/}
 UI_20150401_001449	Equipped
 UI_20150401_001450	{memo X}Description : {#FFFF00}%s{/}
 UI_20150401_001451	{memo X}Average Level : {#FFFF00}%s{/}
@@ -1747,9 +1747,9 @@ UI_20150729_001746	{@st41b}Recommended Player List{/}
 UI_20150729_001747	{@st41}Attribute Information
 UI_20150729_001748	{@st59}Cancel Enhancement{/}
 UI_20150729_001749	{@st59b}Gem/Card Enhancement{nl}{@st59s} - Select a gem or card from your inventory to enhance it.{nl} - All items with exception of quest items can be used as materials for enhancing gems.{nl} (Most effective when using a gem as material){nl} - Cards can only be enhanced by using other cards.{/}
-UI_20150729_001750	{#000000}{s22}Waiting to enter the server...
-UI_20150729_001751	{#000000}{s22}The server is full. Queueing for entry.
-UI_20150729_001752	{#000000}{s22}Current Rank : %s
+UI_20150729_001750	{memo X}{#000000}{s22}Server Queue
+UI_20150729_001751	{memo X}{#000000}{s22}The server is currently full. Queueing for entry.
+UI_20150729_001752	{memo X}{#000000}{s22}Current Position : %s
 UI_20150729_001753	{@st43}Team Battle League
 UI_20150729_001754	{@st59}Close Team Battle League
 UI_20150729_001755	{@st42}Team Battle League Schedule
@@ -1812,14 +1812,21 @@ UI_20151001_001811	{@st43}Key Settings{/}
 UI_20151001_001812	{@st45tw2}Category
 UI_20151001_001813	Action
 UI_20151001_001814	Restore defaults
-UI_20151016_001815	{@st59}The selected item will be locked.{/}
+UI_20151016_001815	{@st59}The selected item will be locked{/}
 UI_20151016_001816	{@st59}You can change the theme of your lodge and preview it.
 UI_20151016_001817	%s Characters{/}
 UI_20151016_001818	{@st42b}Preview
 UI_20151016_001819	{@st42b}Return
 UI_20151016_001820	{@st42b}Purchase
 UI_20151016_001821	{@st42b}Apply
-UI_20151016_001822  Guild Name and Description
+UI_20151016_001822 	Guild Name and Description
 UI_20151016_001823 	Team Name
 UI_20151016_001824	Title
 UI_20151016_001825 	Notice
+UI_20151022_001826	
+UI_20151022_001827	
+UI_20151022_001828	
+UI_20151022_001829	
+UI_20151023_001830	{@st41b}NXP{/}
+UI_20151023_001831	{@st41}NXP
+UI_20151023_001832	NXP
