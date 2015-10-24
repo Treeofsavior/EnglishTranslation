@@ -3,22 +3,13 @@
 **GUIDELINES IN WIKI HAVE BEEN UPDATED** <br>
 **PLEASE CHECK THE [GUIDELINES](https://github.com/Treeofsavior/EnglishTranslation/wiki/Guidelines) BEFORE SENDING YOUR PULL REQUESTS.**
 
-We’d like to thank our Contributors in helping us shape the English version of Tree of Savior. 
-
-As a token of our appreciation, we will be securing Beta Keys for our Github Contributors in the upcoming 2nd iCBT.
-
-If you have contributed at least 100 lines by today, you will receive 3 Beta Keys via email regardless of your selection as Tester in the Official Website.
-
-In order to receive the keys, PLEASE MAKE SURE YOU AUTHENTICATE AND LINK your Github ID to the official website’s account. 
-If the accounts are not linked by Oct 22, you WILL NOT be able to receive the Beta Keys.
-
 You may check the list of those who qualify for the Beta Keys [**HERE**](https://github.com/Treeofsavior/EnglishTranslation/issues/1266)
 
 Thank you and please continue to send us your support and interest for Tree of Savior.
 
 1. Latest translations have been updated for 2nd iCBT. (**NEW**)
 
-2. {memo X} have been updated to English files.
+2. {memo X} have been updated to English files. (**NEW**)
 
 3. Please send a separate Pull Request for EACH FILE. 
 
