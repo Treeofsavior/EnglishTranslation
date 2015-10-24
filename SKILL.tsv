@@ -1816,8 +1816,8 @@ SKILL_20150317_001815	Casting skills will not be canceled during casting.
 SKILL_20150317_001816	{memo X}Casting speed of the next casting skill becomes faster.
 SKILL_20150317_001817	Shock
 SKILL_20150317_001818	Reduced INT and SPR.
-SKILL_20150317_001819	Increased critical attack
-SKILL_20150317_001820	Decreased critical resistance
+SKILL_20150317_001819	Increased Critical Attack
+SKILL_20150317_001820	Decreased Critical Resistance
 SKILL_20150317_001821	{memo X}Divine Stigma buff
 SKILL_20150317_001822	Status increased.
 SKILL_20150317_001823	HP is restore while activated.
@@ -3086,7 +3086,7 @@ SKILL_20150323_003085	$Resist Elements
 SKILL_20150323_003086	Critical rate is higher when attacking from behind.
 SKILL_20150323_003087	Periodic decrease of SP and damage
 SKILL_20150323_003088	Remove harmful effects
-SKILL_20150323_003089	Periodic SP decrease state
+SKILL_20150323_003089	Periodically decreases your SP
 SKILL_20150323_003090	Throw right-hand weapon
 SKILL_20150323_003091	Evasion rate decrease
 SKILL_20150323_003092	Evasion rate increase
@@ -4475,7 +4475,7 @@ SKILL_20150714_004474	{memo X}While charging [Meteor], Evasion will increase by 
 SKILL_20150714_004475	{memo X}Resistances to Fire, Ice, Lightning Properties will increase by 5 per Attribute level.
 SKILL_20150714_004476	$Rain: Monsoon
 SKILL_20150714_004477	$Has a chance to double the duration of [Rain]. Increases the chance by 5% per attribute level.
-SKILL_20150714_004478	$Increases the damage dealt on an enemy with [Summon Spiritual Demon] by 1% per attribute level.
+SKILL_20150714_004478	$Increases the damage dealt on an enemy with [Summon Familiar] by 1% per attribute level.
 SKILL_20150714_004479	{memo X}When the Spiritual Demon explodes itself from the skill [Summon Spiritual Demon], it will inflict damage on nearby enemies with 1% probability per Attribute level.
 SKILL_20150714_004480	$Increases the character's SP recovery rate by 1 per attribute level. 
 SKILL_20150714_004481	$Attack Ground: Cooldown Decrease
@@ -5358,22 +5358,22 @@ SKILL_20151022_005357
 SKILL_20151022_005358	
 SKILL_20151022_005359	
 SKILL_20151022_005360	
-SKILL_20151022_005361	
+SKILL_20151022_005361	$Attaque Composee
 SKILL_20151022_005362	
-SKILL_20151022_005363	
+SKILL_20151022_005363	$Lunge
 SKILL_20151022_005364	
 SKILL_20151022_005365	
-SKILL_20151022_005366	
+SKILL_20151022_005366	$Sept Etoiles
 SKILL_20151022_005367	
-SKILL_20151022_005368	
+SKILL_20151022_005368	$Attaque Coquille
 SKILL_20151022_005369	
-SKILL_20151022_005370	
+SKILL_20151022_005370	$Esquive Toucher	
 SKILL_20151022_005371	
 SKILL_20151022_005372	
-SKILL_20151022_005373	
+SKILL_20151022_005373	$Preparation
 SKILL_20151022_005374	
 SKILL_20151022_005375	
-SKILL_20151022_005376	
+SKILL_20151022_005376	$Flanconnade
 SKILL_20151022_005377	
 SKILL_20151022_005378	
 SKILL_20151022_005379	
@@ -5415,8 +5415,8 @@ SKILL_20151022_005414
 SKILL_20151022_005415	
 SKILL_20151022_005416	
 SKILL_20151022_005417	
-SKILL_20151022_005418	
-SKILL_20151022_005419	
+SKILL_20151022_005418	$Use Rifles
+SKILL_20151022_005419	$Enables you to equip the [Rifle] weapon type.
 SKILL_20151022_005420	
 SKILL_20151022_005421	
 SKILL_20151022_005422	
@@ -5425,82 +5425,82 @@ SKILL_20151022_005424
 SKILL_20151022_005425	
 SKILL_20151022_005426	
 SKILL_20151022_005427	
-SKILL_20151022_005428	
+SKILL_20151022_005428	$Rapier Mastery: Aggression
 SKILL_20151022_005429	
-SKILL_20151022_005430	
-SKILL_20151022_005431	
-SKILL_20151022_005432	
-SKILL_20151022_005433	
-SKILL_20151022_005434	
-SKILL_20151022_005435	
-SKILL_20151022_005436	
-SKILL_20151022_005437	
-SKILL_20151022_005438	
-SKILL_20151022_005439	
-SKILL_20151022_005440	
-SKILL_20151022_005441	
-SKILL_20151022_005442	
+SKILL_20151022_005430	$Attaque Composee: Enhance
+SKILL_20151022_005431	$Increases the damage dealt on an enemy with [Attaque Composee] by 1% per attribute level.
+SKILL_20151022_005432	$Lunge: Enhance
+SKILL_20151022_005433	$Increases the damage dealt on an enemy with [Lunge] by 1% per attribute level.
+SKILL_20151022_005434	$Sept Etoiles: Enhance
+SKILL_20151022_005435	$Increases the damage dealt on an enemy with [Sept Etoiles] by 1% per attribute level.
+SKILL_20151022_005436	$Attaque Coquille: Enhance
+SKILL_20151022_005437	$Increases the damage dealt on an enemy with [Attaque Coquille] by 1% per attribute level.
+SKILL_20151022_005438	$Esquive Toucher: Enhance
+SKILL_20151022_005439	$Increases the damage dealt on an enemy with [Esquive Toucher] by 1% per attribute level.
+SKILL_20151022_005440	$Flanconnade: Enhance
+SKILL_20151022_005441	$Increases the damage dealt on an enemy with [Flanconnade] by 1% per attribute level.
+SKILL_20151022_005442	$Summon Servant: Quick Order
 SKILL_20151022_005443	
-SKILL_20151022_005444	
+SKILL_20151022_005444	$Slow: Nullify Decrease
 SKILL_20151022_005445	
-SKILL_20151022_005446	
+SKILL_20151022_005446	$Haste: Evasion Increase
 SKILL_20151022_005447	
-SKILL_20151022_005448	
+SKILL_20151022_005448	$Stop: SP Decrease
 SKILL_20151022_005449	
 SKILL_20151022_005450	
 SKILL_20151022_005451	
-SKILL_20151022_005452	
+SKILL_20151022_005452	$Wugushi: Poison Reserve
 SKILL_20151022_005453	
-SKILL_20151022_005454	
+SKILL_20151022_005454	$Jincan Gu: Evasion Rate Decrease
 SKILL_20151022_005455	
-SKILL_20151022_005456	
+SKILL_20151022_005456	$Zhendu: Poison Resistance Decrease
 SKILL_20151022_005457	
-SKILL_20151022_005458	
+SKILL_20151022_005458	$Capturing: Ally Magic Circle
 SKILL_20151022_005459	
-SKILL_20151022_005460	
-SKILL_20151022_005461	
-SKILL_20151022_005462	
-SKILL_20151022_005463	
-SKILL_20151022_005464	
+SKILL_20151022_005460	$Hovering: Enhance
+SKILL_20151022_005461	$Increases the damage dealt on an enemy with [Hovering] by 1% per attribute level.
+SKILL_20151022_005462	$Pheasant: Enhance
+SKILL_20151022_005463	$Increases the damage dealt on an enemy with [Pheasant] by 1% per attribute level.
+SKILL_20151022_005464	$Circling: Nullify Decrease
 SKILL_20151022_005465	
 SKILL_20151022_005466	
 SKILL_20151022_005467	
-SKILL_20151022_005468	
+SKILL_20151022_005468	$Retreat Shot: Nullify Increase
 SKILL_20151022_005469	
-SKILL_20151022_005470	
-SKILL_20151022_005471	
-SKILL_20151022_005472	
-SKILL_20151022_005473	
-SKILL_20151022_005474	
-SKILL_20151022_005475	
-SKILL_20151022_005476	
-SKILL_20151022_005477	
-SKILL_20151022_005478	
-SKILL_20151022_005479	
-SKILL_20151022_005480	
-SKILL_20151022_005481	
-SKILL_20151022_005482	
+SKILL_20151022_005470	$Cannon Shot: Enhance
+SKILL_20151022_005471	$Increases the damage dealt on an enemy with [Cannon Shot] by 1% per attribute level.
+SKILL_20151022_005472	$Shootdown: Enhance
+SKILL_20151022_005473	$Increases the damage dealt on an enemy with [Shootdown] by 1% per attribute level.
+SKILL_20151022_005474	$Siege Burst: Enhance
+SKILL_20151022_005475	$Increases the damage dealt on an enemy with [Siege Burst] by 1% per attribute level.
+SKILL_20151022_005476	$Cannon Blast: Enhance
+SKILL_20151022_005477	$Increases the damage dealt on an enemy with [Cannon Blast] by 1% per attribute level.
+SKILL_20151022_005478	$Increases the attack count of [Blessing] by 10 per attribute level.
+SKILL_20151022_005479	$Carve Austras Koks: Maintain
+SKILL_20151022_005480	$Increases the duration instead of range of [Carve Austras Koks] by 10 seconds.
+SKILL_20151022_005481	$Carve Goddess Ausrine: Cooldown Decrease
+SKILL_20151022_005482	$Decreases the cooldown of [Carve Goddess Ausrine] by 10 seconds.
 SKILL_20151022_005483	
 SKILL_20151022_005484	
 SKILL_20151022_005485	
-SKILL_20151022_005486	
-SKILL_20151022_005487	
-SKILL_20151022_005488	
-SKILL_20151022_005489	
-SKILL_20151022_005490	
-SKILL_20151022_005491	
-SKILL_20151022_005492	
-SKILL_20151022_005493	
-SKILL_20151022_005494	
-SKILL_20151022_005495	
-SKILL_20151022_005496	
-SKILL_20151022_005497	
-SKILL_20151022_005498	
-SKILL_20151022_005499	
-SKILL_20151022_005500	
-SKILL_20151022_005501	
-SKILL_20151022_005502	
-SKILL_20151022_005503	
-SKILL_20151022_005504	
-SKILL_20151022_005505	
-SKILL_20151022_005506	
+SKILL_20151022_005486	$Resist Elements: Enhance
+SKILL_20151022_005487	$Increases the property resistance of [Resist Elements] by 1 per attribute level.
+SKILL_20151022_005488	$Magic Defense Increase: Duration
+SKILL_20151022_005489	$Increases the duration of [Magic Defense Increase] by 1% per attribute level.
+SKILL_20151022_005490	$Druid: Animal-type Speciality
+SKILL_20151022_005491	$Increases the critical rate of the transformed animal-type monster via [Shape Shifting] or [Transform] by 10% per attribute level.
+SKILL_20151022_005492	$Druid: Plant-type Speciality
+SKILL_20151022_005493	$Increases the HP recovery and SP recovery of the transformed plant-type monster via [Shape Shifting] or [Transform] by 10% per attribute level.
+SKILL_20151022_005494	$Druid: Insect-type Speciality
+SKILL_20151022_005495	$Increases the defense and magic defense of the transformed insect-type monster via [Shape Shifting] or [Transform] by 8% per attribute level.
+SKILL_20151022_005496	$Resetting: Cooldown Decrease
+SKILL_20151022_005497	$Decreases the cooldown of [Resetting] by 30 seconds.
+SKILL_20151022_005498	$Forecast: Nullify Increase
+SKILL_20151022_005499	$Increases the chance to nullify an enemy's attack while activating [Forecast] by 1% per attribute level.
+SKILL_20151022_005500	$Arcane Energy: Duration
+SKILL_20151022_005501	$Increases the duration of [Arcane Energy] by 1 minute per attribute level.
+SKILL_20151022_005502	$Death Sentence: Slow
+SKILL_20151022_005503	$Decreases the movement speed of the enemy affected by [Death Sentence] by 15% per attribute level.
+SKILL_20151022_005504	$Lv2 Jolly Roger required
+SKILL_20151022_005505	$Lv3 Resist Elements required
+SKILL_20151022_005506	$Lv3 Summon Servant required
