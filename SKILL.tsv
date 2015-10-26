@@ -5334,7 +5334,7 @@ SKILL_20151016_005333	{memo X}$Rapier Master: Pierce
 SKILL_20151016_005334	{memo X}$Increases your [Pierce] damage by 5% per attribute level when equipped with a [Rapier]. (Does not apply to basic attacks)
 SKILL_20151016_005335	$Increases your fire property attack by 3 per attribute level when equipped with a [Staff].
 SKILL_20151016_005336	$Subzero Shield: Counterattack Enhance
-SKILL_20151016_005337	$When you block enemies' attacks using [Sub-Zero Shield] while equipped with a shield, there will be greater counter attack damage based on the Shield's DEF. The counter attack damage will be 50% per attribute level.
+SKILL_20151016_005337	$When you block enemies' attacks using [Sub-Zero Shield] while equipped with a shield, there will be greater counter attack damage based on the Shield's defense. The counter attack damage will be 50% per attribute level.
 SKILL_20151016_005338	$Shield Mastery: Enchant
 SKILL_20151016_005339	$Increases your ice property resistance and the defense of your shield corresponding the magic defense. The corresponding value applies to 25% per attribute level. 
 SKILL_20151016_005340	$Freezing Sphere: Enhance
@@ -5374,7 +5374,7 @@ SKILL_20151022_005373	$Preparation
 SKILL_20151022_005374	$Twirl the tip of your sword to parry an enemy attack and prepare for the next attack. The next [Pierce] attack you make will inflict twice as much damage.
 SKILL_20151022_005375	$Maximum Duration: #{CaptionRatio2}# seconds{nl}Block Rate +#{CaptionRatio}#%{nl}Duration: 15 seconds
 SKILL_20151022_005376	$Flanconnade
-SKILL_20151022_005377	${#DD5500}{ol}[Physical] - [Slash]{/}{/}Perform a complex upward attack with your rapier. This attack temporarily increases your block rate.
+SKILL_20151022_005377	${#DD5500}{ol}[Physical] - [Slash]{/}{/}Perform a complex upward attack with your rapier. Temporarily increases your block rate.
 SKILL_20151022_005378	
 SKILL_20151022_005379	
 SKILL_20151022_005380	
@@ -5392,7 +5392,7 @@ SKILL_20151022_005391
 SKILL_20151022_005392	$Carve a sculpture of Ausrine, the Goddess of the Morning Star. Those in your party who circle around the sculpture counter-clockwise are granted divine protection and become immune to damage temporarily.
 SKILL_20151022_005393	
 SKILL_20151022_005394	$You and your party members are temporarily granted an increase in fire, ice, lightning, poison, and earth resistances, and have a chance of nullifying attacks from those properties.
-SKILL_20151022_005395	$Increased Resistance: +#{CaptionRatio}#{nl}Nullification Chance: #{CaptionRatio2}#%{nl}Duration: #{CaptionTime}# seconds
+SKILL_20151022_005395	$Property Resistance: +#{CaptionRatio}#{nl}Nullification Chance: #{CaptionRatio2}#%{nl}Duration: #{CaptionTime}# seconds
 SKILL_20151022_005396	$Gather energy and blast it forward. Enemies take damage and are pushed away.
 SKILL_20151022_005397	
 SKILL_20151022_005398	
@@ -5442,7 +5442,7 @@ SKILL_20151022_005441	$Increases the damage dealt on an enemy with [Flanconnade]
 SKILL_20151022_005442	$Summon Servant: Quick Order
 SKILL_20151022_005443	$The servant applies beneficial effects more often.
 SKILL_20151022_005444	$Slow: Nullify Decrease
-SKILL_20151022_005445	$Enemies affected by [Slow] get a 6% lower chance per attribute level of nullifying an attack.
+SKILL_20151022_005445	$Decreases the chance of nullifying an attack by 6% per attribute level when enemies are affected by [Slow].
 SKILL_20151022_005446	$Haste: Evasion Increase
 SKILL_20151022_005447	$Increases your evasion by 20 per attribute level while [Haste] is active.
 SKILL_20151022_005448	$Stop: SP Decrease
