@@ -3871,7 +3871,7 @@ SKILL_20150414_003870	Activate aura and increase HP recovery of allies nearby.
 SKILL_20150414_003871	Enemies attacked have chance of creating magic circle of conversion.
 SKILL_20150414_003872	Temporarily increases the proprty resistances of you and your party members.
 SKILL_20150414_003873	Fire, Ice, Lightning Resistance: +#{CaptionRatio}# {nl}Poison, Earth Resistance: +#{CaptionRatio2}#{nl}Buff Duration: #{CaptionTime}# seconds
-SKILL_20150414_003874	May kill mutant or devil-type enemy at once.
+SKILL_20150414_003874	May defeat mutant or devil-type enemy at once.
 SKILL_20150414_003875	{memo X}Make a protective wall that push away enemies and block them from entering.
 SKILL_20150414_003876	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Train your skin as hard as steel to inflict damage by bouncing off the enemy's attack.
 SKILL_20150414_003877	{memo X}Reflect attack amounting to target's Physical attack.{nl}Reflect damage +#{SkillAtkAdd}#{nl}Ranged projectile, cannot defend magic
@@ -4307,7 +4307,7 @@ SKILL_20150714_004306	$Applies your damage of [Rim Blow] to 250% when using [Hig
 SKILL_20150714_004307	$High Guard: Umbo Blow Speciality
 SKILL_20150714_004308	$Applies your damage of [Umbo Blow] to 250% when using [High Guard]. From Lv2, the damage increases by 20% per attribute level.
 SKILL_20150714_004309	$Guardian: Evasion
-SKILL_20150714_004310	$Increases your evasion by 6% per attribute level while [Guardian] is active.
+SKILL_20150714_004310	$Increases the character's evasion by 6% per attribute level while [Guardian] is active.
 SKILL_20150714_004311	$Increases the damage dealt on an enemy with [Cartar Stroke] by 1% per attribute level.
 SKILL_20150714_004312	$Increases the damage dealt on an enemy with [Crown] by 1% per attribute level.
 SKILL_20150714_004313	$Increases the damage dealt on an enemy with [Wagon Wheel] by 1% per attribute level.
@@ -4421,7 +4421,7 @@ SKILL_20150714_004420	$Increases the damage dealt on an enemy with [Ice Blast] b
 SKILL_20150714_004421	$Increases the damage dealt on an enemy with [Snow Rolling] by 1% per attribute level.
 SKILL_20150714_004422	$Increases the chance of inflicting [Freeze] on enemies hit by [Ice Bolt] by 10% per attribute level.
 SKILL_20150714_004423	$Knockbacked enemies by [Gust] will take damage equal to 50% of Magic Attack.  
-SKILL_20150714_004424	$Increases the your ice property attack by 3 per attribute level when equipped with a [Rod].
+SKILL_20150714_004424	$Increases the character's ice property attack by 3 per attribute level when equipped with a [Rod].
 SKILL_20150714_004425	$Ice Wall: Cryorite
 SKILL_20150714_004426	$Cryorite can be dropped with a chance of 1% per attribute level when [Ice Wall] disappears.
 SKILL_20150714_004427	$Subzero Shield: Duration
@@ -4477,7 +4477,7 @@ SKILL_20150714_004476	$Rain: Monsoon
 SKILL_20150714_004477	$Has a chance to double the duration of [Rain]. Increases the chance by 5% per attribute level.
 SKILL_20150714_004478	$Increases the damage dealt on an enemy with [Summon Familiar] by 1% per attribute level.
 SKILL_20150714_004479	{memo X}When the Spiritual Demon explodes itself from the skill [Summon Spiritual Demon], it will inflict damage on nearby enemies with 1% probability per Attribute level.
-SKILL_20150714_004480	$Increases the your SP recovery rate by 1 per attribute level. 
+SKILL_20150714_004480	$Increases the character's SP recovery rate by 1 per attribute level. 
 SKILL_20150714_004481	$Attack Ground: Cooldown Decrease
 SKILL_20150714_004482	{memo X}Cooldown time of [Attack Ground] will be reduced.
 SKILL_20150714_004483	$Hold: Cooldown Decrease
@@ -4612,11 +4612,11 @@ SKILL_20150714_004611	$Increases the damage dealt on an enemy with [Zaibas] by 1
 SKILL_20150714_004612	{memo X}Character's Fire resistance will increase by 5 per Attribute level and the resistance to Darkness will decrease by 3 per Attribute level.
 SKILL_20150714_004613	$Increases the duration of [Daino]'s effect by 40 seconds per attribute level.
 SKILL_20150714_004614	$Aukuras: Fire Property Resistance
-SKILL_20150714_004615	$Increases your fire property resistance by 14 per attribute level while [Aukuras] is active. 
+SKILL_20150714_004615	$Increases the character's fire property resistance by 14 per attribute level while [Aukuras] is active. 
 SKILL_20150714_004616	$Zalciai: Duration
 SKILL_20150714_004617	$Increases the duration of [Zalciai] by 3 seconds per attribute level.
 SKILL_20150714_004618	$Zalciai: Magic Amplification
-SKILL_20150714_004619	$Increases the your magic amplification by 12 per attribute level when [Zalciai] is active.
+SKILL_20150714_004619	$Increases the character's magic amplification by 12 per attribute level when [Zalciai] is active.
 SKILL_20150714_004620	$Divine Stigma: Duration
 SKILL_20150714_004621	$Increases the duration of [Divine Stigma] by 1 second per attribute level.
 SKILL_20150714_004622	$Melstis: Range Increase
@@ -4673,7 +4673,7 @@ SKILL_20150714_004672	$Increases the damage dealt on an enemy with [Smite] by 1%
 SKILL_20150714_004673	{memo X}$Increases the resistance to Fire, Ice, Lightning, Poison and Earth properties by 5 per attribute level when using [Resist Elements].
 SKILL_20150714_004674	$Deals damage equal to 20% magic attack per attribute level to enemies hit with [Barrier].
 SKILL_20150714_004675	$Restoration: SP Recovery
-SKILL_20150714_004676	$Increases the your SP recovery. Increases the SP recovery by 10 per attribute level. 
+SKILL_20150714_004676	$Increases the character's SP recovery. Increases the SP recovery by 10 per attribute level. 
 SKILL_20150714_004677	$Increases the damage dealt on an enemy with [Double Punch] by 1% per attribute level.
 SKILL_20150714_004678	$Increases the damage dealt on an enemy with [Palm Strike] by 1% per attribute level.
 SKILL_20150714_004679	$Increases the damage dealt on an enemy with [Hand Knife] by 1% per attribute level.
@@ -4759,7 +4759,7 @@ SKILL_20150717_004758	$Warcry: Add Target
 SKILL_20150717_004759	[Montano] will afflict the target with [Slow] for 10 seconds and the duration of [Slow] will increase by 3/2/1 seconds based on attribute level to small/medium/large sized monsters, respectively.
 SKILL_20150717_004760	{memo X}Spreads [Flame] equal to amount of attribute level when killing enemy under [Flame] with [Targe Smash].
 SKILL_20150717_004761	There is 1% chance per attribute level for enemies pushed away with [Rush] to fall under [Stun] for 2 seconds.
-SKILL_20150717_004762	Endows Earth Property to the attacks of the skill [Earth Wave]
+SKILL_20150717_004762	Changes the property of [Earth Wave] to earth property.
 SKILL_20150717_004763	Applies [Slow] with a 4 seconds duration after [Arrest] ends. Increases the duration of [Slow] from Lv. 2 by 0.4 seconds per attribute level.
 SKILL_20150717_004764	An enemy hit with [Keelhauling] will be affected by the [Bleeding] status. Increases the duration of [Bleeding] by 1 second per attribute level, the bleeding damage is based on your STR.
 SKILL_20150717_004765	$Phalanx: Slow
@@ -4767,7 +4767,7 @@ SKILL_20150717_004766	Inflicts the Slow status effect when an enemy's attack is 
 SKILL_20150717_004767	$Adds the reflect damage of [Reflect Shield] by 1 per attribute level, but decreases the damage received accordingly.
 SKILL_20150717_004768	$Increases the Physical and Magic Attack debuff effect of [Lethargy] by 1 per attribute level.
 SKILL_20150717_004769	{memo X}Attack monster in [sleep] state with [Enegry Bolt] to give additional damage of 50% of Magic attack.
-SKILL_20150717_004770	$Enemies hit by [Fireball] will receive flame damage for 5 seconds with a 10% chance per attribute level. Flame damage is based on your INT.
+SKILL_20150717_004770	$Enemies hit by [Fireball] will receive flame damage for 5 seconds with a 10% chance per attribute level. Flame damage is based on the character's INT.
 SKILL_20150717_004771	$Increases the Fire property damage for 5 seconds by 5 per attribute level, when an ally steps on [Fire Wall].
 SKILL_20150717_004772	{memo X}When an enemy is near [Enchant Fire] range, the enemy's Fire resistance will decrease by 10% for 5 secs.
 SKILL_20150717_004773	$Enemies hit by [Magnetic Force] can become stunned for 4 seconds by 5% chance per attribute level.
@@ -4823,7 +4823,7 @@ SKILL_20150717_004822	$Increases the chance of stun by 2% per attribute level wh
 SKILL_20150717_004823	$Using basic sword attacks on enemies with [Deprotected Zone] will affect the [Weakened Defense] status effect. Can stack [Weakened Defense] up to 10 times. 
 SKILL_20150717_004824	$Increases the range applied by [Safety Zone] to 15.
 SKILL_20150717_004825	{memo X}HP recovery of [Aukuras] increases by 1 per attribute level.
-SKILL_20150717_004826	$Increases and decreases your fire property resistance by 5 and dark property resistance by 3 per attribute level respectively.
+SKILL_20150717_004826	$Increases and decreases the character's fire property resistance by 5 and dark property resistance by 3 per attribute level respectively.
 SKILL_20150717_004827	[Zaibas] is affected by splash and inflicts damage on multiple target at once. (total count does not increase.)
 SKILL_20150717_004828	{memo X}$Increases the range of [Melstis] to 50. 
 SKILL_20150717_004829	$Sacrament: Dark Property Resistance
@@ -4990,7 +4990,7 @@ SKILL_20150729_004989	$[Heal] will not inflict damage and react to enemies.
 SKILL_20150729_004990	$Increases the range of [Melstis] to 80.
 SKILL_20150729_004991	$Increases the maximum number of zombies from [Zombify] by 1.
 SKILL_20150730_004992	$Summons a devil from the card placed in the Grimoire. The attack and defense of the summoned devil is affected by your INT and SPR. Increases the abilities by 10% proportional to the amount of stars of the card. Only Devil-type cards can be placed in the Grimoire.
-SKILL_20150730_004993	$Creates a Shoggoth based on the card inserted in the Necronomicon. The attack and defense of the summoned devil is affected by your INT and SPR. Increases the abilities by 10% proportional to the amount of stars of the card. Only Animal, Plant and Mutant-type cards can be placed in the Necronomicon.
+SKILL_20150730_004993	$Creates a Shoggoth based on the card placed in the Necronomicon. The attack and defense of the summoned devil is affected by your INT and SPR. Increases the abilities by 10% proportional to the amount of stars of the card. Only Animal, Plant and Mutant-type cards can be placed in the Necronomicon.
 SKILL_20150730_004994	Your companion bites and holds onto a target. Decreases the physical defense of the bitten target. You receive a critical chance bonus against the target.
 SKILL_20150730_004995	$Physical Defense: -#{CaptionRatio}# {nl}Additional Critical Chance: 30%{nl}Duration: #{CaptionTime}# seconds
 SKILL_20150803_004996	$Quick Cast
@@ -5009,7 +5009,7 @@ SKILL_20150803_005008	$Effigy Enhance
 SKILL_20150803_005009	$Increases the attack bonus of Effigy
 SKILL_20150803_005010	$Increases the additional damage of [Concentrate] by 2 per attribute level.
 SKILL_20150803_005011	$Your evasion and magic defense increases by 5% per attribute level when using [Stabbing].
-SKILL_20150803_005012	$Enemies hit by [Pierce] will be affected by [Bleeding] for 6 seconds with a 2% chance. Bleeding damage is proportional to your physical attack. 
+SKILL_20150803_005012	$Enemies hit by [Pierce] will be affected by [Bleeding] for 6 seconds with a 2% chance. Bleeding damage is proportional to the character's physical attack. 
 SKILL_20150803_005013	$Increases the physical damage increase effect of [Warcry] by 3 per attribute level. (This attribute only applies after the enemy's defense is decreased.)
 SKILL_20150803_005014	$Increases the attack increase effect of [Swell Left Arm] by 3 per attribute level.
 SKILL_20150803_005015	$Increases the defense and attack increase effect of [Swell Right Arm] by 3 per attribute level.
@@ -5037,7 +5037,7 @@ SKILL_20150804_005036	$Cartar Stroke: Remove Knockback
 SKILL_20150804_005037	{memo X}Pushing power of [Cartar Stroke] becomes 0. (You will not be pushed if this attribute is ON.)
 SKILL_20150804_005038	$Increases your fire, ice and lightning properties by 5 and from Lv2 it increases by 1 per attribute level. 
 SKILL_20150804_005039	$Increases the reflection of [Iron Skin] by 5% per attribute level.
-SKILL_20150807_005040	While [Aggressor] is active, your added Critical Attack is proportional to the physical attack. Increases an addtional amount by 5% per attribute level.
+SKILL_20150807_005040	While [Aggressor] is active, the character's added Critical Attack is proportional to the physical attack. Increases an addtional amount by 5% per attribute level.
 SKILL_20150918_005041	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Throw shield to attack. Shield drops on target area and you physical defense decreases as much as the epuipment . Shield may be picked up or automatically added to inventory after time limit. Decreased physical defense will be back to normal when the shield is back in inventory.
 SKILL_20150918_005042	$Umbro Thrust
 SKILL_20150918_005043	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use the spike on the shield to strike the enemy. Enemy may temporarily lose armor effects.
