@@ -2370,7 +2370,7 @@ SKILL_20150317_002369	$Increases the chance of stun from [Stone Shot] by 5% per 
 SKILL_20150317_002370	$Rapid Fire: Directional Rotation
 SKILL_20150317_002371	$You can change directions while charging [Rapid Fire] (Not possible when shooting)
 SKILL_20150317_002372	$Stone Picking: Quantity
-SKILL_20150317_002373	$Fixed the number of stone bullets picked by [Stone Picking] to [skill level].
+SKILL_20150317_002373	$Fixes the number of stone bullets picked by [Stone Picking] to be [skill level].
 SKILL_20150317_002374	$Broom Trap: Revolutions Count
 SKILL_20150317_002375	{memo X}Rotation time of [Broom Trap] decreases by 0.2 seconds per attribute level and number of rotations decreases by 1 per attribute level.
 SKILL_20150317_002376	$Claymore: Splash
@@ -3708,7 +3708,7 @@ SKILL_20150414_003707	{memo X}Enlarge size of target. Target has chance of explo
 SKILL_20150414_003708	Change your INT and CON.
 SKILL_20150414_003709	Control enemy's magic circle.
 SKILL_20150414_003710	{memo X}Enlarge the size of your and party members' hand holding shield and sub weapon to increase defense.
-SKILL_20150414_003711	Enlarge the size of your and party members' head to increase INT.
+SKILL_20150414_003711	Enlarge the size of you and your party members' heads to increase INT.
 SKILL_20150414_003712	{#993399}{ol}[Magic] - [Lightning]{/}{/}{nl}Shoot Lightning chain that continuously attacks enemy.
 SKILL_20150414_003713	Temporarily petrify enemy.
 SKILL_20150414_003714	{#993399}{ol}[Magic] - [Ice]{/}{/}{nl}Drop chunks of ice and continuously inflict damage to enemies.
@@ -3719,15 +3719,15 @@ SKILL_20150414_003718	Order summoned demon to move and attack in target area.
 SKILL_20150414_003719	Ride on top of the devil summoned with Grimore and control it.
 SKILL_20150414_003720	Mutate the devil summoned with Grimore to the Devil in the sub card equippped on Grimore while maintaining its previous abilities.
 SKILL_20150414_003721	Order summoned devil to wait and guard target area.
-SKILL_20150414_003722	{#993399}{ol}[Magic] - [Dark]{/}{/}{nl}Summon a familiar spirit. The spirit rushes to a target that you attack or that attacks you, and then explodes itself.
-SKILL_20150414_003723	Summon a fire devil Salamion. It follows its master and attacks enemies.
+SKILL_20150414_003722	{#993399}{ol}[Magic] - [Dark]{/}{/}{nl}Summons a familiar spirit. The spirit rushes to an enemy that you attack or that attacks you, and then explodes itself.
+SKILL_20150414_003723	Summons the fire devil Salamion. It follows its master and attacks enemies.
 SKILL_20150414_003724	{memo X}Salamion Level #{CaptionRatio}#
-SKILL_20150414_003725	Summon Servant. Servant follows its master and gives beneficial effects.
+SKILL_20150414_003725	Summons a servant. The servant will grant beneficial effects while following its master.
 SKILL_20150414_003726	{memo X}Servant HP #{CaptionRatio}#
 SKILL_20150414_003727	{memo X}Control time and temporarily increase attack speed of yourself or 1 ally in front.
 SKILL_20150414_003728	{memo X}Control time and make the monster appear again where it was killed.
 SKILL_20150414_003729	Stop time of monsters within target area. Enemies do not receive damage when time is stopped.
-SKILL_20150414_003730	Control time and decrease the movement speed of enemies.
+SKILL_20150414_003730	Controls time to decrease the movement speed of enemies.
 SKILL_20150414_003731	{memo X}Control time and increase movement speed of yourself or 1 ally in front.
 SKILL_20150414_003732	Control time in an area, temporarily changing it back to its previous state.
 SKILL_20150414_003733	{#993399}{ol}[Magic]{/}{/}{nl}Collect an enemy's corpse.
@@ -3741,9 +3741,9 @@ SKILL_20150414_003740	{memo X}Attack #{SkillAtkAdd}#{nl}Duration 15 seconds{nl}U
 SKILL_20150414_003741	Make a wall of corpse and block enemy attacks. Enemies attack neaby the wall becomes decomposed.
 SKILL_20150414_003742	{memo X}Dirty Wall #{CaptionRatio}#{nl}Dirty Wall Duration15 seconds{nl}{#339999}{ol}[Decompose]{/}{/} Duration #{CaptionTime}# seconds{nl}{nl}Use #{CaptionRatio2}# each of {nl}Plant, Beast, Mutant corpse
 SKILL_20150414_003743	Collect the corpse left over from where an enemy died.
-SKILL_20150414_003744	{#993399}{ol}[Magic]{/}{/}{nl}Explode an item on the ground to attack enemies.
+SKILL_20150414_003744	{#993399}{ol}[Magic]{/}{/}{nl}Explodes an item of yours on the ground to damage nearby enemies.
 SKILL_20150414_003745	{memo X}Dig the ground and get ores for alchemy.
-SKILL_20150414_003746	Open shop to roast and enhance gems. The penalty of a roasted gem is decreased.
+SKILL_20150414_003746	Open a shop to roast and enhance gems. Decreases the penalty of an enhanced gem.
 SKILL_20150414_003747	Combine two items to change item abilities. Item loses potential and its ability may become better or worse.
 SKILL_20150414_003748	Extract fluid from herbs to create different potions.
 SKILL_20150414_003749	Use pluvial of alchemy and create a new item.
@@ -3784,7 +3784,7 @@ SKILL_20150414_003783	Order your companion to rush forward and attack the enemy.
 SKILL_20150414_003784	Cures a poisoned ally. A poison status with a higher level than Detoxify cannot be healed, however its duration decreases.
 SKILL_20150414_003785	{#DD5500}{ol}[Physical] - [Poison] - [Pierce]{/}{/}{nl}Blow toxic arrow and inflict continuous damage.
 SKILL_20150414_003786	{#DD5500}{ol}[Physical] - [Poison] - [Pierce]{/}{/}{nl}Throw jar of Poison to create poisonous puddle. Enemies become poisoned when stepping on the puddle.
-SKILL_20150414_003787	{#DD5500}{ol}[Physical] - [Poison] - [Pierce]{/}{/}{nl}Throw hairpin to parasite on enemy. Venomous insect is born when the host is killed.
+SKILL_20150414_003787	{#DD5500}{ol}[Physical] - [Poison] - [Pierce]{/}{/}{nl}Throw poison to inject a parasite into the enemy. Poisonous insects are born when the host is killed.
 SKILL_20150414_003788	Hide yourself in an empty container. Blocks agains few Physical attacks.
 SKILL_20150414_003789	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Shoot arrow that makes noise. Enemies nearby falls under fear.
 SKILL_20150414_003790	Temporarily hide yourself away from enemy's vision. You become exposed when jumping or attacking.
@@ -4032,7 +4032,7 @@ SKILL_20150428_004031	{memo X}$Attack: +#{CaptionRatio}#{nl}Maximum Stacks: #{Ca
 SKILL_20150428_004032	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Swing an enemy around, using centrifugal force to throw them away.
 SKILL_20150428_004033	$Attack: #{SkillAtkAdd}#{nl}Rotates 9 times{nl}Distance Thrown: 150
 SKILL_20150428_004034	$Maximum number of Targets: #{CaptionRatio}#{nl}Duration: 10 seconds
-SKILL_20150428_004035	Pin down a pirate flag, boosting the ATK of pirates. Defeat enemies continuously near the flag to trigger a combo. (only triggered when party leader is the Corsair)
+SKILL_20150428_004035	Pin down a pirate flag, boosting the abilities of a pirate. Defeat enemies continuously near the flag to trigger a combo. (only triggered when party leader is the Corsair)
 SKILL_20150428_004036	Can use key to open a higher level treasure chest.
 SKILL_20150428_004037	$Key Lv.: +#{CaptionRatio}#
 SKILL_20150428_004038	Double Weapon Assault
@@ -4077,7 +4077,7 @@ SKILL_20150428_004076	{memo X}{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Attack
 SKILL_20150428_004077	{memo X}Attack per strike #{SkillAtkAdd}#{nl}Use #{CaptionRatio}# SP per 0.5 seconds
 SKILL_20150428_004078	$Maximum Duration: #{CaptionTime}# seconds{nl}Able to defend from ranged projectiles and magic
 SKILL_20150428_004079	$Maximum Purchase Quantity: #{CaptionRatio}#
-SKILL_20150428_004080	Remove magic circle nearby{nl}Max Duration: 30 seconds{nl}Target: #{CaptionRatio}#
+SKILL_20150428_004080	Removes magic circles nearby{nl}Max Duration: 30 seconds{nl}Target: #{CaptionRatio}#
 SKILL_20150428_004081	Can open the treasure chest easily
 SKILL_20150428_004082	Movement speed slightly decreases. Receive additional damage on Lightning attacks. Give continuous damage to Fire Attribute targets.
 SKILL_20150428_004083	$Quick Cast: Magic Damage
@@ -4460,7 +4460,7 @@ SKILL_20150714_004459	$When you attack an enemy affected by [Shrink Body] while 
 SKILL_20150714_004460	$Enhance Left Arm: Enlarge Size Speciality
 SKILL_20150714_004461	{memo X}When you attack an enemy that is in [Swell Body] when [Left Arm Enhancement] is being activated, the weakened ATK rate status will continue. Duration will increase by 8 secs per Attribute level and the weakened ATK rate can be overlapped max 10 times.
 SKILL_20150714_004462	$Right Arm Enhance: Swiftness
-SKILL_20150714_004463	$Not using a dagger nor a shield as an offhand gives you a 6% higher accuracy and evasion rate per attribute level.
+SKILL_20150714_004463	$Not using a dagger nor a shield as an offhand gives you a 6% higher accuracy and evasion per attribute level.
 SKILL_20150714_004464	$Transpose: Equilibrium
 SKILL_20150714_004465	$Balance your INT and CON when using [Transpose], causing each to become the average of both.
 SKILL_20150714_004466	$Reversi: Capture Only
@@ -4533,7 +4533,7 @@ SKILL_20150714_004532	$Increases the damage dealt on an enemy with [Teardown] by
 SKILL_20150714_004533	$Increases the duration of [Scatter Caltrops] by 1 second per attribute level.
 SKILL_20150714_004534	$There is a 8% chance per attribute level to  be afflicted with [Bleeding] when stepping on a caltrop.
 SKILL_20150714_004535	$Teardown: Teardown Statue
-SKILL_20150714_004536	$Allows you to dismantle the pieces of Dievdirbys' Carve Austras Koks with [Teardown].
+SKILL_20150714_004536	$Allows you to dismantle Dievdirbys' Carve Austras Koks with [Teardown].
 SKILL_20150714_004537	$Increases the damage dealt on an enemy with [Broom Trap] by 1% per attribute level.
 SKILL_20150714_004538	$Increases the damage dealt on an enemy with [Claymore] by 1% per attribute level.
 SKILL_20150714_004539	$Increases the damage dealt on an enemy with [Punji Stake] by 1% per attribute level.
@@ -4586,7 +4586,7 @@ SKILL_20150714_004585	$Increases the time duration of the [Bleeding] status when
 SKILL_20150714_004586	$Bodkin Point: Defense Decrease
 SKILL_20150714_004587	{memo X}[Reduced DEF] of [Bodkin Point] will be reduced by 2% per Attribute level.
 SKILL_20150714_004588	{memo X}The enemies that are shot by [Magic Arrow] will fall into [Silence] with a certain probabillity. The probability will increase by 10% per Attribute level.
-SKILL_20150714_004589	The range of [Install Roost] will increase by 20 per attribute level.
+SKILL_20150714_004589	The range in which [Install Roost] will maintain increases by 20 per attribute level.
 SKILL_20150714_004590	Call: Obtain
 SKILL_20150714_004591	The Hawk which will return as a result of [Call] would bring Potions or Herbs with 50% probability.
 SKILL_20150714_004592	$Hovering: Duration
@@ -4760,10 +4760,10 @@ SKILL_20150717_004759	[Montano] will afflict the target with [Slow] for 10 secon
 SKILL_20150717_004760	{memo X}Spreads [Flame] equal to amount of attribute level when killing enemy under [Flame] with [Targe Smash].
 SKILL_20150717_004761	There is 1% chance per attribute level for enemies pushed away with [Rush] to fall under [Stun] for 2 seconds.
 SKILL_20150717_004762	Endow Earth Property to the attacks of the skill [Earth Wave]
-SKILL_20150717_004763	[Slowdown] is applied with a 4 second duration after [Arrest] ends. Duration of [Slowdown] will increase by 0.4 seconds from Lv2 per attribute level.
-SKILL_20150717_004764	An enemy hit with [Keelhauling] will be affected by the [Bleeding] status. Duration of [Bleeding] will increase by 1 sec per attribute level, the bleeding damage is based on your STR.
+SKILL_20150717_004763	Applies [Slow] with a 4 seconds duration after [Arrest] ends. Increases the duration of [Slow] from Lv. 2 by 0.4 seconds per attribute level.
+SKILL_20150717_004764	An enemy hit with [Keelhauling] will be affected by the [Bleeding] status. Increases the duration of [Bleeding] by 1 second per attribute level, the bleeding damage is based on your STR.
 SKILL_20150717_004765	$Phalanx: Slow
-SKILL_20150717_004766	When an enemy's attack gets blocked while in [Phalanx] position, the enemy will fall into [Slowdown]. Duration of Slowdown will increase by 4 seconds per attribute level.
+SKILL_20150717_004766	Inflicts the Slow status effect when an enemy's attack is blocked while in the [Phalanx] formation. Increases the duration of Slow by 4 seconds per attribute level.
 SKILL_20150717_004767	$Adds the reflect damage of [Reflect Shield] by 1 per attribute level, but decreases the damage received accordingly.
 SKILL_20150717_004768	$Increases the Physical and Magic Attack debuff effect of [Lethargy] by 1 per attribute level.
 SKILL_20150717_004769	{memo X}Attack monster in [sleep] state with [Enegry Bolt] to give additional damage of 50% of Magic attack.
@@ -4777,16 +4777,16 @@ SKILL_20150717_004776	$Decreases the AoE Defense Ratio of the enemies gathered t
 SKILL_20150717_004777	{memo X}Attack increase effect of [Swell left Arm] Increase by 1 per Attribute level.
 SKILL_20150717_004778	{memo X}Defense and Attack increase effect of [Swell Right Arm] increases by 1 per attribute level.
 SKILL_20150717_004779	{memo X}Intelligence increase effect of [Swell Brain] increases by 1 per attribute level.
-SKILL_20150717_004780	Enemies affected by [Swell Body] will have their movement speed decreased by 25% and Physical and Magical ATK rate increased by 20% per attribute level.
-SKILL_20150717_004781	Enemies affected by [Shrink Body] will have their movement speed increased by 20% and Physical and Magical ATK rate decreased by 25% per attribute level.
-SKILL_20150717_004782	Enemies affected by [Swell Body] will take more damage, 20% Magical ATK per attribute level.
-SKILL_20150717_004783	Enemies affected by [Shrink Body] will take more damage, 20% Magical ATK per attribute level.
-SKILL_20150717_004784	When you attack an enemy affected by [Swell Body] while [Left Arm Enhancement] is active, it will continuosly apply the [Weakened ATK] status. The duration will increase by 8 secs per attribute level and [Weakened ATK] can be applied up to 10 stacks.
+SKILL_20150717_004780	Enemies affected by [Swell Body] will have their movement speed decreased by 25% and physical and magical attack increased by 20% per attribute level.
+SKILL_20150717_004781	Enemies affected by [Shrink Body] will have their movement speed increased by 20% and physical and magical attack decreased by 25% per attribute level.
+SKILL_20150717_004782	Enemies affected by [Swell Body] will take 20% more magical attack damage per attribute level.
+SKILL_20150717_004783	Enemies affected by [Shrink Body] will take 20% more magical attack damage per attribute level.
+SKILL_20150717_004784	When you attack an enemy affected by [Swell Body] while [Left Arm Enhancement] is active, it will continously apply the [Attacked Weakened] status effect. Increases the duration by 8 seconds per attribute level and [Attacked Weakened] can stack up to 10 times.
 SKILL_20150717_004785	$When enemies are hit by [Hail], inflict [Freezing] for 5 seconds by 5% chance per attribute level.
 SKILL_20150717_004786	$Increases Evasion while charging [Meteor] by 10 per attribute level.
 SKILL_20150717_004787	Using Fire Property attacks to finsih enemies will cause explosion and splash damage by 80% with the probability of 30%.
 SKILL_20150717_004788	Using Ice Property attacks to finsih enemies will slow down nearby enemies with the probability of 50% for 6 seconds.
-SKILL_20150717_004789	When the summoned familiar explodes itself from the skill [Summon Familiar], it will inflict damage on nearby enemies by 1% chance per attribute level.
+SKILL_20150717_004789	Deals damage to nearby enemies by 1% chance per attribute level when the summoned familiar of [Summon Familiar] explodes itself.
 SKILL_20150717_004790	$Decreases the cooldown of [Attack Ground] by 2 seconds.
 SKILL_20150717_004791	$Decreases the cooldown of [Hold] by 2 seconds.
 SKILL_20150717_004792	$Slow: Critical Resistance
@@ -4796,27 +4796,27 @@ SKILL_20150717_004795	$Flesh Cannon: Decay
 SKILL_20150717_004796	$Enemies hit by [Flesh Cannon] have a chance to be afflicted with Decay for 15 seconds. Increases the chance by 10% per attribute level.
 SKILL_20150717_004797	Flesh Hoop: Demoralize
 SKILL_20150717_004798	Attak of enemies nearby the hoop after using [Flesh Hoop] decrease for 4 seconds. [Weakened ATK] can be overlapped max 10 times.
-SKILL_20150717_004799	The enemies near Shoggoth will fall into Decay status for 15 secs. This ability will last for 1 min per attribute level after Shoggoth gets summoned.
+SKILL_20150717_004799	Enemies near the Shoggoth will be afflicted with Decay for 15 seconds. This ability will last for 1 minute per attribute level after Shoggoth is summoned.
 SKILL_20150717_004800	$Increases the range of [Disinter] by 10 per attribute level.
 SKILL_20150717_004801	$Decreases the cooldown of [Dig] by 10 seconds.
-SKILL_20150717_004802	Physical ATK and Magic ATK will be increased for 30 minutes for the allies that participated in the [Item Awakening] dungeon. ATK will increase by 20% per attribute level.
+SKILL_20150717_004802	Increases the physical attack and magic attack for 30 minutes of allies that have participated in a [Item Awakening] dungeon. The attack increases by 20% per attribute level.
 SKILL_20150717_004803	$Full Draw: Knockback Increase
 SKILL_20150717_004804	{memo X}$When equipped with a [Two-handed Bow], adds 20% additional physical attack damage against airborne monsters.
 SKILL_20150717_004805	$While [Swift Step] is active, enemies that are hit by [Oblique Shot] will be affected by [Slow] for 7 seconds with a chance of 5% per attribute level. 
 SKILL_20150717_004806	$Decreases the physical defense of enemies who are threaded with [Full Draw] by 10% per attribute level.
 SKILL_20150717_004807	{memo X}Tumbleweed of [Broom Trap] will be reduced by 0.5 secs per Attribute level and the number of rotations will decrease by 0.5 per Attribute level.
 SKILL_20150717_004808	$Increases the AoE Attack Ratio of [Claymore] by 1 per attribute level.
-SKILL_20150717_004809	As the enemy that was flown to the air by [Punji Stake] falls down on the ground, it will receive damage equal to 50% of Physical ATK and the enemies nearby will also receive damage.
+SKILL_20150717_004809	$When an enemy launched by [Punji Stake] hits the ground, it and nearby enemies will receive 50% Physical ATK as damage.
 SKILL_20150717_004810	$Decreases the enemy's defense that are attacked with [Retrieve] by 10 per attribute level.
 SKILL_20150717_004811	{memo X}$Provides immunity to [Poison] for 2 seconds per attribute level to a character whose [Poison] has been cured due to [Detoxify].
 SKILL_20150717_004812	Even if an object gets out of the range of [Throw Gu Pot], [Poison] will continue for 2 seconds per attribute level.
-SKILL_20150717_004813	The enemies that are in the range of [Scan] will fall into [Confusion] with a certain probability for 5 seconds. The probability will increase by 10% per attribute level.
+SKILL_20150717_004813	Enemies within the range of [Scan] will be afflicted with [Confusion] by certain chance for 5 seconds. Increases the chance by 10% per attribute level.
 SKILL_20150717_004814	Enemies within rage of [Tear Gas] receives damage every 2 seconds. Damage increases per attribute level.
 SKILL_20150717_004815	The enemy become afflicted with [Massive Bleeding] for 10 seconds when attacked with [Backstab] while affected by bleeding. Increases the duration by 1 second per attribute level. Massive Bleed damage is based on your STR and physical attack.
 SKILL_20150717_004816	$Increases the range of [Tear Gas] to 75.
-SKILL_20150717_004817	When using [Bodkin Point], the enemies' DEF will be reduced by 1% per attribute level.
+SKILL_20150717_004817	Decreases the enemy's physical defense by 1% per attribute level when you attack with [Bodkin Point].
 SKILL_20150717_004818	[Crossfire] gets a 10% chance per level of inflicting [Burn] on targets. Burn damage scales with character's physical damage.
-SKILL_20150717_004819	The enemies that are shot by [Magic Arrow] will fall into [Silence] with a certain probabillity. The probability will increase by 10% per attribute level.
+SKILL_20150717_004819	Enemies hit by [Magic Arrow] will be afflicted with [Silence] by a certain chance. Increases the chance by 10% per attribute level.
 SKILL_20150717_004820	You can create the arrows for Fletcher. Crafting arrow is available while in rest mode.
 SKILL_20150717_004821	{memo X}Defense decrease effect of [Deprotected Zone] increases by 1 per attribute level.
 SKILL_20150717_004822	$Increases the chance of stun by 2% per attribute level when using a basic attack on enemies with a [Blunt] weapon type.
@@ -4843,11 +4843,11 @@ SKILL_20150717_004842	$The instant death chance of [Turn Undead] is proportional
 SKILL_20150717_004843	{memo X}Damage that will be reflected off from [Iron Skin] will be added 20% of Physical ATK per Attribute level.
 SKILL_20150717_004844	$Enemies hit by [Palm Strike] will be affected by [Bleeding] for 8 seconds. Increases the duration of [Bleeding] by 1 second per attribute level. Bleeding damage is proportional to your physical attack.
 SKILL_20150717_004845	$Craft a dispeller to prevent from getting harmful effects. Craft Dispeller is only possible in Rest Mode.
-SKILL_20150717_004846	When you endow the effect that is registered at [Spell Shop] to your ally, the duration will be increased. Duration will increase by 3 minutes per attribute level.
+SKILL_20150717_004846	When you endow the effect that is registered at [Spell Shop] to your ally, the duration will be increased. Increases the duration by 3 minutes per attribute level.
 SKILL_20150717_004847	$Nearby enemies receive Holy damage equal to the attribute level when using [Arcane Energy]
 SKILL_20150717_004848	$Increases the duration of [Forecast] by 1 second per attribute level.
 SKILL_20150717_004849	$A monster that is transformed by [Change] will have the Item Jackpot Effect with a 0.05% chance per attribute level.
-SKILL_20150717_004850	$Enlarge your party member's offhand to increase attack if it is equipped with a shield or dagger.
+SKILL_20150717_004850	$Temporarily enlarge your party member's offhand, increasing attack if it is equipped with a shield or dagger.
 SKILL_20150717_004851	Shield, Physical/Magic Defense: +#{CaptionRatio}#{nl}Dagger, Physical/Magic Attack: +#{CaptionRatio2}#{nl}No effect when equipping other secondary weapons.{nl}Duration: #{CaptionTime}# seconds
 SKILL_20150717_004852	{memo X}Attribute Attack #{CaptionRatio}#%{nl}Throw#{CaptionRatio2}#{nl}Caldrop duration #{CaptionTime}#seconds{nl}{#339999}{ol}[Slow]{/}{/} duration 10 seconds
 SKILL_20150724_004853	$Lv1 Tincturing required
@@ -4944,7 +4944,7 @@ SKILL_20150729_004943	$Dig up the ground to collect materials required for alche
 SKILL_20150729_004944	$Recieve different materials depending on the terrain.
 SKILL_20150729_004945	Each weapon has different dungeon{nl}and potential effects{nl}Slots available #{CaptionRatio}#
 SKILL_20150729_004946	$Increases skill damage while decreasing attack speed.
-SKILL_20150729_004947	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Throw caltrops on the ground that inflict damage to enemies stepping on them.
+SKILL_20150729_004947	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Throw caltrops on the ground that inflict damage to enemies that step on them.
 SKILL_20150729_004948	{memo X}Attribute ATK #{CaptionRatio}#%{nl}Throw #{CaptionRatio2}#{nl}Caldrop duration #{CaptionTime}#sec
 SKILL_20150729_004949	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Lay a defensive trap that damages any enemies that walk into it.
 SKILL_20150729_004950	$Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Applies 3 consecutive attacks
@@ -4990,7 +4990,7 @@ SKILL_20150729_004989	$[Heal] will not inflict damage and react to enemies.
 SKILL_20150729_004990	$Increases the range of [Melstis] to 80.
 SKILL_20150729_004991	$Increases the maximum number of zombies from [Zombify] by 1.
 SKILL_20150730_004992	Summon the devil of card inserted in Grimore. Character's INT, SPR affects the ATK and DEF of summoned devil. Ability increases by 10% per card star. Grimore can only equip Demon type monster card.
-SKILL_20150730_004993	Make a Shaggoth based on the card inserted in the Necronomicon. Character's INT and SPR affects the ATK and DEF of the summoned devil. Ability increases by 10% per card star. Necronomicon can equip only Animal, Plant, and Mutant type cards.
+SKILL_20150730_004993	$Creates a Shoggoth based on the card inserted in the Necronomicon. The attack and defense of the summoned devil is affected by your INT and SPR. Increases the abilities by 10% proportional to the amount of stars of the card. Only Animal, Plant and Mutant-type cards can be placed in the Necronomicon.
 SKILL_20150730_004994	Your companion bites and holds onto a target. Decreases the physical defense of the bitten target. You receive a critical chance bonus against the target.
 SKILL_20150730_004995	$Physical Defense: -#{CaptionRatio}# {nl}Additional Critical Chance: 30%{nl}Duration: #{CaptionTime}# seconds
 SKILL_20150803_004996	$Quick Cast
@@ -5103,7 +5103,7 @@ SKILL_20150918_005102	$Temporarily increases your Companion's Attack, Accuracy a
 SKILL_20150918_005103	$Companion's Attack: +#{CaptionRatio}#{nl}Companion's Accuracy: +#{CaptionRatio}#{nl}Companion's Critical Rate: +#{CaptionRatio}#{nl}Duration: #{CaptionTime}# seconds
 SKILL_20150918_005104	The companion paces around the target and fixes its target. Evasion and Accuracy of the target will be decreased.
 SKILL_20150918_005105	$Evasion: -#{CaptionRatio}#{nl}Accuracy: -#{CaptionRatio}#{nl}Pointing AI Duration: 90 seconds
-SKILL_20150918_005106	$Consumes #{SpendPoison}# Poison Pot Poison{nl}Duration: 20 seconds
+SKILL_20150918_005106	$Consumes #{SpendPoison}# Poison Pot Poison{nl}Poisonous Insect Duration: 20 seconds
 SKILL_20150918_005107	$Zhendu
 SKILL_20150918_005108	$Applies a poison once to the weapon of you and your party members for the next attack.
 SKILL_20150918_005109	$Duration: 30 seconds{nl}Zhendu Duration: #{CaptionRatio}# seconds{nl}Consumes #{SpendPoison}# Poison Pot Poison
@@ -5282,7 +5282,7 @@ SKILL_20151001_005281	$Creates an explosion using 200 funds when there are no ne
 SKILL_20151001_005282	$Deals 20% additional damage to Flying-type monsters when equipped with a [Two-handed Bow].
 SKILL_20151001_005283	$Crossbow Mastery
 SKILL_20151001_005284	$Ignores enemy defense by 5% per attribute level when equipped with a [One-handed Bow].
-SKILL_20151001_005285	$Decreases the time of the 1st rotation by 0.3 second and increases the number of rotations by 0.8 of [Broom Trap] per attribute level.
+SKILL_20151001_005285	$Decreases the time of the first rotation by 0.3 seconds and increases the number of rotations by 0.8 for [Broom Trap] per attribute level.
 SKILL_20151001_005286	$Increases the Companion's movement speed of [Praise] by 1 per attribute level.
 SKILL_20151001_005287	$Split Arrow: Enhance
 SKILL_20151001_005288	$Increases the damage dealt on an enemy with [Split Arrow] by 1% per attribute level.
@@ -5322,7 +5322,7 @@ SKILL_20151016_005321	Companion's stamina consuming speed will be reduced.
 SKILL_20151016_005322	Companion emergency treatment
 SKILL_20151016_005323	When HP of a companion falls below 50%, receive [Emergency Treatment] to continuously recover HP. After [Emergency Treatment], you will become [Can't be treated] status.
 SKILL_20151016_005324	Shield Mastery: Block
-SKILL_20151016_005325	When equipped with a [Shield], Block will increase by 5% per attribute level.
+SKILL_20151016_005325	Increases Block by 5% per attribute level when equipped with a [Shield].
 SKILL_20151016_005326	Double handed Swords Mastery: Critical Attack
 SKILL_20151016_005327	Skull Swing: Eliminate Knockback
 SKILL_20151016_005328	[Skull Swing] does not push away enemies anymore.(When the attribute is ON, you won't be pushed away.)
@@ -5354,7 +5354,7 @@ SKILL_20151016_005353	$Causes instant kill on small-type monsters by 0.5% chance
 SKILL_20151016_005354	$Zalciai: Enhance
 SKILL_20151016_005355	$Increases the critical attack of [Zalciai] by 1 per attribute level.
 SKILL_20151016_005356	$Lv. 3 Zalciai required
-SKILL_20151022_005357	
+SKILL_20151022_005357	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Lift your sword up perform a vertical strike downward. Medium and large size enemies suffering defence reduction from [Skull Swing] take additional damage proportional to the reduced amount of defense. The enemy also takes additional damage according to the number of debuffs in effect.
 SKILL_20151022_005358	
 SKILL_20151022_005359	
 SKILL_20151022_005360	
