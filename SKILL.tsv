@@ -5354,7 +5354,7 @@ SKILL_20151016_005353	$Causes instant kill on small-type monsters by 0.5% chance
 SKILL_20151016_005354	$Zalciai: Enhance
 SKILL_20151016_005355	$Increases the critical attack of [Zalciai] by 1 per attribute level.
 SKILL_20151016_005356	$Lv. 3 Zalciai required
-SKILL_20151022_005357	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Lift your sword up perform a vertical strike downward. Medium and large size enemies suffering a defense reduction from [Skull Swing] take additional damage proportional to the reduced amount of defense. The enemy also takes additional damage according to the number of debuffs in effect.
+SKILL_20151022_005357	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Lift your sword up and perform a vertical strike downward. Medium and large size enemies suffering a defense reduction from [Skull Swing] take additional damage proportional to the reduced amount of defense. The enemy also takes additional damage according to the number of debuffs in effect.
 SKILL_20151022_005358	
 SKILL_20151022_005359	
 SKILL_20151022_005360	
@@ -5382,7 +5382,7 @@ SKILL_20151022_005381
 SKILL_20151022_005382	${#993399}{ol}[Magic] - [Ice]{/}{/}{nl}Cast an arrow of ice that inflicts damage and has a chance of freezing the enemy.
 SKILL_20151022_005383	${#993399}{ol}[Magic] - [Ice]{/}{/}{nl}Make ice spikes sprout out in a line, inflicting damage and freezing enemies by chance.
 SKILL_20151022_005384	${#993399}{ol}[Magic] - [Ice]{/}{/}{nl}Ride on an enormous snowball and crush any enemies in your way.
-SKILL_20151022_005385	$Attack: 400% +#{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Casting Time: #{CaptionTime}#seconds{nl}AoE Attack Ratio: #{SkillSR}#
+SKILL_20151022_005385	$Attack: 400% +#{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Casting Time: #{CaptionTime}# seconds{nl}AoE Attack Ratio: #{SkillSR}#
 SKILL_20151022_005386	
 SKILL_20151022_005387	
 SKILL_20151022_005388	
@@ -5444,17 +5444,17 @@ SKILL_20151022_005443	$The servant applies beneficial effects more often.
 SKILL_20151022_005444	$Slow: Nullify Decrease
 SKILL_20151022_005445	$Enemies affected by [Slow] get a 6% lower chance per attribute level of nullifying an attack.
 SKILL_20151022_005446	$Haste: Evasion Increase
-SKILL_20151022_005447	$When [Haste] is in effect, your evasion rate increases 20 per attribute level.
+SKILL_20151022_005447	$Increases your evasion by 20 per attribute level while [Haste] is active.
 SKILL_20151022_005448	$Stop: SP Decrease
-SKILL_20151022_005449	$SP consumption of [Stop] decreases by 40.
+SKILL_20151022_005449	$Decreases the SP cost of [Stop] by 40.
 SKILL_20151022_005450	
 SKILL_20151022_005451	$Player detoxified by [Detoxify] becomes immune to poison for 4 seconds per attribute level.
 SKILL_20151022_005452	$Wugushi: Poison Reserve
 SKILL_20151022_005453	
 SKILL_20151022_005454	$Jincan Gu: Evasion Rate Decrease
-SKILL_20151022_005455	$Evasion rate of enemies affected by [Jincan Gu] decreases by 5% per attribute level.
+SKILL_20151022_005455	$Decreases the evasion rate of enemies affected by [Jincan Gu] by 5% per attribute level.
 SKILL_20151022_005456	$Zhendu: Poison Resistance Decrease
-SKILL_20151022_005457	$Poison resistance of enemies affected by [Zhendu] decreases by 7 per attribute level.
+SKILL_20151022_005457	$Decreases the poison resistance of enemies affected by [Zhendu] by 7 per attribute level.
 SKILL_20151022_005458	$Capturing: Ally Magic Circle
 SKILL_20151022_005459	$You can seize not only an enemies' magic circle, but also your allies' with [Capturing].
 SKILL_20151022_005460	$Hovering: Enhance
@@ -5462,7 +5462,7 @@ SKILL_20151022_005461	$Increases the damage dealt on an enemy with [Hovering] by
 SKILL_20151022_005462	$Pheasant: Enhance
 SKILL_20151022_005463	$Increases the damage dealt on an enemy with [Pheasant] by 1% per attribute level.
 SKILL_20151022_005464	$Circling: Nullify Decrease
-SKILL_20151022_005465	$Enemies in the range of [Circling] get a 5% lower chance per attribute level of nullifying the attack.
+SKILL_20151022_005465	$Decreases the chance of nullifying the attack by 5% per attribute level when enemies are within the range of [Circling].
 SKILL_20151022_005466	
 SKILL_20151022_005467	
 SKILL_20151022_005468	$Retreat Shot: Nullify Increase
@@ -5482,7 +5482,7 @@ SKILL_20151022_005481	$Carve Goddess Ausrine: Cooldown Decrease
 SKILL_20151022_005482	$Decreases the cooldown of [Carve Goddess Ausrine] by 10 seconds.
 SKILL_20151022_005483	
 SKILL_20151022_005484	
-SKILL_20151022_005485	$While [Resist Elements] is in effect, the chance of nullifying fire, ice, lightning, poison, and earth attacks increases by 0.8% per attribute level.
+SKILL_20151022_005485	$Increases the chance of nullifying fire, ice, lightning, poison and earth property attacks by 0.08% per attribute level while [Resist Elements] is active.
 SKILL_20151022_005486	$Resist Elements: Enhance
 SKILL_20151022_005487	$Increases the property resistance of [Resist Elements] by 1 per attribute level.
 SKILL_20151022_005488	$Magic Defense Increase: Duration
