@@ -5362,14 +5362,14 @@ SKILL_20151022_005361	$Attaque Composee
 SKILL_20151022_005362	${#DD5500}{ol}[Physical] - [Pierce]{/}{/}Stab an enemy in front of you.
 SKILL_20151022_005363	$Lunge
 SKILL_20151022_005364	${#DD5500}{ol}[Physical] - [Pierce]{/}{/}Lower your stance and reach out to attack an enemy. Your evasion rate increases and the enemy becomes more vulnerable to [Slash] attacks.
-SKILL_20151022_005365	$Attack: #{SkillAtkAdd}#{nl}Attribute Damage: +#{CaptionRatio}#%{nl}Evasion Rate: #{CaptionRatio2}#%{nl}Duration: #{CaptionTime}# seconds
+SKILL_20151022_005365	$Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Evasion Rate: +#{CaptionRatio2}#%{nl}Duration: #{CaptionTime}# seconds
 SKILL_20151022_005366	$Sept Etoiles
 SKILL_20151022_005367	${#DD5500}{ol}[Physical] - [Pierce]{/}{/}Stab an enemy with consecutive strikes.
 SKILL_20151022_005368	$Attaque Coquille
 SKILL_20151022_005369	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}Attack an enemy with the guard of your sword. The enemy's defence is ignored when attacked again with [Pierce] attacks.
 SKILL_20151022_005370	$Esquive Toucher	
 SKILL_20151022_005371	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}Move swiftly to avoid enemy attacks and deliver complex consecutive attacks.
-SKILL_20151022_005372	$Attack: #{SkillAtkAdd}#{nl}Attribute Damage: +#{CaptionRatio}#%{nl}Evasion Rate: #{CaptionRatio2}#%
+SKILL_20151022_005372	$Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Evasion Rate: +#{CaptionRatio2}#%
 SKILL_20151022_005373	$Preparation
 SKILL_20151022_005374	$Twirl the tip of your sword to parry an enemy attack and prepare for the next attack. The next [Pierce] attack you make will inflict twice as much damage.
 SKILL_20151022_005375	$Maximum Duration: #{CaptionRatio2}# seconds{nl}Block Rate +#{CaptionRatio}#%{nl}Duration: 15 seconds
@@ -5382,7 +5382,7 @@ SKILL_20151022_005381
 SKILL_20151022_005382	${#993399}{ol}[Magic] - [Ice]{/}{/}{nl}Cast an arrow of ice that inflicts damage and has a chance of freezing the enemy.
 SKILL_20151022_005383	${#993399}{ol}[Magic] - [Ice]{/}{/}{nl}Make ice spikes sprout out in a line, inflicting damage and freezing enemies by chance.
 SKILL_20151022_005384	${#993399}{ol}[Magic] - [Ice]{/}{/}{nl}Ride on an enormous snowball and crush any enemies in your way.
-SKILL_20151022_005385	$Attack: 400% +#{SkillAtkAdd}#{nl}Attribute Damage: +#{CaptionRatio}#%{nl}Casting Time: #{CaptionTime}#seconds{nl}AoE Attack Ratio: #{SkillSR}#
+SKILL_20151022_005385	$Attack: 400% +#{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Casting Time: #{CaptionTime}#seconds{nl}AoE Attack Ratio: #{SkillSR}#
 SKILL_20151022_005386	
 SKILL_20151022_005387	
 SKILL_20151022_005388	
