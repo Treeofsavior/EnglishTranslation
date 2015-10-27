@@ -1183,12 +1183,12 @@ SKILL_20150317_001182	$Stone Curse
 SKILL_20150317_001183	{memo X}Petrify target.
 SKILL_20150317_001184	{memo X}Duration #{CaptionTime}# seconds{nl}Splash #{CaptionRatio}#
 SKILL_20150317_001185	$Hail
-SKILL_20150317_001186	{memo X}{#993399}{ol}[Magic] - [Ice]{/}{/}{n}Shards of ice fall upon the target area and damage enemies.
+SKILL_20150317_001186	{memo X}{#993399}{ol}[Magic] - [Ice]{/}{/}{n}Shards of ice fall upon the targeted area and damage enemies.
 SKILL_20150317_001187	$Prominence
 SKILL_20150317_001188	{memo X}{#993399}{ol}[Magic] - [Fire]{/}{/}{nl}Swathes of fire appear around you. Fire randomly moves and damage enemies.
 SKILL_20150317_001189	{memo X}Attack #{SkillAtkAdd}#{nl}Duration 15 seconds
 SKILL_20150317_001190	$Meteor
-SKILL_20150317_001191	{memo X}{#993399}{ol}[Magic] - [Fire]{/}{/}{nl}Drop a meteor on the target area to damage enemies.
+SKILL_20150317_001191	{memo X}{#993399}{ol}[Magic] - [Fire]{/}{/}{nl}Drop a meteor on the targeted area to damage enemies.
 SKILL_20150317_001192	{memo X}Attack #{SkillAtkAdd}#{nl}Cast Time #{CaptionTime}# seconds{nl}Splash #{SkillSR}#
 SKILL_20150317_001193	$Summoning
 SKILL_20150317_001194	{memo X}Summon spirits that follow you.
@@ -1369,7 +1369,7 @@ SKILL_20150317_001368	$Flu Flu
 SKILL_20150317_001369	{memo X}Shoot a noisemaker arrow at the enemy. Also affect enemies nearby.
 SKILL_20150317_001370	{memo X}Attack #{SkillAtkAdd}#{nl}target hit {#339999}{ol}[Fear]{/}{/}+{#339999}{ol}[Chaos]{/}{/}{nl}{#339999}{ol}Inflict [Fear] to max. target #{CaptionRatio}# {#339999}{ol}{/}{/}{nl}Duration #{CaptionTime}#
 SKILL_20150317_001371	$Flare Shot
-SKILL_20150317_001372	{memo X}Shoot a flare at the target area. Sparks shoot out of the flare to damage nearby enemies.
+SKILL_20150317_001372	{memo X}Shoot a flare at the targeted area. Sparks shoot out of the flare to damage nearby enemies.
 SKILL_20150317_001373	{memo X}Attack #{SkillAtkAdd}#{nl}Duration 10 seconds
 SKILL_20150317_001374	$Cloaking
 SKILL_20150317_001375	{memo X}Hide from enemy.
@@ -1495,7 +1495,7 @@ SKILL_20150317_001494	$Ogouveve
 SKILL_20150317_001495	{memo X}Place a flag on the ground that increases the STR of nearby allies targets.
 SKILL_20150317_001496	{memo X}Strength + #{CaptionRatio}#{nl}Duration 30 seconds
 SKILL_20150317_001497	$Damballa
-SKILL_20150317_001498	{memo X}{#993399}{ol}[Magic]{/}{/}{nl}Causes zombies in the target area to explode, damaging nearby enemies.
+SKILL_20150317_001498	{memo X}{#993399}{ol}[Magic]{/}{/}{nl}Causes zombies in the targeted area to explode, damaging nearby enemies.
 SKILL_20150317_001499	{memo X}Attack #{SkillAtkAdd}#{nl}Summoned zombie required{nl}Target #{SkillSR}#
 SKILL_20150317_001500	{memo X}Carve Statue of Vakarine. Statue can be used to warp to other areas.
 SKILL_20150317_001501	{memo X}Warp #{CaptionRatio}# times {nl}Statue Duration 30 seconds{nl}Use 3 Oak wood
@@ -3346,7 +3346,7 @@ SKILL_20150401_003345	{memo X}Transform into monster in front.
 SKILL_20150401_003346	{memo X}Can use monster's skill
 SKILL_20150401_003347	{memo X}Transform into the monster last shap shifted
 SKILL_20150401_003348	{memo X}Plants in target area protects allies.
-SKILL_20150401_003349	{memo X}Plant grows in target area. Monsters within the target area temporarily become Plant-type monsters.
+SKILL_20150401_003349	{memo X}Plant grows in target area. Monsters within the targeted area temporarily become Plant-type monsters.
 SKILL_20150401_003350	{memo X}#{CaptionRatio}# Pile of food{nl}Duration #{CaptionTime}# seconds
 SKILL_20150401_003351	{memo X}Summon the monster somewhere in the map to right in front.
 SKILL_20150401_003352	$Summons #{CaptionRatio}# monsters
@@ -3713,7 +3713,7 @@ SKILL_20150414_003712	{#993399}{ol}[Magic] - [Lightning]{/}{/}{nl}Shoot Lightnin
 SKILL_20150414_003713	Temporarily petrify enemy.
 SKILL_20150414_003714	{#993399}{ol}[Magic] - [Ice]{/}{/}{nl}Drop chunks of ice and continuously inflict damage to enemies.
 SKILL_20150414_003715	{#993399}{ol}[Magic] - [Fire]{/}{/}{nl}Summon Prominence. Summoned Prominence goes back and forth randomly and inflicts damage to targets.
-SKILL_20150414_003716	{#993399}{ol}[Magic] - [Fire]{/}{/}{nl}Drop meteors on the target area and inflict damage.
+SKILL_20150414_003716	{#993399}{ol}[Magic] - [Fire]{/}{/}{nl}Drop meteors on the targeted area and inflict damage.
 SKILL_20150414_003717	{memo X}Summon the devil of card inserted in Grimore. Grimore can only equip Devil type monster card.
 SKILL_20150414_003718	Orders the summoned devil from the Grimoire to move and attack in the targeted area.
 SKILL_20150414_003719	Take control of the summoned devil from the Grimoire by riding it on top of its head.
@@ -3893,7 +3893,7 @@ SKILL_20150414_003892	Penetrate into the mind of an enemy in front and control i
 SKILL_20150414_003893	{memo X}{#993399}{ol}[Magic]{/}{/}{nl}Grass nearby target area attacks the enemy.
 SKILL_20150414_003894	$Temporarily transform into an Animal-type, Plant-type or Insect-type monster in front.
 SKILL_20150414_003895	$Transform back into the monster that you last shape shifted to.
-SKILL_20150414_003896	{memo X}Grass in the target area protects you and your party.
+SKILL_20150414_003896	{memo X}Grass in the targeted area protects you and your party.
 SKILL_20150414_003897	{memo X}Grass temporarily grows on target area. Monsters entering the area become plant-type monsters.
 SKILL_20150414_003898	$Randomly summons enemies to your front from the area you are currently in.
 SKILL_20150414_003899	$Increases your and your party member's maximum SP and STA.
@@ -5141,9 +5141,9 @@ SKILL_20150918_005140	{memo X}{#DD5500}{ol}[Physical]{/}{/}{nl}Gather force then
 SKILL_20150918_005141	$Increase Magic Defense
 SKILL_20150918_005142	$Temporarily increases the magic defense of you and your party members.
 SKILL_20150918_005143	{memo X}$Magic Defense: +#{CaptionRatio}#{nl}Duration: 45 seconds
-SKILL_20150918_005144	{#993399}{ol}[Magic]{/}{/}{nl}Grass near the target area attacks the enemy. It casts n the place of Chortasmata first if it exists, otherwise it casts on you.
+SKILL_20150918_005144	{#993399}{ol}[Magic]{/}{/}{nl}Grass near the targeted area attacks the enemy. It casts n the place of Chortasmata first if it exists, otherwise it casts on you.
 SKILL_20150918_005145	Grown grass protects you and your party. It casts in the place of Chortasmata first if exists, otherwise it casts on you.
-SKILL_20150918_005146	Grass temporarily grows on the target area. Monsters within the target area become Plant-type monsters.
+SKILL_20150918_005146	Grass temporarily grows on the targeted area. Monsters within the targeted area become Plant-type monsters.
 SKILL_20150918_005147	$Maximum SP: +#{CaptionRatio}#%{nl}Maximum STA: +#{CaptionRatio2}#{nl}Duration: #{CaptionTime}# minutes
 SKILL_20150918_005148	$Prophecy
 SKILL_20150918_005149	$Grants a temporary effect preventing Lv. 1 abnormal status effects to nearby party members.
