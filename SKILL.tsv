@@ -1312,7 +1312,7 @@ SKILL_20150317_001311	$Stone Picking
 SKILL_20150317_001312	{memo X}Pick up stone projectiles found on the field. Cannot be obtained in town.
 SKILL_20150317_001313	$Obtainable Stone Bullets: #{SkillFactor}#
 SKILL_20150317_001314	$Stone Shot
-SKILL_20150317_001315	{memo X}{#DD5500}{ol}[Physical] [Strike]{/}{/}{nlFire stone bullet and push away enemy. Target becomes stun by chance.
+SKILL_20150317_001315	{memo X}{#DD5500}{ol}[Physical] [Strike]{/}{/}{nl}Fire stone bullet and push away enemy. The target has a chance to be stunned.
 SKILL_20150317_001316	{memo X}Attack #{SkillAtkAdd}#{nl}{#339999}{ol}[Stun]{/}{/} Duration #{CaptionRatio2}# seconds{nl}Use 1 stone bullet
 SKILL_20150317_001317	$Rapid Fire
 SKILL_20150317_001318	{memo X}{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl} Load multiple arrows into your crossbow and then quickly shoot them at the enemy.
@@ -1996,7 +1996,7 @@ SKILL_20150317_001995	$Increases SP recovery.{nl}(Increases Lv. x maximum Stamin
 SKILL_20150317_001996	$Regeneration
 SKILL_20150317_001997	$Increases HP recovery.{nl}(Increases Lv. x maximum HP by 1%)
 SKILL_20150317_001998	Inspiration
-SKILL_20150317_001999	Defense level will increase. {Nl} (increased by level x 10)
+SKILL_20150317_001999	Increases Defense level. {nl} (increased by level x 10)
 SKILL_20150317_002000	Enemies hit with strong strike have chance of fainting for 5 seconds.
 SKILL_20150317_002001	Traverse
 SKILL_20150317_002002	Move short distance at high speed. Stamina is consumed. Press arrow key twice to use. -- Squire Characteristic
@@ -2019,16 +2019,16 @@ SKILL_20150317_002018	Whipping Top
 SKILL_20150317_002019	Rotation time of Whirlwind increases.
 SKILL_20150317_002020	Lv.1 Rotation time + # {IncrValue1} # seconds {nl} Lv.2 Rotation time + # {IncrValue1} # seconds
 SKILL_20150317_002021	Nether Web
-SKILL_20150317_002022	Number of attacks Telekinesis can do increases. {Nl} (Increase as much as level.)
+SKILL_20150317_002022	Number of attacks Telekinesis can do increases. {nl} (Increase as much as level.)
 SKILL_20150317_002023	Ignite
 SKILL_20150317_002024	Amount of damage is doubled when attacking enemy under Slow with Fire Ball.
-SKILL_20150317_002025	Add a chance of Stun for Spear Blow skill{Nl} (Increases by 5% per level.)
+SKILL_20150317_002025	Spear Blow has a chance to stun.{nl} (Increases by 5% per level.)
 SKILL_20150317_002026	Surprise Attack
-SKILL_20150317_002027	Additional critical chance against stunned enemies. {Nl} (Basic chance of 30% + 5% added per level.)
+SKILL_20150317_002027	Additional critical chance against stunned enemies. {nl} (Basic chance of 30% + 5% added per level.)
 SKILL_20150317_002028	Concentration
-SKILL_20150317_002029	Critical rate increases when attacking far away enemies. {Nl} (Basic chance of 50% + 5% added per level.)
+SKILL_20150317_002029	Critical rate increases when attacking far away enemies. {nl} (Basic chance of 50% + 5% added per level.)
 SKILL_20150317_002030	Self Vitality
-SKILL_20150317_002031	Potion buff duration increases. {Nl} (Increases by 5% per level.)
+SKILL_20150317_002031	Potion buff duration increases. {nl} (Increases by 5% per level.)
 SKILL_20150317_002032	Strike
 SKILL_20150317_002033	Already knocked back enemy is knocked back again and receives additional damage.
 SKILL_20150317_002034	Nanta
@@ -2039,11 +2039,11 @@ SKILL_20150317_002038	Physical strength improves. Max HP increases.
 SKILL_20150317_002039	Increase INT
 SKILL_20150317_002040	Intelligence increases. Increases max SP and magic attack.
 SKILL_20150317_002041	Balance
-SKILL_20150317_002042	Gung Ho skill's resistance probability increase. {Nl} (Increases by 5% per level.)
+SKILL_20150317_002042	Gung Ho's resistance probability increase. {nl} (Increases by 5% per level.)
 SKILL_20150317_002043	Smash
-SKILL_20150317_002044	Umbo Blow's knock down power increases. {Nl} (Increased by 50% per level.)
+SKILL_20150317_002044	Umbo Blow's knockdown power increases. {nl} (Increased by 50% per level.)
 SKILL_20150317_002045	Sharp Spear Head
-SKILL_20150317_002046	Spear Blow gains a chance to bleed on hit. {Nl} (Increases by 5% per level.)
+SKILL_20150317_002046	Spear Blow gains a chance to bleed on hit. {nl} (Increases by 5% per level.)
 SKILL_20150317_002047	Wire Rope
 SKILL_20150317_002048	Centrifugal Force
 SKILL_20150317_002049	Tricks
@@ -3567,7 +3567,7 @@ SKILL_20150406_003566	{memo X}Collect the corpse fragments left where the monste
 SKILL_20150406_003567	{memo X}Heavy Shot
 SKILL_20150406_003568	{memo X}Twin Arrow
 SKILL_20150406_003569	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Hang bomb on arrow and fire.
-SKILL_20150406_003570	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Fires a stone-bullet that knocks back the target. The target is stunned by chance.
+SKILL_20150406_003570	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Fires a stone-bullet that knocks back the target. The target has a chance to be stunned.
 SKILL_20150406_003571	$Teardown
 SKILL_20150406_003572	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Destroy obstacles that block the way and damage enemies in front.
 SKILL_20150406_003573	$Running Shot
@@ -5052,7 +5052,7 @@ SKILL_20150918_005051	$Attack per Stack: +#{CaptionRatio}#{nl}Maximum Stacks: #{
 SKILL_20150918_005052	$Helm Chopper
 SKILL_20150918_005053	${#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Strike the enemy's head, causing it to be stunned.
 SKILL_20150918_005054	$Seism
-SKILL_20150918_005055	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Earthshake causes enemies to be unable to attack. Enemies are stunned by chance.
+SKILL_20150918_005055	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Earthshake causes enemies to be unable to attack. Enemies have a chance to be stunned.
 SKILL_20150918_005056	$Cleave
 SKILL_20150918_005057	{memo X}{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Use centrifugal force and continuously attack enemies by turning body. Make an additional damage to the enemy stunned.
 SKILL_20150918_005058	${#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Use your shield and sword to successively attack enemies.
