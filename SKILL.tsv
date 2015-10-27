@@ -1374,7 +1374,7 @@ SKILL_20150317_001373	{memo X}Attack #{SkillAtkAdd}#{nl}Duration 10 seconds
 SKILL_20150317_001374	$Cloaking
 SKILL_20150317_001375	{memo X}Hide from enemy.
 SKILL_20150317_001376	$Duration: #{CaptionTime}# seconds
-SKILL_20150317_001377	$Undistance
+SKILL_20150317_001377	$Perspective Distortion
 SKILL_20150317_001378	{memo X}Distort your location to make close range attacks possible even from afar.
 SKILL_20150317_001379	{memo X}Max. duration 10 seconds {nl} #{CaptionRatio}# SP consumed per second
 SKILL_20150317_001380	$Scan
@@ -2362,7 +2362,7 @@ SKILL_20150317_002361	$[Arrow Sprinkle]
 SKILL_20150317_002362	$Deploy Pavise: Quantity
 SKILL_20150317_002363	$Increases the number of deployable Pavises to 2, but the HP of the Pavise will decrease by half.
 SKILL_20150317_002364	$Scatter Caltrops: Duration
-SKILL_20150317_002365	{memo X}Durations of caltrops scattered by [Scatter Caltrop] increases by 1 second per attribute level.
+SKILL_20150317_002365	{memo X}Durations of caltrops scattered by [Scatter Caltrops] increases by 1 second per attribute level.
 SKILL_20150317_002366	$Scatter Caltrops: Bleeding
 SKILL_20150317_002367	{memo X}Enemies are inflicted with [Bleed] at an 8% chance per attribute level when stepping on caltrops.
 SKILL_20150317_002368	$Stone Shot: Stun
@@ -2409,8 +2409,8 @@ SKILL_20150317_002408	$Cloaking: Physical Damage
 SKILL_20150317_002409	{memo X}$Deals additional damage equal to 50% physical damage after the first attack made with [Cloaking].
 SKILL_20150317_002410	$Camouflage: Movement Speed
 SKILL_20150317_002411	$Increases your movement speed by 10% per attribute level when using [Camouflage].
-SKILL_20150317_002412	$Undistance: Physical Damage
-SKILL_20150317_002413	{memo X}Physical attack of allies within [Undistance] increases by 5% per attribute level.
+SKILL_20150317_002412	Perspective Distortion: Physical Damage
+SKILL_20150317_002413	{memo X}Physical attack of allies within [Perspective Distortion] increases by 5% per attribute level.
 SKILL_20150317_002414	$Reconnaissance: Pierce Damage
 SKILL_20150317_002415	Monsters revealed with [Reconaissance] receive 10% more Pierce damage per level while the skill is enabled.
 SKILL_20150317_002416	$Be Prepared: Reset Aggro
@@ -4563,7 +4563,7 @@ SKILL_20150714_004562	{memo X}Jincan Gu: Vitality
 SKILL_20150714_004563	{memo X}Life time of the bugs that are born from [Jincan Gu] with a fixed probability will be doubled. The probability will increase by 5% per Attribute level.
 SKILL_20150714_004564	$Increases the damage dealt on an enemy with [Flu Flu] by 1% per attribute level.
 SKILL_20150714_004565	$Increases the damage dealt on an enemy with [Flare Shot] by 1% per attribute level.
-SKILL_20150714_004566	$Increases the physical attack of allies within the range of [Undistance] by 5% per attribute level.
+SKILL_20150714_004566	$Increases the physical attack of allies within the range of [Perspective Distortion] by 5% per attribute level.
 SKILL_20150714_004567	$Increases the number of enemies influenced by [Flu Flu] by 1 per attribute level.
 SKILL_20150714_004568	$Camouflage: Jump
 SKILL_20150714_004569	$Able to jump while in [Camouflage].
