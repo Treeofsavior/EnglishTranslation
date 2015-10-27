@@ -1306,24 +1306,24 @@ SKILL_20150317_001305	$Deploy Pavise
 SKILL_20150317_001306	{memo X}Install a Pavise on the ground to defend against projectiles.
 SKILL_20150317_001307	{memo X}Defend range projectile #{SkillFactor}# times{nl}Pavise duration #{CaptionTime}# seconds
 SKILL_20150317_001308	$Scatter Caltrops
-SKILL_20150317_001309	{memo X}{#DD5500}{ol}[Physical] - [Pierce]{/}{/}Throw caltrop on ground to damage and slow down enemies when stepping on it.
+SKILL_20150317_001309	{memo X}{#DD5500}{ol}[Physical] - [Pierce]{/}{/}Throw caltrops on the ground to damage and slow down enemies that step on them.
 SKILL_20150317_001310	{memo X}Attack #{SkillAtkAdd}#{nl}Throw #{CaptionRatio2}#{nl}Caltrop duration 20 seconds{nl}{#339999}{ol}[Slow]{/}{/} Duration 10 seconds
 SKILL_20150317_001311	$Stone Picking
 SKILL_20150317_001312	{memo X}Pick up stone projectiles found on the field. Cannot be obtained in town.
 SKILL_20150317_001313	$Obtainable Stone Bullets: #{SkillFactor}#
-SKILL_20150317_001314	$Stone shot
+SKILL_20150317_001314	$Stone Shot
 SKILL_20150317_001315	{memo X}{#DD5500}{ol}[Physical] [Strike]{/}{/}{nlFire stone bullet and push away enemy. Target becomes stun by chance.
 SKILL_20150317_001316	{memo X}Attack #{SkillAtkAdd}#{nl}{#339999}{ol}[Stun]{/}{/} Duration #{CaptionRatio2}# seconds{nl}Use 1 stone bullet
 SKILL_20150317_001317	$Rapid Fire
 SKILL_20150317_001318	{memo X}{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl} Load multiple arrows into your crossbow and then quickly shoot them at the enemy.
 SKILL_20150317_001319	{memo X}Attack #{SkillAtkAdd}#{nl}Max. loading time #{CaptionTime}# seconds
 SKILL_20150317_001320	$Broom Trap
-SKILL_20150317_001321	{memo X}{#DD5500}{ol}[Physical] [Strike]{/}{/}{nl}Install a trap that damages nearby enemies.
+SKILL_20150317_001321	{memo X}{#DD5500}{ol}[Physical] [Strike]{/}{/}{nl}Set a trap that damages nearby enemies.
 SKILL_20150317_001322	$Attack: #{SkillAtkAdd}#{nl}Duration: 15 seconds
-SKILL_20150317_001323	{memo X}{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Install a trap that fires buckshot and damages enemy.
+SKILL_20150317_001323	{memo X}{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Set a trap that fires buckshot and damages enemy.
 SKILL_20150317_001324	{memo X}Attack #{SkillAtkAdd}#{nl}Splash #{CaptionRatio}#
 SKILL_20150317_001325	$Punji Stake
-SKILL_20150317_001326	{memo X}{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Install trap that blows away enemies when stepping on it.
+SKILL_20150317_001326	{memo X}{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Set trap that blows away enemies when stepping on it.
 SKILL_20150317_001327	{memo X}Attack #{SkillAtkAdd}#{nl}Cast Time 3 seconds
 SKILL_20150317_001328	$Detonate Traps
 SKILL_20150317_001329	{memo X}{#DD5500}{ol}[Physical] [Strike]{/}{/}{nl}Detonate nearby traps and magic circles to damage enemies.
@@ -2174,7 +2174,7 @@ SKILL_20150317_002173	$You can can change directions when using [Hell Breath].
 SKILL_20150317_002174	$Hell Breath: Knockback
 SKILL_20150317_002175	{memo X}Enemies hit with [Hell Breathe] is pushed away at 10% chance per Attribute level.
 SKILL_20150317_002176	$Enchant Fire: Fire Property Resistance Increase
-SKILL_20150317_002177	$Increases and decreases your fire property resistance and ice property resistance by 5 per level respectively, when using [Enchant Fire].
+SKILL_20150317_002177	$Increases and decreases your Fire property resistance and Ice property resistance by 5 per level respectively, when using [Enchant Fire].
 SKILL_20150317_002178	{memo X}Enchanted Fire: Fire attribute resistance decrease
 SKILL_20150317_002179	{memo X}Fire Resistance of enemy within range of [Enchant Fire] decrease by 10% per attribute level for 5 seconds.
 SKILL_20150317_002180	$Fire Pillar: Pull
@@ -3811,7 +3811,7 @@ SKILL_20150414_003810	Call
 SKILL_20150414_003811	Recall your hawk.
 SKILL_20150414_003812	Level 1 Master
 SKILL_20150414_003813	Looking
-SKILL_20150414_003814	Install Perch
+SKILL_20150414_003814	Set Perch
 SKILL_20150414_003815	Set up a perch where the hawk can sit. The hawk will wait for the owner's order on the perch. The perch disappears when you move away from it.
 SKILL_20150414_003816	Range: #{CaptionRatio}#{nl}Torch Duration: #{CaptionRatio2}# seconds
 SKILL_20150414_003817	Circling
@@ -4586,9 +4586,9 @@ SKILL_20150714_004585	$Increases the time duration of the [Bleeding] status when
 SKILL_20150714_004586	$Bodkin Point: Defense Decrease
 SKILL_20150714_004587	{memo X}[Reduced DEF] of [Bodkin Point] will be reduced by 2% per Attribute level.
 SKILL_20150714_004588	{memo X}The enemies that are shot by [Magic Arrow] will fall into [Silence] with a certain probabillity. The probability will increase by 10% per Attribute level.
-SKILL_20150714_004589	The range in which [Install Roost] will maintain increases by 20 per attribute level.
+SKILL_20150714_004589	The range in which [Set Perch] will maintain increases by 20 per attribute level.
 SKILL_20150714_004590	Call: Obtain
-SKILL_20150714_004591	The Hawk which will return as a result of [Call] would bring Potions or Herbs with 50% probability.
+SKILL_20150714_004591	The hawk which returns as a result of [Call] will bring Potions or Herbs with 50% probability.
 SKILL_20150714_004592	$Hovering: Duration
 SKILL_20150714_004593	$Increases the duration of [Hovering] by 3 seconds per attribute level.
 SKILL_20150714_004594	$Hovering: Attack Speed Buff
@@ -4612,7 +4612,7 @@ SKILL_20150714_004611	$Increases the damage dealt on an enemy with [Zaibas] by 1
 SKILL_20150714_004612	{memo X}Character's Fire resistance will increase by 5 per Attribute level and the resistance to Darkness will decrease by 3 per Attribute level.
 SKILL_20150714_004613	$Increases the duration of [Daino]'s effect by 40 seconds per attribute level.
 SKILL_20150714_004614	$Aukuras: Fire Property Resistance
-SKILL_20150714_004615	$Increases the character's fire property resistance by 14 per attribute level while [Aukuras] is active. 
+SKILL_20150714_004615	$Increases the character's Fire property resistance by 14 per attribute level while [Aukuras] is active. 
 SKILL_20150714_004616	$Zalciai: Duration
 SKILL_20150714_004617	$Increases the duration of [Zalciai] by 3 seconds per attribute level.
 SKILL_20150714_004618	$Zalciai: Magic Amplification
@@ -4823,11 +4823,11 @@ SKILL_20150717_004822	$Increases the chance of stun by 2% per attribute level wh
 SKILL_20150717_004823	$Using basic sword attacks on enemies with [Deprotected Zone] will affect the [Weakened Defense] status effect. Can stack [Weakened Defense] up to 10 times. 
 SKILL_20150717_004824	$Increases the range applied by [Safety Zone] to 15.
 SKILL_20150717_004825	{memo X}HP recovery of [Aukuras] increases by 1 per attribute level.
-SKILL_20150717_004826	$Increases the character's fire property resistance and decreases the dark property resistance by 5 and 3 per attribute level respectively.
+SKILL_20150717_004826	$Increases the character's Fire property resistance and decreases the Dark property resistance by 5 and 3 per attribute level respectively.
 SKILL_20150717_004827	[Zaibas] is affected by splash and inflicts damage on multiple target at once. (total count does not increase.)
 SKILL_20150717_004828	{memo X}$Increases the range of [Melstis] to 50. 
 SKILL_20150717_004829	$Sacrament: Dark Property Resistance
-SKILL_20150717_004830	$Increases your dark property resistance by 5 per attribute level while [Sacrament] is active.
+SKILL_20150717_004830	$Increases your Dark property resistance by 5 per attribute level while [Sacrament] is active.
 SKILL_20150717_004831	$Increases the duration of [Revive] by 7 seconds per attribute level. 
 SKILL_20150717_004832	$Enemies hit by [Effigy] can be affected by [Darkness] with a 5% chance for 5 seconds per attribute level.
 SKILL_20150717_004833	$Increases the range of [Samediveve] to 110.
@@ -4983,7 +4983,7 @@ SKILL_20150729_004982	Release Lunacy
 SKILL_20150729_004983	Physical ATK increases, Movement Speed increases, Physical DEF decreases
 SKILL_20150729_004984	Enemy cannot jump when attacked with [Skull Swing].
 SKILL_20150729_004985	$Enchant Fire: Fire Property Resistance Decrease
-SKILL_20150729_004986	$Decreases the fire property resistance of nearby enemies when using [Enchant Fire] by 10% for 5 seconds per attribute level.
+SKILL_20150729_004986	$Decreases the Fire property resistance of nearby enemies when using [Enchant Fire] by 10% for 5 seconds per attribute level.
 SKILL_20150729_004987	[Stop] can also stop boss monsters but once released, it will not be stopped again.
 SKILL_20150729_004988	$Heal: Remove Damage
 SKILL_20150729_004989	$[Heal] will not inflict damage and react to enemies.
@@ -5336,7 +5336,7 @@ SKILL_20151016_005335	$Increases your fire property attack by 3 per attribute le
 SKILL_20151016_005336	$Subzero Shield: Counterattack Enhance
 SKILL_20151016_005337	$When you block enemies' attacks using [Sub-Zero Shield] while equipped with a shield, there will be greater counter attack damage based on the Shield's defense. The counter attack damage will be 50% per attribute level.
 SKILL_20151016_005338	$Shield Mastery: Enchant
-SKILL_20151016_005339	$Increases your ice property resistance and the defense of your shield corresponding the magic defense. The corresponding value applies to 25% per attribute level. 
+SKILL_20151016_005339	$Increases your Ice property resistance and the defense of your shield corresponding the magic defense. The corresponding value applies to 25% per attribute level. 
 SKILL_20151016_005340	$Freezing Sphere: Enhance
 SKILL_20151016_005341	$Increases the damage dealt on an enemy with [Freezing Sphere] by 1% per attribute level.
 SKILL_20151016_005342	$Decreases the critical resistance of an enemy affected by [Slow] equal to 15% of your INT.
