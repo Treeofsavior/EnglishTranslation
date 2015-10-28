@@ -3811,7 +3811,7 @@ SKILL_20150414_003810	Call
 SKILL_20150414_003811	Recall your hawk.
 SKILL_20150414_003812	Level 1 Master
 SKILL_20150414_003813	Looking
-SKILL_20150414_003814	Set Perch
+SKILL_20150414_003814  Roost
 SKILL_20150414_003815	Set up a perch where the hawk can sit. The hawk will wait for the owner's order on the perch. The perch disappears when you move away from it.
 SKILL_20150414_003816	Range: #{CaptionRatio}#{nl}Torch Duration: #{CaptionRatio2}# seconds
 SKILL_20150414_003817	Circling
@@ -4023,7 +4023,7 @@ SKILL_20150414_004022	$Call of Deities: Fade
 SKILL_20150414_004023	Character is not threatened by monster summoned with [Call of Deities]. (except pre-emptive attack types)
 SKILL_20150414_004024	$Forecast: Duration
 SKILL_20150414_004025	{memo X}Duration of [Forecast] increases by a seconds per attribute level.
-SKILL_20150414_004026	$Install Perch: Increase Range
+SKILL_20150414_004026	$Roost: Increase Range
 SKILL_20150414_004027	{memo X}Range of maintaining perch in [Install Perch] increases by 20 per attribute level.
 SKILL_20150428_004028	{memo X}Magic Missile
 SKILL_20150428_004029	${#993399}{ol}[Magic]{/}{/}{nl}Attack enemies consecutively by using magic bullets. An additional bullet is fired when attacking enemies who are asleep.
@@ -4586,9 +4586,9 @@ SKILL_20150714_004585	$Increases the time duration of the [Bleeding] status when
 SKILL_20150714_004586	$Bodkin Point: Defense Decrease
 SKILL_20150714_004587	{memo X}[Reduced DEF] of [Bodkin Point] will be reduced by 2% per Attribute level.
 SKILL_20150714_004588	{memo X}The enemies that are shot by [Magic Arrow] will fall into [Silence] with a certain probabillity. The probability will increase by 10% per Attribute level.
-SKILL_20150714_004589	The range in which [Set Perch] will maintain increases by 20 per attribute level.
+SKILL_20150714_004589	Increases the range that [Roost] will remain active by 20 per attribute level.
 SKILL_20150714_004590	Call: Obtain
-SKILL_20150714_004591	The hawk which returns as a result of [Call] will bring Potions or Herbs with 50% probability.
+SKILL_20150714_004591	The hawk which returns as a result of [Call] has a 50% chance to bring potions or herbs.
 SKILL_20150714_004592	$Hovering: Duration
 SKILL_20150714_004593	$Increases the duration of [Hovering] by 3 seconds per attribute level.
 SKILL_20150714_004594	$Hovering: Attack Speed Buff
@@ -5168,7 +5168,7 @@ SKILL_20150918_005167	$Shield Guard
 SKILL_20150918_005168	$Umbo Thrust: Enhance
 SKILL_20150918_005169	$Increases the damage dealt on an enemy with [Umbo Thrust] by 1% per attribute level.
 SKILL_20150918_005170	$Moulinet: Critical
-SKILL_20150918_005171	$[Cartar Stroke] will no longer knock enemies back. (Only applies if the attribute is set to ON)
+SKILL_20150918_005171	$[Cartar Stroke] no longer knocks enemies back. (Only applies if the attribute is set to ON)
 SKILL_20150918_005172	$Skyliner: Enhance
 SKILL_20150918_005173	$Increases the damage dealt on an enemy with [Skyliner] by 1% per attribute level.
 SKILL_20150918_005174	$Cross Cut: Enhance
@@ -5199,11 +5199,11 @@ SKILL_20150918_005198	$Increases the damage dealt on an enemy with [Shield Bash]
 SKILL_20150918_005199	$High Kick: Enhance
 SKILL_20150918_005200	$Increases the damage dealt on an enemy with [High Kick] by 1% per attribute level.
 SKILL_20150918_005201	$Earth Wave: Remove Knockdown
-SKILL_20150918_005202	$[Earth Wave] no longer knockdowns enemies. (Only applies if the attribute is set to ON)
+SKILL_20150918_005202	$[Earth Wave] no longer knocks enemies down. (Only applies if the attribute is set to ON)
 SKILL_20150918_005203	$Steed Charge: Remove Knockdown
 SKILL_20150918_005204	$[Steed Charge] no longer knocks enemies down. (Only applies if the attribute is set to ON)
 SKILL_20150918_005205	$Doom Spike
-SKILL_20150918_005206	$[Doom Spike] no longer knocks enemies down. (Only applies if the attribute is set to ON)
+SKILL_20150918_005206	$[Doom Spike] no longer knocks enemies back. (Only applies if the attribute is set to ON)
 SKILL_20150918_005207	$Increases the count of [Weapon Maintenance] by 20 per attribute level.
 SKILL_20150918_005208	$Increases the count of [Armor Maintenance] by 5 per attribute level.
 SKILL_20150918_005209	$Dust Devil: Enhance
