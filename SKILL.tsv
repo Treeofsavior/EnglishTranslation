@@ -1075,7 +1075,7 @@ SKILL_20150317_001074	$Reflect Shield
 SKILL_20150317_001075	{memo X}$Creates a protective shield that reflects the amplified damage to the target.
 SKILL_20150317_001076	$Damage Reflection: #{CaptionRatio}#{nl}Duration: #{CaptionTime}# seconds{nl}Reflects #{CaptionRatio2}# times
 SKILL_20150317_001077	$Earthquake
-SKILL_20150317_001078	${#993399}{ol}[Magic] - [Earth]{/}{/}{nl} Inflicts damage on an enemy by causing a powerful earthquake.
+SKILL_20150317_001078	${#993399}{ol}[Magic] - [Earth]{/}{/}{nl} Inflicts damage on an enemy by causing a powerful earthquake in front of you.
 SKILL_20150317_001079	$Surespell
 SKILL_20150317_001080	$The casting of a skill won't be canceled when you are being attacked.
 SKILL_20150317_001081	$Duration #{CaptionTime}# seconds
@@ -3671,7 +3671,7 @@ SKILL_20150414_003670	Realign direction of formation to leader's view.
 SKILL_20150414_003671	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Hold the sword backwards and use its handle to smack down enemy.
 SKILL_20150414_003672	$Doubles your EXP and reward when you defeat an enemy within a certain number of attacks. You take 3x damage while the effect is active, and lose more durability when you become incapable of combat.
 SKILL_20150414_003673	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Use centrifugal force and continuously attack enemies.
-SKILL_20150414_003674	${#993399}{ol}[Magic]{/}{/}{nl}Gather powerful magical energy to launch it towards the enemy. Increases the inflicted damage depending on the amount of gathered energy.
+SKILL_20150414_003674	${#993399}{ol}[Magic]{/}{/}{nl}Gather powerful magical energy to launch it towards an enemy. Increases the inflicted damage depending on the amount of gathered energy.
 SKILL_20150414_003675	$Makes an enemy lethargic.
 SKILL_20150414_003676	$Makes an enemy fall asleep. The enemy awakens once you've reached your limit of attacks.
 SKILL_20150414_003677	$Creates a protective shield that reflects the amplified damage to the enemy.
@@ -4490,8 +4490,8 @@ SKILL_20150714_004489	$Increases the Critical Rate effect from [Quicken] by 5% a
 SKILL_20150714_004490	$When an enemy affected by [Reincarnate] dies and is revived, two enemies will appear with a chance of 1% per attribute level.
 SKILL_20150714_004491	{memo X}Increases the duration of [Confusion] from Lv. 2 by 2 seconds per attribute level, after using [Back Masking], the enemies that will be pulled by aggro will be affected by [Confusion] for 6 seconds.
 SKILL_20150714_004492	$Increases the damage dealt on an enemy with [Gather Corpse] by 1% per attribute level.
-SKILL_20150714_004493	$Increases the damage dealt on an enemy with [Flash Cannon] by 1% per attribute level.
-SKILL_20150714_004494	$Increases the damage dealt on an enemy with [Flash Hoop] by 1% per attribute level.
+SKILL_20150714_004493	$Increases the damage dealt on an enemy with [Flesh Cannon] by 1% per attribute level.
+SKILL_20150714_004494	$Increases the damage dealt on an enemy with [Flesh Hoop] by 1% per attribute level.
 SKILL_20150714_004495	{memo X}When an enemy gets shot by [Flash Canon], it will fall into Decay status for 30 secs with a certain probability. The rate will increase by 5% per Attribute level.
 SKILL_20150714_004496	$Create Shoggoth: Decay
 SKILL_20150714_004497	{memo X}The enemies near Shoggoth will fall into Decay status for 10 secs. This ability will last for 1 min per Attribute level after Shoggoth gets summoned.
@@ -5254,8 +5254,8 @@ SKILL_20151001_005253	$Corpse Tower Duration: #{CaptionRatio}# seconds{nl}Number
 SKILL_20151001_005254	$Split Arrow
 SKILL_20151001_005255	${#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Deals damage to two nearby enemies with a bouncing arrow once an attack lands.
 SKILL_20151001_005256	$Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Bounced Arrow Attack: #{CaptionRatio2}#%
-SKILL_20151001_005257	$Temporarily increases the skill level of you and your party members by 1.
-SKILL_20151001_005258	$Applies #{SkillFactor}# times{nl}Duration: 60 seconds
+SKILL_20151001_005257	$Temporarily increases the skill levels of you and your party members by 1.
+SKILL_20151001_005258	$Applies for #{SkillFactor}# Skill Uses{nl}Duration: 60 seconds
 SKILL_20151001_005259	Spirit Barrier
 SKILL_20151001_005260	$Deals magic damage in Out of Body by drawing a barrier.
 SKILL_20151001_005261	$Increases your Critical Rate. 
@@ -5323,7 +5323,7 @@ SKILL_20151016_005322	Companion emergency treatment
 SKILL_20151016_005323	When HP of a companion falls below 50%, receive [Emergency Treatment] to continuously recover HP. After [Emergency Treatment], [Can't be treated] status.
 SKILL_20151016_005324	Shield Mastery: Block
 SKILL_20151016_005325	Increases Block by 5% per attribute level when equipped with a [Shield].
-SKILL_20151016_005326	Double handed Swords Mastery: Critical Attack
+SKILL_20151016_005326	Two-handed Sword Mastery: Critical Attack
 SKILL_20151016_005327	Skull Swing: Eliminate Knockback
 SKILL_20151016_005328	[Skull Swing] does not push away enemies anymore.(When the attribute is ON, you won't be pushed away.)
 SKILL_20151016_005329	$Spear Lunge: Enhance
@@ -5336,11 +5336,7 @@ SKILL_20151016_005335	$Increases your fire property attack by 3 per attribute le
 SKILL_20151016_005336	$Subzero Shield: Counterattack Enhance
 SKILL_20151016_005337	$When you block enemies' attacks using [Sub-Zero Shield] while equipped with a shield, there will be greater counter attack damage based on the Shield's defense. The counter attack damage will be 50% per attribute level.
 SKILL_20151016_005338	$Shield Mastery: Enchant
-<<<<<<< .merge_file_a06728
 SKILL_20151016_005339	$Increases magic defense and ice property resistance equal to 25% of your equipped [Shield]'s defense per attribute level.
-=======
-SKILL_20151016_005339	$Increases your Ice property resistance and the defense of your shield corresponding the magic defense. The corresponding value applies to 25% per attribute level. 
->>>>>>> .merge_file_a08556
 SKILL_20151016_005340	$Freezing Sphere: Enhance
 SKILL_20151016_005341	$Increases the damage dealt on an enemy with [Freezing Sphere] by 1% per attribute level.
 SKILL_20151016_005342	$Decreases the critical resistance of an enemy affected by [Slow] equal to 15% of your INT.
