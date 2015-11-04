@@ -569,9 +569,9 @@ SKILL_20150317_000568	[Throneweaver] Physical Poison Property Magic
 SKILL_20150317_000569	[Throneweaver] Physical Poison Property Strike
 SKILL_20150317_000570	[Throneweaver] Magic Poison Property Magic
 SKILL_20150317_000571	[Mineloader] Physical Lightning Property Strike
-SKILL_20150317_000572	[Shadowgaoler] Physical Dark Property Slash
-SKILL_20150317_000573	[Shadowgaoler] Magic Dark Property Magic
-SKILL_20150317_000574	[Shadowgaoler] Physical Dark Property Magic
+SKILL_20150317_000572	[Shadowgaler] Physical Dark Property Slash
+SKILL_20150317_000573	[Shadowgaler] Magic Dark Property Magic
+SKILL_20150317_000574	[Shadowgaler] Physical Dark Property Magic
 SKILL_20150317_000575	[Giantredwood] Physical Non-Property Strike
 SKILL_20150317_000576	[Giantredwood] Physical Fire Property Strike
 SKILL_20150317_000577	[Rexipher] Physical Dark Property Strike
@@ -846,7 +846,7 @@ SKILL_20150317_000845	[Mirtis Card] Magic Dark Property Slash
 SKILL_20150317_000846	[Sequoia Card] Physical Fire Property Magic
 SKILL_20150317_000847	[Rikaus Card] Physical Dark Property Slash
 SKILL_20150317_000848	[Werewolf Card] Physical Dark Property Magic
-SKILL_20150317_000849	[Shadowgaoler Card] Magic Dark Property Slash
+SKILL_20150317_000849	[Shadowgaler Card] Magic Dark Property Slash
 SKILL_20150317_000850	[Carnivore Card] Physical Poison Property Magic
 SKILL_20150317_000851	[Minotaur Card] Magic Fire Property Magic
 SKILL_20150317_000852	[Throneweaver Card] Magic Poison Property Strike
@@ -4812,10 +4812,10 @@ SKILL_20150717_004811	{memo X}$Provides immunity to [Poison] for 2 seconds per a
 SKILL_20150717_004812	Even if an object gets out of the range of [Throw Gu Pot], [Poison] will continue for 2 seconds per attribute level.
 SKILL_20150717_004813	Enemies within the range of [Scan] will be afflicted with [Confusion] by certain chance for 5 seconds. Increases the chance by 10% per attribute level.
 SKILL_20150717_004814	Enemies within the range of [Tear Gas] will receive damage every 2 seconds. Increases the damage per attribute level.
-SKILL_20150717_004815	The enemy become afflicted with [Massive Bleeding] for 10 seconds when attacked with [Backstab] while affected by bleeding. Increases the duration by 1 second per attribute level. Massive Bleed damage is based on your STR and physical attack.
+SKILL_20150717_004815	Afflicts the enemy with [Massive Bleeding] for 10 seconds when attacked with [Backstab] while affected by bleeding. Increases the duration by 1 second per attribute level. Massive Bleed damage is proportional to the character's STR and physical attack.
 SKILL_20150717_004816	$Increases the range of [Tear Gas] to 75.
 SKILL_20150717_004817	Decreases the enemy's physical defense by 1% per attribute level when you attack with [Bodkin Point].
-SKILL_20150717_004818	[Crossfire] gets a 10% chance per level of inflicting [Burn] on targets. Burn damage scales with character's physical damage.
+SKILL_20150717_004818	[Crossfire] gets a 10% chance per level of inflicting [Burn] on targets. Burn damage is proportional to the character's physical attack.
 SKILL_20150717_004819	Enemies hit by [Magic Arrow] will be afflicted with [Silence] by a certain chance. Increases the chance by 10% per attribute level.
 SKILL_20150717_004820	You can create the arrows for Fletcher. Crafting arrow is available while in Rest Mode.
 SKILL_20150717_004821	{memo X}Defense decrease effect of [Deprotected Zone] increases by 1 per attribute level.
@@ -4824,7 +4824,7 @@ SKILL_20150717_004823	$Using basic sword attacks on enemies with [Deprotected Zo
 SKILL_20150717_004824	$Increases the range applied by [Safety Zone] to 15.
 SKILL_20150717_004825	{memo X}HP recovery of [Aukuras] increases by 1 per attribute level.
 SKILL_20150717_004826	$Increases the character's Fire property resistance and decreases the Dark property resistance by 5 and 3 per attribute level respectively.
-SKILL_20150717_004827	[Zaibas] is affected by splash and inflicts damage on multiple target at once. (total count does not increase.)
+SKILL_20150717_004827	[Zaibas] is affected by the character's AoE Attack Ratio and inflicts damage on multiple target at once. (total count does not increase.)
 SKILL_20150717_004828	{memo X}$Increases the range of [Melstis] to 50. 
 SKILL_20150717_004829	$Sacrament: Dark Property Resistance
 SKILL_20150717_004830	$Increases your Dark property resistance by 5 per attribute level while [Sacrament] is active.
@@ -4839,9 +4839,9 @@ SKILL_20150717_004838	{memo X}$Decreases the enemy's physical defense by 30% wit
 SKILL_20150717_004839	{memo X}$Decreases the SP cost of [Vashita Siddhi] by 10. 
 SKILL_20150717_004840	$Enemies within the range of [Vashita Siddhi] have a chance to be afflicted with Confusion. Increases the chance by 10% per attribute level.
 SKILL_20150717_004841	{memo X}HP recovery effect of [Restoration] increases per attribute level
-SKILL_20150717_004842	$The instant death chance of [Turn Undead] is proportional to your SPR.
+SKILL_20150717_004842	$The instant death chance of [Turn Undead] is proportional to the character's SPR.
 SKILL_20150717_004843	{memo X}Damage that will be reflected off from [Iron Skin] will be added 20% of Physical ATK per Attribute level.
-SKILL_20150717_004844	$Enemies hit by [Palm Strike] will be affected by [Bleeding] for 8 seconds. Increases the duration of [Bleeding] by 1 second per attribute level. Bleeding damage is proportional to your physical attack.
+SKILL_20150717_004844	$Enemies hit by [Palm Strike] will be affected by [Bleeding] for 8 seconds. Increases the duration of [Bleeding] by 1 second per attribute level. Bleeding damage is proportional to the character's physical attack.
 SKILL_20150717_004845	$Craft a dispeller to prevent from getting harmful effects. Craft Dispeller is only possible in Rest Mode.
 SKILL_20150717_004846	When you endow the effect that is registered at [Spell Shop] to your ally, the duration will be increased. Increases the duration by 3 minutes per attribute level.
 SKILL_20150717_004847	$Nearby enemies receive Holy damage equal to the attribute level when using [Arcane Energy]
@@ -5332,7 +5332,7 @@ SKILL_20151016_005331	$Two-handed Spear Mastery: Penetration
 SKILL_20151016_005332	$Increases your block penetration by 10% per attribute level when equipped with a [Two-handed Spear]
 SKILL_20151016_005333	{memo X}$Rapier Master: Pierce
 SKILL_20151016_005334	{memo X}$Increases your [Pierce] damage by 5% per attribute level when equipped with a [Rapier]. (Does not apply to basic attacks)
-SKILL_20151016_005335	$Increases your fire property attack by 3 per attribute level when equipped with a [Staff].
+SKILL_20151016_005335	$Increases the character's Fire property attack by 3 per attribute level when equipped with a [Staff].
 SKILL_20151016_005336	$Subzero Shield: Counterattack Enhance
 SKILL_20151016_005337	$When you block enemies' attacks using [Sub-Zero Shield] while equipped with a shield, there will be greater counter attack damage based on the Shield's defense. The counter attack damage will be 50% per attribute level.
 SKILL_20151016_005338	$Shield Mastery: Enchant
@@ -5586,52 +5586,52 @@ SKILL_20151102_005585
 SKILL_20151102_005586
 SKILL_20151102_005587
 SKILL_20151102_005588
-SKILL_20151102_005589
+SKILL_20151102_005589	$Increases block penetration by 10% per attribute level when attacking an enemy with a [Two-handed Spear].
 SKILL_20151102_005590
 SKILL_20151102_005591	$Kunai: Enhance
-SKILL_20151102_005592
+SKILL_20151102_005592	$Increases the damage dealt on an enemy with [Kunai] by 1% per attribute level.
 SKILL_20151102_005593	$Katon no Jutsu: Enhance
-SKILL_20151102_005594
+SKILL_20151102_005594	$Increases the damage dealt on an enemy with [Katon no Jutsu] by 1% per attribute level.
 SKILL_20151102_005595	$Mijin no Jutsu: Enhance
-SKILL_20151102_005596
+SKILL_20151102_005596	$Increases the damage dealt on an enemy with [Mijin no Jutsu] by 1% per attribute level.
 SKILL_20151102_005597	$Mijin no Jutsu: Stealth
-SKILL_20151102_005598
+SKILL_20151102_005598	$Your character will hide for 5 seconds after using [Mijin no Jutsu]. Increases the duration from Lv 2 by 1.5 seconds per attribute level.
 SKILL_20151102_005599	$Katon no Jutsu: Stealth
-SKILL_20151102_005600
+SKILL_20151102_005600	$Your character will hide for 2 seconds per attribute level after using [Katon no Jutsu].
 SKILL_20151102_005601	$Bunshin no Jutsu: Endurance
-SKILL_20151102_005602
+SKILL_20151102_005602	$Increases the cycle time for STA cost by 0.5 seconds per attribute level.
 SKILL_20151102_005603	$Mokuton no Jutsu: Bind
-SKILL_20151102_005604
+SKILL_20151102_005604	$Restricts movement of an enemy for 4 seconds when taken damage with [Mokuton no Jutsu]. Increases the duration from Lv 2 by 1 second per attribute level.
 SKILL_20151102_005605	$Bunshin no Jutsu: Damage Decrease
-SKILL_20151102_005606
+SKILL_20151102_005606	$Decreases the damage of the shadow clones of [Bunshin no Jutsu].
 SKILL_20151102_005607	$Dragontooth: Enhance
-SKILL_20151102_005608
+SKILL_20151102_005608	$Increases the damage dealt on an enemy with [Dragontooth] by 1% per attribute level.
 SKILL_20151102_005609	$Dragontooth: Evasion
-SKILL_20151102_005610
+SKILL_20151102_005610	$Increases the character's evasion by 10% per attribute level for 7 seconds after using [Dragontooth].
 SKILL_20151102_005611	$Serpentine: Enhance
-SKILL_20151102_005612
+SKILL_20151102_005612	$Increases the damage dealt on an enemy with [Serpentine] by 1% per attribute level.
 SKILL_20151102_005613	$Serpentine: Bleeding
-SKILL_20151102_005614
+SKILL_20151102_005614	$Enemies hit by [Serpentine] have a 2% chance per attribute level to be afflicted with [Bleeding] for 8 seconds. Bleeding damage is proportional to the character's physical attack.
 SKILL_20151102_005615	$Gae Bulg: Enhance
-SKILL_20151102_005616
+SKILL_20151102_005616	Increases the damage dealt on an enemy with [Gae Bulg] by 1% per attribute level.
 SKILL_20151102_005617
 SKILL_20151102_005618
 SKILL_20151102_005619	$Dragon Soar: Enhance
-SKILL_20151102_005620
+SKILL_20151102_005620	$Increases the damage dealt on an enemy with [Dragon Soar] by 1% per attribute level.
 SKILL_20151102_005621	$Dragon Soar: Shock	
-SKILL_20151102_005622
+SKILL_20151102_005622	
 SKILL_20151102_005623	$Umbilical Cord: Nullify Increase
-SKILL_20151102_005624
+SKILL_20151102_005624	
 SKILL_20151102_005625	$Joint Penalty: Electricity
-SKILL_20151102_005626
+SKILL_20151102_005626	
 SKILL_20151102_005627	$Joint Penalty: Poison
-SKILL_20151102_005628
+SKILL_20151102_005628	
 SKILL_20151102_005629	$Joint Penalty: Earth
-SKILL_20151102_005630
+SKILL_20151102_005630	
 SKILL_20151102_005631	$Joint Penalty: Nullify Increase
-SKILL_20151102_005632
+SKILL_20151102_005632	
 SKILL_20151102_005633	$Warlock: Darkness Attack
-SKILL_20151102_005634
+SKILL_20151102_005634	
 SKILL_20151102_005635
 SKILL_20151102_005636
 SKILL_20151102_005637
