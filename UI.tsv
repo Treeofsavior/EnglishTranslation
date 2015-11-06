@@ -431,7 +431,7 @@ UI_20150317_000430	{@st42b}     Use two keys together to move diagonally{/}
 UI_20150317_000431	Fog Map Tool
 UI_20150317_000432	Tool for killing monsters
 UI_20150317_000433	Tool for making minimap
-UI_20150317_000434	Dialogue tool
+UI_20150317_000434	Dialog tool
 UI_20150317_000435	{@st43}GM Settings{/}
 UI_20150317_000436	{@st59}Close Party Information{/}
 UI_20150317_000437	{@st59b}Party Information{nl}{@st59s} - Click on the "Create Party" button at the bottom to create a party. {nl} - Right-click on other players to send a party invite. {nl} - Changes can be made to the party through the Settings tab. {nl} - Set up specific conditions to search for party members from the Public Party list. {/}
@@ -496,7 +496,7 @@ UI_20150317_000495	{@st59}Need to write{/}
 UI_20150317_000496	{memo X}The amount of poison: %s
 UI_20150317_000497	{memo X}Items that can be used to Craft poison
 UI_20150317_000498	{memo X}Select All
-UI_20150317_000499	Click again to unselect all
+UI_20150317_000499	Click again to de-select all
 UI_20150317_000500	{memo X}Crafting
 UI_20150317_000501	{memo X}shuffle shuffle mix and shuffle
 UI_20150317_000502	{@st43}Category{/}
@@ -821,7 +821,7 @@ UI_20150317_000820	{@st42b}List of events{/}
 UI_20150317_000821	{@st42b}Check coordinates{/}
 UI_20150317_000822	{@st42b} Check XAC, texture path{/}
 UI_20150317_000823	{@st42b}Performance ON/OFF{/}
-UI_20150317_000824	Dialogue list
+UI_20150317_000824	Dialog list
 UI_20150317_000825	Search
 UI_20150317_000826	{@st41}Preview{/}
 UI_20150317_000827	{@st41}Off{/}
@@ -964,8 +964,8 @@ UI_20150317_000963	{@St41b}Return{/}
 UI_20150317_000964	{@St59}Go back to your Lodge without creating a character
 UI_20150317_000965	Change Character
 UI_20150317_000966	{@St41}Character{/}
-UI_20150317_000967	{@St59}Rotate to clockwise{/}
-UI_20150317_000968	{@St59}Rotate to counterclockwise{/}
+UI_20150317_000967	{@St59}Rotate clockwise{/}
+UI_20150317_000968	{@St59}Rotate counterclockwise{/}
 UI_20150317_000969	{@St43b}Character Rotation{/}
 UI_20150317_000970	{@st43}Character Name{/}
 UI_20150317_000971	Enter a name for {@st59} {/}
@@ -1132,7 +1132,7 @@ UI_20150317_001131	N/A
 UI_20150317_001132	%S race
 UI_20150317_001133	N/A
 UI_20150317_001134	Untradable
-UI_20150317_001135	Unenhancable
+UI_20150317_001135	Unenhanceable
 UI_20150317_001136	N/A
 UI_20150317_001137	Item Name
 UI_20150317_001138	N/A
@@ -1194,8 +1194,8 @@ UI_20150317_001193	How do I
 UI_20150317_001194	You don't see who it is
 UI_20150317_001195	{@st41b}Adventure Journal Updated
 UI_20150317_001196	Menu Objects for Quest
-UI_20150317_001197	Categories of Quest
-UI_20150317_001198	List Objects of Quest
+UI_20150317_001197	Quest Categories
+UI_20150317_001198	Quest Object List
 UI_20150317_001199	N/A
 UI_20150317_001200	Line used on the roadmap
 UI_20150317_001201	Slot Object_Standard
@@ -1434,7 +1434,7 @@ UI_20150401_001433	{memo X}{@st41}Party Description :
 UI_20150401_001434	{s20}Amount of Poison {s28}{b}{#ff6600}%s
 UI_20150401_001435	Materials for Poison
 UI_20150401_001436	{@st41b}Select All{/}
-UI_20150401_001437	{@st59}Unselect all by clicking again{/}
+UI_20150401_001437	{@st59}De-select all by clicking again{/}
 UI_20150401_001438	{@st41b}Craft{/}
 UI_20150401_001439	{memo X}{@st59}Mix mix turn and mix{/}
 UI_20150401_001440	{@st41b}Achievements{/}
@@ -1694,7 +1694,7 @@ UI_20150714_001693	{@st41}Refresh
 UI_20150717_001694	{memo X}{#ffff00}%s{/} players like this character
 UI_20150717_001695	{@st41b}{s56}This game is {#0066FF}
 UI_20150717_001696	Rated T.
-UI_20150717_001697	{s40} {nl}Long hours playing the game can negatively affect your health.{/}
+UI_20150717_001697	{s40} {nl}Playing the game for long periods of time can negatively impact your health.{/}
 UI_20150717_001698	{@st66b}Enter
 UI_20150717_001699	{@st42}My Summon Info
 UI_20150717_001700	Your movement slows down when you do not have enough{@st59}STA{/}
@@ -1792,7 +1792,7 @@ UI_20150918_001791	{@st66b}Empty
 UI_20150918_001792	{@st42}Show Nearby Parties{/}
 UI_20150918_001793	Friendship with {@sti9}%s{@st66b} : {@st66b}Level{/} {@sti9}%s {@st66b}
 UI_20150918_001794	Friendship
-UI_20150918_001795	{@st41b}Obtained material for crafting an item!
+UI_20150918_001795	{@st41b}Obtained material for item crafting!
 UI_20150918_001796	{@st66b}{s20}You have become {/}{s20}{#cc6600}{ol}Incapable of Combat {/}{@st66b}{s20}!{/}
 UI_20150918_001797	{@st66b}Restart from the nearest Revival Point{/}
 UI_20150918_001798	{@st66b}Restart here (requires %s iCoins){/}
@@ -1802,7 +1802,7 @@ UI_20150918_001801	{@st66b}Try Again{/}
 UI_20150918_001802	{@st66b}Items Sold{/}
 UI_20150918_001803	{@st53}Ranking Points : %s
 UI_20150918_001804	Total Untradable: %s
-UI_20150918_001805	{@st42b}Check Dialogue{/}
+UI_20150918_001805	{@st42b}Check Dialog{/}
 UI_20150918_001806	{@st66b}Give food to outside party{/}
 UI_20150918_001807	{@st41b}Change Signboard Title
 UI_20150918_001808	{@sti9}My Rank
@@ -1824,7 +1824,7 @@ UI_20151016_001823	Team Name
 UI_20151016_001824	Title
 UI_20151016_001825	Notice
 UI_20151022_001826	{@st41}Server Queue
-UI_20151022_001827	{#000000}{s18}The server is currently full. Queueing for entry.
+UI_20151022_001827	{#000000}{s18}The server is currently full. Queuing for entry.
 UI_20151022_001828	{#000000}{s18}Current Position : %s
 UI_20151022_001829	{@st66b}Show Other Character's Effects
 UI_20151102_001830	iCoin
