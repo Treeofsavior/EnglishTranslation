@@ -5635,7 +5635,7 @@ SKILL_20151102_005634	$Increases the damage of a Dark property attack dealt on a
 SKILL_20151102_005635	$Pole of Agony: Enhance
 SKILL_20151102_005636	$Increases the damage dealt on an enemy with [Pole of Agony] by 1% per attribute level.
 SKILL_20151102_005637	$Pole of Agony: Duration
-SKILL_20151102_005638	$Increases the effect time of [Pole of Agony] on a remaining enemy by 0.8 seconds per attribute level.
+SKILL_20151102_005638	$Increases the remaining effect time of [Pole of Agony] on an enemy by 0.8 seconds per attribute level.
 SKILL_20151102_005639	$Invocation: Enhance
 SKILL_20151102_005640	$Increases the damage dealt on an enemy with [Invocation] by 1% per attribute level.
 SKILL_20151102_005641	$Increases the Darkness property attack by 5% of allies who are nearby the created evil spirit of [Invocation] per attribute level. The owner of who casted the evil spirit receives double the effect.
@@ -5650,21 +5650,21 @@ SKILL_20151102_005649	$Increases the damage dealt on an enemy with [Mastema] by 
 SKILL_20151102_005650	$Mastema: Reduced Threat
 SKILL_20151102_005651	
 SKILL_20151102_005652	$Pole of Agony: Maintain
-SKILL_20151102_005653
+SKILL_20151102_005653	
 SKILL_20151102_005654	$Blood Sucking: HP Supply Enhance
-SKILL_20151102_005655
+SKILL_20151102_005655	$Increases the amount to absorb HP by 1 per attribute level.
 SKILL_20151102_005656	$Blood Bath: SP Supply Enhance
-SKILL_20151102_005657
+SKILL_20151102_005657	$Increases the amount to absorb SP by 1 per attribute level.
 SKILL_20151102_005658	$Blood Bath: Enhance
-SKILL_20151102_005659
+SKILL_20151102_005659	$Increases the damage dealt on an enemy with [Blood Bath] by 1% per attribute level.
 SKILL_20151102_005660	$Blood Sucking: Enhance
-SKILL_20151102_005661
+SKILL_20151102_005661	$Increases the damage dealt on an enemy with [Blood Sucking] by 1% per attribute level.
 SKILL_20151102_005662	$Bone Pointing: Enhance
-SKILL_20151102_005663
+SKILL_20151102_005663	$Increases the damage dealt on an enemy with [Bone Pointing] by 1% per attribute level.
 SKILL_20151102_005664	$Bone Pointing: Summon Time
-SKILL_20151102_005665
+SKILL_20151102_005665	$Increases the summon time of [Bone Pointing] by 1 second per attribute level.
 SKILL_20151102_005666	$Ngadhundi: Enhance
-SKILL_20151102_005667
+SKILL_20151102_005667	$Increases the damage dealt on an enemy with [Ngadhundi] by 1% per attribute level.
 SKILL_20151102_005668	$Kurdaitcha: Enhance
 SKILL_20151102_005669
 SKILL_20151102_005670	$Levitation: Nullify Physical Damage
@@ -5677,34 +5677,34 @@ SKILL_20151102_005676	$Shield Mastery: Missile Defense
 SKILL_20151102_005677	$Increases the chance of blocking an enemy's [Missile] attack when equipped with a [Shield], increases your physical attack proportional to the shield's defense for 10 seconds after a successful block.. Applies the proportional value by 50% per attribute level. 
 SKILL_20151102_005678	$Increases your accuracy by 5% when equipped with a Pistol-type equipment per attribute level.
 SKILL_20151102_005679	$Shootdown: Falling
-SKILL_20151102_005680
+SKILL_20151102_005680	$Flying-type monsters hit by [Shootdown] will fall down on the ground for 3 seconds per attribute level.
 SKILL_20151102_005681	$Siege Burst: Increased Range
-SKILL_20151102_005682
+SKILL_20151102_005682	$Specifies a more distant location when using [Siege Burst]. Its range increases the higher your attribute level is.
 SKILL_20151102_005683	$Cannon Blast: Armor Break
-SKILL_20151102_005684
-SKILL_20151102_005685
+SKILL_20151102_005684	$Enemies hit by [Cannon Blast] have a 7% chance per attribute level to be afflicted with [Armor Break] for 10 seconds.
+SKILL_20151102_005685	$Instantly kills a small-sized monster at a 0.5% chance per attribute level when attacking with a [Rifle].
 SKILL_20151102_005686	$Covering Fire: Enhance
-SKILL_20151102_005687	
+SKILL_20151102_005687	$Increases the damage dealt on an enemy with [Covering Fire] by 1% per attribute level.
 SKILL_20151102_005688	$Headshot: Enhance
-SKILL_20151102_005689
+SKILL_20151102_005689	$Increases the damage dealt on an enemy with [Headshot] by 1% per attribute level.
 SKILL_20151102_005690	$Snipe: Enhance
-SKILL_20151102_005691
+SKILL_20151102_005691	$Increases the damage dealt on an enemy with [Snipe] by 1% per attribute level.
 SKILL_20151102_005692	$Penetration Shot: Enhance
-SKILL_20151102_005693
+SKILL_20151102_005693	$Increases the damage dealt on an enemy with [Penetration Shot] by 1% per attribute level.
 SKILL_20151102_005694	$Butt Stroke: Enhance
-SKILL_20151102_005695
+SKILL_20151102_005695	$Increases the damage dealt on an enemy with [Butt Stroke] by 1% per attribute level.
 SKILL_20151102_005696	$Bayonet Thrust: Enhance
-SKILL_20151102_005697
+SKILL_20151102_005697	$Increases the damage dealt on an enemy with [Bayonet Thrust] by 1% per attribute level.
 SKILL_20151102_005698	$Butt Stroke: Stun
-SKILL_20151102_005699
-SKILL_20151102_005700
-SKILL_20151102_005701
+SKILL_20151102_005699	$Afflicts stun at a 1.5% chance per attribute level for 3 seconds on enemies hit by [Butt Stroke].
+SKILL_20151102_005700	$Afflicts stun at a 2% chance per attribute level when performing a basic attack on an enemy with a [Blunt Instrument].
+SKILL_20151102_005701	$Enemies receive Holy damage equal to [Attribute Level] when using [Arcane Energy].
 SKILL_20151102_005702	$Healing Factor: Attack
-SKILL_20151102_005703
+SKILL_20151102_005703	
 SKILL_20151102_005704	$Incineration: Enhance
-SKILL_20151102_005705
+SKILL_20151102_005705	$Increases the damage dealt on an enemy with [Incineration] by 1% per attribute level.
 SKILL_20151102_005706	$Bloodletting: Hemostasis
-SKILL_20151102_005707
+SKILL_20151102_005707	$Increases the cycle time of the HP cost by 0.2 seconds per attribute level while [Bloodletting] is active.
 SKILL_20151102_005708	$Bloodletting: Replace SP
 SKILL_20151102_005709
 SKILL_20151102_005710
@@ -5718,7 +5718,7 @@ SKILL_20151102_005717
 SKILL_20151102_005718	$Revenged Sevenfold: Curse
 SKILL_20151102_005719
 SKILL_20151102_005720	$Nachash: Enhance
-SKILL_20151102_005721
+SKILL_20151102_005721	$Increases the damage dealt on an enemy with [Nachash] by 1% per attribute level.
 SKILL_20151102_005722	$Nachash: Resistance
 SKILL_20151102_005723
 SKILL_20151102_005724	$Nachash: Abnormal Status
@@ -5728,7 +5728,7 @@ SKILL_20151102_005727
 SKILL_20151102_005728	$Ein Sof: Additional Generation
 SKILL_20151102_005729
 SKILL_20151102_005730	$Merkaba: Enhance
-SKILL_20151102_005731
+SKILL_20151102_005731	$Increases the damage dealt on an enemy with [Merkaba] by 1% per attribute level.
 SKILL_20151102_005732	$Merkaba: Petrification
 SKILL_20151102_005733
 SKILL_20151102_005734	$Ein Sof: SP Recovery
