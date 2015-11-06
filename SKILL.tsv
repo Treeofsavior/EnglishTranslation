@@ -3608,7 +3608,7 @@ SKILL_20150414_003607	${#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Inflicts damag
 SKILL_20150414_003608	$Become determined by temporarily increasing your attack, while decreasing your defense.
 SKILL_20150414_003609	$Increases your attack damage.
 SKILL_20150414_003610	$Lowers your maximum HP, but your attacks have a high chance of stunning enemies.
-SKILL_20150414_003611	$Chance of Stunning Enemy: #{CaptionRatio}#%{nl}Max. HP -#{CaptionRatio2}# {nl}Duration: #{CaptionTime}# seconds
+SKILL_20150414_003611	$Chance of Stunning Enemy: #{CaptionRatio}#%{nl}Maximum HP: -#{CaptionRatio2}# {nl}Duration: #{CaptionTime}# seconds
 SKILL_20150414_003612	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Strike enemies with your sword handle.{nl}Inflicts additional damage on stunned monsters, and partially ignores the defense of small and medium sized enemies.
 SKILL_20150414_003613	${#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use the bump of your shield to attack enemies. Blocking provides additional damage on staggered enemies.
 SKILL_20150414_003614	${#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use the edge of your shield to attack enemies. Inflicts additional damage on both petrified and frozen enemies.
@@ -4228,7 +4228,7 @@ SKILL_20150714_004227	Damage Effect
 SKILL_20150714_004228	Receive damage after an effect
 SKILL_20150714_004229	Spread the new buff received to allies
 SKILL_20150714_004230	Right Hand is enlarged. Effect applies according to the sub weapon types
-SKILL_20150714_004231	Max. HP is reduced, but the target will fall into [Stun] status
+SKILL_20150714_004231	Afflicts the target with [Stun, but decreases your maximum HP.
 SKILL_20150714_004232	Gohan
 SKILL_20150714_004233	{memo X}Number of buff you can receive will increase.
 SKILL_20150714_004234	Removes nullified magic and harmful effects
@@ -5706,23 +5706,23 @@ SKILL_20151102_005705	$Increases the damage dealt on an enemy with [Incineration
 SKILL_20151102_005706	$Bloodletting: Hemostasis
 SKILL_20151102_005707	$Increases the cycle time of the HP cost by 0.2 seconds per attribute level while [Bloodletting] is active.
 SKILL_20151102_005708	$Bloodletting: Replace SP
-SKILL_20151102_005709
-SKILL_20151102_005710
-SKILL_20151102_005711
+SKILL_20151102_005709	$Cuts SP instead of HP at a 10% chance per attribute level while the effect per tick of [Bloodletting] is active.
+SKILL_20151102_005710	$Increases the chance by 5% per attribute level to block Lv3 or less abnormal statuses for 10 seconds after receiving the effect of [Fumigate].
+SKILL_20151102_005711	$Purifies the area for 10 seconds within the range of [Fumigate]. Increases the Poison property resistance of allies by 10%.
 SKILL_20151102_005712	$Bird Beak Mask: Immunity
-SKILL_20151102_005713
+SKILL_20151102_005713	$Increases the chance to block Lv3 abnormal statuses by 5% per attribute level, but also increases the SP cost whilst wearing the [Bird Beak Mask].
 SKILL_20151102_005714	$Bird Beak Mask: Poison Resistance
-SKILL_20151102_005715
+SKILL_20151102_005715	$Increases the Poison property resistance by 5 per attribute level whilst wearing the [Bird Beak Mask].
 SKILL_20151102_005716	$Revenged Sevenfold: Duration
-SKILL_20151102_005717
+SKILL_20151102_005717	$Increases the duration of [Revenged Sevenfold]'s effect by 1 second per attribute level.
 SKILL_20151102_005718	$Revenged Sevenfold: Curse
-SKILL_20151102_005719
+SKILL_20151102_005719	$Afflicts [Curse] at a 10% chance for 4 seconds on an enemy when damage is dealt with [Revenged Sevenfold].
 SKILL_20151102_005720	$Nachash: Enhance
 SKILL_20151102_005721	$Increases the damage dealt on an enemy with [Nachash] by 1% per attribute level.
 SKILL_20151102_005722	$Nachash: Resistance
-SKILL_20151102_005723
+SKILL_20151102_005723	
 SKILL_20151102_005724	$Nachash: Abnormal Status
-SKILL_20151102_005725
+SKILL_20151102_005725	$Increases the chance to afflict petrification or cursed on an enemy when damage is dealt with [Nachash] by 1%.
 SKILL_20151102_005726	$Ein Sof: Maintain Time
 SKILL_20151102_005727
 SKILL_20151102_005728	$Ein Sof: Additional Generation
