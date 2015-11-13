@@ -1411,7 +1411,7 @@ UI_20150401_001410	Class Tip
 UI_20150401_001411	{memo X}{@st42}{#ffff00}Lock Target {/}
 UI_20150401_001412	{memo X}{@st41}Remove Table
 UI_20150401_001413	{@st43}Tincturing{/}
-UI_20150401_001414	Joystick Quick Slot
+UI_20150401_001414	Gamepad Quick Slot
 UI_20150401_001415	{memo X}{@st42}{#ffff00}Keyboard Mode{/}
 UI_20150401_001416	{@st43}Open Offering Box
 UI_20150401_001417	{@st41b}Open
@@ -1440,7 +1440,7 @@ UI_20150401_001439	{memo X}{@st59}Mix mix turn and mix{/}
 UI_20150401_001440	{@st41b}Achievements{/}
 UI_20150401_001441	Hairstyle Color
 UI_20150401_001442	Available Titles
-UI_20150401_001443	{memo X}{@st41b}Joystick UI mode{/}
+UI_20150401_001443	{memo X}{@st41b}Gamepad UI mode{/}
 UI_20150401_001444	{memo X}{@st41}{#ffffcc}Name
 UI_20150401_001445	{memo X}{@st41}{#ffffcc}Price
 UI_20150401_001446	{memo X}{@st41}{#ffffcc}Status
@@ -1506,17 +1506,17 @@ UI_20150428_001505	{@st41b}Send
 UI_20150428_001506	{@st42}{s14}{#ffff00}Target Lock{/}
 UI_20150428_001507	{@st59}Lock your target regardless of distance or direction
 UI_20150428_001508	Party found!
-UI_20150428_001509	Joystick Rest Quickslot
+UI_20150428_001509	Gamepad Rest Quickslot
 UI_20150428_001510	{@st41b}Rest Mode
-UI_20150428_001511	Joypad Tutorial
-UI_20150428_001512	{memo X}{@st59}Close Joypad Tutorial(M){/}
+UI_20150428_001511	Gamepad Tutorial
+UI_20150428_001512	{memo X}{@st59}Close Gamepad Tutorial(M){/}
 UI_20150428_001513	Keyboard Tutorial
 UI_20150428_001514	{@st44}Logout{/}
 UI_20150428_001515	{memo X}{@st41b}Leave Helper(Requires %s iCoin){/}
 UI_20150428_001516	{memo X}Socket Addition Cost : {#ff9933}%s{/}{nl}Gem Removal Cost : {#ff9933}%s{/}
 UI_20150428_001517	{memo X}{@st41b}Remove Gem
 UI_20150428_001518	{@st42}{s14}{#ffff00}UI Mode{/}
-UI_20150428_001519	{@st59}Use keyboard or joypad to control UI
+UI_20150428_001519	{@st59}Use keyboard or gamepad to control UI
 UI_20150428_001520	{memo X}Use Search Party 
 UI_20150428_001521	{memo X}When a character matching your party conditions is found {nl}[Party match found!] notice will be shown.
 UI_20150428_001522	{memo X}{@st41}Play Style{/}
@@ -1536,10 +1536,10 @@ UI_20150428_001535	{@st41_yellow}Helper Skill
 UI_20150428_001536	{memo X}{@st41b}Show other character names{/}
 UI_20150428_001537	{@st43}UI Mode{/}
 UI_20150428_001538	{memo X}{@st41b}Auto{/}
-UI_20150428_001539	{memo X}{@st41b}Joypad{/}
+UI_20150428_001539	{memo X}{@st41b}Gamepad{/}
 UI_20150428_001540	{memo X}{@st41b}Keyboard{/}
-UI_20150428_001541	{memo X}Joypad
-UI_20150428_001542	{@st59}Joypad Info{/}
+UI_20150428_001541	{memo X}Gamepad
+UI_20150428_001542	{@st59}Gamepad Info{/}
 UI_20150428_001543	{memo X}Keyboard
 UI_20150428_001544	{@st59}Keyboard Info{/}
 UI_20150428_001545	{@st43}Graphic Settings{/}
@@ -1580,7 +1580,7 @@ UI_20150714_001579	>>Show More Info...
 UI_20150714_001580	%s (Rank %s)
 UI_20150714_001581	Job Name
 UI_20150714_001582	{@st41b}Invite
-UI_20150714_001583	{@st41}If you want to use the joypad or mouse to control your character, you can select this option from the game settings in the system menu.{nl}
+UI_20150714_001583	{@st41}If you want to use the gamepad or mouse to control your character, you can change settings in the system menu.{nl}
 UI_20150714_001584	{memo X}When you meet a character matching your party conditions, {nl}[Party match found!] notice will be shown.{nl}You will also be recommended to other parties.
 UI_20150714_001585	{memo X}{@st42}Play Style{/}
 UI_20150714_001586	{@st42}Level Difference{/}
@@ -1630,7 +1630,7 @@ UI_20150714_001629	{@st66b}Show Character Name{/}
 UI_20150714_001630	{@st66b}Show Team Name only{/}
 UI_20150714_001631	{@st66b}Show Other Players' Names{/}
 UI_20150714_001632	{@st66b}Auto{/}
-UI_20150714_001633	{@st66b}Joypad{/}
+UI_20150714_001633	{@st66b}Gamepad{/}
 UI_20150714_001634	{@st66b}Keyboard{/}
 UI_20150714_001635	{@st66b}Mouse
 UI_20150714_001636	{@st66b}Full Screen{/}
@@ -1700,7 +1700,7 @@ UI_20150717_001699	{@st42}My Summon Info
 UI_20150717_001700	Your movement slows down when you do not have enough{@st59}STA{/}
 UI_20150717_001701	{@st59}Sorts your inventory{/}
 UI_20150717_001702	{memo X}Sort
-UI_20150717_001703	{@st59}Close Joypad Control Info.{/}
+UI_20150717_001703	{@st59}Close Gamepad Control Info.{/}
 UI_20150717_001704	{@st59}Close Keyboard Control info.{/}
 UI_20150717_001705	Mouse Tutorial
 UI_20150717_001706	{@st59}Close Mouse Control Info.{/}
@@ -1765,7 +1765,7 @@ UI_20150730_001764	{memo X}{@st56}My Rank
 UI_20150730_001765	{memo X}{@st56}Kill Rank
 UI_20150730_001766	{memo X}{@st56}Damage Rank
 UI_20150803_001767	General: /s chat{nl}Shout: /y chat {nl}Party: /p chat{nl} Whisper: /w TeamName Chat
-UI_20150803_001768	{@st66b}Joypad Vibration{/}
+UI_20150803_001768	{@st66b}Gamepad Vibration{/}
 UI_20150803_001769	A match has been found. Please wait until you can join the game.
 UI_20150804_001770	${memo had to be shortened to fit the UI}{@st43}{s18}Pick the character to receive the item(s).{/}
 UI_20150804_001771	$Maximum Sockets : %s
