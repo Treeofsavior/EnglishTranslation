@@ -140,7 +140,7 @@ UI_20150317_000139	{@st49}{a SAVE_EDIT_SPRAY}Save{/}{/}
 UI_20150317_000140	{@st49}{a LOAD_EDIT_SPRAY}Import{/}{/}
 UI_20150317_000141	{@st49}Close{/}
 UI_20150317_000142	{@st43} Companion Adoption
-UI_20150317_000143	{@st59} Enter the name of your newly adopted companion {/}
+UI_20150317_000143	{@st59} Enter the name of your newly adopted Companion {/}
 UI_20150317_000144	{@st41b}Name{/}
 UI_20150317_000145	{@st41b}Price %s{/}
 UI_20150317_000146	{@st59}Close the Companion Adoption window {/}
@@ -410,13 +410,13 @@ UI_20150317_000409	Object
 UI_20150317_000410	{@st43}Necronomicon{/}
 UI_20150317_000411	{@st59}Close Necronomicon UI{/}
 UI_20150317_000412	{memo X}{@st59}I am too lazy to think.{/}
-UI_20150317_000413	Summoning Item : {#ffcc33}%s{/}
+UI_20150317_000413	Summoned Creature : {#ffcc33}%s{/}
 UI_20150317_000414	{memo X}Undead Harpy
 UI_20150317_000415	{memo X}Skill : %s
 UI_20150317_000416	{memo X}Skill 1, Skill 2
 UI_20150317_000417	{memo X}Fragments needed : %s
 UI_20150317_000418	{memo X}Beast 60 / Insect 20/ Mutant 10
-UI_20150317_000419	Number of fragments
+UI_20150317_000419	Number of Fragments
 UI_20150317_000420	{memo X}Parts 1
 UI_20150317_000421	{memo X}Parts 2
 UI_20150317_000422	{memo X}Parts 3
@@ -431,10 +431,10 @@ UI_20150317_000430	{@st42b}     Use two keys together to move diagonally{/}
 UI_20150317_000431	Fog Map Tool
 UI_20150317_000432	Tool for killing monsters
 UI_20150317_000433	Tool for making minimap
-UI_20150317_000434	Dialogue tool
+UI_20150317_000434	Dialog tool
 UI_20150317_000435	{@st43}GM Settings{/}
 UI_20150317_000436	{@st59}Close Party Information{/}
-UI_20150317_000437	{@st59b}Party Information{nl}{@st59s} - Click on the "Create Party" button at the bottom to create a party. {nl} - Right-click on other players to send a party invite. {nl} - Changes can be made to the party through the Settings tab. {nl} - Set up specific conditions to search for party members from the Public Party list. {/}
+UI_20150317_000437	{@st59b}Party Information{nl}{@st59s} - Click on the Create Party button at the bottom to create a party. {nl} - Right-click on other players to send a party invite. {nl} - Changes can be made to the party in the Settings tab. {nl} - Set up specific search conditions for party members from the Public Party list.{/}
 UI_20150317_000438	{@st43}Party Information{/}
 UI_20150317_000439	{@st41b}Members{/}
 UI_20150317_000440	{@st41b}Party Event {/}
@@ -457,7 +457,7 @@ UI_20150317_000456	{memo X}{@st41b}Enabled
 UI_20150317_000457	{memo X}{@st41b}Disabled
 UI_20150317_000458	{@st41b}Create Party
 UI_20150317_000459	{@st43}Public Party List {/}
-UI_20150317_000460	${@st59b}Public Party List{nl}{@st59s} - Search for parties you want to join. {nl} - Ticking "Use Search" uses your search conditions to help find desirable parties. {/}
+UI_20150317_000460	${@st59b}Public Party List{nl}{@st59s} - Search for a party you want to join by viewing the open parties in your server {nl} - Use the search option to find a party you want to join{/}
 UI_20150317_000461	{@st59}Close Party List{/}
 UI_20150317_000462	Use Search
 UI_20150317_000463	Quest Sharing
@@ -496,7 +496,7 @@ UI_20150317_000495	{@st59}Need to write{/}
 UI_20150317_000496	{memo X}The amount of poison: %s
 UI_20150317_000497	{memo X}Items that can be used to Craft poison
 UI_20150317_000498	{memo X}Select All
-UI_20150317_000499	Click again to unselect all
+UI_20150317_000499	Click again to de-select all
 UI_20150317_000500	{memo X}Crafting
 UI_20150317_000501	{memo X}shuffle shuffle mix and shuffle
 UI_20150317_000502	{@st43}Category{/}
@@ -653,7 +653,7 @@ UI_20150317_000652	Cleric
 UI_20150317_000653	{@st59}Cancel{/}
 UI_20150317_000654	Learning {#ff4400}%s (Lv. %s){/}...
 UI_20150317_000655	Psychohassle
-UI_20150317_000656	%s mins left
+UI_20150317_000656	%s minutes left
 UI_20150317_000657	{@st43}Pose{/}
 UI_20150317_000658	{@st59}Close Pose{/}
 UI_20150317_000659	{@st41}Board{/}
@@ -821,7 +821,7 @@ UI_20150317_000820	{@st42b}List of events{/}
 UI_20150317_000821	{@st42b}Check coordinates{/}
 UI_20150317_000822	{@st42b} Check XAC, texture path{/}
 UI_20150317_000823	{@st42b}Performance ON/OFF{/}
-UI_20150317_000824	Dialogue list
+UI_20150317_000824	Dialog list
 UI_20150317_000825	Search
 UI_20150317_000826	{@st41}Preview{/}
 UI_20150317_000827	{@st41}Off{/}
@@ -959,13 +959,13 @@ UI_20150317_000958	{@St41b}Name
 UI_20150317_000959	{@St41b}Price
 UI_20150317_000960	{@St41b}State
 UI_20150317_000961	{@St44}New Character{/}
-UI_20150317_000962	{@St41b}{s22}$Select Character Class{/}
+UI_20150317_000962	{@St41b}{s22}Select Character Class{/}
 UI_20150317_000963	{@St41b}Return{/}
 UI_20150317_000964	{@St59}Go back to your Lodge without creating a character
 UI_20150317_000965	Change Character
 UI_20150317_000966	{@St41}Character{/}
-UI_20150317_000967	{@St59}Rotate to clockwise{/}
-UI_20150317_000968	{@St59}Rotate to counterclockwise{/}
+UI_20150317_000967	{@St59}Rotate clockwise{/}
+UI_20150317_000968	{@St59}Rotate counterclockwise{/}
 UI_20150317_000969	{@St43b}Character Rotation{/}
 UI_20150317_000970	{@st43}Character Name{/}
 UI_20150317_000971	Enter a name for {@st59} {/}
@@ -1132,7 +1132,7 @@ UI_20150317_001131	N/A
 UI_20150317_001132	%S race
 UI_20150317_001133	N/A
 UI_20150317_001134	Untradable
-UI_20150317_001135	Unenhancable
+UI_20150317_001135	Unenhanceable
 UI_20150317_001136	N/A
 UI_20150317_001137	Item Name
 UI_20150317_001138	N/A
@@ -1194,8 +1194,8 @@ UI_20150317_001193	How do I
 UI_20150317_001194	You don't see who it is
 UI_20150317_001195	{@st41b}Adventure Journal Updated
 UI_20150317_001196	Menu Objects for Quest
-UI_20150317_001197	Categories of Quest
-UI_20150317_001198	List Objects of Quest
+UI_20150317_001197	Quest Categories
+UI_20150317_001198	Quest Object List
 UI_20150317_001199	N/A
 UI_20150317_001200	Line used on the roadmap
 UI_20150317_001201	Slot Object_Standard
@@ -1318,7 +1318,7 @@ UI_20150323_001317	{@st43}Grimoire{/}
 UI_20150323_001318	{@st59}Close the Grimoire UI{/}
 UI_20150323_001319	{memo X}My Summon Skill
 UI_20150323_001320	Main Card
-UI_20150323_001321	Sub Card
+UI_20150323_001321	Secondary Card
 UI_20150323_001322	{memo X}Stat
 UI_20150323_001323	{memo X}CON
 UI_20150323_001324	{memo X}INT
@@ -1434,7 +1434,7 @@ UI_20150401_001433	{memo X}{@st41}Party Description :
 UI_20150401_001434	{s20}Amount of Poison {s28}{b}{#ff6600}%s
 UI_20150401_001435	Materials for Poison
 UI_20150401_001436	{@st41b}Select All{/}
-UI_20150401_001437	{@st59}Unselect all by clicking again{/}
+UI_20150401_001437	{@st59}De-select all by clicking again{/}
 UI_20150401_001438	{@st41b}Craft{/}
 UI_20150401_001439	{memo X}{@st59}Mix mix turn and mix{/}
 UI_20150401_001440	{@st41b}Achievements{/}
@@ -1462,11 +1462,11 @@ UI_20150406_001461	{memo X}{@st41b}Camp Duration
 UI_20150406_001462	{memo X}{@st42b}A base camp lasts for an additional 24 hours when renewed. {nl}%s silver is consumed.
 UI_20150406_001463	{memo X}{@st41}Remove Camp
 UI_20150406_001464	{memo X}{@st42}Remove Table
-UI_20150406_001465	{@st59b}Grimoire{nl}{@st59s} - Place card on deck and begin summon{/}
+UI_20150406_001465	{@st59b}Grimoire{nl}{@st59s} - Place a card on the deck to start summoning{/}
 UI_20150406_001466	{memo X}{@st41}My Summon Skill
 UI_20150406_001467	{memo X}{@st41}Stat
-UI_20150406_001468	{@st41b}Offerings Box Name
-UI_20150406_001469	{@st41b}Details of item offering
+UI_20150406_001468	{@st41b}Offering Box Name
+UI_20150406_001469	{@st41b}Offering Box Details
 UI_20150406_001470	{@st59}Close Buy-in Shop
 UI_20150406_001471	{@st59b}Buy-in Shop{nl}{@st59s} - Trade items for silver
 UI_20150406_001472	{@st41b}Other Player's Requested Item{/}
@@ -1694,7 +1694,7 @@ UI_20150714_001693	{@st41}Refresh
 UI_20150717_001694	{memo X}{#ffff00}%s{/} players like this character
 UI_20150717_001695	{@st41b}{s56}This game is {#0066FF}
 UI_20150717_001696	Rated T.
-UI_20150717_001697	{s40} {nl}Long hours playing the game can negatively affect your health.{/}
+UI_20150717_001697	{s40} {nl}Playing the game for long periods of time can negatively impact your health.{/}
 UI_20150717_001698	{@st66b}Enter
 UI_20150717_001699	{@st42}My Summon Info
 UI_20150717_001700	Your movement slows down when you do not have enough{@st59}STA{/}
@@ -1732,7 +1732,7 @@ UI_20150717_001731	{@st41}Move Immediately
 UI_20150717_001732	${@st41b}            A Team Name represents all your characters.{nl}                 It is a common name used within the game.{nl}                  Your Team Name can be changed later on.{/}
 UI_20150729_001733	{@st42}Show only attributes that can be learned{/}
 UI_20150729_001734	Leg Count
-UI_20150729_001735	Height
+UI_20150729_001735	Key
 UI_20150729_001736	Weight
 UI_20150729_001737	{@st43}Gem Roasting{/}
 UI_20150729_001738	{@st59b}Item Crafting{nl}{@st59s} - An item can be crafted by using a recipe.{nl} - Place the recipe and required materials in the slot to begin crafting an item. {nl} - You can attach a unique name and memo to the item.{/}
@@ -1787,12 +1787,12 @@ UI_20150918_001786	{#000000}Entry Count{/}
 UI_20150918_001787	{#000000}The number of entries will reset at %s.{/}
 UI_20150918_001788	{img silver 20 20} Price
 UI_20150918_001789	Nearby Party Info
-UI_20150918_001790	Fragments needed : %s 
+UI_20150918_001790	Required Fragments : %s 
 UI_20150918_001791	{@st66b}Empty
 UI_20150918_001792	{@st42}Show Nearby Parties{/}
 UI_20150918_001793	Friendship with {@sti9}%s{@st66b} : {@st66b}Level{/} {@sti9}%s {@st66b}
 UI_20150918_001794	Friendship
-UI_20150918_001795	{@st41b}Obtained material for crafting an item!
+UI_20150918_001795	{@st41b}Obtained material for item crafting!
 UI_20150918_001796	{@st66b}{s20}You have become {/}{s20}{#cc6600}{ol}Incapable of Combat {/}{@st66b}{s20}!{/}
 UI_20150918_001797	{@st66b}Restart from the nearest Revival Point{/}
 UI_20150918_001798	{@st66b}Restart here (requires %s iCoins){/}
@@ -1802,7 +1802,7 @@ UI_20150918_001801	{@st66b}Try Again{/}
 UI_20150918_001802	{@st66b}Items Sold{/}
 UI_20150918_001803	{@st53}Ranking Points : %s
 UI_20150918_001804	Total Untradable: %s
-UI_20150918_001805	{@st42b}Check Dialogue{/}
+UI_20150918_001805	{@st42b}Check Dialog{/}
 UI_20150918_001806	{@st66b}Give food to outside party{/}
 UI_20150918_001807	{@st41b}Change Signboard Title
 UI_20150918_001808	{@sti9}My Rank
@@ -1819,14 +1819,12 @@ UI_20151016_001818	{@st42b}Preview
 UI_20151016_001819	{@st42b}Return
 UI_20151016_001820	{@st42b}Purchase
 UI_20151016_001821	{@st42b}Apply
-UI_20151016_001822 	Guild Name and Description
-UI_20151016_001823 	Team Name
+UI_20151016_001822	Guild Name and Description
+UI_20151016_001823	Team Name
 UI_20151016_001824	Title
-UI_20151016_001825 	Notice
-UI_20151022_001826	
-UI_20151022_001827	
-UI_20151022_001828	
-UI_20151022_001829	
-UI_20151023_001830	{@st41b}NXP{/}
-UI_20151023_001831	{@st41}NXP
-UI_20151023_001832	NXP
+UI_20151016_001825	Notice
+UI_20151022_001826	{@st41}Server Queue
+UI_20151022_001827	{#000000}{s18}The server is currently full. Queuing for entry.
+UI_20151022_001828	{#000000}{s18}Current Position : %s
+UI_20151022_001829	{@st66b}Show Other Character's Effects
+UI_20151102_001830	iCoin
