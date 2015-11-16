@@ -3650,7 +3650,7 @@ SKILL_20150414_003649	$Giant Swing
 SKILL_20150414_003650	{memo X}USe centrifugal force to throw away enemy.
 SKILL_20150414_003651	{memo X}Open shop to repair weapon and temporarily increase its performance.
 SKILL_20150414_003652	{memo X}Open shop to repair weapon and temporarily increase its performance. Physical defense is added. Repair is only for top, Pants, and Shield.
-SKILL_20150414_003653	Open shop for repairing items. Items are repaired to have higher durability than max. durability.
+SKILL_20150414_003653	Open shop for repairing items. Items here are repaired over maximum durability.
 SKILL_20150414_003654	Binds all enemies, including boss monsters, to prevent them from moving.
 SKILL_20150414_003655	{memo X}Install basecamp for party members. Party members can use basecamp as storage or for teleport.
 SKILL_20150414_003656	$Duration: #{CaptionRatio}# hours{nl}Duration of the food effects is at least 30 minutes
@@ -4914,9 +4914,9 @@ SKILL_20150729_004913	$Increase Physical Attack, Magic Attack
 SKILL_20150729_004914	$Physical Attack +10%{nl}Magic Attack +10%
 SKILL_20150729_004915	$Increase Physical Defense, Magic Defense
 SKILL_20150729_004916	$Physical Defense +10%{nl}Magic Defense +10%
-SKILL_20150729_004917	$Open a shop to repair your weapon and temporarily increase its quality.
-SKILL_20150729_004918	$Open a shop to repair your weapon and temporarily increase its quality. Can repair Tops, Pants and Shields.
-SKILL_20150729_004919	$Set up a basecamp for party members. Party members can use the basecamp as storage or for teleportation. Duration of buffs used around the camp will increase.
+SKILL_20150729_004917	$Opens a shop to repair weapons and temporarily increase its quality.
+SKILL_20150729_004918	$Opens a shop to repair armor and temporarily increase its quality. Repairs Tops, Pants and Shields.
+SKILL_20150729_004919	$Set up a Base Camp for party members. Party members can use the basecamp as storage or for teleportation. Duration of buffs used around the camp will increase.
 SKILL_20150729_004920	$Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio2}#%{nl}#{CaptionRatio}# Continuous Hits
 SKILL_20150729_004921	$Able to assemble #{CaptionRatio}# members
 SKILL_20150729_004922	$Additional Block: +#{CaptionRatio}#{nl}Consumes 1% SP every 2 seconds
@@ -5704,11 +5704,11 @@ SKILL_20151102_005703
 SKILL_20151102_005704	$Incineration: Enhance
 SKILL_20151102_005705	$Increases the damage dealt on an enemy with [Incineration] by 1% per attribute level.
 SKILL_20151102_005706	$Bloodletting: Hemostasis
-SKILL_20151102_005707	$Increases the cycle time of the HP cost by 0.2 seconds per attribute level while [Bloodletting] is active.
-SKILL_20151102_005708	$Bloodletting: Replace SP
-SKILL_20151102_005709	$Cuts SP instead of HP at a 10% chance per attribute level while the effect per tick of [Bloodletting] is active.
-SKILL_20151102_005710	$Increases the chance by 5% per attribute level to block Lv3 or less abnormal statuses for 10 seconds after receiving the effect of [Fumigate].
-SKILL_20151102_005711	$Purifies the area for 10 seconds within the range of [Fumigate]. Increases the Poison property resistance of allies by 10%.
+SKILL_20151102_005707	$Increases the cycle time of the HP cost by 0.2 seconds per attribute level while [Bloodletting] is in effect.
+SKILL_20151102_005708	$Bloodletting: Substitute SP
+SKILL_20151102_005709	$While [Bloodletting] is in effect, each tick has a 10% chance per attribute level to reduce SP instead of HP.
+SKILL_20151102_005710	$Increases the chance that [Fumigate] blocks Lv3 or weaker abnormal statuses for 10 seconds by 5% per attribute level.
+SKILL_20151102_005711	$The area of [Fumigate] skill gains a purification effect for 10 seconds. Allies standing within this area gains 10% resistance against Poison property.
 SKILL_20151102_005712	$Bird Beak Mask: Immunity
 SKILL_20151102_005713	$Increases the chance to block Lv3 abnormal statuses by 5% per attribute level, but also increases the SP cost whilst wearing the [Bird Beak Mask].
 SKILL_20151102_005714	$Bird Beak Mask: Poison Resistance
