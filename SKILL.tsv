@@ -3282,8 +3282,8 @@ SKILL_20150401_003281	$Increases your Evasion.
 SKILL_20150401_003282	$Evasion: +#{CaptionRatio}#%{nl}Duration: #{CaptionTime}# seconds
 SKILL_20150401_003283	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Using this attack to kill enemy explodes target. Strength of party members is temporarily increased.
 SKILL_20150401_003284	{memo X}Attack #{SkillAtkAdd}#{nl}STR + #{CaptionRatio}#{nl}Duration #{CaptionTime}# seconds
-SKILL_20150401_003285	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Throw tear gas bomb. Target affected fall into Blind state.
-SKILL_20150401_003286	{memo X}Attack #{SkillAtkAdd}#{nl}Tear gas Duration #{CaptionTime}# seconds
+SKILL_20150401_003285	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Throw Lachrymator bomb. Target affected fall into Blind state.
+SKILL_20150401_003286	{memo X}Attack #{SkillAtkAdd}#{nl}Lachrymator Duration #{CaptionTime}# seconds
 SKILL_20150401_003287	{memo X}{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Continuously attack enemy with sword. Increases critical rate, no. of strikes are different each time.
 SKILL_20150401_003288	{memo X}Attack #{SkillAtkAdd}#{nl}Hit 1~4 times{nl}Critical rate #{CaptionRatio}#%
 SKILL_20150401_003289	{memo X}{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Shoot arrows that cause enemy to Bleed.
@@ -3577,7 +3577,7 @@ SKILL_20150406_003576	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Flame is fumed
 SKILL_20150406_003577	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Install bomb around target. Bomb explosed when touching enemy.
 SKILL_20150406_003578	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Shoot flash arrows on the ground. Flash pops and shoots sparks to enemies nearby.
 SKILL_20150406_003579	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use this attack to explode enemy when it is killed. Strength of party members temporarily increase.
-SKILL_20150406_003580	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Throw tear gas. Target affected fall into Blind state.
+SKILL_20150406_003580	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Throw Lachrymator. Target affected fall into Blind state.
 SKILL_20150406_003581	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Zombies circle around specified area. Enemies that touch zombies are push away and receives damage.
 SKILL_20150406_003582	{memo X}{#993399}{ol}[Magic]{/}{/}{nl}Explode zombies in specific area and damage target enemies.
 SKILL_20150406_003583	{memo X}Attack #{SkillAtkAdd}#{nl}Summoned zombie required{nl}Max. explosion #{SkillSR}#
@@ -3795,7 +3795,7 @@ SKILL_20150414_003794	Trick an enemy to lower its guard. Temporarily decreases t
 SKILL_20150414_003795	Hide underground to conceal your appearance. In this state you can attack but cannot move.
 SKILL_20150414_003796	Steals the enemy's trap and magic circle. You may use it later when you need it.
 SKILL_20150414_003797	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Temporarily increases the STR of you and your party members when a target dies and explodes from this attack.
-SKILL_20150414_003798	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Throw tear gas on target area. Enemies fall under [Dark].
+SKILL_20150414_003798	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Throw Lachrymator on target area. Enemies fall under [Dark].
 SKILL_20150414_003799	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Continuously attack using your dagger. A double attack with a high critical rate that may stun the enemy.
 SKILL_20150414_003800	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Launches a wide broadhead arrow. Inflicts bleeding on the enemy hit.
 SKILL_20150414_003801	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Launches a bodkin arrow that deeply penetrates the enemy. On hit, decreases enemies' defense and nullifies the magic that protects the enemy.
@@ -3958,8 +3958,8 @@ SKILL_20150414_003957	$Teardown: Enhance 2
 SKILL_20150414_003958	$Enhanced the damage of [Teardown] to Quarrel Shooter's 3rd Circle standards.
 SKILL_20150414_003959	$Running Shot: Enhance
 SKILL_20150414_003960	$Increases the damage of [Running Shot] per attribute level.
-SKILL_20150414_003961	$Tear Gas: Additional Damage
-SKILL_20150414_003962	{memo X}Enemies within rage of [Tear Gas] receives damage every 2 seconds. Damage increases per attribute level.
+SKILL_20150414_003961	$Lachrymator: Additional Damage
+SKILL_20150414_003962	{memo X}Enemies within rage of [Lachrymator] receives damage every 2 seconds. Damage increases per attribute level.
 SKILL_20150414_003963	$Magic Arrow: Enhance
 SKILL_20150414_003964	{memo X}Damage of [Magic Arrow] increase per attribute level.
 SKILL_20150414_003965	$Magic Arrow: Enhance 2
@@ -4058,8 +4058,8 @@ SKILL_20150428_004057	{memo X}$Evasion: -#{CaptionRatio}#{nl}Pointing AI Duratio
 SKILL_20150428_004058	$Detects hidden monsters {nl}Hounding AI Duration: 90 seconds
 SKILL_20150428_004059	{memo X}$Consumes #{SpendPoison}# Poison Pot Poison
 SKILL_20150428_004060	{memo X}Attack #{SkillAtkAdd}#{nl}Duration 30 seconds
-SKILL_20150428_004061	Throw tear gas on target area. Target falls under Darkness.
-SKILL_20150428_004062	$Tear Gas Duration: #{CaptionTime}# seconds
+SKILL_20150428_004061	Throw Lachrymator on target area. Target falls under Darkness.
+SKILL_20150428_004062	$Lachrymator Duration: #{CaptionTime}# seconds
 SKILL_20150428_004063	{memo X}Attack #{SkillAtkAdd}#{nl}Strike 2 times{nl}Critical rate #{CaptionRatio}#%
 SKILL_20150428_004064	{memo X}Attack #{SkillAtkAdd}#{nl}Bleed Duration #{CaptionTime}# seconds{nl}Use 1 Broadhead Arrow
 SKILL_20150428_004065	{memo X}Attack #{SkillAtkAdd}#{nl}Physical Defense -#{CaptionRatio}#% {nl}Use 1 Bodkin Arrow
@@ -4574,8 +4574,8 @@ SKILL_20150714_004573	$Increases the damage dealt on an enemy with [Backstab] by
 SKILL_20150714_004574	$Increases the duration of [Sneak Hit] by 2 seconds per attribute level.
 SKILL_20150714_004575	$Burrow: Damage
 SKILL_20150714_004576	Deals damage equal to physical attack on nearby enemies while removing [Burrow].
-SKILL_20150714_004577	$Tear Gas: Range Increase
-SKILL_20150714_004578	{memo X}$Increases the range of [Tear Gas].
+SKILL_20150714_004577	$Lachrymator: Range Increase
+SKILL_20150714_004578	{memo X}$Increases the range of [Lachrymator].
 SKILL_20150714_004579	$Increases the damage dealt on an enemy with [Broad Head] by 1% per attribute level.
 SKILL_20150714_004580	$Increases the damage dealt on an enemy with [Bodkin Point] by 1% per attribute level.
 SKILL_20150714_004581	$Increases the damage dealt on an enemy with [Barbed Arrow] by 1% per attribute level.
@@ -4811,9 +4811,9 @@ SKILL_20150717_004810	$Decreases the enemy's defense that are attacked with [Ret
 SKILL_20150717_004811	{memo X}$Provides immunity to [Poison] for 2 seconds per attribute level to a character whose [Poison] has been cured due to [Detoxify].
 SKILL_20150717_004812	Even if an object gets out of the range of [Throw Gu Pot], [Poison] will continue for 2 seconds per attribute level.
 SKILL_20150717_004813	Enemies within the range of [Scan] will be afflicted with [Confusion] by certain chance for 5 seconds. Increases the chance by 10% per attribute level.
-SKILL_20150717_004814	Enemies within the range of [Tear Gas] will receive damage every 2 seconds. Increases the damage per attribute level.
+SKILL_20150717_004814	Enemies within the range of [Lachrymator] will receive damage every 2 seconds. Increases the damage per attribute level.
 SKILL_20150717_004815	Afflicts the enemy with [Massive Bleeding] for 10 seconds when attacked with [Backstab] while affected by bleeding. Increases the duration by 1 second per attribute level. Massive Bleed damage is proportional to the character's STR and physical attack.
-SKILL_20150717_004816	$Increases the range of [Tear Gas] to 75.
+SKILL_20150717_004816	$Increases the range of [Lachrymator] to 75.
 SKILL_20150717_004817	Decreases the enemy's physical defense by 1% per attribute level when you attack with [Bodkin Point].
 SKILL_20150717_004818	[Crossfire] gets a 10% chance per level of inflicting [Burn] on targets. Burn damage is proportional to the character's physical attack.
 SKILL_20150717_004819	Enemies hit by [Magic Arrow] will be afflicted with [Silence] by a certain chance. Increases the chance by 10% per attribute level.
@@ -4884,7 +4884,7 @@ SKILL_20150724_004883	$Lv6 Rim Blow required
 SKILL_20150724_004884	$Priest 2nd Circle & Lv2 Resurrection required
 SKILL_20150724_004885	$Psychokino 2nd Circle required
 SKILL_20150724_004886	$Psychokino 3rd Circle required
-SKILL_20150724_004887	$Lv3 Tear Gas required
+SKILL_20150724_004887	$Lv3 Lachrymator required
 SKILL_20150724_004888	$Lv3 Vashita Siddhi required
 SKILL_20150724_004889	$Lv3 Summon Familiar required
 SKILL_20150724_004890	$Sorcerer 2nd Circle required
