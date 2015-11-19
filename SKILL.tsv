@@ -5587,7 +5587,7 @@ SKILL_20151102_005586	$Increased physical attack and magic attack
 SKILL_20151102_005587	$Gae Bulg: Defense Zone
 SKILL_20151102_005588	$Increased physical defense and magic defense
 SKILL_20151102_005589	$Increases block penetration by 10% per attribute level when attacking an enemy with a [Two-handed Spear].
-SKILL_20151102_005590
+SKILL_20151102_005590	$Afflicts [Bleeding] on an enemy attacked with [Keel Hauling] for 5 seconds. Increases the duration of [Bleeding] by 1 second per attribute level. Bleeding damage is proportional to the character's STR.
 SKILL_20151102_005591	$Kunai: Enhance
 SKILL_20151102_005592	$Increases the damage dealt on an enemy with [Kunai] by 1% per attribute level.
 SKILL_20151102_005593	$Katon no Jutsu: Enhance
@@ -5614,12 +5614,12 @@ SKILL_20151102_005613	$Serpentine: Bleeding
 SKILL_20151102_005614	$Enemies hit by [Serpentine] have a 2% chance per attribute level to be afflicted with [Bleeding] for 8 seconds. Bleeding damage is proportional to the character's physical attack.
 SKILL_20151102_005615	$Gae Bulg: Enhance
 SKILL_20151102_005616	Increases the damage dealt on an enemy with [Gae Bulg] by 1% per attribute level.
-SKILL_20151102_005617
+SKILL_20151102_005617	
 SKILL_20151102_005618
 SKILL_20151102_005619	$Dragon Soar: Enhance
 SKILL_20151102_005620	$Increases the damage dealt on an enemy with [Dragon Soar] by 1% per attribute level.
 SKILL_20151102_005621	$Dragon Soar: Shock	
-SKILL_20151102_005622	
+SKILL_20151102_005622	$Afflicts [Shock] on enemies hit by [Dragon Soar] at a 5% chance per attribute level for 10 seconds.
 SKILL_20151102_005623	$Umbilical Cord: Nullify Increase
 SKILL_20151102_005624	$Increases the chance to nullify an enemy's attack while using [Umbilical Cord] by 2% per attribute level.
 SKILL_20151102_005625	$Joint Penalty: Electricity
@@ -5646,11 +5646,11 @@ SKILL_20151102_005645	$Increases the damage dealt on an enemy with [Dark Surge] 
 SKILL_20151102_005646	$Dark Surge: Darkness
 SKILL_20151102_005647	$Enemies hit by [Dark Surge] have a 1% chance to be afflicted with [Darkness] for 10 seconds per attribute level.
 SKILL_20151102_005648	$Mastema: Enhance
-SKILL_20151102_005649	$Increases the damage dealt on an enemy with [Mastema] by 1% per attribute level
+SKILL_20151102_005649	$Increases the damage dealt on an enemy with [Mastema] by 1% per attribute level.
 SKILL_20151102_005650	$Mastema: Reduced Threat
-SKILL_20151102_005651	
+SKILL_20151102_005651	$Reduces the aggressiveness of enemies hit by [Mastema] by 1% per attribute level.
 SKILL_20151102_005652	$Pole of Agony: Maintain
-SKILL_20151102_005653	
+SKILL_20151102_005653	$[Pole of Agony] deals a minimum number of damage to enemies that increases with attribute level.
 SKILL_20151102_005654	$Blood Sucking: HP Supply Enhance
 SKILL_20151102_005655	$Increases the amount to absorb HP by 1 per attribute level.
 SKILL_20151102_005656	$Blood Bath: SP Supply Enhance
@@ -5666,7 +5666,7 @@ SKILL_20151102_005665	$Increases the summon time of [Bone Pointing] by 1 second 
 SKILL_20151102_005666	$Ngadhundi: Enhance
 SKILL_20151102_005667	$Increases the damage dealt on an enemy with [Ngadhundi] by 1% per attribute level.
 SKILL_20151102_005668	$Kurdaitcha: Enhance
-SKILL_20151102_005669
+SKILL_20151102_005669	
 SKILL_20151102_005670	$Levitation: Nullify Physical Damage
 SKILL_20151102_005671	$Increases the chance to nullify the enemy's physical attack while using [Levitation] by 1.5% per attribute level.
 SKILL_20151102_005672	$Featherfoot: Increased Recovery
@@ -5700,7 +5700,7 @@ SKILL_20151102_005699	$Afflicts stun at a 1.5% chance per attribute level for 3 
 SKILL_20151102_005700	$Afflicts stun at a 2% chance per attribute level when performing a basic attack on an enemy with a [Blunt Instrument].
 SKILL_20151102_005701	$Enemies receive Holy damage equal to [Attribute Level] when using [Arcane Energy].
 SKILL_20151102_005702	$Healing Factor: Attack
-SKILL_20151102_005703	
+SKILL_20151102_005703	$Enemies traversing over the [Healing Factor] circle will incur continuous damage. Overall damage dealt scales with character's HP.
 SKILL_20151102_005704	$Incineration: Enhance
 SKILL_20151102_005705	$Increases the damage dealt on an enemy with [Incineration] by 1% per attribute level.
 SKILL_20151102_005706	$Bloodletting: Hemostasis
@@ -5724,13 +5724,13 @@ SKILL_20151102_005723
 SKILL_20151102_005724	$Nachash: Abnormal Status
 SKILL_20151102_005725	$Increases the chance to afflict petrification or cursed on an enemy when damage is dealt with [Nachash] by 1%.
 SKILL_20151102_005726	$Ein Sof: Maintain Time
-SKILL_20151102_005727
+SKILL_20151102_005727	$Increases the duration of [Ein Sof] tiles by 1 second per attribute level.
 SKILL_20151102_005728	$Ein Sof: Additional Generation
-SKILL_20151102_005729
+SKILL_20151102_005729	$Increases the number of [Ein Sof] tiles created by 1 per attribute level.
 SKILL_20151102_005730	$Merkaba: Enhance
 SKILL_20151102_005731	$Increases the damage dealt on an enemy with [Merkaba] by 1% per attribute level.
 SKILL_20151102_005732	$Merkaba: Petrification
-SKILL_20151102_005733
+SKILL_20151102_005733	$[Merkaba] petrifies [Cursed] enemies for 3 seconds.
 SKILL_20151102_005734	$Ein Sof: SP Recovery
-SKILL_20151102_005735
+SKILL_20151102_005735	$Exchanges half the maximum HP recovery of [Ein Sof] for SP recovery instead.
 SKILL_20151102_005736	$$Lv. 3 Ein Sof required
