@@ -3726,7 +3726,7 @@ SKILL_20150414_003725	Summons a servant. The servant will grant beneficial effec
 SKILL_20150414_003726	{memo X}Servant HP #{CaptionRatio}#
 SKILL_20150414_003727	{memo X}Control time and temporarily increase attack speed of yourself or 1 ally in front.
 SKILL_20150414_003728	{memo X}Control time and make the monster appear again where it was killed.
-SKILL_20150414_003729	Stop time of monsters within target area. Enemies do not receive damage when time is stopped.
+SKILL_20150414_003729	Stops time of monsters within the targeted area. Enemies do not receive damage when time is stopped.
 SKILL_20150414_003730	Controls time to decrease the movement speed of enemies.
 SKILL_20150414_003731	{memo X}Control time and increase movement speed of yourself or 1 ally in front.
 SKILL_20150414_003732	Control time in an area, temporarily changing it back to its previous state.
@@ -3734,7 +3734,7 @@ SKILL_20150414_003733	{#993399}{ol}[Magic]{/}{/}{nl}Collect an enemy's corpse.
 SKILL_20150414_003734	{memo X}Attack #{SkillAtkAdd}#{nl}Collect corpse of each type
 SKILL_20150414_003735	{memo X}Make Shogos molded after the card inserted in Necronomicon. Necronomicon can equip only Animal, Plant, and Mutant type cards.
 SKILL_20150414_003736	{memo X}Use #{CaptionRatio}# each of {nl}Plant, Beast, Mutant corpse
-SKILL_20150414_003737	{#993399}{ol}[Magic]{/}{/}{nl}Throw corpse parts to target area and attack nearby enemies.
+SKILL_20150414_003737	{#993399}{ol}[Magic]{/}{/}{nl}Throw corpse parts on a targeted area to attack nearby enemies.
 SKILL_20150414_003738	{memo X}Attack #{SkillAtkAdd}#{nl}Splash #{SkillSR}#{nl}Use #{CaptionRatio}# each of{nl}Plant, Beast. Mutant monster corpse
 SKILL_20150414_003739	{#993399}{ol}[Magic]{/}{/}{nl}Encircle yourself with corpse parts that will damage nearby enemies.
 SKILL_20150414_003740	{memo X}Attack #{SkillAtkAdd}#{nl}Duration 15 seconds{nl}Use #{CaptionRatio}# Mutant corpse
@@ -3877,7 +3877,7 @@ SKILL_20150414_003876	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Train your ski
 SKILL_20150414_003877	{memo X}Reflect attack amounting to target's Physical attack.{nl}Reflect damage +#{SkillAtkAdd}#{nl}Ranged projectile, cannot defend magic
 SKILL_20150414_003878	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use your trained fists to attack the enemy in succession.
 SKILL_20150414_003879	{memo X}{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Continuously attack with tip of hand.
-SKILL_20150414_003880	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use hand knife to destroy the shield.
+SKILL_20150414_003880	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Break your target's armor with a strong strike using your hand as a knife.
 SKILL_20150414_003881	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Punch enemy from a close range. Enemy loses SP and receives continuous damage.
 SKILL_20150414_003882	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Gather force then shoot forward. Enemy is pushed away and received damage.
 SKILL_20150414_003883	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use tip of finger to throw coin and attack enemy.
@@ -4512,8 +4512,8 @@ SKILL_20150714_004511	$Increases the damage dealt on an enemy with [Full Draw] b
 SKILL_20150714_004512	$Increases the damage dealt on an enemy with [Oblique Shot] by 1% per attribute level.
 SKILL_20150714_004513	$Increases the damage dealt on an enemy with [Heavy Shot] by 1% per attribute level.
 SKILL_20150714_004514	$Increases the damage dealt on an enemy with [Twin Arrows] by 1% per attribute level.
-SKILL_20150714_004515	$Increases the Critical Chance of [Multi Shot] by 1% per attribute level.
-SKILL_20150714_004516	$Increases the Critical Rate of [Kneeling Shot] by 2% per attribute level.
+SKILL_20150714_004515	$Increases the critical chance of [Multi Shot] by 1% per attribute level.
+SKILL_20150714_004516	$Increases the critical rate during [Kneeling Shot] by 2% per attribute level.
 SKILL_20150714_004517	{memo X}$While [Swift Step] is active, enemies that are hit by [Oblique Shot] will be affected by [Slow] with a 5% chance per attribute level.
 SKILL_20150714_004518	{memo X}$Increases your Critical Rate by 10% per attribute level while [Swift Step] is active.
 SKILL_20150714_004519	{memo X}$Decreases the enemy's physical defense threaded with [Full Draw] by 2% per attribute level.
@@ -5032,27 +5032,27 @@ SKILL_20150804_005031	{memo X}$Attack 300% + #{SkillAtkAdd}#{nl}Attribute Damage
 SKILL_20150804_005032	${#DD5500}{ol}[Physical] - [Poison] - [Pierce]{/}{/}{nl}Launches a contagious poisonous arrow. Poison spreads through the target whenever it gets attacked. 
 SKILL_20150804_005033	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl} Launches an arrow that explodes on enemy impact in a cross.
 SKILL_20150804_005034	$Attack: 250% + #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}AoE Attack Ratio: #{SkillSR}#
-SKILL_20150804_005035	$Reflect #{CaptionRatio}#% of the target's physical attack{nl}Maximum Duration #{CaptionTime}# sec{nl}Range projectile, Magic defense not possible
+SKILL_20150804_005035	$Reflects #{CaptionRatio}#% of the target's physical attack{nl}Maximum Duration #{CaptionTime}# sec{nl}Range projectile, Magic defense not possible
 SKILL_20150804_005036	$Cartar Stroke: Remove Knockback
 SKILL_20150804_005037	{memo X}Pushing power of [Cartar Stroke] becomes 0. (You will not be pushed if this attribute is ON.)
 SKILL_20150804_005038	$Increases your fire, ice and lightning properties by 5 and from Lv2 it increases by 1 per attribute level. 
 SKILL_20150804_005039	$Increases the reflection of [Iron Skin] by 5% per attribute level.
-SKILL_20150807_005040	While [Aggressor] is active, the character's added Critical Attack is proportional to the physical attack. Increases an addtional amount by 5% per attribute level.
-SKILL_20150918_005041	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Throw shield to attack. Shield drops on target area and you physical defense decreases as much as the epuipment . Shield may be picked up or automatically added to inventory after time limit. Decreased physical defense will be back to normal when the shield is back in inventory.
+SKILL_20150807_005040	While [Aggressor] is active, the character's added critical attack is proportional to the physical attack. Increases an addtional amount by 5% per attribute level.
+SKILL_20150918_005041	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Attack an enemy by throwing your shield. Your shield drops on the targeted area, and your physical defense decreases based on the value of the equipment. The shield may be picked up or it'll automatically return to your inventory after a certain time. The decreased physical defense will return back to normal once your shield is back in the inventory.
 SKILL_20150918_005042	$Umbo Thrust
-SKILL_20150918_005043	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use the spike on the shield to strike the enemy. Enemy may temporarily lose armor effects.
+SKILL_20150918_005043	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use the spike on the shield to strike an enemy. You may temporarily lose a small effect of your armor.
 SKILL_20150918_005044	$Sky Liner
-SKILL_20150918_005045	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Slash the enemy sideways. {nl}Inflict additional damage to enemies affected by [Bleeding].
+SKILL_20150918_005045	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Slash the enemy sideways.{nl}Inflicts additional damage on enemies affected by [Bleeding].
 SKILL_20150918_005046	$Crosscut
-SKILL_20150918_005047	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Charge towards the enemy and cut a cross on their body, inflicting [Bleeding].
+SKILL_20150918_005047	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Afflicts [Bleeding] on enemies by charging towards to cut a cross on their body.
 SKILL_20150918_005048	$Vertical Slash
 SKILL_20150918_005049	{memo X}{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Decreases the defense for medium, big enemies for a while by smaking down.
-SKILL_20150918_005050	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Throw your spear to damage an enemy. The spear will stick into the ground where it was thrown, and your physical attack will be decreased based on the equipment's upgrade count until you pick it up. Automatically returns to you after a time limit.
+SKILL_20150918_005050	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Attack an enemy by throwing your spear. Your spear will stick into the ground where it was thrown, and your physical attack will be decreased based on the equipment's upgrade count until you pick it up. It automatically returns to you after a certain time.
 SKILL_20150918_005051	$Attack per Stack: +#{CaptionRatio}#{nl}Maximum Stacks: #{CaptionRatio2}#{nl}Duration: #{CaptionTime}# seconds
 SKILL_20150918_005052	$Helm Chopper
 SKILL_20150918_005053	${#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Strike the enemy's head, causing it to be stunned.
 SKILL_20150918_005054	$Seism
-SKILL_20150918_005055	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Earthshake causes enemies to be unable to attack. Enemies have a chance to be stunned.
+SKILL_20150918_005055	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Earthshake causes enemies to be unable to attack. The enemy has a chance to be stunned.
 SKILL_20150918_005056	$Cleave
 SKILL_20150918_005057	{memo X}{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Use centrifugal force and continuously attack enemies by turning body. Make an additional damage to the enemy stunned.
 SKILL_20150918_005058	${#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Use your shield and sword to successively attack enemies.
@@ -5060,7 +5060,7 @@ SKILL_20150918_005059	$Shield Shoving
 SKILL_20150918_005060	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Interrupt an enemy's action using your shield. The enemy is turned around, and can't take any actions temporarily.
 SKILL_20150918_005061	Attack #{SkillAtkAdd}#{nl}Attribute Attack #{CaptionRatio}#%{nl}duration 1.5 seconds
 SKILL_20150918_005062	$Shield Bash
-SKILL_20150918_005063	{#DD5500}{ol}[Phyiscal] - [Slash]{/}{/}{nl}Attack with the shield. The stat points of attacked enemy will mix temporarily.
+SKILL_20150918_005063	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Attack with your shield. The attacked enemy will have its stat points jumbled temporarily.
 SKILL_20150918_005064	$Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Duration: #{CaptionRatio2}# seconds
 SKILL_20150918_005065	$High Kick
 SKILL_20150918_005066	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Perform a high kick on the enemy. The enemy will receive additional damage from Strike attacks temporarily.
