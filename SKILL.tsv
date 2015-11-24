@@ -569,9 +569,9 @@ SKILL_20150317_000568	[Throneweaver] Physical Poison Property Magic
 SKILL_20150317_000569	[Throneweaver] Physical Poison Property Strike
 SKILL_20150317_000570	[Throneweaver] Magic Poison Property Magic
 SKILL_20150317_000571	[Mineloader] Physical Lightning Property Strike
-SKILL_20150317_000572	[Shadowgaoler] Physical Dark Property Slash
-SKILL_20150317_000573	[Shadowgaoler] Magic Dark Property Magic
-SKILL_20150317_000574	[Shadowgaoler] Physical Dark Property Magic
+SKILL_20150317_000572	[Shadowgaler] Physical Dark Property Slash
+SKILL_20150317_000573	[Shadowgaler] Magic Dark Property Magic
+SKILL_20150317_000574	[Shadowgaler] Physical Dark Property Magic
 SKILL_20150317_000575	[Giantredwood] Physical Non-Property Strike
 SKILL_20150317_000576	[Giantredwood] Physical Fire Property Strike
 SKILL_20150317_000577	[Rexipher] Physical Dark Property Strike
@@ -846,7 +846,7 @@ SKILL_20150317_000845	[Mirtis Card] Magic Dark Property Slash
 SKILL_20150317_000846	[Sequoia Card] Physical Fire Property Magic
 SKILL_20150317_000847	[Rikaus Card] Physical Dark Property Slash
 SKILL_20150317_000848	[Werewolf Card] Physical Dark Property Magic
-SKILL_20150317_000849	[Shadowgaoler Card] Magic Dark Property Slash
+SKILL_20150317_000849	[Shadowgaler Card] Magic Dark Property Slash
 SKILL_20150317_000850	[Carnivore Card] Physical Poison Property Magic
 SKILL_20150317_000851	[Minotaur Card] Magic Fire Property Magic
 SKILL_20150317_000852	[Throneweaver Card] Magic Poison Property Strike
@@ -3282,8 +3282,8 @@ SKILL_20150401_003281	$Increases your Evasion.
 SKILL_20150401_003282	$Evasion: +#{CaptionRatio}#%{nl}Duration: #{CaptionTime}# seconds
 SKILL_20150401_003283	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Using this attack to kill enemy explodes target. Strength of party members is temporarily increased.
 SKILL_20150401_003284	{memo X}Attack #{SkillAtkAdd}#{nl}STR + #{CaptionRatio}#{nl}Duration #{CaptionTime}# seconds
-SKILL_20150401_003285	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Throw tear gas bomb. Target affected fall into Blind state.
-SKILL_20150401_003286	{memo X}Attack #{SkillAtkAdd}#{nl}Tear gas Duration #{CaptionTime}# seconds
+SKILL_20150401_003285	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Throw Lachrymator bomb. Target affected fall into Blind state.
+SKILL_20150401_003286	{memo X}Attack #{SkillAtkAdd}#{nl}Lachrymator Duration #{CaptionTime}# seconds
 SKILL_20150401_003287	{memo X}{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Continuously attack enemy with sword. Increases critical rate, no. of strikes are different each time.
 SKILL_20150401_003288	{memo X}Attack #{SkillAtkAdd}#{nl}Hit 1~4 times{nl}Critical rate #{CaptionRatio}#%
 SKILL_20150401_003289	{memo X}{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Shoot arrows that cause enemy to Bleed.
@@ -3480,7 +3480,7 @@ SKILL_20150401_003479	{memo X}Magic Arrow: Enhance
 SKILL_20150401_003480	{memo X}Damage of [Magic Arrow] Increase per Attribute level.
 SKILL_20150401_003481	{memo X}Magic Arrow: Enhance 2
 SKILL_20150401_003482	{memo X}Damage of [Magic Arrow] is enhanced to Fletcher Circle 3.
-SKILL_20150401_003483	$Gather Corpse: Enhance
+SKILL_20150401_003483	$Divine Arrow: Enhance
 SKILL_20150401_003484	{memo X}Damage of [Gather Corpse] Increase per Attribute level.
 SKILL_20150401_003485	$Concentrated Fire: Enhance
 SKILL_20150401_003486	{memo X}Damage of [Concentrated Fire] Increase per Attribute level.
@@ -3577,7 +3577,7 @@ SKILL_20150406_003576	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Flame is fumed
 SKILL_20150406_003577	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Install bomb around target. Bomb explosed when touching enemy.
 SKILL_20150406_003578	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Shoot flash arrows on the ground. Flash pops and shoots sparks to enemies nearby.
 SKILL_20150406_003579	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use this attack to explode enemy when it is killed. Strength of party members temporarily increase.
-SKILL_20150406_003580	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Throw tear gas. Target affected fall into Blind state.
+SKILL_20150406_003580	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Throw Lachrymator. Target affected fall into Blind state.
 SKILL_20150406_003581	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Zombies circle around specified area. Enemies that touch zombies are push away and receives damage.
 SKILL_20150406_003582	{memo X}{#993399}{ol}[Magic]{/}{/}{nl}Explode zombies in specific area and damage target enemies.
 SKILL_20150406_003583	{memo X}Attack #{SkillAtkAdd}#{nl}Summoned zombie required{nl}Max. explosion #{SkillSR}#
@@ -3608,7 +3608,7 @@ SKILL_20150414_003607	${#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Inflicts damag
 SKILL_20150414_003608	$Become determined by temporarily increasing your attack, while decreasing your defense.
 SKILL_20150414_003609	$Increases your attack damage.
 SKILL_20150414_003610	$Lowers your maximum HP, but your attacks have a high chance of stunning enemies.
-SKILL_20150414_003611	$Chance of Stunning Enemy: #{CaptionRatio}#%{nl}Max. HP -#{CaptionRatio2}# {nl}Duration: #{CaptionTime}# seconds
+SKILL_20150414_003611	$Chance of Stunning Enemy: #{CaptionRatio}#%{nl}Maximum HP: -#{CaptionRatio2}# {nl}Duration: #{CaptionTime}# seconds
 SKILL_20150414_003612	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Strike enemies with your sword handle.{nl}Inflicts additional damage on stunned monsters, and partially ignores the defense of small and medium sized enemies.
 SKILL_20150414_003613	${#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use the bump of your shield to attack enemies. Blocking provides additional damage on staggered enemies.
 SKILL_20150414_003614	${#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use the edge of your shield to attack enemies. Inflicts additional damage on both petrified and frozen enemies.
@@ -3650,7 +3650,7 @@ SKILL_20150414_003649	$Giant Swing
 SKILL_20150414_003650	{memo X}USe centrifugal force to throw away enemy.
 SKILL_20150414_003651	{memo X}Open shop to repair weapon and temporarily increase its performance.
 SKILL_20150414_003652	{memo X}Open shop to repair weapon and temporarily increase its performance. Physical defense is added. Repair is only for top, Pants, and Shield.
-SKILL_20150414_003653	Open shop for repairing items. Items are repaired to have higher durability than max. durability.
+SKILL_20150414_003653	Open shop for repairing items. Items here are repaired over maximum durability.
 SKILL_20150414_003654	Binds all enemies, including boss monsters, to prevent them from moving.
 SKILL_20150414_003655	{memo X}Install basecamp for party members. Party members can use basecamp as storage or for teleport.
 SKILL_20150414_003656	$Duration: #{CaptionRatio}# hours{nl}Duration of the food effects is at least 30 minutes
@@ -3700,7 +3700,7 @@ SKILL_20150414_003699	{memo X}Create a straight line gravitational force that pu
 SKILL_20150414_003700	Link enemies, so that they share damage taken.
 SKILL_20150414_003701	{memo X}Gather linked enemies to one area and make them collide with each other.
 SKILL_20150414_003702	Link party member and share buff effects.
-SKILL_20150414_003703	Life line
+SKILL_20150414_003703	Umbilical Cord
 SKILL_20150414_003704	{memo X}Use the higher ability beween you and linked ally.
 SKILL_20150414_003705	Enlarge the size of your and party member's hand and increase attack.
 SKILL_20150414_003706	{memo X}Shrink size of target. Target has chance of disappearing when used on small sized monsters.
@@ -3726,7 +3726,7 @@ SKILL_20150414_003725	Summons a servant. The servant will grant beneficial effec
 SKILL_20150414_003726	{memo X}Servant HP #{CaptionRatio}#
 SKILL_20150414_003727	{memo X}Control time and temporarily increase attack speed of yourself or 1 ally in front.
 SKILL_20150414_003728	{memo X}Control time and make the monster appear again where it was killed.
-SKILL_20150414_003729	Stop time of monsters within target area. Enemies do not receive damage when time is stopped.
+SKILL_20150414_003729	Stops time of monsters within the targeted area. Enemies do not receive damage when time is stopped.
 SKILL_20150414_003730	Controls time to decrease the movement speed of enemies.
 SKILL_20150414_003731	{memo X}Control time and increase movement speed of yourself or 1 ally in front.
 SKILL_20150414_003732	Control time in an area, temporarily changing it back to its previous state.
@@ -3734,7 +3734,7 @@ SKILL_20150414_003733	{#993399}{ol}[Magic]{/}{/}{nl}Collect an enemy's corpse.
 SKILL_20150414_003734	{memo X}Attack #{SkillAtkAdd}#{nl}Collect corpse of each type
 SKILL_20150414_003735	{memo X}Make Shogos molded after the card inserted in Necronomicon. Necronomicon can equip only Animal, Plant, and Mutant type cards.
 SKILL_20150414_003736	{memo X}Use #{CaptionRatio}# each of {nl}Plant, Beast, Mutant corpse
-SKILL_20150414_003737	{#993399}{ol}[Magic]{/}{/}{nl}Throw corpse parts to target area and attack nearby enemies.
+SKILL_20150414_003737	{#993399}{ol}[Magic]{/}{/}{nl}Throw corpse parts on a targeted area to attack nearby enemies.
 SKILL_20150414_003738	{memo X}Attack #{SkillAtkAdd}#{nl}Splash #{SkillSR}#{nl}Use #{CaptionRatio}# each of{nl}Plant, Beast. Mutant monster corpse
 SKILL_20150414_003739	{#993399}{ol}[Magic]{/}{/}{nl}Encircle yourself with corpse parts that will damage nearby enemies.
 SKILL_20150414_003740	{memo X}Attack #{SkillAtkAdd}#{nl}Duration 15 seconds{nl}Use #{CaptionRatio}# Mutant corpse
@@ -3795,7 +3795,7 @@ SKILL_20150414_003794	Trick an enemy to lower its guard. Temporarily decreases t
 SKILL_20150414_003795	Hide underground to conceal your appearance. In this state you can attack but cannot move.
 SKILL_20150414_003796	Steals the enemy's trap and magic circle. You may use it later when you need it.
 SKILL_20150414_003797	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Temporarily increases the STR of you and your party members when a target dies and explodes from this attack.
-SKILL_20150414_003798	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Throw tear gas on target area. Enemies fall under [Dark].
+SKILL_20150414_003798	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Throw Lachrymator on target area. Enemies fall under [Dark].
 SKILL_20150414_003799	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Continuously attack using your dagger. A double attack with a high critical rate that may stun the enemy.
 SKILL_20150414_003800	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Launches a wide broadhead arrow. Inflicts bleeding on the enemy hit.
 SKILL_20150414_003801	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Launches a bodkin arrow that deeply penetrates the enemy. On hit, decreases enemies' defense and nullifies the magic that protects the enemy.
@@ -3877,7 +3877,7 @@ SKILL_20150414_003876	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Train your ski
 SKILL_20150414_003877	{memo X}Reflect attack amounting to target's Physical attack.{nl}Reflect damage +#{SkillAtkAdd}#{nl}Ranged projectile, cannot defend magic
 SKILL_20150414_003878	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use your trained fists to attack the enemy in succession.
 SKILL_20150414_003879	{memo X}{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Continuously attack with tip of hand.
-SKILL_20150414_003880	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use hand knife to destroy the shield.
+SKILL_20150414_003880	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Break your target's armor with a strong strike using your hand as a knife.
 SKILL_20150414_003881	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Punch enemy from a close range. Enemy loses SP and receives continuous damage.
 SKILL_20150414_003882	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Gather force then shoot forward. Enemy is pushed away and received damage.
 SKILL_20150414_003883	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use tip of finger to throw coin and attack enemy.
@@ -3958,8 +3958,8 @@ SKILL_20150414_003957	$Teardown: Enhance 2
 SKILL_20150414_003958	$Enhanced the damage of [Teardown] to Quarrel Shooter's 3rd Circle standards.
 SKILL_20150414_003959	$Running Shot: Enhance
 SKILL_20150414_003960	$Increases the damage of [Running Shot] per attribute level.
-SKILL_20150414_003961	$Tear Gas: Additional Damage
-SKILL_20150414_003962	{memo X}Enemies within rage of [Tear Gas] receives damage every 2 seconds. Damage increases per attribute level.
+SKILL_20150414_003961	$Lachrymator: Additional Damage
+SKILL_20150414_003962	{memo X}Enemies within rage of [Lachrymator] receives damage every 2 seconds. Damage increases per attribute level.
 SKILL_20150414_003963	$Magic Arrow: Enhance
 SKILL_20150414_003964	{memo X}Damage of [Magic Arrow] increase per attribute level.
 SKILL_20150414_003965	$Magic Arrow: Enhance 2
@@ -4001,8 +4001,8 @@ SKILL_20150414_004000	$Backstab: Massive Bleeding
 SKILL_20150414_004001	{memo X}Enemy falls under [Massive Bleed] status when attack with [Back Step] while bleeding.
 SKILL_20150414_004002	$Magic Arrow: Silence
 SKILL_20150414_004003	{memo X}Enemies receiving [Magic Arrow] fire attacks have chance of falling under [Silence]. Chance increase by 10% per attribute level.
-SKILL_20150414_004004	$Gather Corpse: Shock
-SKILL_20150414_004005	$Enemies hit by [Gather Corpse] are affected by the [Shock] status effect for 10 seconds.
+SKILL_20150414_004004	$Divine Arrow: Shock
+SKILL_20150414_004005	$Enemies hit by [Divine Arrow] are affected by the [Shock] status effect for 10 seconds.
 SKILL_20150414_004006	$Revive: Duration
 SKILL_20150414_004007	{memo X}Duration of [Revive] increase by 10 seconds per attribute level.
 SKILL_20150414_004008	$Palm Strike: Bleeding
@@ -4058,8 +4058,8 @@ SKILL_20150428_004057	{memo X}$Evasion: -#{CaptionRatio}#{nl}Pointing AI Duratio
 SKILL_20150428_004058	$Detects hidden monsters {nl}Hounding AI Duration: 90 seconds
 SKILL_20150428_004059	{memo X}$Consumes #{SpendPoison}# Poison Pot Poison
 SKILL_20150428_004060	{memo X}Attack #{SkillAtkAdd}#{nl}Duration 30 seconds
-SKILL_20150428_004061	Throw tear gas on target area. Target falls under Darkness.
-SKILL_20150428_004062	$Tear Gas Duration: #{CaptionTime}# seconds
+SKILL_20150428_004061	Throw tear gas at a targeted area. The target becomes afflicted with Darkness.
+SKILL_20150428_004062	$Lachrymator Duration: #{CaptionTime}# seconds
 SKILL_20150428_004063	{memo X}Attack #{SkillAtkAdd}#{nl}Strike 2 times{nl}Critical rate #{CaptionRatio}#%
 SKILL_20150428_004064	{memo X}Attack #{SkillAtkAdd}#{nl}Bleed Duration #{CaptionTime}# seconds{nl}Use 1 Broadhead Arrow
 SKILL_20150428_004065	{memo X}Attack #{SkillAtkAdd}#{nl}Physical Defense -#{CaptionRatio}#% {nl}Use 1 Bodkin Arrow
@@ -4228,7 +4228,7 @@ SKILL_20150714_004227	Damage Effect
 SKILL_20150714_004228	Receive damage after an effect
 SKILL_20150714_004229	Spread the new buff received to allies
 SKILL_20150714_004230	Right Hand is enlarged. Effect applies according to the sub weapon types
-SKILL_20150714_004231	Max. HP is reduced, but the target will fall into [Stun] status
+SKILL_20150714_004231	Afflicts the target with [Stun], but decreases your maximum HP.
 SKILL_20150714_004232	Gohan
 SKILL_20150714_004233	{memo X}Number of buff you can receive will increase.
 SKILL_20150714_004234	Removes nullified magic and harmful effects
@@ -4512,8 +4512,8 @@ SKILL_20150714_004511	$Increases the damage dealt on an enemy with [Full Draw] b
 SKILL_20150714_004512	$Increases the damage dealt on an enemy with [Oblique Shot] by 1% per attribute level.
 SKILL_20150714_004513	$Increases the damage dealt on an enemy with [Heavy Shot] by 1% per attribute level.
 SKILL_20150714_004514	$Increases the damage dealt on an enemy with [Twin Arrows] by 1% per attribute level.
-SKILL_20150714_004515	$Increases the Critical Chance of [Multi Shot] by 1% per attribute level.
-SKILL_20150714_004516	$Increases the Critical Rate of [Kneeling Shot] by 2% per attribute level.
+SKILL_20150714_004515	$Increases the critical chance of [Multi Shot] by 1% per attribute level.
+SKILL_20150714_004516	$Increases the critical rate during [Kneeling Shot] by 2% per attribute level.
 SKILL_20150714_004517	{memo X}$While [Swift Step] is active, enemies that are hit by [Oblique Shot] will be affected by [Slow] with a 5% chance per attribute level.
 SKILL_20150714_004518	{memo X}$Increases your Critical Rate by 10% per attribute level while [Swift Step] is active.
 SKILL_20150714_004519	{memo X}$Decreases the enemy's physical defense threaded with [Full Draw] by 2% per attribute level.
@@ -4523,7 +4523,7 @@ SKILL_20150714_004522	$Increases the damage dealt on an enemy with [Critical Sho
 SKILL_20150714_004523	$Increases the damage dealt on an enemy with [Time Bomb Arrow] 1% per attribute level.
 SKILL_20150714_004524	$Increases the damage dealt on an enemy with [Bounce Shot] by 1% per attribute level.
 SKILL_20150714_004525	$Enemies hit by [Barrage] have a 10% chance of being knocked back per attribute level.
-SKILL_20150714_004526	$Inflicts [Slow] on enemies hit by [Bounce Shot] with a 10% chance per attribute level.
+SKILL_20150714_004526	$Inflicts [Slow] on enemies hit by [Bounce Shot] with a 3% chance per attribute level.
 SKILL_20150714_004527	{memo X}$Spiral Arrow: Weakness Attack
 SKILL_20150714_004528	{memo X}$Has a chance to apply Critical to attacks with the effect of [Spiral Arrow] to enemies afflicted with Armor Break. Increases the chance by 10% per attribute level.
 SKILL_20150714_004529	$Increases the damage dealt on an enemy with [Scatter Caltrops] by 1% per attribute level.
@@ -4574,8 +4574,8 @@ SKILL_20150714_004573	$Increases the damage dealt on an enemy with [Backstab] by
 SKILL_20150714_004574	$Increases the duration of [Sneak Hit] by 2 seconds per attribute level.
 SKILL_20150714_004575	$Burrow: Damage
 SKILL_20150714_004576	Deals damage equal to physical attack on nearby enemies while removing [Burrow].
-SKILL_20150714_004577	$Tear Gas: Range Increase
-SKILL_20150714_004578	{memo X}$Increases the range of [Tear Gas].
+SKILL_20150714_004577	$Lachrymator: Range Increase
+SKILL_20150714_004578	{memo X}$Increases the range of [Lachrymator].
 SKILL_20150714_004579	$Increases the damage dealt on an enemy with [Broad Head] by 1% per attribute level.
 SKILL_20150714_004580	$Increases the damage dealt on an enemy with [Bodkin Point] by 1% per attribute level.
 SKILL_20150714_004581	$Increases the damage dealt on an enemy with [Barbed Arrow] by 1% per attribute level.
@@ -4779,11 +4779,11 @@ SKILL_20150717_004778	{memo X}Defense and Attack increase effect of [Swell Right
 SKILL_20150717_004779	{memo X}Intelligence increase effect of [Swell Brain] increases by 1 per attribute level.
 SKILL_20150717_004780	Enemies affected by [Swell Body] will have their movement speed decreased by 25% and physical and magical attack increased by 20% per attribute level.
 SKILL_20150717_004781	Enemies affected by [Shrink Body] will have their movement speed increased by 20% and physical and magical attack decreased by 25% per attribute level.
-SKILL_20150717_004782	Enemies affected by [Swell Body] will take 20% more magical attack damage per attribute level.
-SKILL_20150717_004783	Enemies affected by [Shrink Body] will take 20% more magical attack damage per attribute level.
+SKILL_20150717_004782	$Deals damage equal to 20% magic attack when changing your size with [Swell Body] per attribute level.
+SKILL_20150717_004783	$Deals damage equal to 20% magic attack when changing your size with [Shrink Body] per attribute level.
 SKILL_20150717_004784	When you attack an enemy affected by [Swell Body] while [Left Arm Enhancement] is active, it will continuously apply the [Attacked Weakened] status effect. Increases the duration by 8 seconds per attribute level and [Attacked Weakened] can stack up to 10 times.
 SKILL_20150717_004785	$When enemies are hit by [Hail], inflict [Freezing] for 5 seconds by 5% chance per attribute level.
-SKILL_20150717_004786	$Increases Evasion while charging [Meteor] by 10 per attribute level.
+SKILL_20150717_004786	$Increases Evasion while charging [Meteor] by 10% per attribute level.
 SKILL_20150717_004787	Using Fire Property attacks to finish enemies will cause explosion and splash damage by 80% with the probability of 30%.
 SKILL_20150717_004788	Using Ice Property attacks to finish enemies will slow down nearby enemies with the probability of 50% for 6 seconds.
 SKILL_20150717_004789	Deals damage to nearby enemies by 1% chance per attribute level when the summoned familiar of [Summon Familiar] explodes itself.
@@ -4811,11 +4811,11 @@ SKILL_20150717_004810	$Decreases the enemy's defense that are attacked with [Ret
 SKILL_20150717_004811	{memo X}$Provides immunity to [Poison] for 2 seconds per attribute level to a character whose [Poison] has been cured due to [Detoxify].
 SKILL_20150717_004812	Even if an object gets out of the range of [Throw Gu Pot], [Poison] will continue for 2 seconds per attribute level.
 SKILL_20150717_004813	Enemies within the range of [Scan] will be afflicted with [Confusion] by certain chance for 5 seconds. Increases the chance by 10% per attribute level.
-SKILL_20150717_004814	Enemies within the range of [Tear Gas] will receive damage every 2 seconds. Increases the damage per attribute level.
-SKILL_20150717_004815	The enemy become afflicted with [Massive Bleeding] for 10 seconds when attacked with [Backstab] while affected by bleeding. Increases the duration by 1 second per attribute level. Massive Bleed damage is based on your STR and physical attack.
-SKILL_20150717_004816	$Increases the range of [Tear Gas] to 75.
+SKILL_20150717_004814	Enemies within the range of [Lachrymator] will receive damage every 2 seconds. Increases the damage per attribute level.
+SKILL_20150717_004815	Afflicts the enemy with [Massive Bleeding] for 10 seconds when attacked with [Backstab] while affected by bleeding. Increases the duration by 1 second per attribute level. Massive Bleed damage is proportional to the character's STR and physical attack.
+SKILL_20150717_004816	$Increases the range of [Lachrymator] to 75.
 SKILL_20150717_004817	Decreases the enemy's physical defense by 1% per attribute level when you attack with [Bodkin Point].
-SKILL_20150717_004818	[Crossfire] gets a 10% chance per level of inflicting [Burn] on targets. Burn damage scales with character's physical damage.
+SKILL_20150717_004818	[Crossfire] gets a 10% chance per level of inflicting [Burn] on targets. Burn damage is proportional to the character's physical attack.
 SKILL_20150717_004819	Enemies hit by [Magic Arrow] will be afflicted with [Silence] by a certain chance. Increases the chance by 10% per attribute level.
 SKILL_20150717_004820	You can create the arrows for Fletcher. Crafting arrow is available while in Rest Mode.
 SKILL_20150717_004821	{memo X}Defense decrease effect of [Deprotected Zone] increases by 1 per attribute level.
@@ -4824,7 +4824,7 @@ SKILL_20150717_004823	$Using basic sword attacks on enemies with [Deprotected Zo
 SKILL_20150717_004824	$Increases the range applied by [Safety Zone] to 15.
 SKILL_20150717_004825	{memo X}HP recovery of [Aukuras] increases by 1 per attribute level.
 SKILL_20150717_004826	$Increases the character's Fire property resistance and decreases the Dark property resistance by 5 and 3 per attribute level respectively.
-SKILL_20150717_004827	[Zaibas] is affected by splash and inflicts damage on multiple target at once. (total count does not increase.)
+SKILL_20150717_004827	[Zaibas] is affected by the character's AoE Attack Ratio and inflicts damage on multiple target at once. (total count does not increase.)
 SKILL_20150717_004828	{memo X}$Increases the range of [Melstis] to 50. 
 SKILL_20150717_004829	$Sacrament: Dark Property Resistance
 SKILL_20150717_004830	$Increases your Dark property resistance by 5 per attribute level while [Sacrament] is active.
@@ -4839,9 +4839,9 @@ SKILL_20150717_004838	{memo X}$Decreases the enemy's physical defense by 30% wit
 SKILL_20150717_004839	{memo X}$Decreases the SP cost of [Vashita Siddhi] by 10. 
 SKILL_20150717_004840	$Enemies within the range of [Vashita Siddhi] have a chance to be afflicted with Confusion. Increases the chance by 10% per attribute level.
 SKILL_20150717_004841	{memo X}HP recovery effect of [Restoration] increases per attribute level
-SKILL_20150717_004842	$The instant death chance of [Turn Undead] is proportional to your SPR.
+SKILL_20150717_004842	$The instant death chance of [Turn Undead] is proportional to the character's SPR.
 SKILL_20150717_004843	{memo X}Damage that will be reflected off from [Iron Skin] will be added 20% of Physical ATK per Attribute level.
-SKILL_20150717_004844	$Enemies hit by [Palm Strike] will be affected by [Bleeding] for 8 seconds. Increases the duration of [Bleeding] by 1 second per attribute level. Bleeding damage is proportional to your physical attack.
+SKILL_20150717_004844	$Enemies hit by [Palm Strike] will be affected by [Bleeding] for 8 seconds. Increases the duration of [Bleeding] by 1 second per attribute level. Bleeding damage is proportional to the character's physical attack.
 SKILL_20150717_004845	$Craft a dispeller to prevent from getting harmful effects. Craft Dispeller is only possible in Rest Mode.
 SKILL_20150717_004846	When you endow the effect that is registered at [Spell Shop] to your ally, the duration will be increased. Increases the duration by 3 minutes per attribute level.
 SKILL_20150717_004847	$Nearby enemies receive Holy damage equal to the attribute level when using [Arcane Energy]
@@ -4884,7 +4884,7 @@ SKILL_20150724_004883	$Lv6 Rim Blow required
 SKILL_20150724_004884	$Priest 2nd Circle & Lv2 Resurrection required
 SKILL_20150724_004885	$Psychokino 2nd Circle required
 SKILL_20150724_004886	$Psychokino 3rd Circle required
-SKILL_20150724_004887	$Lv3 Tear Gas required
+SKILL_20150724_004887	$Lv3 Lachrymator required
 SKILL_20150724_004888	$Lv3 Vashita Siddhi required
 SKILL_20150724_004889	$Lv3 Summon Familiar required
 SKILL_20150724_004890	$Sorcerer 2nd Circle required
@@ -4914,9 +4914,9 @@ SKILL_20150729_004913	$Increase Physical Attack, Magic Attack
 SKILL_20150729_004914	$Physical Attack +10%{nl}Magic Attack +10%
 SKILL_20150729_004915	$Increase Physical Defense, Magic Defense
 SKILL_20150729_004916	$Physical Defense +10%{nl}Magic Defense +10%
-SKILL_20150729_004917	$Open a shop to repair your weapon and temporarily increase its quality.
-SKILL_20150729_004918	$Open a shop to repair your weapon and temporarily increase its quality. Can repair Tops, Pants and Shields.
-SKILL_20150729_004919	$Set up a basecamp for party members. Party members can use the basecamp as storage or for teleportation. Duration of buffs used around the camp will increase.
+SKILL_20150729_004917	$Opens a shop to repair weapons and temporarily increase its quality.
+SKILL_20150729_004918	$Opens a shop to repair armor and temporarily increase its quality. Repairs Tops, Pants and Shields.
+SKILL_20150729_004919	$Set up a Base Camp for party members. Party members can use the basecamp as storage or for teleportation. Duration of buffs used around the camp will increase.
 SKILL_20150729_004920	$Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio2}#%{nl}#{CaptionRatio}# Continuous Hits
 SKILL_20150729_004921	$Able to assemble #{CaptionRatio}# members
 SKILL_20150729_004922	$Additional Block: +#{CaptionRatio}#{nl}Consumes 1% SP every 2 seconds
@@ -5032,27 +5032,27 @@ SKILL_20150804_005031	{memo X}$Attack 300% + #{SkillAtkAdd}#{nl}Attribute Damage
 SKILL_20150804_005032	${#DD5500}{ol}[Physical] - [Poison] - [Pierce]{/}{/}{nl}Launches a contagious poisonous arrow. Poison spreads through the target whenever it gets attacked. 
 SKILL_20150804_005033	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl} Launches an arrow that explodes on enemy impact in a cross.
 SKILL_20150804_005034	$Attack: 250% + #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}AoE Attack Ratio: #{SkillSR}#
-SKILL_20150804_005035	$Reflect #{CaptionRatio}#% of the target's physical attack{nl}Maximum Duration #{CaptionTime}# sec{nl}Range projectile, Magic defense not possible
+SKILL_20150804_005035	$Reflects #{CaptionRatio}#% of the target's physical attack{nl}Maximum Duration #{CaptionTime}# sec{nl}Range projectile, Magic defense not possible
 SKILL_20150804_005036	$Cartar Stroke: Remove Knockback
 SKILL_20150804_005037	{memo X}Pushing power of [Cartar Stroke] becomes 0. (You will not be pushed if this attribute is ON.)
 SKILL_20150804_005038	$Increases your fire, ice and lightning properties by 5 and from Lv2 it increases by 1 per attribute level. 
 SKILL_20150804_005039	$Increases the reflection of [Iron Skin] by 5% per attribute level.
-SKILL_20150807_005040	While [Aggressor] is active, the character's added Critical Attack is proportional to the physical attack. Increases an addtional amount by 5% per attribute level.
-SKILL_20150918_005041	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Throw shield to attack. Shield drops on target area and you physical defense decreases as much as the epuipment . Shield may be picked up or automatically added to inventory after time limit. Decreased physical defense will be back to normal when the shield is back in inventory.
-SKILL_20150918_005042	$Umbro Thrust
-SKILL_20150918_005043	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use the spike on the shield to strike the enemy. Enemy may temporarily lose armor effects.
+SKILL_20150807_005040	While [Aggressor] is active, the character's added critical attack is proportional to the physical attack. Increases an addtional amount by 5% per attribute level.
+SKILL_20150918_005041	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Attack an enemy by throwing your shield. Your shield drops on the targeted area, and your physical defense decreases based on the value of the equipment. The shield may be picked up or it'll automatically return to your inventory after a certain time. The decreased physical defense will return back to normal once your shield is back in the inventory.
+SKILL_20150918_005042	$Umbo Thrust
+SKILL_20150918_005043	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use the spike on the shield to strike an enemy. You may temporarily lose a small effect of your armor.
 SKILL_20150918_005044	$Sky Liner
-SKILL_20150918_005045	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Slash the enemy sideways. {nl}Inflict additional damage to enemies affected by [Bleeding].
-SKILL_20150918_005046	$Cross Cut
-SKILL_20150918_005047	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Slash the enemy sideways. {nl}Inflict additional damage to enemies affected by [Bleeding].
+SKILL_20150918_005045	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Slash the enemy sideways.{nl}Inflicts additional damage on enemies affected by [Bleeding].
+SKILL_20150918_005046	$Crosscut
+SKILL_20150918_005047	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Afflicts [Bleeding] on enemies by charging towards to cut a cross on their body.
 SKILL_20150918_005048	$Vertical Slash
 SKILL_20150918_005049	{memo X}{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Decreases the defense for medium, big enemies for a while by smaking down.
-SKILL_20150918_005050	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Throw your spear to damage an enemy. The spear will stick into the ground where it was thrown, and your physical attack will be decreased based on the equipment's upgrade count until you pick it up. Automatically returns to you after a time limit.
+SKILL_20150918_005050	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Attack an enemy by throwing your spear. Your spear will stick into the ground where it was thrown, and your physical attack will be decreased based on the equipment's upgrade count until you pick it up. It automatically returns to you after a certain time.
 SKILL_20150918_005051	$Attack per Stack: +#{CaptionRatio}#{nl}Maximum Stacks: #{CaptionRatio2}#{nl}Duration: #{CaptionTime}# seconds
 SKILL_20150918_005052	$Helm Chopper
 SKILL_20150918_005053	${#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Strike the enemy's head, causing it to be stunned.
 SKILL_20150918_005054	$Seism
-SKILL_20150918_005055	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Earthshake causes enemies to be unable to attack. Enemies have a chance to be stunned.
+SKILL_20150918_005055	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Earthshake causes enemies to be unable to attack. The enemy has a chance to be stunned.
 SKILL_20150918_005056	$Cleave
 SKILL_20150918_005057	{memo X}{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Use centrifugal force and continuously attack enemies by turning body. Make an additional damage to the enemy stunned.
 SKILL_20150918_005058	${#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Use your shield and sword to successively attack enemies.
@@ -5060,7 +5060,7 @@ SKILL_20150918_005059	$Shield Shoving
 SKILL_20150918_005060	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Interrupt an enemy's action using your shield. The enemy is turned around, and can't take any actions temporarily.
 SKILL_20150918_005061	Attack #{SkillAtkAdd}#{nl}Attribute Attack #{CaptionRatio}#%{nl}duration 1.5 seconds
 SKILL_20150918_005062	$Shield Bash
-SKILL_20150918_005063	{#DD5500}{ol}[Phyiscal] - [Slash]{/}{/}{nl}Attack with the shield. The stat points of attacked enemy will mix temporarily.
+SKILL_20150918_005063	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Attack with your shield. The attacked enemy will have its stat points jumbled temporarily.
 SKILL_20150918_005064	$Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Duration: #{CaptionRatio2}# seconds
 SKILL_20150918_005065	$High Kick
 SKILL_20150918_005066	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Perform a high kick on the enemy. The enemy will receive additional damage from Strike attacks temporarily.
@@ -5171,8 +5171,8 @@ SKILL_20150918_005170	$Moulinet: Critical
 SKILL_20150918_005171	$[Cartar Stroke] no longer knocks enemies back. (Only applies if the attribute is set to ON)
 SKILL_20150918_005172	$Skyliner: Enhance
 SKILL_20150918_005173	$Increases the damage dealt on an enemy with [Skyliner] by 1% per attribute level.
-SKILL_20150918_005174	$Cross Cut: Enhance
-SKILL_20150918_005175	$Increases the damage dealt on an enemy with [Cross Cut] by 1% per attribute level.
+SKILL_20150918_005174	$Crosscut: Enhance
+SKILL_20150918_005175	$Increases the damage dealt on an enemy with [Crosscut] by 1% per attribute level.
 SKILL_20150918_005176	$Vertical Slash: Enhance
 SKILL_20150918_005177	$Increases the damage dealt on an enemy with [Vertical Slash] by 1% per attribute level.
 SKILL_20150918_005178	$Savagery: Critical
@@ -5332,7 +5332,7 @@ SKILL_20151016_005331	$Two-handed Spear Mastery: Penetration
 SKILL_20151016_005332	$Increases your block penetration by 10% per attribute level when equipped with a [Two-handed Spear]
 SKILL_20151016_005333	{memo X}$Rapier Master: Pierce
 SKILL_20151016_005334	{memo X}$Increases your [Pierce] damage by 5% per attribute level when equipped with a [Rapier]. (Does not apply to basic attacks)
-SKILL_20151016_005335	$Increases your fire property attack by 3 per attribute level when equipped with a [Staff].
+SKILL_20151016_005335	$Increases the character's Fire property attack by 3 per attribute level when equipped with a [Staff].
 SKILL_20151016_005336	$Subzero Shield: Counterattack Enhance
 SKILL_20151016_005337	$When you block enemies' attacks using [Sub-Zero Shield] while equipped with a shield, there will be greater counter attack damage based on the Shield's defense. The counter attack damage will be 50% per attribute level.
 SKILL_20151016_005338	$Shield Mastery: Enchant
@@ -5447,7 +5447,7 @@ SKILL_20151022_005446	$Haste: Evasion Increase
 SKILL_20151022_005447	$Increases your evasion by 20 per attribute level while [Haste] is active.
 SKILL_20151022_005448	$Stop: SP Decrease
 SKILL_20151022_005449	$Decreases the SP cost of [Stop] by 40.
-SKILL_20151022_005450	Increases your block rate against [Projectile] attacks from enemies when equipped with a [Shield], increases your physical damage proportional to the shield's defense for 10 seconds after a successful block. Applies the proportional value by 50% per attribute level.
+SKILL_20151022_005450	Increases your block rate against [Projectile] attacks from enemies when equipped with a [Shield], increases your physical attack proportional to the shield's defense for 10 seconds after a successful block. Applies the proportional value by 50% per attribute level.
 SKILL_20151022_005451	$Player detoxified by [Detoxify] becomes immune to poison for 4 seconds per attribute level.
 SKILL_20151022_005452	$Wugushi: Poison Reserve
 SKILL_20151022_005453	$Decreases the Poison Pot cost by 1% per attribute level when using a Wugushi skill.
@@ -5463,10 +5463,10 @@ SKILL_20151022_005462	$Pheasant: Enhance
 SKILL_20151022_005463	$Increases the damage dealt on an enemy with [Pheasant] by 1% per attribute level.
 SKILL_20151022_005464	$Circling: Nullify Decrease
 SKILL_20151022_005465	$Decreases the chance of nullifying the attack by 5% per attribute level when enemies are within the range of [Circling].
-SKILL_20151022_005466	Increases your accuracy by 5% per attribute level when equipped with a Pistol-type equipment.
-SKILL_20151022_005467	Deals 10% additional damage per attribute level to Mutant-type monsters when equipped with a [Revolver].
+SKILL_20151022_005466	$Increases your accuracy by 5% per attribute level when equipped with a Pistol-type equipment.
+SKILL_20151022_005467	$Deals 10% additional damage per attribute level to Mutant-type monsters when equipped with a [Revolver].
 SKILL_20151022_005468	$Retreat Shot: Nullify Increase
-SKILL_20151022_005469	Increases the chance to nullify an enemy's attack while using [Retreat Shot] by 0.5% per attribute level.
+SKILL_20151022_005469	$Increases the chance to nullify an enemy's attack while using [Retreat Shot] by 0.5% per attribute level.
 SKILL_20151022_005470	$Cannon Shot: Enhance
 SKILL_20151022_005471	$Increases the damage dealt on an enemy with [Cannon Shot] by 1% per attribute level.
 SKILL_20151022_005472	$Shootdown: Enhance
@@ -5504,7 +5504,7 @@ SKILL_20151022_005503	$Decreases the movement speed of the enemy affected by [De
 SKILL_20151022_005504	$Lv2 Jolly Roger required
 SKILL_20151022_005505	$Lv3 Resist Elements required
 SKILL_20151022_005506	$Lv3 Summon Servant required
-SKILL_20151102_005507
+SKILL_20151102_005507	Attack a distant enemy
 SKILL_20151102_005508	$Blood Bath
 SKILL_20151102_005509	$Blood Sucking
 SKILL_20151102_005510	$Bone Pointing
@@ -5513,38 +5513,38 @@ SKILL_20151102_005512	$Kurdaitcha
 SKILL_20151102_005513	$Pole of Agony
 SKILL_20151102_005514	$Invocation
 SKILL_20151102_005515	$Mastema
-SKILL_20151102_005516
-SKILL_20151102_005517
-SKILL_20151102_005518
-SKILL_20151102_005519
-SKILL_20151102_005520
-SKILL_20151102_005521
-SKILL_20151102_005522
-SKILL_20151102_005523
-SKILL_20151102_005524
-SKILL_20151102_005525
-SKILL_20151102_005526
-SKILL_20151102_005527
-SKILL_20151102_005528
-SKILL_20151102_005529
-SKILL_20151102_005530
-SKILL_20151102_005531
-SKILL_20151102_005532
-SKILL_20151102_005533
-SKILL_20151102_005534
-SKILL_20151102_005535
-SKILL_20151102_005536
-SKILL_20151102_005537
-SKILL_20151102_005538
-SKILL_20151102_005539
-SKILL_20151102_005540
-SKILL_20151102_005541
-SKILL_20151102_005542
-SKILL_20151102_005543
-SKILL_20151102_005544
-SKILL_20151102_005545
-SKILL_20151102_005546
-SKILL_20151102_005547
+SKILL_20151102_005516	${#DD5500}{ol}[Missile]{/}{/}{nl}Quickly fires a number of arrows at a designated area.
+SKILL_20151102_005517	${#DD5500}{ol}[Missile]{/}{/}{nl}Pull bowstring and fires a highly piercing shot. Enemies hit are pinned onto the surrounding terrain.
+SKILL_20151102_005518	$Kneel down to improve concentration. Increases attack damage, speed, and range.
+SKILL_20151102_005519	${#DD5500}{ol}[Missile]{/}{/}{nl}Fires an arrow that bounces off of the target to hit an adjacent enemy.
+SKILL_20151102_005520	${#DD5500}{ol}[Missile]{/}{/}{nl}Demonstrate your strength by firing a shot that pushes enemies away.
+SKILL_20151102_005521	${#DD5500}{ol}[Missile]{/}{/}{nl}Fires two shots at once at an enemy.
+SKILL_20151102_005522	${#DD5500}{ol}[Missile]{/}{/}{nl}Fires 5 arrows forward in an arc in front of you.
+SKILL_20151102_005523	${#DD5500}{ol}[Missile]{/}{/}{nl}Aim with the tip of your arrow - and penetrate through enemies in front of you.
+SKILL_20151102_005524	${#DD5500}{ol}[Missile]{/}{/}{nl}Fires an arrow with a high chance of critical at a target.
+SKILL_20151102_005525	$Increases the attack of [Missile] skills while decreasing the attack speed.
+SKILL_20151102_005526	${#DD5500}{ol}[Missile]{/}{/}{nl}Fires an arrow with a bomb attached. Upon hitting a target, the arrow will explode after an amount of time, dealing extra damage.
+SKILL_20151102_005527	${#DD5500}{ol}[Missile]{/}{/}{nl}Fires an arrow that splits upon hitting a target to hit other adjacent enemies.
+SKILL_20151102_005528	${#DD5500}{ol}[Missile]{/}{/}{nl}Fires a spiraling arrow that deals multiple hits to a target.
+SKILL_20151102_005529	${#DD5500}{ol}[Missile]{/}{/}{nl}Jump backwards while firing multiple arrows forward.
+SKILL_20151102_005530	${#DD5500}{ol}[Missile]{/}{/}{nl}Fires a stone bullet to push an enemy away. The target has a chance to be stunned.
+SKILL_20151102_005531	${#DD5500}{ol}[Missile]{/}{/}{nl}Load multiple arrows into your crossbow and then fire them in quick succession at an enemy.
+SKILL_20151102_005532	${#DD5500}{ol}[Missile] - [Poison]{/}{/}{nl}Blows a toxic arrow that inflicts damage over a long period of time.
+SKILL_20151102_005533	${#DD5500}{ol}[Missile] - [Poison]{/}{/}{nl}Fires a contagious poison arrow. Poisoned target spreads poison around to nearby enemies whenever it is attacked.
+SKILL_20151102_005534	${#DD5500}{ol}[Missile]{/}{/}{nl}Fires a noise-making arrow. Enemies near the target fall under fear.
+SKILL_20151102_005535	${#DD5500}{ol}[Missile]{/}{/}{nl}Shoot a flare at a designated area. Upon hitting the ground, the flare bursts into sparks that damages nearby enemies.
+SKILL_20151102_005536	${#DD5500}{ol}[Missile]{/}{/}{nl}Fires an arrow that, upon hitting a target, bounces to hit two nearby enemies.
+SKILL_20151102_005537	${#DD5500}{ol}[Missile]{/}{/}{nl}If the target dies from this attack, it explodes. Party members gain strength for a period of time.
+SKILL_20151102_005538	${#DD5500}{ol}[Missile]{/}{/}{nl}Fires a wide broadhead arrow. Inflicts bleeding on the enemy hit.
+SKILL_20151102_005539	${#DD5500}{ol}[Missile]{/}{/}{nl}Fires a high-penetration bodkin arrow at an enemy. Lowers the defense of struck enemies and nullifies any protective magic.
+SKILL_20151102_005540	${#DD5500}{ol}[Missile]{/}{/}{nl}Fires a barbed arrow. Deals a number of hits dependent on enemy defense type.
+SKILL_20151102_005541	${#DD5500}{ol}[Missile]{/}{/}{nl}Fires an arrow that, upon hitting an enemy, creates a cross-shaped explosion.
+SKILL_20151102_005542	${#DD5500}{ol}[Missile]{/}{/}{nl}Flame fumes from area shot with arrow and attacks enemies.
+SKILL_20151102_005543	${#DD5500}{ol}[Missile]{/}{/}{nl}Fires an arrow with explosives attached. Upon hitting its target, the arrow will explode after an amount of time and cause collateral damage.
+SKILL_20151102_005544	${#DD5500}{ol}[Missile]{/}{/}{nl}Focus fires multiple bullets toward an enemy.
+SKILL_20151102_005545	${#DD5500}{ol}[Missile]{/}{/}{nl}Shoot forward and push self back with recoil.
+SKILL_20151102_005546	${#DD5500}{ol}[Missile]{/}{/}{nl}Maneuver quickly with your mount and attack enemies in front.
+SKILL_20151102_005547	${#DD5500}{ol}[Missile]{/}{/}{nl}Shoot in the opposite direction of travel while moving.
 SKILL_20151102_005548	$Covering Fire
 SKILL_20151102_005549	$Headshot
 SKILL_20151102_005550	$Snipe
@@ -5562,175 +5562,175 @@ SKILL_20151102_005561	$Notarikon
 SKILL_20151102_005562	$Double Chance
 SKILL_20151102_005563	$Reduce Level
 SKILL_20151102_005564	$Stealth
-SKILL_20151102_005565
-SKILL_20151102_005566
-SKILL_20151102_005567
-SKILL_20151102_005568
-SKILL_20151102_005569
-SKILL_20151102_005570
-SKILL_20151102_005571
-SKILL_20151102_005572
-SKILL_20151102_005573
-SKILL_20151102_005574
-SKILL_20151102_005575
-SKILL_20151102_005576
-SKILL_20151102_005577
-SKILL_20151102_005578
-SKILL_20151102_005579
-SKILL_20151102_005580
-SKILL_20151102_005581
-SKILL_20151102_005582
-SKILL_20151102_005583
-SKILL_20151102_005584
-SKILL_20151102_005585
-SKILL_20151102_005586
-SKILL_20151102_005587
-SKILL_20151102_005588
-SKILL_20151102_005589
-SKILL_20151102_005590
+SKILL_20151102_005565	$Decreased movement speed.
+SKILL_20151102_005566	$Stigma.
+SKILL_20151102_005567	$Invocation.
+SKILL_20151102_005568	$Invocation: Deliver
+SKILL_20151102_005569	$Increased owner's Dark property attack
+SKILL_20151102_005570	$Increased maximum HP.
+SKILL_20151102_005571	$Reflects an enemy's attack.
+SKILL_20151102_005572	$Fumigate: Purification
+SKILL_20151102_005573	$Increased Poison property resistance.
+SKILL_20151102_005574	$Fumigate: Prevention
+SKILL_20151102_005575	$Increased resistance chance of Lv3 abnormal status
+SKILL_20151102_005576	$Decreased Physical Defense
+SKILL_20151102_005577	$Decreased physical defense.
+SKILL_20151102_005578	$Decreased Magic Defense
+SKILL_20151102_005579	$Decreased magic defense.
+SKILL_20151102_005580	$Decreased Physical Attack
+SKILL_20151102_005581	$Decreased physical attack.
+SKILL_20151102_005582	$Decreased Magic Attack
+SKILL_20151102_005583	$Decreased magic attack.
+SKILL_20151102_005584	$Decreased movement speed.
+SKILL_20151102_005585	$Gae Bulg: Attack Zone
+SKILL_20151102_005586	$Increased physical attack and magic attack
+SKILL_20151102_005587	$Gae Bulg: Defense Zone
+SKILL_20151102_005588	$Increased physical defense and magic defense
+SKILL_20151102_005589	$Increases block penetration by 10% per attribute level when attacking an enemy with a [Two-handed Spear].
+SKILL_20151102_005590	$Afflicts [Bleeding] on an enemy attacked with [Keel Hauling] for 5 seconds. Increases the duration of [Bleeding] by 1 second per attribute level. Bleeding damage is proportional to the character's STR.
 SKILL_20151102_005591	$Kunai: Enhance
-SKILL_20151102_005592
+SKILL_20151102_005592	$Increases the damage dealt on an enemy with [Kunai] by 1% per attribute level.
 SKILL_20151102_005593	$Katon no Jutsu: Enhance
-SKILL_20151102_005594
+SKILL_20151102_005594	$Increases the damage dealt on an enemy with [Katon no Jutsu] by 1% per attribute level.
 SKILL_20151102_005595	$Mijin no Jutsu: Enhance
-SKILL_20151102_005596
+SKILL_20151102_005596	$Increases the damage dealt on an enemy with [Mijin no Jutsu] by 1% per attribute level.
 SKILL_20151102_005597	$Mijin no Jutsu: Stealth
-SKILL_20151102_005598
+SKILL_20151102_005598	$Your character will hide for 5 seconds after using [Mijin no Jutsu]. Increases the duration from Lv 2 by 1.5 seconds per attribute level.
 SKILL_20151102_005599	$Katon no Jutsu: Stealth
-SKILL_20151102_005600
+SKILL_20151102_005600	$Your character will hide for 2 seconds per attribute level after using [Katon no Jutsu].
 SKILL_20151102_005601	$Bunshin no Jutsu: Endurance
-SKILL_20151102_005602
+SKILL_20151102_005602	$Increases the cycle time for the STA cost by 0.5 seconds per attribute level.
 SKILL_20151102_005603	$Mokuton no Jutsu: Bind
-SKILL_20151102_005604
+SKILL_20151102_005604	$Restricts movement of an enemy for 4 seconds when dealing damage with [Mokuton no Jutsu]. Increases the duration from Lv 2 by 1 second per attribute level.
 SKILL_20151102_005605	$Bunshin no Jutsu: Damage Decrease
-SKILL_20151102_005606
+SKILL_20151102_005606	$Decreases the damage of the shadow clones of [Bunshin no Jutsu].
 SKILL_20151102_005607	$Dragontooth: Enhance
-SKILL_20151102_005608
+SKILL_20151102_005608	$Increases the damage dealt on an enemy with [Dragontooth] by 1% per attribute level.
 SKILL_20151102_005609	$Dragontooth: Evasion
-SKILL_20151102_005610
+SKILL_20151102_005610	$Increases the character's evasion by 10% per attribute level for 7 seconds after using [Dragontooth].
 SKILL_20151102_005611	$Serpentine: Enhance
-SKILL_20151102_005612
+SKILL_20151102_005612	$Increases the damage dealt on an enemy with [Serpentine] by 1% per attribute level.
 SKILL_20151102_005613	$Serpentine: Bleeding
-SKILL_20151102_005614
+SKILL_20151102_005614	$Enemies hit by [Serpentine] have a 2% chance per attribute level to be afflicted with [Bleeding] for 8 seconds. Bleeding damage is proportional to the character's physical attack.
 SKILL_20151102_005615	$Gae Bulg: Enhance
-SKILL_20151102_005616
-SKILL_20151102_005617
+SKILL_20151102_005616	Increases the damage dealt on an enemy with [Gae Bulg] by 1% per attribute level.
+SKILL_20151102_005617	
 SKILL_20151102_005618
 SKILL_20151102_005619	$Dragon Soar: Enhance
-SKILL_20151102_005620
+SKILL_20151102_005620	$Increases the damage dealt on an enemy with [Dragon Soar] by 1% per attribute level.
 SKILL_20151102_005621	$Dragon Soar: Shock	
-SKILL_20151102_005622
+SKILL_20151102_005622	$Afflicts [Shock] on enemies hit by [Dragon Soar] at a 5% chance per attribute level for 10 seconds.
 SKILL_20151102_005623	$Umbilical Cord: Nullify Increase
-SKILL_20151102_005624
+SKILL_20151102_005624	$Increases the chance to nullify an enemy's attack while using [Umbilical Cord] by 2% per attribute level.
 SKILL_20151102_005625	$Joint Penalty: Electricity
-SKILL_20151102_005626
+SKILL_20151102_005626	$Deals 10% additional damage of Electricity property attack to enemies affected by [Joint Penalty] per attribute level.
 SKILL_20151102_005627	$Joint Penalty: Poison
-SKILL_20151102_005628
+SKILL_20151102_005628	$Deals 10% additional damage of Poison property attack to enemies affected by [Joint Penalty] per attribute level.
 SKILL_20151102_005629	$Joint Penalty: Earth
-SKILL_20151102_005630
+SKILL_20151102_005630	$Deals 10% additional damage of Earth property attack to enemies affected by [Joint Penalty] per attribute level.
 SKILL_20151102_005631	$Joint Penalty: Nullify Increase
-SKILL_20151102_005632
+SKILL_20151102_005632	$Decreases the chance to nullify attacks from enemies affected by [Joint Penalty] by 5% per attribute level.
 SKILL_20151102_005633	$Warlock: Darkness Attack
-SKILL_20151102_005634
-SKILL_20151102_005635
-SKILL_20151102_005636
-SKILL_20151102_005637
-SKILL_20151102_005638
-SKILL_20151102_005639
-SKILL_20151102_005640
-SKILL_20151102_005641
-SKILL_20151102_005642
-SKILL_20151102_005643
-SKILL_20151102_005644
-SKILL_20151102_005645
-SKILL_20151102_005646
-SKILL_20151102_005647
-SKILL_20151102_005648
-SKILL_20151102_005649
-SKILL_20151102_005650
-SKILL_20151102_005651
-SKILL_20151102_005652
-SKILL_20151102_005653
-SKILL_20151102_005654
-SKILL_20151102_005655
-SKILL_20151102_005656
-SKILL_20151102_005657
-SKILL_20151102_005658
-SKILL_20151102_005659
-SKILL_20151102_005660
-SKILL_20151102_005661
-SKILL_20151102_005662
-SKILL_20151102_005663
-SKILL_20151102_005664
-SKILL_20151102_005665
-SKILL_20151102_005666
-SKILL_20151102_005667
-SKILL_20151102_005668
-SKILL_20151102_005669
-SKILL_20151102_005670
-SKILL_20151102_005671
-SKILL_20151102_005672
-SKILL_20151102_005673
+SKILL_20151102_005634	$Increases the damage of a Dark property attack dealt on an enemy by 1% per attribute level.
+SKILL_20151102_005635	$Pole of Agony: Enhance
+SKILL_20151102_005636	$Increases the damage dealt on an enemy with [Pole of Agony] by 1% per attribute level.
+SKILL_20151102_005637	$Pole of Agony: Duration
+SKILL_20151102_005638	$Increases the remaining effect time of [Pole of Agony] on an enemy by 0.8 seconds per attribute level.
+SKILL_20151102_005639	$Invocation: Enhance
+SKILL_20151102_005640	$Increases the damage dealt on an enemy with [Invocation] by 1% per attribute level.
+SKILL_20151102_005641	$Increases the Darkness property attack by 5% of allies who are nearby the created evil spirit of [Invocation] per attribute level. The owner of who casted the evil spirit receives double the effect.
+SKILL_20151102_005642	$Dark Surge: Create Evil Spirit
+SKILL_20151102_005643	$Creates an evil spirit with [Dark Surge] at a 0.4% chance to the enemy's position per attribute level.
+SKILL_20151102_005644	$Dark Surge: Enhance
+SKILL_20151102_005645	$Increases the damage dealt on an enemy with [Dark Surge] by 1% per attribute level.
+SKILL_20151102_005646	$Dark Surge: Darkness
+SKILL_20151102_005647	$Enemies hit by [Dark Surge] have a 1% chance to be afflicted with [Darkness] for 10 seconds per attribute level.
+SKILL_20151102_005648	$Mastema: Enhance
+SKILL_20151102_005649	$Increases the damage dealt on an enemy with [Mastema] by 1% per attribute level.
+SKILL_20151102_005650	$Mastema: Reduced Threat
+SKILL_20151102_005651	$Reduces the aggressiveness of enemies hit by [Mastema] by 1% per attribute level.
+SKILL_20151102_005652	$Pole of Agony: Maintain
+SKILL_20151102_005653	$[Pole of Agony] deals a minimum number of damage to enemies that increases with attribute level.
+SKILL_20151102_005654	$Blood Sucking: HP Supply Enhance
+SKILL_20151102_005655	$Increases the amount to absorb HP by 1 per attribute level.
+SKILL_20151102_005656	$Blood Bath: SP Supply Enhance
+SKILL_20151102_005657	$Increases the amount to absorb SP by 1 per attribute level.
+SKILL_20151102_005658	$Blood Bath: Enhance
+SKILL_20151102_005659	$Increases the damage dealt on an enemy with [Blood Bath] by 1% per attribute level.
+SKILL_20151102_005660	$Blood Sucking: Enhance
+SKILL_20151102_005661	$Increases the damage dealt on an enemy with [Blood Sucking] by 1% per attribute level.
+SKILL_20151102_005662	$Bone Pointing: Enhance
+SKILL_20151102_005663	$Increases the damage dealt on an enemy with [Bone Pointing] by 1% per attribute level.
+SKILL_20151102_005664	$Bone Pointing: Summon Time
+SKILL_20151102_005665	$Increases the summon time of [Bone Pointing] by 1 second per attribute level.
+SKILL_20151102_005666	$Ngadhundi: Enhance
+SKILL_20151102_005667	$Increases the damage dealt on an enemy with [Ngadhundi] by 1% per attribute level.
+SKILL_20151102_005668	$Kurdaitcha: Enhance
+SKILL_20151102_005669	
+SKILL_20151102_005670	$Levitation: Nullify Physical Damage
+SKILL_20151102_005671	$Increases the chance to nullify the enemy's physical attack while using [Levitation] by 1.5% per attribute level.
+SKILL_20151102_005672	$Featherfoot: Increased Recovery
+SKILL_20151102_005673	$Increases the recovery of HP and SP from skills and potions by 0.5% per attribute level.
 SKILL_20151102_005674	$Deals 20% additional damage when attacking Flying-type monsters with a [Two-handed Bow] per attribute level.
 SKILL_20151102_005675	$Ignores 5% of the enemy's defense when attacking with a [One-handed Bow] per attribute level.
-SKILL_20151102_005676
-SKILL_20151102_005677
-SKILL_20151102_005678
-SKILL_20151102_005679
-SKILL_20151102_005680
-SKILL_20151102_005681
-SKILL_20151102_005682
-SKILL_20151102_005683
-SKILL_20151102_005684
-SKILL_20151102_005685
-SKILL_20151102_005686
-SKILL_20151102_005687
-SKILL_20151102_005688
-SKILL_20151102_005689
-SKILL_20151102_005690
-SKILL_20151102_005691
-SKILL_20151102_005692
-SKILL_20151102_005693
-SKILL_20151102_005694
-SKILL_20151102_005695
-SKILL_20151102_005696
-SKILL_20151102_005697
-SKILL_20151102_005698
-SKILL_20151102_005699
-SKILL_20151102_005700
-SKILL_20151102_005701
-SKILL_20151102_005702
-SKILL_20151102_005703
-SKILL_20151102_005704
-SKILL_20151102_005705
-SKILL_20151102_005706
-SKILL_20151102_005707
-SKILL_20151102_005708
-SKILL_20151102_005709
-SKILL_20151102_005710
-SKILL_20151102_005711
-SKILL_20151102_005712
-SKILL_20151102_005713
-SKILL_20151102_005714
-SKILL_20151102_005715
-SKILL_20151102_005716
-SKILL_20151102_005717
-SKILL_20151102_005718
-SKILL_20151102_005719
-SKILL_20151102_005720
-SKILL_20151102_005721
-SKILL_20151102_005722
-SKILL_20151102_005723
-SKILL_20151102_005724
-SKILL_20151102_005725
-SKILL_20151102_005726
-SKILL_20151102_005727
-SKILL_20151102_005728
-SKILL_20151102_005729
-SKILL_20151102_005730
-SKILL_20151102_005731
-SKILL_20151102_005732
-SKILL_20151102_005733
-SKILL_20151102_005734
-SKILL_20151102_005735
-SKILL_20151102_005736
+SKILL_20151102_005676	$Shield Mastery: Missile Defense
+SKILL_20151102_005677	$Increases the chance of blocking an enemy's [Missile] attack when equipped with a [Shield], increases your physical attack proportional to the shield's defense for 10 seconds after a successful block.. Applies the proportional value by 50% per attribute level. 
+SKILL_20151102_005678	$Increases your accuracy by 5% when equipped with a Pistol-type equipment per attribute level.
+SKILL_20151102_005679	$Shootdown: Falling
+SKILL_20151102_005680	$Flying-type monsters hit by [Shootdown] will fall down on the ground for 3 seconds per attribute level.
+SKILL_20151102_005681	$Siege Burst: Increased Range
+SKILL_20151102_005682	$Specifies a more distant location when using [Siege Burst]. Its range increases the higher your attribute level is.
+SKILL_20151102_005683	$Cannon Blast: Armor Break
+SKILL_20151102_005684	$Enemies hit by [Cannon Blast] have a 7% chance per attribute level to be afflicted with [Armor Break] for 10 seconds.
+SKILL_20151102_005685	$Instantly kills a small-sized monster at a 0.5% chance per attribute level when attacking with a [Rifle].
+SKILL_20151102_005686	$Covering Fire: Enhance
+SKILL_20151102_005687	$Increases the damage dealt on an enemy with [Covering Fire] by 1% per attribute level.
+SKILL_20151102_005688	$Headshot: Enhance
+SKILL_20151102_005689	$Increases the damage dealt on an enemy with [Headshot] by 1% per attribute level.
+SKILL_20151102_005690	$Snipe: Enhance
+SKILL_20151102_005691	$Increases the damage dealt on an enemy with [Snipe] by 1% per attribute level.
+SKILL_20151102_005692	$Penetration Shot: Enhance
+SKILL_20151102_005693	$Increases the damage dealt on an enemy with [Penetration Shot] by 1% per attribute level.
+SKILL_20151102_005694	$Butt Stroke: Enhance
+SKILL_20151102_005695	$Increases the damage dealt on an enemy with [Butt Stroke] by 1% per attribute level.
+SKILL_20151102_005696	$Bayonet Thrust: Enhance
+SKILL_20151102_005697	$Increases the damage dealt on an enemy with [Bayonet Thrust] by 1% per attribute level.
+SKILL_20151102_005698	$Butt Stroke: Stun
+SKILL_20151102_005699	$Afflicts stun at a 1.5% chance per attribute level for 3 seconds on enemies hit by [Butt Stroke].
+SKILL_20151102_005700	$Afflicts stun at a 2% chance per attribute level when performing a basic attack on an enemy with a [Blunt Instrument].
+SKILL_20151102_005701	$Enemies receive Holy damage equal to [Attribute Level] when using [Arcane Energy].
+SKILL_20151102_005702	$Healing Factor: Attack
+SKILL_20151102_005703	$Enemies traversing over the [Healing Factor] circle will incur continuous damage. Overall damage dealt scales with character's HP.
+SKILL_20151102_005704	$Incineration: Enhance
+SKILL_20151102_005705	$Increases the damage dealt on an enemy with [Incineration] by 1% per attribute level.
+SKILL_20151102_005706	$Bloodletting: Hemostasis
+SKILL_20151102_005707	$Increases the cycle time of the HP cost by 0.2 seconds per attribute level while [Bloodletting] is in effect.
+SKILL_20151102_005708	$Bloodletting: Substitute SP
+SKILL_20151102_005709	$While [Bloodletting] is in effect, each tick has a 10% chance per attribute level to reduce SP instead of HP.
+SKILL_20151102_005710	$Increases the chance that [Fumigate] blocks Lv3 or weaker abnormal statuses for 10 seconds by 5% per attribute level.
+SKILL_20151102_005711	$The area of [Fumigate] skill gains a purification effect for 10 seconds. Allies standing within this area gains 10% resistance against Poison property.
+SKILL_20151102_005712	$Bird Beak Mask: Immunity
+SKILL_20151102_005713	$Increases the chance to block Lv3 abnormal statuses by 5% per attribute level, but also increases the SP cost whilst wearing the [Bird Beak Mask].
+SKILL_20151102_005714	$Bird Beak Mask: Poison Resistance
+SKILL_20151102_005715	$Increases the Poison property resistance by 5 per attribute level whilst wearing the [Bird Beak Mask].
+SKILL_20151102_005716	$Revenged Sevenfold: Duration
+SKILL_20151102_005717	$Increases the duration of [Revenged Sevenfold]'s effect by 1 second per attribute level.
+SKILL_20151102_005718	$Revenged Sevenfold: Curse
+SKILL_20151102_005719	$Afflicts [Curse] at a 10% chance for 4 seconds on an enemy when damage is dealt with [Revenged Sevenfold].
+SKILL_20151102_005720	$Nachash: Enhance
+SKILL_20151102_005721	$Increases the damage dealt on an enemy with [Nachash] by 1% per attribute level.
+SKILL_20151102_005722	$Nachash: Resistance
+SKILL_20151102_005723	
+SKILL_20151102_005724	$Nachash: Abnormal Status
+SKILL_20151102_005725	$Increases the chance to afflict petrification or cursed on an enemy when damage is dealt with [Nachash] by 1%.
+SKILL_20151102_005726	$Ein Sof: Maintain Time
+SKILL_20151102_005727	$Increases the duration of [Ein Sof] tiles by 1 second per attribute level.
+SKILL_20151102_005728	$Ein Sof: Additional Generation
+SKILL_20151102_005729	$Increases the number of [Ein Sof] tiles created by 1 per attribute level.
+SKILL_20151102_005730	$Merkaba: Enhance
+SKILL_20151102_005731	$Increases the damage dealt on an enemy with [Merkaba] by 1% per attribute level.
+SKILL_20151102_005732	$Merkaba: Petrification
+SKILL_20151102_005733	$[Merkaba] petrifies [Cursed] enemies for 3 seconds.
+SKILL_20151102_005734	$Ein Sof: SP Recovery
+SKILL_20151102_005735	$Exchanges half the maximum HP recovery of [Ein Sof] for SP recovery instead.
+SKILL_20151102_005736	$$Lv. 3 Ein Sof required
