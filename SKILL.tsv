@@ -5235,7 +5235,7 @@ SKILL_20150918_005234	$Increases the movement speed of [Cloaking] by 1 per attri
 SKILL_20150918_005235	Paint : Back Roll
 SKILL_20150918_005236	[Paint] Increases the chance what enemies turn around by 15% per attribute level.
 SKILL_20150918_005237	$Deals 10% additional damage to Plant-type monsters when equipped with a [Blunt] type weapon.
-SKILL_20150918_005238	Inflict damage of 50% per the physical damage when knocking flying enemies out of the air, if attacked by [Smite] skill. (The effect only activates when the attribute is on)
+SKILL_20150918_005238	$Deals damage equal to 50% of physical attack to enemies knocked into the air by [Smite], on landing. (This effect only activates when the attribute is ON)
 SKILL_20150918_005239	Conversion: Might Enhance
 SKILL_20150918_005240	Increases the monster's physical attack converted with [Conversion] equal to 50% of the character's STR.
 SKILL_20150918_005241	$Conviction: Enhance
@@ -5366,7 +5366,7 @@ SKILL_20151022_005365	$Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRat
 SKILL_20151022_005366	$Sept Etoiles
 SKILL_20151022_005367	${#DD5500}{ol}[Physical] - [Pierce]{/}{/}Stab an enemy with consecutive strikes.
 SKILL_20151022_005368	$Attaque Coquille
-SKILL_20151022_005369	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}Attack an enemy with the guard of your sword. The enemy's defense is ignored when attacked again with [Pierce] attacks.
+SKILL_20151022_005369	{#DD5500}{ol}[Physical] - [Strike]{/}{/}Attack an enemy with the guard of your sword. The enemy's defense is ignored when attacked again with [Pierce] attacks.
 SKILL_20151022_005370	$Esquive Toucher	
 SKILL_20151022_005371	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}Move swiftly to avoid enemy attacks and deliver complex consecutive attacks.
 SKILL_20151022_005372	$Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Evasion Rate: +#{CaptionRatio2}#%
@@ -5614,8 +5614,8 @@ SKILL_20151102_005613	$Serpentine: Bleeding
 SKILL_20151102_005614	$Enemies hit by [Serpentine] have a 2% chance per attribute level to be afflicted with [Bleeding] for 8 seconds. Bleeding damage is proportional to the character's physical attack.
 SKILL_20151102_005615	$Gae Bulg: Enhance
 SKILL_20151102_005616	Increases the damage dealt on an enemy with [Gae Bulg] by 1% per attribute level.
-SKILL_20151102_005617	
-SKILL_20151102_005618
+SKILL_20151102_005617	$Creates a defense zone for 15 seconds where the spear is thrown. Increases physical defense and magical defense by 2% for party members within the zone.
+SKILL_20151102_005618	$Creates an attack zone for 15 seconds where the spear is thrown. Increases physical attack and magical attack by 2% for party members within the zone.
 SKILL_20151102_005619	$Dragon Soar: Enhance
 SKILL_20151102_005620	$Increases the damage dealt on an enemy with [Dragon Soar] by 1% per attribute level.
 SKILL_20151102_005621	$Dragon Soar: Shock	
@@ -5666,7 +5666,7 @@ SKILL_20151102_005665	$Increases the summon time of [Bone Pointing] by 1 second 
 SKILL_20151102_005666	$Ngadhundi: Enhance
 SKILL_20151102_005667	$Increases the damage dealt on an enemy with [Ngadhundi] by 1% per attribute level.
 SKILL_20151102_005668	$Kurdaitcha: Enhance
-SKILL_20151102_005669	
+SKILL_20151102_005669	Increases the chance to hit with twice the normal damage to enemies hexed by [Kurdaitcha] (or any other methods) by 1% chance per attribute level. 
 SKILL_20151102_005670	$Levitation: Nullify Physical Damage
 SKILL_20151102_005671	$Increases the chance to nullify the enemy's physical attack while using [Levitation] by 1.5% per attribute level.
 SKILL_20151102_005672	$Featherfoot: Increased Recovery
@@ -5720,7 +5720,7 @@ SKILL_20151102_005719	$Afflicts [Curse] at a 10% chance for 4 seconds on an enem
 SKILL_20151102_005720	$Nachash: Enhance
 SKILL_20151102_005721	$Increases the damage dealt on an enemy with [Nachash] by 1% per attribute level.
 SKILL_20151102_005722	$Nachash: Resistance
-SKILL_20151102_005723	
+SKILL_20151102_005723	Increases the resistance to [Nachash] effect within the area of effect by 1%.
 SKILL_20151102_005724	$Nachash: Abnormal Status
 SKILL_20151102_005725	$Increases the chance to afflict petrification or cursed on an enemy when damage is dealt with [Nachash] by 1%.
 SKILL_20151102_005726	$Ein Sof: Maintain Time

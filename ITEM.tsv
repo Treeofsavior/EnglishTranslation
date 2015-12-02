@@ -1573,7 +1573,7 @@ ITEM_20150317_001572	A mushroom might grow on your head.
 ITEM_20150317_001573	Crown 
 ITEM_20150317_001574	With great power comes great responsibility. 
 ITEM_20150317_001575	White Flower Hairpin 
-ITEM_20150317_001576	Be careful not to be mistaken for being mentally sick. 
+ITEM_20150317_001576	$You might be mistaken for a flower child.
 ITEM_20150317_001577	Tiger Mask 
 ITEM_20150317_001578	A mask with a silly tiger face on it. 
 ITEM_20150317_001579	Teeny Doll 
@@ -1802,7 +1802,7 @@ ITEM_20150317_001801	HP +10 Increase Potion
 ITEM_20150317_001802	Movement Speed Increase Potion 
 ITEM_20150317_001803	{memo X}Increases movement speed by 5 for 180 seconds. {nl}Right-click to use. Cooldown 30 seconds. 
 ITEM_20150317_001804	Warp Scroll 
-ITEM_20150317_001805	Allows you to warp to any Goddess Statue. Your current location will be saved at the Goddess Statue. 
+ITEM_20150317_001805	Allows you to warp to any activated Goddess Statue. Your current location will be saved at the Goddess Statue. 
 ITEM_20150317_001806	Companion Food 
 ITEM_20150317_001807	Restores Velheider's Stamina by 30. 
 ITEM_20150317_001808	Varnalesa 
@@ -1919,8 +1919,8 @@ ITEM_20150317_001918	STR Increase Potion
 ITEM_20150317_001919	Permanently increases Strength by 1. {nl}Right-click to use. 
 ITEM_20150317_001920	DEX Increase Potion 
 ITEM_20150317_001921	Permanently increases Dexterity by 1. {nl}Right-click to use. 
-ITEM_20150317_001922	HP Increase Potion 
-ITEM_20150317_001923	Permanently increases Health by 1. {nl}Right-click to use. 
+ITEM_20150317_001922	CON Increase Potion 
+ITEM_20150317_001923	Permanently increases Constitution by 1. {nl}Right-click to use. 
 ITEM_20150317_001924	INT Increase Potion 
 ITEM_20150317_001925	Permanently increases Intelligence by 1. {nl}Right-click to use. 
 ITEM_20150317_001926	SPR Increase Potion 
@@ -1957,10 +1957,10 @@ ITEM_20150317_001956	A collection where you can register your items. You can reg
 ITEM_20150317_001957	Flower Collection 
 ITEM_20150317_001958	Bone Collection 
 ITEM_20150317_001959	Crystal Collection 
-ITEM_20150317_001960	Mausoleum Collection 
+ITEM_20150317_001960	Royal Mausoleum Collection 
 ITEM_20150317_001961	Cockatrice Collection 
 ITEM_20150317_001962	Devil Collection 
-ITEM_20150317_001963	Tenet Cathedral Collection 
+ITEM_20150317_001963	Tenet Church Collection 
 ITEM_20150317_001964	Spirit Collection 
 ITEM_20150317_001965	Lv1 Card Collection 
 ITEM_20150317_001966	Lv2 Card Collection 
@@ -3014,8 +3014,8 @@ ITEM_20150317_003013	Wheat Box
 ITEM_20150317_003014	{memo X}A wheat box containing a small number of grains. The box has been ripped apart. 
 ITEM_20150317_003015	Dumbleball Pouch 
 ITEM_20150317_003016	{memo X}A pouch full of strange pills. These  fills Vubbes with courage but cause diarrhea in humans. 
-ITEM_20150317_003017	Star Tower Lens 
-ITEM_20150317_003018	{memo X}A telescope lens used at the Star Tower. 
+ITEM_20150317_003017	Astral Tower Lens 
+ITEM_20150317_003018	{memo X}A telescope lens used at the Astral Tower. 
 ITEM_20150317_003019	Bat Venom Sample 
 ITEM_20150317_003020	{memo X}Poison sample from bats. 
 ITEM_20150317_003021	Strangely Engraved Stone
@@ -3460,11 +3460,11 @@ ITEM_20150317_003459	Languid Herb
 ITEM_20150317_003460	{memo X}A herb that makes one feel languid 
 ITEM_20150317_003461	Strongly Scented Soul Flower 
 ITEM_20150317_003462	{memo X}A flower with a powerful fragrance. There is a rumor that souls inhabit this flower. 
-ITEM_20150317_003463	Useful Bomb  
+ITEM_20150317_003463	Useful Bomb 
 ITEM_20150317_003464	{memo X}Explosives made to prevent monsters from advancing into Andale Village.
-ITEM_20150317_003465	Languid Herb Bomb  
+ITEM_20150317_003465	Languid Herb Bomb 
 ITEM_20150317_003466	{memo X}The chemical essence of the Languid Herb has been concentrated for use in this bomb. 
-ITEM_20150317_003467	Sparnas Bait  
+ITEM_20150317_003467	Sparnas Bait 
 ITEM_20150317_003468	{memo X}A bait used to attract Sparnas. It made by lumping together old grains. 
 ITEM_20150317_003469	Simple Supplies 
 ITEM_20150317_003470	{memo X}Supplies requested by the supplier to be delivered to the Danus unit. 
@@ -3482,7 +3482,7 @@ ITEM_20150317_003481	{memo X}A necklace that a ghost asked you to take to his yo
 ITEM_20150317_003482	{memo X}A bag full of money. What was the Reaper doing with this? 
 ITEM_20150317_003483	Messenger's Note 
 ITEM_20150317_003484	{memo X}A messenger's hastily scribbled note. It describes a great threat. 
-ITEM_20150317_003485	Ancient Writings  
+ITEM_20150317_003485	Ancient Writings 
 ITEM_20150317_003486	{memo X}There are verses on it to appease the souls of those who died while researching the Royal Tombs. 
 ITEM_20150317_003487	Wizard's Torn Page 
 ITEM_20150317_003488	{memo X}A page torn from a book. It looks like the author is Shaman Show.  
@@ -3522,7 +3522,7 @@ ITEM_20150317_003521	Holy Relic
 ITEM_20150317_003522	{memo X}A holy relic used by Krivises as a symbol of their faith. Lost in the city by someone. 
 ITEM_20150317_003523	Stone Whale Essence 
 ITEM_20150317_003524	{memo X}An essence filled with the resentment of many souls. 
-ITEM_20150317_003525	Dense Hardwood  
+ITEM_20150317_003525	Dense Hardwood 
 ITEM_20150317_003526	{memo X}Material requested by the sculptor Tesla 
 ITEM_20150317_003527	{memo X} 
 ITEM_20150317_003528	{memo X} 
@@ -3547,11 +3547,11 @@ ITEM_20150317_003546	{memo X}An enemy killed with this charm attached to them wi
 ITEM_20150317_003547	{memo X}First revelation found from the Crystal Mine 
 ITEM_20150317_003548	Eye of Madness 
 ITEM_20150317_003549	{memo X}Rodelin's eye. It is said to be able to erase an enemy's senses. 
-ITEM_20150317_003550	Vicious Essence  
+ITEM_20150317_003550	Vicious Essence 
 ITEM_20150317_003551	{memo X}An ingredient necessary to make the Holy Bomb. It must be purified before it can be used. 
-ITEM_20150317_003552	Purified Essence  
+ITEM_20150317_003552	Purified Essence 
 ITEM_20150317_003553	{memo X}An ingredient necessary to make the Holy Bomb. The purified result of Wicked Essence. 
-ITEM_20150317_003554	Romuva Holy Water  
+ITEM_20150317_003554	Romuva Holy Water 
 ITEM_20150317_003555	{memo X}When consumed it will prevent Demons from detecting your presence! 
 ITEM_20150317_003556	Holy Bomb 
 ITEM_20150317_003557	{memo X}A bomb blessed with holy power. It can defeat Glizardon in a single blow. 
@@ -3565,10 +3565,10 @@ ITEM_20150317_003564	{memo X}A skirt hem obtained by defeating Pawndel and Pawnd
 ITEM_20150317_003565	Pawnd's Soul
 ITEM_20150317_003566	A demon's soul collected in order to identify demon monsters.
 ITEM_20150317_003567	{memo X}Soul of Pawndel  
-ITEM_20150317_003568	Corylus' Soul
+ITEM_20150317_003568	Corylus' Soul 
 ITEM_20150317_003569	Bucket  
 ITEM_20150317_003570	{memo X}Bucket used to hold water. Seems like a rope can be tied to it. 
-ITEM_20150317_003571	Long Rope  
+ITEM_20150317_003571	Long Rope 
 ITEM_20150317_003572	{memo X}A very long rope. Seems like something can be tied to it.  
 ITEM_20150317_003573	Demon Transform Scroll 
 ITEM_20150317_003574	{memo X}Use this scroll to transform to Pawndel or Pawnd. 
@@ -3600,7 +3600,7 @@ ITEM_20150317_003599	{memo X}The Fifth Tombstone Fragment is mixed into this pil
 ITEM_20150317_003600	Restored Tombstone Frgment 
 ITEM_20150317_003601	{memo X}A finished part of the lost Ruklys monument 
 ITEM_20150317_003602	{memo X}There are illegible words written on it. 
-ITEM_20150317_003603	{memo X}The second revelation found from Tenet Cathedral 
+ITEM_20150317_003603	{memo X}The second revelation found from the Tenet Church 
 ITEM_20150317_003604	Tombstone Fragments Package 
 ITEM_20150317_003605	{memo X}A package that the treasure hunter Edang asked you to deliver to the epigraphist Raymond 
 ITEM_20150317_003606	Ruklys Memorial Piece 
@@ -4497,7 +4497,7 @@ ITEM_20150401_004496	{memo X}
 ITEM_20150401_004497	{memo X} 
 ITEM_20150401_004498	Explosives 
 ITEM_20150401_004499	Dungeon Item 
-ITEM_20150401_004500	{memo X}A explosive used by workers during the building of the Fortress Battle Field of the Earth. Highly flammable. 
+ITEM_20150401_004500	{memo X}A explosive used by workers during the construction of the Fortress of the Land. Highly flammable. 
 ITEM_20150401_004501	Flask of the King's Voice 
 ITEM_20150401_004502	{memo X}It's rumored that the king's voice can be heard from the barracks of the Tomb Guards. 
 ITEM_20150401_004503	Hastily Prepared Bread 
@@ -5061,7 +5061,7 @@ ITEM_20150428_005060	Mallardu Fat
 ITEM_20150428_005061	{memo X}The fat of a Mallardu that was well preserved and will burn easily. Wake Nepenthes with it. 
 ITEM_20150428_005062	{memo X}The first revelation found in the Crystal Mine. Readable. 
 ITEM_20150428_005063	Pawndel's Soul
-ITEM_20150428_005064	{memo X}The second revelation found in the Tenet Cathedral. Readable. 
+ITEM_20150428_005064	{memo X}The second revelation found in the Tenet Church. Readable. 
 ITEM_20150428_005065	Lump of Kepo Meat 
 ITEM_20150428_005066	{memo X}Meat Loaf that can be easily obtained from Kepo. However, you can't eat it as is. 
 ITEM_20150428_005067	{memo X}The third revelation found in the Thorn Forest. Readable. 
@@ -5463,9 +5463,9 @@ ITEM_20150714_005462	{memo X}$An orb made by Zubeck to easily locate his secret 
 ITEM_20150714_005463	$Goddess Austeja's Scripture
 ITEM_20150714_005464	{memo X}$A script needed for repairing the sealed tower in the Uskis Arable Land. 
 ITEM_20150714_005465	{memo X}Bomb Weed 
-ITEM_20150714_005466	{memo X}Explosive Shot Materials  
-ITEM_20150714_005467	{memo X}A potion that the Kingdom Military had. Used when making Explosive Shot. 
-ITEM_20150714_005468	Explosive Shot 
+ITEM_20150714_005466	{memo X}Thunderous Bomb Materials  
+ITEM_20150714_005467	{memo X}A potion that the Kingdom Military had. Used when making Thunderous Bomb. 
+ITEM_20150714_005468	Thunderous Bomb 
 ITEM_20150714_005469	{memo X}A bomb that doesn't have much explosive power, but creates a huge noise when set off. 
 ITEM_20150714_005470	{memo X}Dud Bomb 
 ITEM_20150714_005471	{memo X}A bomb discovered in the Outpost area. Seems like it's become a dud. 
@@ -5482,21 +5482,21 @@ ITEM_20150714_005481	Tempas Mushroom
 ITEM_20150714_005482	{memo X}Mushrooms commonly found in the Thorn Forest. It seems they must be cooked to be edible. 
 ITEM_20150714_005483	Rocktor's Stony Leg
 ITEM_20150714_005484	{memo X}A piece of a Rocktor's leg. Can be used in weapons due to its shape and hardness. 
-ITEM_20150714_005485	Poisonous Chafperor Thorn 
+ITEM_20150714_005485	$Chafperor Thorn Venom
 ITEM_20150714_005486	{memo X}A thorn found on the Chafperor's forearm. Venom oozes from it. 
-ITEM_20150714_005487	Concentrated Thorny Tree Stump Poison 
+ITEM_20150714_005487	$Toxic Thorn Tree Stump Goo 
 ITEM_20150714_005488	{memo X}A thorny tree that grows on wicked energies. Its thorns are poisonous. 
-ITEM_20150714_005489	Spring Water Venom 
+ITEM_20150714_005489	$Spring Water Venom 
 ITEM_20150714_005490	{memo X}Water from the spring. It's been contaminated with poison. 
 ITEM_20150714_005491	Precipitation Bowl 
 ITEM_20150714_005492	{memo X}A bowl used to extract the poison out of the contaminated spring water. There's a hollow spot in which the poison collects. 
-ITEM_20150714_005493	Woodroit Leaf 
-ITEM_20150714_005494	{memo X}A leaf attached to the head of a Woodroit. It can be used as an ingredient for an antidote. 
-ITEM_20150714_005495	Chebas's Medicinal Herb 
-ITEM_20150714_005496	{memo X}A medicinal herb that Chebas from the Bastille Company was looking for. He says it will aid against poisonous attacks. 
+ITEM_20150714_005493	$Woodluwa Leaf 
+ITEM_20150714_005494	{memo X}A leaf attached to the head of a Woodluwa. It can be used as an ingredient for an antidote. 
+ITEM_20150714_005495	$Chevas's Medicinal Herb 
+ITEM_20150714_005496	{memo X}A medicinal herb that Chevas from the Bastille Company was looking for. He says it will aid against poisonous attacks. 
 ITEM_20150714_005497	{memo X}It's an empty beehive without any honey in it. Where is the honey? 
-ITEM_20150714_005498	Woodroit Essence 
-ITEM_20150714_005499	{memo X}A sweet-smelling secretion from a Woodroit. It can soften hardened honeycombs. 
+ITEM_20150714_005498	$Woodluwa Essence 
+ITEM_20150714_005499	{memo X}A sweet-smelling secretion from a Woodluwa. It can soften hardened honeycombs. 
 ITEM_20150714_005500	Liverwort Cap 
 ITEM_20150714_005501	{memo X}A large cap from the head of a liverwort plant. It exudes a strange smell. 
 ITEM_20150714_005502	Stonecon Fragment 
@@ -5511,14 +5511,14 @@ ITEM_20150714_005510	Monastery Crystal Ball
 ITEM_20150714_005511	{memo X}A crystal ball found in a wooden box at the monastery. Used to activate the device in the prayer hall. 
 ITEM_20150714_005512	Deodorizing Potion 
 ITEM_20150714_005513	{memo X}A strong potion used for removing odors. It has an antiseptic scent to it. 
-ITEM_20150714_005514	Tilla Monastery Scriptures 
+ITEM_20150714_005514	$Tyla Monastery Scriptures 
 ITEM_20150714_005515	{memo X}Scriptures that were scattered by rampaging monsters. Bring them to Mohaim. 
 ITEM_20150717_005516	It's as if the powerful blade shows its user the way of the sword.
 ITEM_20150717_005517	The true power of this blade is its ability to cleave everything between you and your enemy.
 ITEM_20150717_005518	You can feel the experienced tough from the handle, and a cold cruelty from blade. Great users only experience the first case.
 ITEM_20150717_005519	The souls of the swordsmen fighting to death with sword in hand is reflected in this blade.
 ITEM_20150717_005520	The pommel can be used to stab as well but there's no need to try it. 
-ITEM_20150717_005521	It seems less vulnerable to the envirnment even the origin is a ridding battle.
+ITEM_20150717_005521	It seems less vulnerable to the environment even the origin is a ridding battle.
 ITEM_20150717_005522	A normal sword regardless of the power with a magic. Of course, If there are people who ignore the power of this sword, they can be damaged by this sword.
 ITEM_20150717_005523	Hope always this sword exists between you and enemy.
 ITEM_20150717_005524	- Bash skill level +10
@@ -5543,7 +5543,7 @@ ITEM_20150717_005542	- 2% chance to increase magic defense for 15 seconds after 
 ITEM_20150717_005543	If you are ready to face death, draw this sword. 
 ITEM_20150717_005544	If you sharpen your soul while making a weapon, the size of the enemy will not matter. You can expect larger damage inflicted on larger enemies.
 ITEM_20150717_005545	Some people call this the mixed form of a two-handed basic blade. Using it as their main weapon until they are acknowledged by others.
-ITEM_20150717_005546	Some say the decorative snake occasionaly blinks it's eyes. There are no eye witnesses, so the claim may be a hoax.
+ITEM_20150717_005546	Some say the decorative snake occasionally blinks it's eyes. There are no eye witnesses, so the claim may be a hoax.
 ITEM_20150717_005547	This weapon is a staff condensed with magic through complicated methods.
 ITEM_20150717_005548	This staff has teeth. Let the enemy know that it is not just for show.
 ITEM_20150717_005549	Mages with years of experience enjoy this equipment.
@@ -5560,7 +5560,7 @@ ITEM_20150717_005559	{memo X}- Basic attacks have a 2% chance to burn the target
 ITEM_20150717_005560	We have found death without discretion. It is time to apply what we have discovered on the enemy.
 ITEM_20150717_005561	You can't always draw power from wandering souls. However, if you succeed an item which increases your hidden potential will be created. 
 ITEM_20150717_005562	The craftsman takes pride in bringing out the optimum curvature of this recurve bow.
-ITEM_20150717_005563	The Star Tower archers do not care for this bow. However, others living in these treacherous times will find this bow useful. 
+ITEM_20150717_005563	The Astral Tower archers do not care for this bow. However, others living in these treacherous times will find this bow useful. 
 ITEM_20150717_005564	Just because it is called the sniper's bow doesn't mean you have to take single shots.
 ITEM_20150717_005565	During perilous times, if secret and terror are wielded in the shooter's hands, they will draw out the will to live.
 ITEM_20150717_005566	The first time a device was attached to the tip of a bow to increase it's draw power was during Lydia Schaffen's era. The actual creator of the device was a master fletcher, who was also Lydia Schaffen's ally.
@@ -5684,7 +5684,7 @@ ITEM_20150717_005683	Heavier and weaker than expected but its enchantment with p
 ITEM_20150717_005684	Beyo Boots
 ITEM_20150717_005685	The meaning of this shoe is that it allows you to walk as fast as the wind.
 ITEM_20150717_005686	There is a story that the first person who received these shoes was an unlucky disciple of Agailla Flurry. It is unsure if Jane died by the demons due to this reason.
-ITEM_20150717_005687	$It is said that the historically famous Premier Eminent himself devised this piece of equipment.{nl}For reasons unknown, it has been unused since Lydia Schaffen ascended at the Star Tower.
+ITEM_20150717_005687	$It is said that the historically famous Premier Eminent himself devised this piece of equipment.{nl}For reasons unknown, it has been unused since Lydia Schaffen ascended at the Astral Tower.
 ITEM_20150717_005688	A strong point of mounted equipment by monsters is to borrow the monster's abilities.
 ITEM_20150717_005689	Nepenthes is not an active monster. Then, the feature of this equipment is a reaction of the origin.
 ITEM_20150717_005690	Originally, Shnayim was a creation bearing Great King Zachariel's great plans and arrangements. As for now, it would be of more help this way.
@@ -5761,7 +5761,7 @@ ITEM_20150717_005760	A lot of jewels used for consumer goods to hold the magic i
 ITEM_20150717_005761	Silver material containing the magic is used to display the surface's pattern.
 ITEM_20150717_005762	These types of pearls are mainly for decoration purposes as it is generally hard to hold the magic.
 ITEM_20150717_005763	Priests who communicated directly with Goddess also don't know lots of parts. However, known up to now can endow a lot of abilities.
-ITEM_20150717_005764	The origin of this bracelet is connecting to Lydia Schaffen and Schaffenstar formed by her. However, there are no restrictions to use this bracelet for people who did not come from the Star Tower.
+ITEM_20150717_005764	The origin of this bracelet is connecting to Lydia Schaffen and Schaffenstar formed by her. However, there are no restrictions to use this bracelet for people who did not come from the Astral Tower.
 ITEM_20150717_005765	Goddess Jurate evicted demons living in the sea from her territory. As Merregina roams on land, its purpose as material is becoming known. 
 ITEM_20150717_005766	The study of strong demons and the creation of new magical weapons has become more important after Medzio Diena.
 ITEM_20150717_005767	Its name reflects that the item is easy to get, not that the item is shabby. 
@@ -5863,7 +5863,7 @@ ITEM_20150729_005862	This item has been crafted with various poisons since its o
 ITEM_20150729_005863	Originally from demons who passed the recipe down to the Vubbes, this recipe was released by human warriors who stole it from the Vubbes.
 ITEM_20150729_005864	- Plant Collection Effect{nl}, when defeat Plant types - Herb items can be droped when the Plant Collection Effect overlapped 15 times.
 ITEM_20150729_005865	The new monsters appeared since Medzio Diena, the name was made according to the a scholar woh devoted to find ways.
-ITEM_20150729_005866	 - Frenzy effect for 5 seconds when you avoid an enemy's attack {nl}  - Increases physical attack by 235, movement speed by 110 and decreases physical defense by 88 for 30 seconds when stacking the Frenzy effect 8 times
+ITEM_20150729_005866	 - [Frenzy Effect] for 5 seconds when an enemy avoids your attack{nl}  - Increases physical attack by 235, movement speed by 10 and reduces physical defense by 88 for 30 seconds when stacking the Frenzy effect 8 times
 ITEM_20150729_005867	{memo X}Adds 2814 EXP and 2166 Class EXP. {nl}There is a chance of receiving additional EXP. {nl}Right-click to use. 
 ITEM_20150729_005868	Lv3 EXP Card (Deletion)
 ITEM_20150729_005869	Kubas Card
@@ -5894,12 +5894,12 @@ ITEM_20150729_005893	It is used as a bandage during emergencies.
 ITEM_20150729_005894	It is a grape grow in water land and dark.
 ITEM_20150729_005895	Pebble
 ITEM_20150729_005896	A small and round stone. Can be discovered in rivers and streams.
-ITEM_20150729_005897	[Equip Effect] 20% chance to decrease the enemy's Physical and Magic Defense by 50% for 10 seconds after a successful block
-ITEM_20150729_005898	Cube Amulet
-ITEM_20150729_005899	[Equip Effect] 15% chance to increase your damage by 20% for 15 seconds on knocked-down enemies
-ITEM_20150729_005900	Pumpkin Amulet
-ITEM_20150729_005901	[Equip Effect] When attacking an enemy from behind, there is a 3% chance to decrease the enemy's SP by 1096
-ITEM_20150729_005902	[Equip Effect] When you are hit with your HP below 10%, there is a 4% chance to recover 2100 HP over 6 seconds
+ITEM_20150729_005897	$[Equip Effect] 20% chance to decrease the enemy's Physical and Magic Defense by 50% for 10 seconds after a successful block
+ITEM_20150729_005898	$Cube Amulet
+ITEM_20150729_005899	$[Equip Effect] 15% chance to increase your damage by 20% for 15 seconds on knocked-down enemies
+ITEM_20150729_005900	$Pumpkin Amulet
+ITEM_20150729_005901	$[Equip Effect] 3% chance to decrease an enemy's SP by 1096 when attacking it from behind
+ITEM_20150729_005902	$[Equip Effect] When you are hit with your HP below 10%, there is a 4% chance to recover 2100 HP over 6 seconds
 ITEM_20150729_005903	Desmodus' Tail Pin
 ITEM_20150729_005904	Broken Legwyn Seal Fragment
 ITEM_20150729_005905	{memo X}Legwyn's seal. Only a part remains because it has been broken a long time ago.
@@ -5958,7 +5958,7 @@ ITEM_20150803_005957	Arrow of the first Fletcher Master
 ITEM_20150803_005958	An arrow made by the first Fletcher Master for Lydia Schaffen.
 ITEM_20150803_005959	A trace left by the demons that passed through the dimensional crack.
 ITEM_20150803_005960	{memo X}Portable Flare
-ITEM_20150803_005961	A flare used by the members of the Star Tower to inform their location.
+ITEM_20150803_005961	A flare used by the members of the Astral Tower to inform their location.
 ITEM_20150803_005962	Red Leaf
 ITEM_20150803_005963	A material needed to make a flare trap. It creates a bright light along with a lot of smoke when it burns.
 ITEM_20150803_005964	Flare Trap
@@ -6408,7 +6408,7 @@ ITEM_20150918_006407	A pedestal piece of the Owl Sculpture.{nl}It's about to bre
 ITEM_20150918_006408	A special oil to burn the Owl Sculpture which has unfortunately been shattered.
 ITEM_20150918_006409	A wheat box containing a small number of grains. The box has been ripped apart.
 ITEM_20150918_006410	A pocket which contains the strange medicine. When Vubbes consume it, they become brave, but if humans consume it, they will have stomachache.
-ITEM_20150918_006411	A telescope lens used at the Star Tower.
+ITEM_20150918_006411	A telescope lens used at the Astral Tower.
 ITEM_20150918_006412	Poison sample from bats.
 ITEM_20150918_006413	A stone carried by the Hogmas. It attracts monsters.
 ITEM_20150918_006414	Pridca believes that this amulet is the key to the ruin's secrets.
@@ -6539,7 +6539,7 @@ ITEM_20150918_006538	The legendary lection that will be used for defeating Gesti
 ITEM_20150918_006539	A catalyst containing a Voodoo Doll. Activates the Voodoo Doll when used.
 ITEM_20150918_006540	Counterfeit goods passed to you from Kevin. They're not finished.
 ITEM_20150918_006541	Lowers the strength of monsters when used on them.
-ITEM_20150918_006542	A piece broken off from the altar on the second floor of the Chapel.
+ITEM_20150918_006542	A piece broken off from the altar on the second floor of the Church.
 ITEM_20150918_006543	When used, you become invisible to demons for 10 seconds. The effect disappears if you attack or take damage.
 ITEM_20150918_006544	When used, a Divine Spirit appears and provokes nearby demons.
 ITEM_20150918_006545	A special key for finding revelations and hidden places.
@@ -6636,7 +6636,7 @@ ITEM_20150918_006635	A skirt hem obtained by defeating Pawndel and Pawnd. Materi
 ITEM_20150918_006636	A bucket used to hold water. Seems like a rope can be tied to it.
 ITEM_20150918_006637	A very long rope. Seems like something can be tied to it.
 ITEM_20150918_006638	Use this scroll to transform into Pawndel or Pawnd.
-ITEM_20150918_006639	A Power Crystal processed and filled with the strength of light. It can release the enchantment that binds the sealed chapel gates.
+ITEM_20150918_006639	A Power Crystal processed and filled with the power of light. It can release the enchantment that binds the sealed church gates.
 ITEM_20150918_006640	Old and muddy necklace dropped by someone long ago.
 ITEM_20150918_006641	Wooden arrow used by High Vubbe Archers. It might be useful for kindling.
 ITEM_20150918_006642	Ingredient necessary to make the Crude Divining Rod used to search for the First Tombstone Fragment. You need to collect a lot of them.
@@ -6650,7 +6650,7 @@ ITEM_20150918_006649	The fourth part of the lost Ruklys monument
 ITEM_20150918_006650	The Fifth Tombstone Fragment is mixed into this pile of debris.
 ITEM_20150918_006651	A finished part of the lost Ruklys monument
 ITEM_20150918_006652	There are illegible words written on it.
-ITEM_20150918_006653	The second revelation found in the Tenet Chapel. Readable.
+ITEM_20150918_006653	The second revelation found in the Tenet Church. Readable.
 ITEM_20150918_006654	A package that Treasure Hunter Eden asked you to deliver to Epigraphist Raymond.
 ITEM_20150918_006655	A fragment prepared so Epigraphist Schmid can easily restore it.
 ITEM_20150918_006656	The first rubbing of Lydia Schaffen's tombstone. Read what's inside.
@@ -6796,7 +6796,7 @@ ITEM_20150918_006795	A trinket left by adventurers who entered the Demon Prison.
 ITEM_20150918_006796	A token fragment dropped from the Rada Seal. Evidence that Dionysus spread riots after he lost his ego.
 ITEM_20150918_006797	A claw found stuck in a demon. It looks like it was attacked by Dionysus.
 ITEM_20150918_006798	Kupole Sigita says that other demons will take this tooth as a warning.
-ITEM_20150918_006799	Workers used to use this while constructing the Fortress of the Earth.  You can easily cause it to explode with fire.
+ITEM_20150918_006799	Workers used to use this while constructing the Fortress of the Land. You can easily cause it to explode with fire.
 ITEM_20150918_006800	be cared wins this thing strong full-flavored me up monsters. Apply jityigyeo to leave things be and the amount of monsters keep my nest.
 ITEM_20150918_006801	Digested, severely Damaged Artifacts. They can only barely be recognized by their shape.
 ITEM_20150918_006802	decisions that are found in the petrified monster prolonged exposure to frost. When processing occurs on the Stone Frost immunity for a while.
@@ -6931,8 +6931,8 @@ ITEM_20150918_006930	A magical tool of the Cryomancer Master. It can freeze even
 ITEM_20150918_006931	A fragment of a monster's soul, solidified in a frosty crystal.
 ITEM_20150918_006932	An orb made by Zubeck used to easily find his secret stash.
 ITEM_20150918_006933	A script needed for repairing the sealed tower in the Uskis Arable Land.
-ITEM_20150918_006934	{memo X}Explosive Shot Materials
-ITEM_20150918_006935	{memo X}A potion that the Kingdom Military had. Used when making Explosive Shot.
+ITEM_20150918_006934	{memo X}Thunderous Bomb Materials
+ITEM_20150918_006935	{memo X}A potion that the Kingdom Military had. Used when making Thunderous Bomb.
 ITEM_20150918_006936	{memo X}A bomb discovered in the Outpost area. Seems like it's become a dud.
 ITEM_20150918_006937	{memo X}A box with tools to safely remove bombs
 ITEM_20150918_006938	{memo X}The seal of Ruklys army
@@ -6955,10 +6955,10 @@ ITEM_20150918_006954	A thorn found on the Chafperor's forearm. Venom oozes from 
 ITEM_20150918_006955	A thorn tree that grows on wicked energies. Its thorns are poisonous.
 ITEM_20150918_006956	Water from the spring. It's been contaminated with poison.
 ITEM_20150918_006957	A bowl used to extract the poison out of the contaminated spring water. There's a hollow spot in which the poison collects.
-ITEM_20150918_006958	A leaf attached to the head of a Woodroit. It can be used as an ingredient for an antidote.
-ITEM_20150918_006959	A medicinal herb that Chebas from the Bastille Company was looking for. He says it will aid against poisonous attacks.
+ITEM_20150918_006958	$A leaf attached to the head of a Woodluwa. It can be used as an ingredient for an antidote.
+ITEM_20150918_006959	$A medicinal herb that Chevas from the Bastille Company was looking for. He says it will aid against poisonous attacks.
 ITEM_20150918_006960	It's an empty beehive without any honey in it. Where is the honey?
-ITEM_20150918_006961	A sweet-smelling secretion from a Woodroit. It can soften hardened honeycombs.
+ITEM_20150918_006961	$A sweet-smelling secretion from a Woodluwa. It can soften hardened honeycombs.
 ITEM_20150918_006962	A large cap from the head of a liverwort plant. It exudes a strange smell.
 ITEM_20150918_006963	A fragment that broke off a Stonecon. It twitches ever so slightly.
 ITEM_20150918_006964	An old book from the grave of a dead man. Hunter Natasha may be able to find something of use from this book.
@@ -6997,7 +6997,7 @@ ITEM_20151001_006996	Romuva Purification
 ITEM_20151001_006997	It purifies evil energy with the power of the Romuva.
 ITEM_20151001_006998	Flare
 ITEM_20151001_006999	Locked Box
-ITEM_20151001_007000	A locked box, found while exiting Star Tower, that has several things inside of it.
+ITEM_20151001_007000	A locked box, found while exiting Astral Tower, that has several things inside of it.
 ITEM_20151001_007001	Dark Blue Herb
 ITEM_20151001_007002	A dark blue herb capable of neutralizing a paralysis-inducing poison.
 ITEM_20151001_007003	Shadow Essence
@@ -7089,7 +7089,7 @@ ITEM_20151001_007088	The research materials which Gedas talked about. The amount
 ITEM_20151001_007089	Lizardman Leather
 ITEM_20151001_007090	The leather of an Orange Lizardman. It might show a reaction to the mysterious seedlings.
 ITEM_20151001_007091	Herb
-ITEM_20151001_007092	A material that is needed when making a signal bomb. It makes a lot of noise depending on how you use it.
+ITEM_20151001_007092	A material that is needed when making a Thunderous Bomb. It makes a lot of noise depending on how you use it.
 ITEM_20151001_007093	A bomb carried by the kingdom army guards to face against the monsters.
 ITEM_20151001_007094	It is not destructive, but it makes a lot of noise.
 ITEM_20151001_007095	Old Unexploded Bomb
@@ -7119,9 +7119,9 @@ ITEM_20151001_007118	Rebel Army Diary Chapter 2
 ITEM_20151001_007119	Rebel Army Diary Chapter 3
 ITEM_20151001_007120	Rebel Army Diary Chapter 4
 ITEM_20151001_007121	Document
-ITEM_20151001_007122	A document written about the device to resist against the demons at the Battle Field of the Fortress of the Great Earth.
-ITEM_20151001_007123	Revelation of Fortress of the Great Earth
-ITEM_20151001_007124	The seventh revelation found in Fortress of the Great Earth. Readable.
+ITEM_20151001_007122	A document written about the device to resist against the demons at the Fortress Battlegrounds.
+ITEM_20151001_007123	Revelation of the Fortress of the Land
+ITEM_20151001_007124	The seventh revelation found in the Fortress of the Land. Readable.
 ITEM_20151001_007125	Horn
 ITEM_20151001_007126	A horn that is used when making an order to retreat
 ITEM_20151001_007127	Gravekeeper's Matches
@@ -7230,9 +7230,9 @@ ITEM_20151016_007229	{memo X}A bandage soaked in divine water
 ITEM_20151016_007230	A crystal that emanates a mysterious light
 ITEM_20151016_007231	{memo X}A crystal that emanates a unique light. You can obtain it from the monsters at Galuet Plains.
 ITEM_20151016_007232	{memo X}Oil of the monsters that creates the mysterious light.
-ITEM_20151016_007233	Kedora Merchant's Scroll
-ITEM_20151016_007234	A scroll thats provides you the same benefits as a Kedora Merchant.
-ITEM_20151016_007235	Kedora Merchants Teaching Material
+ITEM_20151016_007233	Kedoran Merchant Alliance Scroll
+ITEM_20151016_007234	A scroll thats provides you the benefits of the Kedoran Merchant Alliance.
+ITEM_20151016_007235	Kedoran Merchant Alliance Educational Material
 ITEM_20151016_007236	{memo X}Instructions used for teaching newcomers of Kedora Merchants. It is written with ink made of with the blood from monsters.
 ITEM_20151016_007237	Nestos' Sign
 ITEM_20151016_007238	Nestos' Sign
@@ -7274,7 +7274,7 @@ ITEM_20151016_007273	The seed of a flower of the Great Earth. When you plant it,
 ITEM_20151016_007274	Great Earth's Flower of Vigor
 ITEM_20151016_007275	A flower of the earth full of vitalities that grew on the land. You can feel its strong vitality.
 ITEM_20151022_007276	Plague Doctor Helmet
-ITEM_20151022_007277	Throughout the ages, from the very first Paladin, many people have guarded the Tenet Chapel. All those years of accumulated experience have been drawn upon to create this combination of power and convenience.
+ITEM_20151022_007277	Ever since the very first Paladin did, many people throughout the ages have guarded the Tenet Church. All those years of accumulated experience have been drawn upon to create this combination of power and convenience.
 ITEM_20151022_007278	
 ITEM_20151022_007279	
 ITEM_20151022_007280	
@@ -7343,16 +7343,16 @@ ITEM_20151022_007342
 ITEM_20151022_007343	
 ITEM_20151022_007344	
 ITEM_20151022_007345	
-ITEM_20151022_007346	Training Revolver
+ITEM_20151022_007346	$Training Revolver
 ITEM_20151022_007347	
-ITEM_20151022_007348	Epee
-ITEM_20151022_007349	Training Rapier
-ITEM_20151022_007350	Aston Rapier
-ITEM_20151022_007351	Sharp Rapier
-ITEM_20151022_007352	Duelist
-ITEM_20151022_007353	- All Fencer Skills Level +1
-ITEM_20151022_007354	Venier
-ITEM_20151022_007355	- All Fencer Skills Level +2{nl} - 3% chance of dealing additional holy property damage when attacking
+ITEM_20151022_007348	$Epee
+ITEM_20151022_007349	$Training Rapier
+ITEM_20151022_007350	$Aston Rapier
+ITEM_20151022_007351	$Sharp Rapier
+ITEM_20151022_007352	$Duelist
+ITEM_20151022_007353	$- All Fencer Skills Level +1
+ITEM_20151022_007354	$Venier
+ITEM_20151022_007355	$- All Fencer Skills Level +2{nl} - 3% chance of dealing additional Holy property damage
 ITEM_20151022_007356	
 ITEM_20151022_007357	
 ITEM_20151022_007358	
@@ -8285,7 +8285,7 @@ ITEM_20151022_008284 	Notification Signboard given by Gerda. Place it at the des
 ITEM_20151022_008285 	Holy Object sought after by Yurate. It was lost during the Medzio Diena 
 ITEM_20151022_008286 	Detector used for searching items on the upper shelf.
 ITEM_20151022_008287 	Glass bottle containing secret ink. Contains transparent secret ink used to record important information.
-ITEM_20151022_008288 	Guidebook used to teach newcomers of the Kedora Trading Company. It is written in monster blood ink.
+ITEM_20151022_008288 	A guidebook used to teach new members of the Kedoran Merchant Alliance. It is written in monster blood ink.
 ITEM_20151022_008289 	Trap used to catch a monster. Be careful since a monster will be trapped immediately after you set it.
 ITEM_20151022_008290 	Material for tombstone
 ITEM_20151022_008291 	A stone to be crafted into a tombstone. It is still rough and unpolished.
