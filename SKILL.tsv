@@ -1511,7 +1511,7 @@ SKILL_20150317_001510	{memo X}Attack #{SkillAtkAdd}#{nl}Additional damage +#{Cap
 SKILL_20150317_001511	$Carve Owl
 SKILL_20150317_001512	{memo X}{#993399}{ol}[Magic] - [Fire]{/}{/}{nl} Summon the owl statue to attack targets located in front of it.
 SKILL_20150317_001513	{memo X}Attack #{SkillAtkAdd}#{nl}Defense #{CaptionRatio}# times{nl}Duration #{CaptionTime}# seconds{nl} Use 2 Oak tree
-SKILL_20150317_001514	$Carve Austras Koks
+SKILL_20150317_001514	$Carve World Tree
 SKILL_20150317_001515	{memo X}Carve a statue of the holy tree to silence nearby enemies.
 SKILL_20150317_001516	{memo X}Statue duration #{CaptionRatio} seconds#{nl}Use #{CaptionRatio2}# Ash wood
 SKILL_20150317_001517	$Out of Body
@@ -2313,8 +2313,8 @@ SKILL_20150317_002312	$Carve Owl: Maintain Numbers
 SKILL_20150317_002313	$Increases the numbers [Carve Owl] can maintain by 1 per attribute level.
 SKILL_20150317_002314	$Carve Owl: Flame
 SKILL_20150317_002315	$Enemies hit with [Carve Owl] have a 5% chance per attribute level of being afflicted with [Flame], taking 5% of your magic damage as damage for 5 seconds.
-SKILL_20150317_002316	{memo X}Carve Austras Koks: Pull
-SKILL_20150317_002317	{memo X}Pulls enemies within range of [Carve Austras Koks].
+SKILL_20150317_002316	{memo X}Carve World Tree: Pull
+SKILL_20150317_002317	{memo X}Pulls enemies within range of [Carve World Tree].
 SKILL_20150317_002318	$Dievdirbys: Plant-type Damage
 SKILL_20150317_002319	{memo X}[Blunt object] do 10% extra damage per attribute level to plant type monsters.
 SKILL_20150317_002320	$Statue of Goddess Zemyna: Duration
@@ -3094,8 +3094,8 @@ SKILL_20150323_003093	{memo X}Equip virtual weapon
 SKILL_20150323_003094	{memo X}Repair Armor
 SKILL_20150323_003095	$Your Companion growls fearfully. Nearby monsters may fall under Fear.
 SKILL_20150323_003096	Elementalist: Resist
-SKILL_20150323_003097	{memo X}Carve Austras Koks: Pull
-SKILL_20150323_003098	{memo X}Pull enemies within range of [Carve Austras Koks]
+SKILL_20150323_003097	{memo X}Carve World Tree: Pull
+SKILL_20150323_003098	{memo X}Pull enemies within range of [Carve World Tree]
 SKILL_20150323_003099	Resist Elements: Resistance
 SKILL_20150323_003100	{memo X}$Increases the Fire, Ice and Lightning properties while decreasing the Poison and Earth properties when using [Resist Elements] by 5 per attribute level respectively. 
 SKILL_20150323_003101	$Enhanced the damage of [Meteor] to Elementalist's 2nd Circle standards.
@@ -4533,7 +4533,7 @@ SKILL_20150714_004532	$Increases the damage dealt on an enemy with [Teardown] by
 SKILL_20150714_004533	$Increases the duration of [Scatter Caltrops] by 1 second per attribute level.
 SKILL_20150714_004534	$There is a 8% chance per attribute level to  be afflicted with [Bleeding] when stepping on a caltrop.
 SKILL_20150714_004535	$Teardown: Teardown Statue
-SKILL_20150714_004536	$Allows you to dismantle Dievdirbys' Carve Austras Koks with [Teardown].
+SKILL_20150714_004536	$Allows you to dismantle Dievdirbys' Carve World Tree with [Teardown].
 SKILL_20150714_004537	$Increases the damage dealt on an enemy with [Broom Trap] by 1% per attribute level.
 SKILL_20150714_004538	$Increases the damage dealt on an enemy with [Claymore] by 1% per attribute level.
 SKILL_20150714_004539	$Increases the damage dealt on an enemy with [Punji Stake] by 1% per attribute level.
@@ -4779,8 +4779,8 @@ SKILL_20150717_004778	{memo X}Defense and Attack increase effect of [Swell Right
 SKILL_20150717_004779	{memo X}Intelligence increase effect of [Swell Brain] increases by 1 per attribute level.
 SKILL_20150717_004780	Enemies affected by [Swell Body] will have their movement speed decreased by 25% and physical and magical attack increased by 20% per attribute level.
 SKILL_20150717_004781	Enemies affected by [Shrink Body] will have their movement speed increased by 20% and physical and magical attack decreased by 25% per attribute level.
-SKILL_20150717_004782	$Deals damage equal to 20% magic attack when changing your size with [Swell Body] per attribute level.
-SKILL_20150717_004783	$Deals damage equal to 20% magic attack when changing your size with [Shrink Body] per attribute level.
+SKILL_20150717_004782	$Deals damage equal to 20% magic attack when changing the enemy's size with [Swell Body] per attribute level.
+SKILL_20150717_004783	$Deals damage equal to 20% magic attack when changing the enemy's size with [Shrink Body] per attribute level.
 SKILL_20150717_004784	When you attack an enemy affected by [Swell Body] while [Left Arm Enhancement] is active, it will continuously apply the [Attacked Weakened] status effect. Increases the duration by 8 seconds per attribute level and [Attacked Weakened] can stack up to 10 times.
 SKILL_20150717_004785	$When enemies are hit by [Hail], inflict [Freezing] for 5 seconds by 5% chance per attribute level.
 SKILL_20150717_004786	$Increases Evasion while charging [Meteor] by 10% per attribute level.
@@ -5044,7 +5044,7 @@ SKILL_20150918_005043	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use the spike 
 SKILL_20150918_005044	$Sky Liner
 SKILL_20150918_005045	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Slash the enemy sideways.{nl}Inflicts additional damage on enemies affected by [Bleeding].
 SKILL_20150918_005046	$Crosscut
-SKILL_20150918_005047	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Afflicts [Bleeding] on enemies by charging towards to cut a cross on their body.
+SKILL_20150918_005047	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Charge towards the enemy and cut a cross on their body, inflicting [Bleeding].
 SKILL_20150918_005048	$Vertical Slash
 SKILL_20150918_005049	{memo X}{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Decreases the defense for medium, big enemies for a while by smaking down.
 SKILL_20150918_005050	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Attack an enemy by throwing your spear. Your spear will stick into the ground where it was thrown, and your physical attack will be decreased based on the equipment's upgrade count until you pick it up. It automatically returns to you after a certain time.
@@ -5476,8 +5476,8 @@ SKILL_20151022_005475	$Increases the damage dealt on an enemy with [Siege Burst]
 SKILL_20151022_005476	$Cannon Blast: Enhance
 SKILL_20151022_005477	$Increases the damage dealt on an enemy with [Cannon Blast] by 1% per attribute level.
 SKILL_20151022_005478	$Increases the attack count of [Blessing] by 10 per attribute level.
-SKILL_20151022_005479	$Carve Austras Koks: Maintain
-SKILL_20151022_005480	$Decreases the range of [Carve Austras Koks], but increases its duration by 10 seconds.
+SKILL_20151022_005479	$Carve World Tree: Maintain
+SKILL_20151022_005480	$Decreases the range of [Carve World Tree], but increases its duration by 10 seconds.
 SKILL_20151022_005481	$Carve Goddess Ausrine: Cooldown Decrease
 SKILL_20151022_005482	$Decreases the cooldown of [Carve Goddess Ausrine] by 10 seconds.
 SKILL_20151022_005483	Decreases the enemy's physical defense by 30% with a chance of 10% per attribute level when using a basic attack during Out of Body. (Unable to turn ON/OFF during Out of Body.)
