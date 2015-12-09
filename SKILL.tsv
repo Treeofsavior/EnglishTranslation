@@ -4713,7 +4713,7 @@ SKILL_20150717_004712	$Movement Speed: +#{CaptionRatio}#{nl}Duration: #{CaptionT
 SKILL_20150717_004713	{memo X}Your attack hits target but chance of critical and critical evasion decreases.
 SKILL_20150717_004714	{memo X}Critical Chance -#{CaptionRatio}#%{nl}Critical Resistance -#{CaptionRatio}#%{nl}Duration #{CaptionTime}# seconds
 SKILL_20150717_004715	$Shout a warcry that causes your enemies to panic and drop their defense, bolstering your attack proportionally.
-SKILL_20150717_004716	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Trample down on an enemy while in the air or jumping. Increased attack is according to your jump height, your shoes' defense and your armor's evasion.
+SKILL_20150717_004716	${#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Trample down on an enemy while in the air or jumping. Increases attack according to the character's jump height and the boot's evasion.
 SKILL_20150717_004717	$Capture Time: #{CaptionRatio}# seconds
 SKILL_20150717_004718	$Attack: -#{CaptionRatio}#% {nl}Increased defense equal to the decreased attack{nl}Additonal Defense: #{CaptionRatio2}#%{nl}Consumes 1% SP per 2 seconds
 SKILL_20150717_004719	$Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Duration: #{CaptionRatio2}# seconds{nl}AoE Attack Ratio: #{SkillSR}#
@@ -5232,8 +5232,8 @@ SKILL_20150918_005231	$Enemies attacked with [Rush Dog] have a 10% chance to be 
 SKILL_20150918_005232	$Deals additional damage equal to 50% physical attack to the next used attacking skill during [Cloaking].
 SKILL_20150918_005233	$Cloaking: Movement Speed Increase
 SKILL_20150918_005234	$Increases the movement speed of [Cloaking] by 1 per attribute level.
-SKILL_20150918_005235	Paint : Back Roll
-SKILL_20150918_005236	[Paint] Increases the chance what enemies turn around by 15% per attribute level.
+SKILL_20150918_005235	Feint : Back Roll
+SKILL_20150918_005236	[Feint] Increases the chance what enemies turn around by 15% per attribute level.
 SKILL_20150918_005237	$Deals 10% additional damage to Plant-type monsters when equipped with a [Blunt] type weapon.
 SKILL_20150918_005238	$Deals damage equal to 50% of physical attack to enemies knocked into the air by [Smite], on landing. (This effect only activates when the attribute is ON)
 SKILL_20150918_005239	Conversion: Might Enhance
