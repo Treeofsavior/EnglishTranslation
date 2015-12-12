@@ -1,4 +1,4 @@
-﻿SKILL_20150317_000001	Attack
+SKILL_20150317_000001	Attack
 SKILL_20150317_000002	[Elite Kepa] 1 time, Physical, Poison Property, Strike
 SKILL_20150317_000003	[Rafflesia] Spread Poison
 SKILL_20150317_000004	[Rafflesia] Poison Bomb
@@ -4713,7 +4713,7 @@ SKILL_20150717_004712	$Movement Speed: +#{CaptionRatio}#{nl}Duration: #{CaptionT
 SKILL_20150717_004713	{memo X}Your attack hits target but chance of critical and critical evasion decreases.
 SKILL_20150717_004714	{memo X}Critical Chance -#{CaptionRatio}#%{nl}Critical Resistance -#{CaptionRatio}#%{nl}Duration #{CaptionTime}# seconds
 SKILL_20150717_004715	$Shout a warcry that causes your enemies to panic and drop their defense, bolstering your attack proportionally.
-SKILL_20150717_004716	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Trample down on an enemy while in the air or jumping. Increased attack is according to your jump height, your shoes' defense and your armor's evasion.
+SKILL_20150717_004716	${#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Trample down on an enemy while in the air or jumping. Increases attack according to the character's jump height and the boot's evasion.
 SKILL_20150717_004717	$Capture Time: #{CaptionRatio}# seconds
 SKILL_20150717_004718	$Attack: -#{CaptionRatio}#% {nl}Increased defense equal to the decreased attack{nl}Additonal Defense: #{CaptionRatio2}#%{nl}Consumes 1% SP per 2 seconds
 SKILL_20150717_004719	$Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Duration: #{CaptionRatio2}# seconds{nl}AoE Attack Ratio: #{SkillSR}#
@@ -5232,8 +5232,8 @@ SKILL_20150918_005231	$Enemies attacked with [Rush Dog] have a 10% chance to be 
 SKILL_20150918_005232	$Deals additional damage equal to 50% physical attack to the next used attacking skill during [Cloaking].
 SKILL_20150918_005233	$Cloaking: Movement Speed Increase
 SKILL_20150918_005234	$Increases the movement speed of [Cloaking] by 1 per attribute level.
-SKILL_20150918_005235	Paint : Back Roll
-SKILL_20150918_005236	[Paint] Increases the chance what enemies turn around by 15% per attribute level.
+SKILL_20150918_005235	Feint : Back Roll
+SKILL_20150918_005236	[Feint] Increases the chance what enemies turn around by 15% per attribute level.
 SKILL_20150918_005237	$Deals 10% additional damage to Plant-type monsters when equipped with a [Blunt] type weapon.
 SKILL_20150918_005238	$Deals damage equal to 50% of physical attack to enemies knocked into the air by [Smite], on landing. (This effect only activates when the attribute is ON)
 SKILL_20150918_005239	Conversion: Might Enhance
@@ -5367,7 +5367,7 @@ SKILL_20151022_005366	$Sept Etoiles
 SKILL_20151022_005367	${#DD5500}{ol}[Physical] - [Pierce]{/}{/}Stab an enemy with consecutive strikes.
 SKILL_20151022_005368	$Attaque Coquille
 SKILL_20151022_005369	{#DD5500}{ol}[Physical] - [Strike]{/}{/}Attack an enemy with the guard of your sword. The enemy's defense is ignored when attacked again with [Pierce] attacks.
-SKILL_20151022_005370	$Esquive Toucher	
+SKILL_20151022_005370	$Esquive Toucher
 SKILL_20151022_005371	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}Move swiftly to avoid enemy attacks and deliver complex consecutive attacks.
 SKILL_20151022_005372	$Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Evasion Rate: +#{CaptionRatio2}#%
 SKILL_20151022_005373	$Preparation
@@ -5556,7 +5556,7 @@ SKILL_20151102_005555	$Pandemic
 SKILL_20151102_005556	$Revenged Sevenfold
 SKILL_20151102_005557	$Nachash
 SKILL_20151102_005558	$Ein Sof
-SKILL_20151102_005559	$Merkaba
+SKILL_20151102_005559	$Merkabah
 SKILL_20151102_005560	$Gematria
 SKILL_20151102_005561	$Notarikon
 SKILL_20151102_005562	$Double Chance
@@ -5618,7 +5618,7 @@ SKILL_20151102_005617	$Creates a defense zone for 15 seconds where the spear is 
 SKILL_20151102_005618	$Creates an attack zone for 15 seconds where the spear is thrown. Increases physical attack and magical attack by 2% for party members within the zone.
 SKILL_20151102_005619	$Dragon Soar: Enhance
 SKILL_20151102_005620	$Increases the damage dealt on an enemy with [Dragon Soar] by 1% per attribute level.
-SKILL_20151102_005621	$Dragon Soar: Shock	
+SKILL_20151102_005621	$Dragon Soar: Shock
 SKILL_20151102_005622	$Afflicts [Shock] on enemies hit by [Dragon Soar] at a 5% chance per attribute level for 10 seconds.
 SKILL_20151102_005623	$Umbilical Cord: Nullify Increase
 SKILL_20151102_005624	$Increases the chance to nullify an enemy's attack while using [Umbilical Cord] by 2% per attribute level.
@@ -5666,7 +5666,7 @@ SKILL_20151102_005665	$Increases the summon time of [Bone Pointing] by 1 second 
 SKILL_20151102_005666	$Ngadhundi: Enhance
 SKILL_20151102_005667	$Increases the damage dealt on an enemy with [Ngadhundi] by 1% per attribute level.
 SKILL_20151102_005668	$Kurdaitcha: Enhance
-SKILL_20151102_005669	Increases the chance to hit with twice the normal damage to enemies hexed by [Kurdaitcha] (or any other methods) by 1% chance per attribute level. 
+SKILL_20151102_005669	$Increases the chance to hit with twice the normal damage to enemies hexed by [Kurdaitcha] (or any other methods) by 1% chance per attribute level. 
 SKILL_20151102_005670	$Levitation: Nullify Physical Damage
 SKILL_20151102_005671	$Increases the chance to nullify the enemy's physical attack while using [Levitation] by 1.5% per attribute level.
 SKILL_20151102_005672	$Featherfoot: Increased Recovery
@@ -5727,10 +5727,10 @@ SKILL_20151102_005726	$Ein Sof: Maintain Time
 SKILL_20151102_005727	$Increases the duration of [Ein Sof] tiles by 1 second per attribute level.
 SKILL_20151102_005728	$Ein Sof: Additional Generation
 SKILL_20151102_005729	$Increases the number of [Ein Sof] tiles created by 1 per attribute level.
-SKILL_20151102_005730	$Merkaba: Enhance
-SKILL_20151102_005731	$Increases the damage dealt on an enemy with [Merkaba] by 1% per attribute level.
-SKILL_20151102_005732	$Merkaba: Petrification
-SKILL_20151102_005733	$[Merkaba] petrifies [Cursed] enemies for 3 seconds.
+SKILL_20151102_005730	$Merkabah: Enhance
+SKILL_20151102_005731	$Increases the damage dealt on an enemy with [Merkabah] by 1% per attribute level.
+SKILL_20151102_005732	$Merkabah: Petrification
+SKILL_20151102_005733	$[Merkabah] petrifies [Cursed] enemies for 3 seconds.
 SKILL_20151102_005734	$Ein Sof: SP Recovery
 SKILL_20151102_005735	$Exchanges half the maximum HP recovery of [Ein Sof] for SP recovery instead.
-SKILL_20151102_005736	$$Lv. 3 Ein Sof required
+SKILL_20151102_005736	$Lv. 3 Ein Sof required
