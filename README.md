@@ -7,7 +7,7 @@ You may check the list of those who qualify for the Beta Keys [**HERE**](https:/
 
 Thank you and please continue to send us your support and interest for Tree of Savior.
 
-1. Latest translations have been updated based on KOBT. (**NEW**)
+1. UI.tsv file has been updated based on KOBT. (**NEW**)
 
 2. {memo X} have been updated to English files.
 
