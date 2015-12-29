@@ -17388,13 +17388,13 @@ ETC_20151102_017389	Namott Sculpture
 ETC_20151102_017390	[Wizard Submaster]{nl}Dejamis
 ETC_20151102_017391	[Pyromancer Submaster]{nl}Cathy Naimos
 ETC_20151102_017392	[Cryomancer Submaster]{nl}Octavia Iflynn
-ETC_20151102_017393	[Psychokino Master]{nl}Erie Tellid
+ETC_20151102_017393	[Psychokino Master]{nl}Ili Terid
 ETC_20151102_017394	[Linker Master]{nl}Winona Ende
-ETC_20151102_017395	[Thaumaturge Submaster]{nl}Timo Pallon
-ETC_20151102_017396	[Elementalist Master]{nl}Wican Celeste
-ETC_20151102_017397	[Archer Submaster]{nl}Gonison
-ETC_20151102_017398	[Ranger Submaster]{nl}Swiver
-ETC_20151102_017399	[Quarrel Shooter Submaster]{nl}Choris
+ETC_20151102_017395	[Thaumaturge Submaster]{nl}Diemer Fallon
+ETC_20151102_017396	[Elementalist Master]{nl}Wican Celestic
+ETC_20151102_017397	[Archer Submaster]{nl}Gunnison
+ETC_20151102_017398	[Ranger Submaster]{nl}Shepa
+ETC_20151102_017399	[Quarrel Shooter Submaster]{nl}Shorris
 ETC_20151102_017400	[Sapper Submaster]{nl}Zubin Katal
 ETC_20151102_017401	[Hunter Submaster]{nl}Belkin Vellon
 ETC_20151102_017402	[Wugushi Master]{nl}Wor Pat
@@ -18424,7 +18424,7 @@ ETC_20151224_018425
 ETC_20151224_018426
 ETC_20151224_018427
 ETC_20151224_018428
-ETC_20151224_018429	Lord of Delmore
+ETC_20151224_018429	Lord (Delmore)
 ETC_20151224_018430
 ETC_20151224_018431
 ETC_20151224_018432
@@ -18485,8 +18485,8 @@ ETC_20151224_018486	Alchemy Table2
 ETC_20151224_018487	Genra Monument
 ETC_20151224_018488	Sicarius Transport Magic Circle
 ETC_20151224_018489	Corrupted Urn
-ETC_20151224_018490	Establish guild
-ETC_20151224_018491	Purchase guild merchandises
+ETC_20151224_018490	Create Guild
+ETC_20151224_018491	Purchase Guild Merchandise
 ETC_20151224_018492	Ask about the scroll
 ETC_20151224_018493	Use Dragoon Attributes
 ETC_20151224_018494	Use Warlock Attributes
@@ -19584,26 +19584,26 @@ ETC_20151224_019585
 ETC_20151224_019586
 ETC_20151224_019587	Mining...
 ETC_20151224_019588	You cannot mine here.
-ETC_20151224_019589	Only guild members within guilds with the mining skill can mine.
+ETC_20151224_019589	Only guild members with the mining skill can mine.
 ETC_20151224_019590	Failed to mine ore.
 ETC_20151224_019591	Ore sites are all depleted
-ETC_20151224_019592	Current members online {Cur}/{Max}
-ETC_20151224_019593	Use the skill: {SkillName}?
-ETC_20151224_019594	The guild master has used the skill: {SkillName}. Adhere to the order?
+ETC_20151224_019592	Currently Online: {Cur}/{Max}
+ETC_20151224_019593	Do you want to use {SkillName}?
+ETC_20151224_019594	The Guild Master has used {SkillName}. Do you accept?
 ETC_20151224_019595	Guild Master
 ETC_20151224_019596	{PC} is already affiliated with another guild.
-ETC_20151224_019597	You must change to the {Name} class to establish a guild.
-ETC_20151224_019598	{Price} silver has been charged to establish the guild.
-ETC_20151224_019599	Guild cannot be dissolve during while at war
-ETC_20151224_019600	Crops can be grown, and companions can be raised.
-ETC_20151224_019601	War against the {GuildName} guild has started.
-ETC_20151224_019602	War against the {GuildName} guild has ended.
-ETC_20151224_019603	Unable to use the current roadmap 
-ETC_20151224_019604	Guild event area
-ETC_20151224_019605	Only usable when near a guild tower.
-ETC_20151224_019606	Remaining ticket : {Ticket}
+ETC_20151224_019597	You need to be a {Name} in order to create a guild.
+ETC_20151224_019598	{Price} silver has been charged to create the guild.
+ETC_20151224_019599	You cannot disband a guild while at war.
+ETC_20151224_019600	Crops can be grown and companions can be raised only in this field.
+ETC_20151224_019601	The war against the {GuildName} guild has begun.
+ETC_20151224_019602	The war against the {GuildName} guild has ended.
+ETC_20151224_019603	You cannot use the current map.
+ETC_20151224_019604	Guild Event Area
+ETC_20151224_019605	Can only be used nearby a Guild Tower.
+ETC_20151224_019606	Remaining Tickets : {Ticket}
 ETC_20151224_019607	Ticket
-ETC_20151224_019608	Select the character receiving the Egg of Rebirth
+ETC_20151224_019608	Select the character to receive the (Reincarnation Egg).
 ETC_20151224_019609	Withered plants. Unable to harvest them. Clear them out.
 ETC_20151224_019610	{Count} units of the following kind of building can be constructed.
 ETC_20151224_019611	Shield Charge
@@ -19611,36 +19611,36 @@ ETC_20151224_019612	You lack a shield.
 ETC_20151224_019613	A field boss will appear shortly.
 ETC_20151224_019614	Cannot purchase item registered to the same account.
 ETC_20151224_019615	Selling time has expired. Please check if you recieved your item.
-ETC_20151224_019616	Will register in market after {TIME}.
-ETC_20151224_019617	Will move to cabinet after {TIME}.
-ETC_20151224_019618	To register item, a minimum of {Price} silver is needed.
-ETC_20151224_019619	Registering the following item{nl}will reduce its potential by one.{nl} Do you accept?
+ETC_20151224_019616	Your item will be registered to the Market List after {TIME}.
+ETC_20151224_019617	Your item will be moved to the Cabinet after {TIME}.
+ETC_20151224_019618	A minimum of {Price} silver is required to register an item.
+ETC_20151224_019619	Registering the following item{nl}will reduce its potential by one.{nl} Would you like to buy/purchase?
 ETC_20151224_019620	Humanoid
-ETC_20151224_019621	Use {TP}TP to purchase {nl}Character/Companion Slot?
-ETC_20151224_019622	Use {TP}TP to change your Team Name?
-ETC_20151224_019623	Not enough Character/Companion Slot.{nl}
-ETC_20151224_019624	Use {TP}TP to change your Character Name?
-ETC_20151224_019625	Friend request acceptance has failed.
-ETC_20151224_019626	Friend request rejection has failed.
-ETC_20151224_019627	Your warehouse cannot expand any further.
-ETC_20151224_019628	Enhanced equipment and other high-quality gear is included. Proceed with action?
-ETC_20151224_019629	A playtime limit of {TimeStr} has been set for system shutdown.
-ETC_20151224_019630	Too much gaming may interfere with a normal daily life.
-ETC_20151224_019631	{Time} has passed since the game started.
-ETC_20151224_019632	Stop training the following Attribute? Spent Silver will not be refunded. 
-ETC_20151224_019633	Attribute has been stopped.
-ETC_20151224_019634	Not enough members. (%d/%d)
-ETC_20151224_019635	Invite sent. Please wait for a reply.
-ETC_20151224_019636	The name is too long, shorten it.
-ETC_20151224_019637	{Name} is requesting membership.
-ETC_20151224_019638	Request for membership?
+ETC_20151224_019621	{TP} TP will be used to purchase this Character/Companion Slot{nl}Would you like to buy/purchase?
+ETC_20151224_019622	Do you want to use {TP} TP to change your Team Name?
+ETC_20151224_019623	You do not have enough Character/Companion slots.{nl}
+ETC_20151224_019624	Do you want to use {TP} TP to change your Character Name?
+ETC_20151224_019625	You've failed to accept the friend request.
+ETC_20151224_019626	You've failed to decline the friend request.
+ETC_20151224_019627	You can no longer expand your storage.
+ETC_20151224_019628	Enhanced or advanced equipment is included. Do you want to proceed?
+ETC_20151224_019629	A play time limit of {TimeStr} has been set as part of the shutdown law.
+ETC_20151224_019630	Excessive gaming can negatively affect your health.
+ETC_20151224_019631	{Time} has passed since you started the game.
+ETC_20151224_019632	Are you sure you want to cancel learning this attribute? The spent silver will not be refunded.
+ETC_20151224_019633	Canceled learning the attribute.
+ETC_20151224_019634	There are not enough members. (%d/%d)
+ETC_20151224_019635	Invited. Please wait for a reply/response.
+ETC_20151224_019636	The name is too long or too short.
+ETC_20151224_019637	{Name} is requesting to join.
+ETC_20151224_019638	Would you like to join?
 ETC_20151224_019639	Could not find ClassType, Name, Tactics, SimpleAI, Dialog, Enter, Leave in the Search Results.
-ETC_20151224_019640	Hire a Helper?{nl}1 min TP cost{nl} {img medal 32 32} 
-ETC_20151224_019641	{s16}{Auto_1}{Auto_2} set effect : 
-ETC_20151224_019642	Change hairstyle?(TP 100 Required)
+ETC_20151224_019640	Would you like to hire a Helper?{nl}Consumes 1 TP per minute{nl} {img medal 32 32}
+ETC_20151224_019641	{s16}{Auto_1}{Auto_2} Set Effect : 
+ETC_20151224_019642	Would you like to change your hairstyle? (Requires 100 TP)
 ETC_20151224_019643	{@st59} When checked, quest objectives will appear on the right side of your screen. {nl}Up to 5 quest objectives can be displayed{/}
 ETC_20151224_019644	(TP{Auto_1} Consumed)
-ETC_20151224_019645	TP required.{nl} Would you like to initiate a purchase?
+ETC_20151224_019645	This requires TP.{nl}Are you sure you want to reset?
 ETC_20151224_019646	] shall be used?
 ETC_20151224_019647	
 ETC_20151224_019648	Insufficient TP...
@@ -19648,7 +19648,7 @@ ETC_20151224_019649	Insufficient TP
 ETC_20151224_019650	Obtained a usable flint detector.
 ETC_20151224_019651	The petite demon is doubtful of you.
 ETC_20151224_019652	
-ETC_20151224_019653	A friend is missing...
+ETC_20151224_019653	The friends have gone missing.
 ETC_20151224_019654	{Time} Day(s) : Selling Value {FREE}% Silver Consumption
 ETC_20151224_019655	About the goddesses
 ETC_20151224_019656	Ask about Orsha
@@ -19661,7 +19661,7 @@ ETC_20151224_019662	World Map
 ETC_20151224_019663	Record Video
 ETC_20151224_019664	UI mode : Single-Click
 ETC_20151224_019665	UI mode : Double-Click
-ETC_20151224_019666	UI mode : Fill
+ETC_20151224_019666	UI mode : Wheel Up
 ETC_20151224_019667	Target Info
 ETC_20151224_019668	Change Target
 ETC_20151224_019669	ESC Button
@@ -19684,9 +19684,9 @@ ETC_20151224_019685	D-pad Up
 ETC_20151224_019686	D-pad Down
 ETC_20151224_019687	D-pad Left
 ETC_20151224_019688	D-pad Right
-ETC_20151224_019689	TP Supply/Payment(Minus )(Trial Time: above item rules apply)
-ETC_20151224_019690	TP Supply/Payment(Minus )
-ETC_20151224_019691	EX2> WIZ:M/WAR:F (Wizard Male, Swordsman Female only Supply)
+ETC_20151224_019689	TP Payment/Delete(when minus)(above items rules apply when retry)
+ETC_20151224_019690	TP Payment/Delete(when minus)
+ETC_20151224_019691	EX2> WIZ:M/WAR:F (Male Wizard, Female Swordsman Only)
 ETC_20151224_019692	EX1> WIZ/WAR (Wizard, Swordsman only Supply)
 ETC_20151224_019693	Fetching Stat Usage Data...
 ETC_20151224_019694	Fetching Skill Usage data...
@@ -19695,15 +19695,15 @@ ETC_20151224_019696	Data Read-in was exceeded, thus request was canceled. {nl} P
 ETC_20151224_019697	Requested incorrect history information. {n} Please inquire management
 ETC_20151224_019698	Exceeded Market Goods Registration Count
 ETC_20151224_019699	Initialization Count
-ETC_20151224_019700	Use {TP} TP to purchase Character Slots?
-ETC_20151224_019701	TP Cost
-ETC_20151224_019702	Nexon PC Cafe
+ETC_20151224_019700	Would you like to use {TP} TP to purchase a character slot?
+ETC_20151224_019701	Charge TP
+ETC_20151224_019702	Nexon PC Internet Cafe
 ETC_20151224_019703	Market Sales Tax
 ETC_20151224_019704	Market Goods Registration Count Increase
 ETC_20151224_019705	Simultaneous Attribute Training Count Increase
 ETC_20151224_019706	The following feature cannot be used.
-ETC_20151224_019707	{Target} Character cannot trade.
-ETC_20151224_019708	Trading Available
+ETC_20151224_019707	You do not have the benefits to be able to trade with {Target}.
+ETC_20151224_019708	Trade/Buy-in Shop Available
 ETC_20151224_019709	EXP Increase from defeated monsters
 ETC_20151224_019710	Stamina Recovery Rate Increase
 ETC_20151224_019711	Market Goods Registration Count {COUNT} Increase
@@ -19714,14 +19714,14 @@ ETC_20151224_019715	Premium goodies have arrived in your Lodge.{nl}Please check 
 ETC_20151224_019716	 the item
 ETC_20151224_019717	Character
 ETC_20151224_019718	Server Team
-ETC_20151224_019719	This item will bind to you when purchased.{nl}Are you sure you want to purchase?
-ETC_20151224_019720	Are you sure you want to{nl}put the following item in the Market?
-ETC_20151224_019721	Following item(s) cannot be sold to NPCs
+ETC_20151224_019719	This item will be bound to you upon purchase.{nl}Are you sure you want to purchase?
+ETC_20151224_019720	Are you sure you want to{nl}add the following item to the Market?
+ETC_20151224_019721	This item cannot be sold to NPCs.
 ETC_20151224_019722	Stamina Recovery Rate 2x Increase
-ETC_20151224_019723	Free Admission Count have been met.Use {TP} TP to enter {INDUN}?{nl}You may only enter dungeons that are already activated without TP charge.
+ETC_20151224_019723	You've used up all of your free entry counts.{nl}Do you want to spend {TP} TP to enter {INDUN}?{nl}However, if you enter a dungeon that is already active, you will not consume TP.
 ETC_20151224_019724	Cannot change to an existing name.
-ETC_20151224_019725	Already activating Item {NAME}.
-ETC_20151224_019726	The blessings of the token have been fully applied to the character.
+ETC_20151224_019725	The {NAME} is already activated.
+ETC_20151224_019726	The benefits of this token have been applied to all your characters.
 ETC_20151224_019727	Arrange PC Logout
 ETC_20151224_019728	Mercenary Employment
 ETC_20151224_019729	TP Shop Purchase
@@ -19736,8 +19736,8 @@ ETC_20151224_019737	Lodge Skin Purchase
 ETC_20151224_019738	Change Team Name
 ETC_20151224_019739	Undo Skill
 ETC_20151224_019740	Team Slot Purchase
-ETC_20151224_019741	Admissions
-ETC_20151224_019742	Operations
+ETC_20151224_019741	Indun Entry
+ETC_20151224_019742	Operator
 ETC_20151224_019743	Management
 ETC_20151224_019744	Help
 ETC_20151224_019745	Companion
@@ -19788,26 +19788,26 @@ ETC_20151224_019789	Hairstyle16
 ETC_20151224_019790	Hairstyle17
 ETC_20151224_019791	Hairstyle18
 ETC_20151224_019792	[TP Merchant]{nl}   Leticia
-ETC_20151224_019793	[Templar Master]{nl}Knight-Commander Uska
+ETC_20151224_019793	[Templar Master]{nl}Knight Commander Uska
 ETC_20151224_019794	[Cryomancer Master]{nl}  Alistair Crowley
 ETC_20151224_019795	[Blacksmith]{nl}   Ilannye
 ETC_20151224_019796	[Equipment Merchant]{nl}      Jura
-ETC_20151224_019797	  [Her Majesty]{nl}    Inessa Hamedale
+ETC_20151224_019797	  [Lord of Orsha]{nl}    Inesa Hamondale
 ETC_20151224_019798	[Orsha Bishop]{nl}        Urbonas
 ETC_20151224_019799	[Item Merchant]{nl}        Alf
-ETC_20151224_019800	[Accessory Merchant]{nl}        Yurus
+ETC_20151224_019800	[Accessory Merchant]{nl}        Jurus
 ETC_20151224_019801	[Hoplite Master]{nl}        Aidas Valor
 ETC_20151224_019802	[Paladin Submaster]{nl}        Silvia Naimon
 ETC_20151224_019803	[Wizard Submaster]{nl}          Dejamis
 ETC_20151224_019804	[Pyromancer Submaster]{nl}        Cathy Naimos
 ETC_20151224_019805	[Cryomancer Submaster]{nl}       Octavia Ifflyn
-ETC_20151224_019806	[Psychokino Master]{nl}       Erie Tellid
+ETC_20151224_019806	[Psychokino Master]{nl}       Ili Terid
 ETC_20151224_019807	[Linker Master]{nl}    Winona Ende
-ETC_20151224_019808	[Thaumaturge Submaster]{nl}          Tim Fallon
-ETC_20151224_019809	[Elementalist Master]{nl}         Wican Celeste
-ETC_20151224_019810	[Archer Submaster]{nl}         Gonison
-ETC_20151224_019811	[Ranger Submaster]{nl}            Swiver
-ETC_20151224_019812	[Quarrel Shooter Submaster]{nl}            Choris
+ETC_20151224_019808	[Thaumaturge Submaster]{nl}          Diemer Fallon
+ETC_20151224_019809	[Elementalist Master]{nl}         Wican Celestic
+ETC_20151224_019810	[Archer Submaster]{nl}         Gunnison
+ETC_20151224_019811	[Ranger Submaster]{nl}            Shepa
+ETC_20151224_019812	[Quarrel Shooter Submaster]{nl}            Shorris
 ETC_20151224_019813	[Sapper Submaster]{nl}     Zubin Katal
 ETC_20151224_019814	[Hunter Submaster]{nl}       Belkin Vellon
 ETC_20151224_019815	[Wugushi Master]{nl}          Wor Pat
@@ -19817,7 +19817,7 @@ ETC_20151224_019818	[Market Manager]{nl}     Tilliana
 ETC_20151224_019819	[Storage Keeper]{nl}      Aisa
 ETC_20151224_019820	[Magical Association Klaipeda Branch]{nl}           Florianna
 ETC_20151224_019821	[Wings of Vibora]{nl}            Rosia
-ETC_20151224_019822	Nobaha Relic
+ETC_20151224_019822	Novaha Relic
 ETC_20151224_019823
 ETC_20151224_019824
 ETC_20151224_019825
