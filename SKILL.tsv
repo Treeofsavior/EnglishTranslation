@@ -3823,7 +3823,7 @@ SKILL_20150414_003822	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Throw a traini
 SKILL_20150414_003823	{memo X}Hand and Shoot
 SKILL_20150414_003824	$Have your hawk carry you. While being carried, you can inflict damage to enemies below using your basic attacks without being harmed.
 SKILL_20150414_003825	{memo X}${#993399}{ol}[Magic] - [Holy]{/}{/}{nl}Creates a magic circle that recovers HP or inflicts damage to enemies. Does not apply to airborne enemies.
-SKILL_20150414_003826	${#993399}{ol}[Magic] - [Holy]{/}{/}{nl}Creates a magic circle that removes a Lv1 abnormal status from allies or inflicts damage to enemies. Does not apply to airborne enemies.
+SKILL_20150414_003826	${#993399}{ol}[Magic] - [Holy]{/}{/}{nl}Creates a magic circle that removes a Lv1 status ailments from allies or inflicts damage to enemies. Does not apply to airborne enemies.
 SKILL_20150414_003827	$Creates a magic circle that decreases the defense of enemies over time. 
 SKILL_20150414_003828	{memo X}$Creates a magic circle that increases the skill level of allies once.
 SKILL_20150414_003829	{memo X}$Summon a holy torch to improve the HP recovery rate of nearby allies.
@@ -5146,13 +5146,13 @@ SKILL_20150918_005145	Grown grass protects you and your party. It casts in the p
 SKILL_20150918_005146	Grass temporarily grows on the targeted area. Monsters within the targeted area become Plant-type monsters.
 SKILL_20150918_005147	$Maximum SP: +#{CaptionRatio}#%{nl}Maximum STA: +#{CaptionRatio2}#{nl}Duration: #{CaptionTime}# minutes
 SKILL_20150918_005148	$Prophecy
-SKILL_20150918_005149	$Grants a temporary effect preventing Lv. 1 abnormal status effects to nearby party members.
+SKILL_20150918_005149	$Grants a temporary effect preventing Lv. 1 status ailment effects to nearby party members.
 SKILL_20150918_005150	$Duration: #{CaptionTime}# seconds{nl}Applies #{CaptionRatio}# times
 SKILL_20150918_005151	$Increased STR stat.
 SKILL_20150918_005152	$Increased Movement Speed and maximum HP.
 SKILL_20150918_005153	$Bwa Kayiman state.
 SKILL_20150918_005154	$Applies one new deadly poison to your weapon for the next attack.
-SKILL_20150918_005155	$Immune to Lv. 1 abnormal status
+SKILL_20150918_005155	$Immune to Lv. 1 status ailments
 SKILL_20150918_005156	$Increased Magic Defense.
 SKILL_20150918_005157	Shield Bash-Mix stat
 SKILL_20150918_005158	Vulnerable to Pierce attacks
@@ -5572,7 +5572,7 @@ SKILL_20151102_005571	$Reflects an enemy's attack.
 SKILL_20151102_005572	$Fumigate: Purification
 SKILL_20151102_005573	$Increased Poison property resistance.
 SKILL_20151102_005574	$Fumigate: Prevention
-SKILL_20151102_005575	$Increased resistance chance of Lv3 abnormal status
+SKILL_20151102_005575	$Increased resistance chance of Lv3 status ailments
 SKILL_20151102_005576	$Decreased Physical Defense
 SKILL_20151102_005577	$Decreased physical defense.
 SKILL_20151102_005578	$Decreased Magic Defense
@@ -5707,10 +5707,10 @@ SKILL_20151102_005706	$Bloodletting: Hemostasis
 SKILL_20151102_005707	$Increases the cycle time of the HP cost by 0.2 seconds per attribute level while [Bloodletting] is in effect.
 SKILL_20151102_005708	$Bloodletting: Substitute SP
 SKILL_20151102_005709	$While [Bloodletting] is in effect, each tick has a 10% chance per attribute level to reduce SP instead of HP.
-SKILL_20151102_005710	$Increases the chance that [Fumigate] blocks Lv3 or weaker abnormal statuses for 10 seconds by 5% per attribute level.
+SKILL_20151102_005710	$Increases the chance that [Fumigate] blocks Lv3 or weaker status ailments for 10 seconds by 5% per attribute level.
 SKILL_20151102_005711	$The area of [Fumigate] skill gains a purification effect for 10 seconds. Allies standing within this area gains 10% resistance against Poison property.
 SKILL_20151102_005712	$Bird Beak Mask: Immunity
-SKILL_20151102_005713	$Increases the chance to block Lv3 abnormal statuses by 5% per attribute level, but also increases the SP cost whilst wearing the [Bird Beak Mask].
+SKILL_20151102_005713	$Increases the chance to block Lv3 status ailments by 5% per attribute level, but also increases the SP cost whilst wearing the [Bird Beak Mask].
 SKILL_20151102_005714	$Bird Beak Mask: Poison Resistance
 SKILL_20151102_005715	$Increases the Poison property resistance by 5 per attribute level whilst wearing the [Bird Beak Mask].
 SKILL_20151102_005716	$Revenged Sevenfold: Duration
