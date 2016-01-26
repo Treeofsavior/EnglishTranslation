@@ -3165,7 +3165,7 @@ SKILL_20151224_005752	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Damage the enem
 SKILL_20151224_005753	Attack enemies in the area nearby by exploding the gunpowder you have. Using this technique will also damage you and might cause incapability of combat if your HP is too low.
 SKILL_20151224_005754	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Consumes #{CaptionRatio2}# HP{nl} Bunshin no Jutsu x5
 SKILL_20151224_005755	Creates clones of yourself. The clones will act along as a main body and skills can be used along with your clones. The HP of your clones is determined by your DEX.
-SKILL_20151224_005756	Duration #{CaptionRatio}# seconds{nl} Summon #{CaptionRatio2}# Shadow Clones{nl}Increases #{CaptionTime}# damage
+SKILL_20151224_005756	Duration: #{CaptionRatio}# seconds{nl}Summons #{CaptionRatio2}# Shadow Clones{nl}Damage Increase: #{CaptionTime}#x
 SKILL_20151224_005757	Counter-attack by tricking the enemy with a fake doll created from a log.
 SKILL_20151224_005758	Attack multiple enemies by continuously exploding the gunpowder you possess.
 SKILL_20151224_005759	Attack #{SkillAtkAdd}#{nl}Attribute Damage #{CaptionRatio}#%{nl}Use Bunshin no Jutsu x2
@@ -3235,7 +3235,7 @@ SKILL_20151224_005822	Ice Rune
 SKILL_20151224_005823	{#993399}{ol}[Magic]{/}{/}Temporarily increases the Ice-type magic of you and your party members, making it more powerful.
 SKILL_20151224_005824	Duration: #{CaptionTime}# seconds{nl}Increases the Ice Property skill attacks by 300%
 SKILL_20151224_005825	Giant Rune
-SKILL_20151224_005826	{#993399}{ol}[Magic]{/}{/}Creates a magic circle that temporarily changes you or your party member to a giant. Giant players are considered a large-type, but increases attack and defense.
+SKILL_20151224_005826	{#993399}{ol}[Magic]{/}{/}Creates a magic circle that temporarily changes you or your party member to a giant. Giant players are considered a large-type, but will have their attack and defense increased.
 SKILL_20151224_005827	Duration: #{CaptionTime}# seconds{nl}Attack: +#{CaptionRatio}#{nl}Defense: +#{CaptionRatio2}#
 SKILL_20151224_005828	Justice Rune
 SKILL_20151224_005829	{#993399}{ol}[Magic]{/}{/}Attacks enemies up front using the Holy Property.
@@ -3257,7 +3257,7 @@ SKILL_20151224_005844	Companion Attack: +#{CaptionRatio}#{nl}Companion Accuracy:
 SKILL_20151224_005845	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}The companion bites and drags the enemy towards their owner.
 SKILL_20151224_005846	Detects hidden enemies #{CaptionRatio}# times{nl}Hounding AI Duration: 90 seconds
 SKILL_20151224_005847	Detoxifies a poisoned ally. If the poison is of a higher rank than the antidote, the duration will be reduced instead.
-SKILL_20151224_005848	{#339999}{ol}[Confusion]{/}{/} Duration: 10 seconds {nl}Max #{CaptionRatio}# applied{nl}Consumes #{SpendPoison}# Poison Pots
+SKILL_20151224_005848	{#339999}{ol}[Confusion]{/}{/} Duration: 10 seconds{nl}Applies a maximum of #{CaptionRatio}# times{nl}Consumes #{SpendPoison}# Poison Pots
 SKILL_20151224_005849	{#DD5500}{ol}[Physical] - [Poison]{/}{/}{nl}Create a poison puddle by throwing a pot filled with poison. Any enemies who come into contact with the puddle is poisoned.
 SKILL_20151224_005850	{#DD5500}{ol}[Physical] - [Poison]{/}{/}{nl}Throw Jincan to attack enemies. Defeated enemies are replaced with a newly born poison insect.
 SKILL_20151224_005851	Block Count: #{CaptionRatio}#{nl}Movement Speed: -#{CaptionRatio2}#
