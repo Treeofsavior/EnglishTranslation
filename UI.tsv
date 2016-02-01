@@ -326,7 +326,7 @@ UI_20150317_000325	Spell Power
 UI_20150317_000326	Defense
 UI_20150317_000327	Magic Resistance
 UI_20150317_000328	Critical Attack Rate
-UI_20150317_000329	${@st43}Socket{/}
+UI_20150317_000329	{@st43}Socket{/}
 UI_20150317_000330	{@st59}Close{/}
 UI_20150317_000331	Please insert your items
 UI_20150317_000332	Potential
@@ -457,7 +457,7 @@ UI_20150317_000456	{@st41b}Enabled
 UI_20150317_000457	{@st41b}Disabled
 UI_20150317_000458	{@st41b}Create Party
 UI_20150317_000459	{@st43}Public Party List {/}
-UI_20150317_000460	${@st59b}Public Party List{nl}{@st59s} - Search for a party you want to join by viewing the open parties in your server {nl} - Use the search option to find a party you want to join{/}
+UI_20150317_000460	{@st59b}Public Party List{nl}{@st59s} - Search for a party you want to join by viewing the open parties in your server {nl} - Use the search option to find a party you want to join{/}
 UI_20150317_000461	{@st59}Close Party List{/}
 UI_20150317_000462	Use Search
 UI_20150317_000463	Quest Sharing
@@ -516,10 +516,10 @@ UI_20150317_000515	{@st41}Delete All
 UI_20150317_000516	{@st42}Pension target {@stx1}(%s required){/}
 UI_20150317_000517	{@st41}Combine
 UI_20150317_000518	{@st43}Quest{/}
-UI_20150317_000519	${@st59b}Quests{nl}{@st59s} - When you are on a new quest, it will be added to the quest tracker. {nl} - A main quest is displayed in yellow color, while a subquest is displayed in blue. {nl} - The arrow on the character's foot leads to the location of your quest. {nl} - If you completed a quest, a 'Return' icon is displayed on the quest tracker. {nl}    (Teleports you to the Quest NPC using the Backspace key or a mouse-click) {nl} - Add or remove quests in the quest tracker by ticking or unticking the box in front of the quest name. {/}
+UI_20150317_000519	{@st59b}Quests{nl}{@st59s} - When you are on a new quest, it will be added to the quest tracker. {nl} - A main quest is displayed in yellow color, while a subquest is displayed in blue. {nl} - The arrow on the character's foot leads to the location of your quest. {nl} - If you completed a quest, a 'Return' icon is displayed on the quest tracker. {nl}    (Teleports you to the Quest NPC using the Backspace key or a mouse-click) {nl} - Add or remove quests in the quest tracker by ticking or unticking the box in front of the quest name. {/}
 UI_20150317_000520	{@st41b}In Progress{/}
 UI_20150317_000521	{@st41b}Abandoned{/}
-UI_20150317_000522	${@st43}{s22}Quest Information{/}
+UI_20150317_000522	{@st43}{s22}Quest Information{/}
 UI_20150317_000523	Mission Complete
 UI_20150317_000524	{@st41}Complete{/}
 UI_20150317_000525	Mission Progress Info
@@ -618,7 +618,7 @@ UI_20150317_000617	You cannot obtain the item because your inventory is full{nl}
 UI_20150317_000618	{@st44}Set Item acquired!{/}
 UI_20150317_000619	Please select an item
 UI_20150317_000620	{@st59b} shop {nl} {@st59s} - Right-click and input the quantity to purchase multiple {nl} - Double right-click to sell the entire stack of item {/}
-UI_20150317_000621	{@st59}Close Shop{/}
+UI_20150317_000621	{@st59}Close{/}
 UI_20150317_000622	{@st59}First Page{/}
 UI_20150317_000623	{@st59}Next Page{/}
 UI_20150317_000624	{@st59}Last Page{/}
@@ -725,7 +725,7 @@ UI_20150317_000724	{@st43}Stat{/}
 UI_20150317_000725	systemmenu_vertical tentative removal
 UI_20150317_000726	{@st59}Character Information (F1){/}
 UI_20150317_000727	{@st59}Inventory (F2){/}
-UI_20150317_000728	${@st59}Classes & Skills (F3){/}
+UI_20150317_000728	{@st59}Classes & Skills (F3){/}
 UI_20150317_000729	{@st59}Adventure Journal (F4){/}
 UI_20150317_000730	{@st59}Quest (F5){/}
 UI_20150317_000731	{@st59}Party (F6){/}
@@ -735,7 +735,7 @@ UI_20150317_000734	{@st59}Companion (F9) {/}
 UI_20150317_000735	{@st59}Help (F10) {/}
 UI_20150317_000736	{@st59}System Menu (Esc){/}
 UI_20150317_000737	{@st59}Necronomicon{/}
-UI_20150317_000738	Help(F1)
+UI_20150317_000738	Help (F1)
 UI_20150317_000739	Contents
 UI_20150317_000740	View Details
 UI_20150317_000741	{@st43}Game Settings{/}
@@ -753,8 +753,8 @@ UI_20150317_000752	{@st41b}Sound Effects Volume (%s){/}
 UI_20150317_000753	{@st41b}BGM Volume (%s){/}
 UI_20150317_000754	{@st41b}Volume (%s){/}
 UI_20150317_000755	{@st43}{b}Select Language{/}
-UI_20150317_000756	{@st59}Close Settings{/}
-UI_20150317_000757	Min.requirement Mode {@st41b} {/}
+UI_20150317_000756	{@st59}Close{/}
+UI_20150317_000757	{@st41b}Min.requirement Mode {/}
 UI_20150317_000758	{@st41b}View{/}
 UI_20150317_000759	{@st59}Credits{/}
 UI_20150317_000760	Target buff window
@@ -991,7 +991,7 @@ UI_20150317_000990	{@st59}Cleric{/}
 UI_20150317_000991	{@St41b}Visit Barrack {/}
 UI_20150317_000992	{@St59}Visit the Barrack of another player.{/}
 UI_20150317_000993	{@St41b}Logout{/}
-UI_20150317_000994	{@St59}Move to the Login screen{/}
+UI_20150317_000994	{@St59}Move to the login screen{/}
 UI_20150317_000995	{@St41b}Exit Game{/}
 UI_20150317_000996	{@St59}Exit Tree of Savior{/}
 UI_20150317_000997	{@st41b}Select Channel{/}
@@ -1140,7 +1140,7 @@ UI_20150317_001139	Lv and above
 UI_20150317_001140	Everyone can equip
 UI_20150317_001141	Maximum Sockets : ×%s
 UI_20150317_001142	Item Name
-UI_20150317_001143	Shop Sell Value : %s silver
+UI_20150317_001143	Sell Value : %s silver
 UI_20150317_001144	How much
 UI_20150317_001145	{@St42b}Full Exploration Rate of Siauliai{/}
 UI_20150317_001146	{@St42b}West Forest Area Explored{/}
@@ -1333,7 +1333,7 @@ UI_20150323_001332	{@st59}Close UI{/}
 UI_20150323_001333	{@st41b}Repair{/}
 UI_20150323_001334	{@st41b}Log{/}
 UI_20150323_001335	Price to receive
-UI_20150323_001336	${@st59}Place a gem{/}
+UI_20150323_001336	{@st59}Place a gem{/}
 UI_20150323_001337	Consumable Material
 UI_20150323_001338	Amount Left
 UI_20150323_001339	{@st42}Close
@@ -1474,7 +1474,7 @@ UI_20150406_001473	{@st41b}Available Items{/}
 UI_20150406_001474	{@st41b}Total Sales
 UI_20150406_001475	{@st41b}Sell
 UI_20150406_001476	{@st59}Sell the item(s) you've added.{/}
-UI_20150406_001477	{@st59}Close Personal Storage{/}
+UI_20150406_001477	{@st59}Close{/}
 UI_20150406_001478	{@st41b} %s silver is consumed when storing and taking items from storage.{/}
 UI_20150406_001479	{@st41b}Quantity
 UI_20150414_001480	{@st42b}The duration of your camp can be increased.{nl} Cost: %s silver.
@@ -1723,7 +1723,7 @@ UI_20150717_001722	{@st66b}Quest Class Name{/}
 UI_20150717_001723	{@st59b}Shop{nl}{@st59s} - Use Shift + Right-click and enter a quantity to buy/sell multiple items{nl} - Right-click twice to sell all the items{/}
 UI_20150717_001724	{@st59}Mouse Info{/}
 UI_20150717_001725	{@st66b}Sort
-UI_20150717_001726	{@st59}Sorts your items.{/}
+UI_20150717_001726	{@st59}Sort items in your storage{/}
 UI_20150717_001727	{@st59}Equip weapons to this slot{nl}Press Alt+Z to swap weapons{/}
 UI_20150717_001728	Spectate another character
 UI_20150717_001729	{@st41}Battle Field
@@ -1738,7 +1738,7 @@ UI_20150729_001737	{@st43}Gem Roasting{/}
 UI_20150729_001738	{@st59b}Item Crafting{nl}{@st59s} - An item can be crafted by using a recipe.{nl} - Place the recipe and required materials in the slot to begin crafting an item. {nl} - You can attach a unique name and memo to the item.{/}
 UI_20150729_001739	{@st59}Close Arrow Crafting{/}
 UI_20150729_001740	Fragments needed : Mutant %s / Beast %s / Plant %s
-UI_20150729_001741	${@st42b}         Swordsman classes can sprint by                        double-tapping a directional key{/}
+UI_20150729_001741	{@st42b}         Swordsman classes can sprint by                        double-tapping a directional key{/}
 UI_20150729_001742	{@st41}Party Settings
 UI_20150729_001743	{@st41}Party Recruit Settings
 UI_20150729_001744	{@st42}Search for Party Members{/}
@@ -1751,10 +1751,10 @@ UI_20150729_001750	{#000000}{s22}Server Queue
 UI_20150729_001751	{#000000}{s22}The server is currently full. Queueing for entry.
 UI_20150729_001752	{#000000}{s22}Current Position : %s
 UI_20150729_001753	{@st43}Team Battle League
-UI_20150729_001754	{@st59}Close Team Battle League
+UI_20150729_001754	{@st59}Close
 UI_20150729_001755	{@st42}Team Battle League Schedule
 UI_20150729_001756	{@st43}Team Battle League Rankings
-UI_20150729_001757	{@st59}Close Team Battle League Rankings
+UI_20150729_001757	{@st59}Close Team
 UI_20150729_001758	Team Name
 UI_20150729_001759	{@st41b}Skill Name
 UI_20150729_001760	{@st59}Accept Party Mission{/}
@@ -1764,7 +1764,7 @@ UI_20150729_001763	Join Team Battle League
 UI_20150730_001764	{@st56}My Rank
 UI_20150730_001765	{@st56}Kill Rank
 UI_20150730_001766	{@st56}Damage Rank
-UI_20150803_001767	General: /s chat{nl}Shout: /y chat {nl}Party: /p chat{nl} Whisper: /w TeamName Chat
+UI_20150803_001767	General: /s chat{nl}Shout: /y chat {nl}Party: /p chat{nl} Whisper: /w TeamName chat
 UI_20150803_001768	{@st66b}Controller Vibration{/}
 UI_20150803_001769	A match has been found. Please wait until you can join the game.
 UI_20150804_001770	{@st43}{s18}Pick the character to receive the item.{/}
@@ -1917,9 +1917,9 @@ UI_20151224_001916	{@st65}Highest First{/}
 UI_20151224_001917	{@st45tw2}Amount{/}
 UI_20151224_001918	{@st45tw2}Time until Retrieval{/}
 UI_20151224_001919	{@st66b}Time Sold and Commission Fee{/}
-UI_20151224_001920	{@st66}With exception of Tokens, you can retrieve your silver from sold items after 48 hours.{/}
+UI_20151224_001920	{@st66}With exception of Tokens,{nl}you can retrieve your silver from sold items after 48 hours.{/}
 UI_20151224_001921	{@st45tw2}Deadline{/}
-UI_20151224_001922	{@st45tw2}Commission Fee when completes the sale{/}
+UI_20151224_001922	{@st45tw2}Commission Fee{/}
 UI_20151224_001923	{@st45tw2}Total Price{/}
 UI_20151224_001924	Upper Limit Price{/}
 UI_20151224_001925	Lower Limit Price{/}
@@ -1947,10 +1947,10 @@ UI_20151224_001946	{@st66b}Recommended Player List{/}
 UI_20151224_001947	Life
 UI_20151224_001948	{@st43}Messages Box
 UI_20151224_001949	{@st66b}ALL
-UI_20151224_001950	{@st66b}Unread Messages
+UI_20151224_001950	{@st66b}Unread
 UI_20151224_001951	{@st59b}Quests{nl}{@st59s} - When you are on a new quest, it will be added to the quests window.{nl} - A main quest is displayed in yellow color, while a subquest is displayed in blue.{nl} - The arrow on your character's foot leads to the location of your quest{nl} - A 'Return' icon is displayed in the quests window when a quest is completed{nl}  (Teleports you to the Quest NPC using the Backspace key or a mouse-click){nl} - Add or remove quests in the quests window by ticking or unticking the box in front of the quest name{/}
 UI_20151224_001952	{@st66b}  In Progress  {/}
-UI_20151224_001953	{@st66b}  Abandon  {/}
+UI_20151224_001953	{@st66b}  Abandoned  {/}
 UI_20151224_001954	{@st66b}Resurrect with the Soul Crystal{/}
 UI_20151224_001955	{@st59b}Shop{nl}{@st59s} - Use Shift + Right-click to enter a quantity to sell/buy multiple items{nl} - Right-click twice to sell all the items{/}
 UI_20151224_001956	Crafting Number
@@ -1972,7 +1972,7 @@ UI_20151224_001971	{@st59}Close{/}
 UI_20151224_001972	{@st43}{s18}Preview & Purchase
 UI_20151224_001973	Preview
 UI_20151224_001974	Equippable Items TP
-UI_20151224_001975	{@st49}Purchase Equipped{/}
+UI_20151224_001975	{@st49}Buy Equipped Item{/}
 UI_20151224_001976	Shopping Bag
 UI_20151224_001977	Available TP
 UI_20151224_001978	Shopping Bag TP
@@ -1995,7 +1995,7 @@ UI_20151224_001994	{@st59}Close{/}
 UI_20151224_001995	{@st43}Lodge Decoration{/}
 UI_20151224_001996	{@st41b}Lodge Visitation{/}
 UI_20151224_001997	{@st59}Visit the lodges of other players.{/}
-UI_20151224_001998	{@st41b}Message{/}
+UI_20151224_001998	{@st41b}Messages{/}
 UI_20151224_001999	{@st59}Open the Messages Box{/}
 UI_20151224_002000	{@st42}Character{/}
 UI_20151224_002001	{@st42}Free TP{/}
@@ -2021,7 +2021,7 @@ UI_20151224_002020	{@st41}Message
 UI_20151224_002021	{@st59}Show Quest Dialogue{/}
 UI_20151224_002022	{@st59}Abandon Quest{/}
 UI_20151224_002023	{@st49}Preview{/}
-UI_20151224_002024	{@st49}Hold{/}
+UI_20151224_002024	{@st49}Add{/}
 UI_20151224_002025	obtained %s by %s
 UI_20151224_002026	Amount Left
 UI_20151224_002027	Amount Left : %s{/}
