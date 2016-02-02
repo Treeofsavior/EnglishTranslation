@@ -1487,13 +1487,13 @@ SKILL_20150317_001486	Throw amulet on target. Becomes invincible while under eff
 SKILL_20150317_001487	Invincibility Duration: #{CaptionTime}# seconds
 SKILL_20150317_001488	Bwa Kayiman
 SKILL_20150317_001489	{#DD5500}{ol}[Physical] [Strike]{/}{/}{nl}Zombies roam around target area. Enemies are pushed away and damaged when toufching the zombies.
-SKILL_20150317_001490	Attack #{SkillAtkAdd}#{nl}Summoned zombie required
+SKILL_20150317_001490	Attack: #{SkillAtkAdd}#{nl}Summoned Zombie required
 SKILL_20150317_001491	Samediveve
 SKILL_20150317_001492	Place a flag on the ground that increases the Movement speed and max HP of nearby targets.
 SKILL_20150317_001493	Max. HP +#{CaptionRatio}#{nl}Movement Speed +#{CaptionRatio2}#% Duration 30 seconds {nl}
 SKILL_20150317_001494	Ogouveve
 SKILL_20150317_001495	Place a flag on the ground that increases the STR of nearby allies targets.
-SKILL_20150317_001496	Strength + #{CaptionRatio}#{nl}Duration 30 seconds
+SKILL_20150317_001496	STR: +#{CaptionRatio}#{nl}Duration: 30 seconds
 SKILL_20150317_001497	Damballa
 SKILL_20150317_001498	{#993399}{ol}[Magic]{/}{/}{nl}Causes zombies in the targeted area to explode, damaging nearby enemies.
 SKILL_20150317_001499	Attack #{SkillAtkAdd}#{nl}Summoned zombie required{nl}Target #{SkillSR}#
@@ -5478,8 +5478,8 @@ SKILL_20151022_005477	Increases the damage dealt on an enemy with [Cannon Blast]
 SKILL_20151022_005478	Increases the attack count of [Blessing] by 10 per attribute level.
 SKILL_20151022_005479	Carve World Tree: Maintain
 SKILL_20151022_005480	Decreases the range of [Carve World Tree], but increases its duration by 10 seconds.
-SKILL_20151022_005481	Carve Goddess Ausrine: Cooldown Decrease
-SKILL_20151022_005482	Decreases the cooldown of [Carve Goddess Ausrine] by 10 seconds.
+SKILL_20151022_005481	Statue of Goddess Ausrine: Cooldown Decrease
+SKILL_20151022_005482	Decreases the cooldown of [Statue of Goddess Ausrine] by 10 seconds.
 SKILL_20151022_005483	Decreases the enemy's physical defense by 30% with a chance of 10% per attribute level when using a basic attack during Out of Body. (Unable to turn ON/OFF during Out of Body.)
 SKILL_20151022_005484	Decreases the SP cost per second of [Vashita Siddhi] by 0.5% per attribute level. 
 SKILL_20151022_005485	Increases the chance of nullifying fire, ice, lightning, poison and earth property attacks by 0.08% per attribute level while [Resist Elements] is active.
@@ -6007,9 +6007,9 @@ SKILL_20151224_006006
 SKILL_20151224_006007	
 SKILL_20151224_006008	
 SKILL_20151224_006009	Enables you to equip the [Pistol] weapon type. You can also press the C button to attack.
-SKILL_20151224_006010	[Enables you to equip [Cloth] armor. When equipped with 3 or more pieces of [Cloth] armor, increases your maximum SP and magic damage taken is decreased by 5%. When equipped with 4 [Cloth] armor pieces, your magic defense increases and magic damage taken is decreased by an additional 10%.
-SKILL_20151224_006011	[Enables you to equip [Leather] armor. When equipped with 3 or more pieces of [Leather] armor, increases your Evasion. When equipped with 4 [Leather] armor pieces, your evasion increases from attributes by an additional 50%.
-SKILL_20151224_006012	Enables you to equip [Plate] armor. When equipped with 3 or more pieces of [Plate] armor, increases your maximum HP and physical damage taken is decreased by 5%. When equipped with 4 [Plate] armor pieces, your maximum stamina increases and physical damage taken is decreased by an additional 10%.
+SKILL_20151224_006010	[Enables you to equip [Cloth] armor.{nl}{nl}When equipped with 3 or more pieces of [Cloth] armor, increases your maximum SP and magic damage taken is decreased by 5%.{nl}When equipped with 4 [Cloth] armor pieces, your magic defense increases and magic damage taken is decreased by an additional 10%.
+SKILL_20151224_006011	[Enables you to equip [Leather] armor.{nl}{nl}When equipped with 3 or more pieces of [Leather] armor, increases your evasion.{nl}When equipped with 4 [Leather] armor pieces, your evasion increases from attributes by an additional 50%.
+SKILL_20151224_006012	Enables you to equip [Plate] armor.{nl}{nl}When equipped with 3 or more pieces of [Plate] armor, increases your maximum HP and physical damage taken is decreased by 5%.{nl}When equipped with 4 [Plate] armor pieces, your maximum stamina increases and physical damage taken is decreased by an additional 10%.
 SKILL_20151224_006013	Increases the companion's stamina cost cycle duration by 10 seconds per attribute level.
 SKILL_20151224_006014	When the HP of your companion is less than 50%, it will activate the [First Aid] effect and recover HP for 2 seconds. The duration is increased by 1 second per attribute level from Lv. 2.[First Aid] cannot be used for another 10 minutes after it has been activated.
 SKILL_20151224_006015	Bash: Specialty
