@@ -1,4 +1,4 @@
-SKILL_20150317_000001	Attack
+﻿SKILL_20150317_000001	Attack
 SKILL_20150317_000002	[Elite Kepa] 1 time, Physical, Poison Property, Strike
 SKILL_20150317_000003	[Rafflesia] Spread Poison
 SKILL_20150317_000004	[Rafflesia] Poison Bomb
@@ -5816,7 +5816,7 @@ SKILL_20151224_005815	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRati
 SKILL_20151224_005816	{#993399}{ol}[Magic] - [Dark]{/}{/}{nl}Summon the devil of hatred to attack enemies. Enemies attacked by this magic can take you as prior target, and will temporarily take extra damage from Holy-type attacks
 SKILL_20151224_005817	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Stigma Duration: 5 seconds
 SKILL_20151224_005818	Evil Sacrifice
-SKILL_20151224_005819	{#993399}{ol}[Magic]{/}{/}Set the enemies in the targeted location as a sacrifice to the evil spirits. The evil spirits will move towards the targeted location to attack enemies.
+SKILL_20151224_005819	{#993399}{ol}[Magic]{/}{/}Set the enemies in the targeted area as a sacrifice to the evil spirits. The evil spirits will move towards the targeted area attack enemies.
 SKILL_20151224_005820	Demolition Rune
 SKILL_20151224_005821	{#993399}{ol}[Magic]{/}{/}Inflicts powerful damage to enemies in a targeted area. The attacked enemies will deal additional damage to other enemies by reflecting magic.
 SKILL_20151224_005822	Ice Rune
@@ -5841,11 +5841,11 @@ SKILL_20151224_005840	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRati
 SKILL_20151224_005841	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionTime}#%{nl}Arrow Count: #{CaptionRatio}#{nl}Set up Range: #{CaptionRatio2}#{nl}Consumes 2 Wires
 SKILL_20151224_005842	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}The bitten enemy will have its physical defense reduced while critical chance bonus is applied against the enemy.
 SKILL_20151224_005843	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}The companion bites an airborne enemy and lower it to the ground.
-SKILL_20151224_005844	Companion's Attack: +#{CaptionRatio}#{nl}Companion's Accuracy: +#{CaptionRatio}#{nl}Companion's Critical Rate: +#{CaptionRatio}#{nl}Duration: #{CaptionTime}# seconds{nl}Lv5 Master
+SKILL_20151224_005844	Companion Attack: +#{CaptionRatio}#{nl}Companion Accuracy: +#{CaptionRatio}#{nl}Companion Critical Rate: +#{CaptionRatio}#{nl}Duration: #{CaptionTime}# seconds{nl}Maximum Level: 5
 SKILL_20151224_005845	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}The companion bites and drags the enemy towards their owner.
 SKILL_20151224_005846	Detects hidden enemies #{CaptionRatio}# times{nl}Hounding AI Duration: 90 seconds
 SKILL_20151224_005847	Detoxifies a poisoned ally. If the poison is of a higher rank than the antidote, the duration will be reduced instead.
-SKILL_20151224_005848	{#339999}{ol}[Confusion]{/}{/}{nl} Duration: 10 seconds {nl}Maximium #{CaptionRatio}#players applied{nl}Consumes  #{SpendPoison}# Poison Pot Poison
+SKILL_20151224_005848	{#339999}{ol}[Confusion]{/}{/} Duration: 10 seconds{nl}Applies a maximum of #{CaptionRatio}# times{nl}Consumes #{SpendPoison}# Poison Pots
 SKILL_20151224_005849	{#DD5500}{ol}[Physical] - [Poison]{/}{/}{nl}Create a poison puddle by throwing a pot filled with poison. Any enemies who come into contact with the puddle is poisoned.
 SKILL_20151224_005850	{#DD5500}{ol}[Physical] - [Poison]{/}{/}{nl}Throw Jincan to attack enemies. Defeated enemies are replaced with a newly born poison insect.
 SKILL_20151224_005851	Block Count: #{CaptionRatio}#{nl}Movement Speed: -#{CaptionRatio2}#
@@ -5868,7 +5868,7 @@ SKILL_20151224_005867	Attack: 150% + #{SkillAtkAdd}#{nl}Attribute Damage: #{Capt
 SKILL_20151224_005868	{#DD5500}{ol}[Missile]{/}{/}{nl}Fire continuously in a straight line in front of you until the maximum range of fire. The attacked enemies might be pushed back.
 SKILL_20151224_005869	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use the butt of the gun to attack an enemy in close distance.
 SKILL_20151224_005870	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Stab an enemy by using the bayonet equipped to the rifle. The stabbed enemy might be pushed back.
-SKILL_20151224_005871	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionTime}#%{nl}Recovers 5% HP of your maximum HP{nl}Additional HP Recovery: #{CaptionRatio}# ~ #{CaptionRatio2}#{nl}Magic Circle Duration: 40 seconds
+SKILL_20151224_005871	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionTime}#%{nl}Recovers HP equal to 5% of maximum HP{nl}Additional HP Recovery Rate: #{CaptionRatio}# ~ {CaptionRatio2}#{nl}Magic Circle Duration: 60 seconds
 SKILL_20151224_005872	Applies #{CaptionRatio}# times{nl}Duration: 60 seconds
 SKILL_20151224_005873	HP Recovery: +#{CaptionRatio}#{nl}HP Recovery Time: -#{CaptionRatio2}# seconds{nl}Torch Duration: #{CaptionTime}# seconds
 SKILL_20151224_005874	Increases the number of beneficial effects for you and your party members.
@@ -5879,15 +5879,15 @@ SKILL_20151224_005878	STR: +#{CaptionRatio}#{nl}Duration: #{CaptionRatio2}# seco
 SKILL_20151224_005879	Attack 200% + #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Maximum Targets: #{CaptionRatio2}#
 SKILL_20151224_005880	Maximum Capsule Count: #{CaptionRatio}#
 SKILL_20151224_005881	Carves a statue of Zemyna, the Goddess of Earth.{nl}Decreases the SP cost and SP recovery time for allies who are within the radius of the Goddess Statue.
-SKILL_20151224_005882	SP: -#{CaptionRatio}#{nl}Decrease SP recovery time by 5 seconds{nl}Goddess Statue Duration: #{CaptionRatio2}# seconds{nl}Consumes 1 Pine Wood
+SKILL_20151224_005882	Decreases #{CaptionRatio}# SP{nl}SP recovery time decreases to 5 seconds{nl}Statue Duration #{CaptionRatio2}# seconds{nl}Consumes 1 Pine wood
 SKILL_20151224_005883	Carves a statue of Laima, the Goddess of Fate. {nl}Decreases the cooldown of your party members' skills within the radius of the Goddess Statue.
-SKILL_20151224_005884	Cooldown: -#{CaptionRatio}#%{nl}Decreases movement speed by 20{nl}Goddess Statue Duration: #{CaptionRatio2}# seconds{nl}Consumes 1 Cedar Wood
+SKILL_20151224_005884	Cooldown: -#{CaptionRatio}#% {nl}Movement Speed: -20 {nl}Statue Duration: #{CaptionRatio2}# seconds{nl}Consumes 1 Cedar wood
 SKILL_20151224_005885	Attack: 250% + #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%
 SKILL_20151224_005886	Temporarily increases the fire, ice, lightning, poison and earth property resistance and property attack of you and your party members. At a certain chance, nullifies the listed property attacks and decreases the magic defense of enemies nearby.
 SKILL_20151224_005887	Property Resistance: +#{CaptionRatio}#{nl}Property Attack Nullify Chance: #{CaptionRatio2}#%{nl}Enemy Magic Defense: #{SkillFactor}#{nl}Duration: #{CaptionTime}# seconds
 SKILL_20151224_005888	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Maximum Exctinction Count: #{CaptionRatio}#
 SKILL_20151224_005889	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Strike with a powerful hand knife to damage the enemy.
-SKILL_20151224_005890	Open an Offering Box to receive donations from allies, Can only be opened nearby a Goddess Statue.
+SKILL_20151224_005890	Open an Offering Box to receive donations from allies, Can only be opened nearby a Goddess Statue. Cannot be set up in towns and cities.
 SKILL_20151224_005891	Maximum Purchase Count: #{CaptionRatio}#
 SKILL_20151224_005892	Can register skill that use items{nl}Additional Duration: #{CaptionRatio}# minutes
 SKILL_20151224_005893	Decatose
@@ -6007,8 +6007,8 @@ SKILL_20151224_006006	+30% increased EXP when defeating monsters{nl}2x Stamina r
 SKILL_20151224_006007	Unlimited Instanced Dungeon
 SKILL_20151224_006008	You can enter instanced dungeons without restrictions.
 SKILL_20151224_006009	Enables you to equip the [Pistol] weapon type. You can also press the C button to attack.
-SKILL_20151224_006010	[Enables you to equip [Cloth] armor.{nl}{nl}When equipped with 3 or more pieces of [Cloth] armor, increases your maximum SP and magic damage taken is decreased by 5%.{nl}When equipped with 4 [Cloth] armor pieces, your magic defense increases and magic damage taken is decreased by an additional 10%.
-SKILL_20151224_006011	[Enables you to equip [Leather] armor.{nl}{nl}When equipped with 3 or more pieces of [Leather] armor, increases your evasion.{nl}When equipped with 4 [Leather] armor pieces, your evasion increases from attributes by an additional 50%.
+SKILL_20151224_006010	Enables you to equip [Cloth] armor. When equipped with 3 or more pieces of [Cloth] armor, increases your maximum SP and magic damage taken is decreased by 5%. When equipped with 4 [Cloth] armor pieces, your magic defense increases and magic damage taken is decreased by an additional 10%.
+SKILL_20151224_006011	Enables you to equip [Leather] armor. When equipped with 3 or more pieces of [Leather] armor, increases your Evasion. When equipped with 4 [Leather] armor pieces, your evasion increases from attributes by an additional 50%.
 SKILL_20151224_006012	Enables you to equip [Plate] armor.{nl}{nl}When equipped with 3 or more pieces of [Plate] armor, increases your maximum HP and physical damage taken is decreased by 5%.{nl}When equipped with 4 [Plate] armor pieces, your maximum stamina increases and physical damage taken is decreased by an additional 10%.
 SKILL_20151224_006013	Increases the companion's stamina cost cycle duration by 10 seconds per attribute level.
 SKILL_20151224_006014	When the HP of your companion is less than 50%, it will activate the [First Aid] effect and recover HP for 2 seconds. The duration is increased by 1 second per attribute level from Lv. 2.[First Aid] cannot be used for another 10 minutes after it has been activated.
