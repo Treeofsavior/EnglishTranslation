@@ -1084,7 +1084,7 @@ SKILL_20150317_001083	{#993399}{ol}[Magic]{/}{/}{nl} Fires Magic Missiles at the
 SKILL_20150317_001084	Attack #{SkillAtkAdd}#{nl}3 Magic Missiles
 SKILL_20150317_001085	Quick Cast
 SKILL_20150317_001086	Cast Time decreased.
-SKILL_20150317_001087	Cast Time -#{CaptionRatio}#%{nl}Duration #{CaptionTime}# seconds
+SKILL_20150317_001087	Cast Time: -#{CaptionRatio}#%{nl}Duration: #{CaptionTime}# seconds
 SKILL_20150317_001088	Fireball
 SKILL_20150317_001089	{#993399}{ol}[Magic] - [Fire]{/}{/}{nl} Summons a stationary fireball. You can blow it up by hitting it with a sword attack.
 SKILL_20150317_001090	Attack #{SkillAtkAdd}#{nl}Attack #{SkillSR}# times{nl}Duration #{CaptionTime}# seconds
@@ -1149,7 +1149,7 @@ SKILL_20150317_001148	Link party members to divide damage taken.
 SKILL_20150317_001149	More links results to less damage{nl} Max. Link #{CaptionRatio}#{nl}Duration #{CaptionTime}# seconds{nl}Consume 16% of Stamina
 SKILL_20150317_001150	Joint Penalty
 SKILL_20150317_001151	Link enemies together. Damage inflicted on one linked enemy is inflicted upon all linked ones.
-SKILL_20150317_001152	Maximum Links #{SkillFactor}#{nl}Duration #{CaptionTime}# seconds
+SKILL_20150317_001152	Maximum Links: #{SkillFactor}#{nl}Duration: #{CaptionTime}# seconds
 SKILL_20150317_001153	Hangman's Knot
 SKILL_20150317_001154	Groups together all linked enemies.
 SKILL_20150317_001155	Gather time of 0.3 seconds
@@ -1267,7 +1267,7 @@ SKILL_20150317_001266	Buff for adding attack speed
 SKILL_20150317_001267	Make ground skill of enemies be usable by allies.
 SKILL_20150317_001268	test
 SKILL_20150317_001269	Multi Shot
-SKILL_20150317_001270	{#DD5500}{ol}[Physical] - [Missile]{/}{/}{nl}Charge up and then quickly launch multiple shots at a targeted location.
+SKILL_20150317_001270	{#DD5500}{ol}[Physical] - [Missile]{/}{/}{nl}Charge up and then quickly launch multiple shots at a targeted area.
 SKILL_20150317_001271	Attack: #{SkillAtkAdd}#{nl}Number of Shots: #{CaptionRatio}#
 SKILL_20150317_001272	Full Draw
 SKILL_20150317_001273	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Fire a shot that can skewer enemies together.
@@ -3092,7 +3092,7 @@ SKILL_20150323_003091	Evasion rate decrease
 SKILL_20150323_003092	Evasion rate increase
 SKILL_20150323_003093	Equip virtual weapon
 SKILL_20150323_003094	Repair Armor
-SKILL_20150323_003095	Your Companion growls fearfully. Nearby monsters may fall under Fear.
+SKILL_20150323_003095	Your companion growls fearfully. Nearby monsters may fall under Fear.
 SKILL_20150323_003096	Elementalist: Resist
 SKILL_20150323_003097	Carve World Tree: Pull
 SKILL_20150323_003098	Pull enemies within range of [Carve World Tree]
@@ -3710,7 +3710,7 @@ SKILL_20150414_003709	Control enemy's magic circle.
 SKILL_20150414_003710	Enlarge the size of your and party members' hand holding shield and sub weapon to increase defense.
 SKILL_20150414_003711	Enlarge the size of you and your party members' heads to increase INT.
 SKILL_20150414_003712	{#993399}{ol}[Magic] - [Lightning]{/}{/}{nl}Release a surge of electricity to attack enemies in front of you.
-SKILL_20150414_003713	Temporarily petrify enemy.
+SKILL_20150414_003713	Temporarily petrify the enemy.
 SKILL_20150414_003714	{#993399}{ol}[Magic] - [Ice]{/}{/}{nl}Drop chunks of ice to continuously inflict damage to enemies.
 SKILL_20150414_003715	{#993399}{ol}[Magic] - [Fire]{/}{/}{nl}Summon Prominence. The summoned Prominence goes back and forth randomly, inflicting damage to targets.
 SKILL_20150414_003716	{#993399}{ol}[Magic] - [Fire]{/}{/}{nl}Drop meteors on the targeted area to inflict damage to an enemy.
@@ -3854,7 +3854,7 @@ SKILL_20150414_003853	Carves a statue of Laima, the Goddess of Fate. {nl}Decreas
 SKILL_20150414_003854	Cooldown duration: -#{CaptionRatio}#%{nl}Statue duration: #{CaptionRatio2}# seconds{nl}Consumes 4 Cedar Wood
 SKILL_20150414_003855	{#993399}{ol}[Magic] - [Fire]{/}{/}{nl}Carves an Owl Sculpture that attacks enemies in front of you.
 SKILL_20150414_003856	Attack #{SkillAtkAdd}#{nl}Defend #{CaptionRatio}#times{nl}Duration #{CaptionTime}# seconds{nl}Use 3 Oak wood
-SKILL_20150414_003857	Carves a divine world tree that silences nearby enemies.
+SKILL_20150414_003857	Carves a divine World Tree that silences nearby enemies.
 SKILL_20150414_003858	Statue duration #{CaptionRatio}# seconds{nl}Use 6 Ash woods
 SKILL_20150414_003859	Carves a statue of Goddess Ausrine of the Morning Star. You and your allies are granted invulnerability after rotating around the Goddess Statue 3 times.
 SKILL_20150414_003860	{#339999}{ol}[Blessing of the Goddess]{/}{/} Duration: #{CaptionRatio}# seconds{nl}Goddess Statue duration: 30 seconds{nl}Consumes 4 Cedar Wood
@@ -4096,7 +4096,7 @@ SKILL_20150428_004095	Increase Stamina recovery
 SKILL_20150428_004096	Give greater damage every 10 attacks
 SKILL_20150428_004097	Earth Set Buff
 SKILL_20150428_004098	Status buff where Rage of Earth Buff can be triggered
-SKILL_20150428_004099	Earth's Rage
+SKILL_20150428_004099	Earth Rage
 SKILL_20150428_004100	Additional fixed damage for Earth Attacks
 SKILL_20150428_004101	Shovel status buff
 SKILL_20150428_004102	Legwyn Family Set Buff
@@ -4219,7 +4219,7 @@ SKILL_20150714_004218	Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRati
 SKILL_20150714_004219	Attribute Damage: #{CaptionTime}#%{nl}Out of Body Range: #{CaptionRatio}#
 SKILL_20150714_004220	Attack: #{SkillAtkAdd}#{nl}Attribute Attack: #{CaptionRatio}#%{nl}Maximum Duration: 5 seconds
 SKILL_20150714_004221	Attack #{SkillAtkAdd}#{nl}Attribute Attack #{CaptionRatio}#%{nl}Use 2 STA
-SKILL_20150714_004222	Attacks per hit: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio2}#%{nl}Consumes #{CaptionRatio}# SP per 0.5 second
+SKILL_20150714_004222	Attacks per Hit: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio2}#%{nl}Consumes #{CaptionRatio}# SP per 0.5 second
 SKILL_20150714_004223	Attack #{SkillAtkAdd}#{nl}Attribute Attack #{CaptionTime}#%{nl}Duration: #{CaptionRatio}# seconds{nl}Consumes #{CaptionRatio2}# silver
 SKILL_20150714_004224	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio2}#%{nl}#{CaptionRatio}# players can attack enemies{nl}Heals the entire party{nl}Heals #{CaptionRatio}# allies{nl}Consumes 500 silver
 SKILL_20150714_004225	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio2}#%{nl}Duration: #{CaptionRatio}# seconds
@@ -4228,7 +4228,7 @@ SKILL_20150714_004227	Damage Effect
 SKILL_20150714_004228	Receive damage after an effect
 SKILL_20150714_004229	Spread the new buff received to allies
 SKILL_20150714_004230	Right Hand is enlarged. Effect applies according to the sub weapon types
-SKILL_20150714_004231	Afflicts the target with [Stun], but decreases your maximum HP.
+SKILL_20150714_004231	Inflicts the target with [Stun], but decreases your maximum HP.
 SKILL_20150714_004232	Gohan
 SKILL_20150714_004233	Number of buff you can receive will increase.
 SKILL_20150714_004234	Removes nullified magic and harmful effects
@@ -4545,7 +4545,7 @@ SKILL_20150714_004544	Splash of [Claymore] will increase by 1 per Attribute leve
 SKILL_20150714_004545	As the enemy that was flown to the air by [Punji Stake] falls down on the ground, it will receive damage equal to 50% of Physical ATK and the enemies nearby will also receive damage.
 SKILL_20150714_004546	Enemies affected by [Pointing] will be afflicted with [Fear] for 3 seconds with a 5% chance per attribute level.
 SKILL_20150714_004547	DEF of the enemies that are attacked with [Retrieve] will decrease by 10 per Attribute level.
-SKILL_20150714_004548	Aerial-type monsters who are dropped to the ground with [Snatching] will receive 20% additional damage from Slash and Strike attacks per attribute level.
+SKILL_20150714_004548	Flying-type monsters who are dropped to the ground with [Snatching] will receive 20% additional damage from Slash and Strike attacks per attribute level.
 SKILL_20150714_004549	Increases the movement speed of your Companion by 5% per attribute level with [Praise].
 SKILL_20150714_004550	Coursing: Tear up the mind
 SKILL_20150714_004551	Decreases the enemy's magic defense afflicted with [Coursing] by 10 per attribute level.
@@ -4741,7 +4741,7 @@ SKILL_20150717_004740	Max HP and Physical DEF increase based on number of [Plate
 SKILL_20150717_004741	Incurs additional 20 damage per Attribute level whenever attack from an enemy's back with dagger.
 SKILL_20150717_004742	Amplifies the physical damage increase effect and the defense decrease effect of [Gung Ho] by 1 per attribute level.
 SKILL_20150717_004743	Increases the AoE Attack Ratio of [Bash] by 1 per attribute level.
-SKILL_20150717_004744	Afflicts [Bleeding] for 5 seconds on stunned enemies from [Thrust]. Bleeding damage is proportional to the character's STR.
+SKILL_20150717_004744	Inflicts [Bleeding] for 5 seconds on stunned enemies from [Thrust]. Bleeding damage is proportional to the character's STR.
 SKILL_20150717_004745	Enemies hit by [Umbo Blow] have a 5% chance to become stunned for 3 seconds per attribute level.
 SKILL_20150717_004746	Increases the AoE Attack Ratio of [Shield Lob] by 1 per attribute level.
 SKILL_20150717_004747	Increases your physical defense by 10% per attribute level when [Guard] is active.
@@ -4812,7 +4812,7 @@ SKILL_20150717_004811	Provides immunity to [Poison] for 2 seconds per attribute 
 SKILL_20150717_004812	Even if an object gets out of the range of [Throw Gu Pot], [Poison] will continue for 2 seconds per attribute level.
 SKILL_20150717_004813	Enemies within the range of [Scan] will be afflicted with [Confusion] by certain chance for 5 seconds. Increases the chance by 10% per attribute level.
 SKILL_20150717_004814	Enemies within the range of [Lachrymator] will receive damage every 2 seconds. Increases the damage per attribute level.
-SKILL_20150717_004815	Afflicts the enemy with [Massive Bleeding] for 10 seconds when attacked with [Backstab] while affected by bleeding. Increases the duration by 1 second per attribute level. Massive Bleed damage is proportional to the character's STR and physical attack.
+SKILL_20150717_004815	Inflicts the enemy with [Massive Bleeding] for 10 seconds when attacked with [Backstab] while affected by bleeding. Increases the duration by 1 second per attribute level. Massive Bleed damage is proportional to the character's STR and physical attack.
 SKILL_20150717_004816	Increases the range of [Lachrymator] to 75.
 SKILL_20150717_004817	Decreases the enemy's physical defense by 1% per attribute level when you attack with [Bodkin Point].
 SKILL_20150717_004818	[Crossfire] gets a 10% chance per level of inflicting [Burn] on targets. Burn damage is proportional to the character's physical attack.
@@ -5058,7 +5058,7 @@ SKILL_20150918_005057	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Use centrifugal
 SKILL_20150918_005058	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Use your shield and sword to successively attack enemies.
 SKILL_20150918_005059	Shield Shoving
 SKILL_20150918_005060	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Interrupt an enemy's action using your shield. The enemy is turned around, and can't take any actions temporarily.
-SKILL_20150918_005061	Attack #{SkillAtkAdd}#{nl}Attribute Attack #{CaptionRatio}#%{nl}duration 1.5 seconds
+SKILL_20150918_005061	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Duration: 1.5 seconds
 SKILL_20150918_005062	Shield Bash
 SKILL_20150918_005063	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Attack with your shield. The attacked enemy will have its stat points jumbled temporarily.
 SKILL_20150918_005064	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Duration: #{CaptionRatio2}# seconds
@@ -5587,7 +5587,7 @@ SKILL_20151102_005586	Increased physical attack and magic attack
 SKILL_20151102_005587	Gae Bulg: Defense Zone
 SKILL_20151102_005588	Increased physical defense and magic defense
 SKILL_20151102_005589	Increases block penetration by 10% per attribute level when attacking an enemy with a [Two-handed Spear].
-SKILL_20151102_005590	Afflicts [Bleeding] on an enemy attacked with [Keel Hauling] for 5 seconds. Increases the duration of [Bleeding] by 1 second per attribute level. Bleeding damage is proportional to the character's STR.
+SKILL_20151102_005590	Inflicts [Bleeding] on an enemy attacked with [Keel Hauling] for 5 seconds. Increases the duration of [Bleeding] by 1 second per attribute level. Bleeding damage is proportional to the character's STR.
 SKILL_20151102_005591	Kunai: Enhance
 SKILL_20151102_005592	Increases the damage dealt on an enemy with [Kunai] by 1% per attribute level.
 SKILL_20151102_005593	Katon no Jutsu: Enhance
@@ -5619,7 +5619,7 @@ SKILL_20151102_005618	Creates an attack zone for 15 seconds where the spear is t
 SKILL_20151102_005619	Dragon Soar: Enhance
 SKILL_20151102_005620	Increases the damage dealt on an enemy with [Dragon Soar] by 1% per attribute level.
 SKILL_20151102_005621	Dragon Soar: Shock
-SKILL_20151102_005622	Afflicts [Shock] on enemies hit by [Dragon Soar] at a 5% chance per attribute level for 10 seconds.
+SKILL_20151102_005622	Inflicts [Shock] on enemies hit by [Dragon Soar] at a 5% chance per attribute level for 10 seconds.
 SKILL_20151102_005623	Umbilical Cord: Nullify Increase
 SKILL_20151102_005624	Increases the chance to nullify an enemy's attack while using [Umbilical Cord] by 2% per attribute level.
 SKILL_20151102_005625	Joint Penalty: Electricity
@@ -5696,8 +5696,8 @@ SKILL_20151102_005695	Increases the damage dealt on an enemy with [Butt Stroke] 
 SKILL_20151102_005696	Bayonet Thrust: Enhance
 SKILL_20151102_005697	Increases the damage dealt on an enemy with [Bayonet Thrust] by 1% per attribute level.
 SKILL_20151102_005698	Butt Stroke: Stun
-SKILL_20151102_005699	Afflicts stun at a 1.5% chance per attribute level for 3 seconds on enemies hit by [Butt Stroke].
-SKILL_20151102_005700	Afflicts stun at a 2% chance per attribute level when performing a basic attack on an enemy with a [Blunt Instrument].
+SKILL_20151102_005699	Inflicts stun at a 1.5% chance per attribute level for 3 seconds on enemies hit by [Butt Stroke].
+SKILL_20151102_005700	Inflicts stun at a 2% chance per attribute level when performing a basic attack on an enemy with a [Blunt Instrument].
 SKILL_20151102_005701	Enemies receive Holy damage equal to [Attribute Level] when using [Arcane Energy].
 SKILL_20151102_005702	Healing Factor: Attack
 SKILL_20151102_005703	Enemies traversing over the [Healing Factor] circle will incur continuous damage. Overall damage dealt scales with character's HP.
@@ -5716,7 +5716,7 @@ SKILL_20151102_005715	Increases the Poison property resistance by 5 per attribut
 SKILL_20151102_005716	Revenged Sevenfold: Duration
 SKILL_20151102_005717	Increases the duration of [Revenged Sevenfold]'s effect by 1 second per attribute level.
 SKILL_20151102_005718	Revenged Sevenfold: Curse
-SKILL_20151102_005719	Afflicts [Curse] at a 10% chance for 4 seconds on an enemy when damage is dealt with [Revenged Sevenfold].
+SKILL_20151102_005719	Inflicts [Curse] at a 10% chance for 4 seconds on an enemy when damage is dealt with [Revenged Sevenfold].
 SKILL_20151102_005720	Nachash: Enhance
 SKILL_20151102_005721	Increases the damage dealt on an enemy with [Nachash] by 1% per attribute level.
 SKILL_20151102_005722	Nachash: Resistance
@@ -5751,12 +5751,12 @@ SKILL_20151224_005750	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Slash enemies w
 SKILL_20151224_005751	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Spin the weapon to continuously damage the enemy in front of you.
 SKILL_20151224_005752	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Damage the enemy by slashing multiple times from side to side.
 SKILL_20151224_005753	Attack enemies in the area nearby by exploding the gunpowder you have. Using this technique will also damage you and might cause incapability of combat if your HP is too low.
-SKILL_20151224_005754	Attack #{SkillAtkAdd}#{nl}Attribute Attack #{CaptionRatio}#%{nl}HP #{CaptionRatio2}# Use{nl} Bunshin no Jutsu x5
+SKILL_20151224_005754	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Consumes #{CaptionRatio2}# HP{nl} Bunshin no Jutsu x5
 SKILL_20151224_005755	Creates clones of yourself. The clones will act along as a main body and skills can be used along with your clones. The HP of your clones is determined by your DEX.
-SKILL_20151224_005756	Duration #{CaptionRatio}#seconds{nl} Summon #{CaptionRatio2}# Shadow Clones{nl}Increases #{CaptionTime}# damage
+SKILL_20151224_005756	Duration: #{CaptionRatio}# seconds{nl}Summons #{CaptionRatio2}# Shadow Clones{nl}Damage Increase: #{CaptionTime}#x
 SKILL_20151224_005757	Counter-attack by tricking the enemy with a fake doll created from a log.
 SKILL_20151224_005758	Attack multiple enemies by continuously exploding the gunpowder you possess.
-SKILL_20151224_005759	Attack #{SkillAtkAdd}#{nl}Attribute Damage #{CaptionRatio}#%{nl}Use Bunshin no Jutsu x2
+SKILL_20151224_005759	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Use Bunshin no Jutsu x2
 SKILL_20151224_005760	Attack multiple enemies by throwing a kunai.
 SKILL_20151224_005761	Dragontooth
 SKILL_20151224_005762	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Rotate your spear using centrifugal force to attack the enemy.
@@ -5773,15 +5773,15 @@ SKILL_20151224_005772	Warp To Guild Member
 SKILL_20151224_005773	Warps to a specific guild member's location. You cannot warp to guild members who are in an instanced dungeon.
 SKILL_20151224_005774	Warp To Specific Guild Member's Location
 SKILL_20151224_005775	Build Guild Tower
-SKILL_20151224_005776	It is able to use the additional features of Guild Tower. The Guild Tower is
-SKILL_20151224_005777	You can install it using the item.{nl}Leve 1: Warp Movement{nl}Level 2: Storage Available{nl}Level 3: Guild Growth 
+SKILL_20151224_005776	The Guild Tower allows you to use additional functionalities. You can
+SKILL_20151224_005777	 use items if you build a Guild Tower.{nl}Level 1: Warp{nl}Level 2: Storage{nl}Level 3: Guild Upgrade{nl}Level 4: Guild Events{nl}Level 5: Guild Hangout
 SKILL_20151224_005778	Improve Guild Tower Features
 SKILL_20151224_005779	Reduce Craft Time
 SKILL_20151224_005780	Plant a flag that reduces the crafting time of all guild members in the area nearby. This can only be used nearby a Guild Tower.
 SKILL_20151224_005781	Craft Time Reduction: #{CaptionRatio}#% 
 SKILL_20151224_005782	Battle Orders
 SKILL_20151224_005783	Temporarily increases STR of guild members nearby the guild master. This effect disappears if the guild master is too far away.
-SKILL_20151224_005784	STR: +#{CaptionRatio}#{nl}Duration: #{CaptionRatio2}#seconds
+SKILL_20151224_005784	STR: +#{CaptionRatio}#{nl}Duration: #{CaptionRatio2}# seconds
 SKILL_20151224_005785	{#993399}{ol}[Magic]{/}{/}{nl}Attack continuously with magic bullets. New bullets are shot if it successfully targets an enemy.
 SKILL_20151224_005786	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Bullet Count: #{CaptionRatio2}#
 SKILL_20151224_005787	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}{#339999}{ol}[Ice]{/}{/} Duration: 5 seconds
@@ -5794,8 +5794,8 @@ SKILL_20151224_005793	{#993399}{ol}[Magic] - [Dark]{/}{/}{nl}Summon a devil by u
 SKILL_20151224_005794	{#993399}{ol}[Magic]{/}{/}{nl}Summon and release blood sucking bats against enemies to inflict damage.
 SKILL_20151224_005795	Pass
 SKILL_20151224_005796	{#993399}{ol}[Magic]{/}{/}{nl}Reduces a skill's cooldown time of you and your party members.
-SKILL_20151224_005797	Cooltime Reduction: #{CaptionTime}#seconds
-SKILL_20151224_005798	Attack: #{SkillAtkAdd}#{nl}Dirty Pole Duration: #{CaptionRatio}#seconds{nl}{#339999}{ol}[Decay]{/}{/} Duration: #{CaptionTime}#seconds{nl}Consumes #{CaptionRatio2}# Corpses
+SKILL_20151224_005797	Cooldown Reduction: #{CaptionTime}# seconds
+SKILL_20151224_005798	Attack: #{SkillAtkAdd}#{nl}Dirty Pole Duration: #{CaptionRatio}# seconds{nl}{#339999}{ol}[Decay]{/}{/} Duration: #{CaptionTime}# seconds{nl}Consumes #{CaptionRatio2}# Corpses
 SKILL_20151224_005799	Receive different materials depending on the terrain. #{CaptionRatio}# ea obtained.
 SKILL_20151224_005800	Gem Penalty Level Reduction: #{CaptionRatio}#
 SKILL_20151224_005801	{#993399}{ol}[Magic]{/}{/}{nl}Stab the enemy with a bone knife. If the enemy is a Beast, Devil or Insect-type, blood will spew out that recovers some of your HP.
@@ -5818,19 +5818,19 @@ SKILL_20151224_005817	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRati
 SKILL_20151224_005818	Evil Sacrifice
 SKILL_20151224_005819	{#993399}{ol}[Magic]{/}{/}Set the enemies in the targeted location as a sacrifice to the evil spirits. The evil spirits will move towards the targeted location to attack enemies.
 SKILL_20151224_005820	Demolition Rune
-SKILL_20151224_005821	{#993399}{ol}[Magic]{/}{/}Make a powerful damage to attack the enemies in the targeted area. Enemies attacked will do additional damage the other enemies by reflecting the magic.
+SKILL_20151224_005821	{#993399}{ol}[Magic]{/}{/}Inflicts powerful damage to enemies in a targeted area. The attacked enemies will deal additional damage to other enemies by reflecting magic.
 SKILL_20151224_005822	Ice Rune
-SKILL_20151224_005823	{#993399}{ol}[Magic]{/}{/}Temporarily increases the ice type magic of you and your party members.
-SKILL_20151224_005824	Duration #{CaptionTime}#seconds{nl}Increases the ice attribute skill attack by 300%
+SKILL_20151224_005823	{#993399}{ol}[Magic]{/}{/}Temporarily increases the Ice-type magic of you and your party members, making it more powerful.
+SKILL_20151224_005824	Duration: #{CaptionTime}# seconds{nl}Increases the Ice Property skill attacks by 300%
 SKILL_20151224_005825	Giant Rune
-SKILL_20151224_005826	{#993399}{ol}[Magic]{/}{/}Create a magic circle that temporarily changes you or your party member to giant. The giant players detected as large type, but increase the attack and defense.
-SKILL_20151224_005827	Duration #{CaptionTime}#seconds{nl}Increases #{CaptionRatio}# attack{nl}Increases #{CaptionRatio2}# defense
-SKILL_20151224_005828	Definition Rune
-SKILL_20151224_005829	{#993399}{ol}[Magic]{/}{/}Deal the holy attribute frontal attacks an enemy.
+SKILL_20151224_005826	{#993399}{ol}[Magic]{/}{/}Creates a magic circle that temporarily changes you or your party member to a giant. Giant players are considered a large-type, but will have their attack and defense increased.
+SKILL_20151224_005827	Duration: #{CaptionTime}# seconds{nl}Attack: +#{CaptionRatio}#{nl}Defense: +#{CaptionRatio2}#
+SKILL_20151224_005828	Justice Rune
+SKILL_20151224_005829	{#993399}{ol}[Magic]{/}{/}Attacks enemies up front using the Holy Property.
 SKILL_20151224_005830	Protection Rune
-SKILL_20151224_005831	{#993399}{ol}[Magic]{/}{/}Increases the resistance ratio of you and your party member against the unusual condition.
-SKILL_20151224_005832	Increases temporarily the movement speed and evasion while moving.
-SKILL_20151224_005833	Increases #{SkillFactor}#% Moving Shot{nl}Decreases #{CaptionRatio}# Physical Defense{nl}Increases #{CaptionRatio2}#% Evasion{nl}#Duration {CaptionTime}# seconds
+SKILL_20151224_005831	{#993399}{ol}[Magic]{/}{/}Increases the resistance ratio of you and your party member against status ailments.
+SKILL_20151224_005832	Temporarily increases movement speed and evasion while moving.
+SKILL_20151224_005833	Moving Shot Movement Speed: +#{SkillFactor}#%{nl}Physical Defense: -#{CaptionRatio}#{nl}Evasion: +#{CaptionRatio2}#%{nl}#Duration: {CaptionTime}# seconds
 SKILL_20151224_005834	Set up an upright shield to protect yourself from enemies and long-ranged attacks. Enemies without a target will attack the pavise instead.
 SKILL_20151224_005835	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Throw Count: #{CaptionRatio2}#{nl}Caltrops Duration: #{CaptionTime}# seconds{nl}Reduces enemy's movement speed by 10 for 5 seconds 5
 SKILL_20151224_005836	Pick up stone ammunition used for Stone Shot.
@@ -5849,7 +5849,7 @@ SKILL_20151224_005848	{#339999}{ol}[Confusion]{/}{/}{nl} Duration: 10 seconds {n
 SKILL_20151224_005849	{#DD5500}{ol}[Physical] - [Poison]{/}{/}{nl}Create a poison puddle by throwing a pot filled with poison. Any enemies who come into contact with the puddle is poisoned.
 SKILL_20151224_005850	{#DD5500}{ol}[Physical] - [Poison]{/}{/}{nl}Throw Jincan to attack enemies. Defeated enemies are replaced with a newly born poison insect.
 SKILL_20151224_005851	Block Count: #{CaptionRatio}#{nl}Movement Speed: -#{CaptionRatio2}#
-SKILL_20151224_005852	Max Duration #{CaptionRatio2}#seconds{nl}Use #{CaptionRatio}# SP per 1 second
+SKILL_20151224_005852	Maximum Duration: #{CaptionRatio2}# seconds{nl}Consumes #{CaptionRatio}# SP per second
 SKILL_20151224_005853	Skill Critical Rate: +#{CaptionRatio}#%
 SKILL_20151224_005854	Wild Shot
 SKILL_20151224_005855	{#DD5500}{ol}[Missile]{/}{/}{nl}Attack simultaneously with a crossbow and pistol held in both hands. 
@@ -5876,20 +5876,20 @@ SKILL_20151224_005875	Maximum Count: +#{CaptionRatio}#{nl}Duration: #{CaptionTim
 SKILL_20151224_005876	Lure the zombies by using the skull of a monkey to attack enemies for a period of time.
 SKILL_20151224_005877	Creates a magic circle that raises a dead enemy as a zombie. The HP of the raised zombie is based on the caster's SPR.
 SKILL_20151224_005878	STR: +#{CaptionRatio}#{nl}Duration: #{CaptionRatio2}# seconds{nl}Glyph Duration: 15 seconds
-SKILL_20151224_005879	Attack 200% : #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Maximum Number of Targets: #{CaptionRatio2}#
+SKILL_20151224_005879	Attack 200% + #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Maximum Targets: #{CaptionRatio2}#
 SKILL_20151224_005880	Maximum Capsule Count: #{CaptionRatio}#
 SKILL_20151224_005881	Carves a statue of Zemyna, the Goddess of Earth.{nl}Decreases the SP cost and SP recovery time for allies who are within the radius of the Goddess Statue.
 SKILL_20151224_005882	SP: -#{CaptionRatio}#{nl}Decrease SP recovery time by 5 seconds{nl}Goddess Statue Duration: #{CaptionRatio2}# seconds{nl}Consumes 1 Pine Wood
 SKILL_20151224_005883	Carves a statue of Laima, the Goddess of Fate. {nl}Decreases the cooldown of your party members' skills within the radius of the Goddess Statue.
-SKILL_20151224_005884	Cooldown Time: -#{CaptionRatio}#%{nl}Decrease movement speed by 20{nl}Goddess Statue Duration: #{CaptionRatio2}# seconds{nl}Consumes 1 Cedar Wood
+SKILL_20151224_005884	Cooldown: -#{CaptionRatio}#%{nl}Decreases movement speed by 20{nl}Goddess Statue Duration: #{CaptionRatio2}# seconds{nl}Consumes 1 Cedar Wood
 SKILL_20151224_005885	Attack: 250% + #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%
 SKILL_20151224_005886	Temporarily increases the fire, ice, lightning, poison and earth property resistance and property attack of you and your party members. At a certain chance, nullifies the listed property attacks and decreases the magic defense of enemies nearby.
 SKILL_20151224_005887	Property Resistance: +#{CaptionRatio}#{nl}Property Attack Nullify Chance: #{CaptionRatio2}#%{nl}Enemy Magic Defense: #{SkillFactor}#{nl}Duration: #{CaptionTime}# seconds
 SKILL_20151224_005888	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Maximum Exctinction Count: #{CaptionRatio}#
 SKILL_20151224_005889	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Strike with a powerful hand knife to damage the enemy.
-SKILL_20151224_005890	Open an Offering Box to receive donations from allies. Can only be opened nearby a Goddess Statue.
+SKILL_20151224_005890	Open an Offering Box to receive donations from allies, Can only be opened nearby a Goddess Statue.
 SKILL_20151224_005891	Maximum Purchase Count: #{CaptionRatio}#
-SKILL_20151224_005892	Can register skill that use items{nl}Additional Duration #{CaptionRatio}#minutes
+SKILL_20151224_005892	Can register skill that use items{nl}Additional Duration: #{CaptionRatio}# minutes
 SKILL_20151224_005893	Decatose
 SKILL_20151224_005894	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Attack the enemy by collecting money to offer to the gods. Enemies with exception to bosses can be instantly killed at a 1/10 chance and the offered money can be picked back up again.
 SKILL_20151224_005895	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio2}#%{nl}Consumes #{CaptionRatio}# silver
@@ -5918,17 +5918,17 @@ SKILL_20151224_005917	If the enemy is hit with the amount of the calculated numb
 SKILL_20151224_005918	Final Attack Damage: #{CaptionRatio}#%
 SKILL_20151224_005919	Decrease the level of the enemy depending on the calculated number.
 SKILL_20151224_005920	Additional Enemy Level: -#{CaptionRatio}#
-SKILL_20151224_005921	LastRites
+SKILL_20151224_005921	Last Rites
 SKILL_20151224_005922	
-SKILL_20151224_005923	Duration #{CaptionTime}#seconds{nl}Use 1 Rotis Herb
-SKILL_20151224_005924	Install the Cappella
+SKILL_20151224_005923	Duration: #{CaptionTime}# seconds{nl}Consumes 1 Gyslotis
+SKILL_20151224_005924	Build Cappella
 SKILL_20151224_005925	
-SKILL_20151224_005926	Cappella Duration #{CaptionRatio}#seconds{nl}Effect Duration #{CaptionRatio2}#seconds{nl}Use 1 cape
-SKILL_20151224_005927	MagnusExorcismus
+SKILL_20151224_005926	Cappella Duration: #{CaptionRatio}# seconds{nl}Effect Duration: #{CaptionRatio2}# seconds{nl}Consumes 1 Cape
+SKILL_20151224_005927	Magnus Exorcismus
 SKILL_20151224_005928	
 SKILL_20151224_005929	Aspergillum
 SKILL_20151224_005930	
-SKILL_20151224_005931	
+SKILL_20151224_005931	Duration: #{CaptionTime}# seconds{nl}Consumes 1 Holy Water
 SKILL_20151224_005932	Convert at certain rate when hit.
 SKILL_20151224_005933	Scheduled removal
 SKILL_20151224_005934	Hangman's Knot: Spalsh
@@ -5946,9 +5946,9 @@ SKILL_20151224_005945	Evocation.
 SKILL_20151224_005946	Reduced SPR and INT.
 SKILL_20151224_005947	Penalty is eased during combat incapability while buff is active.
 SKILL_20151224_005948	Aspergillum
-SKILL_20151224_005949	Increases the attack of ice attribute type.
+SKILL_20151224_005949	Increases attack of the ice attribute type.
 SKILL_20151224_005950	Increases the effect resistance against unusual statues.
-SKILL_20151224_005951	Increases the attack and defense.
+SKILL_20151224_005951	Increases attack and defense.
 SKILL_20151224_005952	Increased STR.
 SKILL_20151224_005953	Decreases the required SP, and SP recovery time.
 SKILL_20151224_005954	Continuos reduction of STA.
@@ -5956,8 +5956,8 @@ SKILL_20151224_005955	Hide
 SKILL_20151224_005956	Hidden state
 SKILL_20151224_005957	Reduced crafting time.
 SKILL_20151224_005958	Cyclone: Resistance
-SKILL_20151224_005959	Increase harmful effect resistance rate
-SKILL_20151224_005960	Increases recovery speed and ratio of HP, SP and Stamina
+SKILL_20151224_005959	Increased harmful effect resistance rate
+SKILL_20151224_005960	Increased recovery rate and recovery speed of HP, SP and Stamina
 SKILL_20151224_005961	Sacrifice HP recovery to 0 and raise magic amplification.
 SKILL_20151224_005962	Increase INT
 SKILL_20151224_005963	Increase defense
@@ -5993,19 +5993,19 @@ SKILL_20151224_005992	Stamina reduction
 SKILL_20151224_005993	Cripple
 SKILL_20151224_005994	Effigy Bonus 1
 SKILL_20151224_005995	Apply additional damage bonus to Effigy upon the 2nd attack
-SKILL_20151224_005996	When equipped by Clreic type, increases holy attribute attack
-SKILL_20151224_005997	Increases an experience of Instance Dungeon to 5%
-SKILL_20151224_005998	Increases an experience of Instance Dungeon Auto Matching to 5%
-SKILL_20151224_005999	Token Benefit: Movement Speed Increase
+SKILL_20151224_005996	Increases Holy Property attack when equipped by a Cleric class
+SKILL_20151224_005997	+5 increased EXP of Instanced Dungeon Party
+SKILL_20151224_005998	+5% increased EXP of Instanced Dungeon Auto Match
+SKILL_20151224_005999	Token Benefits: Movement Speed Increase
 SKILL_20151224_006000	Increased movement speed
 SKILL_20151224_006001	Token
-SKILL_20151224_006002	- Able to learn the attributes 2 at the same time{nl} - Decreased Market Sales Tax(30%{img white_right_arrow 16 16}10%){nl} - 5x Market Sales Enrollment Quantity{nl} - +3 Character Movement Speed
+SKILL_20151224_006002	- Able to learn 2 attributes simultaneously{nl} - Reduced Market Cost Fee (30%{img white_right_arrow 16 16}10%){nl} - List up to 5 items to the Market{nl} - +3 increased character movement
 SKILL_20151224_006003	Nexon PC Internet Cafe
-SKILL_20151224_006004	+30% Increase in EXP when defeating monsters{nl}Reduced Market sales tax by 20%{nl}Increased no. of item listings to the Market{nl}Learn up to 3 attribute skills simulatenously{nl}Movement speed increased by +3{nl}Doubled Stamina recovery rate
+SKILL_20151224_006004	+30% increased EXP when defeating monsters{nl}20% discount Market commission fee{nl}Increased amount of listings to the Market{nl}Able to learn 3 attributes simultaneously{nl}+3 increased movement speed{nl}x2 Stamina recovery rate
 SKILL_20151224_006005	EXP Book
-SKILL_20151224_006006	+30% Increase in EXP when defeating monsters{nl}Doubled Stamina recovery rate
-SKILL_20151224_006007	Unlimited Instance Dungeon 
-SKILL_20151224_006008	You can enter the Instance Dungeon without limitation.
+SKILL_20151224_006006	+30% increased EXP when defeating monsters{nl}2x Stamina recovery rate
+SKILL_20151224_006007	Unlimited Instanced Dungeon
+SKILL_20151224_006008	You can enter instanced dungeons without restrictions.
 SKILL_20151224_006009	Enables you to equip the [Pistol] weapon type. You can also press the C button to attack.
 SKILL_20151224_006010	[Enables you to equip [Cloth] armor.{nl}{nl}When equipped with 3 or more pieces of [Cloth] armor, increases your maximum SP and magic damage taken is decreased by 5%.{nl}When equipped with 4 [Cloth] armor pieces, your magic defense increases and magic damage taken is decreased by an additional 10%.
 SKILL_20151224_006011	[Enables you to equip [Leather] armor.{nl}{nl}When equipped with 3 or more pieces of [Leather] armor, increases your evasion.{nl}When equipped with 4 [Leather] armor pieces, your evasion increases from attributes by an additional 50%.
@@ -6014,7 +6014,7 @@ SKILL_20151224_006013	Increases the companion's stamina cost cycle duration by 1
 SKILL_20151224_006014	When the HP of your companion is less than 50%, it will activate the [First Aid] effect and recover HP for 2 seconds. The duration is increased by 1 second per attribute level from Lv. 2.[First Aid] cannot be used for another 10 minutes after it has been activated.
 SKILL_20151224_006015	Bash: Specialty
 SKILL_20151224_006016	Increases the damage dealt on an enemy with [Bash] by 35 per attribute level.
-SKILL_20151224_006017	Increases the physical attack, while your maximum HP decreases of [Restrain] per attribute level.
+SKILL_20151224_006017	Increases [Restrain]'s physical attack, while your maximum HP decreases per attribute level.
 SKILL_20151224_006018	Increases the maximum HP of your character by 5% per attribute level while [Swash Buckling] is active.
 SKILL_20151224_006019	Increases your physical defense by 10% per attribute level while [Guard] is active.
 SKILL_20151224_006020	Increases the character's evasion by 6% per attribute level while [Guardian] is active.
@@ -6028,10 +6028,10 @@ SKILL_20151224_006027	Enemies hit by [Slithering] become vulnerable to Strike-pr
 SKILL_20151224_006028	Targe Smash: Remove Knockback
 SKILL_20151224_006029	[Targe Smash] no longer knocks enemies back.
 SKILL_20151224_006030	Increases your block penetration by 10% per attribute level when equipped with a [Two-handed Spear].
-SKILL_20151224_006031	Duration of [Install Distribution Table] Salad increase by a minute per the attribute level.
-SKILL_20151224_006032	Duration of [Install Distribution Table] Sandwitch increase by a minute per the attribute level.
-SKILL_20151224_006033	Duration of [Install Distribution Table] Soup increase by a minute per the attribute level.
-SKILL_20151224_006034	Duration of [Install Distribution Table] Yogurt increase by a minute per the attribute level.
+SKILL_20151224_006031	Increases the duration of Salad from [Refreshment Table] by 1 minute per attribute level.
+SKILL_20151224_006032	Increases the duration of Sandwich from [Refreshment Table] by 1 minute per attribute level.
+SKILL_20151224_006033	Increases the duration of Soup from [Refreshment Table] by 1 minute per attribute level.
+SKILL_20151224_006034	Increases the duration of Yogurt from [Refreshment Table] by 1 minute per attribute level.
 SKILL_20151224_006035	Pistol Shot: Enhance
 SKILL_20151224_006036	Increases the damage dealt on an enemy with [Pistol Shot] by 1% per attribute level.
 SKILL_20151224_006037	Decreases damage taken to x2 from x3 when [Double Pay Earn] is active.
@@ -6048,7 +6048,7 @@ SKILL_20151224_006047	Reduces the damage taken by 4% per attribute level when th
 SKILL_20151224_006048	Serpentine: Enhance
 SKILL_20151224_006049	Increases the damage dealt on an enemy with [Serpentine] by 1% per attribute level.
 SKILL_20151224_006050	Serpentine: Bleeding
-SKILL_20151224_006051	Afflicts [Bleeding] with 2% rate per attribute level of [Serpentine] for 8 seconds. Bleeding damage is proportional to the character's physical attack.
+SKILL_20151224_006051	Inflicts [Bleeding] with 2% rate per attribute level of [Serpentine] for 8 seconds. Bleeding damage is proportional to the character's physical attack.
 SKILL_20151224_006052	Two-handed Spear Mastery: Large-Type Target Hunter
 SKILL_20151224_006053	Increases the damage dealt on large enemies with [Two-handed Spear]. Increases by 4% per attribute level against large-type enemies and 2% per attribute level against boss enemies.
 SKILL_20151224_006054	Enhanced the damage of [Energy Bolt] to Wizard's 2nd Circle standards.
@@ -6057,13 +6057,13 @@ SKILL_20151224_006056	Enhanced the damage of [Earthquake] to Wizard's 3rd Circle
 SKILL_20151224_006057	Deals additional damage equal to 40% magic attack per attribute level when attacking an enemy under [Sleep] with [Energy Bolt].
 SKILL_20151224_006058	Enemies affected by [Lethargy] will receive 20% additional damage with Strike-property attacks.
 SKILL_20151224_006059	Increases magic damage by 10% per attribute level while [Quick Cast] is active.
-SKILL_20151224_006060	Fire Property attack increases by 5 per Attribute level for 5 seconds when allies step on [Fire Wall].
+SKILL_20151224_006060	Increases the fire property attack by 5 per attribute level for 5 seconds when allies step on [Fire Wall]
 SKILL_20151224_006061	Decreases the fire resistance of nearby enemies by 10 per attribute level for 5 seconds when [Enchant Fire] is used.
-SKILL_20151224_006062	Deals additional damage to the not frozen enemies. A double attack to the not frozen enemies, a triple attack to the frozen enemies.
+SKILL_20151224_006062	Deals additional damage to unfrozen enemies. A double attack to unfrozen enemies, a triple attack to frozen enemies.
 SKILL_20151224_006063	Increases the freeze duration of [Subzero Shield] by 0.5 seconds per attribute level.
 SKILL_20151224_006064	Decreases the physical defense by 10% per attribute level on enemies that are pulled by [Gravity Pole].
 SKILL_20151224_006065	Decreases the AoE Defense Ratio of the enemies gathered through [Hangman's Knot] by 1.
-SKILL_20151224_006066	nemies affected by [Swell Body] will have their movement speed decreased by 15% and physical and magic attack increased by 20% per attribute level.
+SKILL_20151224_006066	Enemies affected by [Swell Body] will have their movement speed decreased by 15% and physical and magic attack increased by 20% per attribute level.
 SKILL_20151224_006067	Enemies affected by [Shrink Body] will have their movement speed increased by 10% and physical and magic attack decreased by 25% per attribute level.
 SKILL_20151224_006068	When you attack an enemy affected by [Swell Body] while [Left Arm Enhancement] is active, increases the damage dealt on an enemy by 35 per attribute level.
 SKILL_20151224_006069	When you attack an enemy affected by [Swell Body] while [Left Arm Enhancement] is active, it will continuously apply the [Attacked Weakened] status effect. Increases the duration by 8 seconds per attribute level and [Attacked Weakened] can stack up to 10 times.
@@ -6072,20 +6072,20 @@ SKILL_20151224_006071	Increases the damage dealt on an enemy with [Evocation] by
 SKILL_20151224_006072	Desmodus: Enhance
 SKILL_20151224_006073	Increases the damage dealt on an enemy with [Desmodus] by 1% per attribute level.
 SKILL_20151224_006074	Enemies affected by [Slow] have their critical resistance decreased by 15% equal to by the character (caster) INT.
-SKILL_20151224_006075	Increases the duration of [Confusion] from Lv. 2 by 2 seconds per attribute level, after using [Back Masking], the enemies that will be pulled by aggro will be affected by [Confusion] for 8 seconds.
-SKILL_20151224_006076	Physical ATK and Magic ATK will be increased for 30 mins for the allies that participated in [Item Awakening] dungeon. ATK rate will increase by 20% per Attribute level.
+SKILL_20151224_006075	Increases the duration of [Confusion] from Lv. 2 by 2 seconds per attribute level after using [Back Masking]. Enemies that are pulled by aggro are affected by [Confusion] for 8 seconds.
+SKILL_20151224_006076	Increases physical attack and magic attack of allies who participated in a [Item Awakening] dungeon for 30 minutes. Increases attack by 20% per attribute level.
 SKILL_20151224_006077	Rune Caster: Veteran Casting
 SKILL_20151224_006078	Right after using Rune Caster's skills, you will receive the [Quick Cast] effect with 1% chance per attribute level. The effect will be decided based on the caster's skill levels.
-SKILL_20151224_006079	Ice Run: Slow
-SKILL_20151224_006080	Decrease the movement speed for 7 seconds to 50% with a 5% chance per attribute level, when you attack while activating [Ice Rune].
-SKILL_20151224_006081	Demolition Rune: Enhancement
-SKILL_20151224_006082	Increases the damage of [Demolition Rune] to enemies to 1% per attribute level.
+SKILL_20151224_006079	Ice Rune: Slow
+SKILL_20151224_006080	Decreases movement speed by 50% for 7 seconds at a 5% chance per attribute level when using a basic attack to enemies while [Ice Rune] is active.
+SKILL_20151224_006081	Demolition Rune: Enhance
+SKILL_20151224_006082	Increases the damage dealt on an enemy with [Demolition Rune] by 1% per attribute level.
 SKILL_20151224_006083	Giant Rune: HP
-SKILL_20151224_006084	"Increases the HP by 20% for the party members who changed to Giant with [Giant Rune] based on caster's HP per attribute level."
-SKILL_20151224_006085	Definition Rune: Enhancement
-SKILL_20151224_006086	Increases the damage of [Definition Rune] to enemies to 1% per attribute level.
-SKILL_20151224_006087	Protection Rune:Critical Resistance
-SKILL_20151224_006088	Increases the Critical Resistance to 2+0% based on the caster's SPR with [Protection Rune].
+SKILL_20151224_006084	Increases the HP of party members who have changed to a giant with [Giant Rune], based on the caster's HP by 20% per attribute level.
+SKILL_20151224_006085	Justice Rune: Enhance
+SKILL_20151224_006086	Increases the damage dealt on an enemy with [Justice Rune] by 1% per attribute level.
+SKILL_20151224_006087	Protection Rune: Critical Resistance
+SKILL_20151224_006088	Increases the critical resistance by 20% based on the caster's SPR of [Protection Rune].
 SKILL_20151224_006089	Deploy Pavise: Bleeding Chance
 SKILL_20151224_006090	Increases the chance to afflict bleeding on an enemy when damage is dealt with [Deploy Pavise] by 1%.
 SKILL_20151224_006091	Increases the physical attack of allies within the range of [Perspective Distortion] by 5% per attribute level.
@@ -6096,35 +6096,35 @@ SKILL_20151224_006095	Wild Shot: Enhance
 SKILL_20151224_006096	Increases the damage dealt on an enemy with [Wild Shot] by 1% per attribute level.
 SKILL_20151224_006097	Cannon Mastery: Penetration
 SKILL_20151224_006098	Increases your block penetration by 6% per attribute level when attacking with Cannoneer skills.
-SKILL_20151224_006099	Flying-type monsters hit by [Shootdown] will fall down on the ground for 4 seconds per attribute level. From Lv, The duration will decrease by 1.8 seconds per attribute level. (The falling the monsters will be received additional damage  by Cannon Shot.
+SKILL_20151224_006099	Flying-type monsters hit by [Shootdown] will fall down on the ground for 4 seconds per attribute level. From Lv. 2, the duration decreases by 1.8 seconds per attribute level. (The Flying-type monsters who fall down will receive additional damage by Cannon Shot.)
 SKILL_20151224_006100	Increases the attacking range of [Siege Burst] by 25 per attribute level.
 SKILL_20151224_006101	Increases the chance to instantly kill a small-type enemy with a [Rifle] by 0.25% per attribute level. (This does not apply if the enemy is of a higher level than the character's level.)
 SKILL_20151224_006102	Increases fire resistance by 14 per attribute level while [Aukuras] is active.
 SKILL_20151224_006103	Increases magic amplification by 12 per attribute level while [Zalciai] is active.
 SKILL_20151224_006104	Increases your ally's evasion by 2% per attribute level while [Monstrance] is active.
-SKILL_20151224_006105	Enemies attacked with [Effigy] fall under [Blind] state for 5 seconds at a 5% chance per Attribute level.
+SKILL_20151224_006105	Inflicts [Dark] on enemies hit by [Effigy] for 5 seconds at a chance of 5% per attribute level.
 SKILL_20151224_006106	Increases the zombie's physical defense by 8 per attribute level when using [Bwa Kayiman].
 SKILL_20151224_006107	Increases the body's evasion by 10% per attribute level while [Out of Body] is active.
 SKILL_20151224_006108	Deals damage equal to 20% magic attack per attribute level to enemies hit with [Barrier].
 SKILL_20151224_006109	Increases the character's SP recovery. Increases the SP recovery by 10 per attribute level.
-SKILL_20151224_006110	Energy Blast : Remove knockdown
+SKILL_20151224_006110	Energy Blast: Remove Knockdown
 SKILL_20151224_006111	You can change directions while using [Energy Blast]. (You will not be pushed if this attribute is ON.)
 SKILL_20151224_006112	Damage the enemy when they step on the magic circle created by [Healing Factor]. The damage is determined by the value of the character's current HP.
 SKILL_20151224_006113	The range of [Fumigate] becomes a purification area for 10 seconds. Increases the ally's poison resistance by 10% per attribute level.
 SKILL_20151224_006114	Increases the ally's status ailment resistance within the range of [Nachash] by 1% per attribute level.
 SKILL_20151224_006115	Inflicts [Petrification] for 3 seconds on enemies affected by [Curse] when attacking with [Merkabah].
-SKILL_20151224_006116	LastRites: Promoting Spirits
-SKILL_20151224_006117	Increases the lower limit HP of [LastRites] by 2% per attribute level.
-SKILL_20151224_006118	Installing Cappella : Duration
-SKILL_20151224_006119	Increases the duration of [Installing Cappella] by 3 seconds.
-SKILL_20151224_006120	MagnusExorcismus: Enhancement
-SKILL_20151224_006121	Increases the damage dealt on an enemy with [MagnusExorcismus] by 1% per attribute level.
+SKILL_20151224_006116	Last Rites: Promoting Spirits
+SKILL_20151224_006117	Increases the lower limit HP of [Last Rites] by 2% per attribute level.
+SKILL_20151224_006118	Build Cappella: Duration
+SKILL_20151224_006119	Increases the duration of the built capella of [Build Cappella] by 3 seconds.
+SKILL_20151224_006120	Magnus Exorcismus: Enhance
+SKILL_20151224_006121	Increases the damage dealt on an enemy with [Magnus Exorcismus] by 1% per attribute level.
 SKILL_20151224_006122	Resurrection: HP Recovery
 SKILL_20151224_006123	Recovers the maximum HP of revived character with [Resurrection] by 10% per attribute level.
 SKILL_20151224_006124	Chaplain: SP Recovery
 SKILL_20151224_006125	Chaplain: Motivation
-SKILL_20151224_006126	Increases the  damage dealt on an enemy with [LastRites] and [Revive]  by 15% per attribute level while [LastRites] and [Revive] are active.
-SKILL_20151224_006127	Increase the Pierce damage of allies within the range of [Barrier] by 10% per level.
+SKILL_20151224_006126	Increases the damage dealt on an enemy with [Last Rites] and [Revive] by 15% per attribute level while [Last Rites] and [Revive] are active.
+SKILL_20151224_006127	Increases Pierce damage of allies within the range of [Barrier] by 10% per level.
 SKILL_20151224_006128	Increases the maximum amount of magic circles [Detonate Traps] can activate from by 1 per skill level.
 SKILL_20151224_006129	Alchemist 1st Circle required
 SKILL_20151224_006130	Archer 1st Circle required
