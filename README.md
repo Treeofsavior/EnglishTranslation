@@ -1,4 +1,4 @@
-##NOTICE (Updated 24-12-2015)
+##NOTICE (Updated 04-02-2016)
 <br>
 **GUIDELINES IN WIKI HAVE BEEN UPDATED** <br>
 **PLEASE CHECK THE [GUIDELINES](https://github.com/Treeofsavior/EnglishTranslation/wiki/Guidelines) BEFORE SENDING YOUR PULL REQUESTS.**
@@ -7,9 +7,9 @@ You may check the list of those who qualify for the Beta Keys [**HERE**](https:/
 
 Thank you and please continue to send us your support and interest for Tree of Savior.
 
-1. UI and Skill.tsv files have been updated based on KOBT. (**NEW**)
+1. All files have been updated based on Steam Test Server. (**NEW**)
 
-2. {memo X} have been updated to English files.
+2. {memo X} have been removed to all files.
 
 3. Please send a separate Pull Request for EACH FILE. 
 
