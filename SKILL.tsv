@@ -5816,7 +5816,7 @@ SKILL_20151224_005815	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRati
 SKILL_20151224_005816	{#993399}{ol}[Magic] - [Dark]{/}{/}{nl}Summon the devil of hatred to attack enemies. Enemies attacked by this magic can take you as prior target, and will temporarily take extra damage from Holy-type attacks
 SKILL_20151224_005817	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Stigma Duration: 5 seconds
 SKILL_20151224_005818	Evil Sacrifice
-SKILL_20151224_005819	{#993399}{ol}[Magic]{/}{/}Set the enemies in the targeted area as a sacrifice to the evil spirits. The evil spirits will move towards the targeted area attack enemies.
+SKILL_20151224_005819	{#993399}{ol}[Magic]{/}{/}Set the enemies in the targeted area as a sacrifice to the evil spirits. The evil spirits will move towards the targeted area to attack enemies.
 SKILL_20151224_005820	Demolition Rune
 SKILL_20151224_005821	{#993399}{ol}[Magic]{/}{/}Inflicts powerful damage to enemies in a targeted area. The attacked enemies will deal additional damage to other enemies by reflecting magic.
 SKILL_20151224_005822	Ice Rune
@@ -5879,9 +5879,9 @@ SKILL_20151224_005878	STR: +#{CaptionRatio}#{nl}Duration: #{CaptionRatio2}# seco
 SKILL_20151224_005879	Attack 200% + #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Maximum Targets: #{CaptionRatio2}#
 SKILL_20151224_005880	Maximum Capsule Count: #{CaptionRatio}#
 SKILL_20151224_005881	Carves a statue of Zemyna, the Goddess of Earth.{nl}Decreases the SP cost and SP recovery time for allies who are within the radius of the Goddess Statue.
-SKILL_20151224_005882	Decreases #{CaptionRatio}# SP{nl}SP recovery time decreases to 5 seconds{nl}Statue Duration #{CaptionRatio2}# seconds{nl}Consumes 1 Pine wood
+SKILL_20151224_005882	Decreases #{CaptionRatio}# SP{nl}SP recovery time decreases to 5 seconds{nl}Statue Duration: #{CaptionRatio2}# seconds{nl}Consumes 1 Pine Wood
 SKILL_20151224_005883	Carves a statue of Laima, the Goddess of Fate. {nl}Decreases the cooldown of your party members' skills within the radius of the Goddess Statue.
-SKILL_20151224_005884	Cooldown: -#{CaptionRatio}#% {nl}Movement Speed: -20 {nl}Statue Duration: #{CaptionRatio2}# seconds{nl}Consumes 1 Cedar wood
+SKILL_20151224_005884	Cooldown: -#{CaptionRatio}#% {nl}Movement Speed: -20 {nl}Statue Duration: #{CaptionRatio2}# seconds{nl}Consumes 1 Cedar Wood
 SKILL_20151224_005885	Attack: 250% + #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%
 SKILL_20151224_005886	Temporarily increases the fire, ice, lightning, poison and earth property resistance and property attack of you and your party members. At a certain chance, nullifies the listed property attacks and decreases the magic defense of enemies nearby.
 SKILL_20151224_005887	Property Resistance: +#{CaptionRatio}#{nl}Property Attack Nullify Chance: #{CaptionRatio2}#%{nl}Enemy Magic Defense: #{SkillFactor}#{nl}Duration: #{CaptionTime}# seconds
@@ -6008,7 +6008,7 @@ SKILL_20151224_006007	Unlimited Instanced Dungeon
 SKILL_20151224_006008	You can enter instanced dungeons without restrictions.
 SKILL_20151224_006009	Enables you to equip the [Pistol] weapon type. You can also press the C button to attack.
 SKILL_20151224_006010	Enables you to equip [Cloth] armor. When equipped with 3 or more pieces of [Cloth] armor, increases your maximum SP and magic damage taken is decreased by 5%. When equipped with 4 [Cloth] armor pieces, your magic defense increases and magic damage taken is decreased by an additional 10%.
-SKILL_20151224_006011	Enables you to equip [Leather] armor. When equipped with 3 or more pieces of [Leather] armor, increases your Evasion. When equipped with 4 [Leather] armor pieces, your evasion increases from attributes by an additional 50%.
+SKILL_20151224_006011	Enables you to equip [Leather] armor. When equipped with 3 or more pieces of [Leather] armor, increases your evasion. When equipped with 4 [Leather] armor pieces, your evasion increases from attributes by an additional 50%.
 SKILL_20151224_006012	Enables you to equip [Plate] armor.{nl}{nl}When equipped with 3 or more pieces of [Plate] armor, increases your maximum HP and physical damage taken is decreased by 5%.{nl}When equipped with 4 [Plate] armor pieces, your maximum stamina increases and physical damage taken is decreased by an additional 10%.
 SKILL_20151224_006013	Increases the companion's stamina cost cycle duration by 10 seconds per attribute level.
 SKILL_20151224_006014	When the HP of your companion is less than 50%, it will activate the [First Aid] effect and recover HP for 2 seconds. The duration is increased by 1 second per attribute level from Lv. 2.[First Aid] cannot be used for another 10 minutes after it has been activated.
