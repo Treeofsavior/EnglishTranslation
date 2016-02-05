@@ -1233,15 +1233,15 @@ SKILL_20150317_001232	Duration #{CaptionTime}# seconds, Accuracy -#{CaptionRatio
 SKILL_20150317_001233	Shock the enemies under [Freeze] nearby and inflict damage.
 SKILL_20150317_001234	Lv.1 Attack rate #{SkillFactor}#, Splash #{SkillSR}# Lv.2 Attack rate #{SkillFactor}#, Splash #{SkillSR}# Lv.3 Attack rate #{SkillFactor}#, Splash #{SkillSR}# Lv.4 Attack rate #{SkillFactor}#, Splash #{SkillSR}# Lv.5 Attack rate #{SkillFactor}#, Splash #{SkillSR}#
 SKILL_20150317_001235	Apply [Curse] to the target and reduce its defense
-SKILL_20150317_001236	#VALUE!
+SKILL_20150317_001236	Lv.1 Defense, Magic resistance - #{CaptionRatio}#% {nl}Duration #{CaptionTime}# second Lv.2 Defense, Magic resistance - #{CaptionRatio}#% {nl}Duration #{CaptionTime}# second Lv. 3 Defense, Magic resistance - #{CaptionRatio}#% {nl}Duration #{CaptionTime}# second Lv.4 Defense, Magic resistance - #{CaptionRatio}#% {nl}Duration #{CaptionTime}# second Lv.5 Defense , Magic resistance - #{CaptionRatio}#% {nl}Duration #{CaptionTime}# second
 SKILL_20150317_001237	Inflict damage on target under [Curse]. Every 3rd attack inflicts greater damage.
-SKILL_20150317_001238	#VALUE!
+SKILL_20150317_001238	Lv.1 Attack rate #{SkillFactor}#, Attack rate every 3rd attack #{CaptionRatio}#{nl}Range #{Arg1}# Lv.2 Attack rate #{SkillFactor}#, Attack rate every 3rd attack #{CaptionRatio}#{nl}Range #{Arg1}# Lv.3 Attack rate #{SkillFactor}#, Attack rate every 3rd attack #{CaptionRatio}#{nl}Range #{Arg1}# Lv.4Attack rate #{SkillFactor}#, Attack rate every 3rd attack #{CaptionRatio}#{nl}Range #{Arg1}# Lv.5 Attack rate #{SkillFactor}#, Attack rate every 3rd attack #{CaptionRatio}#{nl}Range #{Arg1}#
 SKILL_20150317_001239	Inflict damage to nearby enemies by summoning an aura of [Addiction].
-SKILL_20150317_001240	#VALUE!
+SKILL_20150317_001240	Lv.1 attack rate #{SkillFactor}# of damage every 0.5 seconds {nl}Duration #{CaptionTime}# seconds Lv.2 attack rate every #{SkillFactor}# of damage every 0.5 seconds {nl}Duration #{CaptionTime}# seconds Lv.3 attack rate every #{SkillFactor}# of damage every 0.5 seconds {nl}Duration #{CaptionTime}# seconds Lv.4 attack rate every #{SkillFactor}# of damage every 0.5 seconds {nl}Duration #{CaptionTime}# seconds Lv.5 attack rate every #{SkillFactor}# of damage every 0.5 seconds {nl}Duration #{CaptionTime}# seconds
 SKILL_20150317_001241	Draw the Noir of War on the ground. Increases strength and intelligence of active allies.
-SKILL_20150317_001242	#VALUE!
+SKILL_20150317_001242	Lv.1 STR, INT + #{CaptionRatio2}#, Max. target #{CaptionRatio}#{nl} Skill duration #{CaptionTime}# seconds, Buff duration 2 minutes Lv.2 STR, INT + #{CaptionRatio2}#, Max. target #{CaptionRatio}#{nl} Skill duration #{CaptionTime}# seconds, Buff duration 2 minutes Lv.3 STR, INT + #{CaptionRatio2}#, Max. target #{CaptionRatio}#{nl} Skill duration #{CaptionTime}# seconds, Buff duration 2 minutes Lv.4 STR, INT+ #{CaptionRatio2}#, Max. target #{CaptionRatio}#{nl} Skill duration #{CaptionTime}# seconds, Buff duration 2 minutes Lv. 5 STR, INT + #{CaptionRatio2}#, Max. target #{CaptionRatio}#{nl} Skill duration #{CaptionTime}# seconds, Buff duration 2 minutes
 SKILL_20150317_001243	Draw the Noir of Death on ground. Increases CON and AGI of active allies.
-SKILL_20150317_001244	#VALUE!
+SKILL_20150317_001244	Lv.1 CON, AGI +#{CaptionRatio2}#, Max. target #{CaptionRatio}#{nl}Skill duration #{CaptionTime}# seconds,Buff duration 2 minutes Lv.2 CON, AGI + #{CaptionRatio2}#, Max #{CaptionRatio}#{nl} Skill duration #{CaptionTime}# seconds, Buff duration 2 minutes Lv.3 CON, AGI +#{CaptionRatio2}#, Max. target #{CaptionRatio}#{nl} Skill duration #{CaptionTime}# seconds, Buff duration 2 minutes Lv.4 CON, AGI +#{CaptionRatio2}#, Max. target #{CaptionRatio}#{nl} Skill duration #{CaptionTime}# seconds, Buff duration 2 minutes Lv. 5 CON, AGI + #{CaptionRatio2}#, Max. target #{CaptionRatio}#{nl} Skill duration #{CaptionTime}# seconds, Buff duration 2 minutes
 SKILL_20150317_001245	Currently in development
 SKILL_20150317_001246	Summon magic circle that heals allies.
 SKILL_20150317_001247	Marble
@@ -1519,7 +1519,7 @@ SKILL_20150317_001518	Remove spirit from body. Spirit can only move near the bod
 SKILL_20150317_001519	Body moving range 150
 SKILL_20150317_001520	Prakriti
 SKILL_20150317_001521	Move to where the body is located.
-SKILL_20150317_001522	
+SKILL_20150317_001522	Movement time 0.5~1second(s)
 SKILL_20150317_001523	Possession
 SKILL_20150317_001524	{#993399}{ol}[Magic] - [Divine]{/}{/}{nl}Bind targets and attack.
 SKILL_20150317_001525	Attack #{SkillAtkAdd}#{nl}Max. Duration 5 seconds
@@ -4983,7 +4983,7 @@ SKILL_20150729_004982	Release Lunacy
 SKILL_20150729_004983	Physical ATK increases, Movement Speed increases, Physical DEF decreases
 SKILL_20150729_004984	Enemy cannot jump when attacked with [Skull Swing].
 SKILL_20150729_004985	Enchant Fire: Fire Property Resistance Decrease
-SKILL_20150729_004986	
+SKILL_20150729_004986	10% reduction in fire attribute resistance for 5 seconds per attribute level to enemies nearby when [Enchant Fire] is casted.
 SKILL_20150729_004987	[Stop] can also stop boss monsters but once released, it will not be stopped again.
 SKILL_20150729_004988	Heal: Remove Damage
 SKILL_20150729_004989	[Heal] will not inflict damage and react to enemies.
@@ -5773,8 +5773,8 @@ SKILL_20151224_005772	Warp To Guild Member
 SKILL_20151224_005773	Warps to a specific guild member's location. You cannot warp to guild members who are in an instanced dungeon.
 SKILL_20151224_005774	Warp To Specific Guild Member's Location
 SKILL_20151224_005775	Build Guild Tower
-SKILL_20151224_005776	The Guild Tower allows you to use additional functionalities. You can
-SKILL_20151224_005777	 use items if you build a Guild Tower.{nl}Level 1: Warp{nl}Level 2: Storage{nl}Level 3: Guild Upgrade{nl}Level 4: Guild Events{nl}Level 5: Guild Hangout
+SKILL_20151224_005776	Allows the Guild Tower to use extra features. The Guild Tower
+SKILL_20151224_005777	 Can be planted by using an item.{nl}Level1: Can use warp features{nl}Level2: Can use storage features{nl}Level3: Can use Guild Growth features{nl}Lvel4: Can use Guild event features{nl}Level5: Can use Guild Hangout features
 SKILL_20151224_005778	Improve Guild Tower Features
 SKILL_20151224_005779	Reduce Craft Time
 SKILL_20151224_005780	Plant a flag that reduces the crafting time of all guild members in the area nearby. This can only be used nearby a Guild Tower.
@@ -5919,15 +5919,15 @@ SKILL_20151224_005918	Final Attack Damage: #{CaptionRatio}#%
 SKILL_20151224_005919	Decrease the level of the enemy depending on the calculated number.
 SKILL_20151224_005920	Additional Enemy Level: -#{CaptionRatio}#
 SKILL_20151224_005921	Last Rites
-SKILL_20151224_005922	
-SKILL_20151224_005923	Duration: #{CaptionTime}# seconds{nl}Consumes 1 Gyslotis
-SKILL_20151224_005924	Build Cappella
-SKILL_20151224_005925	
+SKILL_20151224_005922	Makes the attacks of party members have divine attributes. Divine attribute damage is increased in proportion to the Rites level of the caster and becomes more powerful when HP is under 40%.
+SKILL_20151224_005923	Duration: #{CaptionTime}# seconds{nl}Consumes 1 
+SKILL_20151224_005924	Deploy Capella
+SKILL_20151224_005925	Deploys a temporary sacellum with a wrapped cloak. The caster and party members are able to simultaneously receive the effects of the caster's Aspersion, Monstrance, Blessing, Sacrament, Stone Skin.
 SKILL_20151224_005926	Cappella Duration: #{CaptionRatio}# seconds{nl}Effect Duration: #{CaptionRatio2}# seconds{nl}Consumes 1 Cape
 SKILL_20151224_005927	Magnus Exorcismus
-SKILL_20151224_005928	
+SKILL_20151224_005928	Transforms the Exorcise magic circle in front of the caster into an enormous light pillar of exorcism. This divine pillar of light continues to damage nearby enemies.
 SKILL_20151224_005929	Aspergillum
-SKILL_20151224_005930	
+SKILL_20151224_005930	Fills the equipped weapon with divine water and makes it spray with every attack. The level of divine water being sprayed is the same level as the caster's Aspergillum level.
 SKILL_20151224_005931	Duration: #{CaptionTime}# seconds{nl}Consumes 1 Holy Water
 SKILL_20151224_005932	Convert at certain rate when hit.
 SKILL_20151224_005933	Scheduled removal
@@ -5946,18 +5946,18 @@ SKILL_20151224_005945	Evocation.
 SKILL_20151224_005946	Reduced SPR and INT.
 SKILL_20151224_005947	Penalty is eased during combat incapability while buff is active.
 SKILL_20151224_005948	Aspergillum
-SKILL_20151224_005949	Increases attack of the ice attribute type.
-SKILL_20151224_005950	Increases the effect resistance against unusual statues.
+SKILL_20151224_005949	Increased attack of Ice attribute skills.
+SKILL_20151224_005950	Increased chance of resisting status ailments.
 SKILL_20151224_005951	Increases attack and defense.
 SKILL_20151224_005952	Increased STR.
-SKILL_20151224_005953	Decreases the required SP, and SP recovery time.
+SKILL_20151224_005953	Decreases consumption and reduces recovery time of SP.
 SKILL_20151224_005954	Continuos reduction of STA.
 SKILL_20151224_005955	Hide
 SKILL_20151224_005956	Hidden state
 SKILL_20151224_005957	Reduced crafting time.
 SKILL_20151224_005958	Cyclone: Resistance
 SKILL_20151224_005959	Increased harmful effect resistance rate
-SKILL_20151224_005960	Increased recovery rate and recovery speed of HP, SP and Stamina
+SKILL_20151224_005960	Increased recovery amount and recovery rate of HP, SP and STA.
 SKILL_20151224_005961	Sacrifice HP recovery to 0 and raise magic amplification.
 SKILL_20151224_005962	Increase INT
 SKILL_20151224_005963	Increase defense
@@ -5991,21 +5991,21 @@ SKILL_20151224_005990	Shock Cutter: 5 Continuous Attack
 SKILL_20151224_005991	Changed to 5 continuous attacks
 SKILL_20151224_005992	Stamina reduction
 SKILL_20151224_005993	Cripple
-SKILL_20151224_005994	Effigy Bonus 1
-SKILL_20151224_005995	Apply additional damage bonus to Effigy upon the 2nd attack
-SKILL_20151224_005996	Increases Holy Property attack when equipped by a Cleric class
-SKILL_20151224_005997	+5 increased EXP of Instanced Dungeon Party
-SKILL_20151224_005998	+5% increased EXP of Instanced Dungeon Auto Match
+SKILL_20151224_005994	Effigy bonus1
+SKILL_20151224_005995	Applies the additional damage of Effigy on the second attack
+SKILL_20151224_005996	Increases divine attribute attack when used by Cleric Types
+SKILL_20151224_005997	5% increase of EXP from Instanced Dungeon parties
+SKILL_20151224_005998	5% increase of automatic Instanced Dungeon matching
 SKILL_20151224_005999	Token Benefits: Movement Speed Increase
 SKILL_20151224_006000	Increased movement speed
 SKILL_20151224_006001	Token
-SKILL_20151224_006002	- Able to learn 2 attributes simultaneously{nl} - Reduced Market Cost Fee (30%{img white_right_arrow 16 16}10%){nl} - List up to 5 items to the Market{nl} - +3 increased character movement
+SKILL_20151224_006002	 - Able to learn 2 attributes simultaneously{nl} - Reduced Market Cost Fee (30%{img white_right_arrow 16 16}10%){nl} - List up to 5 items to the Market{nl} - +3 increased character movement
 SKILL_20151224_006003	Nexon PC Internet Cafe
-SKILL_20151224_006004	+30% increased EXP when defeating monsters{nl}20% discount Market commission fee{nl}Increased amount of listings to the Market{nl}Able to learn 3 attributes simultaneously{nl}+3 increased movement speed{nl}x2 Stamina recovery rate
+SKILL_20151224_006004	+30% EXP gained from hunting monsters{n1}20% Reduced Market Cost Fee{n1}Able to list more items in the Market{n1}Able to learn up to 3 attributes simultaneously{n1}+3 increased character movement{n1}Doubled STA recovery rate
 SKILL_20151224_006005	EXP Book
-SKILL_20151224_006006	+30% increased EXP when defeating monsters{nl}2x Stamina recovery rate
-SKILL_20151224_006007	Unlimited Instanced Dungeon
-SKILL_20151224_006008	You can enter instanced dungeons without restrictions.
+SKILL_20151224_006006	+30% EXP gained from hunting monsters{n1}Doubled STA recovery rate
+SKILL_20151224_006007	Unlimited Instanced Dungeon Entry
+SKILL_20151224_006008	Able to enter Instanced Dungeons and Office Missions an unlimited amount of times.
 SKILL_20151224_006009	Enables you to equip the [Pistol] weapon type. You can also press the C button to attack.
 SKILL_20151224_006010	Enables you to equip [Cloth] armor. When equipped with 3 or more pieces of [Cloth] armor, increases your maximum SP and magic damage taken is decreased by 5%. When equipped with 4 [Cloth] armor pieces, your magic defense increases and magic damage taken is decreased by an additional 10%.
 SKILL_20151224_006011	Enables you to equip [Leather] armor. When equipped with 3 or more pieces of [Leather] armor, increases your evasion. When equipped with 4 [Leather] armor pieces, your evasion increases from attributes by an additional 50%.
@@ -6014,7 +6014,7 @@ SKILL_20151224_006013	Increases the companion's stamina cost cycle duration by 1
 SKILL_20151224_006014	When the HP of your companion is less than 50%, it will activate the [First Aid] effect and recover HP for 2 seconds. The duration is increased by 1 second per attribute level from Lv. 2.[First Aid] cannot be used for another 10 minutes after it has been activated.
 SKILL_20151224_006015	Bash: Specialty
 SKILL_20151224_006016	Increases the damage dealt on an enemy with [Bash] by 35 per attribute level.
-SKILL_20151224_006017	Increases [Restrain]'s physical attack, while your maximum HP decreases per attribute level.
+SKILL_20151224_006017	Increases the physical attack, while your maximum HP decreases of [Restrain] per attribute level.
 SKILL_20151224_006018	Increases the maximum HP of your character by 5% per attribute level while [Swash Buckling] is active.
 SKILL_20151224_006019	Increases your physical defense by 10% per attribute level while [Guard] is active.
 SKILL_20151224_006020	Increases the character's evasion by 6% per attribute level while [Guardian] is active.
@@ -6028,10 +6028,10 @@ SKILL_20151224_006027	Enemies hit by [Slithering] become vulnerable to Strike-pr
 SKILL_20151224_006028	Targe Smash: Remove Knockback
 SKILL_20151224_006029	[Targe Smash] no longer knocks enemies back.
 SKILL_20151224_006030	Increases your block penetration by 10% per attribute level when equipped with a [Two-handed Spear].
-SKILL_20151224_006031	Increases the duration of Salad from [Refreshment Table] by 1 minute per attribute level.
-SKILL_20151224_006032	Increases the duration of Sandwich from [Refreshment Table] by 1 minute per attribute level.
-SKILL_20151224_006033	Increases the duration of Soup from [Refreshment Table] by 1 minute per attribute level.
-SKILL_20151224_006034	Increases the duration of Yogurt from [Refreshment Table] by 1 minute per attribute level.
+SKILL_20151224_006031	Duration of [Install Distribution Table] Salad increased by a minute per level.
+SKILL_20151224_006032	Duration of [Install Distribution Table] Sandwich increased by a minute per level.
+SKILL_20151224_006033	Duration of [Install Distribution Table] Soup increased by a minute per level.
+SKILL_20151224_006034	Duration of [Install Distribution Table] Yogurt increased by a minute per level.
 SKILL_20151224_006035	Pistol Shot: Enhance
 SKILL_20151224_006036	Increases the damage dealt on an enemy with [Pistol Shot] by 1% per attribute level.
 SKILL_20151224_006037	Decreases damage taken to x2 from x3 when [Double Pay Earn] is active.
@@ -6057,9 +6057,9 @@ SKILL_20151224_006056	Enhanced the damage of [Earthquake] to Wizard's 3rd Circle
 SKILL_20151224_006057	Deals additional damage equal to 40% magic attack per attribute level when attacking an enemy under [Sleep] with [Energy Bolt].
 SKILL_20151224_006058	Enemies affected by [Lethargy] will receive 20% additional damage with Strike-property attacks.
 SKILL_20151224_006059	Increases magic damage by 10% per attribute level while [Quick Cast] is active.
-SKILL_20151224_006060	Increases the fire property attack by 5 per attribute level for 5 seconds when allies step on [Fire Wall]
+SKILL_20151224_006060	Increases Fire ATK by 5 per Attribute level for 5 secs when an ally steps on [Fire Wall].
 SKILL_20151224_006061	Decreases the fire resistance of nearby enemies by 10 per attribute level for 5 seconds when [Enchant Fire] is used.
-SKILL_20151224_006062	Deals additional damage to unfrozen enemies. A double attack to unfrozen enemies, a triple attack to frozen enemies.
+SKILL_20151224_006062	[Gust] deals damage even to enemies that are not [Frozen]. Attacks enemies that are not [Frozen] 2 times and attacks [Frozen] enemies 3 times.
 SKILL_20151224_006063	Increases the freeze duration of [Subzero Shield] by 0.5 seconds per attribute level.
 SKILL_20151224_006064	Decreases the physical defense by 10% per attribute level on enemies that are pulled by [Gravity Pole].
 SKILL_20151224_006065	Decreases the AoE Defense Ratio of the enemies gathered through [Hangman's Knot] by 1.
@@ -6072,10 +6072,10 @@ SKILL_20151224_006071	Increases the damage dealt on an enemy with [Evocation] by
 SKILL_20151224_006072	Desmodus: Enhance
 SKILL_20151224_006073	Increases the damage dealt on an enemy with [Desmodus] by 1% per attribute level.
 SKILL_20151224_006074	Enemies affected by [Slow] have their critical resistance decreased by 15% equal to by the character (caster) INT.
-SKILL_20151224_006075	Increases the duration of [Confusion] from Lv. 2 by 2 seconds per attribute level after using [Back Masking]. Enemies that are pulled by aggro are affected by [Confusion] for 8 seconds.
-SKILL_20151224_006076	Increases physical attack and magic attack of allies who participated in a [Item Awakening] dungeon for 30 minutes. Increases attack by 20% per attribute level.
-SKILL_20151224_006077	Rune Caster: Veteran Casting
-SKILL_20151224_006078	Right after using Rune Caster's skills, you will receive the [Quick Cast] effect with 1% chance per attribute level. The effect will be decided based on the caster's skill levels.
+SKILL_20151224_006075	Enemies provoked after using [Back Masking] will fall under [Confusion] for 6 seconds. 8 seconds of [Confusion] will be applied if the attribute is level 2.
+SKILL_20151224_006076	Physical and Magic attack will be increased for 30 mins for allies that participated in [Item Awakening] dungeon. Attack rate will increase by 20% per attribute level.
+SKILL_20151224_006077	Rune Caster: Skilled casting
+SKILL_20151224_006078	1% chance per attribute level of receiving [Quick Cast] effect after using the Runecaster skill. The effect is decided according to the caster's [Quick Cast] skill level.
 SKILL_20151224_006079	Ice Rune: Slow
 SKILL_20151224_006080	Decreases movement speed by 50% for 7 seconds at a 5% chance per attribute level when using a basic attack to enemies while [Ice Rune] is active.
 SKILL_20151224_006081	Demolition Rune: Enhance
