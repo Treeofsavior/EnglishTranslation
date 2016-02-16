@@ -5868,7 +5868,7 @@ SKILL_20151224_005867	Attack: 150% + #{SkillAtkAdd}#{nl}Attribute Damage: #{Capt
 SKILL_20151224_005868	{#DD5500}{ol}[Missile]{/}{/}{nl}Fire continuously in a straight line in front of you until the maximum range of fire. The attacked enemies might be pushed back.
 SKILL_20151224_005869	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use the butt of the gun to attack an enemy in close distance.
 SKILL_20151224_005870	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Stab an enemy by using the bayonet equipped to the rifle. The stabbed enemy might be pushed back.
-SKILL_20151224_005871	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionTime}#%{nl}Recovers HP equal to 5% of maximum HP{nl}Additional HP Recovery Rate: #{CaptionRatio}# ~ {CaptionRatio2}#{nl}Magic Circle Duration: 60 seconds
+SKILL_20151224_005871	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionTime}#%{nl}Recovers HP equal to 5% of maximum HP{nl}Additional HP Recovery Rate: #{CaptionRatio}# ~ #{CaptionRatio2}#{nl}Magic Circle Duration: 40 seconds
 SKILL_20151224_005872	Applies #{CaptionRatio}# times{nl}Duration: 60 seconds
 SKILL_20151224_005873	HP Recovery: +#{CaptionRatio}#{nl}HP Recovery Time: -#{CaptionRatio2}# seconds{nl}Torch Duration: #{CaptionTime}# seconds
 SKILL_20151224_005874	Increases the number of beneficial effects for you and your party members.
