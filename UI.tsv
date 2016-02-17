@@ -263,19 +263,19 @@ UI_20150317_000262	Coin Consumed : 0
 UI_20150317_000263	Intro
 UI_20150317_000264	{@st43}Inventory{/}
 UI_20150317_000265	{@st59}Close{/}
-UI_20150317_000266	{@st59b}Equipment {nl} {@st59s}- Hairstyle/Costume: Equipment to change a characters appearance. {nl} - Weapon: Can equip one-handed or two-handed weapons {nl} (sub-weapon/shield can be equipped with a one-handed weapon) {nl} - Armor: Top, Pants, Gloves, Shoes. {nl} - Accessories: Can equip 1 Necklace and 2 Bracelets. {nl} {/}
-UI_20150317_000267	{@st59}Hairstyle Costume Slot 1{/}
-UI_20150317_000268	{@st59}Hairstyle Costume Slot 2{/}
+UI_20150317_000266	{@st59b}Equipment {nl} {@st59s}- Hairstyle/Costume: Equipment to change a characters appearance. {nl} - Weapon: Can equip one-handed or two-handed weapons {nl} (sub-weapon/shield can be equipped with a one-handed weapon) {nl} - Armor: Top, Bottom, Gloves, Shoes. {nl} - Accessories: Can equip 1 Necklace and 2 Bracelets. {nl} {/}
+UI_20150317_000267	{@st59}Hairstyle Costume 1{/}
+UI_20150317_000268	{@st59}Hairstyle Costume 2{/}
 UI_20150317_000269	{@st59}Necklace{/}
 UI_20150317_000270	{@st59}Costume{/}
 UI_20150317_000271	{@st59}Top{/}
 UI_20150317_000272	{@st59}Gloves{/}
-UI_20150317_000273	{@st59}Pants{/}
+UI_20150317_000273	{@st59}Bottom{/}
 UI_20150317_000274	{@st59}Shoes{/}
-UI_20150317_000275	{@st59}Left Hand{/}
-UI_20150317_000276	{@st59}Right Hand{/}
-UI_20150317_000277	{@st59}Bracelet Slot 1{/}
-UI_20150317_000278	{@st59}Bracelet Slot 2{/}
+UI_20150317_000275	{@st59}Left hand{/}
+UI_20150317_000276	{@st59}Right hand{/}
+UI_20150317_000277	{@st59}Bracelet 1{/}
+UI_20150317_000278	{@st59}Bracelet 2{/}
 UI_20150317_000279	{@st59}Armband{/}
 UI_20150317_000280	{@st59}Search{/}
 UI_20150317_000281	Weight
@@ -1954,8 +1954,8 @@ UI_20151224_001953	{@st66b}  Abandoned  {/}
 UI_20151224_001954	{@st66b}Resurrect with the Soul Crystal{/}
 UI_20151224_001955	{@st59b}Shop{nl}{@st59s} - Use Shift + Right-click to enter a quantity to sell/buy multiple items{nl} - Right-click twice to sell all the items{/}
 UI_20151224_001956	Crafting Number
-UI_20151224_001957	{@st42}%s Benefit{/}
-UI_20151224_001958	Are you sure you want to use %s on this item?{/}
+UI_20151224_001957	{@st42}%s Benefits{/}
+UI_20151224_001958	Are you sure you want to use this %s?{/}
 UI_20151224_001959	Used items will be disappeared from your inventory{nl}Resets your all skill points.
 UI_20151224_001960	{@st41}Use
 UI_20151224_001961	{@st59b}Classes{nl}{@st59s}- You can learn new skills by growing the Circle of your class. {nl} - You can choose from 3 available classes to advance to from your 1st to 2nd advancement. {nl} - You can advance to the same class up to 3 times. {nl} - You cannot change back to your previous class once you advanced to another class. {nl} - You have to consume all your Skill Points to be able to advance. {nl} - You can choose the same class.{nl}{@st59b}Skills{nl}{@st59s} - You can increase the rank of each skill up to level 5.{nl} - Attributes learned from your Masters can be seen below your skills. {/}
@@ -1964,10 +1964,10 @@ UI_20151224_001963	{@st66b}Achievements{/}
 UI_20151224_001964	{@st66b}Character Settings{/}
 UI_20151224_001965	{@st59}Collection (F11){/}
 UI_20151224_001966	{@st66b}Key Settings
-UI_20151224_001967	{@st42}Period of Use : %s{/}
-UI_20151224_001968	Only apply to %s during %s {nl} and delete %s from inventory.{/}
+UI_20151224_001967	{@st42}Duration : %s{/}
+UI_20151224_001968	Applies to this %s for %s{nl} and delete %s from inventory
 UI_20151224_001969	Only apply to %s during %s {nl} and delete %s from inventory.{/}
-UI_20151224_001970	You can check the remaining time in the Character Settings window.
+UI_20151224_001970	The duration of your Token can be viewed in the Character Settings window.
 UI_20151224_001971	{@st59}Close{/}
 UI_20151224_001972	{@st43}{s18}Preview & Purchase
 UI_20151224_001973	Preview
