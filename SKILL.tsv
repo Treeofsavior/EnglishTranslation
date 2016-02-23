@@ -3126,22 +3126,22 @@ SKILL_20150401_003125	[Woodfung] Physical, Strike, Non-Attribute Attack
 SKILL_20150401_003126	[Velleg] Physical, Strike, Dark Property Attack
 SKILL_20150401_003127	Right-handed Pistol (Pistol Only)
 SKILL_20150401_003128	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use sword handle to smack enemy.{nl}Attack stunned enemies for additional damage. Damage ignore bonus applies to small and medium sized monsters.
-SKILL_20150401_003129	Attack #{SkillAtkAdd}#{nl}Ingnore small, medium target defense #{CaptionRatio}#{nl}Splash #{SkillSR}#
+SKILL_20150401_003129	Attack: #{SkillAtkAdd}#{nl}Ingnore small, medium target defense: #{CaptionRatio}#{nl}Splash: #{SkillSR}#
 SKILL_20150401_003130	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Perform a side slash on enemies.{nl}Enemies affected by the [Bleeding] status take additional damage.
 SKILL_20150401_003131	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Throw shield to attack. Shield falls on the ground and must be picked up to reuse.
 SKILL_20150401_003132	Change to stance using Shield. Block and Critiacal resistance increase but basic attack decreases.
-SKILL_20150401_003133	Block + #{CaptionRatio}# {nl}Critical resistance + #{CaptionRatio2}# {nl}Attack - #{CaptionTime}#%
-SKILL_20150401_003134	{#DD5500}{ol}[Physical] - [Strike] - [Slash]{/}{/}{nl}Use corner of shield to attack then Slash enemy.
-SKILL_20150401_003135	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use back of knife to strike and push away enemy. Enemy falls under Armor Break (Permanent on monsters)
-SKILL_20150401_003136	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Pierce the enemy.{nl}Continuous attack bonus is applied depending on size of enemy.
+SKILL_20150401_003133	Block: +#{CaptionRatio}#{nl}Critical Resistance: +#{CaptionRatio2}#{nl}Attack: -#{CaptionTime}#%
+SKILL_20150401_003134	{#DD5500}{ol}[Physical] - [Strike] - [Slash]{/}{/}{nl}Use the edge of your shield to attack and slash enemies.
+SKILL_20150401_003135	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use the back of a knife to strike and push away enemies. The enemy becomes afflicted with Armor Break (Permanent on monsters)
+SKILL_20150401_003136	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Pierces enemies.{nl}A continuous attack bonus is applied depending on the enemy's size.
 SKILL_20150401_003137	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Inflict damage on enemies by throwing your spear. The thrown spear on the ground can be re-used by picking it up.
 SKILL_20150401_003138	Slithering
-SKILL_20150401_003139	Attack #{SkillAtkAdd}#{nl}Splash #{SkillSR}#{nl}Can use when riding
-SKILL_20150401_003140	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Gather force and smash the ground with weapon to attack target.
-SKILL_20150401_003141	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Charge forward and push away enemy.
-SKILL_20150401_003142	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Gather force and stab the enemy.
-SKILL_20150401_003143	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Swong the spear over head to continuously attack enemies in front.
-SKILL_20150401_003144	Attack #{SkillAtkAdd}#{nl}Max. Duration 10 seconds{nl}Splash #{SkillSR}#{nl}Can use while riding
+SKILL_20150401_003139	Attack: #{SkillAtkAdd}#{nl}Splash: #{SkillSR}#{nl}Able to use while riding
+SKILL_20150401_003140	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Gather force and smash the ground with your weapon to attack the target.
+SKILL_20150401_003141	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Charge forward to push away enemies.
+SKILL_20150401_003142	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Gather force to stab enemies.
+SKILL_20150401_003143	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Swing your spear overhead to continuously attack enemies upfront.
+SKILL_20150401_003144	Attack: #{SkillAtkAdd}#{nl}Maximum Duration: 10 seconds{nl}Splash: #{SkillSR}#{nl}Able to use while riding
 SKILL_20150401_003145	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Tie enemy with rope and drag it.{nl}Enemy received damage every time it is pulled and falls under Bleed state when released.
 SKILL_20150401_003146	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Release a powerful stab into the enemy, then kick it away with your foot.
 SKILL_20150401_003147	Attack using stab continuously.
@@ -3535,14 +3535,14 @@ SKILL_20150406_003534	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use bump of sh
 SKILL_20150406_003535	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use corner of shield to attack.{nl}Attack petrifies, frozen enemies for additional damage.
 SKILL_20150406_003536	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Throw shield to attack enemy. Shield falls on the ground and it must be picked up to reuse.
 SKILL_20150406_003537	{#DD5500}{ol}[Physical] - [Strike] - [Slash]{/}{/}{nl}Attach using corner of the shield then slash.
-SKILL_20150406_003538	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Gather force and smash the ground with weapon to attack target.
-SKILL_20150406_003539	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Smach enemy's head. Temporarily decrease INT and SPR of target.
-SKILL_20150406_003540	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use back of knife to strike and push away enemy. Enemy falls under Armor Break (Permanent on monsters)
-SKILL_20150406_003541	{#DD5500}{ol}[Physical] - [Pierce] - [Strike]{/}{/}{nl}Use shield and spear to attack enemy.
-SKILL_20150406_003542	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}March forward while pressing down key. Enemies nearby are hit with shield and falls down.
-SKILL_20150406_003543	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use shield to smack enemy. Target falls under darkness at a high rate.
-SKILL_20150406_003544	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use shield to interrupt enemy.{nl}Target falls under unbalanced status.
-SKILL_20150406_003545	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Use shield as lead and march forward while pressing key. Release key to use slash enemy.
+SKILL_20150406_003538	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Gather force and smash the ground with your weapon to attack the target.
+SKILL_20150406_003539	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Smash the head of an enemy. Temporarily reduces the target's INT and SPR.
+SKILL_20150406_003540	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use the back of a knife to strike and push away an enemy. The enemy falls under Armor Break (Permanent on monsters)
+SKILL_20150406_003541	{#DD5500}{ol}[Physical] - [Pierce] - [Strike]{/}{/}{nl}Use your shield and spear to attack enemies.
+SKILL_20150406_003542	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}March forward while holding down the key. Enemies nearby are hit with the shield and will fall down.
+SKILL_20150406_003543	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use your shield to smack enemies. There is a high chance the target becomes afflicted with Darkness.
+SKILL_20150406_003544	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use your shield to interrupt enemies.{nl}The target becomes afflicted with Unbalanced.
+SKILL_20150406_003545	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Use your shield as a lead and march forward while holding down the key. Release the key to launch a slash on the enemy.
 SKILL_20150406_003546	Attack: #{SkillAtkAdd}#{nl}Maximum Duration: 10 seconds
 SKILL_20150406_003547	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Gather up power and use your weapon to attack targets by smashing it to the ground.
 SKILL_20150406_003548	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Rush forward with power to throw your target away.
@@ -3637,7 +3637,7 @@ SKILL_20150414_003636	{#DD5500}{ol}[Physical] - [Pierce] - [Strike]{/}{/}{nl}Use
 SKILL_20150414_003637	{#DD5500}{ol}[Pierce]{/}{/}{nl}Impales a small or medium-type monster with a spear. It is possible to attack other enemies with a skewered enemy.
 SKILL_20150414_003638	Increases your movement speed while riding.
 SKILL_20150414_003639	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Dash forward and attack enemy.
-SKILL_20150414_003640	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Gather force and strongly stab enemy with tip of spear.
+SKILL_20150414_003640	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Gather force and strongly stab enemy with the tip of your spear.
 SKILL_20150414_003641	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Twirl your spear overhead to attack enemies.
 SKILL_20150414_003642	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Drag around and hit enemy.
 SKILL_20150414_003643	Increases your attack when you keep repeatedly attacking one particular enemy.
@@ -3879,7 +3879,7 @@ SKILL_20150414_003878	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use your train
 SKILL_20150414_003879	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Continuously attack with tip of hand.
 SKILL_20150414_003880	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Break your target's armor with a strong strike using your hand as a knife.
 SKILL_20150414_003881	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Inflict damage by punching an enemy from a close distance. The attacked enemy will lose SP and receives continuous damage.
-SKILL_20150414_003882	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Gather force then shoot forward. Enemy is pushed away and received damage.
+SKILL_20150414_003882	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Gather force then shoot forward. The enemy is pushed away and will receive damage.
 SKILL_20150414_003883	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use tip of finger to throw coin and attack enemy.
 SKILL_20150414_003884	Temporarily become invincible from all attacks.
 SKILL_20150414_003885	Creates a dispeller that blocks harmful magic or effects.
@@ -5137,7 +5137,7 @@ SKILL_20150918_005136	Conviction
 SKILL_20150918_005137	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Attacks an enemy as an attack for the betrayer. Resistance to Fire, Ice, Electricity, Poison of the enemy that received the attack will decrease.
 SKILL_20150918_005138	Attack #{SkillAtkAdd}#{nl}Property Attack #{CaptionRatio}#%{nl}Range Attack Ration #{SkillSR}#{nl}each property attack #{CaptionRatio2}# decrease
 SKILL_20150918_005139	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}With trained fingers attack by inflicting internal damage to the enemy.
-SKILL_20150918_005140	{#DD5500}{ol}[Physical]{/}{/}{nl}Gather force then shoot forward. Enemy is pushed away and received damage.
+SKILL_20150918_005140	{#DD5500}{ol}[Physical]{/}{/}{nl}Gather force then shoot forward. The enemy is pushed away and will receive damage.
 SKILL_20150918_005141	Increase Magic Defense
 SKILL_20150918_005142	Temporarily increases the magic defense of you and your party members.
 SKILL_20150918_005143	Magic Defense: +#{CaptionRatio}#{nl}Duration: 45 seconds
