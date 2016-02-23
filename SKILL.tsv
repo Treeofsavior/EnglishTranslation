@@ -1458,7 +1458,7 @@ SKILL_20150317_001457	{#993399}{ol}[Magic] - [Divine]{/}{/}{nl}Sprinkle holy wat
 SKILL_20150317_001458	Attack #{SkillAtkAdd}#{nl}Defense +#{CaptionRatio}# {nl}Target 10{nl}Duration #{CaptionRatio2}# seconds{nl}Use 1 Holy water
 SKILL_20150317_001459	Monstrance
 SKILL_20150317_001460	Dexterity of allies is increased and randomly create magic circle that cause evasion and Physical damage of enemies to decrease.
-SKILL_20150317_001461	Maximum number of Magic Circles: #{SkillFactor}#{nl}Increases Ally's DEX{nl}Enemy's Evasion and Defense: -#{CaptionRatio}#{nl}Magic Circle Duration: 20 seconds
+SKILL_20150317_001461	Maximum Magic Circles: #{SkillFactor}#{nl}Increases Ally's DEX{nl}Enemy's Evasion and Defense: -#{CaptionRatio}#{nl}Magic Circle Duration: 20 seconds
 SKILL_20150317_001462	Blessing
 SKILL_20150317_001463	Increase the damage of party members' skills.
 SKILL_20150317_001464	Additional Damage + #{CaptionRatio}# {nl} Attack# {CaptionRatio2} # times{nl} {nl} Duration 30 seconds{nl}Use 1 Holy Powder
@@ -4031,7 +4031,7 @@ SKILL_20150428_004030	Attack #{SkillAtkAdd}#{nl}Max. duration 5 seconds{nl}Consu
 SKILL_20150428_004031	Attack: +#{CaptionRatio}#{nl}Maximum Stacks: #{CaptionRatio2}#{nl}Duration: #{CaptionTime}# seconds
 SKILL_20150428_004032	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Swing an enemy around, using centrifugal force to throw them away.
 SKILL_20150428_004033	Attack: #{SkillAtkAdd}#{nl}Rotates 9 times{nl}Distance Thrown: 150
-SKILL_20150428_004034	Maximum number of Targets: #{CaptionRatio}#{nl}Duration: 10 seconds
+SKILL_20150428_004034	Maximum Targets: #{CaptionRatio}#{nl}Duration: 10 seconds
 SKILL_20150428_004035	Pin down a pirate flag, boosting the abilities of a pirate. Defeat enemies continuously near the flag to trigger a combo. (only triggered when party leader is the Corsair)
 SKILL_20150428_004036	Unlocks low-leveled treasure chests with a key.
 SKILL_20150428_004037	Key Lv.: +#{CaptionRatio}#
@@ -4957,14 +4957,14 @@ SKILL_20150729_004956	Maximum Duration: 10 seconds{nl}Consumes #{CaptionRatio}#%
 SKILL_20150729_004957	HP Recovery: +#{CaptionRatio}#{nl}HP Recovery Time: -#{CaptionRatio2}# seconds{nl}Torch Duration: #{CaptionTime}# seconds
 SKILL_20150729_004958	Maximum Amount: +#{SkillFactor}#{nl}Duration: 200 seconds
 SKILL_20150729_004959	Maximum Duration: #{CaptionRatio2}# seconds{nl}Consumes #{CaptionRatio}#% SP per second
-SKILL_20150729_004960	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Maximum Number of Targets: #{CaptionRatio2}#
+SKILL_20150729_004960	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Maximum Targets: #{CaptionRatio2}#
 SKILL_20150729_004961	STR, CON, INT, SPR, DEX: -#{CaptionRatio}#{nl}Consumes 3% SP per 3 seconds{nl}Maximum Duration: 10 seconds
 SKILL_20150729_004962	Transmits #{CaptionRatio}# of INT
 SKILL_20150729_004963	Magic Circle Duration: #{CaptionTime}# seconds
 SKILL_20150729_004964	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Consumes 1 Stamina
 SKILL_20150729_004965	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionTime}#%{nl}Consumes #{CaptionRatio2}# silver
 SKILL_20150729_004966	Change enemy's drop item. Notify when item is changed.
-SKILL_20150729_004967	Change drop item{nl}Master Lv 1
+SKILL_20150729_004967	Change drop item{nl}Master Lv: 1
 SKILL_20150729_004968	All defense lost, Physical DEF is 0
 SKILL_20150729_004969	Wedge Formation
 SKILL_20150729_004970	Schiltron
@@ -5112,7 +5112,7 @@ SKILL_20150918_005111	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionTime
 SKILL_20150918_005112	Summons a holy torch, improving the HP recovery of nearby allies. Decreases the accuracy of nearby enemies.
 SKILL_20150918_005113	{#993399}{ol}[Magic] - [Holy]{/}{/}{nl}Sprinkle holy water to help increase the physical defense of you and your allies and to inflict damage to enemies.
 SKILL_20150918_005114	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio2}#%{nl}Physical Defense: +#{CaptionRatio}#%{nl}Targets: 10{nl}Duration: #{CaptionTime}# seconds{nl}Consumes 1 Holy Water
-SKILL_20150918_005115	Maximum number of Magic Circles: #{SkillFactor}#{nl}Increases DEX for allies{nl}Enemy's Evasion & Defense: -#{CaptionRatio}#{nl} Duration: #{CaptionTime}# seconds
+SKILL_20150918_005115	Maximum Magic Circles: #{SkillFactor}#{nl}Increases DEX for allies{nl}Enemy's Evasion & Defense: -#{CaptionRatio}#{nl} Duration: #{CaptionTime}# seconds
 SKILL_20150918_005116	Mass Heal
 SKILL_20150918_005117	Restores the HP of you and that of your allies in front of you.
 SKILL_20150918_005118	Restores #{CaptionRatio}#% of your maximum HP{nl}Additional HP Recovery: #{CaptionRatio2}#{nl}
@@ -5876,7 +5876,7 @@ SKILL_20151224_005875	Maximum Count: +#{CaptionRatio}#{nl}Duration: #{CaptionTim
 SKILL_20151224_005876	Lure the zombies by using the skull of a monkey to attack enemies for a period of time.
 SKILL_20151224_005877	Creates a magic circle that raises a dead enemy as a zombie. The HP of the raised zombie is based on the caster's SPR.
 SKILL_20151224_005878	STR: +#{CaptionRatio}#{nl}Duration: #{CaptionRatio2}# seconds{nl}Glyph Duration: 15 seconds
-SKILL_20151224_005879	Attack 200% + #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Maximum Targets: #{CaptionRatio2}#
+SKILL_20151224_005879	Attack: 200% + #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Maximum Targets: #{CaptionRatio2}#
 SKILL_20151224_005880	Maximum Capsule Count: #{CaptionRatio}#
 SKILL_20151224_005881	Carves a statue of Zemyna, the Goddess of Earth.{nl}Decreases the SP cost and SP recovery time for allies who are within the radius of the Goddess Statue.
 SKILL_20151224_005882	Decreases #{CaptionRatio}# SP{nl}SP recovery time decreases to 5 seconds{nl}Statue Duration: #{CaptionRatio2}# seconds{nl}Consumes 1 Pine Wood
