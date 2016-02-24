@@ -1367,7 +1367,7 @@ SKILL_20150317_001366	Hide yourself in an apple barrel to evade enemies attentio
 SKILL_20150317_001367	Number of Blocks: #{CaptionRatio}#{nl}Movement Speed: -#{CaptionRatio}#
 SKILL_20150317_001368	Flu Flu
 SKILL_20150317_001369	Shoot a noisemaker arrow at the enemy. Also affect enemies nearby.
-SKILL_20150317_001370	Attack #{SkillAtkAdd}#{nl}target hit {#339999}{ol}[Fear]{/}{/}+{#339999}{ol}[Chaos]{/}{/}{nl}{#339999}{ol}Inflict [Fear] to Maximum Targets: #{CaptionRatio}# {#339999}{ol}{/}{/}{nl}Duration #{CaptionTime}#
+SKILL_20150317_001370	Attack #{SkillAtkAdd}#{nl}target hit {#339999}{ol}[Fear]{/}{/}+{#339999}{ol}[Confusion]{/}{/}{nl}{#339999}{ol}Inflict [Fear] to Maximum Targets: #{CaptionRatio}# {#339999}{ol}{/}{/}{nl}Duration #{CaptionTime}#
 SKILL_20150317_001371	Flare Shot
 SKILL_20150317_001372	Shoot a flare at the targeted area. Sparks shoot out of the flare to damage nearby enemies.
 SKILL_20150317_001373	Attack #{SkillAtkAdd}#{nl}Duration 10 seconds
@@ -3480,7 +3480,7 @@ SKILL_20150401_003479	Magic Arrow: Enhance
 SKILL_20150401_003480	Damage of [Magic Arrow] Increase per Attribute level.
 SKILL_20150401_003481	Magic Arrow: Enhance 2
 SKILL_20150401_003482	Damage of [Magic Arrow] is enhanced to Fletcher Circle 3.
-SKILL_20150401_003483	Divine Arrow: Enhance
+SKILL_20150401_003483	Divine Machine Arrow: Enhance
 SKILL_20150401_003484	Damage of [Gather Corpse] Increase per Attribute level.
 SKILL_20150401_003485	Concentrated Fire: Enhance
 SKILL_20150401_003486	Damage of [Concentrated Fire] Increase per Attribute level.
@@ -4001,8 +4001,8 @@ SKILL_20150414_004000	Backstab: Massive Bleeding
 SKILL_20150414_004001	Enemy falls under [Massive Bleed] status when attack with [Back Step] while bleeding.
 SKILL_20150414_004002	Magic Arrow: Silence
 SKILL_20150414_004003	Enemies receiving [Magic Arrow] fire attacks have chance of falling under [Silence]. Chance increase by 10% per attribute level.
-SKILL_20150414_004004	Divine Arrow: Shock
-SKILL_20150414_004005	Enemies hit by [Divine Arrow] are affected by the [Shock] status effect for 10 seconds.
+SKILL_20150414_004004	Divine Machine Arrow: Shock
+SKILL_20150414_004005	Enemies hit by [Divine Machine Arrow] are affected by the [Shock] status effect for 10 seconds.
 SKILL_20150414_004006	Revive: Duration
 SKILL_20150414_004007	Duration of [Revive] increase by 10 seconds per attribute level.
 SKILL_20150414_004008	Palm Strike: Bleeding
@@ -4061,10 +4061,10 @@ SKILL_20150428_004060	Attack #{SkillAtkAdd}#{nl}Duration 30 seconds
 SKILL_20150428_004061	Throw tear gas at a targeted area. The target becomes afflicted with Darkness.
 SKILL_20150428_004062	Lachrymator Duration: #{CaptionTime}# seconds
 SKILL_20150428_004063	Attack #{SkillAtkAdd}#{nl}Strike 2 times{nl}Critical rate #{CaptionRatio}#%
-SKILL_20150428_004064	Attack #{SkillAtkAdd}#{nl}Bleed Duration #{CaptionTime}# seconds{nl}Use 1 Broadhead Arrow
-SKILL_20150428_004065	Attack #{SkillAtkAdd}#{nl}Physical Defense -#{CaptionRatio}#% {nl}Use 1 Bodkin Arrow
-SKILL_20150428_004066	Attack #{SkillAtkAdd}#{nl}Duration 10 seconds{nl}Use 1 Magic Arrow
-SKILL_20150428_004067	Attack #{SkillAtkAdd}#{nl}Duration 10 seconds{nl}Use 1 Gather Corpse
+SKILL_20150428_004064	Attack: #{SkillAtkAdd}#{nl}Bleeding Duration: #{CaptionTime}# seconds{nl}Consumes 1 Broadhead Arrow
+SKILL_20150428_004065	Attack: #{SkillAtkAdd}#{nl}Physical Defense: -#{CaptionRatio}#%{nl}Consumes 1 Bodkin Arrow
+SKILL_20150428_004066	Attack: #{SkillAtkAdd}#{nl}Duration: 10 seconds{nl}Consumes 1 Magic Arrow
+SKILL_20150428_004067	Attack: #{SkillAtkAdd}#{nl}Duration: 10 seconds{nl}Consumes 1 Divine Machine Arrow
 SKILL_20150428_004068	Hanging Shot
 SKILL_20150428_004069	Guardian Saint Duration: #{CaptionTime}# seconds{nl}Chance on Hit: 50%{nl}Charges: #{CaptionRatio}#
 SKILL_20150428_004070	Creates a magic circle in front of you that increases DEX of allies while decreasing the enemy's evasion and physical defense. Party members will receive the effect without stepping on the magic circle.
@@ -4135,7 +4135,7 @@ SKILL_20150714_004134	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRati
 SKILL_20150714_004135	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Medium-type Targets: 2 consecutive attacks{nl}Large-type Targets: 3 consecutive attacks
 SKILL_20150714_004136	Spear Attack: #{SkillAtkAdd}#{nl}Shield Attack: #{CaptionRatio}#{nl}Attribute Damage: #{CaptionRatio2}#%{nl}AoE Attack Ratio: #{SkillSR}#
 SKILL_20150714_004137	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Maximum Duration: 5 seconds{nl}Consumes Stamina
-SKILL_20150714_004138	Attack #{SkillAtkAdd}#{nl}Attribute Damage #{CaptionRatio}#%{nl}{#339999}{ol}[Stun]{/}{/} Duration 7 seconds
+SKILL_20150714_004138	Attack: #{SkillAtkAdd}#{nl}Attribute Damage #{CaptionRatio}#%{nl}{#339999}{ol}[Stun]{/}{/} Duration: 7 seconds
 SKILL_20150714_004139	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}{#339999}{ol}[Darkness]{/}{/} Duration: 3 seconds{nl}AoE Attack Ratio: #{SkillSR}#
 SKILL_20150714_004140	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio2}#%{nl}Defense: -#{CaptionRatio}#{nl}{#339999}{ol}[Unbalanced]{/}{/} Duration: #{CaptionTime}# seconds
 SKILL_20150714_004141	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Maximum Duration: 10 seconds
@@ -4143,7 +4143,7 @@ SKILL_20150714_004142	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRati
 SKILL_20150714_004143	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Maximum Duration: 10 seconds{nl}AoE Attack Ratio: #{SkillSR}#{nl}Able to use while riding
 SKILL_20150714_004144	Attack: #{SkillAtkAdd}#{nl}AoE Attack Ratio: #{SkillSR}#{nl}Able to use while riding
 SKILL_20150714_004145	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Maximum Duration: 10 seconds{nl}Consumes Stamina
-SKILL_20150714_004146	Attack #{SkillFactor}#% + #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio2}#%{nl}#{CaptionRatio}#Continouse hits
+SKILL_20150714_004146	Attack: #{SkillFactor}#% + #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio2}#%{nl}Continouse Hits: #{CaptionRatio}#
 SKILL_20150714_004147	Block Increase{nl}Use SP 1% per 2 seconds
 SKILL_20150714_004148	Defense: +#{CaptionRatio}#{nl}Consumes 1% SP every 2 seconds
 SKILL_20150714_004149	Defense: -#{CaptionRatio}#%{nl}Consumes 1% SP every 2 seconds
@@ -4193,7 +4193,7 @@ SKILL_20150714_004192	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionTime
 SKILL_20150714_004193	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio2}#%{nl}Number of Setups: #{CaptionRatio}#
 SKILL_20150714_004194	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}{#339999}{ol}[Poison]{/}{/} Duration: #{CaptionRatio2}# seconds{nl}Consumes #{SpendPoison}# Poison Pot Poison
 SKILL_20150714_004195	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Duration: 10 seconds{nl}Consumes #{SpendPoison}# Poison Pot Poison
-SKILL_20150714_004196	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio2}#%{nl}Target hit {#339999}{ol}[Fear]{/}{/}+{#339999}{ol}[Chaos]{/}{/}{nl}Maximum of Nearby Targets: #{CaptionRatio}# {#339999}{ol}[Fear]{/}{/}{nl}Duration: #{CaptionTime}#
+SKILL_20150714_004196	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio2}#%{nl}Target hit {#339999}{ol}[Fear]{/}{/}+{#339999}{ol}[Confusion]{/}{/}{nl}Maximum of Nearby Targets: #{CaptionRatio}# {#339999}{ol}[Fear]{/}{/}{nl}Duration: #{CaptionTime}#
 SKILL_20150714_004197	Attribute Damage: #{CaptionRatio}#%{nl}Duration: 30 seconds
 SKILL_20150714_004198	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio2}#%{nl}STR: +#{CaptionRatio}# {nl}Duration: #{CaptionTime}# seconds
 SKILL_20150714_004199	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio2}#%{nl}Strikes 2 times{nl}Critical Chance: #{CaptionRatio}#%
@@ -4202,7 +4202,7 @@ SKILL_20150714_004201	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRati
 SKILL_20150714_004202	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Cloth armor-type Targets: 3 hits{nl}Leather armor-type Targets: 2 hits{nl}Plate armor-Type targets: 1 hit{nl}Ghost armor-type targets: Nullifies{nl}Consumes 1 Barbed Arrow
 SKILL_20150714_004203	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio2}#%{nl}Explosion Attack: #{CaptionRatio}#%{nl}Consumes 1 Hail Mary Arrow
 SKILL_20150714_004204	Attribute Damage: #{CaptionRatio}#%{nl}Duration: 10 seconds{nl}Number of Hits: #{CaptionRatio2}#{nl}Consumes 1 Magic Arrow
-SKILL_20150714_004205	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Duration: 10 seconds{nl}Consumes 1 Divine Arrow
+SKILL_20150714_004205	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Duration: 10 seconds{nl}Consumes 1 Divine Machine Arrow
 SKILL_20150714_004206	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Able to use while riding
 SKILL_20150714_004207	Hawk will encircle a targeted area. Reduces the AoE defense ratio of the target within the radius.
 SKILL_20150714_004208	AoE Defense Ratio: -#{CaptionRatio}# {nl}Duration: 10 seconds
@@ -4581,7 +4581,7 @@ SKILL_20150714_004580	Increases the damage dealt on an enemy with [Bodkin Point]
 SKILL_20150714_004581	Increases the damage dealt on an enemy with [Barbed Arrow] by 1% per attribute level.
 SKILL_20150714_004582	Increases the damage dealt on an enemy with [Crossfire] by 1% per attribute level.
 SKILL_20150714_004583	Increases the damage dealt on an enemy with [Magic Arrow] by 1% per attribute level.
-SKILL_20150714_004584	Increases the damage dealt on an enemy with [Divine Arrow] by 1% per attribute level.
+SKILL_20150714_004584	Increases the damage dealt on an enemy with [Divine Machine Arrow] by 1% per attribute level.
 SKILL_20150714_004585	Increases the time duration of the [Bleeding] status when an enemy is hit by [Broad Head] by 2 seconds per attribute level.
 SKILL_20150714_004586	Bodkin Point: Defense Decrease
 SKILL_20150714_004587	[Reduced DEF] of [Bodkin Point] will be reduced by 2% per Attribute level.
@@ -6194,59 +6194,59 @@ SKILL_20151224_006193	Wizard 1st Circle required
 SKILL_20151224_006194	Wugushi 1st Circle required
 SKILL_20160224_006195
 SKILL_20160224_006196
-SKILL_20160224_006197
+SKILL_20160224_006197	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}{#339999}{ol}[Shock]{/}{/} Duration: 5 seconds
 SKILL_20160224_006198
 SKILL_20160224_006199
 SKILL_20160224_006200
-SKILL_20160224_006201
-SKILL_20160224_006202
-SKILL_20160224_006203
-SKILL_20160224_006204
+SKILL_20160224_006201	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Status Ailment Duration: #{CaptionRatio2}# seconds
+SKILL_20160224_006202	Attack: #{SkillAtkAdd}#{nl}Ice Wall Count: #{CaptionRatio}#{nl}{#339999}{ol}[Freezing]{/}{/} Duration: 5 seconds{nl}Ice Wall Duration: 15 seconds
+SKILL_20160224_006203	Attack: #{SkillAtkAdd}#{nl}Targets: #{CaptionRatio}#{nl}Consumes 2% SP per second{nl}Maximum Duration: 10 seconds
+SKILL_20160224_006204	Creates a Shoggoth with the abilities based on the card that is placed in the Necronomicon. The attack and defense of the summoned devil is affected by your INT and SPR. Increases the abilities by 10% proportional to the amount of stars of the card. Only Animal, Plant and Mutant-type cards can be placed in the Necronomicon.
 SKILL_20160224_006205
 SKILL_20160224_006206
-SKILL_20160224_006207
+SKILL_20160224_006207	Attack: 400% + #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Consumes 1 Rune Stone{nl}Cast Time: 8 seconds
 SKILL_20160224_006208
-SKILL_20160224_006209
-SKILL_20160224_006210
-SKILL_20160224_006211
-SKILL_20160224_006212
-SKILL_20160224_006213
-SKILL_20160224_006214
-SKILL_20160224_006215
-SKILL_20160224_006216
-SKILL_20160224_006217
+SKILL_20160224_006209	Attack: #{CaptionTime}# seconds{nl}Increases Ice-property skill attack by 300%{nl}Consumes 1 Rune Stone{nl}Cast Time: 8 seconds
+SKILL_20160224_006210	
+SKILL_20160224_006211	Giant Size Duration: #{CaptionTime}# seconds{nl}Magic Circle Duration: 10 seconds{nl}Defense, Maximum HP: +#{CaptionRatio}#%{nl}Movement Speed: +#{CaptionRatio2}#{nl}Consumes 1 Rune Stone{nl}Cast Time: 8 seconds
+SKILL_20160224_006212	
+SKILL_20160224_006213	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Consumes 1 Rune Stone{nl}Cast Time: 8 seconds
+SKILL_20160224_006214	Resistance Effect Chance: +#{CaptionRatio}#%{nl}Duration: #{CaptionTime}# seconds{nl}Consumes 1 Rune Stone{nl}Cast Time: 8 seconds
+SKILL_20160224_006215	
+SKILL_20160224_006216	Attack: +#{CaptionRatio}#%{nl}Additional Attribute Damage: #{CaptionRatio2}#{nl}Duration: 15 seconds
+SKILL_20160224_006217	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Bomb Duration: 2 seconds
 SKILL_20160224_006218
 SKILL_20160224_006219
-SKILL_20160224_006220
+SKILL_20160224_006220	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio2}#%{nl}Physical Defense: -#{CaptionRatio}#{nl}Additional Critical Chance: 30%{nl}Duration: #{CaptionTime}# seconds
 SKILL_20160224_006221
 SKILL_20160224_006222
 SKILL_20160224_006223
-SKILL_20160224_006224
-SKILL_20160224_006225
-SKILL_20160224_006226
-SKILL_20160224_006227
-SKILL_20160224_006228
+SKILL_20160224_006224	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio2}#%{nl}Maximum Duration: #{CaptionTime}# seconds
+SKILL_20160224_006225	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Duration: 6 seconds{nl}Consumes #{SpendPoison}# Poison Pot Poison
+SKILL_20160224_006226	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio2}#%{nl}Attacked Targets {#339999}{ol}[Fear]{/}{/}+{#339999}{ol}[Confusion]{/}{/}{nl}Maximum Nearby #{CaptionRatio}#{#339999}{ol}[Fear]{/}{/}{nl}Duration: #{CaptionTime}# seconds
+SKILL_20160224_006227	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Duration: 10 seconds{nl}Attack Count: #{CaptionRatio2}#{nl}Consumes 1 Magic Arrow
+SKILL_20160224_006228	Attack: 200% + #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Duration: 10 seconds{nl}Consumes 1 Divine Machine Arrow
 SKILL_20160224_006229
 SKILL_20160224_006230
-SKILL_20160224_006231
-SKILL_20160224_006232
-SKILL_20160224_006233
-SKILL_20160224_006234
+SKILL_20160224_006231	Attack: 300% + #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%
+SKILL_20160224_006232	Attack: 300% + #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}INT, SPR: -#{CaptionRatio2}#
+SKILL_20160224_006233	Attack: 400% + #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}
+SKILL_20160224_006234	Blocks: #{CaptionRatio}# times{nl}Magic Circle Duration: 20 seconds
 SKILL_20160224_006235
-SKILL_20160224_006236
+SKILL_20160224_006236	STR: +#{CaptionRatio}#{nl}AoE Attack Ratio: +#{CaptionRatio2}#{nl}Duration: #{CaptionTime}# seconds{nl}Glyph Duration: 15 seconds
 SKILL_20160224_006237
-SKILL_20160224_006238
+SKILL_20160224_006238	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio2}#%{nl}Additional Damage to Plant-type Monsters: +#{CaptionRatio}#{nl}Statue Materials Drop Rate: #{CaptionTime}#%
 SKILL_20160224_006239
-SKILL_20160224_006240
-SKILL_20160224_006241
+SKILL_20160224_006240	
+SKILL_20160224_006241	Attack per Hit: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio2}#%{nl}Consumes 30 SP per second
 SKILL_20160224_006242
 SKILL_20160224_006243
-SKILL_20160224_006244
-SKILL_20160224_006245
-SKILL_20160224_006246
+SKILL_20160224_006244	High Anchoring: Critical Chance
+SKILL_20160224_006245	Rapid Fire: Critical Chance
+SKILL_20160224_006246	
 SKILL_20160224_006247
-SKILL_20160224_006248
-SKILL_20160224_006249
+SKILL_20160224_006248	Langort: Blocking
+SKILL_20160224_006249	Swash Buckling: Buff
 SKILL_20160224_006250
 SKILL_20160224_006251
 SKILL_20160224_006252
@@ -6274,52 +6274,52 @@ SKILL_20160224_006273
 SKILL_20160224_006274
 SKILL_20160224_006275
 SKILL_20160224_006276
-SKILL_20160224_006277
-SKILL_20160224_006278
+SKILL_20160224_006277	 - Able to learn up to 2 attributes simultaneously{nl} - Reduced Market commission fee (30%{img white_right_arrow 16 16}10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement{nl} - Can only trade 30 times
+SKILL_20160224_006278	Increased Maximum Buff Count
 SKILL_20160224_006279
-SKILL_20160224_006280
-SKILL_20160224_006281
-SKILL_20160224_006282
-SKILL_20160224_006283
+SKILL_20160224_006280	Swash Buckling: Maximum HP
+SKILL_20160224_006281	Increases the character's maximum HP by 5% per attribute level when Swash Buckling is active.
+SKILL_20160224_006282	Langort: Enhance
+SKILL_20160224_006283	Increases the damage dealt on an enemy with [Langort] by 1% per attribute level.
 SKILL_20160224_006284
 SKILL_20160224_006285
-SKILL_20160224_006286
-SKILL_20160224_006287
+SKILL_20160224_006286	Targe Smash: Remove Knockback
+SKILL_20160224_006287	[Targe Smash] no longer knocks enemies back. (Only applies if the attribute is set to ON)
 SKILL_20160224_006288
 SKILL_20160224_006289
 SKILL_20160224_006290
 SKILL_20160224_006291
 SKILL_20160224_006292
-SKILL_20160224_006293
-SKILL_20160224_006294
+SKILL_20160224_006293	Swift Step: Including Party Members
+SKILL_20160224_006294	Applies the effects of Swift Step to include party members.
 SKILL_20160224_006295
 SKILL_20160224_006296
-SKILL_20160224_006297
-SKILL_20160224_006298
-SKILL_20160224_006299
-SKILL_20160224_006300
-SKILL_20160224_006301
-SKILL_20160224_006302
-SKILL_20160224_006303
-SKILL_20160224_006304
-SKILL_20160224_006305
-SKILL_20160224_006306
-SKILL_20160224_006307
-SKILL_20160224_006308
-SKILL_20160224_006309
-SKILL_20160224_006310
-SKILL_20160224_006311
-SKILL_20160224_006312
+SKILL_20160224_006297	Claymore: Flying-type Compatibility
+SKILL_20160224_006298	Deals 10% additional damage per attribute level on Flying-type monsters with [Claymore].
+SKILL_20160224_006299	Detonate Traps: Flying-type Compatibility
+SKILL_20160224_006300	Deals 50% additional damage per attribute level on Flying-type monsters with [Detonate Traps].
+SKILL_20160224_006301	Coursing: Enhance
+SKILL_20160224_006302	Increases the damage dealt on an enemy with [Coursing] by 1% per attribute level.
+SKILL_20160224_006303	Snatching: Enhance
+SKILL_20160224_006304	Increases the damage dealt on an enemy with [Snatching] by 1% per attribute level.
+SKILL_20160224_006305	Rush Dog: Enhance
+SKILL_20160224_006306	Increases the damage dealt on an enemy with [Rush Dog] by 1% per attribute level.
+SKILL_20160224_006307	Retrieve: Enhance
+SKILL_20160224_006308	Increases the damage dealt on an enemy with [Retrieve] by 1% per attribute level.
+SKILL_20160224_006309	Needle Blow: Poison Enhance
+SKILL_20160224_006310	Increases the poison damage dealt on an enemy with [Needle Blow] by 2 per attribute level.
+SKILL_20160224_006311	Wugong Gu: Poison Enhance
+SKILL_20160224_006312	Increases the poison damage dealt on an enemy with [Wugong Gu] by 2 per attribute level.
 SKILL_20160224_006313
-SKILL_20160224_006314
-SKILL_20160224_006315
-SKILL_20160224_006316
-SKILL_20160224_006317
-SKILL_20160224_006318
-SKILL_20160224_006319
-SKILL_20160224_006320
-SKILL_20160224_006321
-SKILL_20160224_006322
-SKILL_20160224_006323
-SKILL_20160224_006324
-SKILL_20160224_006325
+SKILL_20160224_006314	Headshot: Enhance
+SKILL_20160224_006315	Headshot: Stun
+SKILL_20160224_006316	Enemies hit by [Headshot] have a 2.5% chance per attribute level to become stunned for 3 seconds.
+SKILL_20160224_006317	Snipe: Stun
+SKILL_20160224_006318	Enemies hit by [Snipe] have a 3.5% chance per attribute level to become stunned for 3 seconds.
+SKILL_20160224_006319	Safety Zone: Defense Count
+SKILL_20160224_006320	Increases the amount of defenses [Safety Zone] can have by 1 per attribute level.
+SKILL_20160224_006321	Exorcise: Duration
+SKILL_20160224_006322	Increases the duration of [Exorcise]'s magic circle by 1 second per attribute level.
+SKILL_20160224_006323	Class Rank 5 required
+SKILL_20160224_006324	Rune Caster 1st Circle required
+SKILL_20160224_006325	Wizard 1st Circle required
