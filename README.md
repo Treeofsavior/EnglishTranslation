@@ -1,4 +1,4 @@
-##NOTICE (Updated 04-02-2016)
+##NOTICE (Updated 24-02-2016)
 <br>
 **GUIDELINES IN WIKI HAVE BEEN UPDATED** <br>
 **PLEASE CHECK THE [GUIDELINES](https://github.com/Treeofsavior/EnglishTranslation/wiki/Guidelines) BEFORE SENDING YOUR PULL REQUESTS.**
@@ -7,7 +7,7 @@ You may check the list of those who qualify for the Beta Keys [**HERE**](https:/
 
 Thank you and please continue to send us your support and interest for Tree of Savior.
 
-1. All files have been updated based on Steam Test Server. (**NEW**)
+1. New files have been updated based on KTOS. (**NEW**)
 
 2. {memo X} have been removed to all files.
 
