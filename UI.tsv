@@ -1167,7 +1167,7 @@ UI_20150317_001166	{@St41}Registration
 UI_20150317_001167	{@St41}Name
 UI_20150317_001168	{@St41}Message
 UI_20150317_001169	{@St43}Name{/}
-UI_20150317_001170	{@St41b}Messages{/}
+UI_20150317_001170	{@St41b}Message{/}
 UI_20150317_001171	{@St42b}Login{/}
 UI_20150317_001172	{@St41}Create a new conversation
 UI_20150317_001173	{@St41}Full Conversation
@@ -1613,7 +1613,7 @@ UI_20150714_001612	Party Members : %s/5
 UI_20150714_001613	Join
 UI_20150714_001614	{@st59}Search by party name or description{/}
 UI_20150714_001615	Simple Help Details
-UI_20150714_001616	{@st43}Messages Box
+UI_20150714_001616	{@st43}Message Box
 UI_20150714_001617	{@st41b}All
 UI_20150714_001618	{@st41b}Unread Messages
 UI_20150714_001619	{@st43}{s22}Choose a character to receive the items.{/}
@@ -1945,7 +1945,7 @@ UI_20151224_001944	{@st41b}Enter
 UI_20151224_001945	{@st66b}Public Party List{/}
 UI_20151224_001946	{@st66b}Recommended Player List{/}
 UI_20151224_001947	Life
-UI_20151224_001948	{@st43}Messages Box
+UI_20151224_001948	{@st43}Message Box
 UI_20151224_001949	{@st66b}All
 UI_20151224_001950	{@st66b}Unread
 UI_20151224_001951	{@st59b}Quests{nl}{@st59s} - When you are on a new quest, it will be added to the quests window.{nl} - A main quest is displayed in yellow color, while a subquest is displayed in blue.{nl} - The arrow on your character's foot leads to the location of your quest{nl} - A 'Return' icon is displayed in the quests window when a quest is completed{nl}  (Teleports you to the Quest NPC using the Backspace key or a mouse-click){nl} - Add or remove quests in the quests window by ticking or unticking the box in front of the quest name{/}
@@ -1995,8 +1995,8 @@ UI_20151224_001994	{@st59}Close{/}
 UI_20151224_001995	{@st43}Lodge Decoration{/}
 UI_20151224_001996	{@st41b}Lodge Visitation{/}
 UI_20151224_001997	{@st59}Visit the lodges of other players.{/}
-UI_20151224_001998	{@st41b}Messages{/}
-UI_20151224_001999	{@st59}Open the Messages Box{/}
+UI_20151224_001998	{@st41b}Message Box{/}
+UI_20151224_001999	{@st59}Open the Message Box{/}
 UI_20151224_002000	{@st42}Character{/}
 UI_20151224_002001	{@st42}Free TP{/}
 UI_20151224_002002	{@st42}Event TP{/}
@@ -2047,87 +2047,87 @@ UI_20151224_002046	Contribution Rank
 UI_20151224_002047	Guild Skills & Information
 UI_20151224_002048	{@st42}%s Benefits{/}
 UI_20151224_002049	Benefits
-UI_20160224_002050	팀 창고
-UI_20160224_002051	{@st59}팀 창고를 닫습니다{/}
-UI_20160224_002052	거래가 가능한 아이템만 보관할 수 있으며, 포텐셜 1이 감소합니다.{nl}팀 창고에서 아이템을 꺼낼 때는 아이템 갯수에 관계없이 거래 가능횟수가 1 차감됩니다.
-UI_20160224_002053	아이템 수령
-UI_20160224_002054	일반 : /s 할말{nl}외침 : /y 할말{nl}파티 : /p 할말{nl}귓속말 : /w 팀이름 할말{nl}답신 : /r 할말{nl} {nl}Tab키로 전환 가능
-UI_20160224_002055	{@59}닫기{/}
-UI_20160224_002056	도전
-UI_20160224_002057	진행 여부를 선택하세요
-UI_20160224_002058	{@st63_yellow}포기 :{/}
-UI_20160224_002059	보상을 획득하고 퇴장합니다.
-UI_20160224_002060	{@st63_yellow}도전 :{/}
-UI_20160224_002061	다음층으로 이동
-UI_20160224_002062	{@st43}유물 수집상{/}
-UI_20160224_002063	{@st59}유물 수집상을 닫습니다{/}
-UI_20160224_002064	{@st59b}아이템 교환{nl}{@st59s} - 대지의 탑에서 아이템을 입수하여 교환 가능{nl} - 아이템 재료를 슬롯에 넣은 후 교환 실행{nl}{/}
-UI_20160224_002065	층
-UI_20160224_002066	{@st59}큐브 획득 창을 닫습니다.{/}
-UI_20160224_002067	{@st59}악세서리를 올려주세요{/}
-UI_20160224_002068	{@st66b}실버를 사용해서 1회 더 열 수 있습니다. {/}
-UI_20160224_002069	{@st66b}토큰 혜택 적용시 2회까지 가능합니다.{/}
-UI_20160224_002070	{@st41b}횟수를 모두 소진하였습니다.{/}
-UI_20160224_002071	{@st66b}기본정보
-UI_20160224_002072	{@st66b}속성
-UI_20160224_002073	길드 마스터가 길드 이벤트 참가자를 모집하고 있습니다.
-UI_20160224_002074	{@st63_yellow}인원 :{/}
-UI_20160224_002075	{@st63}%s명 참여 (로그인 %s명중){/}
-UI_20160224_002076	{@st63_yellow}위치 :{/}
-UI_20160224_002077	코발트숲
-UI_20160224_002078	{@st63_yellow}목표 :{/}
-UI_20160224_002079	{@st43}길드 Lv. %s{/}
-UI_20160224_002080	{@st66b}성장 및 랭크
-UI_20160224_002081	{@st66b}길드 특성
-UI_20160224_002082	길드 보관함
-UI_20160224_002083	{@st59}길드 보관함을 닫습니다{/}
-UI_20160224_002084	* 이 아이템은 길드 마스터가 길드원에게 양도할 수 있고, 그 아이템은{nl}수령한 길드원에게 귀속됩니다.{nl}* 아이템은 메시지함에서 수령할 수 있습니다.
-UI_20160224_002085	{@st41b}마법 부여
-UI_20160224_002086	{@st41b}마법 부여 스크롤{/}
-UI_20160224_002087	{@st59}마법 부여 스크롤 창을 닫습니다.{/}
-UI_20160224_002088	{@st66b}마법부여 스크롤 1개가 소비됩니다.{/}
-UI_20160224_002089	{@st42b}현재 스크롤 보유 개수 : %s개{/}
-UI_20160224_002090	{@st66b}의뢰소{/}
-UI_20160224_002091	{@st66b}살러스 수녀원{/}
-UI_20160224_002092	{@st66b}대지의 탑{/}
-UI_20160224_002093	{@st59b}인스턴스 던전{nl}{@st59s}독립된 인스턴스 존에서 목표 달성을 위해 파티 단위로 진행하는 콘텐츠입니다.{nl}입장 전에 파티를 구성해 도전하거나 자동으로 파티를 찾아 도전할 수 있습니다.{nl} - 던전 : 각 레벨 대의 존에서 던전 입장  NPC를 통해 입장{nl} - 의뢰소 미션 : 페디미안 용병 의뢰소 접수원을 통해 입장{nl} - 살러스 수녀원 미션 : 살러스 수녀원에서 수녀 라사를 통해 입장{nl}{/}
-UI_20160224_002094	{@st59}인스턴스 던전을 닫습니다{/}
-UI_20160224_002095	{@st59}보이기/안보이기{/}
-UI_20160224_002096	{@st45tw2}대기 시간{/}
-UI_20160224_002097	입찰
-UI_20160224_002098	남은 입찰 시간
-UI_20160224_002099	아이템 주사위
-UI_20160224_002100	{@st42}%s 혜택{/}
-UI_20160224_002101	사용한 아이템은 인벤토리에서 사라지며{nl}전체 %s가 초기화 됩니다.{/}
-UI_20160224_002102	캐릭터 정보창에서 잔여시간을 확인하실 수 있습니다.{/}
-UI_20160224_002103	데이터를 받는 중 입니다.
-UI_20160224_002104	{@st66b}랭킹{/}
-UI_20160224_002105	{@st66b}관전하기
-UI_20160224_002106	{@st41b}관전 종료
-UI_20160224_002107	블루팀
-UI_20160224_002108	레드팀
-UI_20160224_002109	{@59}새 창으로 보기{/}
-UI_20160224_002110	모험일지에 등록되었습니다.
-UI_20160224_002111	{@st41}교환
-UI_20160224_002112	행복한 나라로 오세요
-UI_20160224_002113	팀 배틀 리그 일정
-UI_20160224_002114	최근 전적
-UI_20160224_002115	{@st45tw2}유형{/}
-UI_20160224_002116	{@st41c}%s명{/}
-UI_20160224_002117	{@st41c}%s분{/}
-UI_20160224_002118	미르티스 지배가 사라진 수정광산에 템플슈터가 부베들을 다시 불러들이고 있습니다.{nl}템플슈터를 처치하고 수정광산이 다시 안전해지도록 도와주세요.
-UI_20160224_002119	{@st41c}%s장{/}
-UI_20160224_002120	이름 및 클래스
-UI_20160224_002121	{@st41b}새로 고침
-UI_20160224_002122	최근 열린 관람 목록
-UI_20160224_002123	관전하기
-UI_20160224_002124	{#000000}%s 승{/}
-UI_20160224_002125	{@st66b}포인트샵
-UI_20160224_002126	일일 획득 포인트
-UI_20160224_002127	현재 구매 포인트
-UI_20160224_002128	전적
-UI_20160224_002129	보관함
-UI_20160224_002130	%s 위
-UI_20160224_002131	처치횟수 : %s
-UI_20160224_002132	대미지 : %s
-UI_20160224_002133	최대 버프 적용 개수 증가
+UI_20160224_002050	Team Storage
+UI_20160224_002051	{@st59}Close{/}
+UI_20160224_002052	Trading and storing items is possible, but it will consume 1 Potential.{nl}When removing an item from the Team Storage, your trading count will be reduced by 1 regardless of the number of items you remove.
+UI_20160224_002053	
+UI_20160224_002054	General : /s (chat){nl}Shout : /y (chat){nl}Party : /p (chat){nl}Whisper : /w Team Name (chat){nl}Reply : /r (chat){nl} {nl}Able to switch with the Tab key
+UI_20160224_002055	{@59}Close{/}
+UI_20160224_002056	Challenge
+UI_20160224_002057	Please choose to proceed
+UI_20160224_002058	{@st63_yellow}Abandoned :{/}
+UI_20160224_002059	Receive reward and leave.
+UI_20160224_002060	{@st63_yellow}Challenge :{/}
+UI_20160224_002061	Moving to the next floor
+UI_20160224_002062	{@st43}Relic Collector{/}
+UI_20160224_002063	{@st59}Close{/}
+UI_20160224_002064	
+UI_20160224_002065	F
+UI_20160224_002066	{@st59}Close{/}
+UI_20160224_002067	{@st59}Place an accessory{/}
+UI_20160224_002068	{@st66b}Opening 1 more time will consume silver.{/}
+UI_20160224_002069	{@st66b}Up to 2 times is allowed for Token users.{/}
+UI_20160224_002070	{@st41b}You have exceeded the number of times allowed.{/}
+UI_20160224_002071	{@st66b}Basic Info
+UI_20160224_002072	{@st66b}Property
+UI_20160224_002073	The guild master is searching for Guild Event participants.
+UI_20160224_002074	{@st63_yellow}Members :{/}
+UI_20160224_002075	{@st63}%s participants (Login %s){/}
+UI_20160224_002076	{@st63_yellow}Location :{/}
+UI_20160224_002077	Cobalt Forest
+UI_20160224_002078	{@st63_yellow}Objective :{/}
+UI_20160224_002079	{@st43}Guild Lv. %s{/}
+UI_20160224_002080	{@st66b}Upgrade & Rank
+UI_20160224_002081	{@st66b}Guild Attributes
+UI_20160224_002082	Guild Storage
+UI_20160224_002083	{@st59}Close{/}
+UI_20160224_002084	* This item to was sent to guild members by the guild master.{nl}* Items can be collected through the Message Box.
+UI_20160224_002085	
+UI_20160224_002086	{@st41b}Magic Scroll{/}
+UI_20160224_002087	{@st59}Close{/}
+UI_20160224_002088	{@st66b}Consumes 1 Magic Scroll.{/}
+UI_20160224_002089	{@st42b}Current Scrolls  : %s{/}
+UI_20160224_002090	{@st66b}Request{/}
+UI_20160224_002091	
+UI_20160224_002092	{@st66b}Earth Tower{/}
+UI_20160224_002093	
+UI_20160224_002094	{@st59}Close{/}
+UI_20160224_002095	{@st59}Show/Do not show{/}
+UI_20160224_002096	
+UI_20160224_002097	Bid
+UI_20160224_002098	Remaining Bidding Time
+UI_20160224_002099	Item Dice
+UI_20160224_002100	{@st42}%s Benefits{/}
+UI_20160224_002101	
+UI_20160224_002102	The remaining time can be viewed in the Character Info window.{/}
+UI_20160224_002103	Receiving data.
+UI_20160224_002104	{@st66b}Ranking{/}
+UI_20160224_002105	{@st66b}Spectate
+UI_20160224_002106	{@st41b}Quit Spectating
+UI_20160224_002107	Blue Team
+UI_20160224_002108	Red Team
+UI_20160224_002109	{@59}Show in a new window{/}
+UI_20160224_002110	Registered to the Adventure Journal.
+UI_20160224_002111	{@st41}Exchange
+UI_20160224_002112	
+UI_20160224_002113	Team Battle League Schedule
+UI_20160224_002114	
+UI_20160224_002115	
+UI_20160224_002116	{@st41c}%s{/}
+UI_20160224_002117	{@st41c}%sm{/}
+UI_20160224_002118	
+UI_20160224_002119	
+UI_20160224_002120	Name & Class
+UI_20160224_002121	{@st41b}Refresh
+UI_20160224_002122	
+UI_20160224_002123	Spectate
+UI_20160224_002124	{#000000}%s W{/}
+UI_20160224_002125	{@st66b}Point Shop
+UI_20160224_002126	
+UI_20160224_002127	
+UI_20160224_002128	
+UI_20160224_002129	Storage
+UI_20160224_002130	
+UI_20160224_002131	Defeats : %s
+UI_20160224_002132	Damage : %s
+UI_20160224_002133	Increased Maximum Buff Count
