@@ -1363,7 +1363,7 @@ SKILL_20150317_001362	Jincan Gu
 SKILL_20150317_001363	{#DD5500}{ol}[Physical] - [Poison] - [Pierce]{/}{/}{nl}Shoot an arrow containing parasites at the enemy.
 SKILL_20150317_001364	Attack #{SkillAtkAdd}#{nl}Use #{SpendPoison}# Poison pot
 SKILL_20150317_001365	Camouflage
-SKILL_20150317_001366	Hide yourself in an apple barrel to evade enemies attention. The Barrel provides defence against several attacks.
+SKILL_20150317_001366	Hide yourself in an apple barrel to avoid the attention of enemies. The barrel provides defense against several attacks.
 SKILL_20150317_001367	Number of Blocks: #{CaptionRatio}#{nl}Movement Speed: -#{CaptionRatio}#
 SKILL_20150317_001368	Flu Flu
 SKILL_20150317_001369	Shoot a noisemaker arrow at the enemy. Also affect enemies nearby.
@@ -3676,7 +3676,7 @@ SKILL_20150414_003675	Makes an enemy lethargic.
 SKILL_20150414_003676	Makes an enemy fall asleep. The enemy awakens once you've reached your limit of attacks.
 SKILL_20150414_003677	Creates a protective shield that reflects the amplified damage to the enemy.
 SKILL_20150414_003678	{#993399}{ol}[Magic]{/}{/}{nl}Continuously attack enemies with magic bullets.
-SKILL_20150414_003679	Skill cast time decreases.
+SKILL_20150414_003679	Reduces the casting time of skills.
 SKILL_20150414_003680	{#993399}{ol}[Magic] - [Fire]{/}{/}{nl}Summons a fireball. Enemies touching the fireball will receive continuous flame damage.
 SKILL_20150414_003681	{#993399}{ol}[Magic] - [Fire]{/}{/}{nl}Creates a wall of flames that continuously damages approaching enemies.
 SKILL_20150414_003682	Temporarily grants the fire property to you and your party member's attacks.
@@ -5817,17 +5817,17 @@ SKILL_20151224_005816	{#993399}{ol}[Magic] - [Dark]{/}{/}{nl}Summon the devil of
 SKILL_20151224_005817	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Stigma Duration: 5 seconds
 SKILL_20151224_005818	Evil Sacrifice
 SKILL_20151224_005819	{#993399}{ol}[Magic]{/}{/}Set the enemies in the targeted area as a sacrifice to the evil spirits. The evil spirits will move towards the targeted area to attack enemies.
-SKILL_20151224_005820	Demolition Rune
+SKILL_20151224_005820	Rune of Demolition
 SKILL_20151224_005821	{#993399}{ol}[Magic]{/}{/}Inflicts powerful damage to enemies in a targeted area. The attacked enemies will deal additional damage to other enemies by reflecting magic.
-SKILL_20151224_005822	Ice Rune
+SKILL_20151224_005822	Rune of Ice
 SKILL_20151224_005823	{#993399}{ol}[Magic]{/}{/}Temporarily increases the Ice-type magic of you and your party members, making it more powerful.
 SKILL_20151224_005824	Duration: #{CaptionTime}# seconds{nl}Increases the Ice Property skill attacks by 300%
-SKILL_20151224_005825	Giant Rune
+SKILL_20151224_005825	Rune of Giant
 SKILL_20151224_005826	{#993399}{ol}[Magic]{/}{/}Creates a magic circle that temporarily changes you or your party member to a giant. Giant players are considered a large-type, but will have their attack and defense increased.
 SKILL_20151224_005827	Duration: #{CaptionTime}# seconds{nl}Attack: +#{CaptionRatio}#{nl}Defense: +#{CaptionRatio2}#
-SKILL_20151224_005828	Justice Rune
+SKILL_20151224_005828	Rune of Justice
 SKILL_20151224_005829	{#993399}{ol}[Magic]{/}{/}Attacks enemies up front using the Holy Property.
-SKILL_20151224_005830	Protection Rune
+SKILL_20151224_005830	Rune of Protection
 SKILL_20151224_005831	{#993399}{ol}[Magic]{/}{/}Increases the resistance ratio of you and your party member against status ailments.
 SKILL_20151224_005832	Temporarily increases movement speed and evasion while moving.
 SKILL_20151224_005833	Moving Shot Movement Speed: +#{SkillFactor}#%{nl}Physical Defense: -#{CaptionRatio}#{nl}Evasion: +#{CaptionRatio2}#%{nl}Duration: #{CaptionTime}# seconds
@@ -6075,17 +6075,17 @@ SKILL_20151224_006074	Enemies affected by [Slow] have their critical resistance 
 SKILL_20151224_006075	Enemies provoked after using [Back Masking] will fall under [Confusion] for 6 seconds. 8 seconds of [Confusion] will be applied if the attribute is level 2.
 SKILL_20151224_006076	Physical and Magic attack will be increased for 30 minutes for allies that participated in [Item Awakening] dungeon. Increases attack by 20% per attribute level.
 SKILL_20151224_006077	Rune Caster: Skilled Casting
-SKILL_20151224_006078	1% chance per attribute level of receiving the effects of [Quick Cast] after using the Rune Caster skill. The effect is decided according to the caster's [Quick Cast] skill level.
-SKILL_20151224_006079	Ice Rune: Slow
-SKILL_20151224_006080	Decreases movement speed by 50% for 7 seconds at a 5% chance per attribute level when using a basic attack to enemies while [Ice Rune] is active.
-SKILL_20151224_006081	Demolition Rune: Enhance
-SKILL_20151224_006082	Increases the damage dealt on an enemy with [Demolition Rune] by 1% per attribute level.
-SKILL_20151224_006083	Giant Rune: HP
-SKILL_20151224_006084	Increases the HP of party members who have changed to a giant with [Giant Rune], based on the caster's HP by 20% per attribute level.
-SKILL_20151224_006085	Justice Rune: Enhance
-SKILL_20151224_006086	Increases the damage dealt on an enemy with [Justice Rune] by 1% per attribute level.
-SKILL_20151224_006087	Protection Rune: Critical Resistance
-SKILL_20151224_006088	Increases the critical resistance by 20% based on the caster's SPR of [Protection Rune].
+SKILL_20151224_006078	1% chance per attribute level of receiving the effects of [Quick Cast] after using a Rune Caster skill. The effect is based on the caster's skill level of [Quick Cast].
+SKILL_20151224_006079	Rune of Ice: Slow
+SKILL_20151224_006080	Decreases movement speed by 50% for 7 seconds at a 5% chance per attribute level when using a basic attack to enemies while [Rune of Ice] is active.
+SKILL_20151224_006081	Rune of Demolition: Enhance
+SKILL_20151224_006082	Increases the damage dealt on an enemy with [Rune of Demolition] by 1% per attribute level.
+SKILL_20151224_006083	Rune of Giant: HP
+SKILL_20151224_006084	Increases the HP of party members who have changed to a giant with [Rune of Giant], based on the caster's HP by 20% per attribute level.
+SKILL_20151224_006085	Rune of Justice: Enhance
+SKILL_20151224_006086	Increases the damage dealt on an enemy with [Rune of Justice] by 1% per attribute level.
+SKILL_20151224_006087	Rune of Protection: Critical Resistance
+SKILL_20151224_006088	Increases the critical resistance by 20% based on the caster's SPR of [Rune of Protection].
 SKILL_20151224_006089	Deploy Pavise: Bleeding Chance
 SKILL_20151224_006090	Increases the chance to afflict bleeding on an enemy when damage is dealt with [Deploy Pavise] by 1%.
 SKILL_20151224_006091	Increases the physical attack of allies within the range of [Perspective Distortion] by 5% per attribute level.
@@ -6243,12 +6243,12 @@ SKILL_20160224_006242	Reduced SP usage, deals additional damage when attacking.
 SKILL_20160224_006243	Unable to move.
 SKILL_20160224_006244	High Anchoring: Critical Chance
 SKILL_20160224_006245	Rapid Fire: Critical Chance
-SKILL_20160224_006246	Increased maximum CON, defence, movement speed.
+SKILL_20160224_006246	Increased maximum CON, defense, movement speed.
 SKILL_20160224_006247	Weak against physical property attacks.
 SKILL_20160224_006248	Langort: Blocking
 SKILL_20160224_006249	Swash Buckling: Buff
 SKILL_20160224_006250	Increased magical attack
-SKILL_20160224_006251	Increased physical defence
+SKILL_20160224_006251	Increased physical defense
 SKILL_20160224_006252	Increased attack for stab property skills against characters.
 SKILL_20160224_006253	Increased attack for slash property skills against characters.
 SKILL_20160224_006254	Increased attack for strike property skills against characters.
@@ -6256,44 +6256,44 @@ SKILL_20160224_006255	Increased attack for missile property skills against chara
 SKILL_20160224_006256	Increased attack for fire property skills against characters.
 SKILL_20160224_006257	Increased attack for ice property skills against characters.
 SKILL_20160224_006258	Increased attack for poison property skills against characters.
-SKILL_20160224_006259	Increased attack for electricity property skills against characters.
+SKILL_20160224_006259	Increased attack for lightning property skills against characters.
 SKILL_20160224_006260	Increased attack for earth property skills against characters.
-SKILL_20160224_006261	Increased attack for divine property skills against characters.
+SKILL_20160224_006261	Increased attack for holy property skills against characters.
 SKILL_20160224_006262	Increased attack for dark property skills against characters.
-SKILL_20160224_006263	Increased defence against stab property skills used on characters.
-SKILL_20160224_006264	Increased defence against slash property skills used on characters.
-SKILL_20160224_006265	Increased defence against strike property skills used on characters.
-SKILL_20160224_006266	Increased defence against missile property skills used on characters.
-SKILL_20160224_006267	Increased defence against fire property skills used on characters.
-SKILL_20160224_006268	Increased defence against ice property skills used on characters.
-SKILL_20160224_006269	Increased defence against poison property skills used on characters.
-SKILL_20160224_006270	Increased defence against electricity property skills used on characters.
-SKILL_20160224_006271	Increased defence against earth property skills used on characters.
-SKILL_20160224_006272	Increased defence against divine property skills used on characters.
-SKILL_20160224_006273	Increased defence against dark property skills used on characters.
-SKILL_20160224_006274	Increased movement speed, physical attack and magical defence
+SKILL_20160224_006263	Increased defense against stab property skills used on characters.
+SKILL_20160224_006264	Increased defense against slash property skills used on characters.
+SKILL_20160224_006265	Increased defense against strike property skills used on characters.
+SKILL_20160224_006266	Increased defense against missile property skills used on characters.
+SKILL_20160224_006267	Increased defense against fire property skills used on characters.
+SKILL_20160224_006268	Increased defense against ice property skills used on characters.
+SKILL_20160224_006269	Increased defense against poison property skills used on characters.
+SKILL_20160224_006270	Increased defense against lightning property skills used on characters.
+SKILL_20160224_006271	Increased defense against earth property skills used on characters.
+SKILL_20160224_006272	Increased defense against holy property skills used on characters.
+SKILL_20160224_006273	Increased defense against dark property skills used on characters.
+SKILL_20160224_006274	Increased movement speed, physical attack and magical defense
 SKILL_20160224_006275	Increased party EXP earned for Instanced Dungeons
 SKILL_20160224_006276	Increased earned for automatic Instanced Dungeon matching
 SKILL_20160224_006277	 - Able to learn up to 2 attributes simultaneously{nl} - Reduced Market commission fee (30%{img white_right_arrow 16 16}10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement{nl} - Can only trade 30 times
 SKILL_20160224_006278	Increased Maximum Buff Count
-SKILL_20160224_006279	The maximum ammount of buffs increases by 1.
+SKILL_20160224_006279	Increases the maximum amount of buffs you can have by 1.
 SKILL_20160224_006280	Swash Buckling: Maximum HP
 SKILL_20160224_006281	Increases the character's maximum HP by 5% per attribute level when Swash Buckling is active.
 SKILL_20160224_006282	Langort: Enhance
 SKILL_20160224_006283	Increases the damage dealt on an enemy with [Langort] by 1% per attribute level.
-SKILL_20160224_006284	5% increase in the chance to block an enemy attack per attribute level and after a successful block, the enemy will afflicted by [Silence] for 3 seconds.
+SKILL_20160224_006284	Using [Langort] will increases the chance to block an enemy's attack by 5% per attribute level. After a successful block, the enemy becomes afflicted with [Silence] for 3 seconds.
 SKILL_20160224_006285	Party members will receive a buff when [Swash Buckling] is used.
 SKILL_20160224_006286	Targe Smash: Remove Knockback
 SKILL_20160224_006287	[Targe Smash] no longer knocks enemies back. (Only applies if the attribute is set to ON)
-SKILL_20160224_006288	The movement speed of monsters under the influence of [Swell Body] will decrease by 15% while their physical and magical attack will be increased by 20% per attribute level. (The effects cannot be applied to characters.)
-SKILL_20160224_006289	The movement speed of monsters under the influence of [Shrink Body] will increase by 10% while their physical and magical attack will be reduced by 25% per attribute level. (The effects cannot be applied to characters.)
-SKILL_20160224_006290	1% chance per attribute level to receive a [Quick Cast] effect after using a Rune Caster skill. The effect is decided by the caster's [Quick Cast] skill level, and will have reduced durations instead of receiving Lv1 effects if [Quick Cast] hasn't been learned.
-SKILL_20160224_006291	When the effects of [Ice Rune] are active, there is a 5% chance per attribute level of the enemy's movement speed being reduced by 70% for 4 seconds on a basic attack.
-SKILL_20160224_006292	Giantified colleagues through [Giant Rune] gain additional HP in accordance to [20% of the Caster's CON stat] x [60 per attribute level].
+SKILL_20160224_006288	Decreases the movement speed of monsters affected by [Swell Body] by 15%, while increasing their physical and magic attack by 20% per attribute level. (The effects do not count towards characters.)
+SKILL_20160224_006289	Increases the movement speed of monsters affected by [Shrink Body] by 10%, while decreasing their physical and magic attack by 25% per attribute level. (The effects do not count towards characters.)
+SKILL_20160224_006290	Receive a [Quick Cast] effect with a 1% chance per attribute level after using a Rune Caster skill. The effect is based on the caster's skill level of [Quick Cast]. If [Quick Cast] hasn't been learned, then the duration of the skill is reduced along with receiving Lv1 effects.
+SKILL_20160224_006291	Decreases the enemy's movement speed by 70% for 4 seconds on a basic attack with a 5% chance per attribute level while [Rune of Ice] is active.
+SKILL_20160224_006292	Giantified allies from [Rune of Giant] gain additional HP according to [20% of the caster's CON] x [60 per attribute level].
 SKILL_20160224_006293	Swift Step: Including Party Members
 SKILL_20160224_006294	Applies the effects of Swift Step to include party members.
-SKILL_20160224_006295	Foes hit by [High Anchoring] have their critical resistance reduced by 3 per attribute level for 5 seconds.
-SKILL_20160224_006296	Foes hit by [Rapid Fire] have a 50% chance of having their critical resistance reduced to 0 for 3 seconds per attribute point.
+SKILL_20160224_006295	Enemies hit by [High Anchoring] have their critical resistance reduced by 3 per attribute level for 5 seconds.
+SKILL_20160224_006296	Enemies hit by [Rapid Fire] have a 50% chance of having their critical resistance reduced to 0 for 3 seconds per attribute level.
 SKILL_20160224_006297	Claymore: Flying-type Compatibility
 SKILL_20160224_006298	Deals 10% additional damage per attribute level on Flying-type monsters with [Claymore].
 SKILL_20160224_006299	Detonate Traps: Flying-type Compatibility
@@ -6310,7 +6310,7 @@ SKILL_20160224_006309	Needle Blow: Poison Enhance
 SKILL_20160224_006310	Increases the poison damage dealt on an enemy with [Needle Blow] by 2 per attribute level.
 SKILL_20160224_006311	Wugong Gu: Poison Enhance
 SKILL_20160224_006312	Increases the poison damage dealt on an enemy with [Wugong Gu] by 2 per attribute level.
-SKILL_20160224_006313	If [Call] is used, the hawk has a 50% chance of fetching a small item
+SKILL_20160224_006313	If [Call] is used, the hawk has a 50% chance of fetching small items.
 SKILL_20160224_006314	Headshot: Enhance
 SKILL_20160224_006315	Headshot: Stun
 SKILL_20160224_006316	Enemies hit by [Headshot] have a 2.5% chance per attribute level to become stunned for 3 seconds.
