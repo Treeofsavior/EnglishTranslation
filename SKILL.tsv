@@ -5883,8 +5883,8 @@ SKILL_20151224_005882	Decreases #{CaptionRatio}# SP{nl}SP recovery time decrease
 SKILL_20151224_005883	Carves a statue of Laima, the Goddess of Fate. {nl}Decreases the cooldown of your party members' skills within the radius of the Goddess Statue.
 SKILL_20151224_005884	Cooldown: -#{CaptionRatio}#% {nl}Movement Speed: -20 {nl}Statue Duration: #{CaptionRatio2}# seconds{nl}Consumes 1 Cedar Wood
 SKILL_20151224_005885	Attack: 250% + #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%
-SKILL_20151224_005886	Temporarily increases the fire, ice, lightning, poison and earth property resistance and property attack of you and your party members. At a certain chance, nullifies the listed property attacks and decreases the magic defense of enemies nearby.
-SKILL_20151224_005887	Property Resistance: +#{CaptionRatio}#{nl}Property Attack Nullify Chance: #{CaptionRatio2}#%{nl}Enemy Magic Defense: #{SkillFactor}#{nl}Duration: #{CaptionTime}# seconds
+SKILL_20151224_005886	Temporarily increases the fire, ice, lightning, poison and earth property resistances of you and your party members. Has a chance of nullifying the listed property attacks and decreases the magic defense of nearby enemies.
+SKILL_20151224_005887	Property Resistance: +#{CaptionRatio}#{nl}Nullification Chance: #{CaptionRatio2}#%{nl}Enemy Magic Defense: -#{SkillFactor}#{nl}Duration: #{CaptionTime}# seconds
 SKILL_20151224_005888	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Maximum Exctinction Count: #{CaptionRatio}#
 SKILL_20151224_005889	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Strike with a powerful hand knife to damage the enemy.
 SKILL_20151224_005890	Open an Offering Box to receive donations from allies, Can only be opened nearby a Goddess Statue. Cannot be set up in towns and cities.
