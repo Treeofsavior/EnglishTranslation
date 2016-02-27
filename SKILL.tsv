@@ -3868,10 +3868,10 @@ SKILL_20150414_003867	Attack soul
 SKILL_20150414_003868	Basic attack on spirits when outside the body.
 SKILL_20150414_003869	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Strongly smack down enemy.
 SKILL_20150414_003870	Activate aura and increase HP recovery of allies nearby.
-SKILL_20150414_003871	Enemies attacked have chance of creating a magic circle of conversion.
+SKILL_20150414_003871	Creates a magic circle which has a chance of converting enemies.
 SKILL_20150414_003872	Temporarily increases the property resistances of you and your party members.
 SKILL_20150414_003873	Fire, Ice, Lightning Resistance: +#{CaptionRatio}# {nl}Poison, Earth Resistance: +#{CaptionRatio2}#{nl}Buff Duration: #{CaptionTime}# seconds
-SKILL_20150414_003874	May defeat mutant or devil-type enemy at once.
+SKILL_20150414_003874	Has a chance of instantly defeating Mutant or Devil-type enemies.
 SKILL_20150414_003875	Make a protective wall that push away enemies and block them from entering.
 SKILL_20150414_003876	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Train your skin as hard as steel to inflict damage by bouncing off the enemy's attack.
 SKILL_20150414_003877	Reflect attack amounting to target's Physical attack.{nl}Reflect damage +#{SkillAtkAdd}#{nl}Ranged projectile, cannot defend magic
@@ -5131,11 +5131,11 @@ SKILL_20150918_005130	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRati
 SKILL_20150918_005131	Carve Statue Duration: #{CaptionRatio}# seconds{nl}Consumes 1 Ash Wood 1
 SKILL_20150918_005132	{#339999}{ol}[Goddess' Blessing]{/}{/} Duration: #{CaptionRatio}# seconds{nl}Goddess Statue Duration: 30 seconds{nl}Consumes 1 Cedar Wood
 SKILL_20150918_005133	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Up to 5 users{nl}Maximum Duration: 10 seconds
-SKILL_20150918_005134	Pushes the enemies outside and creates the wall of protection which doesn't allow others to enter for some time. It will increase DEF of the allies inside the wall.
-SKILL_20150918_005135	Magic DEF #{CaptionRatio}# Increase{nl}Duration #{CaptionTime}#Secs
+SKILL_20150918_005134	Pushes enemies away and creates a barrier of protection which doesn't allow others to enter for some time. Increases the magic defense of allies who are inside the barrier.
+SKILL_20150918_005135	Magic Defense: +#{CaptionRatio}#{nl}Duration: #{CaptionTime}# seconds
 SKILL_20150918_005136	Conviction
 SKILL_20150918_005137	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Attacks an enemy as an attack for the betrayer. Resistance to Fire, Ice, Electricity, Poison of the enemy that received the attack will decrease.
-SKILL_20150918_005138	Attack #{SkillAtkAdd}#{nl}Property Attack #{CaptionRatio}#%{nl}Range Attack Ration #{SkillSR}#{nl}each property attack #{CaptionRatio2}# decrease
+SKILL_20150918_005138	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}AoE Attack Ratio: #{SkillSR}#{nl}All Properties Resistance: -#{CaptionRatio2}#
 SKILL_20150918_005139	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}With trained fingers attack by inflicting internal damage to the enemy.
 SKILL_20150918_005140	{#DD5500}{ol}[Physical]{/}{/}{nl}Gather force then shoot forward. The enemy is pushed away and will receive damage.
 SKILL_20150918_005141	Increase Magic Defense
@@ -5883,8 +5883,8 @@ SKILL_20151224_005882	Decreases #{CaptionRatio}# SP{nl}SP recovery time decrease
 SKILL_20151224_005883	Carves a statue of Laima, the Goddess of Fate. {nl}Decreases the cooldown of your party members' skills within the radius of the Goddess Statue.
 SKILL_20151224_005884	Cooldown: -#{CaptionRatio}#% {nl}Movement Speed: -20 {nl}Statue Duration: #{CaptionRatio2}# seconds{nl}Consumes 1 Cedar Wood
 SKILL_20151224_005885	Attack: 250% + #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%
-SKILL_20151224_005886	Temporarily increases the fire, ice, lightning, poison and earth property resistance and property attack of you and your party members. At a certain chance, nullifies the listed property attacks and decreases the magic defense of enemies nearby.
-SKILL_20151224_005887	Property Resistance: +#{CaptionRatio}#{nl}Property Attack Nullify Chance: #{CaptionRatio2}#%{nl}Enemy Magic Defense: #{SkillFactor}#{nl}Duration: #{CaptionTime}# seconds
+SKILL_20151224_005886	Temporarily increases the fire, ice, lightning, poison and earth property resistances of you and your party members and decreases the magic defense of nearby enemies. Has a chance of nullifying the listed property attacks.
+SKILL_20151224_005887	Property Resistance: +#{CaptionRatio}#{nl}Nullification Chance: #{CaptionRatio2}#%{nl}Enemy Magic Defense: -#{SkillFactor}#{nl}Duration: #{CaptionTime}# seconds
 SKILL_20151224_005888	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Maximum Exctinction Count: #{CaptionRatio}#
 SKILL_20151224_005889	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Strike with a powerful hand knife to damage the enemy.
 SKILL_20151224_005890	Open an Offering Box to receive donations from allies, Can only be opened nearby a Goddess Statue. Cannot be set up in towns and cities.
@@ -6236,8 +6236,8 @@ SKILL_20160224_006235
 SKILL_20160224_006236	STR: +#{CaptionRatio}#{nl}AoE Attack Ratio: +#{CaptionRatio2}#{nl}Duration: #{CaptionTime}# seconds{nl}Glyph Duration: 15 seconds
 SKILL_20160224_006237
 SKILL_20160224_006238	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio2}#%{nl}Additional Damage to Plant-type Monsters: +#{CaptionRatio}#{nl}Statue Materials Drop Rate: #{CaptionTime}#%
-SKILL_20160224_006239
-SKILL_20160224_006240	
+SKILL_20160224_006239	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Strike down the enemy with a powerful attack. Deals double damage to Mutant and Devil-type enemies.
+SKILL_20160224_006240	Attack: #{SkillAtkAdd}#{nl}Maximum Targets: #{CaptionRatio}#
 SKILL_20160224_006241	Attack per Hit: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio2}#%{nl}Consumes 30 SP per second
 SKILL_20160224_006242	Reduced SP usage, deals additional damage when attacking.
 SKILL_20160224_006243	Unable to move.
@@ -6317,7 +6317,7 @@ SKILL_20160224_006316	Enemies hit by [Headshot] have a 2.5% chance per attribute
 SKILL_20160224_006317	Snipe: Stun
 SKILL_20160224_006318	Enemies hit by [Snipe] have a 3.5% chance per attribute level to become stunned for 3 seconds.
 SKILL_20160224_006319	Safety Zone: Defense Count
-SKILL_20160224_006320	Increases the amount of defenses [Safety Zone] can have by 1 per attribute level.
+SKILL_20160224_006320	Increases the number of defenses [Safety Zone] can have by 1 per attribute level.
 SKILL_20160224_006321	Exorcise: Duration
 SKILL_20160224_006322	Increases the duration of [Exorcise]'s magic circle by 1 second per attribute level.
 SKILL_20160224_006323	Class Rank 5 required
