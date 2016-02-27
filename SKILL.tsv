@@ -5817,16 +5817,16 @@ SKILL_20151224_005816	{#993399}{ol}[Magic] - [Dark]{/}{/}{nl}Summon the devil of
 SKILL_20151224_005817	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Stigma Duration: 5 seconds
 SKILL_20151224_005818	Evil Sacrifice
 SKILL_20151224_005819	{#993399}{ol}[Magic]{/}{/}Set the enemies in the targeted area as a sacrifice to the evil spirits. The evil spirits will move towards the targeted area to attack enemies.
-SKILL_20151224_005820	Rune of Demolition
+SKILL_20151224_005820	Rune of Destruction
 SKILL_20151224_005821	{#993399}{ol}[Magic]{/}{/}Inflicts powerful damage to enemies in a targeted area. The attacked enemies will deal additional damage to other enemies by reflecting magic.
 SKILL_20151224_005822	Rune of Ice
 SKILL_20151224_005823	{#993399}{ol}[Magic]{/}{/}Temporarily increases the Ice-type magic of you and your party members, making it more powerful.
 SKILL_20151224_005824	Duration: #{CaptionTime}# seconds{nl}Increases the Ice Property skill attacks by 300%
-SKILL_20151224_005825	Rune of Giant
+SKILL_20151224_005825	Rune of Giants
 SKILL_20151224_005826	{#993399}{ol}[Magic]{/}{/}Creates a magic circle that temporarily changes you or your party member to a giant. Giant players are considered a large-type, but will have their attack and defense increased.
 SKILL_20151224_005827	Duration: #{CaptionTime}# seconds{nl}Attack: +#{CaptionRatio}#{nl}Defense: +#{CaptionRatio2}#
 SKILL_20151224_005828	Rune of Justice
-SKILL_20151224_005829	{#993399}{ol}[Magic]{/}{/}Attacks enemies up front using the Holy Property.
+SKILL_20151224_005829	{#993399}{ol}[Magic]{/}{/}Attack enemies in front with a flash of holy light.
 SKILL_20151224_005830	Rune of Protection
 SKILL_20151224_005831	{#993399}{ol}[Magic]{/}{/}Increases the resistance ratio of you and your party member against status ailments.
 SKILL_20151224_005832	Temporarily increases movement speed and evasion while moving.
@@ -6078,10 +6078,10 @@ SKILL_20151224_006077	Rune Caster: Skilled Casting
 SKILL_20151224_006078	1% chance per attribute level of receiving the effects of [Quick Cast] after using a Rune Caster skill. The effect is based on the caster's skill level of [Quick Cast].
 SKILL_20151224_006079	Rune of Ice: Slow
 SKILL_20151224_006080	Decreases movement speed by 50% for 7 seconds at a 5% chance per attribute level when using a basic attack to enemies while [Rune of Ice] is active.
-SKILL_20151224_006081	Rune of Demolition: Enhance
-SKILL_20151224_006082	Increases the damage dealt on an enemy with [Rune of Demolition] by 1% per attribute level.
-SKILL_20151224_006083	Rune of Giant: HP
-SKILL_20151224_006084	Increases the HP of party members who have changed to a giant with [Rune of Giant], based on the caster's HP by 20% per attribute level.
+SKILL_20151224_006081	Rune of Destruction: Enhance
+SKILL_20151224_006082	Increases the damage dealt on an enemy with [Rune of Destruction] by 1% per attribute level.
+SKILL_20151224_006083	Rune of Giants: HP
+SKILL_20151224_006084	Increases the HP of party members who have changed to a giant with [Rune of Giants], based on the caster's HP by 20% per attribute level.
 SKILL_20151224_006085	Rune of Justice: Enhance
 SKILL_20151224_006086	Increases the damage dealt on an enemy with [Rune of Justice] by 1% per attribute level.
 SKILL_20151224_006087	Rune of Protection: Critical Resistance
@@ -6289,7 +6289,7 @@ SKILL_20160224_006288	Decreases the movement speed of monsters affected by [Swel
 SKILL_20160224_006289	Increases the movement speed of monsters affected by [Shrink Body] by 10%, while decreasing their physical and magic attack by 25% per attribute level. (The effects do not count towards characters.)
 SKILL_20160224_006290	Receive a [Quick Cast] effect with a 1% chance per attribute level after using a Rune Caster skill. The effect is based on the caster's skill level of [Quick Cast]. If [Quick Cast] hasn't been learned, then the duration of the skill is reduced along with receiving Lv1 effects.
 SKILL_20160224_006291	Decreases the enemy's movement speed by 70% for 4 seconds on a basic attack with a 5% chance per attribute level while [Rune of Ice] is active.
-SKILL_20160224_006292	Giantified allies from [Rune of Giant] gain additional HP according to [20% of the caster's CON] x [60 per attribute level].
+SKILL_20160224_006292	Giantified allies from [Rune of Giants] gain additional HP according to [20% of the caster's CON] x [60 per attribute level].
 SKILL_20160224_006293	Swift Step: Including Party Members
 SKILL_20160224_006294	Applies the effects of Swift Step to include party members.
 SKILL_20160224_006295	Enemies hit by [High Anchoring] have their critical resistance reduced by 3 per attribute level for 5 seconds.
