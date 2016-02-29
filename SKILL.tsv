@@ -3681,11 +3681,11 @@ SKILL_20150414_003680	{#993399}{ol}[Magic] - [Fire]{/}{/}{nl}Summons a fireball.
 SKILL_20150414_003681	{#993399}{ol}[Magic] - [Fire]{/}{/}{nl}Creates a wall of flames that continuously damages approaching enemies.
 SKILL_20150414_003682	Temporarily grants the Fire property to you and your party member's attacks.
 SKILL_20150414_003683	{#993399}{ol}[Magic] - [Fire]{/}{/}{nl}Inflicts damage by exploding a burning enemy.
-SKILL_20150414_003684	{#993399}{ol}[Magic] - [Fire]{/}{/}{nl}Summons a fire pillar to inflict damage on enemies.
+SKILL_20150414_003684	{#993399}{ol}[Magic] - [Fire]{/}{/}{nl}Summons a pillar of fire to inflict damage on enemies.
 SKILL_20150414_003685	{#993399}{ol}[Magic] - [Fire]{/}{/}{nl}Attack by continuously fuming fire forward to enemies. Deals continuous flame damage to enemies.
 SKILL_20150414_003686	{#993399}{ol}[Magic] - [Ice] - [Pierce]{/}{/}{nl}Launches a bolt of ice to an enemy that inflicts damage and has a chance to freeze the enemy.
 SKILL_20150414_003687	{#993399}{ol}[Magic] - [Ice] - [Pierce]{/}{/}}{nl}Spurt ice thorns and attack enemies in front with chance of freezing.
-SKILL_20150414_003688	Create ice wall to trap enemy with chance of freezing nearby enemies.
+SKILL_20150414_003688	Creates a wall of ice that confines an enemy with a chance of freezing nearby enemies.
 SKILL_20150414_003689	{#993399}{ol}[Magic] - [Ice]{/}{/}{nl}Smack frozen enemies in front. Can freeze one more enemy nearby.
 SKILL_20150414_003690	Create ice tent to block and freeze enemy.
 SKILL_20150414_003691	Create strong wind to push away target. Use on frozen enemies to attack neaby enemies.
@@ -3847,14 +3847,14 @@ SKILL_20150414_003846	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Order zombies 
 SKILL_20150414_003847	Install a Samedi pattern that represents death noir on the ground. Movement speed and max. HP of zombies and allies around the pattern increase.
 SKILL_20150414_003848	Install a Oguon pattern that represents strength noir on the ground. Strength of zombies and allies around the pattern increase.
 SKILL_20150414_003849	{#993399}{ol}[Magic]{/}{/}{nl}Detonates zombies near the targeted area and deals damage to nearby enemies.
-SKILL_20150414_003850	Carves a statue of Vakarine, the goddess of Evening Star. {nl}You may warp to other areas through the Goddess Statue.
+SKILL_20150414_003850	Carve a statue of Vakarine, goddess of the Evening Star. {nl}You may warp to other areas through the Goddess Statue.
 SKILL_20150414_003851	Carves a statue of Zemyna, the goddess of Earth.{nl}Decreases the SP cost for allies who are within the radius of the Goddess Statue.
 SKILL_20150414_003852	SP: -#{CaptionRatio}#{nl}Statue Duration: #{CaptionRatio2}# seconds{nl}Consumes 4 Pine Wood
-SKILL_20150414_003853	Carves a statue of Laima, the goddess of Fate. {nl}Decreases the cooldown of your party members' skills within the radius of the Goddess Statue.
+SKILL_20150414_003853	Carve a statue of Laima, the goddess of fate.{nl}Decreases the cooldown of your party members' skills within the radius of the Goddess Statue.
 SKILL_20150414_003854	Cooldown Duration: -#{CaptionRatio}#%{nl}Statue Duration: #{CaptionRatio2}# seconds{nl}Consumes 4 Cedar Wood
 SKILL_20150414_003855	{#993399}{ol}[Magic] - [Fire]{/}{/}{nl}Carves an Owl Sculpture that attacks enemies in front of you.
 SKILL_20150414_003856	Attack: #{SkillAtkAdd}#{nl}Block Count: #{CaptionRatio}#{nl}Duration: #{CaptionTime}# seconds{nl}Use 3 Oak Wood
-SKILL_20150414_003857	Carves a divine World Tree that silences nearby enemies.
+SKILL_20150414_003857	Carve a divine World Tree that silences nearby enemies.
 SKILL_20150414_003858	Statue Duration #{CaptionRatio}# seconds{nl}Use 6 Ash Wood
 SKILL_20150414_003859	Carves a statue of Goddess Ausrine of the Morning Star. You and your allies are granted invulnerability after rotating around the Goddess Statue 3 times.
 SKILL_20150414_003860	{#339999}{ol}[Blessing of the Goddess]{/}{/} Duration: #{CaptionRatio}# seconds{nl}Goddess Statue Duration: 30 seconds{nl}Consumes 4 Cedar Wood
@@ -5246,7 +5246,7 @@ SKILL_20151001_005245	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Raises your swo
 SKILL_20151001_005246	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Release a strong attack on enemies by spinning your body. Increases your critical rate when the attack lands and deals additional damage to a stunned enemy.
 SKILL_20151001_005247	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}+50 Critical Rate{nl}AoE Attack Ratio: #{SkillSR}#
 SKILL_20151001_005248	Flame Ground
-SKILL_20151001_005249	{#993399}{ol}[Magic] - [Fire]{/}{/}{nl}Creates a magic circle of flames at a targeted area. Deals continuous flame damage to enemies in the magic circle.
+SKILL_20151001_005249	{#993399}{ol}[Magic] - [Fire]{/}{/}{nl}Creates a magic circle of flames at a targeted area. Deals continuous flame damage to enemies within the magic circle.
 SKILL_20151001_005250	Freezing Sphere
 SKILL_20151001_005251	Frost Cloud
 SKILL_20151001_005252	{#993399}{ol}[Magic] - [Ice]{/}{/}{nl}Creates a magic circle of ice at a targeted area. Deals continuous ice damage to enemies in the magic circle.
@@ -5303,7 +5303,7 @@ SKILL_20151016_005302	Cannon Shot
 SKILL_20151016_005303	Shootdown
 SKILL_20151016_005304	Siege Burst
 SKILL_20151016_005305	Cannon Blast
-SKILL_20151016_005306	{#993399}{ol}[Magic]{/}{/}{nl}Carve an Owl Sculpture to protect yourself from the attacks of enemies in front of it.
+SKILL_20151016_005306	{#993399}{ol}[Magic]{/}{/}{nl}Carve an Owl Sculpture to protect yourself from the attacks of enemies in front of you.
 SKILL_20151016_005307	Nullifies all magic near you.
 SKILL_20151016_005308	 Cooldown time of the skill will be reduced in half.
 SKILL_20151016_005309	Spear Lunge
@@ -5379,7 +5379,7 @@ SKILL_20151022_005378	Mijin no Jutsu
 SKILL_20151022_005379	Bunshin no Jutsu
 SKILL_20151022_005380	Mokuton no Jutsu
 SKILL_20151022_005381	Katon no Jutsu
-SKILL_20151022_005382	{#993399}{ol}[Magic] - [Ice]{/}{/}{nl}Cast an arrow of ice that inflicts damage and has a chance of freezing the enemy.
+SKILL_20151022_005382	{#993399}{ol}[Magic] - [Ice]{/}{/}{nl}Cast an arrow of ice that inflicts damage and has a chance of freezing an enemy.
 SKILL_20151022_005383	{#993399}{ol}[Magic] - [Ice]{/}{/}{nl}Make ice spikes sprout out in a line, inflicting damage and freezing enemies by chance.
 SKILL_20151022_005384	{#993399}{ol}[Magic] - [Ice]{/}{/}{nl}Ride on an enormous snowball and crush any enemies in your way.
 SKILL_20151022_005385	Attack: 400% +#{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Casting Time: #{CaptionTime}# seconds{nl}AoE Attack Ratio: #{SkillSR}#
@@ -5389,7 +5389,7 @@ SKILL_20151022_005388	Fires a shell to targeted airborne enemies. Deals 50% dama
 SKILL_20151022_005389	Fire on the ground using a howitzer. Enemies hit by the fire will knock down and deals 5x damage to the enemy's structure.
 SKILL_20151022_005390	Deals damage to multiple enemies by launching a cannon in an arc shape towards the ground.
 SKILL_20151022_005391	Maximum HP: +#{CaptionRatio}#{nl}Movement Speed: +#{CaptionRatio2}#{nl}Duration: #{CaptionTime}# seconds{nl}Glyph Duration: 15 seconds
-SKILL_20151022_005392	Carve a sculpture of Ausrine, the Goddess of the Morning Star. Those in your party who circle around the sculpture counter-clockwise are granted divine protection and become immune to damage temporarily.
+SKILL_20151022_005392	Carve a statue of Ausrine, goddess of the Morning Star. Those in your party who circle around the Goddess Statue counter-clockwise are granted divine protection and become immune to damage temporarily.
 SKILL_20151022_005393	STR, CON, INT, SPR, DEX: -#{CaptionRatio}#{nl}Consumes SP per second{nl}Maximum Duration: 10 seconds
 SKILL_20151022_005394	You and your party members are temporarily granted an increase in fire, ice, lightning, poison, and earth resistances, and have a chance of nullifying attacks from those properties.
 SKILL_20151022_005395	Property Resistance: +#{CaptionRatio}#{nl}Nullification Chance: #{CaptionRatio2}#%{nl}Duration: #{CaptionTime}# seconds
@@ -5786,14 +5786,14 @@ SKILL_20151224_005785	{#993399}{ol}[Magic]{/}{/}{nl}Attack continuously with mag
 SKILL_20151224_005786	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Bullet Count: #{CaptionRatio2}#
 SKILL_20151224_005787	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}{#339999}{ol}[Ice]{/}{/} Duration: 5 seconds
 SKILL_20151224_005788	Ice Wall Count: #{CaptionRatio}#{nl}{#339999}{ol}[Ice]{/}{/} Duration: 5 seconds{nl}Ice Wall Duration: 15 seconds
-SKILL_20151224_005789	Create a curtain of ice for defense. Inflicts damage after blocking an enemy attack and has a chance to freeze the enemy.
+SKILL_20151224_005789	Create a curtain of ice for defense. Inflicts damage after blocking an enemy attack and has a chance to freeze an enemy.
 SKILL_20151224_005790	Duration: #{CaptionTime}# seconds{nl}Enemies Attacked {#339999}{ol}[Ice]{/}{/}Chance: #{CaptionRatio2}#%{nl}{#339999}{ol}[Ice]{/}{/} Duration: #{CaptionRatio}# seconds
 SKILL_20151224_005791	{#339999}{ol}[Ice]{/}{/}Chance: #{CaptionRatio}#%{nl}Ice Tree Duration: #{CaptionTime}# seconds
 SKILL_20151224_005792	Evocation
 SKILL_20151224_005793	{#993399}{ol}[Magic] - [Dark]{/}{/}{nl}Summon a devil by using a grimoire equipped with a secondary card to attack enemies.
 SKILL_20151224_005794	{#993399}{ol}[Magic]{/}{/}{nl}Summon and release blood sucking bats against enemies to inflict damage.
 SKILL_20151224_005795	Pass
-SKILL_20151224_005796	{#993399}{ol}[Magic]{/}{/}{nl}Reduces a skill's cooldown time of you and your party members.
+SKILL_20151224_005796	{#993399}{ol}[Magic]{/}{/}{nl}Reduces the cooldown of skills of you and your party members.
 SKILL_20151224_005797	Cooldown Reduction: #{CaptionTime}# seconds
 SKILL_20151224_005798	Attack: #{SkillAtkAdd}#{nl}Dirty Pole Duration: #{CaptionRatio}# seconds{nl}{#339999}{ol}[Decay]{/}{/} Duration: #{CaptionTime}# seconds{nl}Consumes #{CaptionRatio2}# Corpses
 SKILL_20151224_005799	Receive different materials depending on the terrain. #{CaptionRatio}# ea obtained.
@@ -5880,7 +5880,7 @@ SKILL_20151224_005879	Attack: 200% + #{SkillAtkAdd}#{nl}Attribute Damage: #{Capt
 SKILL_20151224_005880	Maximum Capsule Count: #{CaptionRatio}#
 SKILL_20151224_005881	Carves a statue of Zemyna, the Goddess of Earth.{nl}Decreases the SP cost and SP recovery time for allies who are within the radius of the Goddess Statue.
 SKILL_20151224_005882	Decreases #{CaptionRatio}# SP{nl}SP recovery time decreases to 5 seconds{nl}Statue Duration: #{CaptionRatio2}# seconds{nl}Consumes 1 Pine Wood
-SKILL_20151224_005883	Carves a statue of Laima, the Goddess of Fate. {nl}Decreases the cooldown of your party members' skills within the radius of the Goddess Statue.
+SKILL_20151224_005883	Carves a statue of Laima, goddess of fate. {nl}Decreases the cooldown of your party members' skills within the radius of the Goddess Statue.
 SKILL_20151224_005884	Cooldown: -#{CaptionRatio}#% {nl}Movement Speed: -20 {nl}Statue Duration: #{CaptionRatio2}# seconds{nl}Consumes 1 Cedar Wood
 SKILL_20151224_005885	Attack: 250% + #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%
 SKILL_20151224_005886	Temporarily increases the fire, ice, lightning, poison and earth property resistances of you and your party members and decreases the magic defense of nearby enemies. Has a chance of nullifying the listed property attacks.
@@ -6234,7 +6234,7 @@ SKILL_20160224_006233	Attack: 400% + #{SkillAtkAdd}#{nl}Attribute Damage: #{Capt
 SKILL_20160224_006234	Blocks: #{CaptionRatio}# times{nl}Magic Circle Duration: 20 seconds
 SKILL_20160224_006235
 SKILL_20160224_006236	STR: +#{CaptionRatio}#{nl}AoE Attack Ratio: +#{CaptionRatio2}#{nl}Duration: #{CaptionTime}# seconds{nl}Glyph Duration: 15 seconds
-SKILL_20160224_006237
+SKILL_20160224_006237	Carve a statue of Zemyna, goddess of the earth. Decreases the SP cost and SP recovery for nearby allies who are within the radius of the Goddess Statue.
 SKILL_20160224_006238	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio2}#%{nl}Additional Damage to Plant-type Monsters: +#{CaptionRatio}#{nl}Statue Materials Drop Rate: #{CaptionTime}#%
 SKILL_20160224_006239	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Strike down the enemy with a powerful attack. Deals double damage to Mutant and Devil-type enemies.
 SKILL_20160224_006240	Attack: #{SkillAtkAdd}#{nl}Maximum Targets: #{CaptionRatio}#
