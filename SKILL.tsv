@@ -3622,7 +3622,7 @@ SKILL_20150414_003621	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Perform an upwa
 SKILL_20150414_003622	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Smack your weapon down on an enemy's head. Temporarily decreases the target's INT and SPR.
 SKILL_20150414_003623	Take a defensive stance, using your weapon to block. Blocked enemies become vulnerable to Pierce attacks.
 SKILL_20150414_003624	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Inflict damage on enemies by swinging your sword around to create continuous attacks.
-SKILL_20150414_003625	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Strike and push the enemy sidewards using the side of your sword. The enemy becomes afflicted with the Armor Break status status ailment.
+SKILL_20150414_003625	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Strike and push the enemy sidewards using the side of your sword. The enemy becomes afflicted with [Armor Break].
 SKILL_20150414_003626	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Repeatedly stab enemies with your spear.
 SKILL_20150414_003627	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Attack by piercing enemies with your spear. The larger an enemy is, the more consecutive hits you deal.
 SKILL_20150414_003628	Change to Window formation for active attack. Chance of critical increases but evasion decreases.
@@ -4010,7 +4010,7 @@ SKILL_20150414_004009	Enemy falls under [Bleed] for 8 seconds when attacked with
 SKILL_20150414_004010	Hand Knife: Armor Break
 SKILL_20150414_004011	Enemies attacked with [Hand Knife] have chance of falling under [Armor Break]. Chance increases by 5% per attribute level.
 SKILL_20150414_004012	One Inch Punch: Silence
-SKILL_20150414_004013	Enemies hit by [One Inch Punch] will be afflicted with the [Silence] status ailment for 5 seconds.
+SKILL_20150414_004013	Enemies hit by [One Inch Punch] will be afflicted with [Silence] for 5 seconds.
 SKILL_20150414_004014	Arcane Energy: Additional Damage
 SKILL_20150414_004015	Enemies nearby receive Holy damage when using [Arcane Energy]. Damage increases per attribute level.
 SKILL_20150414_004016	Chortasmata: Duration
@@ -4332,7 +4332,7 @@ SKILL_20150714_004331	Decreases the Strike damage dealt by [Synchro Thrusting] b
 SKILL_20150714_004332	Long Stride: Decreased Cooldown
 SKILL_20150714_004333	Decreases the cooldown time of [Long Stride].
 SKILL_20150714_004334	Spear Throw: Bind
-SKILL_20150714_004335	Enemies hit by [Spear Throw] have a chance to be afflicted with the [Bind] status ailment for 7 seconds. Increases the chance by 15% per attribute level. 
+SKILL_20150714_004335	Enemies hit by [Spear Throw] have a chance to be afflicted with [Bind] for 7 seconds. Increases the chance by 15% per attribute level. 
 SKILL_20150714_004336	Increases the damage dealt on an enemy with [Embowel] by 1% per attribute level.
 SKILL_20150714_004337	Increases the damage dealt on an enemy with [Stomping Kick] by 1% per attribute level.
 SKILL_20150714_004338	Increases the amount of enemies [Warcry] can affect by 1 per attribute level.
@@ -4494,7 +4494,7 @@ SKILL_20150714_004493	Increases the damage dealt on an enemy with [Flesh Cannon]
 SKILL_20150714_004494	Increases the damage dealt on an enemy with [Flesh Hoop] by 1% per attribute level.
 SKILL_20150714_004495	When an enemy gets shot by [Flash Canon], it will fall into Decay status for 30 secs with a certain probability. The rate will increase by 5% per Attribute level.
 SKILL_20150714_004496	Create Shoggoth: Decay
-SKILL_20150714_004497	Enemies near Shoggoth will be afflicted with the Decay status ailment for 10 seconds. Lasts for 1 minute per attribute level after Shoggoth is summoned.
+SKILL_20150714_004497	Enemies near Shoggoth will be afflicted with [Decay] for 10 seconds. Lasts for 1 minute per attribute level after Shoggoth is summoned.
 SKILL_20150714_004498	Disinter: Increased Range
 SKILL_20150714_004499	Increases the range of [Disinter].
 SKILL_20150714_004500	Increases the damage dealt on an enemy with [Combustion] by 1% per attribute level.
@@ -5089,7 +5089,7 @@ SKILL_20150918_005088	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRati
 SKILL_20150918_005089	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio2}#%{nl}Duration: 15 seconds{nl}Consumes #{CaptionRatio}# Corpse(s)
 SKILL_20150918_005090	Dirty Pole(s): #{CaptionRatio}#{nl}Dirty Pole Duration: 15 seconds{nl}{#339999}{ol}[Decay]{/}{/} Duration #{CaptionTime}# seconds{nl}Consumes #{CaptionRatio2}# Corpse(s)
 SKILL_20150918_005091	Dirty Pole
-SKILL_20150918_005092	{#993399}{ol}[Magic]{/}{/}Creates a wall made with corpses. Enemies approaching near the wall will be afflicted with the Decay status effect.
+SKILL_20150918_005092	{#993399}{ol}[Magic]{/}{/}Creates a wall made with corpses. Enemies approaching near the wall will be afflicted with [Decay].
 SKILL_20150918_005093	Attack: #{SkillAtkAdd}#{nl}Dirty Pole Duration: #{CaptionRatio}# seconds{nl}{#339999}{ol}[Decay]{/}{/} Duration: #{CaptionTime}# seconds{nl}Consumes #{CaptionRatio2}# Corpse(s)
 SKILL_20150918_005094	{#993399}{ol}[Magic]{/}{/}Build a cursed tower made with corpses at a targeted area. 
 SKILL_20150918_005095	Corpe Tower Duration: #{CaptionRatio}# seconds{nl}Consumes #{CaptionRatio2}# Corpse(s)
