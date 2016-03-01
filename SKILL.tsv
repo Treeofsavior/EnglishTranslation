@@ -1553,7 +1553,7 @@ SKILL_20150317_001552	Double Punch
 SKILL_20150317_001553	{#CC3300}{ol}[Pierce]{/}{/} Attribute{nl}Attack #{SkillFactor}#%+#{SkillAtkAdd}#{nl}Splash #{SkillSR}#{nl}Range #{CaptionRatio}#{nl}Knockback range #{CaptionRatio}#{nl}Consume #{SpendSP}# SP
 SKILL_20150317_001554	Palm Strike
 SKILL_20150317_001555	Hand Knife
-SKILL_20150317_001556	1 Inch Punch
+SKILL_20150317_001556	One Inch Punch
 SKILL_20150317_001557	Energy Blast
 SKILL_20150317_001558	{#6644FF}{ol}[Divine]{/}{/}Attribute{nl}#{SkillFactor}#% + #{SkillAtkAdd}#{nl} Splash #{SkillSR}#{nl} Consume #{SpendSP }# SP
 SKILL_20150317_001559	Dispeller Crafting
@@ -3512,10 +3512,10 @@ SKILL_20150401_003511	Hand Knife: Enhance 2
 SKILL_20150401_003512	Enhanced the damage of [Hand Knife] to Monk's 2nd Circle standards.
 SKILL_20150401_003513	Hand Knife: Enhance 3
 SKILL_20150401_003514	Enhanced the damage of [Hand Knife] to Monk's 3rd Circle standards.
-SKILL_20150401_003515	1 Inch Punch: Enhance
+SKILL_20150401_003515	One Inch Punch: Enhance
 SKILL_20150401_003516	Damage of [1 inch Punch] Increase per Attribute level.
-SKILL_20150401_003517	1 Inch Punch: Enhance 2
-SKILL_20150401_003518	Enhanced the damage of [1 Inch Punch] to Monk's 3rd Circle standards.
+SKILL_20150401_003517	One Inch Punch: Enhance 2
+SKILL_20150401_003518	Enhanced the damage of [One Inch Punch] to Monk's 3rd Circle standards.
 SKILL_20150401_003519	Energy Blast: Enhance
 SKILL_20150401_003520	Damage of [Energy Blast] Increase per Attribute level.
 SKILL_20150401_003521	God Finger Flick: Enhance
@@ -3648,13 +3648,13 @@ SKILL_20150414_003647	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Tramp down on 
 SKILL_20150414_003648	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Charge forward while slashing, attacking any enemies that block your way.
 SKILL_20150414_003649	Giant Swing
 SKILL_20150414_003650	USe centrifugal force to throw away enemy.
-SKILL_20150414_003651	Open shop to repair weapon and temporarily increase its performance.
-SKILL_20150414_003652	Open shop to repair weapon and temporarily increase its performance. Physical defense is added. Repair is only for top, Pants, and Shield.
-SKILL_20150414_003653	Open shop for repairing items. Items here are repaired over maximum durability.
-SKILL_20150414_003654	Binds all enemies, including boss monsters, to prevent them from moving.
+SKILL_20150414_003651	Open a shop to repair weapons and temporarily increase its performance.
+SKILL_20150414_003652	Open a shop to repair weapon and temporarily increase its performance. Physical defense is added. Repair is only for top, Pants, and Shield.
+SKILL_20150414_003653	Open a shop for repairing damaged equipment. It is possible for repaired equipment to exceed its maximum durability.
+SKILL_20150414_003654	Bind all enemies, including boss monsters, to prevent them from moving.
 SKILL_20150414_003655	Install base camp for party members. Party members can use base camp as storage or for teleport.
 SKILL_20150414_003656	Duration: #{CaptionRatio}# hours{nl}Duration of the food effects is at least 30 minutes
-SKILL_20150414_003657	Sets up a refreshment table to prepare dishes that temporarily increases the abilities for your party members. A refreshment table can only be set up near the base camp, and if the camp is removed, the refreshment table will be removed as well.
+SKILL_20150414_003657	Set up a refreshment table to prepare dishes that temporarily increases the abilities of your party members. A refreshment table can only placed near a base camp. If the camp is removed, the refreshment table will be removed as well.
 SKILL_20150414_003658	Ping a flag that boosts pirates' abilities. Kill enemies repeatedly near the flag for combo attack.
 SKILL_20150414_003659	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Drag and pull enemies captured with Iron Hook. Enenues receives damage each time it is pulled.
 SKILL_20150414_003660	Can you sword {nl}without delay after normal attack.{nl}Duration: #{CaptionTime}# seconds
@@ -3771,8 +3771,8 @@ SKILL_20150414_003770	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Charge crossbo
 SKILL_20150414_003771	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Demolish obstacles in front, inflicting damage to nearby enemies.
 SKILL_20150414_003772	Attack with your crossbow while moving quickly.
 SKILL_20150414_003773	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Set up a rotating trap that inflicts damage to enemies within a radius.
-SKILL_20150414_003774	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Set up a trap that shoots buckshot. Trap is triggered using a detonator.
-SKILL_20150414_003775	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Set up a trap that launches enemies back when stepped on.
+SKILL_20150414_003774	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Set up a trap in front of you that fires a buckshot. It triggers by re-using the skill.
+SKILL_20150414_003775	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Set up a spring trap that activates once enemies step on it. Once the trap is activated, it will launch the enemies back far away.
 SKILL_20150414_003776	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Explode ally magic circle and inflict damage to enemy.
 SKILL_20150414_003777	Hide a prepared trap from enemies.
 SKILL_20150414_003778	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Set up a trap that shoots arrows when an enemy touches the wire.
@@ -3785,10 +3785,10 @@ SKILL_20150414_003784	Cures a poisoned ally. A poison status with a higher level
 SKILL_20150414_003785	{#DD5500}{ol}[Physical] - [Poison] - [Pierce]{/}{/}{nl}Blow toxic arrow and inflict continuous damage.
 SKILL_20150414_003786	{#DD5500}{ol}[Physical] - [Poison] - [Pierce]{/}{/}{nl}Throw jar of Poison to create poisonous puddle. Enemies become poisoned when stepping on the puddle.
 SKILL_20150414_003787	{#DD5500}{ol}[Physical] - [Poison] - [Pierce]{/}{/}{nl}Throw poison to inject a parasite into the enemy. Poisonous insects are born when the host is killed.
-SKILL_20150414_003788	Hide yourself in an empty barrel to prevent attention from enemies. In this state, you are unaffected to a few physical attacks.
+SKILL_20150414_003788	Hide yourself in an empty barrel to prevent attention from enemies. In this state, you are unaffected to a certain amount of physical attacks.
 SKILL_20150414_003789	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Shoot arrow that makes noise. Enemies nearby falls under fear.
-SKILL_20150414_003790	Temporarily hide yourself away from enemy's vision. You become exposed when jumping or attacking.
-SKILL_20150414_003791	Distort sense of distance and make attack of allies possible outside the range.
+SKILL_20150414_003790	Temporarily hide yourself away from an enemy's vision. You become exposed when you jump or attack.
+SKILL_20150414_003791	Distort the sense of distance to make attacks from allies possible outside its range.
 SKILL_20150414_003792	Show hidden items and enemies within range.
 SKILL_20150414_003793	Temporarily increases your Critical Chance when attacking enemies from behind. 
 SKILL_20150414_003794	Trick an enemy to lower its guard. Temporarily decreases the evasion of enemies in front of you.
@@ -3873,15 +3873,15 @@ SKILL_20150414_003872	Temporarily increases the property resistances of you and 
 SKILL_20150414_003873	Fire, Ice, Lightning Resistance: +#{CaptionRatio}# {nl}Poison, Earth Resistance: +#{CaptionRatio2}#{nl}Buff Duration: #{CaptionTime}# seconds
 SKILL_20150414_003874	Has a chance of instantly defeating Mutant or Devil-type enemies.
 SKILL_20150414_003875	Make a protective wall that push away enemies and block them from entering.
-SKILL_20150414_003876	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Train your skin as hard as steel to inflict damage by bouncing off the enemy's attack.
+SKILL_20150414_003876	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Temper your skin as hard as steel to inflict damage by bouncing back an enemy's attack.
 SKILL_20150414_003877	Reflect attack amounting to target's Physical attack.{nl}Reflect damage +#{SkillAtkAdd}#{nl}Ranged projectile, cannot defend magic
-SKILL_20150414_003878	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use your trained fists to attack the enemy in succession.
+SKILL_20150414_003878	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use your trained fists to attack an enemy quick in succession.
 SKILL_20150414_003879	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Continuously attack with the tip of your hand.
 SKILL_20150414_003880	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Break your target's armor with a strong strike using your hand as a knife.
-SKILL_20150414_003881	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Deals damage by punching an enemy from a close distance. The attacked enemy will steadily lose HP and SP.
+SKILL_20150414_003881	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Destroy the insides of an enemy by extending your fist from a close distance. The attacked enemy will steadily lose HP and SP.
 SKILL_20150414_003882	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Gather force then shoot forward. The enemy is pushed away and will receive damage.
-SKILL_20150414_003883	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use tip of finger to throw coin and attack enemy.
-SKILL_20150414_003884	Temporarily become invincible from all attacks.
+SKILL_20150414_003883	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Throw a coin by using the tip of your finger to inflict damage on an enemy.
+SKILL_20150414_003884	Change to a state where you become temporarily invincible from all attacks.
 SKILL_20150414_003885	Creates a dispeller that blocks harmful magic or effects.
 SKILL_20150414_003886	Craft your skill into a scroll that anyone can use.
 SKILL_20150414_003887	Create a shop to sell your skills.
@@ -4009,8 +4009,8 @@ SKILL_20150414_004008	Palm Strike: Bleeding
 SKILL_20150414_004009	Enemy falls under [Bleed] for 8 seconds when attacked with [Palm Strike]. Duration of [Bleed] incerases by a seconds per level.
 SKILL_20150414_004010	Hand Knife: Armor Break
 SKILL_20150414_004011	Enemies attacked with [Hand Knife] have chance of falling under [Armor Break]. Chance increases by 5% per attribute level.
-SKILL_20150414_004012	1 Inch Punch: Silence
-SKILL_20150414_004013	Enemies hit by [1 Inch Punch] will be afflicted with the [Silence] status ailment for 5 seconds.
+SKILL_20150414_004012	One Inch Punch: Silence
+SKILL_20150414_004013	Enemies hit by [One Inch Punch] will be afflicted with the [Silence] status ailment for 5 seconds.
 SKILL_20150414_004014	Arcane Energy: Additional Damage
 SKILL_20150414_004015	Enemies nearby receive Holy damage when using [Arcane Energy]. Damage increases per attribute level.
 SKILL_20150414_004016	Chortasmata: Duration
@@ -4075,7 +4075,7 @@ SKILL_20150428_004074	Reflect as much as target's Physical attack{nl}Additional 
 SKILL_20150428_004075	Attack #{SkillAtkAdd}#{nl}Use 2 Stamina
 SKILL_20150428_004076	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Attack enemies with the tip of your hand to cause internal damage.
 SKILL_20150428_004077	Attack per strike #{SkillAtkAdd}#{nl}Use #{CaptionRatio}# SP per 0.5 seconds
-SKILL_20150428_004078	Maximum Duration: #{CaptionTime}# seconds{nl}Able to defend from ranged projectiles and magic
+SKILL_20150428_004078	Maximum Duration: #{CaptionTime}# seconds{nl}Able to block magic & long-ranged projectiles
 SKILL_20150428_004079	Maximum Purchase Quantity: #{CaptionRatio}#
 SKILL_20150428_004080	Removes nearby Magic Circles {nl}Max Duration: 30 seconds{nl}Target: #{CaptionRatio}#
 SKILL_20150428_004081	Can open the treasure chest easily
@@ -4218,7 +4218,7 @@ SKILL_20150714_004217	Attribute Damage: #{CaptionRatio2}#%{nl}Additional Damage:
 SKILL_20150714_004218	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio2}#%{nl}Number of Blocks: #{CaptionRatio}#{nl}Duration: #{CaptionTime}# seconds{nl}Consumes 3 Oak Wood
 SKILL_20150714_004219	Attribute Damage: #{CaptionTime}#%{nl}Out of Body Range: #{CaptionRatio}#
 SKILL_20150714_004220	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Maximum Duration: 5 seconds
-SKILL_20150714_004221	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Use 2 STA
+SKILL_20150714_004221	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Consumes 2 Stamina
 SKILL_20150714_004222	Attacks per Hit: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio2}#%{nl}Consumes #{CaptionRatio}# SP per 0.5 second
 SKILL_20150714_004223	Attack #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionTime}#%{nl}Duration: #{CaptionRatio}# seconds{nl}Consumes #{CaptionRatio2}# silver
 SKILL_20150714_004224	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio2}#%{nl}#{CaptionRatio}# players can attack enemies{nl}Heals the entire party{nl}Heals #{CaptionRatio}# allies{nl}Consumes 500 silver
@@ -4764,7 +4764,7 @@ SKILL_20150717_004763	Applies [Slow] with a 4 seconds duration after [Arrest] en
 SKILL_20150717_004764	An enemy hit with [Keelhauling] will be affected by the [Bleeding] status. Increases the duration of [Bleeding] by 1 second per attribute level, the bleeding damage is based on your STR.
 SKILL_20150717_004765	Phalanx: Slow
 SKILL_20150717_004766	Inflicts the Slow status ailment when an enemy's attack is blocked while in the [Phalanx] formation. Increases the duration of Slow by 4 seconds per attribute level.
-SKILL_20150717_004767	Adds the reflect damage of [Reflect Shield] by 1 per attribute level, but decreases the damage received accordingly.
+SKILL_20150717_004767	Increases reflect damage of [Reflect Shield] by 1 per attribute level and decreases damage received accordingly.
 SKILL_20150717_004768	Increases the physical and magic attack debuff effect of [Lethargy] by 1 per attribute level.
 SKILL_20150717_004769	Attack monster in [sleep] state with [Energy Bolt] to give additional damage of 50% of Magic attack.
 SKILL_20150717_004770	Enemies hit by [Fireball] have a 10% chance per attribute level to receive flame damage  for 5 seconds. Flame damage is based on the character's INT.
@@ -4914,8 +4914,8 @@ SKILL_20150729_004913	Increase Physical Attack, Magic Attack
 SKILL_20150729_004914	Physical Attack +10%{nl}Magic Attack +10%
 SKILL_20150729_004915	Increase Physical Defense, Magic Defense
 SKILL_20150729_004916	Physical Defense +10%{nl}Magic Defense +10%
-SKILL_20150729_004917	Opens a shop to repair weapons and temporarily increase its quality.
-SKILL_20150729_004918	Opens a shop to repair armor and temporarily increase its quality. Repairs Tops, Bottoms and Shields.
+SKILL_20150729_004917	Opens a shop to temper weapons and temporarily increase the attack power of a weapon.
+SKILL_20150729_004918	Opens a shop to temper armor and temporarily increase defense. Repairs tops, bottoms and shields.
 SKILL_20150729_004919	Set up a base camp for party members. Party members can use the base camp as storage or for teleportation. The duration of buffs used around the camp will increase.
 SKILL_20150729_004920	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio2}#%{nl}#{CaptionRatio}# Continuous Hits
 SKILL_20150729_004921	Able to assemble #{CaptionRatio}# members
@@ -4998,7 +4998,7 @@ SKILL_20150803_004997	{#DD5500}{ol}[Physical] - [Missile]{/}{/}{nl}Kneel to incr
 SKILL_20150803_004998	Physical Damage: +#{CaptionRatio}#{nl}Range: +#{CaptionRatio2}#{nl}Attack Speed: +#{CaptionTime}#
 SKILL_20150803_004999	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Number of Caltrops: #{CaptionRatio2}#{nl}Caltrop Duration: #{CaptionTime}# seconds
 SKILL_20150803_005000	Attack: 150% +#{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}{#339999}{ol}[Stun]{/}{/} Duration: #{CaptionTime}# seconds{nl}Consumes 1 Stone Bullet
-SKILL_20150803_005001	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Trap Duration: 15seconds{nl}Consumes 3 Ash Wood
+SKILL_20150803_005001	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Trap Duration: 15 seconds{nl}Consumes 3 Ash Wood
 SKILL_20150803_005002	Maximum Duration: #{CaptionRatio}# seconds
 SKILL_20150803_005003	Creates a magic circle that raises a dead enemy as a zombie. The HP of the raised zombie is based on the caster's SPR.
 SKILL_20150803_005004	Maximum HP: +#{CaptionRatio}#{nl}Movement Speed: +#{CaptionRatio2}#% Duration: #{CaptionTime}# seconds{nl}Glyph Duration: 15 seconds
@@ -5032,7 +5032,7 @@ SKILL_20150804_005031	Attack 300% + #{SkillAtkAdd}#{nl}Attribute Damage: #{Capti
 SKILL_20150804_005032	{#DD5500}{ol}[Physical] - [Poison] - [Pierce]{/}{/}{nl}Launches a contagious poisonous arrow. Poison spreads through the target whenever it gets attacked. 
 SKILL_20150804_005033	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl} Launches an arrow that explodes on enemy impact in a cross.
 SKILL_20150804_005034	Attack: 250% + #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}AoE Attack Ratio: #{SkillSR}#
-SKILL_20150804_005035	Reflects #{CaptionRatio}#% of the target's physical attack{nl}Maximum Duration: #{CaptionTime}# seconds{nl}Range projectile, Magic defense not possible
+SKILL_20150804_005035	Reflects #{CaptionRatio}#% of the target's physical attack{nl}Maximum Duration: #{CaptionTime}# seconds{nl}Unable to block magic & long-ranged projectiles
 SKILL_20150804_005036	Cartar Stroke: Remove Knockback
 SKILL_20150804_005037	Pushing power of [Cartar Stroke] becomes 0. (You will not be pushed if this attribute is ON.)
 SKILL_20150804_005038	Increases your Fire, Ice and Lightning properties by 5. From Lv2, it increases by 1 per attribute level. 
@@ -5136,7 +5136,7 @@ SKILL_20150918_005135	Magic Defense: +#{CaptionRatio}#{nl}Duration: #{CaptionTim
 SKILL_20150918_005136	Conviction
 SKILL_20150918_005137	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Attacks an enemy as an attack for the betrayer. Resistance to Fire, Ice, Electricity, Poison of the enemy that received the attack will decrease.
 SKILL_20150918_005138	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}AoE Attack Ratio: #{SkillSR}#{nl}All Properties Resistance: -#{CaptionRatio2}#
-SKILL_20150918_005139	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}With trained fingers attack by inflicting internal damage to the enemy.
+SKILL_20150918_005139	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use your trained fingertips to attack an enemy by inflicting an internal injury.
 SKILL_20150918_005140	{#DD5500}{ol}[Physical]{/}{/}{nl}Gather force then shoot forward. The enemy is pushed away and will receive damage.
 SKILL_20150918_005141	Increase Magic Defense
 SKILL_20150918_005142	Temporarily increases the magic defense of you and your party members.
@@ -5240,7 +5240,7 @@ SKILL_20150918_005239	Conversion: Might Enhance
 SKILL_20150918_005240	Increases the monster's physical attack converted with [Conversion] equal to 50% of the character's STR.
 SKILL_20150918_005241	Conviction: Enhance
 SKILL_20150918_005242	Increases the damage dealt on an enemy with [Conviction] by 1% per attribute level.
-SKILL_20150918_005243	Enemies hit with [Hand Knife] have a 40% chance to be afflicted with [Armor Break] for 7 seconds. Increases the chance by 10% per attribute level from Lv. 2. 
+SKILL_20150918_005243	Enemies hit by [Hand Knife] have a 40% chance to be afflicted with [Armor Break] for 7 seconds. Increases the chance by 10% per attribute level from Lv2. 
 SKILL_20150918_005244	Lv. 3 of Swell Left Arm: Enhance required
 SKILL_20151001_005245	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Raises your sword and smashes the area around the center of the body. Deals additional damage on medium and large-type enemies according to how much their defense has been decreased by Skull Swing.
 SKILL_20151001_005246	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Release a strong attack on enemies by spinning your body. Increases your critical rate when the attack lands and deals additional damage to a stunned enemy.
@@ -5393,7 +5393,7 @@ SKILL_20151022_005392	Carve a statue of Ausrine, the goddess of the Morning Star
 SKILL_20151022_005393	STR, CON, INT, SPR, DEX: -#{CaptionRatio}#{nl}Consumes SP per second{nl}Maximum Duration: 10 seconds
 SKILL_20151022_005394	You and your party members are temporarily granted an increase in fire, ice, lightning, poison, and earth resistances, and have a chance of nullifying attacks from those properties.
 SKILL_20151022_005395	Property Resistance: +#{CaptionRatio}#{nl}Nullification Chance: #{CaptionRatio2}#%{nl}Duration: #{CaptionTime}# seconds
-SKILL_20151022_005396	Gather energy and blast it forward. Enemies take damage and are pushed away.
+SKILL_20151022_005396	{#DD5500}{ol}[Physical] - [Holy]{/}{/}{nl}Gather energy and launch it to blast an enemy in front of you. Pushes back the enemy while inflicting damage.
 SKILL_20151022_005397	Enemy's companion bites and holds. Decreased defense.
 SKILL_20151022_005398	Increases your evasion rate.
 SKILL_20151022_005399	Weak against Slash-type attacks.
@@ -5531,8 +5531,8 @@ SKILL_20151102_005530	{#DD5500}{ol}[Missile]{/}{/}{nl}Fires a stone bullet to pu
 SKILL_20151102_005531	{#DD5500}{ol}[Missile]{/}{/}{nl}Load multiple arrows into your crossbow and then fire them in quick succession at an enemy.
 SKILL_20151102_005532	{#DD5500}{ol}[Missile] - [Poison]{/}{/}{nl}Blows a toxic arrow that inflicts damage over a long period of time.
 SKILL_20151102_005533	{#DD5500}{ol}[Missile] - [Poison]{/}{/}{nl}Fires a contagious poison arrow. Poisoned target spreads poison around to nearby enemies whenever it is attacked.
-SKILL_20151102_005534	{#DD5500}{ol}[Missile]{/}{/}{nl}Fires a noise-making arrow. Enemies near the target fall under fear.
-SKILL_20151102_005535	{#DD5500}{ol}[Missile]{/}{/}{nl}Shoot a flare at a designated area. Upon hitting the ground, the flare bursts into sparks that damages nearby enemies.
+SKILL_20151102_005534	{#DD5500}{ol}[Missile]{/}{/}{nl}Fires a nois-making arrow to a target. Enemies nearby the target will be afflicted with Fear.
+SKILL_20151102_005535	{#DD5500}{ol}[Missile]{/}{/}{nl}Fires a flare on the ground at a targeted area. Upon hitting the ground, the flare bursts into sparks that damages nearby enemies.
 SKILL_20151102_005536	{#DD5500}{ol}[Missile]{/}{/}{nl}Fires an arrow that, upon hitting a target, bounces to hit two nearby enemies.
 SKILL_20151102_005537	{#DD5500}{ol}[Missile]{/}{/}{nl}If the target dies from this attack, it explodes. Party members gain STR for a period of time.
 SKILL_20151102_005538	{#DD5500}{ol}[Missile]{/}{/}{nl}Fires a wide broadhead arrow. Inflicts bleeding on the enemy hit.
@@ -5742,7 +5742,7 @@ SKILL_20151224_005741	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Attack with a d
 SKILL_20151224_005742	{#DD5500}{ol}[Strike]{/}{/}{nl}Impales a small or medium-type monster with a spear. It is possible to attack other enemies with a skewered enemy.
 SKILL_20151224_005743	Increases attack equal to [Skill Level+1]x[Number of Weapon Stars]{nl}Attack Count: #{CaptionRatio2}#{nl}Duration: 1 hour
 SKILL_20151224_005744	Penalty Reduction
-SKILL_20151224_005745	Reduces the penalty from combat incapability.
+SKILL_20151224_005745	Reduces the penalty from incapable of combat.
 SKILL_20151224_005746	Equipment Durability Penalty: -#{CaptionRatio}#%{nl}Consumed Silver Penalty: -#{CaptionRatio2}#%{nl}Consumed Gem Penalty: -#{CaptionTime}#%
 SKILL_20151224_005747	Plant a flag that raises the combat abilities of the pirate crew. A combo is activated if multiple enemies is defeated around the jolly roger. And at a certain chance, attacking enemies allows you to pillage items and the higher your Jolly Roger level is, the higher the chance. (Combo is only activated if the party leader is a Corsair.)
 SKILL_20151224_005748	Pistol Shot
@@ -5883,10 +5883,10 @@ SKILL_20151224_005882	Decreases #{CaptionRatio}# SP{nl}SP recovery time decrease
 SKILL_20151224_005883	Carves a statue of Laima, the goddess of fate. {nl}Decreases the cooldown of your party members' skills within the radius of the Goddess Statue.
 SKILL_20151224_005884	Cooldown: -#{CaptionRatio}#% {nl}Movement Speed: -20 {nl}Statue Duration: #{CaptionRatio2}# seconds{nl}Consumes 1 Cedar Wood
 SKILL_20151224_005885	Attack: 250% + #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%
-SKILL_20151224_005886	Temporarily increases the fire, ice, lightning, poison and earth property resistances of you and your party members and decreases the magic defense of nearby enemies. Has a chance of nullifying the listed property attacks.
-SKILL_20151224_005887	Property Resistance: +#{CaptionRatio}#{nl}Nullification Chance: #{CaptionRatio2}#%{nl}Enemy Magic Defense: -#{SkillFactor}#{nl}Duration: #{CaptionTime}# seconds
+SKILL_20151224_005886	Temporarily increases the Fire, Ice, Lightning, Poison and Earth property resistances of you and your party members and has a chance of nullifying the listed property attacks. Decreases the magic defense of nearby enemies on cast. 
+SKILL_20151224_005887	Property Resistance: +#{CaptionRatio}#{nl}Nullification Chance: #{CaptionRatio2}#%{nl}Enemy's Magic Defense: -#{SkillFactor}#{nl}Duration: #{CaptionTime}# seconds
 SKILL_20151224_005888	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Maximum Exctinction Count: #{CaptionRatio}#
-SKILL_20151224_005889	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Strike with a powerful hand knife to damage the enemy.
+SKILL_20151224_005889	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Strike with a powerful hand knife to deal damage on an enemy.
 SKILL_20151224_005890	Open an Offering Box to receive donations from allies, Can only be opened nearby a Goddess Statue. Cannot be set up in towns and cities.
 SKILL_20151224_005891	Maximum Purchase Count: #{CaptionRatio}#
 SKILL_20151224_005892	Can register skill that use items{nl}Additional Duration: #{CaptionRatio}# minutes
@@ -6123,7 +6123,7 @@ SKILL_20151224_006122	Resurrection: HP Recovery
 SKILL_20151224_006123	Recovers the maximum HP of revived character with [Resurrection] by 10% per attribute level.
 SKILL_20151224_006124	Chaplain: SP Recovery
 SKILL_20151224_006125	Chaplain: Motivation
-SKILL_20151224_006126	Increases the block penetration on the attack that hits the enemies by 15% per attribute level while [Last Rites] and [Revive] are in effect.
+SKILL_20151224_006126	Increases the block penetration on the attack that hits an enemy by 15% per attribute level while [Last Rites] and [Revive] are in effect.
 SKILL_20151224_006127	Increases Pierce damage of allies within the range of [Barrier] by 10% per level.
 SKILL_20151224_006128	Increases the maximum amount of magic circles [Detonate Traps] can activate from by 1 per skill level.
 SKILL_20151224_006129	Alchemist 1st Circle required
