@@ -3266,7 +3266,7 @@ SKILL_20150401_003265	Attack #{SkillAtkAdd}#{nl}Install #{CaptionRatio}#
 SKILL_20150401_003266	Evasion - #{CaptionRatio}# {nl}Pointing AI duration 10 minutes
 SKILL_20150401_003267	Detect hidden monster{nl}Hounding AI duration 10 minutes
 SKILL_20150401_003268	Companion guards against monsters approaching.
-SKILL_20150401_003269	{#339999}{ol}[Fear]{/}{/} Duration: #{CaptionRatio}# seconds{nl}Disables AI if the distance is{nl}at least 250 between you and the companion{nl}Growling AI Duration: 10 minutes
+SKILL_20150401_003269	{#339999}{ol}[Fear]{/}{/} Duration: #{CaptionRatio}# seconds{nl}Disables AI if the distance is at least{nl}greater than 250 between you and the companion{nl}Growling AI Duration: 10 minutes
 SKILL_20150401_003270	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Shoot arrows that make noise. It also affects target's surroundings.
 SKILL_20150401_003271	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Shoot flash arrows on the ground. Flash pops and shoots sparks to enemies nearby.
 SKILL_20150401_003272	Maximum Duration: 10 seconds{nl}Consumes #{CaptionRatio}# SP per second
@@ -4796,7 +4796,7 @@ SKILL_20150717_004795	Flesh Cannon: Decay
 SKILL_20150717_004796	Enemies hit by [Flesh Cannon] have a chance to be afflicted with Decay for 15 seconds. Increases the chance by 10% per attribute level.
 SKILL_20150717_004797	Flesh Hoop: Demoralize
 SKILL_20150717_004798	Decreases attack of enemies for 4 seconds near the hoop after using [Flesh Hoop]. [Attack Weakened] can be stacked up to 10 times.
-SKILL_20150717_004799	Enemies near the Shoggoth will be afflicted with Decay for 15 seconds. Lasts for 1 minute per attribute level after Shoggoth is summoned.
+SKILL_20150717_004799	Enemies near the Shoggoth will be afflicted with [Decay] for 15 seconds. Lasts for 1 minute per attribute level after Shoggoth is summoned.
 SKILL_20150717_004800	Increases the range of [Disinter] by 10 per attribute level.
 SKILL_20150717_004801	Decreases the cooldown of [Dig] by 10 seconds.
 SKILL_20150717_004802	Increases the physical attack and magic attack for 30 minutes of allies that have participated in a [Item Awakening] dungeon. The attack increases by 20% per attribute level.
@@ -4989,7 +4989,7 @@ SKILL_20150729_004988	Heal: Remove Damage
 SKILL_20150729_004989	[Heal] will not inflict damage and react to enemies.
 SKILL_20150729_004990	Increases the range of [Melstis] to 80.
 SKILL_20150729_004991	Increases the maximum number of zombies from [Zombify] by 1.
-SKILL_20150730_004992	Summon a devil from the card placed in the Grimoire. The attack and defense of the summoned devil is affected by your INT and SPR. Increases the stats by 10% proportional to the amount of stars of the card. Only Devil-type cards can be placed in the Grimoire.
+SKILL_20150730_004992	Summon a devil based on the card placed in the Grimoire. The attack and defense of the summoned devil is affected by your INT and SPR respectively. The summoned devil's stats increase by 10% for each star on the card. Only Devil-type cards can be placed in the Grimoire.
 SKILL_20150730_004993	Creates a Shoggoth based on the card placed in the Necronomicon. The attack and defense of the summoned devil is affected by your INT and SPR. Increases the abilities by 10% proportional to the amount of stars of the card. Only Animal, Plant and Mutant-type cards can be placed in the Necronomicon.
 SKILL_20150730_004994	Your companion bites and holds onto a target. Decreases the physical defense of the bitten target. You receive a critical chance bonus against the target.
 SKILL_20150730_004995	Physical Defense: -#{CaptionRatio}# {nl}Additional Critical Chance: 30%{nl}Duration: #{CaptionTime}# seconds
@@ -6201,7 +6201,7 @@ SKILL_20160224_006200	{#DD5500}{ol}[Physical] - [Stab]{/}{/}{nl}Attack several e
 SKILL_20160224_006201	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Status Ailment Duration: #{CaptionRatio2}# seconds
 SKILL_20160224_006202	Attack: #{SkillAtkAdd}#{nl}Ice Wall Count: #{CaptionRatio}#{nl}{#339999}{ol}[Freezing]{/}{/} Duration: 5 seconds{nl}Ice Wall Duration: 15 seconds
 SKILL_20160224_006203	Attack: #{SkillAtkAdd}#{nl}Targets: #{CaptionRatio}#{nl}Consumes 2% SP per second{nl}Maximum Duration: 10 seconds
-SKILL_20160224_006204	Creates a Shoggoth with the stats based on the card that is placed in the Necronomicon. The attack and defense of the summoned devil is affected by your INT and SPR. Increases the stats by 10% proportional to the amount of stars of the card. Only Animal, Plant and Mutant-type cards can be placed in the Necronomicon.
+SKILL_20160224_006204	Create a Shoggoth with stats based on the cards that are placed in the Necronomicon. The attack and defense of the Shoggoth is affected by your INT and SPR respectively. The Shoggoth's stats increase by 10% for each star on the card. Only Animal, Plant and Mutant-type cards can be placed in the Necronomicon.
 SKILL_20160224_006205	{#993399}{ol}[Magic]{/}{/}Raises a wall of corpses in front of the caster. Enemies near the wall will be afflicted with [Decay]. Enemies affected by [Decay] receive additional damage from Missile attacks.
 SKILL_20160224_006206	{#993399}{ol}[Magic]{/}{/}{nl}Stabs an enemy with a cursed knife carved from a bone. An enemy stabbed by this bone fragment will be afflicted with [Decay]. Enemies affected by Decay receive additional damage from Missile attacks.
 SKILL_20160224_006207	Attack: 400% + #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Consumes 1 Rune Stone{nl}Cast Time: 8 seconds
