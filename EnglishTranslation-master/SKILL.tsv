@@ -3884,11 +3884,11 @@ SKILL_20150414_003883	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Throw a coin b
 SKILL_20150414_003884	Change to a state where you become temporarily invincible from all attacks.
 SKILL_20150414_003885	Creates a dispeller that blocks harmful magic or effects.
 SKILL_20150414_003886	Craft your skill into a scroll that anyone can use.
-SKILL_20150414_003887	Create a shop to sell your skills.
-SKILL_20150414_003888	Use a ritual to heal allies with a level 2 abnormal state or to inflict damage on enemies.
+SKILL_20150414_003887	Open a shop to sell your skills with beneficial effects.
+SKILL_20150414_003888	Use a ritual to cure allies with a Lv2 status ailment or to inflict damage on enemies.
 SKILL_20150414_003889	Attack #{SkillAtkAdd}#{nl}Target #{CaptionRatio}#{nl}Heal all party members{nl}Heal #{CaptionRatio}# allies{nl}Use 500 silver
 SKILL_20150414_003890	Open an Offering Box to receive donations from allies. Can only be opened nearby a Goddess Statue.
-SKILL_20150414_003891	Extend the duration of harmful effects applied to the enemy.
+SKILL_20150414_003891	Extend the duration of harmful effects applied to an enemy.
 SKILL_20150414_003892	Penetrate into the mind of an enemy in front of you to control it.
 SKILL_20150414_003893	{#993399}{ol}[Magic]{/}{/}{nl}Grass nearby target area attacks the enemy.
 SKILL_20150414_003894	Transform into a monster of the Animal-type, Plant-type or Insect-type in front of you for a given duration.
@@ -4221,7 +4221,7 @@ SKILL_20150714_004220	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRati
 SKILL_20150714_004221	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Consumes 2 Stamina
 SKILL_20150714_004222	Attacks per Hit: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio2}#%{nl}Consumes #{CaptionRatio}# SP per 0.5 second
 SKILL_20150714_004223	Attack #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionTime}#%{nl}Duration: #{CaptionRatio}# seconds{nl}Consumes #{CaptionRatio2}# silver
-SKILL_20150714_004224	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio2}#%{nl}#{CaptionRatio}# players can attack enemies{nl}Heals the entire party{nl}Heals #{CaptionRatio}# allies{nl}Consumes 500 silver
+SKILL_20150714_004224	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio2}#%{nl}Attacks #{CaptionRatio}# enemies{nl}Cures the entire party{nl}Cures #{CaptionRatio}# allies{nl}Consumes 500 silver
 SKILL_20150714_004225	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio2}#%{nl}Duration: #{CaptionRatio}# seconds
 SKILL_20150714_004226	Additional damage according to the number attacks
 SKILL_20150714_004227	Damage Effect
@@ -5485,8 +5485,8 @@ SKILL_20151022_005484	Decreases the SP cost per second of [Vashita Siddhi] by 0.
 SKILL_20151022_005485	Increases the chance of nullifying Fire, Ice, Lightning, Poison and Earth property attacks by 0.8% per attribute level when [Resist Elements] is active.
 SKILL_20151022_005486	Resist Elements: Enhance
 SKILL_20151022_005487	Increases the property resistance of [Resist Elements] by 1 per attribute level.
-SKILL_20151022_005488	Magic Defense Increase: Duration
-SKILL_20151022_005489	Increases the duration of [Magic Defense Increase] by 1 second per attribute level.
+SKILL_20151022_005488	Increase Magic Defense: Duration
+SKILL_20151022_005489	Increases the duration of [Increase Magic Defense] by 1 second per attribute level.
 SKILL_20151022_005490	Druid: Animal-type Speciality
 SKILL_20151022_005491	Increases the critical rate of the transformed animal-type monster via [Shape Shifting] or [Transform] by 10% per attribute level.
 SKILL_20151022_005492	Druid: Plant-type Speciality
@@ -5887,11 +5887,11 @@ SKILL_20151224_005886	Temporarily increases the Fire, Ice, Lightning, Poison and
 SKILL_20151224_005887	Property Resistance: +#{CaptionRatio}#{nl}Nullification Chance: #{CaptionRatio2}#%{nl}Enemy's Magic Defense: -#{SkillFactor}#{nl}Duration: #{CaptionTime}# seconds
 SKILL_20151224_005888	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Maximum Exctinction Count: #{CaptionRatio}#
 SKILL_20151224_005889	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Strike with a powerful hand knife to deal damage on an enemy.
-SKILL_20151224_005890	Open an Offering Box to receive donations from allies, Can only be opened nearby a Goddess Statue. Cannot be set up in towns and cities.
-SKILL_20151224_005891	Maximum Purchase Count: #{CaptionRatio}#
-SKILL_20151224_005892	Can register skill that use items{nl}Additional Duration: #{CaptionRatio}# minutes
+SKILL_20151224_005890	Open an offering box to receive donations in the form of items from allies. Can only be opened nearby a Goddess Statue. Cannot be opened in town.
+SKILL_20151224_005891	Maximum Purchases: #{CaptionRatio}#
+SKILL_20151224_005892	Able to register skills that consume items{nl}Additional Duration: #{CaptionRatio}# minutes
 SKILL_20151224_005893	Decatose
-SKILL_20151224_005894	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Attack the enemy by collecting money to offer to the gods. Enemies with exception to bosses can be instantly killed at a 1/10 chance and the offered money can be picked back up again.
+SKILL_20151224_005894	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Attack an enemy by collecting money to offer to the gods. Enemies with exception to boss monsters can be instantly killed at a 1/10 chance and the offered money can be picked back up again.
 SKILL_20151224_005895	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio2}#%{nl}Consumes #{CaptionRatio}# silver
 SKILL_20151224_005896	Duration: #{CaptionRatio}# seconds{nl}Maximum Level: 1
 SKILL_20151224_005897	{#993399}{ol}[Magic] - [Holy]{/}{/}{nl}Temporarily creates a magic circle that grants you a healing factor. If you or your allies take damage from an enemy inside the magic circle, HP will be quickly recovered.
