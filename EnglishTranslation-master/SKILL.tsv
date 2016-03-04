@@ -3842,7 +3842,7 @@ SKILL_20150414_003841	Curse an enemy to decrease its magic defense and prevent r
 SKILL_20150414_003842	{#993399}{ol}[Magic] - [Dark]{/}{/}{nl}Controls an enemy afflicted with a curse and inflicts damage from afar. Bonus damage is dealt on the 3rd attack.
 SKILL_20150414_003843	Use a monkey skull to lure zombies to the desired location.
 SKILL_20150414_003844	Create magic circle that turns enemies killed into zombies.
-SKILL_20150414_003845	Throws a talisman to an ally that temporarily suppresses pain. The ally is invulnerable to any damage when the talisman is active, but receives the accumulated damage at once when the effect ends.
+SKILL_20150414_003845	Throw a talisman to an ally that temporarily suppresses pain. The ally is invulnerable to any damage when the talisman is active, but receives the accumulated damage at once when the effect ends.
 SKILL_20150414_003846	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Order zombies to celebrate. Zombies dance around target area and enemies touching the zombies receive damage.
 SKILL_20150414_003847	Install a Samedi pattern that represents death noir on the ground. Movement speed and max. HP of zombies and allies around the pattern increase.
 SKILL_20150414_003848	Install a Oguon pattern that represents strength noir on the ground. Strength of zombies and allies around the pattern increase.
@@ -5117,8 +5117,8 @@ SKILL_20150918_005116	Mass Heal
 SKILL_20150918_005117	Restores the HP of you and that of your allies in front of you.
 SKILL_20150918_005118	Restores #{CaptionRatio}#% of your maximum HP{nl}Additional HP Recovery: #{CaptionRatio2}#{nl}
 SKILL_20150918_005119	Stone Skin
-SKILL_20150918_005120	Temporarily increases the number of blocks of you and your party members.
-SKILL_20150918_005121	Block +#{CaptionRatio}#{nl}Duration: 35 seconds
+SKILL_20150918_005120	Increases you and your party members' block for a given duration.
+SKILL_20150918_005121	Block: +#{CaptionRatio}#{nl}Duration: 35 seconds
 SKILL_20150918_005122	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Instruct your summoned zombies to celebrate. The zombies will deal little damage to anything they touch.
 SKILL_20150918_005123	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Maximum Duration: 10 seconds{nl}Requires Summoned Zombie
 SKILL_20150918_005124	Plant a Samedi glyph on the ground symbolizing a death noir. Increases the maximum HP and movement speed of you and your zombies nearby the glyph. Only half of the effect applies to you.
@@ -5808,7 +5808,7 @@ SKILL_20151224_005807	{#993399}{ol}[Magic]{/}{/}{nl}Cut your enemy using a curse
 SKILL_20151224_005808	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Duration: #{CaptionRatio2}# seconds
 SKILL_20151224_005809	{#993399}{ol}[Magic]{/}{/}{nl}Put on shoes made of mixed hair and blood. Walk while leaving bloody footprints on the ground, temporarily cursing any enemies who come into contact with it.
 SKILL_20151224_005810	Kurdaitcha Maximum Duration: #{CaptionRatio}# seconds{nl}-15 Movement Speed{nl}{#339999}{ol}[Curse]{/}{/} Duration: 7 seconds
-SKILL_20151224_005811	{#993399}{ol}[Magic] - [Dark]{/}{/}{nl}Summon a pillar of darkness that constantly inflicts pain to enemies who come in contact with it.
+SKILL_20151224_005811	{#993399}{ol}[Magic] - [Dark]{/}{/}{nl}Summon a pillar of darkness that constantly inflicts pain on enemies who come in contact with it.
 SKILL_20151224_005812	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Duration: #{CaptionTime}# seconds{nl}Additional Damage Per Second: #{CaptionRatio2}#
 SKILL_20151224_005813	{#993399}{ol}[Magic] - [Dark]{/}{/}{nl}Summon evil spirits from the death of enemies. The summoned spirits remain in the field damaging enemies who come into contact with them.
 SKILL_20151224_005814	{#993399}{ol}[Magic] - [Dark]{/}{/}{nl}Summon evil spirits to surround you for protection.
@@ -6316,8 +6316,8 @@ SKILL_20160224_006315	Headshot: Stun
 SKILL_20160224_006316	Enemies hit by [Headshot] have a 2.5% chance per attribute level to become stunned for 3 seconds.
 SKILL_20160224_006317	Snipe: Stun
 SKILL_20160224_006318	Enemies hit by [Snipe] have a 3.5% chance per attribute level to become stunned for 3 seconds.
-SKILL_20160224_006319	Safety Zone: Defense Count
-SKILL_20160224_006320	Increases the number of defenses [Safety Zone] can have by 1 per attribute level.
+SKILL_20160224_006319	Safety Zone: Block Count
+SKILL_20160224_006320	Increases the block count of [Safety Zone] by 1 per attribute level.
 SKILL_20160224_006321	Exorcise: Duration
 SKILL_20160224_006322	Increases the duration of [Exorcise]'s magic circle by 1 second per attribute level.
 SKILL_20160224_006323	Class Rank 5 required
