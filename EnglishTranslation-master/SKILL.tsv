@@ -1207,7 +1207,7 @@ SKILL_20150317_001206	Monsters hold their current state. All monsters in the are
 SKILL_20150317_001207	Slow
 SKILL_20150317_001208	Movement Speed -#{CaptionRatio}#%{nl}Slow Duration: 5 seconds {nl}Consumes #{SpendSP}# SP
 SKILL_20150317_001209	Haste
-SKILL_20150317_001210	Back Masking
+SKILL_20150317_001210	Backmasking
 SKILL_20150317_001211	Reverses time in target area to a previous state.
 SKILL_20150317_001212	Gather Corpse
 SKILL_20150317_001213	Gather body parts from enemies killed in target area.
@@ -2241,8 +2241,8 @@ SKILL_20150317_002240	Samsara : Two
 SKILL_20150317_002241	When enemies revives after [Samsara], two appear at a 1% chance per attribute level.
 SKILL_20150317_002242	Stop: Control Boss Monster
 SKILL_20150317_002243	[Stop] can also stop boss monsters but once stop ends, the boss cannot be stopped again.
-SKILL_20150317_002244	Back Masking : Panic
-SKILL_20150317_002245	Enemies provoked after using [Back Masking] will fall under [Panic] for 2 seconds per attribute level.
+SKILL_20150317_002244	Backmasking : Panic
+SKILL_20150317_002245	Enemies provoked after using [Backmasking] will fall under [Panic] for 2 seconds per attribute level.
 SKILL_20150317_002246	Multi Shot: Critical Rate
 SKILL_20150317_002247	Critical probability of skill [multi-shot] is increased by 1% per Attribute level.
 SKILL_20150317_002248	Full Draw : Knockback Distance
@@ -4488,7 +4488,7 @@ SKILL_20150714_004487	Summon Salamion: Dark
 SKILL_20150714_004488	Has a chance to afflict [Dark] for 10 seconds on an enemy when it is attacked by Salamion. Increases the chance by 2% per attribute level.
 SKILL_20150714_004489	Increases the critical rate effect from [Quicken] by 5% and decreases evasion by 2% per attribute level.
 SKILL_20150714_004490	When an enemy affected by [Reincarnate] dies and is revived, two enemies will appear with a chance of 1% per attribute level.
-SKILL_20150714_004491	Increases the duration of [Confusion] from Lv. 2 by 2 seconds per attribute level, after using [Back Masking], the enemies that will be pulled by aggro will be affected by [Confusion] for 6 seconds.
+SKILL_20150714_004491	Increases the duration of [Confusion] from Lv. 2 by 2 seconds per attribute level, after using [Backmasking], the enemies that will be pulled by aggro will be affected by [Confusion] for 6 seconds.
 SKILL_20150714_004492	Increases the damage dealt on an enemy with [Gather Corpse] by 1% per attribute level.
 SKILL_20150714_004493	Increases the damage dealt on an enemy with [Flesh Cannon] by 1% per attribute level.
 SKILL_20150714_004494	Increases the damage dealt on an enemy with [Flesh Hoop] by 1% per attribute level.
@@ -4790,8 +4790,8 @@ SKILL_20150717_004789	Deals damage to nearby enemies with a 1% chance per attrib
 SKILL_20150717_004790	Decreases the cooldown of [Attack Ground] by 2 seconds.
 SKILL_20150717_004791	Decreases the cooldown of [Hold] by 2 seconds.
 SKILL_20150717_004792	Slow: Critical Resistance
-SKILL_20150717_004793	Back Masking: Confusion
-SKILL_20150717_004794	Increases the duration of [Confusion] from Lv. 2 by 2 seconds per attribute level, after using [Back Masking], the enemies that will be pulled by aggro will be affected by [Confusion] for 6 seconds.
+SKILL_20150717_004793	Backmasking: Confusion
+SKILL_20150717_004794	Increases the duration of [Confusion] from Lv. 2 by 2 seconds per attribute level, after using [Backmasking], the enemies that will be pulled by aggro will be affected by [Confusion] for 6 seconds.
 SKILL_20150717_004795	Flesh Cannon: Decay
 SKILL_20150717_004796	Enemies hit by [Flesh Cannon] have a chance to be afflicted with Decay for 15 seconds. Increases the chance by 10% per attribute level.
 SKILL_20150717_004797	Flesh Hoop: Demoralize
@@ -4937,7 +4937,7 @@ SKILL_20150729_004936	Duration: #{CaptionTime}# seconds{nl}Chance of doubling th
 SKILL_20150729_004937	Salamion Duration: #{CaptionTime}# seconds{nl}Salamion Level: #{CaptionRatio2}#{nl}Salamion Additional Damage: +#{CaptionRatio}#
 SKILL_20150729_004938	By manipulating time, you can let a monster appear at the same location where it was defeated.
 SKILL_20150729_004939	Movement Speed: +#{CaptionRatio}#%{nl}Duration: #{CaptionTime}# seconds
-SKILL_20150729_004940	Back Masking Range: #{CaptionRatio}#{nl}Unable to use Back Masking nearby for 10 seconds{nl}Consumes 1 Dimensional Piece
+SKILL_20150729_004940	Backmasking Range: #{CaptionRatio}#{nl}Unable to use Backmasking nearby for 10 seconds{nl}Consumes 1 Dimensional Piece
 SKILL_20150729_004941	Flesh Cannon
 SKILL_20150729_004942	Flesh Hoop
 SKILL_20150729_004943	Dig up the ground to collect materials required for alchemy.
@@ -6072,7 +6072,7 @@ SKILL_20151224_006071	Increases the damage dealt on an enemy with [Evocation] by
 SKILL_20151224_006072	Desmodus: Enhance
 SKILL_20151224_006073	Increases the damage dealt on an enemy with [Desmodus] by 1% per attribute level.
 SKILL_20151224_006074	Enemies affected by [Slow] have their critical resistance decreased by 15% equal to by the character (caster) INT.
-SKILL_20151224_006075	Enemies provoked after using [Back Masking] will be afflicted with [Confusion] for 6 seconds. If the attribute is Lv2, 8 seconds of [Confusion] will be applied.
+SKILL_20151224_006075	Enemies provoked after using [Backmasking] will be afflicted with [Confusion] for 6 seconds. If the attribute is Lv2, 8 seconds of [Confusion] will be applied.
 SKILL_20151224_006076	Increases physical and magic attack for 30 minutes to allies that participated in a [Item Awakening] dungeon. Increases attack by 20% per attribute level.
 SKILL_20151224_006077	Rune Caster: Skilled Casting
 SKILL_20151224_006078	1% chance per attribute level of receiving the effects of [Quick Cast] after using a Rune Caster skill. The effect is based on the caster's skill level of [Quick Cast].
