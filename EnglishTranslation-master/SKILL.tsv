@@ -1207,7 +1207,7 @@ SKILL_20150317_001206	Monsters hold their current state. All monsters in the are
 SKILL_20150317_001207	Slow
 SKILL_20150317_001208	Movement Speed -#{CaptionRatio}#%{nl}Slow Duration: 5 seconds {nl}Consumes #{SpendSP}# SP
 SKILL_20150317_001209	Haste
-SKILL_20150317_001210	Back Masking
+SKILL_20150317_001210	Backmasking
 SKILL_20150317_001211	Reverses time in target area to a previous state.
 SKILL_20150317_001212	Gather Corpse
 SKILL_20150317_001213	Gather body parts from enemies killed in target area.
@@ -1612,19 +1612,19 @@ SKILL_20150317_001611	Rest
 SKILL_20150317_001612	Increased the recovery of HP, SP and STA.
 SKILL_20150317_001613	Safety
 SKILL_20150317_001614	Safety.
-SKILL_20150317_001615	Chilled
-SKILL_20150317_001616	Movement speed decreases.
+SKILL_20150317_001615	Chilly
+SKILL_20150317_001616	Decreased movement speed.
 SKILL_20150317_001617	Frozen
 SKILL_20150317_001618	Frozen solid.
 SKILL_20150317_001619	Ignite
 SKILL_20150317_001620	Fire lit up because of the oil.
-SKILL_20150317_001621	Aftereffects of resurrection
-SKILL_20150317_001622	Aftereffect of revival. Most combat skills decrease.
+SKILL_20150317_001621	Resurrection After Effects
+SKILL_20150317_001622	The after effect of being revived. Decreased most of your combat skills.
 SKILL_20150317_001623	Increase Movement Speed
 SKILL_20150317_001624	Increase movement speed.
 SKILL_20150317_001625	Shock wave
 SKILL_20150317_001626	Fire
-SKILL_20150317_001627	Receive fire damage periodically.
+SKILL_20150317_001627	Periodically receiving Fire damage.
 SKILL_20150317_001628	Hold
 SKILL_20150317_001629	Unmovable.
 SKILL_20150317_001630	Fixed Movement Speed
@@ -1632,20 +1632,20 @@ SKILL_20150317_001631	Darkness
 SKILL_20150317_001632	Field of vision interfered.
 SKILL_20150317_001633	OP Buff
 SKILL_20150317_001634	Increased Attack.
-SKILL_20150317_001635	Deadly poison
-SKILL_20150317_001636	Receive poison damage periodically.
-SKILL_20150317_001637	Contagious deadly poison
-SKILL_20150317_001638	Damage reduction. Periodically receive poison damage. The effect is transferred to nearby targets.
+SKILL_20150317_001635	Deadly Poison
+SKILL_20150317_001636	Periodically receiving poison damage.
+SKILL_20150317_001637	Contagious Deadly Poison
+SKILL_20150317_001638	Decreased attack. Periodically receiving poison damage. The effect can be transferred to nearby targets.
 SKILL_20150317_001639	Evasion
 SKILL_20150317_001640	Evasion.
 SKILL_20150317_001641	Defense Shock
-SKILL_20150317_001642	Blocked by enemy and fall in to shock state. Chance of enemy attacks to hit critical will increase by100%.
+SKILL_20150317_001642	Blocked by enemy becomes afflicted with [Shock]. Increases the chance of a critical hit from fenemy attacks by 100%.
 SKILL_20150317_001643	Petrify
 SKILL_20150317_001644	Petrified.
 SKILL_20150317_001645	Enhance patience
 SKILL_20150317_001646	Damage received decrease by 20%
 SKILL_20150317_001647	Burning Flame
-SKILL_20150317_001648	Track and explode enemy.
+SKILL_20150317_001648	Track and explode enemies.
 SKILL_20150317_001649	Snowstorm.
 SKILL_20150317_001650	Trigger chill
 SKILL_20150317_001651	Cold Air Attack Damage Increase.
@@ -1668,18 +1668,18 @@ SKILL_20150317_001667	Rage
 SKILL_20150317_001668	Become enraged. Increases STR, Physical Attack and Movement Speed., but decreases INT, Physical and Magic Defense.
 SKILL_20150317_001669	Curse target.
 SKILL_20150317_001670	Natural recovery impossible, magic defense decreases.
-SKILL_20150317_001671	Aurora of Addiction
-SKILL_20150317_001672	Spreads poison to nearby enemies. Running and item usage is limited.
+SKILL_20150317_001671	Addiction Aurora
+SKILL_20150317_001672	Spreads poison to nearby enemies. Limited running and item usage.
 SKILL_20150317_001673	Growth
 SKILL_20150317_001674	Confusion
 SKILL_20150317_001675	Can't distinguish friend and foe.
 SKILL_20150317_001676	Staggered
 SKILL_20150317_001677	Player RAISEUP
-SKILL_20150317_001678	When attacked by the enemy, attack is increased while defense is decreased.
+SKILL_20150317_001678	When attacked by an enemy, attack is increased while defense is decreased.
 SKILL_20150317_001679	Frozen
 SKILL_20150317_001680	Actor Frozen
 SKILL_20150317_001681	Destroy Camp
-SKILL_20150317_001682	Defense decreases.
+SKILL_20150317_001682	Decreased Defense.
 SKILL_20150317_001683	Suction
 SKILL_20150317_001684	Reflection
 SKILL_20150317_001685	Adding skills
@@ -1735,20 +1735,20 @@ SKILL_20150317_001734	Infection
 SKILL_20150317_001735	Infected.
 SKILL_20150317_001736	Movement Disabled
 SKILL_20150317_001737	Cannot move.
-SKILL_20150317_001738	Decreased Movement Speed
+SKILL_20150317_001738	Decreased movement speed
 SKILL_20150317_001739	Bleeding Poison
-SKILL_20150317_001740	Receive additional physical damage.
+SKILL_20150317_001740	Receiving additional physical damage.
 SKILL_20150317_001741	Neurotoxin
 SKILL_20150317_001742	Receive additional magic damage.
 SKILL_20150317_001743	Vital Strike
-SKILL_20150317_001744	Recover HP.
-SKILL_20150317_001745	Receive Holy damage.
+SKILL_20150317_001744	Recovering HP.
+SKILL_20150317_001745	Receiving Holy damage.
 SKILL_20150317_001746	Bless
-SKILL_20150317_001747	Agile status will increase.
-SKILL_20150317_001748	Defense will decrease.
+SKILL_20150317_001747	Increased DEX stat.
+SKILL_20150317_001748	Decreased defense.
 SKILL_20150317_001749	Sequentially heal all abnormal states.
 SKILL_20150317_001750	Continuously receive Holy damage.
-SKILL_20150317_001751	HP recovery speed is increased.
+SKILL_20150317_001751	Increased HP recovery speed.
 SKILL_20150317_001752	Holy Baptism
 SKILL_20150317_001753	Damage dealt has Holy attribute
 SKILL_20150317_001754	Limitation
@@ -1839,8 +1839,8 @@ SKILL_20150317_001838	Temporarily increased attack
 SKILL_20150317_001839	One-Time Increased Critical
 SKILL_20150317_001840	Increased critical rate for next attack.
 SKILL_20150317_001841	Increased defense
-SKILL_20150317_001842	Decreased STR 
-SKILL_20150317_001843	Strength decreases
+SKILL_20150317_001842	Reduce STR
+SKILL_20150317_001843	Decreased STR
 SKILL_20150317_001844	Holiness
 SKILL_20150317_001845	Added Holy attack
 SKILL_20150317_001846	Decreased defense
@@ -1859,7 +1859,7 @@ SKILL_20150317_001858	Gravity Pole: Decreased Defense
 SKILL_20150317_001859	Release from poisoned state.
 SKILL_20150317_001860	Needle Blow Poison
 SKILL_20150317_001861	Continuously receive Poison damage.
-SKILL_20150317_001862	Confuses the enemy affected by poison.
+SKILL_20150317_001862	Confuses enemies affected by poison.
 SKILL_20150317_001863	Gohan Venom
 SKILL_20150317_001864	Pull down flying obejct
 SKILL_20150317_001865	Pull down flight type monsters.
@@ -1884,7 +1884,7 @@ SKILL_20150317_001883	Trap
 SKILL_20150317_001884	Cannot move and receive continuous damage.
 SKILL_20150317_001885	Bomb explodes and inflicts damage around
 SKILL_20150317_001886	Basic attack applies continuously.
-SKILL_20150317_001887	Max. SP and max. STA increase
+SKILL_20150317_001887	Increased maximum SP and STA
 SKILL_20150317_001888	Invalid magic and remove debuff
 SKILL_20150317_001889	Companion follows and bugs enemy.
 SKILL_20150317_001890	The defend enemy attack.
@@ -1911,49 +1911,49 @@ SKILL_20150317_001910	HP Recovery
 SKILL_20150317_001911	Medusa
 SKILL_20150317_001912	STA will not be consumed for a certain time.
 SKILL_20150317_001913	Cafrisun's Power
-SKILL_20150317_001914	Adds +12 Earth Property Damage
+SKILL_20150317_001914	+12 additional Earth Property Damage when you attack
 SKILL_20150317_001915	Increased recovery amount and recovery rate of HP, SP and STA.
 SKILL_20150317_001916	Recover HP per second. Total 500 HP for 5 seconds.
 SKILL_20150317_001917	HP, SP recovery
 SKILL_20150317_001918	HP, SP recovery
-SKILL_20150317_001919	Reuse waiting time decrease by 50%
-SKILL_20150317_001920	Gaigalas Card activated
+SKILL_20150317_001919	Reduces cooldown time by 50%
+SKILL_20150317_001920	Activated Gaigalas Card
 SKILL_20150317_001921	Continuously receiving damage.
-SKILL_20150317_001922	Poata Card activated
-SKILL_20150317_001923	Melinas Sequoia Card activated
-SKILL_20150317_001924	Zalias Woodspirit Card activated
+SKILL_20150317_001922	Activated Poata Card
+SKILL_20150317_001923	Activated Melinas Sequoia Card
+SKILL_20150317_001924	Activated Zalias Woodspirit Card
 SKILL_20150317_001925	Increases Earth Property Resistance
-SKILL_20150317_001926	Chafer Card activated
-SKILL_20150317_001927	Abomination Card activated
-SKILL_20150317_001928	Increases attack against mutant-type monsters.
-SKILL_20150317_001929	Woodspirit Card activated
+SKILL_20150317_001926	Activated Chafer Card
+SKILL_20150317_001927	Activated Abomination Card
+SKILL_20150317_001928	Increased attack against Mutant-type monsters.
+SKILL_20150317_001929	Activated Woodspirit Card
 SKILL_20150317_001930	Continuously recovers HP.
-SKILL_20150317_001931	Magbirk Card activated
-SKILL_20150317_001932	Increases Fire Property Resistance.
-SKILL_20150317_001933	Deadborn Card activated
-SKILL_20150317_001934	Denoptic Card activated
-SKILL_20150317_001935	Moldyhorn Card activated
-SKILL_20150317_001936	Tomb Lord Card activated
-SKILL_20150317_001937	Increases All Resistance.
-SKILL_20150317_001938	Mushcaria Card activated
-SKILL_20150317_001939	Ginklas Card activated
-SKILL_20150317_001940	State of being continuously receiving damage.
-SKILL_20150317_001941	Velorchard Card activated
-SKILL_20150317_001942	Increases Evasion.
-SKILL_20150317_001943	Jack O'Lantern Card activated
-SKILL_20150317_001944	Increases attack against Devil-type monsters.
-SKILL_20150317_001945	Sparnas Card activated
-SKILL_20150317_001946	Increases Critical Damage.
-SKILL_20150317_001947	Rikaus Card activated
+SKILL_20150317_001931	Activated Magbirk Card
+SKILL_20150317_001932	Increased Fire property resistance.
+SKILL_20150317_001933	Activated Deadborn Card
+SKILL_20150317_001934	Activated Denoptic Card
+SKILL_20150317_001935	Activated Moldyhorn Card
+SKILL_20150317_001936	Activated Tomb Lord Card
+SKILL_20150317_001937	Increased all resistances.
+SKILL_20150317_001938	Activated Mushcaria Card
+SKILL_20150317_001939	Activated Ginklas Card
+SKILL_20150317_001940	Continuously receiving damage.
+SKILL_20150317_001941	Activated Velorchard Card
+SKILL_20150317_001942	Increased evasion.
+SKILL_20150317_001943	Activated Jack O'Lantern Card
+SKILL_20150317_001944	Increased attack against Devil-type monsters.
+SKILL_20150317_001945	Activated Sparnas Card
+SKILL_20150317_001946	Increased critical damage.
+SKILL_20150317_001947	Activated Rikaus Card
 SKILL_20150317_001948	Continuously recovers SP.
-SKILL_20150317_001949	Cerberos Card activated
-SKILL_20150317_001950	Increases Fire Property Attack.
-SKILL_20150317_001951	Carapace Card activated
-SKILL_20150317_001952	Yonazolem Card activated
-SKILL_20150317_001953	Increases Dark Property Attack.
-SKILL_20150317_001954	Kepa Chieftain Card activated
-SKILL_20150317_001955	Elaganos Card activated
-SKILL_20150317_001956	Increases the attack of Umbo, Rim.
+SKILL_20150317_001949	Activated Cerberos Card
+SKILL_20150317_001950	Increased Fire property attack.
+SKILL_20150317_001951	Activated Carapace Card
+SKILL_20150317_001952	Activated Yonazolem Card
+SKILL_20150317_001953	Increased Dark property attack.
+SKILL_20150317_001954	Activated Kepa Chieftain Card
+SKILL_20150317_001955	Activated Ellaganos Card
+SKILL_20150317_001956	Increased attack of Umbo and Rim.
 SKILL_20150317_001957	Endure
 SKILL_20150317_001958	Does not knock down to enemy attacks.
 SKILL_20150317_001959	Hydra's Venom
@@ -2167,7 +2167,7 @@ SKILL_20150317_002166	Quick Cast: Magic Damage
 SKILL_20150317_002167	Magic damage of next attack increases by 10% per attribute level when [Quick Cast] is active.
 SKILL_20150317_002168	Fireball: Flame Debuff
 SKILL_20150317_002169	Enemies hit by[Fire Ball] have a 10% chance per attribute level of suffering from [Flame] for 5 seconds.
-SKILL_20150317_002170	Fire Wall: Increased Fire Property Resistance
+SKILL_20150317_002170	Fire Wall: Increased Fire Property Buff
 SKILL_20150317_002171	Fire Property attack increases by 5 per Attribute level for 5 seconds when allies step on [Fire Wall].
 SKILL_20150317_002172	Hell Breath: Directional Rotation
 SKILL_20150317_002173	You can can change directions when using [Hell Breath].
@@ -2241,8 +2241,8 @@ SKILL_20150317_002240	Samsara : Two
 SKILL_20150317_002241	When enemies revives after [Samsara], two appear at a 1% chance per attribute level.
 SKILL_20150317_002242	Stop: Control Boss Monster
 SKILL_20150317_002243	[Stop] can also stop boss monsters but once stop ends, the boss cannot be stopped again.
-SKILL_20150317_002244	Back Masking : Panic
-SKILL_20150317_002245	Enemies provoked after using [Back Masking] will fall under [Panic] for 2 seconds per attribute level.
+SKILL_20150317_002244	Backmasking : Panic
+SKILL_20150317_002245	Enemies provoked after using [Backmasking] will fall under [Panic] for 2 seconds per attribute level.
 SKILL_20150317_002246	Multi Shot: Critical Rate
 SKILL_20150317_002247	Critical probability of skill [multi-shot] is increased by 1% per Attribute level.
 SKILL_20150317_002248	Full Draw : Knockback Distance
@@ -3363,9 +3363,9 @@ SKILL_20150401_003362	Change item that the monster will drop.
 SKILL_20150401_003363	Chagen drop item
 SKILL_20150401_003364	Sentence death to target. Target dies after certain time.
 SKILL_20150401_003365	Sentence Duration: #{CaptionRatio}# seconds
-SKILL_20150401_003366	Hunting monster.
+SKILL_20150401_003366	Caught a monster.
 SKILL_20150401_003367	Combat abilities of the pirates increase. Become stronger when fever combo is activated.
-SKILL_20150401_003368	INT increases.
+SKILL_20150401_003368	Increased INT.
 SKILL_20150401_003369	Attack is applied continuously
 SKILL_20150401_003370	Can use moving shot while running
 SKILL_20150401_003371	Pillaging
@@ -3594,7 +3594,7 @@ SKILL_20150406_003593	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Throw coin to 
 SKILL_20150406_003594	{#993399}{ol}[Magic] - [Holy]{/}{/}{nl}Heals target and party members while damaging enemy.
 SKILL_20150406_003595	Attack #{SkillAtkAdd}#{nl}Attack #{CaptionRatio}# enemies{nl}Heall all party members{nl}Heal #{CaptionRatio}# allies{nl}
 SKILL_20150406_003596	Reflects close ranged attacks.
-SKILL_20150406_003597	Gradually decreases maximum HP.
+SKILL_20150406_003597	Gradually decreases your maximum HP.
 SKILL_20150406_003598	Nullifies all attacks.
 SKILL_20150406_003599	Use sword while moving forward
 SKILL_20150406_003600	[Pardoner] Make despeller
@@ -3910,7 +3910,7 @@ SKILL_20150414_003909	Increased Physical and Magic Attack.
 SKILL_20150414_003910	Pillaging
 SKILL_20150414_003911	Cannot see in front
 SKILL_20150414_003912	Blessing of the Goddess
-SKILL_20150414_003913	Can search
+SKILL_20150414_003913	Searchable
 SKILL_20150414_003914	Muscle Pumping
 SKILL_20150414_003915	Increases STR, but decreases maximum Stamina
 SKILL_20150414_003916	Sentinel Set Buff
@@ -4002,7 +4002,7 @@ SKILL_20150414_004001	Enemy falls under [Massive Bleed] status when attack with 
 SKILL_20150414_004002	Magic Arrow: Silence
 SKILL_20150414_004003	Enemies receiving [Magic Arrow] fire attacks have chance of falling under [Silence]. Chance increase by 10% per attribute level.
 SKILL_20150414_004004	Divine Machine Arrow: Shock
-SKILL_20150414_004005	Enemies hit by [Divine Machine Arrow] are affected by the [Shock] status effect for 10 seconds.
+SKILL_20150414_004005	Enemies hit by [Divine Machine Arrow] are afflicted with [Shock] for 10 seconds.
 SKILL_20150414_004006	Revive: Duration
 SKILL_20150414_004007	Duration of [Revive] increase by 10 seconds per attribute level.
 SKILL_20150414_004008	Palm Strike: Bleeding
@@ -4087,7 +4087,7 @@ SKILL_20150428_004086	Increased SP recovery speed.
 SKILL_20150428_004087	Increase Splash.
 SKILL_20150428_004088	Stamina Recovery
 SKILL_20150428_004089	Continuously recovers Stamina.
-SKILL_20150428_004090	Increased Magic Defense.
+SKILL_20150428_004090	Increased magic defense.
 SKILL_20150428_004091	Increased Dark Property Attack.
 SKILL_20150428_004092	Red Aura
 SKILL_20150428_004093	Blue Aura
@@ -4144,7 +4144,7 @@ SKILL_20150714_004143	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRati
 SKILL_20150714_004144	Attack: #{SkillAtkAdd}#{nl}AoE Attack Ratio: #{SkillSR}#{nl}Able to use while riding
 SKILL_20150714_004145	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Maximum Duration: 10 seconds{nl}Consumes Stamina
 SKILL_20150714_004146	Attack: #{SkillFactor}#% + #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio2}#%{nl}Continouse Hits: #{CaptionRatio}#
-SKILL_20150714_004147	Block Increase{nl}Use SP 1% per 2 seconds
+SKILL_20150714_004147	Increased Block{nl}Consumes 1% SP every 2 seconds
 SKILL_20150714_004148	Defense: +#{CaptionRatio}#{nl}Consumes 1% SP every 2 seconds
 SKILL_20150714_004149	Defense: -#{CaptionRatio}#%{nl}Consumes 1% SP every 2 seconds
 SKILL_20150714_004150	#{CaptionRatio}# continuous hits when attacking{nl}Consumes 1% SP every 2 seconds
@@ -4232,7 +4232,7 @@ SKILL_20150714_004231	Inflicts the target with [Stun], but decreases your maximu
 SKILL_20150714_004232	Gohan
 SKILL_20150714_004233	Number of buff you can receive will increase.
 SKILL_20150714_004234	Removes nullified magic and harmful effects
-SKILL_20150714_004235	Increased AoE Attack Ratio.
+SKILL_20150714_004235	Increased AoE attack ratio.
 SKILL_20150714_004236	Skull Swing: No Jump
 SKILL_20150714_004237	Can't jump
 SKILL_20150714_004238	Ani Change
@@ -4252,12 +4252,12 @@ SKILL_20150714_004251	A status effect can activate Rage of Earth
 SKILL_20150714_004252	Shovel status effect
 SKILL_20150714_004253	Status effect can activate Legacy of Legwyn Family
 SKILL_20150714_004254	Block Increase
-SKILL_20150714_004255	Increase Block
+SKILL_20150714_004255	Increased block
 SKILL_20150714_004256	Increase Critical Attack
 SKILL_20150714_004257	Magic Amplification Increase
 SKILL_20150714_004258	Increase Magic Amplification
 SKILL_20150714_004259	Armor Penetration
-SKILL_20150714_004260	Decrease Physical Defense
+SKILL_20150714_004260	Decreased Physical Defense
 SKILL_20150714_004261	You can change weapons.
 SKILL_20150714_004262	Allows you to equip the [One-handed Sword] weapon type.
 SKILL_20150714_004263	Allows you to equip the [Two-handed Sword] weapon type.
@@ -4445,7 +4445,7 @@ SKILL_20150714_004444	Umbilical Cord: Remaining Defense
 SKILL_20150714_004445	10% of the physical defense remains per attribute level when using [Umbilical Cord].
 SKILL_20150714_004446	Increases the duration of [Spiritual Chain] by 1 second per attribute level.
 SKILL_20150714_004447	Disconnected enemies by [Unbind] will receive damage. Increases attack of magic attack by 10% per attribute level.
-SKILL_20150714_004448	Joint Penalty: Electricity
+SKILL_20150714_004448	Joint Penalty: Lightning
 SKILL_20150714_004449	Enemies affected by [Joint Penalty] will receive 10% additional damage from Lightning attacks per attribute level.
 SKILL_20150714_004450	Joint Penalty: Poison
 SKILL_20150714_004451	Enemies affected by [Joint Penalty] will receive 10% additional damage from Poison attacks per attribute level.
@@ -4488,7 +4488,7 @@ SKILL_20150714_004487	Summon Salamion: Dark
 SKILL_20150714_004488	Has a chance to afflict [Dark] for 10 seconds on an enemy when it is attacked by Salamion. Increases the chance by 2% per attribute level.
 SKILL_20150714_004489	Increases the critical rate effect from [Quicken] by 5% and decreases evasion by 2% per attribute level.
 SKILL_20150714_004490	When an enemy affected by [Reincarnate] dies and is revived, two enemies will appear with a chance of 1% per attribute level.
-SKILL_20150714_004491	Increases the duration of [Confusion] from Lv. 2 by 2 seconds per attribute level, after using [Back Masking], the enemies that will be pulled by aggro will be affected by [Confusion] for 6 seconds.
+SKILL_20150714_004491	Increases the duration of [Confusion] from Lv. 2 by 2 seconds per attribute level, after using [Backmasking], the enemies that will be pulled by aggro will be affected by [Confusion] for 6 seconds.
 SKILL_20150714_004492	Increases the damage dealt on an enemy with [Gather Corpse] by 1% per attribute level.
 SKILL_20150714_004493	Increases the damage dealt on an enemy with [Flesh Cannon] by 1% per attribute level.
 SKILL_20150714_004494	Increases the damage dealt on an enemy with [Flesh Hoop] by 1% per attribute level.
@@ -4790,8 +4790,8 @@ SKILL_20150717_004789	Deals damage to nearby enemies with a 1% chance per attrib
 SKILL_20150717_004790	Decreases the cooldown of [Attack Ground] by 2 seconds.
 SKILL_20150717_004791	Decreases the cooldown of [Hold] by 2 seconds.
 SKILL_20150717_004792	Slow: Critical Resistance
-SKILL_20150717_004793	Back Masking: Confusion
-SKILL_20150717_004794	Increases the duration of [Confusion] from Lv. 2 by 2 seconds per attribute level, after using [Back Masking], the enemies that will be pulled by aggro will be affected by [Confusion] for 6 seconds.
+SKILL_20150717_004793	Backmasking: Confusion
+SKILL_20150717_004794	Increases the duration of [Confusion] from Lv. 2 by 2 seconds per attribute level, after using [Backmasking], the enemies that will be pulled by aggro will be affected by [Confusion] for 6 seconds.
 SKILL_20150717_004795	Flesh Cannon: Decay
 SKILL_20150717_004796	Enemies hit by [Flesh Cannon] have a chance to be afflicted with Decay for 15 seconds. Increases the chance by 10% per attribute level.
 SKILL_20150717_004797	Flesh Hoop: Demoralize
@@ -4817,7 +4817,7 @@ SKILL_20150717_004816	Increases the range of [Lachrymator] to 75.
 SKILL_20150717_004817	Decreases the enemy's physical defense by 1% per attribute level when you attack with [Bodkin Point].
 SKILL_20150717_004818	[Crossfire] gets a 10% chance per level of inflicting [Burn] on targets for 6 seconds. Burn damage is proportional to the character's physical attack.
 SKILL_20150717_004819	Enemies hit by [Magic Arrow] will be afflicted with [Silence] by a certain chance. Increases the chance by 10% per attribute level.
-SKILL_20150717_004820	You can create the arrows for Fletcher. Crafting arrow is available while in Rest Mode.
+SKILL_20150717_004820	Allows you to create arrows used for Fletcher skills. Arrow Crafting is available while in Rest Mode.
 SKILL_20150717_004821	Defense decrease effect of [Deprotected Zone] increases by 1 per attribute level.
 SKILL_20150717_004822	Increases the chance of stun by 2% per attribute level when using a basic attack on enemies with a [Blunt] weapon type.
 SKILL_20150717_004823	Using basic sword attacks on enemies with [Deprotected Zone] will inflict [Weakened Defense]. [Weakened Defense] can be stacked up to 10 times. 
@@ -4937,7 +4937,7 @@ SKILL_20150729_004936	Duration: #{CaptionTime}# seconds{nl}Chance of doubling th
 SKILL_20150729_004937	Salamion Duration: #{CaptionTime}# seconds{nl}Salamion Level: #{CaptionRatio2}#{nl}Salamion Additional Damage: +#{CaptionRatio}#
 SKILL_20150729_004938	By manipulating time, you can let a monster appear at the same location where it was defeated.
 SKILL_20150729_004939	Movement Speed: +#{CaptionRatio}#%{nl}Duration: #{CaptionTime}# seconds
-SKILL_20150729_004940	Back Masking Range: #{CaptionRatio}#{nl}Unable to use Back Masking nearby for 10 seconds{nl}Consumes 1 Dimensional Piece
+SKILL_20150729_004940	Backmasking Range: #{CaptionRatio}#{nl}Unable to use Backmasking nearby for 10 seconds{nl}Consumes 1 Dimensional Piece
 SKILL_20150729_004941	Flesh Cannon
 SKILL_20150729_004942	Flesh Hoop
 SKILL_20150729_004943	Dig up the ground to collect materials required for alchemy.
@@ -5134,7 +5134,7 @@ SKILL_20150918_005133	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRati
 SKILL_20150918_005134	Pushes enemies away and creates a barrier of protection which doesn't allow others to enter for some time. Increases the magic defense of allies who are inside the barrier.
 SKILL_20150918_005135	Magic Defense: +#{CaptionRatio}#{nl}Duration: #{CaptionTime}# seconds
 SKILL_20150918_005136	Conviction
-SKILL_20150918_005137	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Attacks an enemy as an attack for the betrayer. Resistance to Fire, Ice, Electricity, Poison of the enemy that received the attack will decrease.
+SKILL_20150918_005137	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Attacks an enemy as an attack for the betrayer. Resistance to Fire, Ice, Lightning, Poison of the enemy that received the attack will decrease.
 SKILL_20150918_005138	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}AoE Attack Ratio: #{SkillSR}#{nl}All Properties Resistance: -#{CaptionRatio2}#
 SKILL_20150918_005139	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use your trained fingertips to attack an enemy by inflicting an internal injury.
 SKILL_20150918_005140	{#DD5500}{ol}[Physical]{/}{/}{nl}Gather force then shoot forward. The enemy is pushed away and will receive damage.
@@ -5149,16 +5149,16 @@ SKILL_20150918_005148	Prophecy
 SKILL_20150918_005149	Grants a temporary effect preventing Lv. 1 status ailments to nearby party members.
 SKILL_20150918_005150	Duration: #{CaptionTime}# seconds{nl}Applies #{CaptionRatio}# times
 SKILL_20150918_005151	Increased STR stat.
-SKILL_20150918_005152	Increased Movement Speed and maximum HP.
-SKILL_20150918_005153	Bwa Kayiman state.
+SKILL_20150918_005152	Increased movement speed and maximum HP.
+SKILL_20150918_005153	In the state of Bwa Kayiman.
 SKILL_20150918_005154	Applies one new deadly poison to your weapon for the next attack.
 SKILL_20150918_005155	Immune to Lv. 1 status ailments
 SKILL_20150918_005156	Increased Magic Defense.
 SKILL_20150918_005157	Shield Bash-Mix stat
 SKILL_20150918_005158	Vulnerable to Pierce attacks
-SKILL_20150918_005159	Fire, Ice, Electricity, Earth and Poison Properties Decrease
+SKILL_20150918_005159	Decreased Fire, Ice, Lightning, Earth and Poison properties
 SKILL_20150918_005160	Block Increase
-SKILL_20150918_005161	Accuracy Decrease
+SKILL_20150918_005161	Decreased accuracy
 SKILL_20150918_005162	Agvenipa Set Buff
 SKILL_20150918_005163	Able to equip [Cloth] armor. In addition, your maximum SP increases when you equip 3 or more pieces of [Cloth] armor. Your Magic Defense increases once you have 4 [Cloth] armor pieces equipped.
 SKILL_20150918_005164	Allows you to equip [Leather] armor.{nl}When equipped with 3 or more pieces of [Leather] armor, increases your Evasion.{nl} {nl}When equipped with 4 [Leather] armor pieces, your Evasion increases from attributes by an additional 50%.
@@ -5258,7 +5258,7 @@ SKILL_20151001_005257	Temporarily increases the skill levels of you and your par
 SKILL_20151001_005258	Applies for #{SkillFactor}# Skill Uses{nl}Duration: 60 seconds
 SKILL_20151001_005259	Spirit Barrier
 SKILL_20151001_005260	Deals magic damage in Out of Body by drawing a barrier.
-SKILL_20151001_005261	Increases your Critical Rate. 
+SKILL_20151001_005261	Increases your critical rate.
 SKILL_20151001_005262	Faster casting speed.
 SKILL_20151001_005263	Increased Magic Damage.
 SKILL_20151001_005264	Allows you to equip [Cloth] armor.{nl}When equipped with 3 or more pieces of [Cloth] armor, increases your maximum SP and magic damage taken is decreased by 5%.{nl} {nl}When equipped with 4 [Cloth] armor pieces, your Magic Defense increases and magic damage taken is decreased by an additional 10%.
@@ -5397,7 +5397,7 @@ SKILL_20151022_005396	{#DD5500}{ol}[Physical] - [Holy]{/}{/}{nl}Harness energy a
 SKILL_20151022_005397	Enemy's companion bites and holds. Decreased defense.
 SKILL_20151022_005398	Increases your evasion rate.
 SKILL_20151022_005399	Weak against Slash-type attacks.
-SKILL_20151022_005400	Ignores defense by using a Pierce-type attack.
+SKILL_20151022_005400	Ignores defense by using Pierce-type attacks.
 SKILL_20151022_005401	Increased Block.
 SKILL_20151022_005402	Increased Pierce-type attack upon the next attack
 SKILL_20151022_005403	Increased evasion.
@@ -5405,11 +5405,11 @@ SKILL_20151022_005404	Increased movement speed
 SKILL_20151022_005405	Healing Factor
 SKILL_20151022_005406	Increases HP recovery
 SKILL_20151022_005407	Bloodletting
-SKILL_20151022_005408	Bloodletting state
+SKILL_20151022_005408	In the state of Bloodletting.
 SKILL_20151022_005409	Incineration
 SKILL_20151022_005410	Incineration state
 SKILL_20151022_005411	Beak Mask
-SKILL_20151022_005412	Equipped with Mask.
+SKILL_20151022_005412	Mask equipped.
 SKILL_20151022_005413	Fumigate
 SKILL_20151022_005414	Fumigate state
 SKILL_20151022_005415	Shield Mastery: Projectile Defense
@@ -5562,7 +5562,7 @@ SKILL_20151102_005561	Notarikon
 SKILL_20151102_005562	Double Chance
 SKILL_20151102_005563	Reduce Level
 SKILL_20151102_005564	Stealth
-SKILL_20151102_005565	Decreased movement speed.
+SKILL_20151102_005565	Decreased movement speed
 SKILL_20151102_005566	Stigma.
 SKILL_20151102_005567	Invocation.
 SKILL_20151102_005568	Invocation: Deliver
@@ -5712,7 +5712,7 @@ SKILL_20151102_005711	The area of [Fumigate] skill gains a purification effect f
 SKILL_20151102_005712	Bird Beak Mask: Immunity
 SKILL_20151102_005713	Increases the chance to block Lv3 status ailments by 5% per attribute level, but also increases the SP cost whilst wearing the [Bird Beak Mask].
 SKILL_20151102_005714	Bird Beak Mask: Poison Resistance
-SKILL_20151102_005715	Increases the Poison property resistance by 5 per attribute level whilst wearing the [Bird Beak Mask].
+SKILL_20151102_005715	Increases Poison property resistance by 5 per attribute level whilst wearing the [Bird Beak Mask].
 SKILL_20151102_005716	Revenged Sevenfold: Duration
 SKILL_20151102_005717	Increases the duration of [Revenged Sevenfold]'s effect by 1 second per attribute level.
 SKILL_20151102_005718	Revenged Sevenfold: Curse
@@ -5879,7 +5879,7 @@ SKILL_20151224_005878	STR: +#{CaptionRatio}#{nl}Duration: #{CaptionRatio2}# seco
 SKILL_20151224_005879	Attack: 200% + #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Maximum Targets: #{CaptionRatio2}#
 SKILL_20151224_005880	Maximum Capsule Count: #{CaptionRatio}#
 SKILL_20151224_005881	Carves a statue of Zemyna, the Goddess of Earth.{nl}Decreases the SP cost and SP recovery time for allies who are within the radius of the Goddess Statue.
-SKILL_20151224_005882	Decreases #{CaptionRatio}# SP{nl}SP recovery time decreases to 5 seconds{nl}Statue Duration: #{CaptionRatio2}# seconds{nl}Consumes 1 Pine Wood
+SKILL_20151224_005882	Decreases #{CaptionRatio}# SP{nl}SP recovery time decreases by 5 seconds{nl}Statue Duration: #{CaptionRatio2}# seconds{nl}Consumes 1 Pine Wood
 SKILL_20151224_005883	Carves a statue of Laima, the goddess of fate. {nl}Decreases the cooldown of your party members' skills within the radius of the Goddess Statue.
 SKILL_20151224_005884	Cooldown: -#{CaptionRatio}#% {nl}Movement Speed: -20 {nl}Statue Duration: #{CaptionRatio2}# seconds{nl}Consumes 1 Cedar Wood
 SKILL_20151224_005885	Attack: 250% + #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%
@@ -5929,7 +5929,7 @@ SKILL_20151224_005928	Transforms the Exorcise Magic Circle in front of the caste
 SKILL_20151224_005929	Aspergillum
 SKILL_20151224_005930	Fills the equipped weapon with holy water and makes it spray with every attack. The level of holy water being sprayed is the same level as the caster's Aspersion level.
 SKILL_20151224_005931	Duration: #{CaptionTime}# seconds{nl}Consumes 1 Holy Water
-SKILL_20151224_005932	Convert at certain rate when hit.
+SKILL_20151224_005932	Converts when being hit at a certain chance.
 SKILL_20151224_005933	Scheduled removal
 SKILL_20151224_005934	Hangman's Knot: Spalsh
 SKILL_20151224_005935	Wide Range Attack Rate Decrease
@@ -5951,14 +5951,14 @@ SKILL_20151224_005950	Increased chance of resisting status ailments.
 SKILL_20151224_005951	Increases attack and defense.
 SKILL_20151224_005952	Increased STR.
 SKILL_20151224_005953	Decreases consumption and reduces recovery time of SP.
-SKILL_20151224_005954	Continuos reduction of STA.
+SKILL_20151224_005954	Continuously decreasing STA.
 SKILL_20151224_005955	Hide
 SKILL_20151224_005956	Hidden state
 SKILL_20151224_005957	Reduced crafting time.
 SKILL_20151224_005958	Cyclone: Resistance
 SKILL_20151224_005959	Increased harmful effect resistance rate
 SKILL_20151224_005960	Increased recovery amount and recovery rate of HP, SP and STA.
-SKILL_20151224_005961	Sacrifice HP recovery to 0 and raise magic amplification.
+SKILL_20151224_005961	Increased magic amplification at the cost of reducing HP recovery rate to 0
 SKILL_20151224_005962	Increase INT
 SKILL_20151224_005963	Increase defense
 SKILL_20151224_005964	Shield reduced instead of HP when hit by enemies
@@ -5989,7 +5989,7 @@ SKILL_20151224_005988	HP won't be reduced by attacks until all the protections a
 SKILL_20151224_005989	Applies 5 hits to basic attack for every 5 times of [Bleeding].
 SKILL_20151224_005990	Shock Cutter: 5 Continuous Attack
 SKILL_20151224_005991	Changed to 5 continuous attacks
-SKILL_20151224_005992	Stamina reduction
+SKILL_20151224_005992	Reduced Stamina
 SKILL_20151224_005993	Cripple
 SKILL_20151224_005994	Effigy bonus1
 SKILL_20151224_005995	Applies additional damage of Effigy on the second attack
@@ -6072,7 +6072,7 @@ SKILL_20151224_006071	Increases the damage dealt on an enemy with [Evocation] by
 SKILL_20151224_006072	Desmodus: Enhance
 SKILL_20151224_006073	Increases the damage dealt on an enemy with [Desmodus] by 1% per attribute level.
 SKILL_20151224_006074	Enemies affected by [Slow] have their critical resistance decreased by 15% equal to by the character (caster) INT.
-SKILL_20151224_006075	Enemies provoked after using [Back Masking] will be afflicted with [Confusion] for 6 seconds. If the attribute is Lv2, 8 seconds of [Confusion] will be applied.
+SKILL_20151224_006075	Enemies provoked after using [Backmasking] will be afflicted with [Confusion] for 6 seconds. If the attribute is Lv2, 8 seconds of [Confusion] will be applied.
 SKILL_20151224_006076	Increases physical and magic attack for 30 minutes to allies that participated in a [Item Awakening] dungeon. Increases attack by 20% per attribute level.
 SKILL_20151224_006077	Rune Caster: Skilled Casting
 SKILL_20151224_006078	1% chance per attribute level of receiving the effects of [Quick Cast] after using a Rune Caster skill. The effect is based on the caster's skill level of [Quick Cast].
@@ -6247,7 +6247,7 @@ SKILL_20160224_006246	Increased maximum CON, defense, movement speed.
 SKILL_20160224_006247	Weak against physical property attacks.
 SKILL_20160224_006248	Langort: Blocking
 SKILL_20160224_006249	Swash Buckling: Buff
-SKILL_20160224_006250	Increased magical attack
+SKILL_20160224_006250	Increased magic attack
 SKILL_20160224_006251	Increased physical defense
 SKILL_20160224_006252	Increased attack for Stab property skills against characters.
 SKILL_20160224_006253	Increased attack for Slash property skills against characters.
