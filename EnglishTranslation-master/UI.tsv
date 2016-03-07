@@ -1523,7 +1523,7 @@ UI_20150428_001522	{@st41}Play Style{/}
 UI_20150428_001523	Questing
 UI_20150428_001524	Hunting
 UI_20150428_001525	Events
-UI_20150428_001526	{@st41}Level Difference{/}
+UI_20150428_001526	{@st41}Lv. Difference{/}
 UI_20150428_001527	Not related
 UI_20150428_001528	{@st41}Desired Class Type{/}
 UI_20150428_001529	{@st41b}Leave Party
@@ -1564,7 +1564,7 @@ UI_20150714_001563	{@st41b}Remove Refreshment Table
 UI_20150714_001564	{@st42}My Summon Skill
 UI_20150714_001565	{@st42}Stat
 UI_20150714_001566	{@st42}Current Location : %s{/}
-UI_20150714_001567	{@st59b}Equipment {nl}{@st59s} - Hairstyle/Costume: Equipment to change a characters appearance. {nl} - Weapon: One-handed or two-handed weapons {nl} (sub-weapon/shield can be equipped with one-handed weapon) {nl} - Armor: Top, Pants, Gloves, Shoes. {nl} - Accessories: 1 Necklace and 2 Bracelets. {nl} {/}
+UI_20150714_001567	{@st59b}Equipment {nl}{@st59s} - Hairstyle/Costume: Equipment to change a characters appearance. {nl} - Weapon: One-handed or two-handed weapons {nl} (sub-weapon/shield can be equipped with one-handed weapon) {nl} - Armor: Top, Bottom, Gloves, Shoes. {nl} - Accessories: 1 Necklace and 2 Bracelets. {nl} {/}
 UI_20150714_001568	{@st43}Open %s Shop {/}
 UI_20150714_001569	{@st41b}Roasting{/}
 UI_20150714_001570	{@st66}Select All
@@ -1583,7 +1583,7 @@ UI_20150714_001582	{@st41b}Invite
 UI_20150714_001583	{@st41}You can change to keyboard, controller, or mouse controls in the system menu.{nl}
 UI_20150714_001584	When you meet a character matching your party conditions, {nl}[Party match found!] notice will be shown.{nl}You will also be recommended to other parties.
 UI_20150714_001585	{@st42}Play Style{/}
-UI_20150714_001586	{@st42}Level Difference{/}
+UI_20150714_001586	{@st42}Lv. Difference{/}
 UI_20150714_001587	Any
 UI_20150714_001588	{@st42}Class Type{/}
 UI_20150714_001589	{@st42}Party Name : %s{/}
@@ -1608,7 +1608,7 @@ UI_20150714_001607	{@st42}Share Party Invite Link
 UI_20150714_001608	>>Party Preview...
 UI_20150714_001609	Party Name : %s
 UI_20150714_001610	Party Description : %s
-UI_20150714_001611	Organization Time : %s ago
+UI_20150714_001611	Created : %s ago
 UI_20150714_001612	Party Members : %s/5
 UI_20150714_001613	Join
 UI_20150714_001614	{@st59}Search by party name or description{/}
@@ -1624,7 +1624,7 @@ UI_20150714_001623	{@st59}Increase skills{/}
 UI_20150714_001624	{@st59}Close{/}
 UI_20150714_001625	{@st43}Skills & Attributes{/}
 UI_20150714_001626	Remaining Status Points {nl}{@st46}%s
-UI_20150714_001627	Likes Received : %s
+UI_20150714_001627	Likes received : %s
 UI_20150714_001628	{@st66b}Show Gained EXP{/}
 UI_20150714_001629	{@st66b}Show Character Name{/}
 UI_20150714_001630	{@st66b}Show Only Team Name{/}
@@ -1640,7 +1640,7 @@ UI_20150714_001639	{@st66b}BGM Volume (%s){/}
 UI_20150714_001640	{@st66b}Volume (%s){/}
 UI_20150714_001641	{@st66b}Low Mode{/}
 UI_20150714_001642	{@st66b}Auto Setup{/}
-UI_20150714_001643	{@st66b}Don't Use{/}
+UI_20150714_001643	{@st66b}Disable{/}
 UI_20150714_001644	{@st66b}Apply Bloom{/}
 UI_20150714_001645	{@st66b}Apply Vignette{/}
 UI_20150714_001646	{@st66b}Apply FXAA{/}
@@ -1876,11 +1876,11 @@ UI_20151224_001875	{@st45tw2}Category{/}
 UI_20151224_001876	{@st45tw2}Variation Value{/}
 UI_20151224_001877	{@st45tw2}Time{/}
 UI_20151224_001878	{@st45tw2}Recover{/}
-UI_20151224_001879	{@st66b}Dungeon{/}
+UI_20151224_001879	{@st66b}Dungeons{/}
 UI_20151224_001880	{@st66b}Request Office Mission{/}
 UI_20151224_001881	{@st66b18}Entry Limit{/}
 UI_20151224_001882	{@st45tw2}Name{/}
-UI_20151224_001883	{@st45tw2}Entry Level{/}
+UI_20151224_001883	{@st45tw2}Entry Lv.{/}
 UI_20151224_001884	Searching Time : 
 UI_20151224_001885	{@st59}Zoom In{/}
 UI_20151224_001886	{@st59}Zoom Out{/}
@@ -1936,7 +1936,7 @@ UI_20151224_001935	{@st42b}Save{/}
 UI_20151224_001936	{@st41}Party Name & Description{/}
 UI_20151224_001937	Show Nearby Parties
 UI_20151224_001938	Public Party
-UI_20151224_001939	Level Range
+UI_20151224_001939	Lv. Difference
 UI_20151224_001940	Use 'Recommend Party'
 UI_20151224_001941	{@st66b}Insert Party Invite Tag
 UI_20151224_001942	Competitive Mission
@@ -1967,7 +1967,7 @@ UI_20151224_001966	{@st66b}Key Settings
 UI_20151224_001967	{@st42}Duration : %s{/}
 UI_20151224_001968	Applies to this %s for %s{nl} and delete %s from inventory
 UI_20151224_001969	Only apply to %s during %s {nl} and delete %s from inventory.{/}
-UI_20151224_001970	The duration of your Token can be viewed in the Character Settings window.
+UI_20151224_001970	The duration of your Token can be seen in Character Settings.
 UI_20151224_001971	{@st59}Close{/}
 UI_20151224_001972	{@st43}{s18}Preview & Purchase
 UI_20151224_001973	Preview
@@ -2087,7 +2087,7 @@ UI_20160224_002086	{@st41b}Magic Scroll{/}
 UI_20160224_002087	{@st59}Close{/}
 UI_20160224_002088	{@st66b}Consumes 1 Magic Scroll{/}
 UI_20160224_002089	{@st42b}Current Scrolls  : %s{/}
-UI_20160224_002090	{@st66b}Request{/}
+UI_20160224_002090	{@st66b}Requests{/}
 UI_20160224_002091	{@st66b}Saalus Convent{/}
 UI_20160224_002092	{@st66b}Earth Tower{/}
 UI_20160224_002093	{@st59b}Instanced Dungeons{nl}{@st59s}Content where your group has to achieve certain objectives in independent instanced zones.{nl}You can either create a party before entering or automatically search for a party to challenge a dungeon.{nl} - Dungeon : Enter by talking to the dungeon entrance NPC in each respective level zone.{nl} - Mission Requests : Enter by talking to the Mercenary Post Receptionists in Fedimian.{nl} - Saalus Convent Mission : Enter by talking to Sister Lhasa at Saalus Convent.{nl}{/}
@@ -2099,8 +2099,8 @@ UI_20160224_002098	Remaining Bidding Time
 UI_20160224_002099	Item Dice
 UI_20160224_002100	{@st42}%s Benefits{/}
 UI_20160224_002101	Used items disappear from your inventory{nl}and all %s will be reset.{/}
-UI_20160224_002102	The remaining time can be viewed in the Character Info window.{/}
-UI_20160224_002103	Receiving data.
+UI_20160224_002102	The remaining time can be seen in Character Settings.{/}
+UI_20160224_002103	Retrieving data.
 UI_20160224_002104	{@st66b}Ranking{/}
 UI_20160224_002105	{@st66b}Spectate
 UI_20160224_002106	{@st41b}Quit Spectating
