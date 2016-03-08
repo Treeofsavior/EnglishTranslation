@@ -3541,7 +3541,7 @@ SKILL_20150406_003540	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use the back o
 SKILL_20150406_003541	{#DD5500}{ol}[Physical] - [Pierce] - [Strike]{/}{/}{nl}Use your shield and spear to attack enemies.
 SKILL_20150406_003542	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}March forward while holding down the key. Enemies nearby are hit with the shield and will fall down.
 SKILL_20150406_003543	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use your shield to smack enemies. There is a high chance the target becomes afflicted with Darkness.
-SKILL_20150406_003544	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use your shield to interrupt enemies.{nl}The target becomes afflicted with Unbalanced.
+SKILL_20150406_003544	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use your shield to interrupt enemies.{nl}The target becomes afflicted with [Unbalanced].
 SKILL_20150406_003545	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Use your shield as a lead and march forward while holding down the key. Release the key to launch a slash on the enemy.
 SKILL_20150406_003546	Attack: #{SkillAtkAdd}#{nl}Maximum Duration: 10 seconds
 SKILL_20150406_003547	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Gather up power and use your weapon to attack targets by smashing it to the ground.
@@ -3629,10 +3629,10 @@ SKILL_20150414_003628	Change to Window formation for active attack. Chance of cr
 SKILL_20150414_003629	{#DD5500}{ol}[Physical] - [Pierce] - [Strike]{/}{/}{nl}Use your spear and shield to attack enemies. Deals additional damage when an attack is countered.
 SKILL_20150414_003630	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Throw spear to attack enemy. Spear dropped on ground may disappear if not picked up within time limit.
 SKILL_20150414_003631	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use your shield and dash to push enemies away. Enemies nearby will fall down when hit with the shield.
-SKILL_20150414_003632	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Strongly attack bottom of enemy with chance of paralyzing.
-SKILL_20150414_003633	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Smacks down an enemy using your shield, afflicting the [Dark] status effect by a small chance.
+SKILL_20150414_003632	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Attack with a powerful slash on the lower half of an enemy with a chance to paralyze.
+SKILL_20150414_003633	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use your shield to inflict damage on an enemy with a powerful smash. Has a chance to afflict [Dark] on the enemy.
 SKILL_20150414_003634	Attack #{SkillAtkAdd}#{nl}DeStab the enemy in front of you, and make it more vulnerable to [Pierce] attacks.fense -#{CaptionRatio}# {nl}{#339999}{ol}[Unbalance]{/}{/} Duration 5 seconds
-SKILL_20150414_003635	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Hold key to bend down and move forward. Evasion increases and attacks enemy after moving.
+SKILL_20150414_003635	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Hold down the key to crouch and move forward. Increases evasion against enemy attacks and triggers an attack immediately after movement has ended.
 SKILL_20150414_003636	{#DD5500}{ol}[Physical] - [Pierce] - [Strike]{/}{/}{nl}Use sword and shield to attack continuously.
 SKILL_20150414_003637	{#DD5500}{ol}[Pierce]{/}{/}{nl}Impales a small or medium-type monster with a spear. It is possible to attack other enemies with a skewered enemy.
 SKILL_20150414_003638	Increases your movement speed while riding.
@@ -5057,13 +5057,13 @@ SKILL_20150918_005056	Cleave
 SKILL_20150918_005057	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Use centrifugal force and continuously attack enemies by turning body. Make an additional damage to the enemy stunned.
 SKILL_20150918_005058	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Use your shield and sword to successively attack enemies.
 SKILL_20150918_005059	Shield Shoving
-SKILL_20150918_005060	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Interrupt an enemy's action using your shield. The enemy is turned around, and can't take any actions temporarily.
+SKILL_20150918_005060	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Interrupt an enemy's action by using your shield. The enemy is turned around, and cannot take any actions temporarily.
 SKILL_20150918_005061	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Duration: 1.5 seconds
 SKILL_20150918_005062	Shield Bash
 SKILL_20150918_005063	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Attack with your shield. The attacked enemy will have its stat points jumbled temporarily.
 SKILL_20150918_005064	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Duration: #{CaptionRatio2}# seconds
 SKILL_20150918_005065	High Kick
-SKILL_20150918_005066	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Perform a high kick on the enemy. The enemy will receive additional damage from Strike attacks temporarily.
+SKILL_20150918_005066	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Perform a high kick to subdue an enemy. Hit enemies will temporarily take additional Strike damage.
 SKILL_20150918_005067	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Maximum Duration: 10 seconds{nl}AoE Attack Ratio: 5{nl}Able to use while riding
 SKILL_20150918_005068	Increases attack equal to [Skill Level]×[Number of Weapon Stars]{nl}Attack Count: #{CaptionRatio2}#{nl}Duration: 1 hour
 SKILL_20150918_005069	Physical Defense: +#{CaptionRatio}#{nl}Number of Shots: #{CaptionRatio2}#{nl}Duration: 1 hour
@@ -6192,7 +6192,7 @@ SKILL_20151224_006191	Lv. 5 Invocation required
 SKILL_20151224_006192	Swordsman 1st Circle required
 SKILL_20151224_006193	Wizard 1st Circle required
 SKILL_20151224_006194	Wugushi 1st Circle required
-SKILL_20160224_006195	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Attack with your shield. Damaged enemies will have stats temporarily jumbled.
+SKILL_20160224_006195	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Attack with your shield. Damaged enemies will have their stats temporarily scrambled.
 SKILL_20160224_006196	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Inflict damage and stun an enemy by making a big slash with all your might.
 SKILL_20160224_006197	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}{#339999}{ol}[Shock]{/}{/} Duration: 5 seconds
 SKILL_20160224_006198	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Deals consecutive attacks to a frontal enemy by swinging your weapon.
