@@ -979,7 +979,7 @@ SKILL_20150317_000978	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl} Uses a strong 
 SKILL_20150317_000979	Attack #{SkillAtkAdd}#{nl}{#339999}{ol}[Stun]{/}{/} Duration 7 seconds
 SKILL_20150317_000980	Targe Smash
 SKILL_20150317_000981	{#DD5500}{ol}[Physical] [Strike]{/}{/}{nl} Inflicts damage by strongly smashing your shield to the target. Has a high chance to inflict the Darkness status effect to the target.
-SKILL_20150317_000982	Attack #{SkillAtkAdd}#{nl}{#339999}{ol}[Dark]{/}{/} Duration 3 seconds{nl}Splash #{SkillSR}#
+SKILL_20150317_000982	Attack: #{SkillAtkAdd}#{nl}{#339999}{ol}[Blind]{/}{/} Duration: 3 seconds{nl}Splash: #{SkillSR}#
 SKILL_20150317_000983	Shield Push
 SKILL_20150317_000984	{#DD5500}{ol}[Physical] [Strike]{/}{/}{nl} Use your shield to interfere with an enemy.{nl} Inflicts the Unbalanced status effect to the target. 
 SKILL_20150317_000985	Attack #{SkillAtkAdd}#{nl}{#339999}{ol}[Unbalanced]{/}{/} Duration 5 seconds
@@ -1628,7 +1628,7 @@ SKILL_20150317_001627	Periodically receiving Fire damage.
 SKILL_20150317_001628	Hold
 SKILL_20150317_001629	Unmovable.
 SKILL_20150317_001630	Fixed Movement Speed
-SKILL_20150317_001631	Darkness
+SKILL_20150317_001631	Dark
 SKILL_20150317_001632	Field of vision interfered.
 SKILL_20150317_001633	OP Buff
 SKILL_20150317_001634	Increased Attack.
@@ -2274,7 +2274,7 @@ SKILL_20150317_002273	Number of attacks of [Blessing] increases by 1 per level.
 SKILL_20150317_002274	Blessing: Additional Buff
 SKILL_20150317_002275	Number of targets of [Blessing] increases by 1 per Attribute level.
 SKILL_20150317_002276	Sacrament: Dark Property resistance
-SKILL_20150317_002277	Dark Resistance increases by 5 per attribute levvel while [Sacrament] is activated.
+SKILL_20150317_002277	Increases your Dark property resistance by 5 per attribute level while [Sacrament] is active.
 SKILL_20150317_002278	Resurrection: HP Recovery
 SKILL_20150317_002279	Recovers the maximum HP of a revived character with [Resurrection] by 10% per attribute level.
 SKILL_20150317_002280	Resurrection: Revive Count
@@ -3540,7 +3540,7 @@ SKILL_20150406_003539	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Smash the head
 SKILL_20150406_003540	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use the back of a knife to strike and push away an enemy. The enemy falls under Armor Break (Permanent on monsters)
 SKILL_20150406_003541	{#DD5500}{ol}[Physical] - [Pierce] - [Strike]{/}{/}{nl}Use your shield and spear to attack enemies.
 SKILL_20150406_003542	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}March forward while holding down the key. Enemies nearby are hit with the shield and will fall down.
-SKILL_20150406_003543	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use your shield to smack enemies. There is a high chance the target becomes afflicted with Darkness.
+SKILL_20150406_003543	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use your shield to smack enemies. There is a high chance the target becomes afflicted with [Blind].
 SKILL_20150406_003544	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use your shield to interrupt enemies.{nl}The target becomes afflicted with [Unbalanced].
 SKILL_20150406_003545	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Use your shield as a lead and march forward while holding down the key. Release the key to launch a slash on the enemy.
 SKILL_20150406_003546	Attack: #{SkillAtkAdd}#{nl}Maximum Duration: 10 seconds
@@ -3630,7 +3630,7 @@ SKILL_20150414_003629	{#DD5500}{ol}[Physical] - [Pierce] - [Strike]{/}{/}{nl}Use
 SKILL_20150414_003630	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Throw spear to attack enemy. Spear dropped on ground may disappear if not picked up within time limit.
 SKILL_20150414_003631	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use your shield and dash to push enemies away. Enemies nearby will fall down when hit with the shield.
 SKILL_20150414_003632	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Attack with a powerful slash on the lower half of an enemy with a chance to paralyze.
-SKILL_20150414_003633	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use your shield to inflict damage on an enemy with a powerful smash. Has a chance to afflict [Dark] on the enemy.
+SKILL_20150414_003633	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use your shield to inflict damage on an enemy with a powerful smash. Has a chance to afflict [Blind] on the enemy.
 SKILL_20150414_003634	Attack #{SkillAtkAdd}#{nl}DeStab the enemy in front of you, and make it more vulnerable to [Pierce] attacks.fense -#{CaptionRatio}# {nl}{#339999}{ol}[Unbalance]{/}{/} Duration 5 seconds
 SKILL_20150414_003635	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Hold down the key to crouch and move forward. Increases evasion against enemy attacks and triggers an attack immediately after movement has ended.
 SKILL_20150414_003636	{#DD5500}{ol}[Physical] - [Pierce] - [Strike]{/}{/}{nl}Use sword and shield to attack continuously.
@@ -3795,7 +3795,7 @@ SKILL_20150414_003794	Trick an enemy to lower its guard. Temporarily decreases t
 SKILL_20150414_003795	Hide underground to conceal your appearance. In this state you can attack but cannot move.
 SKILL_20150414_003796	Steals the enemy's trap and magic circle. You may use it later when you need it.
 SKILL_20150414_003797	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Temporarily increases the STR of you and your party members when a target dies and explodes from this attack.
-SKILL_20150414_003798	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Throw tear gas at a targeted area. The target becomes afflicted with Darkness.
+SKILL_20150414_003798	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Throw tear gas at a targeted area. The target becomes afflicted with [Blind].
 SKILL_20150414_003799	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Continuously attack using your dagger. A double attack with a high critical rate may stun the enemy.
 SKILL_20150414_003800	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Launches a wide broadhead arrow. Inflicts bleeding on the enemy hit.
 SKILL_20150414_003801	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Launches a bodkin arrow that deeply penetrates the enemy. On hit, decreases enemies' defense and nullifies the magic that protects the enemy.
@@ -4058,7 +4058,7 @@ SKILL_20150428_004057	Evasion: -#{CaptionRatio}#{nl}Pointing AI Duration: 90 sec
 SKILL_20150428_004058	Detects hidden monsters {nl}Hounding AI Duration: 90 seconds
 SKILL_20150428_004059	Consumes #{SpendPoison}# Poison Pot Poison
 SKILL_20150428_004060	Attack #{SkillAtkAdd}#{nl}Duration 30 seconds
-SKILL_20150428_004061	Throw tear gas at a targeted area. The target becomes afflicted with Darkness.
+SKILL_20150428_004061	Throw tear gas at a targeted area. The target becomes afflicted with [Blind].
 SKILL_20150428_004062	Lachrymator Duration: #{CaptionTime}# seconds
 SKILL_20150428_004063	Attack #{SkillAtkAdd}#{nl}Strike 2 times{nl}Critical rate #{CaptionRatio}#%
 SKILL_20150428_004064	Attack: #{SkillAtkAdd}#{nl}Bleeding Duration: #{CaptionTime}# seconds{nl}Consumes 1 Broadhead Arrow
@@ -4088,7 +4088,7 @@ SKILL_20150428_004087	Increase Splash.
 SKILL_20150428_004088	Stamina Recovery
 SKILL_20150428_004089	Continuously recovers Stamina.
 SKILL_20150428_004090	Increased magic defense.
-SKILL_20150428_004091	Increased Dark Property Attack.
+SKILL_20150428_004091	Increased Dark property attack.
 SKILL_20150428_004092	Red Aura
 SKILL_20150428_004093	Blue Aura
 SKILL_20150428_004094	Yellow Aura
@@ -4136,7 +4136,7 @@ SKILL_20150714_004135	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRati
 SKILL_20150714_004136	Spear Attack: #{SkillAtkAdd}#{nl}Shield Attack: #{CaptionRatio}#{nl}Attribute Damage: #{CaptionRatio2}#%{nl}AoE Attack Ratio: #{SkillSR}#
 SKILL_20150714_004137	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Maximum Duration: 5 seconds{nl}Consumes Stamina
 SKILL_20150714_004138	Attack: #{SkillAtkAdd}#{nl}Attribute Damage #{CaptionRatio}#%{nl}{#339999}{ol}[Stun]{/}{/} Duration: 7 seconds
-SKILL_20150714_004139	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}{#339999}{ol}[Darkness]{/}{/} Duration: 3 seconds{nl}AoE Attack Ratio: #{SkillSR}#
+SKILL_20150714_004139	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}{#339999}{ol}[Blind]{/}{/} Duration: 3 seconds{nl}AoE Attack Ratio: #{SkillSR}#
 SKILL_20150714_004140	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio2}#%{nl}Defense: -#{CaptionRatio}#{nl}{#339999}{ol}[Unbalanced]{/}{/} Duration: #{CaptionTime}# seconds
 SKILL_20150714_004141	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Maximum Duration: 10 seconds
 SKILL_20150714_004142	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}AoE Attack Ratio: #{SkillSR}#{nl}Able to use while riding
@@ -4484,8 +4484,8 @@ SKILL_20150714_004483	Hold: Decreased Cooldown
 SKILL_20150714_004484	Cooldown time of [Hold] will be reduced.
 SKILL_20150714_004485	Summon Salamion: Ignite
 SKILL_20150714_004486	Has a chance to afflict [Flame] for 10 seconds on an enemy when it is attacked by Salamion. Increases the chance by 2% per attribute level.
-SKILL_20150714_004487	Summon Salamion: Dark
-SKILL_20150714_004488	Has a chance to afflict [Dark] for 10 seconds on an enemy when it is attacked by Salamion. Increases the chance by 2% per attribute level.
+SKILL_20150714_004487	Summon Salamion: Blind
+SKILL_20150714_004488	Has a chance to afflict [Blind] for 10 seconds on an enemy when it is attacked by Salamion. Increases the chance by 2% per attribute level.
 SKILL_20150714_004489	Increases the critical rate effect from [Quicken] by 5% and decreases evasion by 2% per attribute level.
 SKILL_20150714_004490	When an enemy affected by [Reincarnate] dies and is revived, two enemies will appear with a chance of 1% per attribute level.
 SKILL_20150714_004491	Increases the duration of [Confusion] from Lv. 2 by 2 seconds per attribute level, after using [Backmasking], the enemies that will be pulled by aggro will be affected by [Confusion] for 6 seconds.
@@ -4644,8 +4644,8 @@ SKILL_20150714_004643	Increases the chance of a new zombie emerging from [Dambal
 SKILL_20150714_004644	Bwa Kayiman: Zombie Defense
 SKILL_20150714_004645	Increases the physical defense of the zombies while using [Bwa Kayiman] by 3 per attribute level.
 SKILL_20150714_004646	The maximum number of zombies that could be created by [Zombify] increases by 1 per Attribute level.
-SKILL_20150714_004647	Hexing: Darkness
-SKILL_20150714_004648	Enemies afflicted with [Hexing] will receive 10% additional damage per attribute level from Dark property attacks.
+SKILL_20150714_004647	Hexing: Dark
+SKILL_20150714_004648	Enemies affected by [Hexing] will receive 10% additional damage per attribute level from Dark property attacks.
 SKILL_20150714_004649	Samediveve: Increased Range
 SKILL_20150714_004650	The range of [Samediveve] will be increased.
 SKILL_20150714_004651	Ogouveve: Increased Range
@@ -4829,7 +4829,7 @@ SKILL_20150717_004828	Increases the range of [Melstis] to 50.
 SKILL_20150717_004829	Sacrament: Dark Property Resistance
 SKILL_20150717_004830	Increases your Dark property resistance by 5 per attribute level when [Sacrament] is active.
 SKILL_20150717_004831	Increases the duration of [Revive] by 7 seconds per attribute level. 
-SKILL_20150717_004832	Enemies hit by [Effigy] can be affected by [Darkness] with a 5% chance for 5 seconds per attribute level.
+SKILL_20150717_004832	Enemies hit by [Effigy] can become afflicted with [Blind] at a 5% chance per attribute level for 5 seconds.
 SKILL_20150717_004833	Increases the range of [Samediveve] to 110.
 SKILL_20150717_004834	Increases the range of [Ogouveve] to 110. 
 SKILL_20150717_004835	Decreases the cooldown of [Carve Vakarine] by 10 seconds.
@@ -5040,7 +5040,7 @@ SKILL_20150804_005039	Increases the reflection of [Iron Skin] by 5% per attribut
 SKILL_20150807_005040	While [Aggressor] is active, the character's added critical attack is proportional to the physical attack. Increases an addtional amount by 5% per attribute level.
 SKILL_20150918_005041	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Attack an enemy by throwing your shield. Your shield drops on the targeted area, and your physical defense decreases based on the value of the equipment. The shield may be picked up or it'll automatically return to your inventory after a certain time. The decreased physical defense will return back to normal once your shield is back in the inventory.
 SKILL_20150918_005042	Umbo Thrust
-SKILL_20150918_005043	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use the spike on the shield to strike an enemy. You may temporarily lose a small effect of your armor.
+SKILL_20150918_005043	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Heavily strike enemies using the spikes on your shield. Enemies struck by the skill may temporarily lose the effects from their armors.
 SKILL_20150918_005044	Skyliner
 SKILL_20150918_005045	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Slash the enemy sideways.{nl}Inflicts additional damage on enemies affected by [Bleeding].
 SKILL_20150918_005046	Crosscut
@@ -5630,7 +5630,7 @@ SKILL_20151102_005629	Joint Penalty: Earth
 SKILL_20151102_005630	Deals 10% additional damage per attribute level of the Earth property attack to enemies affected by [Joint Penalty].
 SKILL_20151102_005631	Joint Penalty: Increased Nullification
 SKILL_20151102_005632	Decreases the chance to nullify attacks from enemies affected by [Joint Penalty] by 5% per attribute level.
-SKILL_20151102_005633	Warlock: Darkness Attack
+SKILL_20151102_005633	Warlock: Dark Attack
 SKILL_20151102_005634	Increases the damage of a Dark property attack dealt on an enemy by 1% per attribute level.
 SKILL_20151102_005635	Pole of Agony: Enhance
 SKILL_20151102_005636	Increases the damage dealt on an enemy with [Pole of Agony] by 1% per attribute level.
@@ -5638,13 +5638,13 @@ SKILL_20151102_005637	Pole of Agony: Duration
 SKILL_20151102_005638	Increases the remaining effect time of [Pole of Agony] on an enemy by 0.8 seconds per attribute level.
 SKILL_20151102_005639	Invocation: Enhance
 SKILL_20151102_005640	Increases the damage dealt on an enemy with [Invocation] by 1% per attribute level.
-SKILL_20151102_005641	Increases the Darkness property attack by 5% per attribute level of allies who are nearby the created evil spirit of [Invocation]. The owner of who casted the evil spirit receives double the effect.
+SKILL_20151102_005641	Increases the Dark property attack by 5% per attribute level of allies who are nearby the created evil spirit of [Invocation]. The owner of who casted the evil spirit receives double the effect.
 SKILL_20151102_005642	Dark Theurge: Create Evil Spirit
 SKILL_20151102_005643	Creates an evil spirit with [Dark Theurge] at a 0.4% chance per attribute level to the enemy's position.
 SKILL_20151102_005644	Dark Theurge: Enhance
 SKILL_20151102_005645	Increases the damage dealt on an enemy with [Dark Theurge] by 1% per attribute level.
-SKILL_20151102_005646	Dark Theurge: Darkness
-SKILL_20151102_005647	Enemies hit by [Dark Theurge] have a 1% chance per attribute level to be afflicted with [Darkness] for 10 seconds.
+SKILL_20151102_005646	Dark Theurge: Blind
+SKILL_20151102_005647	Enemies hit by [Dark Theurge] have a 1% chance per attribute level to be afflicted with [Blind] for 10 seconds.
 SKILL_20151102_005648	Mastema: Enhance
 SKILL_20151102_005649	Increases the damage dealt on an enemy with [Mastema] by 1% per attribute level.
 SKILL_20151102_005650	Mastema: Reduced Threat
@@ -6102,7 +6102,7 @@ SKILL_20151224_006101	Increases the chance to instantly kill a small-type enemy 
 SKILL_20151224_006102	Increases Fire property resistance by 14 per attribute level when [Aukuras] is active.
 SKILL_20151224_006103	Increases your magic amplification by 12 per attribute level when [Zalciai] is active.
 SKILL_20151224_006104	Increases your ally's evasion by 2% per attribute level when [Monstrance] is active.
-SKILL_20151224_006105	Inflicts [Dark] on enemies hit by [Effigy] for 5 seconds at a chance of 5% per attribute level.
+SKILL_20151224_006105	Enemies hit by [Effigy] have a 5% chance per attribute level to become afflicted with [Blind] for 5 seconds.
 SKILL_20151224_006106	Increases the zombie's physical defense by 8 per attribute level when using [Bwa Kayiman].
 SKILL_20151224_006107	Increases the body's evasion by 10% per attribute level when [Out of Body] is active.
 SKILL_20151224_006108	Deals damage equal to 20% magic attack per attribute level to enemies hit with [Barrier].
@@ -6323,10 +6323,10 @@ SKILL_20160224_006322	Increases the duration of [Exorcise]'s magic circle by 1 s
 SKILL_20160224_006323	Class Rank 5 required
 SKILL_20160224_006324	Rune Caster 1st Circle required
 SKILL_20160224_006325	Wizard 1st Circle required
-SKILL_20160310_006326	Attack #{SkillAtkAdd}#{nl}Attribute Damage #{CaptionTime}#%{nl}Targets #{CaptionRatio}#{nl}Consumes #{CaptionRatio2}#% SP per second
-SKILL_20160310_006327	Attack #{SkillAtkAdd}#{nl}Attribute Damage #{CaptionRatio2}#%{nl}Targets #{CaptionRatio}#{nl}Consumes 2% SP per second{nl}Maximum Duration: 10 seconds
+SKILL_20160310_006326	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionTime}#%{nl}Targets: #{CaptionRatio}#{nl}Consumes #{CaptionRatio2}#% SP per second
+SKILL_20160310_006327	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio2}#%{nl}Targets: #{CaptionRatio}#{nl}Consumes 2% SP per second{nl}Maximum Duration: 10 seconds
 SKILL_20160310_006328	Set up an upright shield to protect yourself from enemy attacks. Enemies without a target will attack the pavise instead.
-SKILL_20160310_006329	Attack #{SkillAtkAdd}#{nl}Blocks attacks #{CaptionRatio}#{nl}Pavise Duration: #{CaptionTime}# seconds
+SKILL_20160310_006329	Attack: #{SkillAtkAdd}#{nl}Blocks: #{CaptionRatio}#{nl}Pavise Duration: #{CaptionTime}# seconds
 SKILL_20160310_006330	Additional Enemy Level: #{CaptionRatio}#{nl}Duration: #{CaptionRatio2}# seconds
 SKILL_20160310_006331	Restrained in the air.
 SKILL_20160310_006332	Swash Buckling: Repel
