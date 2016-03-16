@@ -2049,7 +2049,7 @@ UI_20151224_002048	{@st42}%s Benefits{/}
 UI_20151224_002049	Benefits
 UI_20160224_002050	Team Storage
 UI_20160224_002051	{@st59}Close{/}
-UI_20160224_002052	You can store tradable items but at the cost of 1 Potential.{nl}Taking out an item from Team Storage will deduct your trading{nl}count by 1 regardless of the number of items you take out.
+UI_20160224_002052	You can store tradable items but at the cost of 1 Potential.{nl}Taking out an item from Team Storage will deduct your{nl}remaining trades by 1 regardless of the number of items you take out.
 UI_20160224_002053	Receive Item
 UI_20160224_002054	General : /s (chat){nl}Shout : /y (chat){nl}Party : /p (chat){nl}Whisper : /w Team Name (chat){nl}Reply : /r (chat){nl} {nl}Able to switch with the Tab key
 UI_20160224_002055	{@59}Close{/}
@@ -2087,10 +2087,10 @@ UI_20160224_002086	{@st41b}Magic Scroll{/}
 UI_20160224_002087	{@st59}Close{/}
 UI_20160224_002088	{@st66b}Consumes 1 Magic Scroll{/}
 UI_20160224_002089	{@st42b}Current Scrolls  : %s{/}
-UI_20160224_002090	{@st66b}Requests{/}
+UI_20160224_002090	{@st66b}Missions{/}
 UI_20160224_002091	{@st66b}Saalus Convent{/}
 UI_20160224_002092	{@st66b}Earth Tower{/}
-UI_20160224_002093	{@st59b}Instanced Dungeons{nl}{@st59s}Content where your group has to achieve certain objectives in independent instanced zones.{nl}You can either create a party before entering or automatically search for a party to challenge a dungeon.{nl} - Dungeon : Enter by talking to the dungeon entrance NPC in each respective level zone.{nl} - Mission Requests : Enter by talking to the Mercenary Post Receptionists in Fedimian.{nl} - Saalus Convent Mission : Enter by talking to Sister Lhasa at Saalus Convent.{nl}{/}
+UI_20160224_002093	{@st59b}Instanced Dungeons{nl}{@st59s}Content where your group has to achieve certain objectives in independent instanced zones.{nl}You can either create a party before entering or automatically search for a party to challenge a dungeon.{nl} - Dungeons : Enter by talking to the dungeon entrance NPC in each respective level zone.{nl} - Missions : Enter by talking to the Mercenary Post Receptionists in Fedimian.{nl} - Saalus Convent Mission : Enter by talking to Sister Lhasa at Saalus Convent.{nl}{/}
 UI_20160224_002094	{@st59}Close{/}
 UI_20160224_002095	{@st59}Show/Do not show{/}
 UI_20160224_002096	{@st45tw2}Queuing Time{/}
@@ -2132,9 +2132,9 @@ UI_20160224_002131	Defeats : %s
 UI_20160224_002132	Damage : %s
 UI_20160224_002133	Increased maximum buff count
 UI_20160310_002134	{@st65}Damage: %s{/}
-UI_20160310_002135	{@st65}{s12}Achieved{/}
-UI_20160310_002136	{#16120e}Achieved{/}
+UI_20160310_002135	{@st65}{s12}Achievement{/}
+UI_20160310_002136	{#16120e}Achievement{/}
 UI_20160310_002137	Count: %s
 UI_20160310_002138	Damage: %s
-UI_20160310_002139	{@sti9}Hunt Ranking
+UI_20160310_002139	{@sti9}Kill Ranking
 UI_20160310_002140	{@sti9}Damage Ranking
