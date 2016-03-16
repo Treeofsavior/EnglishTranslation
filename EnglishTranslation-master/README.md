@@ -1,4 +1,4 @@
-##NOTICE (Updated 20-10-2015)
+##NOTICE (Updated 10-03-2016)
 <br>
 **GUIDELINES IN WIKI HAVE BEEN UPDATED** <br>
 **PLEASE CHECK THE [GUIDELINES](https://github.com/Treeofsavior/EnglishTranslation/wiki/Guidelines) BEFORE SENDING YOUR PULL REQUESTS.**
@@ -7,9 +7,9 @@ You may check the list of those who qualify for the Beta Keys [**HERE**](https:/
 
 Thank you and please continue to send us your support and interest for Tree of Savior.
 
-1. Latest translations have been updated for 2nd iCBT. (**NEW**)
+1. New files have been updated based on Steam Test Server. (**NEW**)
 
-2. {memo X} have been updated to English files. (**NEW**)
+2. {memo X} have been removed to all files.
 
 3. Please send a separate Pull Request for EACH FILE. 
 
