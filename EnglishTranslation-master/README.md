@@ -19,6 +19,8 @@ We are proud to announce some plans we have planned to show our gratitude to our
 Thank you all for the love and enthusiasm you have shown Tree of Savior. We would not have been able to bring it to you so soon without all the dedication the contributors showed us, so please give them your thanks if you happen to see them in game.
 
 IMC Staff
+
+UPDATE : If you believe that you've met the requirements, please contact us by MAR 20th in order for us to check and provide benefits.
 ##NOTICE (Updated 10-03-2016)
 <br>
 **GUIDELINES IN WIKI HAVE BEEN UPDATED** <br>
