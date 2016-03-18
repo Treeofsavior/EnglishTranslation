@@ -1,4 +1,4 @@
-##NOTICE (Updated 16-03-2016)
+##NOTICE (Updated 18-03-2016)
 <br>
 **Announcing Contributor Benefits** <br>
 
@@ -8,13 +8,20 @@ We are proud to announce some plans we have planned to show our gratitude to our
 -Contributors that translate/proofread over 1 thousand lines per month will be rewarded Contributor Appreciation Items.
 -Contributors that report critical abuse/bugs or provide high quality translation even though they do not reach the 1 thousand line cutline may also be rewarded Contributor Appreciation Items after internal evaluation.
 
-2. Contributor Appreciation Items (Subject to change after June)
+2. Contributor Appreciation Items (Pre-launch)
 -Free Pass (May access the server without purchasing DLC)
 -600 TP
 -2 Hair Accessories (Popolion/Hanaming Dolls)
 -In-game Title : Contributor
 
-3. Distribution Dates : Items will be distributed during the first maintenance each month. 
+3. Post launch details
+-Contributors that translate/proofread over 5 hundred lines.
+-High quality translation or critical reports pending internal evaluation.
+-The requirements must be met within a 30 day period.
+-300 TP
+-In-game Title : Contributor
+
+4. Distribution Dates : Items will be distributed during the first maintenance each month. 
 
 Thank you all for the love and enthusiasm you have shown Tree of Savior. We would not have been able to bring it to you so soon without all the dedication the contributors showed us, so please give them your thanks if you happen to see them in game.
 
