@@ -1312,7 +1312,7 @@ SKILL_20150317_001311	Stone Picking
 SKILL_20150317_001312	Pick up stone projectiles found on the field. Cannot be obtained in town.
 SKILL_20150317_001313	Obtainable Stone Bullets: #{SkillFactor}#
 SKILL_20150317_001314	Stone Shot
-SKILL_20150317_001315	{#DD5500}{ol}[Physical] [Strike]{/}{/}{nl}Fire stone bullet and push away enemy. The target has a chance to be stunned.
+SKILL_20150317_001315	{#DD5500}{ol}[Physical] [Strike]{/}{/}{nl}Fire stone bullet and push away enemy. The target has a chance to become afflicted with [Stun].
 SKILL_20150317_001316	Attack #{SkillAtkAdd}#{nl}{#339999}{ol}[Stun]{/}{/} Duration #{CaptionRatio2}# seconds{nl}Use 1 stone bullet
 SKILL_20150317_001317	Rapid Fire
 SKILL_20150317_001318	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl} Load multiple arrows into your crossbow and then quickly shoot them at the enemy.
@@ -2070,7 +2070,7 @@ SKILL_20150317_002069	Increases the maximum HP of your character by 5% per attri
 SKILL_20150317_002070	Swash Buckling: Range
 SKILL_20150317_002071	Increases the provocation range of [Swash Buckling] by 0.2m per level.
 SKILL_20150317_002072	Umbo Blow: Stun
-SKILL_20150317_002073	Enemies hit by [Umbo Blow] have a 5% chance per attribute level to become stunned.
+SKILL_20150317_002073	Enemies hit by [Umbo Blow] have a 5% chance per attribute level to become afflicted with [Stun].
 SKILL_20150317_002074	Shield Lob: Splash
 SKILL_20150317_002075	Increases the splash from [Shield Lob] by 1 per attribute level.
 SKILL_20150317_002076	Shield Mastery
@@ -2399,7 +2399,7 @@ SKILL_20150317_002398	Bewitch: Maintaining Poison
 SKILL_20150317_002399	Enemies inflicted with [Confusion] by [Bewitch] will not be cured of [Poison] at a 5% chance per attribute level.
 SKILL_20150317_002400	Wugong Gu: Host duration
 SKILL_20150317_002401	Host state of the skill [Wugong Gu] increase by 2 seconds per attribute level.
-SKILL_20150317_002402	Throw Gu Pot: Poison Remaining
+SKILL_20150317_002402	Throw Gu Pot: Residual Poison
 SKILL_20150317_002403	[Poison] is maintained for 2 seconds per attribute level even when enemy leaves range of [Throw Gu Pot].
 SKILL_20150317_002404	Jincan Gu: Duration
 SKILL_20150317_002405	Duration of venom insect summoned by [Jincan Gu] increases by 2 seconds per level.
@@ -3567,7 +3567,7 @@ SKILL_20150406_003566	Collect the corpse fragments left where the monster died.
 SKILL_20150406_003567	Heavy Shot
 SKILL_20150406_003568	Twin Arrow
 SKILL_20150406_003569	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Hang bomb on arrow and fire.
-SKILL_20150406_003570	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Fires a stone-bullet that knocks back the target. The target has a chance to be stunned.
+SKILL_20150406_003570	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Fires a stone-bullet that knocks back the target. The target has a chance to become afflicted with [Stun].
 SKILL_20150406_003571	Teardown
 SKILL_20150406_003572	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Destroy obstacles that block the way and damage enemies in front.
 SKILL_20150406_003573	Running Shot
@@ -4433,7 +4433,7 @@ SKILL_20150714_004432	Enemies frozen by a Cryomancer will receive 10% additional
 SKILL_20150714_004433	Increases the damage dealt on an enemy with [Telekinesis] by 1% per attribute level.
 SKILL_20150714_004434	Increases the damage dealt on an enemy with [Psychic Pressure] by 1% per attribute level.
 SKILL_20150714_004435	Increases the damage dealt on an enemy with [Magnetic Force] by 1% per attribute level.
-SKILL_20150714_004436	Enemies hit by [Psychic Pressure] have a 10% chance per attribute level to become stunned for 1 second.
+SKILL_20150714_004436	Enemies hit by [Psychic Pressure] have a 10% chance per attribute level to become afflicted with [Stun]. for 1 second.
 SKILL_20150714_004437	Increases evasion by 10% per attribute level when using [Gravity Pole].
 SKILL_20150714_004438	The enemy that was shot by [Magnetic Force] will fall into [Stun] status for 1 sec with the probability of 5%.
 SKILL_20150714_004439	Decreases the physical defense by 5% per attribute level on enemies that are pulled by [Gravity Pole].
@@ -4682,7 +4682,7 @@ SKILL_20150714_004681	Increases the damage dealt on an enemy with [Energy Blast]
 SKILL_20150714_004682	Increases the damage dealt on an enemy with [Finger Flicking] by 1% per attribute level.
 SKILL_20150714_004683	Adds 20% of the character's physical attack of the reflected damage from [Iron Skin] per attribute level. 
 SKILL_20150714_004684	Enemies hit by [Palm Strike] will be affected by the [Bleeding] status for 8 seconds. The duration of [Bleeding] increases by 1 per attribute level.
-SKILL_20150714_004685	Enemies hit by [Hand Knife] will be afflicted with [Armor Break] with a certain chance. Increases the chance by 5% per attribute level.
+SKILL_20150714_004685	Enemies hit by [Hand Knife] will be afflicted with [Armor Break] by a certain chance. Increases the chance by 5% per attribute level.
 SKILL_20150714_004686	Golden Bell Shield: Safety Zone
 SKILL_20150714_004687	The area around the caster will be a safety zone when using [Golden Bell Shield].
 SKILL_20150714_004688	Indulgentia: Enhance
@@ -4742,7 +4742,7 @@ SKILL_20150717_004741	Incurs additional 20 damage per Attribute level whenever a
 SKILL_20150717_004742	Amplifies the physical damage increase effect and the decreased defense effect of [Gung Ho] by 1 per attribute level.
 SKILL_20150717_004743	Increases the AoE Attack Ratio of [Bash] by 1 per attribute level.
 SKILL_20150717_004744	Inflicts [Bleeding] on stunned enemies for 5 seconds with [Thrust]. Bleeding damage is proportional to the character's STR.
-SKILL_20150717_004745	Enemies hit by [Umbo Blow] have a 5% chance per attribute level to become stunned for 3 seconds.
+SKILL_20150717_004745	Enemies hit by [Umbo Blow] have a 5% chance per attribute level to become afflicted with [Stun]. for 3 seconds.
 SKILL_20150717_004746	Increases your AoE attack ratio of [Shield Lob] by 1 per attribute level.
 SKILL_20150717_004747	Increases your physical defense by 10% per attribute level when [Guard] is active.
 SKILL_20150717_004748	Increases the physical defense increase effect of [Cross Guard] by 1 per attribute level.
@@ -4770,7 +4770,7 @@ SKILL_20150717_004769	Attack monster in [sleep] state with [Energy Bolt] to give
 SKILL_20150717_004770	Enemies hit by [Fireball] have a 10% chance per attribute level to receive flame damage  for 5 seconds. Flame damage is based on the character's INT.
 SKILL_20150717_004771	Increases the Fire property damage for 5 seconds by 5 per attribute level, when an ally steps on [Fire Wall].
 SKILL_20150717_004772	When an enemy is near [Enchant Fire] range, the enemy's Fire resistance will decrease by 10% for 5 secs.
-SKILL_20150717_004773	Enemies hit by [Magnetic Force] have a 5% chance per attribute level to become stunned for 4 seconds.
+SKILL_20150717_004773	Enemies hit by [Magnetic Force] have a 5% chance per attribute level to become afflicted with [Stun]. for 4 seconds.
 SKILL_20150717_004774	Enemies hit by [Hangman's Knot] will receive additional damage equal to 20% magic attack per attribute level.
 SKILL_20150717_004775	Hangman's Knot: Splash Defense
 SKILL_20150717_004776	Decreases the AoE defense ratio of the enemies gathered through [Hangman's Knot] by 1.
@@ -4814,9 +4814,9 @@ SKILL_20150717_004813	Enemies within the range of [Scan] have a chance to be aff
 SKILL_20150717_004814	Enemies within the range of [Lachrymator] will receive damage equal to [attribute level] every 2 seconds. Increases the damage per attribute level.
 SKILL_20150717_004815	Inflicts the enemy with [Massive Bleeding] for 10 seconds when attacked with [Backstab] while affected by bleeding. Increases the duration by 1 second per attribute level. Massive Bleeding damage is proportional to the character's STR and physical attack.
 SKILL_20150717_004816	Increases the range of [Lachrymator] to 75.
-SKILL_20150717_004817	Decreases the enemy's physical defense by 1% per attribute level when you attack with [Bodkin Point].
+SKILL_20150717_004817	Decreases an enemy's physical defense by 1% per attribute level when you attack with [Bodkin Point].
 SKILL_20150717_004818	[Crossfire] gets a 10% chance per level of inflicting [Burn] on targets for 6 seconds. Burn damage is proportional to the character's physical attack.
-SKILL_20150717_004819	Enemies hit by [Magic Arrow] will be afflicted with [Silence] by a certain chance. Increases the chance by 10% per attribute level.
+SKILL_20150717_004819	Enemies hit by the flames [Magic Arrow] will be afflicted with [Silence] by a certain chance. Increases the chance by 10% per attribute level.
 SKILL_20150717_004820	Allows you to create arrows used for Fletcher skills. Arrow Crafting is available while in Rest Mode.
 SKILL_20150717_004821	Defense decrease effect of [Deprotected Zone] increases by 1 per attribute level.
 SKILL_20150717_004822	Increases the chance of stun by 2% per attribute level when using a basic attack on enemies with a [Blunt] weapon type.
@@ -4931,7 +4931,7 @@ SKILL_20150729_004930	50% chance to inflict {#339999}{ol}[Freeze]{/}{/} on enemi
 SKILL_20150729_004931	Targets: #{CaptionRatio}#{nl}Consumes 3% SP per second {nl}Maximum Duration: 5 seconds
 SKILL_20150729_004932	Uses the highest abilities between you and allies linked by Spiritual Chain.
 SKILL_20150729_004933	Shrink the size of your target.
-SKILL_20150729_004934	Enlarge the size of your target. Doubles the target's maximum HP, EXP and drop rate.
+SKILL_20150729_004934	Enlarge the size of your target. Increases the target's HP and maximum HP by its maximum HP. Doubles EXP gained and loot dropped.
 SKILL_20150729_004935	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Duration: 10 seconds
 SKILL_20150729_004936	Duration: #{CaptionTime}# seconds{nl}Chance of doubling the duration: #{CaptionRatio}#%{nl}Movement Speed: -10%{nl}Additional {#DD5500}{ol}Lightning{/}{/}Property Damage: +35%{nl}Attack on {#DD5500}{ol}Fire{/}{/}Property Targets: #{SkillAtkAdd}#
 SKILL_20150729_004937	Salamion Duration: #{CaptionTime}# seconds{nl}Salamion Level: #{CaptionRatio2}#{nl}Salamion Additional Damage: +#{CaptionRatio}#
@@ -5050,9 +5050,9 @@ SKILL_20150918_005049	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Decreases the d
 SKILL_20150918_005050	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Attack an enemy by throwing your spear. Your spear will stick into the ground where it was thrown, and your physical attack will be decreased based on the equipment's upgrade count until you pick it up. It automatically returns to you after a certain time.
 SKILL_20150918_005051	Attack per Stack: +#{CaptionRatio}#{nl}Maximum Stacks: #{CaptionRatio2}#{nl}Duration: #{CaptionTime}# seconds
 SKILL_20150918_005052	Helm Chopper
-SKILL_20150918_005053	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Strike the enemy's head, causing it to be stunned.
+SKILL_20150918_005053	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Strike the enemy's head, causing it to become afflicted with [Stun].
 SKILL_20150918_005054	Seism
-SKILL_20150918_005055	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Create an earthshake to stop enemies from attacking. The enemy has a chance to be stunned.
+SKILL_20150918_005055	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Create an earthshake to stop enemies from attacking. The enemy has a chance to become afflicted with [Stun].
 SKILL_20150918_005056	Cleave
 SKILL_20150918_005057	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Use centrifugal force and continuously attack enemies by turning body. Make an additional damage to the enemy stunned.
 SKILL_20150918_005058	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Use your shield and sword to successively attack enemies.
@@ -5131,7 +5131,7 @@ SKILL_20150918_005130	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRati
 SKILL_20150918_005131	Carve Statue Duration: #{CaptionRatio}# seconds{nl}Consumes 1 Ash Wood
 SKILL_20150918_005132	{#339999}{ol}[Goddess' Blessing]{/}{/} Duration: #{CaptionRatio}# seconds{nl}Goddess Statue Duration: 30 seconds{nl}Consumes 1 Cedar Wood
 SKILL_20150918_005133	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Up to 5 users{nl}Maximum Duration: 10 seconds
-SKILL_20150918_005134	Pushes enemies away and creates a barrier of protection which doesn't allow others to enter for some time. Increases the magic defense of allies who are inside the barrier.
+SKILL_20150918_005134	Push enemies away and create a barrier of protection which doesn't allow others to enter for some time. Increases the magic defense of allies who are inside the barrier.
 SKILL_20150918_005135	Magic Defense: +#{CaptionRatio}#{nl}Duration: #{CaptionTime}# seconds
 SKILL_20150918_005136	Conviction
 SKILL_20150918_005137	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Attacks an enemy as an attack for the betrayer. Resistance to Fire, Ice, Lightning, Poison of the enemy that received the attack will decrease.
@@ -5422,7 +5422,7 @@ SKILL_20151022_005421	You can pay tax through the Master. A quick way to become 
 SKILL_20151022_005422	Increases your physical defense by 10% per attribute level when [Guard] is active.
 SKILL_20151022_005423	Sequentially fling up to 3 enemies with [Iron Hook]. You cannot use [Keel Hauling] while capturing multiple enemies. (Unable to turn ON/OFF during [Guard])
 SKILL_20151022_005424	Jolly Roger: Unity
-SKILL_20151022_005425	Nullifies an enemy's attack with a certain chance when [Jolly Roger] is active. Applies the chance by 0.5% per attribute level and increases the chance depending on the amount of pirate members. (However, it does not apply if nobody other than you is a pirate member)
+SKILL_20151022_005425	Nullifies an enemy's attack by a certain chance when [Jolly Roger] is active. Applies the chance by 0.5% per attribute level and increases the chance depending on the amount of pirate members. (However, it does not apply if nobody other than you is a pirate member)
 SKILL_20151022_005426	Obtain Chest Item
 SKILL_20151022_005427	Increases your movement speed by 4 for 7 seconds per attribute level when opening a treasure chest.
 SKILL_20151022_005428	Rapier Mastery: Aggression
@@ -5527,19 +5527,19 @@ SKILL_20151102_005526	{#DD5500}{ol}[Missile]{/}{/}{nl}Fires an arrow with a bomb
 SKILL_20151102_005527	{#DD5500}{ol}[Missile]{/}{/}{nl}Fires an arrow that splits upon hitting a target to hit other adjacent enemies.
 SKILL_20151102_005528	{#DD5500}{ol}[Missile]{/}{/}{nl}Fires a spiraling arrow that deals multiple hits to a target.
 SKILL_20151102_005529	{#DD5500}{ol}[Missile]{/}{/}{nl}Jump backwards while firing multiple arrows forward.
-SKILL_20151102_005530	{#DD5500}{ol}[Missile]{/}{/}{nl}Fires a stone bullet to push an enemy away. The target has a chance to be stunned.
+SKILL_20151102_005530	{#DD5500}{ol}[Missile]{/}{/}{nl}Fires a stone bullet to push an enemy away. The target has a chance to become afflicted with [Stun].
 SKILL_20151102_005531	{#DD5500}{ol}[Missile]{/}{/}{nl}Load multiple arrows into your crossbow and then fire them in quick succession at an enemy.
 SKILL_20151102_005532	{#DD5500}{ol}[Missile] - [Poison]{/}{/}{nl}Blows a toxic arrow that inflicts damage over a long period of time.
-SKILL_20151102_005533	{#DD5500}{ol}[Missile] - [Poison]{/}{/}{nl}Fires a contagious poison arrow. Poisoned target spreads poison around to nearby enemies whenever it is attacked.
+SKILL_20151102_005533	{#DD5500}{ol}[Missile] - [Poison]{/}{/}{nl}Fires a contagious poison arrow. The poisoned target spreads poison around to nearby enemies whenever it is attacked.
 SKILL_20151102_005534	{#DD5500}{ol}[Missile]{/}{/}{nl}Fires a musical arrow to a target. Enemies nearby the target will be afflicted with [Fear].
 SKILL_20151102_005535	{#DD5500}{ol}[Missile]{/}{/}{nl}Fires a flare on the ground at a targeted area. Upon hitting the ground, the flare bursts into sparks that damages nearby enemies.
 SKILL_20151102_005536	{#DD5500}{ol}[Missile]{/}{/}{nl}Fires an arrow that, upon hitting a target, bounces to hit two nearby enemies.
 SKILL_20151102_005537	{#DD5500}{ol}[Missile]{/}{/}{nl}If the target dies from this attack, it explodes. Party members gain STR for a period of time.
-SKILL_20151102_005538	{#DD5500}{ol}[Missile]{/}{/}{nl}Fires a wide broadhead arrow. Inflicts bleeding on the enemy hit.
+SKILL_20151102_005538	{#DD5500}{ol}[Missile]{/}{/}{nl}Fires a wide broadhead arrow. Inflicts [Bleeding] on the enemy hit.
 SKILL_20151102_005539	{#DD5500}{ol}[Missile]{/}{/}{nl}Fires a high-penetration bodkin arrow at an enemy. Lowers the defense of struck enemies and nullifies any protective magic.
-SKILL_20151102_005540	{#DD5500}{ol}[Missile]{/}{/}{nl}Fires a barbed arrow. Deals a number of hits dependent on enemy defense type.
+SKILL_20151102_005540	{#DD5500}{ol}[Missile]{/}{/}{nl}Fires a barbed arrowhead. Deals a number of hits depending on an enemy's defense type.
 SKILL_20151102_005541	{#DD5500}{ol}[Missile]{/}{/}{nl}Fires an arrow that, upon hitting an enemy, creates a cross-shaped explosion.
-SKILL_20151102_005542	{#DD5500}{ol}[Missile]{/}{/}{nl}Flame fumes from area shot with arrow and attacks enemies.
+SKILL_20151102_005542	{#DD5500}{ol}[Missile]{/}{/}{nl}Fires an arrow, igniting flames that inflict damage over time on enemies entering the targeted area.
 SKILL_20151102_005543	{#DD5500}{ol}[Missile]{/}{/}{nl}Fires an arrow with explosives attached. Upon hitting its target, the arrow will explode after an amount of time and cause collateral damage.
 SKILL_20151102_005544	{#DD5500}{ol}[Missile]{/}{/}{nl}Fires multiple bullets in rapid succession at an enemy.
 SKILL_20151102_005545	{#DD5500}{ol}[Missile]{/}{/}{nl}Shoot forward while pushing yourself back with recoil.
@@ -5696,7 +5696,7 @@ SKILL_20151102_005695	Increases the damage dealt on an enemy with [Butt Stroke] 
 SKILL_20151102_005696	Bayonet Thrust: Enhance
 SKILL_20151102_005697	Increases the damage dealt on an enemy with [Bayonet Thrust] by 1% per attribute level.
 SKILL_20151102_005698	Butt Stroke: Stun
-SKILL_20151102_005699	Enemies hit by [Butt Stroke] have a 1.5% chance per attribute level to become stunned for 3 seconds.
+SKILL_20151102_005699	Enemies hit by [Butt Stroke] have a 1.5% chance per attribute level to become afflicted with [Stun]. for 3 seconds.
 SKILL_20151102_005700	Inflicts stun at a 2% chance per attribute level when performing a basic attack on an enemy with a [Blunt] type weapon.
 SKILL_20151102_005701	Enemies receive holy damage equal to [attribute level] within the range of [Arcane Energy].
 SKILL_20151102_005702	Healing Factor: Attack
@@ -5846,7 +5846,7 @@ SKILL_20151224_005845	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}The companion 
 SKILL_20151224_005846	Detects hidden enemies #{CaptionRatio}# times{nl}Hounding AI Duration: 90 seconds
 SKILL_20151224_005847	Detoxifies a poisoned ally. If the poison is of a higher rank than the antidote, the duration will be reduced instead.
 SKILL_20151224_005848	{#339999}{ol}[Confusion]{/}{/} Duration: 10 seconds{nl}Applies a maximum of #{CaptionRatio}# times{nl}Consumes #{SpendPoison}# Poison Pots
-SKILL_20151224_005849	{#DD5500}{ol}[Physical] - [Poison]{/}{/}{nl}Create a poison puddle by throwing a pot filled with poison. Any enemies who come into contact with the puddle is poisoned.
+SKILL_20151224_005849	{#DD5500}{ol}[Physical] - [Poison]{/}{/}{nl}Create a poison puddle by throwing a pot filled with poison. Any enemy who come into contact with the puddle is poisoned.
 SKILL_20151224_005850	{#DD5500}{ol}[Physical] - [Poison]{/}{/}{nl}Throw Jincan to attack enemies. Defeated enemies are replaced with a newly born poison insect.
 SKILL_20151224_005851	Block Count: #{CaptionRatio}#{nl}Movement Speed: -#{CaptionRatio2}#
 SKILL_20151224_005852	Maximum Duration: #{CaptionRatio2}# seconds{nl}Consumes #{CaptionRatio}# SP per second
@@ -6313,9 +6313,9 @@ SKILL_20160224_006312	Increases the poison damage dealt on an enemy with [Wugong
 SKILL_20160224_006313	If [Call] is used, the hawk has a 50% chance of fetching small items.
 SKILL_20160224_006314	Headshot: Enhance
 SKILL_20160224_006315	Headshot: Stun
-SKILL_20160224_006316	Enemies hit by [Headshot] have a 2.5% chance per attribute level to become stunned for 3 seconds.
+SKILL_20160224_006316	Enemies hit by [Headshot] have a 2.5% chance per attribute level to become afflicted with [Stun]. for 3 seconds.
 SKILL_20160224_006317	Snipe: Stun
-SKILL_20160224_006318	Enemies hit by [Snipe] have a 3.5% chance per attribute level to become stunned for 3 seconds.
+SKILL_20160224_006318	Enemies hit by [Snipe] have a 3.5% chance per attribute level to become afflicted with [Stun]. for 3 seconds.
 SKILL_20160224_006319	Safety Zone: Block Count
 SKILL_20160224_006320	Increases the block count of [Safety Zone] by 1 per attribute level.
 SKILL_20160224_006321	Exorcise: Duration
