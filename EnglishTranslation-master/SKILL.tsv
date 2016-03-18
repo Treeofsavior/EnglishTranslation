@@ -1312,7 +1312,7 @@ SKILL_20150317_001311	Stone Picking
 SKILL_20150317_001312	Pick up stone projectiles found on the field. Cannot be obtained in town.
 SKILL_20150317_001313	Obtainable Stone Bullets: #{SkillFactor}#
 SKILL_20150317_001314	Stone Shot
-SKILL_20150317_001315	{#DD5500}{ol}[Physical] [Strike]{/}{/}{nl}Fire stone bullet and push away enemy. The target has a chance to be stunned.
+SKILL_20150317_001315	{#DD5500}{ol}[Physical] [Strike]{/}{/}{nl}Fire stone bullet and push away enemy. The target has a chance to become stunned.
 SKILL_20150317_001316	Attack #{SkillAtkAdd}#{nl}{#339999}{ol}[Stun]{/}{/} Duration #{CaptionRatio2}# seconds{nl}Use 1 stone bullet
 SKILL_20150317_001317	Rapid Fire
 SKILL_20150317_001318	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl} Load multiple arrows into your crossbow and then quickly shoot them at the enemy.
@@ -3567,7 +3567,7 @@ SKILL_20150406_003566	Collect the corpse fragments left where the monster died.
 SKILL_20150406_003567	Heavy Shot
 SKILL_20150406_003568	Twin Arrow
 SKILL_20150406_003569	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Hang bomb on arrow and fire.
-SKILL_20150406_003570	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Fires a stone-bullet that knocks back the target. The target has a chance to be stunned.
+SKILL_20150406_003570	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Fires a stone-bullet that knocks back the target. The target has a chance to become stunned.
 SKILL_20150406_003571	Teardown
 SKILL_20150406_003572	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Destroy obstacles that block the way and damage enemies in front.
 SKILL_20150406_003573	Running Shot
@@ -5050,9 +5050,9 @@ SKILL_20150918_005049	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Decreases the d
 SKILL_20150918_005050	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Attack an enemy by throwing your spear. Your spear will stick into the ground where it was thrown, and your physical attack will be decreased based on the equipment's upgrade count until you pick it up. It automatically returns to you after a certain time.
 SKILL_20150918_005051	Attack per Stack: +#{CaptionRatio}#{nl}Maximum Stacks: #{CaptionRatio2}#{nl}Duration: #{CaptionTime}# seconds
 SKILL_20150918_005052	Helm Chopper
-SKILL_20150918_005053	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Strike the enemy's head, causing it to be stunned.
+SKILL_20150918_005053	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Strike the enemy's head, causing it to become stunned.
 SKILL_20150918_005054	Seism
-SKILL_20150918_005055	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Create an earthshake to stop enemies from attacking. The enemy has a chance to be stunned.
+SKILL_20150918_005055	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Create an earthshake to stop enemies from attacking. The enemy has a chance to become stunned.
 SKILL_20150918_005056	Cleave
 SKILL_20150918_005057	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Use centrifugal force and continuously attack enemies by turning body. Make an additional damage to the enemy stunned.
 SKILL_20150918_005058	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Use your shield and sword to successively attack enemies.
@@ -5527,7 +5527,7 @@ SKILL_20151102_005526	{#DD5500}{ol}[Missile]{/}{/}{nl}Fires an arrow with a bomb
 SKILL_20151102_005527	{#DD5500}{ol}[Missile]{/}{/}{nl}Fires an arrow that splits upon hitting a target to hit other adjacent enemies.
 SKILL_20151102_005528	{#DD5500}{ol}[Missile]{/}{/}{nl}Fires a spiraling arrow that deals multiple hits to a target.
 SKILL_20151102_005529	{#DD5500}{ol}[Missile]{/}{/}{nl}Jump backwards while firing multiple arrows forward.
-SKILL_20151102_005530	{#DD5500}{ol}[Missile]{/}{/}{nl}Fires a stone bullet to push an enemy away. The target has a chance to be stunned.
+SKILL_20151102_005530	{#DD5500}{ol}[Missile]{/}{/}{nl}Fires a stone bullet to push an enemy away. The target has a chance to become stunned.
 SKILL_20151102_005531	{#DD5500}{ol}[Missile]{/}{/}{nl}Load multiple arrows into your crossbow and then fire them in quick succession at an enemy.
 SKILL_20151102_005532	{#DD5500}{ol}[Missile] - [Poison]{/}{/}{nl}Blows a toxic arrow that inflicts damage over a long period of time.
 SKILL_20151102_005533	{#DD5500}{ol}[Missile] - [Poison]{/}{/}{nl}Fires a contagious poison arrow. The poisoned target spreads poison around to nearby enemies whenever it is attacked.
