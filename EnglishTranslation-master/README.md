@@ -4,22 +4,22 @@
 
 We are proud to announce some plans we have planned to show our gratitude to our contributors that helped bring the game to all of you. Don't worry if you didn't get a chance to help us out before because you can start contributing now!
 
-1. Contributor Requirements
--Contributors that translate/proofread over 1 thousand lines per month will be rewarded Contributor Appreciation Items.
--Contributors that report critical abuse/bugs or provide high quality translation even though they do not reach the 1 thousand line cutline may also be rewarded Contributor Appreciation Items after internal evaluation.
+1. Contributor Requirements<br>
+ -Contributors that translate/proofread over 1 thousand lines per month will be rewarded Contributor Appreciation Items.<br>
+ -Contributors that report critical abuse/bugs or provide high quality translation even though they do not reach the 1 thousand line cutline may also be rewarded Contributor Appreciation Items after internal evaluation.
 
-2. Contributor Appreciation Items (Pre-launch)
--Free Pass (May access the server without purchasing DLC)
--600 TP
--2 Hair Accessories (Popolion/Hanaming Dolls)
--In-game Title : Contributor
+2. Contributor Appreciation Items (Pre-launch)<br>
+ -Free Pass (May access the server without purchasing DLC)<br>
+ -600 TP<br>
+ -2 Hair Accessories (Popolion/Hanaming Dolls)<br>
+ -In-game Title : Contributor<br>
 
-3. Post launch details
--Contributors that translate/proofread over 5 hundred lines.
--High quality translation or critical reports pending internal evaluation.
--The requirements must be met within a 30 day period.
--300 TP
--In-game Title : Contributor
+3. Post launch details<br>
+ -Contributors that translate/proofread over 5 hundred lines.<br>
+ -High quality translation or critical reports pending internal evaluation.<br>
+ -The requirements must be met within a 30 day period.<br>
+ -300 TP<br>
+ -In-game Title : Contributor<br>
 
 4. Distribution Dates : Items will be distributed during the first maintenance each month. 
 
