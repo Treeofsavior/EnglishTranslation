@@ -6024,7 +6024,7 @@ SKILL_20151224_006023	Increases the damage dealt on an enemy with [Shield Shovin
 SKILL_20151224_006024	Shield Bash: Enhance
 SKILL_20151224_006025	Increases the damage dealt on an enemy with [Shield Bash] by 1% per attribute level.
 SKILL_20151224_006026	Slithering: Additional Damage
-SKILL_20151224_006027	Enemies hit by [Slithering] become vulnerable to Strike attacks for 10 seconds. Increases additional damage by 20% per attribute level.
+SKILL_20151224_006027	Enemies hit by [Slithering] become vulnerable to [Strike] attacks for 10 seconds. Increases additional damage by 20% per attribute level.
 SKILL_20151224_006028	Targe Smash: Remove Knockback
 SKILL_20151224_006029	[Targe Smash] no longer knocks enemies back.
 SKILL_20151224_006030	Increases your block penetration by 10% per attribute level when equipped with a [Two-handed Spear].
@@ -6034,7 +6034,7 @@ SKILL_20151224_006033	Increases the duration of Soup of [Refreshment Table] by 1
 SKILL_20151224_006034	Increases the duration of Yogurt of [Refreshment Table] by 1 minute per attribute level.
 SKILL_20151224_006035	Pistol Shot: Enhance
 SKILL_20151224_006036	Increases the damage dealt on an enemy with [Pistol Shot] by 1% per attribute level.
-SKILL_20151224_006037	Decreases damage taken to x2 from x3 when [Double Pay Earn] is active.
+SKILL_20151224_006037	Decreases damage taken from x3 to x2 while [Double Pay Earn] is active.
 SKILL_20151224_006038	Zonhau: Enhance
 SKILL_20151224_006039	Increases the damage dealt on an enemy with [Zonhau] by 1% per attribute level.
 SKILL_20151224_006040	Redel: Enhance
@@ -6043,26 +6043,26 @@ SKILL_20151224_006042	Zucken: Enhance
 SKILL_20151224_006043	Increases the damage dealt on an enemy with [Zucken] by 1% per attribute level.
 SKILL_20151224_006044	Cyclone: Resistance
 SKILL_20151224_006045	Increases the chance to block harmful effects by 15% per attribute level during [Cyclone].
-SKILL_20151224_006046	Increases the STA cost cycle duration by 0.05 seconds per attribute level while [Bunshin no Jutsu] is active.
+SKILL_20151224_006046	Increases the STA reduction cycle by 0.05 seconds per attribute level while [Bunshin no Jutsu] is active.
 SKILL_20151224_006047	Decreases damage taken by 4% per attribute level when there are at least 2 clones from [Bunshin no Jutsu].
 SKILL_20151224_006048	Serpentine: Enhance
 SKILL_20151224_006049	Increases the damage dealt on an enemy with [Serpentine] by 1% per attribute level.
 SKILL_20151224_006050	Serpentine: Bleeding
-SKILL_20151224_006051	Inflicts [Bleeding] with a 2% chance per attribute level of [Serpentine] for 8 seconds. Bleeding damage is proportional to the character's physical attack.
-SKILL_20151224_006052	Two-handed Spear Mastery: Large Target Hunter
-SKILL_20151224_006053	Increases the damage dealt on large enemies with [Two-handed Spear]. Increases by 4% and 2% per attribute level against large enemies and boss monsters respectively.
+SKILL_20151224_006051	Inflicts [Bleeding] for 8 seconds with a 2% chance per attribute level. Bleeding damage is proportional to the character's physical attack.
+SKILL_20151224_006052	Two-handed Spear Mastery: Big Game Hunter
+SKILL_20151224_006053	Increases the damage dealt on large enemies while using a [Two-handed Spear]. Increases by 4% and 2% per attribute level against large enemies and boss monsters, respectively.
 SKILL_20151224_006054	Enhanced the damage of [Energy Bolt] to Wizard's 2nd Circle standards.
 SKILL_20151224_006055	Enhanced the damage of [Energy Bolt] to Wizard's 3rd Circle standards.
 SKILL_20151224_006056	Enhanced the damage of [Earthquake] to Wizard's 3rd Circle standards.
 SKILL_20151224_006057	Deals additional damage equal to 40% magic attack per attribute level when attacking an enemy under [Sleep] with [Energy Bolt].
-SKILL_20151224_006058	Enemies affected by [Lethargy] receive 20% additional damage per attribute level with Strike attacks.
+SKILL_20151224_006058	Enemies affected by [Lethargy] receive 20% additional damage per attribute level with [Strike] attacks.
 SKILL_20151224_006059	Increases magic damage by 10% per attribute level while [Quick Cast] is active.
-SKILL_20151224_006060	Increases the Fire property attack by 5 per attribute level for 5 seconds when an ally steps on [Fire Wall].
+SKILL_20151224_006060	Increases the Fire property attack of an ally by 5 per attribute level for 5 seconds when they step on [Fire Wall].
 SKILL_20151224_006061	Decreases the Fire property resistance of nearby enemies by 10 per attribute level for 5 seconds when [Enchant Fire] is used.
 SKILL_20151224_006062	[Gust] deals damage even to unfrozen enemies. Attacks unfrozen enemies 2 times and attacks frozen enemies 3 times.
 SKILL_20151224_006063	Increases the freeze duration of [Subzero Shield] by 0.5 seconds per attribute level.
 SKILL_20151224_006064	Decreases the physical defense of enemies by 10% per attribute level that are pulled by [Gravity Pole].
-SKILL_20151224_006065	Decreases the AoE Defense Ratio of the enemies gathered through [Hangman's Knot] by 1.
+SKILL_20151224_006065	Decreases the AoE Defense Ratio of the enemies gathered through [Hangman's Knot] by 1 per attribute level.
 SKILL_20151224_006066	Enemies affected by [Swell Body] will have their movement speed decreased by 15% and physical and magic attack increased by 20% per attribute level.
 SKILL_20151224_006067	Enemies affected by [Shrink Body] will have their movement speed increased by 10% and physical and magic attack decreased by 25% per attribute level.
 SKILL_20151224_006068	When you attack an enemy affected by [Swell Body] while [Left Arm Enhancement] is active, increases the damage dealt on an enemy by 35 per attribute level.
@@ -6071,23 +6071,23 @@ SKILL_20151224_006070	Evocation: Enhance
 SKILL_20151224_006071	Increases the damage dealt on an enemy with [Evocation] by 1% per attribute level.
 SKILL_20151224_006072	Desmodus: Enhance
 SKILL_20151224_006073	Increases the damage dealt on an enemy with [Desmodus] by 1% per attribute level.
-SKILL_20151224_006074	Enemies affected by [Slow] have their critical resistance decreased by 15% equal to by the character (caster) INT.
+SKILL_20151224_006074	Enemies affected by [Slow] have their critical resistance decreased by a value equal to 15% of the caster's INT.
 SKILL_20151224_006075	Enemies provoked after using [Backmasking] will be afflicted with [Confusion] for 6 seconds. If the attribute is Lv2, 8 seconds of [Confusion] will be applied.
-SKILL_20151224_006076	Increases physical and magic attack for 30 minutes to allies that participated in a [Item Awakening] dungeon. Increases attack by 20% per attribute level.
+SKILL_20151224_006076	For 30 minutes, increases the physical and magic attack of allies that participated in a [Item Awakening] dungeon. Increases attack by 20% per attribute level.
 SKILL_20151224_006077	Rune Caster: Skilled Casting
-SKILL_20151224_006078	1% chance per attribute level of receiving the effects of [Quick Cast] after using a Rune Caster skill. The effect is based on the caster's skill level of [Quick Cast].
+SKILL_20151224_006078	1% chance per attribute level of receiving the effects of [Quick Cast] after using a Rune Caster skill. The effects are based on the caster's skill level of [Quick Cast].
 SKILL_20151224_006079	Rune of Ice: Slow
-SKILL_20151224_006080	Decreases movement speed by 50% for 7 seconds at a 5% chance per attribute level when using a basic attack to enemies while [Rune of Ice] is active.
+SKILL_20151224_006080	Decreases the movement speed of enemies by 50% for 7 seconds when using basic attacks while [Rune of Ice] is active at a 5% chance per attribute level.
 SKILL_20151224_006081	Rune of Destruction: Enhance
 SKILL_20151224_006082	Increases the damage dealt on an enemy with [Rune of Destruction] by 1% per attribute level.
 SKILL_20151224_006083	Rune of Giants: HP
-SKILL_20151224_006084	Increases the HP of party members who have changed to a giant with [Rune of Giants], based on the caster's HP by 20% per attribute level.
+SKILL_20151224_006084	Increases the HP of party members who have been made giant with [Rune of Giants], based a portion of the caster's HP by 20% per attribute level.
 SKILL_20151224_006085	Rune of Justice: Enhance
 SKILL_20151224_006086	Increases the damage dealt on an enemy with [Rune of Justice] by 1% per attribute level.
 SKILL_20151224_006087	Rune of Protection: Critical Resistance
 SKILL_20151224_006088	Increases the critical resistance by 20% based on the caster's SPR of [Rune of Protection].
 SKILL_20151224_006089	Deploy Pavise: Bleeding Chance
-SKILL_20151224_006090	Increases the chance to afflict bleeding on an enemy when damage is dealt with [Deploy Pavise] by 1%.
+SKILL_20151224_006090	Increases the chance to afflict [Bleeding] on an enemy when damage is dealt with [Deploy Pavise] by 1%.
 SKILL_20151224_006091	Increases the physical attack of allies within the range of [Perspective Distortion] by 5% per attribute level.
 SKILL_20151224_006092	Sonic Strike: Enhance
 SKILL_20151224_006093	Increases the damage dealt on an enemy with [Sonic Strike] by 1% per attribute level.
