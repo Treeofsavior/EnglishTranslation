@@ -2011,12 +2011,12 @@ SKILL_20150317_002010	Pierce has a higher chance of inflicting critical strikes 
 SKILL_20150317_002011	Cut
 SKILL_20150317_002012	After a successful overkill,the  amount of damage doubles for 10 seconds on one attack.
 SKILL_20150317_002013	Guard
-SKILL_20150317_002014	Increased movement speed when HP is below 15%.
+SKILL_20150317_002014	Movement speed increases when HP is below 15%.
 SKILL_20150317_002015	Two-handed Sword Mastery
 SKILL_20150317_002016	Proficient in using the weapon. Increases your physical attack when equipped with a two-handed sword.
 SKILL_20150317_002017	Apply # {IncrValue1} #% Lv.1 Attack{nl}Apply # {IncrValue1} #% Lv.2 Attack{nl}Apply # {IncrValue1} #% Lv.3 Attack
 SKILL_20150317_002018	Whipping Top
-SKILL_20150317_002019	Increased rotation time of Whirlwind.
+SKILL_20150317_002019	Rotation time of Whirlwind increases.
 SKILL_20150317_002020	Lv.1 Rotation time + # {IncrValue1} # seconds {nl} Lv.2 Rotation time + # {IncrValue1} # seconds
 SKILL_20150317_002021	Nether Web
 SKILL_20150317_002022	Number of attacks Telekinesis can do increases. {nl} (Increase as much as level.)
@@ -2033,11 +2033,11 @@ SKILL_20150317_002032	Strike
 SKILL_20150317_002033	Already knocked back enemy is knocked back again and receives additional damage.
 SKILL_20150317_002034	Nanta
 SKILL_20150317_002035	Reduce Knockback range of monsters when using whirlwind.
-SKILL_20150317_002036	Increased STR. Affects your melee physical attacks.
-SKILL_20150317_002037	Increased DEX. Affects your ranged physical attacks, critical rate and evasion.
-SKILL_20150317_002038	Increased CON. Affects your maximum HP and stamina.
+SKILL_20150317_002036	STR increases for Melee-type attacks.
+SKILL_20150317_002037	Agility is increased. Affects ranged Physical attacks, chance of critical, and evasion.
+SKILL_20150317_002038	Physical strength improves. Max HP increases.
 SKILL_20150317_002039	Increase INT
-SKILL_20150317_002040	Increased INT. Affects your maximum SPR and magic attack.
+SKILL_20150317_002040	Intelligence increases. Increases max SP and magic attack.
 SKILL_20150317_002041	Balance
 SKILL_20150317_002042	Gung Ho's resistance probability increase. {nl} (Increases by 5% per level.)
 SKILL_20150317_002043	Smash
@@ -4433,7 +4433,7 @@ SKILL_20150714_004432	Enemies frozen by a Cryomancer will receive 10% additional
 SKILL_20150714_004433	Increases the damage dealt on an enemy with [Telekinesis] by 1% per attribute level.
 SKILL_20150714_004434	Increases the damage dealt on an enemy with [Psychic Pressure] by 1% per attribute level.
 SKILL_20150714_004435	Increases the damage dealt on an enemy with [Magnetic Force] by 1% per attribute level.
-SKILL_20150714_004436	Enemies hit by [Psychic Pressure] have a 10% chance per attribute level to become afflicted with [Stun] for 1 second.
+SKILL_20150714_004436	Enemies hit by [Psychic Pressure] have a 10% chance per attribute level to become afflicted with [Stun]. for 1 second.
 SKILL_20150714_004437	Increases evasion by 10% per attribute level when using [Gravity Pole].
 SKILL_20150714_004438	The enemy that was shot by [Magnetic Force] will fall into [Stun] status for 1 sec with the probability of 5%.
 SKILL_20150714_004439	Decreases the physical defense by 5% per attribute level on enemies that are pulled by [Gravity Pole].
@@ -4770,7 +4770,7 @@ SKILL_20150717_004769	Attack monster in [sleep] state with [Energy Bolt] to give
 SKILL_20150717_004770	Enemies hit by [Fireball] have a 10% chance per attribute level to receive flame damage  for 5 seconds. Flame damage is based on the character's INT.
 SKILL_20150717_004771	Increases the Fire property damage for 5 seconds by 5 per attribute level, when an ally steps on [Fire Wall].
 SKILL_20150717_004772	When an enemy is near [Enchant Fire] range, the enemy's Fire resistance will decrease by 10% for 5 secs.
-SKILL_20150717_004773	Enemies hit by [Magnetic Force] have a 5% chance per attribute level to become afflicted with [Stun] for 4 seconds.
+SKILL_20150717_004773	Enemies hit by [Magnetic Force] have a 5% chance per attribute level to become afflicted with [Stun]. for 4 seconds.
 SKILL_20150717_004774	Enemies hit by [Hangman's Knot] will receive additional damage equal to 20% magic attack per attribute level.
 SKILL_20150717_004775	Hangman's Knot: Splash Defense
 SKILL_20150717_004776	Decreases the AoE defense ratio of the enemies gathered through [Hangman's Knot] by 1.
@@ -5696,7 +5696,7 @@ SKILL_20151102_005695	Increases the damage dealt on an enemy with [Butt Stroke] 
 SKILL_20151102_005696	Bayonet Thrust: Enhance
 SKILL_20151102_005697	Increases the damage dealt on an enemy with [Bayonet Thrust] by 1% per attribute level.
 SKILL_20151102_005698	Butt Stroke: Stun
-SKILL_20151102_005699	Enemies hit by [Butt Stroke] have a 1.5% chance per attribute level to become afflicted with [Stun] for 3 seconds.
+SKILL_20151102_005699	Enemies hit by [Butt Stroke] have a 1.5% chance per attribute level to become afflicted with [Stun]. for 3 seconds.
 SKILL_20151102_005700	Inflicts stun at a 2% chance per attribute level when performing a basic attack on an enemy with a [Blunt] type weapon.
 SKILL_20151102_005701	Enemies receive holy damage equal to [attribute level] within the range of [Arcane Energy].
 SKILL_20151102_005702	Healing Factor: Attack
@@ -5744,7 +5744,7 @@ SKILL_20151224_005743	Increases attack equal to [Skill Level+1]x[Number of Weapo
 SKILL_20151224_005744	Penalty Reduction
 SKILL_20151224_005745	Reduces the penalty from incapable of combat.
 SKILL_20151224_005746	Equipment Durability Penalty: -#{CaptionRatio}#%{nl}Consumed Silver Penalty: -#{CaptionRatio2}#%{nl}Consumed Gem Penalty: -#{CaptionTime}#%
-SKILL_20151224_005747	Place a flag that raises the combat abilities of the pirate crew. A combo is activated if multiple enemies is defeated around the Jolly Roger. Attacking enemies around the Jolly Roger allows you to pillage items at a chance based on your Jolly Roger level. (Combo is only activated if the party leader is a Corsair.)
+SKILL_20151224_005747	Plant a flag that raises the combat abilities of the pirate crew. A combo is activated if multiple enemies is defeated around the jolly roger. And at a certain chance, attacking enemies allows you to pillage items and the higher your Jolly Roger level is, the higher the chance. (Combo is only activated if the party leader is a Corsair.)
 SKILL_20151224_005748	Pistol Shot
 SKILL_20151224_005749	{#DD5500}{ol}[Missile]{/}{/}{nl}Fires continuous shots with a pistol to damage multiple enemies ahead.
 SKILL_20151224_005750	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Slash enemies with a powerful swing to damage the enemy.
@@ -5919,7 +5919,7 @@ SKILL_20151224_005918	Final Attack Damage: #{CaptionRatio}#%
 SKILL_20151224_005919	Decrease the level of an enemy depending on the calculated number.
 SKILL_20151224_005920	Additional Enemy Level: -#{CaptionRatio}#
 SKILL_20151224_005921	Last Rites
-SKILL_20151224_005922	Increased Holy property damage in proportion to the caster's [Sacrament] level which becomes more powerful when HP is below 40%.
+SKILL_20151224_005922	Makes the attacks of party members have the Holy property. Increases Holy property damage in proportion to the caster's [Sacrament] level which becomes more powerful when HP is below 40%.
 SKILL_20151224_005923	Duration: #{CaptionTime}# seconds{nl}Consumes 1 Gyslotis
 SKILL_20151224_005924	Deploy Capella
 SKILL_20151224_005925	Deploys a temporary sacellum with a wrapped cloak. The caster and party members are able to simultaneously receive the effects of the caster's Aspersion, Monstrance, Blessing, Sacrament, Stone Skin.
@@ -6313,9 +6313,9 @@ SKILL_20160224_006312	Increases the poison damage dealt on an enemy with [Wugong
 SKILL_20160224_006313	If [Call] is used, the hawk has a 50% chance of fetching small items.
 SKILL_20160224_006314	Headshot: Enhance
 SKILL_20160224_006315	Headshot: Stun
-SKILL_20160224_006316	Enemies hit by [Headshot] have a 2.5% chance per attribute level to become afflicted with [Stun] for 3 seconds.
+SKILL_20160224_006316	Enemies hit by [Headshot] have a 2.5% chance per attribute level to become afflicted with [Stun]. for 3 seconds.
 SKILL_20160224_006317	Snipe: Stun
-SKILL_20160224_006318	Enemies hit by [Snipe] have a 3.5% chance per attribute level to become afflicted with [Stun] for 3 seconds.
+SKILL_20160224_006318	Enemies hit by [Snipe] have a 3.5% chance per attribute level to become afflicted with [Stun]. for 3 seconds.
 SKILL_20160224_006319	Safety Zone: Block Count
 SKILL_20160224_006320	Increases the block count of [Safety Zone] by 1 per attribute level.
 SKILL_20160224_006321	Exorcise: Duration
