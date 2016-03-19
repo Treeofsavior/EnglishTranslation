@@ -2371,7 +2371,7 @@ SKILL_20150317_002370	Rapid Fire: Directional Rotation
 SKILL_20150317_002371	You can change directions while charging [Rapid Fire] (Not possible when shooting)
 SKILL_20150317_002372	Stone Picking: Quantity
 SKILL_20150317_002373	Fixes the number of stone bullets picked by [Stone Picking] to be [skill level].
-SKILL_20150317_002374	Broom Trap: Revolutions Count
+SKILL_20150317_002374	Broom Trap: Revolution Count
 SKILL_20150317_002375	Rotation time of [Broom Trap] decreases by 0.2 seconds per attribute level and number of rotations decreases by 1 per attribute level.
 SKILL_20150317_002376	Claymore: Splash
 SKILL_20150317_002377	Number of enemies hit by [Claymore] increases by 1 per Attribute level.
@@ -3922,7 +3922,7 @@ SKILL_20150414_003921	Mordschlag: Cloth Armor
 SKILL_20150414_003922	Apply effect of Mordschlag on leather armor also to cloth armor type
 SKILL_20150414_003923	Hangman's Knot gives 20% of character's magic damage per attribute level as additional damage
 SKILL_20150414_003924	Targets have 5% chance of falling under [Weaken Defense] per attribute level when hit with basic attack during spirit state.
-SKILL_20150414_003925	When using [Resist Elements] Fire, Ice, Lightning Property increase by 5 per Attribute level and Poison, Earth Property decrease by 5 per Attribute level
+SKILL_20150414_003925	When using [Resist Elements] Fire, Ice, Lightning Property increase by 5 per attribute level and Poison, Earth Property decrease by 5 per attribute level
 SKILL_20150414_003926	Monsters hit with [Pointing] have a 5% chance per attribute level of being inflicted with [Fear] every 3 seconds.
 SKILL_20150414_003927	Defense of enemies receiving [Retrieve] attacks decrease by 10 per attribute level.
 SKILL_20150414_003928	Max. poison capacity of [Poison Pot] increases by 10 per attribute level.
@@ -4397,7 +4397,7 @@ SKILL_20150714_004396	Increases the damage dealt on an enemy with [Punish] by 1%
 SKILL_20150714_004397	Attacks are guaranteed to be critical hits while attacking Cloth armor-type enemies with [Mordschlag].
 SKILL_20150714_004398	While using [Pain Barrier], increases your Movement Speed by 5%, but decreases your Evasion by 10% per attribute level respectively.
 SKILL_20150714_004399	Increases the damage dealt on an enemy with [Energy Bolt] by 1% per attribute level.
-SKILL_20150714_004400	The reflective damage of [Reflect Shield] will increase per Attribute level and as a result, the amount of shooting damage will decrease.
+SKILL_20150714_004400	The reflective damage of [Reflect Shield] will increase per attribute level and as a result, the amount of shooting damage will decrease.
 SKILL_20150714_004401	Increases the damage dealt on an enemy with [Earthquake] by 1% per attribute level.
 SKILL_20150714_004402	Increases the damage dealt on an enemy with [Magic Missile] by 1% per attribute level.
 SKILL_20150714_004403	Increases the damage of the next magical attack by 10% per attribute level, while [Quick Cast] is active.
@@ -4409,7 +4409,7 @@ SKILL_20150714_004408	Increases the damage dealt on an enemy with [Flare] by 1% 
 SKILL_20150714_004409	Increases the damage dealt on an enemy with [Fire Pillar] by 1% per attribute level.
 SKILL_20150714_004410	Increases the damage dealt on an enemy with [Hell Breath] by 1% per attribute level.
 SKILL_20150714_004411	Deals fire damage to enemies hit by [Fireball] for 5 seconds with a chance of 10% per attribute level.
-SKILL_20150714_004412	When an ally steps on [Fire Wall], Fire ATK will increase by 5 per Attribute level for 5 secs.
+SKILL_20150714_004412	When an ally steps on [Fire Wall], Fire ATK will increase by 5 per attribute level for 5 seconds.
 SKILL_20150714_004413	Enemies hit by [Hell Breath] have a 10% chance per attribute level of being knocked back.
 SKILL_20150714_004414	Decreases the enemy's Fire Resistance by 10% for 5 seconds within the range of [Enchant Fire].
 SKILL_20150714_004415	Increases the character's Fire property attack by 3 per attribute level when equipped with a [Staff].
@@ -4451,14 +4451,14 @@ SKILL_20150714_004450	Joint Penalty: Poison
 SKILL_20150714_004451	Enemies affected by [Joint Penalty] will receive 10% additional damage from Poison attacks per attribute level.
 SKILL_20150714_004452	Joint Penalty: Earth
 SKILL_20150714_004453	Enemies affected by [Joint Penalty] will receive 10% additional damage from Earth attacks per attribute level.
-SKILL_20150714_004454	The enemy's movement speed will decrease by 10% whose size got bigger by [Swell Body] and Physical and Magical ATK rate will increase by 5% per Attribute level.
-SKILL_20150714_004455	The enemy's movement speed will increase by 5% whose size got smaller by [Shrink Body] and Physical and Magical ATK rate will decrease by 10% per Attribute level.
-SKILL_20150714_004456	Whenever the size of an enemy changes by [Swell Body], more damage will be incurred which is 30% of Magical ATK rate per Attribute level.
-SKILL_20150714_004457	Whenever the size of an enemy changes by [Shrink Body], more damage will be incurred which is 30% of Magical ATK rate per Attribute level.
+SKILL_20150714_004454	The enemy's movement speed will decrease by 10% whose size got bigger by [Swell Body] and Physical and Magical ATK rate will increase by 5% per attribute level.
+SKILL_20150714_004455	The enemy's movement speed will increase by 5% whose size got smaller by [Shrink Body] and Physical and Magical ATK rate will decrease by 10% per attribute level.
+SKILL_20150714_004456	Whenever the size of an enemy changes by [Swell Body], more damage will be incurred which is 30% of Magical ATK rate per attribute level.
+SKILL_20150714_004457	Whenever the size of an enemy changes by [Shrink Body], more damage will be incurred which is 30% of Magical ATK rate per attribute level.
 SKILL_20150714_004458	Swell Left Arm: Shrink Size Speciality
 SKILL_20150714_004459	Deals 35 additional damage per attribute level on enemies affected by [Shrink Body] when [Swell Left Arm] is in effect.
 SKILL_20150714_004460	Swell Left Arm: Swell Body Speciality
-SKILL_20150714_004461	When you attack an enemy that is in [Swell Body] when [Left Arm Enhancement] is being activated, the weakened ATK rate status will continue. Duration will increase by 8 secs per Attribute level and the weakened ATK rate can be overlapped max 10 times.
+SKILL_20150714_004461	When you attack an enemy that is in [Swell Body] when [Left Arm Enhancement] is being activated, the weakened ATK rate status will continue. Duration will increase by 8 seconds per attribute level and the weakened ATK rate can be overlapped max 10 times.
 SKILL_20150714_004462	Swell Right Arm: Swiftness
 SKILL_20150714_004463	Not using a dagger nor a shield as an offhand gives you a 6% higher accuracy and evasion per attribute level.
 SKILL_20150714_004464	Transpose: Equilibrium
@@ -4470,13 +4470,13 @@ SKILL_20150714_004469	Increases the damage dealt on an enemy with [Hail] by 1% p
 SKILL_20150714_004470	Increases the damage dealt on an enemy with [Electrocute] by 1% per attribute level.
 SKILL_20150714_004471	Increases the damage dealt on an enemy with [Meteor] by 1% per attribute level.
 SKILL_20150714_004472	Deals additional damage equal to 50% of magic attack per attribute level when using [Electrocute] on frozen enemies.
-SKILL_20150714_004473	Whenever an enemy gets shot by [Hail], it will fall into [Freezing] with 5% probability per Attribute level.
-SKILL_20150714_004474	While charging [Meteor], Evasion will increase by 10 per Attribute level.
-SKILL_20150714_004475	Resistances to Fire, Ice, Lightning Properties will increase by 5 per Attribute level.
+SKILL_20150714_004473	Whenever an enemy gets shot by [Hail], it will fall into [Freezing] with 5% probability per attribute level.
+SKILL_20150714_004474	While charging [Meteor], Evasion will increase by 10 per attribute level.
+SKILL_20150714_004475	Resistances to Fire, Ice, Lightning Properties will increase by 5 per attribute level.
 SKILL_20150714_004476	Rain: Monsoon
 SKILL_20150714_004477	Has a chance to double the duration of [Rain]. Increases the chance by 5% per attribute level.
 SKILL_20150714_004478	Increases the damage dealt on an enemy with [Summon Familiar] by 1% per attribute level.
-SKILL_20150714_004479	When the Spiritual Demon explodes itself from the skill [Summon Spiritual Demon], it will inflict damage on nearby enemies with 1% probability per Attribute level.
+SKILL_20150714_004479	When the Spiritual Demon explodes itself from the skill [Summon Spiritual Demon], it will inflict damage on nearby enemies with 1% probability per attribute level.
 SKILL_20150714_004480	Increases the character's SP recovery rate by 1 per attribute level. 
 SKILL_20150714_004481	Attack Ground: Decreased Cooldown
 SKILL_20150714_004482	Cooldown time of [Attack Ground] will be reduced.
@@ -4492,7 +4492,7 @@ SKILL_20150714_004491	Increases the duration of [Confusion] from Lv. 2 by 2 seco
 SKILL_20150714_004492	Increases the damage dealt on an enemy with [Gather Corpse] by 1% per attribute level.
 SKILL_20150714_004493	Increases the damage dealt on an enemy with [Flesh Cannon] by 1% per attribute level.
 SKILL_20150714_004494	Increases the damage dealt on an enemy with [Flesh Hoop] by 1% per attribute level.
-SKILL_20150714_004495	When an enemy gets shot by [Flash Canon], it will fall into Decay status for 30 secs with a certain probability. The rate will increase by 5% per Attribute level.
+SKILL_20150714_004495	When an enemy gets shot by [Flash Canon], it will fall into Decay status for 30 seconds with a certain probability. The rate will increase by 5% per attribute level.
 SKILL_20150714_004496	Create Shoggoth: Decay
 SKILL_20150714_004497	Enemies near Shoggoth will be afflicted with [Decay] for 10 seconds. Lasts for 1 minute per attribute level after Shoggoth is summoned.
 SKILL_20150714_004498	Disinter: Increased Range
@@ -4500,7 +4500,7 @@ SKILL_20150714_004499	Increases the range of [Disinter].
 SKILL_20150714_004500	Increases the damage dealt on an enemy with [Combustion] by 1% per attribute level.
 SKILL_20150714_004501	Dig: Reduced Cooldown
 SKILL_20150714_004502	Decreases the cooldown time of [Dig].
-SKILL_20150714_004503	Physical ATK and Magic ATK will be increased for 30 mins for the allies that participated in [Item Awakening] dungeon. ATK rate will increase by 20% per Attribute level.
+SKILL_20150714_004503	Physical ATK and Magic ATK will be increased for 30 mins for the allies that participated in [Item Awakening] dungeon. ATK rate will increase by 20% per attribute level.
 SKILL_20150714_004504	Tincturing: Block Potion
 SKILL_20150714_004505	Obtain the recipe of 'Block Potion' that can be crafted with [Tincturing].
 SKILL_20150714_004506	Tincturing: Critical Attack Potion
@@ -4540,27 +4540,27 @@ SKILL_20150714_004539	Increases the damage dealt on an enemy with [Punji Stake] 
 SKILL_20150714_004540	Increases the damage dealt on an enemy with [Detonate Traps] by 1% per attribute level.
 SKILL_20150714_004541	Increases the damage dealt on an enemy with [Spike Shooter] by 1% per attribute level.
 SKILL_20150714_004542	Increases the damage dealt on an enemy with [Collar Bomb] by 1% per attribute level.
-SKILL_20150714_004543	Reduces the rotation time of [Broom Trap] will be reduced by 0.2 secs per Attribute level, and the number of rotations will increase by 1 per Attribute level.
-SKILL_20150714_004544	Splash of [Claymore] will increase by 1 per Attribute level.
+SKILL_20150714_004543	Reduces the rotation time of [Broom Trap] will be reduced by 0.2 seconds per attribute level, and the number of rotations will increase by 1 per attribute level.
+SKILL_20150714_004544	Splash of [Claymore] will increase by 1 per attribute level.
 SKILL_20150714_004545	When an enemy launched by [Punji Stake] hits the ground, it and nearby enemies will be dealt 50% of physical attack as damage.
 SKILL_20150714_004546	Enemies affected by [Pointing] have a 5% chance per attribute level to be afflicted with [Fear] for 3 seconds.
-SKILL_20150714_004547	DEF of the enemies that are attacked with [Retrieve] will decrease by 10 per Attribute level.
+SKILL_20150714_004547	DEF of the enemies that are attacked with [Retrieve] will decrease by 10 per attribute level.
 SKILL_20150714_004548	Flying-type monsters who are brought to the ground by [Snatching] will receive 20% additional damage from Slash and Strike attacks per attribute level.
 SKILL_20150714_004549	Increases the movement speed of your companion from [Praise] by 5% per attribute level.
 SKILL_20150714_004550	Coursing: Mental Breakdown
 SKILL_20150714_004551	Decreases the magic defense of an enemy by affected by [Coursing] by 10 per attribute level.
 SKILL_20150714_004552	Hounding: Confusion
-SKILL_20150714_004553	Enemies discovered during [Hounding] have a certain probability of becoming confused. Increases the chance by 10% per attribute level.
+SKILL_20150714_004553	Enemies discovered during [Hounding] have a certain chance to be affected by [Confusion]. The chance is increased by 10% per attribute level.
 SKILL_20150714_004554	Increases the damage dealt on an enemy with [Needle Blow] by 1% per attribute level.
 SKILL_20150714_004555	Increases the damage dealt on an enemy with [Wugong Gu] by 1% per attribute level.
 SKILL_20150714_004556	Increases the damage dealt on an enemy with [Throw Gu Pot] by 1% per attribute level.
-SKILL_20150714_004557	A character whose [Poison] is removed due to [Detoxify] will be immune to [Poison] for 2 secs per Attribute level.
+SKILL_20150714_004557	A character whose [Poison] is removed due to [Detoxify] will be immune to [Poison] for 2 seconds per attribute level.
 SKILL_20150714_004558	Wugong Gu: Continuous Infection
 SKILL_20150714_004559	Increases the infection duration from [Wugong Gu] on an infected target by 1 second per attribute level.
-SKILL_20150714_004560	Even if an enemy steps out of [Throw Gu Pot], [Poison] will last for 2 secs per Attribute level.
+SKILL_20150714_004560	Even if an enemy steps out of [Throw Gu Pot], [Poison] will last for 2 seconds per attribute level.
 SKILL_20150714_004561	Increases the maximum amount of poison that can be stored in [Poison Pot] by 10 per attribute level.
 SKILL_20150714_004562	Jincan Gu: Vitality
-SKILL_20150714_004563	Grants a 5% chance per attribute level to double the life span of bugs created by [Jincann Gu] skill.
+SKILL_20150714_004563	Grants a 5% chance per attribute level to double the life span of bugs created by [Jincan Gu] skill.
 SKILL_20150714_004564	Increases the damage dealt on an enemy with [Flu Flu] by 1% per attribute level.
 SKILL_20150714_004565	Increases the damage dealt on an enemy with [Flare Shot] by 1% per attribute level.
 SKILL_20150714_004566	Increases the physical attack of allies within the range of [Perspective Distortion] by 5% per attribute level.
@@ -4568,7 +4568,7 @@ SKILL_20150714_004567	Increases the number of enemies influenced by [Flu Flu] by
 SKILL_20150714_004568	Camouflage: Jump
 SKILL_20150714_004569	Able to jump while in [Camouflage].
 SKILL_20150714_004570	Scan: Confusion
-SKILL_20150714_004571	The enemies that are in the range of [Scan] will fall into Confusion with a certain probability. The probability will increase by 10% per Attribute level.
+SKILL_20150714_004571	The enemies that are in the range of [Scan] will fall into Confusion with a certain probability. The probability will increase by 10% per attribute level.
 SKILL_20150714_004572	Increases the damage dealt on an enemy with [Vendetta] by 1% per attribute level.
 SKILL_20150714_004573	Increases the damage dealt on an enemy with [Backstab] by 1% per attribute level.
 SKILL_20150714_004574	Increases the duration of [Sneak Hit] by 2 seconds per attribute level.
@@ -4584,7 +4584,7 @@ SKILL_20150714_004583	Increases the damage dealt on an enemy with [Magic Arrow] 
 SKILL_20150714_004584	Increases the damage dealt on an enemy with [Divine Machine Arrow] by 1% per attribute level.
 SKILL_20150714_004585	Increases the duration of [Bleeding] when an enemy is hit by [Broadhead] by 2 seconds per attribute level.
 SKILL_20150714_004586	Bodkin Point: Decreased Defense
-SKILL_20150714_004587	The [Reduced DEF] effect of [Bodkin Point] will be increased by 2% per Attribute level.
+SKILL_20150714_004587	The [Decreased Defense] effect of [Bodkin Point] will be increased by 2% per attribute level.
 SKILL_20150714_004588	Enemies hit by the flames of [Magic Arrow] will be afflicted with [Silence] by a certain chance. Increases the chance by 10% per attribute level.
 SKILL_20150714_004589	Increases the range that [Roost] will remain active by 20 per attribute level.
 SKILL_20150714_004590	Call: Obtain
@@ -4609,7 +4609,7 @@ SKILL_20150714_004608	Increases the range that is covered by [Safety Zone].
 SKILL_20150714_004609	Guardian Saint: Decreased Damage
 SKILL_20150714_004610	Decreases the damage taken when applied with a character's [Saint Guardian] by 5% per attribute level.
 SKILL_20150714_004611	Increases the damage dealt on an enemy with [Zaibas] by 1% per attribute level.
-SKILL_20150714_004612	Character's Fire resistance will increase by 5 per Attribute level and the resistance to Darkness will decrease by 3 per Attribute level.
+SKILL_20150714_004612	Character's Fire resistance will increase by 5 per attribute level and the resistance to Darkness will decrease by 3 per attribute level.
 SKILL_20150714_004613	Increases the duration of [Daino]'s effect by 40 seconds per attribute level.
 SKILL_20150714_004614	Aukuras: Fire Property Resistance
 SKILL_20150714_004615	Increases the character's Fire property resistance by 14 per attribute level while [Aukuras] is active. 
@@ -4625,9 +4625,9 @@ SKILL_20150714_004624	Increases the damage dealt on an enemy with [Aspersion] by
 SKILL_20150714_004625	Increases the damage dealt on an enemy with [Exorcise] by 1% per attribute level.
 SKILL_20150714_004626	Increases the number of attacks for [Blessing] by 1 per attribute level.
 SKILL_20150714_004627	Increases the number of targets for [Blessing] by 1 per attribute level.
-SKILL_20150714_004628	While [Sacrament] is being activated, Dark resistance will increase by 5 per Attribute level.
+SKILL_20150714_004628	While [Sacrament] is being activated, Dark resistance will increase by 5 per attribute level.
 SKILL_20150714_004629	Increases the number of targets that can be revived with [Resurrection] by 1 per attribute level.
-SKILL_20150714_004630	Duration of [Revive] will increase by 10 secs per Attribute level.
+SKILL_20150714_004630	Duration of [Revive] will increase by 10 seconds per attribute level.
 SKILL_20150714_004631	Monstrance: Duration
 SKILL_20150714_004632	Increases the duration of [Monstrance] by 1 second per attribute level.
 SKILL_20150714_004633	Monstrance: Evasion
@@ -4638,12 +4638,12 @@ SKILL_20150714_004637	Increases the damage dealt on an enemy with [Bwa Kayiman] 
 SKILL_20150714_004638	Increases the damage dealt on an enemy with [Damballa] by 1% per attribute level.
 SKILL_20150714_004639	Increases the chance of creating a large-type zombie when zombifying a large-type monster by 1% per attribute level.
 SKILL_20150714_004640	Increases the chance of creating Wheelchair Zombie when creating a zombie by 1% per attribute level.
-SKILL_20150714_004641	Whenever an enemy gets shot by [Effigy], it could be inflicted with [Blind] with 5% probability per Attribute level.
+SKILL_20150714_004641	Whenever an enemy gets shot by [Effigy], it could be inflicted with [Blind] with 5% probability per attribute level.
 SKILL_20150714_004642	Decreases an enemy's STR within the range of [Ogouveve] by 2 per attribute level.
 SKILL_20150714_004643	Increases the chance of a new zombie emerging from [Damballa] by 2% per attribute level.
 SKILL_20150714_004644	Bwa Kayiman: Zombie Defense
 SKILL_20150714_004645	Increases the physical defense of the zombies while using [Bwa Kayiman] by 3 per attribute level.
-SKILL_20150714_004646	The maximum number of zombies that could be created by [Zombify] increases by 1 per Attribute level.
+SKILL_20150714_004646	The maximum number of zombies that could be created by [Zombify] increases by 1 per attribute level.
 SKILL_20150714_004647	Hexing: Dark
 SKILL_20150714_004648	Enemies affected by [Hexing] will receive 10% additional damage per attribute level from Dark property attacks.
 SKILL_20150714_004649	Samediveve: Increased Range
@@ -4653,7 +4653,7 @@ SKILL_20150714_004652	The range of [Ogouveve] will be increased.
 SKILL_20150714_004653	Increases the damage dealt on an enemy with [Carve] by 1% per attribute level.
 SKILL_20150714_004654	Increases the damage dealt on an enemy with [Carve Owl] by 1% per attribute level.
 SKILL_20150714_004655	Carve: Chance to Obtain
-SKILL_20150714_004656	The probability of obtaining ingredients increases 5% per Attribute level for [Carve].
+SKILL_20150714_004656	The probability of obtaining ingredients increases 5% per attribute level for [Carve].
 SKILL_20150714_004657	When equipped with a [Mace], you will inflict additional damage equal to 10% of the physical attack to Plant-type monsters per attribute level.
 SKILL_20150714_004658	Statue of Goddess Vakarine: Decreased Cooldown
 SKILL_20150714_004659	Cooldown time of [Carve Vakarine] will be reduced.
@@ -4662,13 +4662,13 @@ SKILL_20150714_004661	Increases the cooldown of skills from enemies when within 
 SKILL_20150714_004662	Increases the damage dealt on an enemy with [Astral Body Explosion] by 1% per attribute level.
 SKILL_20150714_004663	Increases the damage dealt on an enemy while in the state of Out of Body by 1% per attribute level.
 SKILL_20150714_004664	Increases the damage dealt on an enemy with [Possession] by 1% per attribute level.
-SKILL_20150714_004665	While [Out of Body] is being activated, the body's evasion will increase by 10% per Attribute level.
+SKILL_20150714_004665	While [Out of Body] is being activated, the body's evasion will increase by 10% per attribute level.
 SKILL_20150714_004666	Recovers HP equal to 5% maximum HP per attribute level when using [Prakriti].
-SKILL_20150714_004667	When in Out of Body status, the enemies that got shot by normal attacks will be infliced with [Deprotect] with 5% probability per Attribute level.
+SKILL_20150714_004667	When in Out of Body status, the enemies that got shot by normal attacks will be infliced with [Deprotect] with 5% probability per attribute level.
 SKILL_20150714_004668	Vashita Siddhi: Decreased SP
 SKILL_20150714_004669	SP consumption of [Vashita Siddhi] will be reduced.
 SKILL_20150714_004670	Vashita Siddhi: Confusion
-SKILL_20150714_004671	The enemies that are in the range of [Vashita Siddhi] will be inflicted with Confusion with a certain probability. The probability will increase by 10% per Attribute level.
+SKILL_20150714_004671	The enemies that are in the range of [Vashita Siddhi] will be inflicted with Confusion with a certain probability. The probability will increase by 10% per attribute level.
 SKILL_20150714_004672	Increases the damage dealt on an enemy with [Smite] by 1% per attribute level.
 SKILL_20150714_004673	Increases the resistance to Fire, Ice, Lightning, Poison and Earth properties by 5 per attribute level when using [Resist Elements].
 SKILL_20150714_004674	Deals damage equal to 20% magic attack per attribute level to enemies hit with [Barrier].
@@ -4691,7 +4691,7 @@ SKILL_20150714_004690	Adds 1 target per attribute level to the applied effects o
 SKILL_20150714_004691	Oblation: Indulgentia Speciality
 SKILL_20150714_004692	Increases the attack of Indulgentia based on the number of items in the Offering Box.
 SKILL_20150714_004693	Spell Shop: Duration
-SKILL_20150714_004694	When you endow the effect that is registered at [Spell Shop] to your colleague, the duration will be increased. Duration will increase by 3 mins per Attribute level.
+SKILL_20150714_004694	When you endow the effect that is registered at [Spell Shop] to your colleague, the duration will be increased. Duration will increase by 3 mins per attribute level.
 SKILL_20150714_004695	Pardoner: Donation
 SKILL_20150714_004696	Donation is possible through the Pardoner Master. The donation amount varies slightly each time.
 SKILL_20150714_004697	Increases the damage dealt on an enemy with [Carnivory] by 1% per attribute level.
@@ -4702,9 +4702,9 @@ SKILL_20150714_004701	Druid: Medium-type Speciality
 SKILL_20150714_004702	Increases the attack to small, medium and large-type targets of the transformed medium-type monster by [Shape Shifting] or [Transform] by 22 per attribute level.
 SKILL_20150714_004703	Druid: Large-type Speciality
 SKILL_20150714_004704	Increases the maximum HP of the transformed large-type monster by [Shape Shifting] or [Transform] by 15% per attribute level.
-SKILL_20150714_004705	Duration of [Forecast] will increase by 1 sec per Attribute level.
+SKILL_20150714_004705	Duration of [Forecast] will increase by 1 sec per attribute level.
 SKILL_20150714_004706	Change: Winning
-SKILL_20150714_004707	The monster that is transformed by [Change] would have Item Jackpot Buff with 0.05% probability per Attribute level.
+SKILL_20150714_004707	The monster that is transformed by [Change] would have Item Jackpot Buff with 0.05% probability per attribute level.
 SKILL_20150714_004708	Increases the knockback power of [Thrust] by 50 per attribute level.
 SKILL_20150714_004709	When the enemies in the air by [Wagon Wheel] fall to ground receive of 50% of character's damage.
 SKILL_20150714_004710	Increases the number of times [Repair] can be used by 1 per level.
@@ -4738,7 +4738,7 @@ SKILL_20150717_004737	Movement speed decrease
 SKILL_20150717_004738	Max SP and Magic DEF increase based on number of [Cloth] armor equipped and Attribute level (at least 3 same equipment type).
 SKILL_20150717_004739	Evasion increases based on number of [Leather] armor equipped and Attribute level. (at least 3 same equipment type).
 SKILL_20150717_004740	Max HP and Physical DEF increase based on number of [Plate] armor equipped and Attribute level. (at least 3 same equipment type).
-SKILL_20150717_004741	Incurs additional 20 damage per Attribute level whenever attack from an enemy's back with dagger.
+SKILL_20150717_004741	Incurs additional 20 damage per attribute level whenever attack from an enemy's back with dagger.
 SKILL_20150717_004742	Amplifies the physical damage increase effect and the decreased defense effect of [Gung Ho] by 1 per attribute level.
 SKILL_20150717_004743	Increases the AoE Attack Ratio of [Bash] by 1 per attribute level.
 SKILL_20150717_004744	Inflicts [Bleeding] on stunned enemies for 5 seconds with [Thrust]. Bleeding damage is proportional to the character's STR.
@@ -4769,12 +4769,12 @@ SKILL_20150717_004768	Increases the physical and magic attack debuff effect of [
 SKILL_20150717_004769	Attack monster in [sleep] state with [Energy Bolt] to give additional damage of 50% of Magic attack.
 SKILL_20150717_004770	Enemies hit by [Fireball] have a 10% chance per attribute level to receive flame damage  for 5 seconds. Flame damage is based on the character's INT.
 SKILL_20150717_004771	Increases the Fire property damage for 5 seconds by 5 per attribute level, when an ally steps on [Fire Wall].
-SKILL_20150717_004772	When an enemy is near [Enchant Fire] range, the enemy's Fire resistance will decrease by 10% for 5 secs.
+SKILL_20150717_004772	When an enemy is near [Enchant Fire] range, the enemy's Fire resistance will decrease by 10% for 5 seconds.
 SKILL_20150717_004773	Enemies hit by [Magnetic Force] have a 5% chance per attribute level to become afflicted with [Stun]. for 4 seconds.
 SKILL_20150717_004774	Enemies hit by [Hangman's Knot] will receive additional damage equal to 20% magic attack per attribute level.
 SKILL_20150717_004775	Hangman's Knot: Splash Defense
 SKILL_20150717_004776	Decreases the AoE defense ratio of the enemies gathered through [Hangman's Knot] by 1.
-SKILL_20150717_004777	Attack increase effect of [Swell left Arm] Increase by 1 per Attribute level.
+SKILL_20150717_004777	Attack increase effect of [Swell left Arm] Increase by 1 per attribute level.
 SKILL_20150717_004778	Defense and Attack increase effect of [Swell Right Arm] increases by 1 per attribute level.
 SKILL_20150717_004779	Intelligence increase effect of [Swell Brain] increases by 1 per attribute level.
 SKILL_20150717_004780	Enemies affected by [Swell Body] will have their movement speed decreased by 25% and physical and magical attack increased by 20% per attribute level.
@@ -4804,7 +4804,7 @@ SKILL_20150717_004803	Full Draw: Increased Knockback
 SKILL_20150717_004804	When equipped with a [Two-handed Bow], adds 20% additional physical attack damage against airborne monsters.
 SKILL_20150717_004805	Enemies hit by [Oblique Shot] while [Swift Step] is active have a 5% chance per attribute level to be be afflicted with [Slow] for 7 seconds.
 SKILL_20150717_004806	Decreases the physical defense of enemies by 10% per attribute level who are threaded with [Full Draw].
-SKILL_20150717_004807	Tumbleweed of [Broom Trap] will be reduced by 0.5 secs per Attribute level and the number of rotations will decrease by 0.5 per Attribute level.
+SKILL_20150717_004807	Tumbleweed of [Broom Trap] will be reduced by 0.5 seconds per attribute level and the number of rotations will decrease by 0.5 per attribute level.
 SKILL_20150717_004808	Increases the AoE attack ratio of [Claymore] by 1 per attribute level.
 SKILL_20150717_004809	When an enemy launched by [Punji Stake] hits the ground, it and nearby enemies will be dealt 50% of physical attack as damage.
 SKILL_20150717_004810	Decreases the physical defense of an enemy attacked with [Retrieve] by 10 per attribute level.
@@ -4840,7 +4840,7 @@ SKILL_20150717_004839	Decreases the SP cost of [Vashita Siddhi] by 10.
 SKILL_20150717_004840	Enemies within the range of [Vashita Siddhi] have a chance to be afflicted with Confusion for 5 seconds. Increases the chance by 10% per attribute level.
 SKILL_20150717_004841	HP recovery effect of [Restoration] increases per attribute level
 SKILL_20150717_004842	Increases the instant death chance of [Turn Undead] in proportion to the character's SPR
-SKILL_20150717_004843	Damage that will be reflected off from [Iron Skin] will be added 20% of Physical ATK per Attribute level.
+SKILL_20150717_004843	Damage that will be reflected off from [Iron Skin] will be added 20% of Physical ATK per attribute level.
 SKILL_20150717_004844	Enemies hit by [Palm Strike] will be afflicted with [Bleeding] for 8 seconds. Increases the duration of [Bleeding] by 1 second per attribute level. Bleeding damage is proportional to the character's physical attack.
 SKILL_20150717_004845	Craft a dispeller to prevent from getting harmful effects. Craft Dispeller is only possible in Rest Mode.
 SKILL_20150717_004846	Increases the duration of [Spell Shop] by 5 minutes per attribute level when you endow a registered effect to your ally.
