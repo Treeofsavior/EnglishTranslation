@@ -4456,7 +4456,7 @@ SKILL_20150714_004455	The enemy's movement speed will increase by 5% whose size 
 SKILL_20150714_004456	Whenever the size of an enemy changes by [Swell Body], more damage will be incurred which is 30% of Magical ATK rate per Attribute level.
 SKILL_20150714_004457	Whenever the size of an enemy changes by [Shrink Body], more damage will be incurred which is 30% of Magical ATK rate per Attribute level.
 SKILL_20150714_004458	Swell Left Arm: Shrink Size Speciality
-SKILL_20150714_004459	When you attack an enemy affected by [Shrink Body] while [Swell Left Arm] is active, you will deal 35 additional damage per attribute level.
+SKILL_20150714_004459	Deals 35 additional damage per attribute level on enemies affected by [Shrink Body] when [Swell Left Arm] is in effect.
 SKILL_20150714_004460	Swell Left Arm: Swell Body Speciality
 SKILL_20150714_004461	When you attack an enemy that is in [Swell Body] when [Left Arm Enhancement] is being activated, the weakened ATK rate status will continue. Duration will increase by 8 secs per Attribute level and the weakened ATK rate can be overlapped max 10 times.
 SKILL_20150714_004462	Swell Arm Enhance: Swiftness
@@ -4742,7 +4742,7 @@ SKILL_20150717_004741	Incurs additional 20 damage per Attribute level whenever a
 SKILL_20150717_004742	Amplifies the physical damage increase effect and the decreased defense effect of [Gung Ho] by 1 per attribute level.
 SKILL_20150717_004743	Increases the AoE Attack Ratio of [Bash] by 1 per attribute level.
 SKILL_20150717_004744	Inflicts [Bleeding] on stunned enemies for 5 seconds with [Thrust]. Bleeding damage is proportional to the character's STR.
-SKILL_20150717_004745	Enemies hit by [Umbo Blow] have a 5% chance per attribute level to become stunned for 3 seconds.
+SKILL_20150717_004745	Enemies hit by [Umbo Blow] have a 5% chance per attribute level to become afflicted with [Stun] for 3 seconds.
 SKILL_20150717_004746	Increases your AoE attack ratio of [Shield Lob] by 1 per attribute level.
 SKILL_20150717_004747	Increases your physical defense by 10% per attribute level when [Guard] is active.
 SKILL_20150717_004748	Increases the physical defense increase effect of [Cross Guard] by 1 per attribute level.
@@ -4770,7 +4770,7 @@ SKILL_20150717_004769	Attack monster in [sleep] state with [Energy Bolt] to give
 SKILL_20150717_004770	Enemies hit by [Fireball] have a 10% chance per attribute level to receive flame damage  for 5 seconds. Flame damage is based on the character's INT.
 SKILL_20150717_004771	Increases the Fire property damage for 5 seconds by 5 per attribute level, when an ally steps on [Fire Wall].
 SKILL_20150717_004772	When an enemy is near [Enchant Fire] range, the enemy's Fire resistance will decrease by 10% for 5 secs.
-SKILL_20150717_004773	Enemies hit by [Magnetic Force] have a 5% chance per attribute level to become stunned for 4 seconds.
+SKILL_20150717_004773	Enemies hit by [Magnetic Force] have a 5% chance per attribute level to become afflicted with [Stun] for 4 seconds.
 SKILL_20150717_004774	Enemies hit by [Hangman's Knot] will receive additional damage equal to 20% magic attack per attribute level.
 SKILL_20150717_004775	Hangman's Knot: Splash Defense
 SKILL_20150717_004776	Decreases the AoE defense ratio of the enemies gathered through [Hangman's Knot] by 1.
@@ -5696,7 +5696,7 @@ SKILL_20151102_005695	Increases the damage dealt on an enemy with [Butt Stroke] 
 SKILL_20151102_005696	Bayonet Thrust: Enhance
 SKILL_20151102_005697	Increases the damage dealt on an enemy with [Bayonet Thrust] by 1% per attribute level.
 SKILL_20151102_005698	Butt Stroke: Stun
-SKILL_20151102_005699	Enemies hit by [Butt Stroke] have a 1.5% chance per attribute level to become stunned for 3 seconds.
+SKILL_20151102_005699	Enemies hit by [Butt Stroke] have a 1.5% chance per attribute level to become afflicted with [Stun] for 3 seconds.
 SKILL_20151102_005700	Inflicts stun at a 2% chance per attribute level when performing a basic attack on an enemy with a [Blunt] type weapon.
 SKILL_20151102_005701	Enemies receive holy damage equal to [attribute level] within the range of [Arcane Energy].
 SKILL_20151102_005702	Healing Factor: Attack
@@ -5891,20 +5891,20 @@ SKILL_20151224_005890	Open an offering box to receive donations in the form of i
 SKILL_20151224_005891	Maximum Purchases: #{CaptionRatio}#
 SKILL_20151224_005892	Able to register skills that consume items{nl}Additional Duration: #{CaptionRatio}# minutes
 SKILL_20151224_005893	Decatose
-SKILL_20151224_005894	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Attack an enemy by collecting money to offer to the gods. Enemies with exception to boss monsters can be instantly killed at a 1/10 chance and the offered money can be picked back up again.
+SKILL_20151224_005894	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Attack an enemy by collecting money to offer to the gods. Enemies, with the exception of boss monsters, can be instantly killed at a 10% chance and the offered money can be picked back up again.
 SKILL_20151224_005895	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio2}#%{nl}Consumes #{CaptionRatio}# silver
 SKILL_20151224_005896	Duration: #{CaptionRatio}# seconds{nl}Maximum Level: 1
-SKILL_20151224_005897	{#993399}{ol}[Magic] - [Holy]{/}{/}{nl}Temporarily creates a magic circle that grants you a healing factor. If you or your allies take damage from an enemy inside the magic circle, HP will be quickly recovered.
+SKILL_20151224_005897	{#993399}{ol}[Magic] - [Holy]{/}{/}{nl}Temporarily creates a magic circle that grants a healing factor. If you or your allies take damage from an enemy inside the magic circle, HP will be quickly recovered.
 SKILL_20151224_005898	Duration: #{CaptionTime}# seconds{nl}HP Recovery: #{CaptionRatio}#
-SKILL_20151224_005899	{#993399}{ol}[Magic] - [Fire]{/}{/}{nl}Incinerate enemies with status ailments. The duration of incineration will increase depending on the amount of status ailments.
+SKILL_20151224_005899	{#993399}{ol}[Magic] - [Fire]{/}{/}{nl}Incinerate enemies with status ailments. The duration of [Incineration] will increase depending on the amount of status ailments.
 SKILL_20151224_005900	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Basic Duration: #{CaptionRatio2}# seconds
 SKILL_20151224_005901	Temporarily let you or your allies bleed to prevent further status ailments. This state will be invulnerable to all rank 2 or lower status ailments.
 SKILL_20151224_005902	Duration: #{CaptionTime}# seconds{nl}HP: -#{CaptionRatio}#
-SKILL_20151224_005903	Spray a cloud of antidote to cure the status ailments of your ally. Allies within the effect will be cured of rank 3 or lower status ailments.
+SKILL_20151224_005903	Spray a cloud of antidote that cures the status ailments of your party members. Allies within the effect will be cured of rank 3 or lower status ailments.
 SKILL_20151224_005904	Removes rank 3 and lower status ailments{nl}Applies a maximum of #{CaptionRatio}# times
-SKILL_20151224_005905	Spread all status ailments on the enemies to other enemies within the range.
+SKILL_20151224_005905	Spread all status ailments on targeted enemies to other enemies within the range.
 SKILL_20151224_005906	Applies a maximum of #{CaptionRatio}# times
-SKILL_20151224_005907	Equip the Bird Beak Mask. The front side of the mask has a special drug to prevent rank 2 or lower status ailments from enemies.
+SKILL_20151224_005907	Equip the Bird Beak Mask. The front side of the mask has a special drug that prevents rank 2 or lower status ailments from affecting you.
 SKILL_20151224_005908	Duration: #{CaptionTime}# seconds{nl}100% Immunity to Rank 1 and 2{nl}80% Immunity to Rank 3
 SKILL_20151224_005909	{#993399}{ol}[Magic] - [Holy]{/}{/}{nl}Use the power of the goddess to avenge yourself with x7 the power of an enemy's attack.
 SKILL_20151224_005910	Duration: #{CaptionTime}# seconds{nl}Additional Damage: #{CaptionRatio}#%
@@ -5912,22 +5912,22 @@ SKILL_20151224_005911	{#993399}{ol}[Magic] - [Holy]{/}{/}
 SKILL_20151224_005912	{#993399}{ol}[Magic] - [Holy]{/}{/}{nl}Creates a magic circle that drastically increases your maximum HP for a period of time.
 SKILL_20151224_005913	Duration: #{CaptionTime}# seconds{nl}Magic Circle Duration: #{CaptionRatio2}# seconds{nl}Maximum HP: +#{CaptionRatio}#%
 SKILL_20151224_005914	{#993399}{ol}[Magic] - [Holy]{/}{/}{nl}Summons the wagon of the goddess to attack enemies.
-SKILL_20151224_005915	Divide the name of an enemy into numbers and calculate a new number.
-SKILL_20151224_005916	Divide the name of an enemy and calculate a new number from the first and the last letter.
+SKILL_20151224_005915	Divide the numbers of an enemy's name and calculate a new number.
+SKILL_20151224_005916	Calculate a new number from the first and the last letter of the enemy's name.
 SKILL_20151224_005917	If the enemy is hit with the amount of the calculated number, the enemy is hit by the multiplication of the number.
 SKILL_20151224_005918	Final Attack Damage: #{CaptionRatio}#%
 SKILL_20151224_005919	Decrease the level of an enemy depending on the calculated number.
 SKILL_20151224_005920	Additional Enemy Level: -#{CaptionRatio}#
 SKILL_20151224_005921	Last Rites
-SKILL_20151224_005922	Makes the attacks of party members have the Holy property. The Holy property damage is increased in proportion to the caster's Sacrament level and becomes more powerful when the HP is under 40%.
+SKILL_20151224_005922	Makes the attacks of party members have the Holy property. The Holy property damage is increased in proportion to the caster's [Sacrament] level and becomes more powerful when HP is under 40%.
 SKILL_20151224_005923	Duration: #{CaptionTime}# seconds{nl}Consumes 1 Gyslotis
 SKILL_20151224_005924	Deploy Capella
 SKILL_20151224_005925	Deploys a temporary sacellum with a wrapped cloak. The caster and party members are able to simultaneously receive the effects of the caster's Aspersion, Monstrance, Blessing, Sacrament, Stone Skin.
 SKILL_20151224_005926	Cappella Duration: #{CaptionRatio}# seconds{nl}Effect Duration: #{CaptionRatio2}# seconds{nl}Consumes 1 Cape
 SKILL_20151224_005927	Magnus Exorcismus
-SKILL_20151224_005928	Transforms the Exorcise Magic Circle in front of the caster into an enormous light pillar of exorcism. This divine pillar of light continues to damage nearby enemies.
+SKILL_20151224_005928	Transforms the Exorcise Magic Circle in front of the caster into an enormous pillar of exorcism. This divine pillar of light continues to damage nearby enemies.
 SKILL_20151224_005929	Aspergillum
-SKILL_20151224_005930	Fills the equipped weapon with holy water and makes it spray with every attack. The level of holy water being sprayed is the same level as the caster's Aspersion level.
+SKILL_20151224_005930	Fills the equipped weapon with holy water and makes it splash with every attack. The level of holy water being used is the same level as the caster's [Aspersion].
 SKILL_20151224_005931	Duration: #{CaptionTime}# seconds{nl}Consumes 1 Holy Water
 SKILL_20151224_005932	Converts when being hit at a certain chance.
 SKILL_20151224_005933	Scheduled removal
@@ -5999,7 +5999,7 @@ SKILL_20151224_005998	5% increased EXP rate from automatic Instanced Dungeon mat
 SKILL_20151224_005999	Token Benefits: Movement Speed Increase
 SKILL_20151224_006000	Increased movement speed
 SKILL_20151224_006001	Token
-SKILL_20151224_006002	 - Able to learn up to 2 attributes simultaneously{nl} - Reduced Market commission fee (30%{img white_right_arrow 16 16}10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement
+SKILL_20151224_006002	Able to learn up to 2 attributes simultaneously{nl}Reduced Market commission fee (30%{img white_right_arrow 16 16}10%){nl}Able to list up to 5 items on the Market{nl}+3 increased character movement
 SKILL_20151224_006003	Nexon PC Internet Cafe
 SKILL_20151224_006004	+30% EXP from hunting monsters{nl}20% Reduced Market commission fee{nl}Able to list more items in the Market{nl}Able to learn up to 3 attributes simultaneously{nl}+3 increased character movement{nl}Doubled STA recovery rate
 SKILL_20151224_006005	EXP Tome
@@ -6010,15 +6010,15 @@ SKILL_20151224_006009	Allows you to equip the [Pistol] weapon type. You can also
 SKILL_20151224_006010	Allows you to equip [Cloth] armor. When equipped with 3 or more pieces of [Cloth] armor, increases your maximum SP and magic damage taken is decreased by 5%. When equipped with 4 [Cloth] armor pieces, your magic defense increases and magic damage taken is decreased by an additional 10%.
 SKILL_20151224_006011	Allows you to equip [Leather] armor. When equipped with 3 or more pieces of [Leather] armor, increases your evasion. When equipped with 4 [Leather] armor pieces, your evasion increases from attributes by an additional 50%.
 SKILL_20151224_006012	Allows you to equip [Plate] armor.{nl}{nl}When equipped with 3 or more pieces of [Plate] armor, increases your maximum HP and physical damage taken is decreased by 5%.{nl}When equipped with 4 [Plate] armor pieces, your maximum stamina increases and physical damage taken is decreased by an additional 10%.
-SKILL_20151224_006013	Increases the companion's stamina cost cycle duration by 10 seconds per attribute level.
-SKILL_20151224_006014	When the HP of your companion is less than 50%, it will activate the [First Aid] effect and recover HP for 2 seconds. The duration is increased by 1 second per attribute level from Lv. 2.[First Aid] cannot be used for another 10 minutes after it has been activated.
+SKILL_20151224_006013	Increases the stamina reduction cycle of your companion by 10 seconds per attribute level.
+SKILL_20151224_006014	When the HP of your companion is less than 50%, it will activate the [First Aid] effect and recover HP for 2 seconds. The duration is increased by 1 second per attribute level from Lv. 2. [First Aid] cannot be used for another 10 minutes after it has been activated.
 SKILL_20151224_006015	Bash: Specialty
-SKILL_20151224_006016	Increases the damage dealt on an enemy with [Bash] by 28 per attribute level.
+SKILL_20151224_006016	Increases the damage dealt by [Bash] for 28 per attribute level.
 SKILL_20151224_006017	Increases the physical attack, while your maximum HP decreases of [Restrain] per attribute level.
 SKILL_20151224_006018	Increases the maximum HP of your character by 5% per attribute level when [Swash Buckling] is active.
 SKILL_20151224_006019	Increases your physical defense by 10% per attribute level when [Guard] is active.
 SKILL_20151224_006020	Increases the character's evasion by 6% per attribute level when [Guardian] is active.
-SKILL_20151224_006021	Adds critical attack proportional to the physical attack when [Aggressor] is active. Increases the additional value by 5% per attribute level.
+SKILL_20151224_006021	Adds critical attack proportional to physical attack when [Aggressor] is active. Increases by 5% per attribute level.
 SKILL_20151224_006022	Shield Shoving: Enhance
 SKILL_20151224_006023	Increases the damage dealt on an enemy with [Shield Shoving] by 1% per attribute level.
 SKILL_20151224_006024	Shield Bash: Enhance
@@ -6043,7 +6043,7 @@ SKILL_20151224_006042	Zucken: Enhance
 SKILL_20151224_006043	Increases the damage dealt on an enemy with [Zucken] by 1% per attribute level.
 SKILL_20151224_006044	Cyclone: Resistance
 SKILL_20151224_006045	Increases the chance to block harmful effects by 15% per attribute level during [Cyclone].
-SKILL_20151224_006046	Increases the STA reduction cycle by 0.05 seconds per attribute level while [Bunshin no Jutsu] is active.
+SKILL_20151224_006046	Increases the stamina reduction cycle of [Bunshin no Jutsu] by 0.05 seconds per attribute level.
 SKILL_20151224_006047	Decreases damage taken by 4% per attribute level when there are at least 2 clones from [Bunshin no Jutsu].
 SKILL_20151224_006048	Serpentine: Enhance
 SKILL_20151224_006049	Increases the damage dealt on an enemy with [Serpentine] by 1% per attribute level.
@@ -6313,9 +6313,9 @@ SKILL_20160224_006312	Increases the poison damage dealt on an enemy with [Wugong
 SKILL_20160224_006313	If [Call] is used, the hawk has a 50% chance of fetching small items.
 SKILL_20160224_006314	Headshot: Enhance
 SKILL_20160224_006315	Headshot: Stun
-SKILL_20160224_006316	Enemies hit by [Headshot] have a 2.5% chance per attribute level to become stunned for 3 seconds.
+SKILL_20160224_006316	Enemies hit by [Headshot] have a 2.5% chance per attribute level to become afflicted with [Stun] for 3 seconds.
 SKILL_20160224_006317	Snipe: Stun
-SKILL_20160224_006318	Enemies hit by [Snipe] have a 3.5% chance per attribute level to become stunned for 3 seconds.
+SKILL_20160224_006318	Enemies hit by [Snipe] have a 3.5% chance per attribute level to become afflicted with [Stun] for 3 seconds.
 SKILL_20160224_006319	Safety Zone: Block Count
 SKILL_20160224_006320	Increases the block count of [Safety Zone] by 1 per attribute level.
 SKILL_20160224_006321	Exorcise: Duration
