@@ -5900,7 +5900,7 @@ SKILL_20151224_005899	{#993399}{ol}[Magic] - [Fire]{/}{/}{nl}Incinerate enemies 
 SKILL_20151224_005900	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Basic Duration: #{CaptionRatio2}# seconds
 SKILL_20151224_005901	Temporarily let you or your allies bleed to prevent further status ailments. This state will be invulnerable to all rank 2 or lower status ailments.
 SKILL_20151224_005902	Duration: #{CaptionTime}# seconds{nl}HP: -#{CaptionRatio}#
-SKILL_20151224_005903	Spray a cloud of antidote that cures the status ailments of your party members. Allies within the effect will be cured of rank 3 or lower status ailments.
+SKILL_20151224_005903	Spray a cloud of antidote that cures the status ailments of an ally. Allies within the effect will be cured of rank 3 or lower status ailments.
 SKILL_20151224_005904	Removes rank 3 and lower status ailments{nl}Applies a maximum of #{CaptionRatio}# times
 SKILL_20151224_005905	Spread all status ailments on targeted enemies to other enemies within the range.
 SKILL_20151224_005906	Applies a maximum of #{CaptionRatio}# times
@@ -5913,13 +5913,13 @@ SKILL_20151224_005912	{#993399}{ol}[Magic] - [Holy]{/}{/}{nl}Creates a magic cir
 SKILL_20151224_005913	Duration: #{CaptionTime}# seconds{nl}Magic Circle Duration: #{CaptionRatio2}# seconds{nl}Maximum HP: +#{CaptionRatio}#%
 SKILL_20151224_005914	{#993399}{ol}[Magic] - [Holy]{/}{/}{nl}Summons the wagon of the goddess to attack enemies.
 SKILL_20151224_005915	Divide the numbers of an enemy's name and calculate a new number.
-SKILL_20151224_005916	Calculate a new number from the first and the last letter of the enemy's name.
+SKILL_20151224_005916	Calculate a new number from the first and the last letter of an enemy's name.
 SKILL_20151224_005917	If the enemy is hit with the amount of the calculated number, the enemy is hit by the multiplication of the number.
 SKILL_20151224_005918	Final Attack Damage: #{CaptionRatio}#%
 SKILL_20151224_005919	Decrease the level of an enemy depending on the calculated number.
 SKILL_20151224_005920	Additional Enemy Level: -#{CaptionRatio}#
 SKILL_20151224_005921	Last Rites
-SKILL_20151224_005922	Makes the attacks of party members have the Holy property. The Holy property damage is increased in proportion to the caster's [Sacrament] level and becomes more powerful when HP is under 40%.
+SKILL_20151224_005922	Increased Holy property damage in proportion to the caster's [Sacrament] level which becomes more powerful when HP is below 40%.
 SKILL_20151224_005923	Duration: #{CaptionTime}# seconds{nl}Consumes 1 Gyslotis
 SKILL_20151224_005924	Deploy Capella
 SKILL_20151224_005925	Deploys a temporary sacellum with a wrapped cloak. The caster and party members are able to simultaneously receive the effects of the caster's Aspersion, Monstrance, Blessing, Sacrament, Stone Skin.
@@ -5999,7 +5999,7 @@ SKILL_20151224_005998	5% increased EXP rate from automatic Instanced Dungeon mat
 SKILL_20151224_005999	Token Benefits: Movement Speed Increase
 SKILL_20151224_006000	Increased movement speed
 SKILL_20151224_006001	Token
-SKILL_20151224_006002	Able to learn up to 2 attributes simultaneously{nl}Reduced Market commission fee (30%{img white_right_arrow 16 16}10%){nl}Able to list up to 5 items on the Market{nl}+3 increased character movement
+SKILL_20151224_006002	 - Able to learn up to 2 attributes simultaneously{nl} - Reduced Market commission fee (30%{img white_right_arrow 16 16}10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement
 SKILL_20151224_006003	Nexon PC Internet Cafe
 SKILL_20151224_006004	+30% EXP from hunting monsters{nl}20% Reduced Market commission fee{nl}Able to list more items in the Market{nl}Able to learn up to 3 attributes simultaneously{nl}+3 increased character movement{nl}Doubled STA recovery rate
 SKILL_20151224_006005	EXP Tome
@@ -6013,7 +6013,7 @@ SKILL_20151224_006012	Allows you to equip [Plate] armor.{nl}{nl}When equipped wi
 SKILL_20151224_006013	Increases the stamina reduction cycle of your companion by 10 seconds per attribute level.
 SKILL_20151224_006014	When the HP of your companion is less than 50%, it will activate the [First Aid] effect and recover HP for 2 seconds. The duration is increased by 1 second per attribute level from Lv. 2. [First Aid] cannot be used for another 10 minutes after it has been activated.
 SKILL_20151224_006015	Bash: Specialty
-SKILL_20151224_006016	Increases the damage dealt by [Bash] for 28 per attribute level.
+SKILL_20151224_006016	Increases the damage dealt with [Bash] by 28 per attribute level.
 SKILL_20151224_006017	Increases the physical attack, while your maximum HP decreases of [Restrain] per attribute level.
 SKILL_20151224_006018	Increases the maximum HP of your character by 5% per attribute level when [Swash Buckling] is active.
 SKILL_20151224_006019	Increases your physical defense by 10% per attribute level when [Guard] is active.
@@ -6043,7 +6043,7 @@ SKILL_20151224_006042	Zucken: Enhance
 SKILL_20151224_006043	Increases the damage dealt on an enemy with [Zucken] by 1% per attribute level.
 SKILL_20151224_006044	Cyclone: Resistance
 SKILL_20151224_006045	Increases the chance to block harmful effects by 15% per attribute level during [Cyclone].
-SKILL_20151224_006046	Increases the stamina reduction cycle of [Bunshin no Jutsu] by 0.05 seconds per attribute level.
+SKILL_20151224_006046	Increases the Stamina reduction cycle of [Bunshin no Jutsu] by 0.05 seconds per attribute level.
 SKILL_20151224_006047	Decreases damage taken by 4% per attribute level when there are at least 2 clones from [Bunshin no Jutsu].
 SKILL_20151224_006048	Serpentine: Enhance
 SKILL_20151224_006049	Increases the damage dealt on an enemy with [Serpentine] by 1% per attribute level.
