@@ -4455,11 +4455,11 @@ SKILL_20150714_004454	The enemy's movement speed will decrease by 10% whose size
 SKILL_20150714_004455	The enemy's movement speed will increase by 5% whose size got smaller by [Shrink Body] and Physical and Magical ATK rate will decrease by 10% per Attribute level.
 SKILL_20150714_004456	Whenever the size of an enemy changes by [Swell Body], more damage will be incurred which is 30% of Magical ATK rate per Attribute level.
 SKILL_20150714_004457	Whenever the size of an enemy changes by [Shrink Body], more damage will be incurred which is 30% of Magical ATK rate per Attribute level.
-SKILL_20150714_004458	Enhance Left Arm: Shrink Size Speciality
-SKILL_20150714_004459	When you attack an enemy affected by [Shrink Body] while [Enhance Left Arm] is active, you will deal 35 additional damage per attribute level.
-SKILL_20150714_004460	Enhance Left Arm: Enlarge Size Speciality
+SKILL_20150714_004458	Swell Left Arm: Shrink Size Speciality
+SKILL_20150714_004459	When you attack an enemy affected by [Shrink Body] while [Swell Left Arm] is active, you will deal 35 additional damage per attribute level.
+SKILL_20150714_004460	Swell Left Arm: Swell Body Speciality
 SKILL_20150714_004461	When you attack an enemy that is in [Swell Body] when [Left Arm Enhancement] is being activated, the weakened ATK rate status will continue. Duration will increase by 8 secs per Attribute level and the weakened ATK rate can be overlapped max 10 times.
-SKILL_20150714_004462	Right Arm Enhance: Swiftness
+SKILL_20150714_004462	Swell Arm Enhance: Swiftness
 SKILL_20150714_004463	Not using a dagger nor a shield as an offhand gives you a 6% higher accuracy and evasion per attribute level.
 SKILL_20150714_004464	Transpose: Equilibrium
 SKILL_20150714_004465	Balance your INT and CON when using [Transpose], causing each to become the average of both.
@@ -6048,7 +6048,7 @@ SKILL_20151224_006047	Decreases damage taken by 4% per attribute level when ther
 SKILL_20151224_006048	Serpentine: Enhance
 SKILL_20151224_006049	Increases the damage dealt on an enemy with [Serpentine] by 1% per attribute level.
 SKILL_20151224_006050	Serpentine: Bleeding
-SKILL_20151224_006051	Inflicts [Bleeding] for 8 seconds with a 2% chance per attribute level. Bleeding damage is proportional to the character's physical attack.
+SKILL_20151224_006051	Enemies hit by [Serpentine] have a 2% chance per attribute level to become afflicted with [Bleeding] for 8 seconds. Bleeding damage is proportional to the character's physical attack.
 SKILL_20151224_006052	Two-handed Spear Mastery: Big Game Hunter
 SKILL_20151224_006053	Increases the damage dealt on large enemies while using a [Two-handed Spear]. Increases by 4% and 2% per attribute level against large enemies and boss monsters, respectively.
 SKILL_20151224_006054	Enhanced the damage of [Energy Bolt] to Wizard's 2nd Circle standards.
@@ -6065,8 +6065,8 @@ SKILL_20151224_006064	Decreases the physical defense of enemies by 10% per attri
 SKILL_20151224_006065	Decreases the AoE Defense Ratio of the enemies gathered through [Hangman's Knot] by 1 per attribute level.
 SKILL_20151224_006066	Enemies affected by [Swell Body] will have their movement speed decreased by 15% and physical and magic attack increased by 20% per attribute level.
 SKILL_20151224_006067	Enemies affected by [Shrink Body] will have their movement speed increased by 10% and physical and magic attack decreased by 25% per attribute level.
-SKILL_20151224_006068	When you attack an enemy affected by [Swell Body] while [Left Arm Enhancement] is active, increases the damage dealt on an enemy by 35 per attribute level.
-SKILL_20151224_006069	When you attack an enemy affected by [Swell Body] while [Left Arm Enhancement] is active, it will continuously apply the [Attacked Weakened] status effect. Increases the duration by 8 seconds per attribute level and [Attacked Weakened] can stack up to 10 times.
+SKILL_20151224_006068	Deals 35 additional damage per attribute level on enemies affected by [Shrink Body] when [Swell Left Arm] is in effect.
+SKILL_20151224_006069	Attacking enemies affected by [Swell Body] when [Swell Left Arm] is in effect, causes [Attacked Weakened] to persist in duration. Increases the duration by 8 seconds per attribute level. [Attack Weakened] can be stacked up to 10 times.
 SKILL_20151224_006070	Evocation: Enhance
 SKILL_20151224_006071	Increases the damage dealt on an enemy with [Evocation] by 1% per attribute level.
 SKILL_20151224_006072	Desmodus: Enhance
@@ -6081,11 +6081,11 @@ SKILL_20151224_006080	Decreases the movement speed of enemies by 50% for 7 secon
 SKILL_20151224_006081	Rune of Destruction: Enhance
 SKILL_20151224_006082	Increases the damage dealt on an enemy with [Rune of Destruction] by 1% per attribute level.
 SKILL_20151224_006083	Rune of Giants: HP
-SKILL_20151224_006084	Increases the HP of party members who have been made giant with [Rune of Giants], based a portion of the caster's HP by 20% per attribute level.
+SKILL_20151224_006084	Increases additional HP of party members who have been turned into a giant with [Rune of Giants] equal to the caster's HP by 20% per attribute level.
 SKILL_20151224_006085	Rune of Justice: Enhance
 SKILL_20151224_006086	Increases the damage dealt on an enemy with [Rune of Justice] by 1% per attribute level.
 SKILL_20151224_006087	Rune of Protection: Critical Resistance
-SKILL_20151224_006088	Increases the critical resistance by 20% based on the caster's SPR of [Rune of Protection].
+SKILL_20151224_006088	Increases critical resistance from [Rune of Protection] equal to 20% of the caster's SPR per attribute level.
 SKILL_20151224_006089	Deploy Pavise: Bleeding Chance
 SKILL_20151224_006090	Increases the chance to afflict [Bleeding] on an enemy when damage is dealt with [Deploy Pavise] by 1%.
 SKILL_20151224_006091	Increases the physical attack of allies within the range of [Perspective Distortion] by 5% per attribute level.
@@ -6289,7 +6289,7 @@ SKILL_20160224_006288	Decreases the movement speed of monsters affected by [Swel
 SKILL_20160224_006289	Increases the movement speed of monsters affected by [Shrink Body] by 10%, while decreasing their physical and magic attack by 25% per attribute level. (The effects do not count towards characters.)
 SKILL_20160224_006290	Receive a [Quick Cast] effect with a 1% chance per attribute level after using a Rune Caster skill. The effect is based on the caster's skill level of [Quick Cast]. If [Quick Cast] hasn't been learned, then the duration of the skill is reduced along with receiving Lv1 effects.
 SKILL_20160224_006291	Decreases the enemy's movement speed by 70% for 4 seconds on a basic attack with a 5% chance per attribute level while [Rune of Ice] is active.
-SKILL_20160224_006292	Allies made giant by [Rune of Giants] gain additional HP according to [20% of the caster's CON] x [60 per attribute level].
+SKILL_20160224_006292	Allies turned into giants by [Rune of Giants] gain additional HP according to [20% of the caster's CON] x [60 per attribute level].
 SKILL_20160224_006293	Swift Step: Including Party Members
 SKILL_20160224_006294	Applies the effects of [Swift Step] to party members.
 SKILL_20160224_006295	Enemies hit by [High Anchoring] have their critical resistance reduced by 3 per attribute level for 5 seconds.
