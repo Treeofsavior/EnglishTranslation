@@ -4531,7 +4531,7 @@ SKILL_20150714_004530	Increases the damage dealt on an enemy with [Stone Shot] b
 SKILL_20150714_004531	Increases the damage dealt on an enemy with [Rapid Fire] by 1% per attribute level.
 SKILL_20150714_004532	Increases the damage dealt on an enemy with [Teardown] by 1% per attribute level.
 SKILL_20150714_004533	Increases the duration of [Scatter Caltrops] by 1 second per attribute level.
-SKILL_20150714_004534	There is a 8% chance per attribute level that caltrops will cause [Bleeding] when stepped on.
+SKILL_20150714_004534	8% chance per attribute level that caltrops will cause [Bleeding] when stepped on.
 SKILL_20150714_004535	Teardown: Teardown Statue
 SKILL_20150714_004536	Allows you to dismantle Dievdirbys' [Carve World Tree] with [Teardown].
 SKILL_20150714_004537	Increases the damage dealt on an enemy with [Broom Trap] by 1% per attribute level.
@@ -4814,7 +4814,7 @@ SKILL_20150717_004813	Enemies within the range of [Scan] have a chance to be aff
 SKILL_20150717_004814	Enemies within the range of [Lachrymator] will receive damage equal to [attribute level] every 2 seconds. Increases the damage per attribute level.
 SKILL_20150717_004815	Inflicts the enemy with [Massive Bleeding] for 10 seconds when attacked with [Backstab] while affected by bleeding. Increases the duration by 1 second per attribute level. Massive Bleeding damage is proportional to the character's STR and physical attack.
 SKILL_20150717_004816	Increases the range of [Lachrymator] to 75.
-SKILL_20150717_004817	Further decreases an enemy's physical defense by 1% per attribute level when you attack with [Bodkin Point].
+SKILL_20150717_004817	Further decreases an enemy's physical defense by 1% per attribute level when attacked by [Bodkin Point].
 SKILL_20150717_004818	[Crossfire] gets a 10% chance per level of inflicting [Burn] on targets for 6 seconds. Burn damage is proportional to the character's physical attack.
 SKILL_20150717_004819	Enemies hit by the flames [Magic Arrow] will be afflicted with [Silence] by a certain chance. Increases the chance by 10% per attribute level.
 SKILL_20150717_004820	Allows you to create arrows used for Fletcher skills. Arrow Crafting is available while in Rest Mode.
@@ -5894,7 +5894,7 @@ SKILL_20151224_005893	Decatose
 SKILL_20151224_005894	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Attack an enemy by collecting money to offer to the gods. Enemies, with the exception of boss monsters, can be instantly killed at a 10% chance and the offered money can be picked back up again.
 SKILL_20151224_005895	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio2}#%{nl}Consumes #{CaptionRatio}# silver
 SKILL_20151224_005896	Duration: #{CaptionRatio}# seconds{nl}Maximum Level: 1
-SKILL_20151224_005897	{#993399}{ol}[Magic] - [Holy]{/}{/}{nl}Temporarily creates a magic circle that grants a healing factor. If you or your allies take damage from an enemy inside the magic circle, HP will be quickly recovered.
+SKILL_20151224_005897	{#993399}{ol}[Magic] - [Holy]{/}{/}{nl}Temporarily creates a magic circle that grants a healing factor. HP will be quickly recovered if you or your allies take damage from an enemy inside the magic circle.
 SKILL_20151224_005898	Duration: #{CaptionTime}# seconds{nl}HP Recovery: #{CaptionRatio}#
 SKILL_20151224_005899	{#993399}{ol}[Magic] - [Fire]{/}{/}{nl}Incinerate enemies with status ailments. The duration of [Incineration] will increase depending on the amount of status ailments.
 SKILL_20151224_005900	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Basic Duration: #{CaptionRatio2}# seconds
