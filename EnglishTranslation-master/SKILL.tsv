@@ -4809,7 +4809,7 @@ SKILL_20150717_004808	Increases the AoE attack ratio of [Claymore] by 1 per attr
 SKILL_20150717_004809	When an enemy launched by [Punji Stake] hits the ground, it and nearby enemies will be dealt 50% of physical attack as damage.
 SKILL_20150717_004810	Decreases the physical defense of an enemy attacked with [Retrieve] by 10 per attribute level.
 SKILL_20150717_004811	Provides immunity to [Poison] for 2 seconds per attribute level to a character whose [Poison] has been cured due to [Detoxify].
-SKILL_20150717_004812	Even if an enemy steps out of [Throw Gu Pot], [Poison] will last for 2 seconds per attribute level.
+SKILL_20150717_004812	Maintains [Poison] by 2 seconds per attribute level when enemies move outside the range of [Throw Gu Pot].
 SKILL_20150717_004813	Enemies within the range of [Scan] have a chance to be afflicted with [Confusion] for 5 seconds. Increases the chance by 10% per attribute level.
 SKILL_20150717_004814	Enemies within the range of [Lachrymator] will receive damage equal to [attribute level] every 2 seconds. Increases the damage per attribute level.
 SKILL_20150717_004815	Inflicts the enemy with [Massive Bleeding] for 10 seconds when attacked with [Backstab] while affected by bleeding. Increases the duration by 1 second per attribute level. Massive Bleeding damage is proportional to the character's STR and physical attack.
@@ -5283,7 +5283,7 @@ SKILL_20151001_005282	Deals 20% additional damage to Flying-type monsters when e
 SKILL_20151001_005283	Crossbow Mastery
 SKILL_20151001_005284	Ignores enemy defense by 5% per attribute level when equipped with a [One-handed Bow].
 SKILL_20151001_005285	Decreases the time of the first rotation by 0.3 seconds and increases the number of rotations for [Broom Trap] by 0.8 per attribute level.
-SKILL_20151001_005286	Increases the movement speed of your companion under the effects of [Praise] by 1 per attribute level.
+SKILL_20151001_005286	Increases the movement speed of your companion from [Praise] by 1 per attribute level.
 SKILL_20151001_005287	Split Arrow: Enhance
 SKILL_20151001_005288	Increases the damage dealt on an enemy with [Split Arrow] by 1% per attribute level.
 SKILL_20151001_005289	Deals damage equal to 100% magic attack to nearby Devil-type monsters when using [Divine Might].
@@ -6010,7 +6010,7 @@ SKILL_20151224_006009	Allows you to equip the [Pistol] weapon type. You can also
 SKILL_20151224_006010	Allows you to equip [Cloth] armor. When equipped with 3 or more pieces of [Cloth] armor, increases your maximum SP and magic damage taken is decreased by 5%. When equipped with 4 [Cloth] armor pieces, your magic defense increases and magic damage taken is decreased by an additional 10%.
 SKILL_20151224_006011	Allows you to equip [Leather] armor. When equipped with 3 or more pieces of [Leather] armor, increases your evasion. When equipped with 4 [Leather] armor pieces, your evasion increases from attributes by an additional 50%.
 SKILL_20151224_006012	Allows you to equip [Plate] armor.{nl}{nl}When equipped with 3 or more pieces of [Plate] armor, increases your maximum HP and physical damage taken is decreased by 5%.{nl}When equipped with 4 [Plate] armor pieces, your maximum stamina increases and physical damage taken is decreased by an additional 10%.
-SKILL_20151224_006013	Increases the stamina reduction cycle of your companion by 10 seconds per attribute level.
+SKILL_20151224_006013	Increases the Stamina reduction cycle of your companion by 10 seconds per attribute level.
 SKILL_20151224_006014	When the HP of your companion is less than 50%, it will activate the [First Aid] effect and recover HP for 2 seconds. The duration is increased by 1 second per attribute level from Lv. 2. [First Aid] cannot be used for another 10 minutes after it has been activated.
 SKILL_20151224_006015	Bash: Specialty
 SKILL_20151224_006016	Increases the damage dealt with [Bash] by 28 per attribute level.
