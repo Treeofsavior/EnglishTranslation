@@ -2139,8 +2139,8 @@ SKILL_20150317_002138	Counter Thrust: Deprotect
 SKILL_20150317_002139	Counter Thrust has a 10% chance per attribute level of inflicting [Deprotect] for 5 seconds, negating all active buffs on the target.
 SKILL_20150317_002140	Shield Push: Unbalanced
 SKILL_20150317_002141	[Shield Push] deals an additional 20% damage per level based on your physical attack, to knockdowned enemies affected by [Unbalanced].
-SKILL_20150317_002142	Targe Smash: Flame
-SKILL_20150317_002143	Spreads [Flame] to a number of enemies equal to the attribute level when an enemy sufferig from [Flame] is killed with [Targe Smash].
+SKILL_20150317_002142	Targe Smash: Burn
+SKILL_20150317_002143	Spreads [Burn] to a number of enemies equal to the attribute level when an enemy sufferig from [Burn] is killed with [Targe Smash].
 SKILL_20150317_002144	Cyclone: Movement
 SKILL_20150317_002145	Allows movement when using [Cyclone].
 SKILL_20150317_002146	Double Pay Earn: Damage Taken
@@ -2165,7 +2165,7 @@ SKILL_20150317_002164	Lethargy: Strike
 SKILL_20150317_002165	Strike type attacks do 20% more damage to enemies suffering from [Lethargy].
 SKILL_20150317_002166	Quick Cast: Magic Damage
 SKILL_20150317_002167	Magic damage of next attack increases by 10% per attribute level when [Quick Cast] is active.
-SKILL_20150317_002168	Fireball: Flame Debuff
+SKILL_20150317_002168	Fireball: Burn Debuff
 SKILL_20150317_002169	Enemies hit by[Fire Ball] have a 10% chance per attribute level of suffering from [Flame] for 5 seconds.
 SKILL_20150317_002170	Fire Wall: Increased Fire Property Buff
 SKILL_20150317_002171	Fire Property attack increases by 5 per Attribute level for 5 seconds when allies step on [Fire Wall].
@@ -2311,8 +2311,8 @@ SKILL_20150317_002310	Sculptor
 SKILL_20150317_002311	[Carve] deals 5% additional damage per attribute level to plant-type monsters.
 SKILL_20150317_002312	Carve Owl: Maintain Numbers
 SKILL_20150317_002313	Increases the numbers [Carve Owl] can maintain by 1 per attribute level.
-SKILL_20150317_002314	Carve Owl: Flame
-SKILL_20150317_002315	Enemies hit with [Carve Owl] have a 5% chance per attribute level of being afflicted with [Flame], taking 5% of your magic damage as damage for 5 seconds.
+SKILL_20150317_002314	Carve Owl: Burn
+SKILL_20150317_002315	Enemies hit with [Carve Owl] have a 5% chance per attribute level of being afflicted with [Burn], taking 5% of your magic damage as damage for 5 seconds.
 SKILL_20150317_002316	Carve World Tree: Pull
 SKILL_20150317_002317	Pulls enemies within range of [Carve World Tree].
 SKILL_20150317_002318	Dievdirbys: Plant-type Damage
@@ -4483,7 +4483,7 @@ SKILL_20150714_004482	Cooldown time of [Attack Ground] will be reduced.
 SKILL_20150714_004483	Hold: Decreased Cooldown
 SKILL_20150714_004484	Cooldown time of [Hold] will be reduced.
 SKILL_20150714_004485	Summon Salamion: Ignite
-SKILL_20150714_004486	Has a chance to afflict [Flame] for 10 seconds on an enemy when it is attacked by Salamion. Increases the chance by 2% per attribute level.
+SKILL_20150714_004486	Has a chance to afflict [Burn] for 10 seconds on an enemy when it is attacked by Salamion. Increases the chance by 2% per attribute level.
 SKILL_20150714_004487	Summon Salamion: Blind
 SKILL_20150714_004488	Has a chance to afflict [Blind] for 10 seconds on an enemy when it is attacked by Salamion. Increases the chance by 2% per attribute level.
 SKILL_20150714_004489	Increases the critical rate effect from [Quicken] by 5% and decreases evasion by 2% per attribute level.
@@ -4757,7 +4757,7 @@ SKILL_20150717_004756	Decreases the cooldown time of [Long Stride] by 10 seconds
 SKILL_20150717_004757	Increases the physical damage increase effect of [Warcry] by 1 per attribute level. (This attribute only applies after the enemy's defense is decreased.)
 SKILL_20150717_004758	Warcry: Add Target
 SKILL_20150717_004759	Inflicts the target with [Slow] for seconds and increases the duration of [Slow] by 3/2/1 seconds per attribute level on small/medium/large sized monsters respectively with [Montano]
-SKILL_20150717_004760	Spreads [Flame] equal to amount of your attribute level when killing nearby enemies affected by [Flame] with [Targe Smash].
+SKILL_20150717_004760	Spreads [Burn] equal to amount of your attribute level when killing nearby enemies affected by [Burn] with [Targe Smash].
 SKILL_20150717_004761	Enemies pushed back by [Rush] have a 1% chance per attribute level to be afflicted with [Stun] for 2 seconds.
 SKILL_20150717_004762	Changes the property of [Earth Wave] to the Earth property.
 SKILL_20150717_004763	Applies [Slow] with a 4 seconds duration after [Arrest] ends. Increases the duration of [Slow] from Lv2 by 0.4 seconds per attribute level.
@@ -5188,8 +5188,8 @@ SKILL_20150918_005187	Shield Push: Enhance
 SKILL_20150918_005188	Increases the damage dealt on an enemy with [Shield Push] by 1% per attribute level.
 SKILL_20150918_005189	Targe Smash: Frozen Stone
 SKILL_20150918_005190	Inflicts 20% additional damage per attribute level on frozen and petrified enemies with [Targe Smash].
-SKILL_20150918_005191	Targe Smash: Flame
-SKILL_20150918_005192	Spreads [Flame] equal to the amount of [attribute level] when killing an enemy affected by[Flame] with [Targe Smash].
+SKILL_20150918_005191	Targe Smash: Burn
+SKILL_20150918_005192	Spreads [Burn] equal to the amount of [attribute level] when killing an enemy affected by [Burn] with [Targe Smash].
 SKILL_20150918_005193	Shield Push: Duration
 SKILL_20150918_005194	Increases the duration of the Unbalanced status effect applied from [Shield Push] by 1 second per attribute level.
 SKILL_20150918_005195	Shield Shoving: Enhance
@@ -5896,7 +5896,7 @@ SKILL_20151224_005895	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRati
 SKILL_20151224_005896	Duration: #{CaptionRatio}# seconds{nl}Maximum Level: 1
 SKILL_20151224_005897	{#993399}{ol}[Magic] - [Holy]{/}{/}{nl}Temporarily creates a magic circle that grants a healing factor. HP will be quickly recovered if you or your allies take damage from an enemy inside the magic circle.
 SKILL_20151224_005898	Duration: #{CaptionTime}# seconds{nl}HP Recovery: #{CaptionRatio}#
-SKILL_20151224_005899	{#993399}{ol}[Magic] - [Fire]{/}{/}{nl}Incinerate enemies with status ailments. The duration of [Incineration] will increase depending on the amount of status ailments.
+SKILL_20151224_005899	{#993399}{ol}[Magic] - [Fire]{/}{/}{nl}Incinerate enemies with status ailments. The duration of [Incineration] will increase depending on the amount of status ailments on enemies.
 SKILL_20151224_005900	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Basic Duration: #{CaptionRatio2}# seconds
 SKILL_20151224_005901	Temporarily let you or your allies bleed to prevent further status ailments. This state will be invulnerable to all rank 2 or lower status ailments.
 SKILL_20151224_005902	Duration: #{CaptionTime}# seconds{nl}HP: -#{CaptionRatio}#
