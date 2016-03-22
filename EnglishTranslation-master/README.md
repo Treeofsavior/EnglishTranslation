@@ -1,3 +1,33 @@
+##NOTICE (Updated 18-03-2016)
+<br>
+**Announcing Contributor Benefits** <br>
+
+We are proud to announce some plans we have planned to show our gratitude to our contributors that helped bring the game to all of you. Don't worry if you didn't get a chance to help us out before because you can start contributing now!
+
+1. Contributor Requirements<br>
+ -Contributors that translate/proofread over 1 thousand lines per month will be rewarded Contributor Appreciation Items.<br>
+ -Contributors that report critical abuse/bugs or provide high quality translation even though they do not reach the 1 thousand line cutline may also be rewarded Contributor Appreciation Items after internal evaluation.
+
+2. Contributor Appreciation Items (Pre-launch)<br>
+ -Free Pass (May access the server without purchasing DLC)<br>
+ -600 TP<br>
+ -2 Hair Accessories (Popolion/Hanaming Dolls)<br>
+ -In-game Title : Contributor<br>
+
+3. Post launch details<br>
+ -Contributors that translate/proofread over 5 hundred lines.<br>
+ -High quality translation or critical reports pending internal evaluation.<br>
+ -The requirements must be met within a 30 day period.<br>
+ -300 TP<br>
+ -In-game Title : Contributor<br>
+
+4. Distribution Dates : Items will be distributed during the first maintenance each month. 
+
+Thank you all for the love and enthusiasm you have shown Tree of Savior. We would not have been able to bring it to you so soon without all the dedication the contributors showed us, so please give them your thanks if you happen to see them in game.
+
+IMC Staff
+
+UPDATE : If you believe that you've met the requirements, please contact us by MAR 20th in order for us to check and provide benefits.
 ##NOTICE (Updated 10-03-2016)
 <br>
 **GUIDELINES IN WIKI HAVE BEEN UPDATED** <br>

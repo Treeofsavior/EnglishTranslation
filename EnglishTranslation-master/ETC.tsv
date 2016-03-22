@@ -945,10 +945,10 @@ ETC_20150317_000944	Summoned Poata
 ETC_20150317_000945	Q3 Poata
 ETC_20150317_000946	Q1 Harpeia
 ETC_20150317_000947	Q2 Rocktortuga
-ETC_20150317_000948	Carve Zemyna D
-ETC_20150317_000949	Carve Zemyna E
-ETC_20150317_000950	Carve Vakarine D
-ETC_20150317_000951	Carve Vakarine E
+ETC_20150317_000948	Statue of Goddess Zemyna D
+ETC_20150317_000949	Statue of Goddess Zemyna E
+ETC_20150317_000950	Statue of Goddess Vakarine D
+ETC_20150317_000951	Statue of Goddess Vakarine E
 ETC_20150317_000952	Romuva D
 ETC_20150317_000953	Romuva E
 ETC_20150317_000954	Mission Gazing Golem
@@ -1558,7 +1558,7 @@ ETC_20150317_001557	Cannot be used in current status
 ETC_20150317_001558	{S20}{ol}{#ffffcc}{gr gradation1} You need to get a little closer {/}
 ETC_20150317_001559	Your password exceeds the maximum length allowed
 ETC_20150317_001560	Please enter a name
-ETC_20150317_001561	Entering the world... {S18}{ol}{#ffffcc}
+ETC_20150317_001561	{s18}{ol}{#ffffcc}Entering the world...
 ETC_20150317_001562	{Auto_1} {Auto_2} item(s) given to the other party
 ETC_20150317_001563	Used {Auto_1} {Auto_2} item(s)
 ETC_20150317_001564	Equipped with {Auto_1}
@@ -1578,7 +1578,7 @@ ETC_20150317_001577	Failed to purchase item! You have insufficient funds.
 ETC_20150317_001578	Failed to purchase item! Seller has canceled or has removed it from the list.
 ETC_20150317_001579	Failed to purchase item! An unknown error has occurred.
 ETC_20150317_001580	Too close
-ETC_20150317_001581	{S20}{ol}{#46ffc8} You do not have enough Stamina
+ETC_20150317_001581	{s20}{ol}{#46ffc8} You do not have enough Stamina
 ETC_20150317_001582	Object needed for the skill is not available.
 ETC_20150317_001583	You cannot equip secondary equipment while wearing a two-handed weapon.
 ETC_20150317_001584	You cannot use 'Return' during Rest Mode.
@@ -1590,7 +1590,7 @@ ETC_20150317_001589	{Auto_2} - {Auto_3} Damage {Auto_1}
 ETC_20150317_001590	The item required for resurrection is not available.
 ETC_20150317_001591	{#FFFF00} Select Target {/}
 ETC_20150317_001592	Invalid Target {/}
-ETC_20150317_001593	{S20}{ol}{#ffffcc}{gr gradation1} Target is out of range {/}
+ETC_20150317_001593	{S20}{ol}{#ffffcc}{gr gradation1}The target is out of range{/}
 ETC_20150317_001594	Evil spirit will regenerate after 5 seconds
 ETC_20150317_001595	You cannot ride your own carriage
 ETC_20150317_001596	Evaded boss attack. Bonus points + {Auto_1}
@@ -2210,7 +2210,7 @@ ETC_20150317_002209	Seeing the foodstuffs
 ETC_20150317_002210	The garbage is out of stock.{nl}Collect the more garbage from food place in Ishplau.
 ETC_20150317_002211	There are no monsters around to throw the blead.
 ETC_20150317_002212	Destroying
-ETC_20150317_002213	You are slowed by a lazy aura emanating from a Tree Root Crystal!{nl}Remove the Tree Root Crystal at Nevasingas Highway to remove this curse!
+ETC_20150317_002213	You are slowed by a lazy aura emanating from a Tree Root Crystal!{nl}Remove the Tree Root Crystal at Nederlingas Highway to remove this curse!
 ETC_20150317_002214	Dismantling
 ETC_20150317_002215	Failed to dismantle the core of crystal
 ETC_20150317_002216	Obtained a stamina to succeed dismantling the core of crystal 
@@ -2556,7 +2556,7 @@ ETC_20150317_002555	Using the Magic Crystal
 ETC_20150317_002556	Recovering the Holy Relic
 ETC_20150317_002557	Relic not detected
 ETC_20150317_002558	Detecting a Relic
-ETC_20150317_002559	Use Magic Scroll
+ETC_20150317_002559	Use Enchant Scroll
 ETC_20150317_002560	There was no reaction
 ETC_20150317_002561	The monster fainted
 ETC_20150317_002562	The monster exploded
@@ -2586,7 +2586,7 @@ ETC_20150317_002585	Break Ice Rim Blow
 ETC_20150317_002586	Break Rim Blow
 ETC_20150317_002587	Adjust Rim Blow
 ETC_20150317_002588	Close Shot Penalty
-ETC_20150317_002589	Carve
+ETC_20150317_002589	Carve Attack
 ETC_20150317_002590	Leave Guild
 ETC_20150317_002591	Party Request
 ETC_20150317_002592	Failed to create a party
@@ -2668,7 +2668,7 @@ ETC_20150317_002667	Chat Room List
 ETC_20150317_002668	This user does not exist.
 ETC_20150317_002669	Party Quest Area
 ETC_20150317_002670	This user does not exist or is offline.
-ETC_20150317_002671	Enter the player's team name to invite.
+ETC_20150317_002671	Enter the player's Team Name to invite.
 ETC_20150317_002672	{TargetName} and {Count} others
 ETC_20150317_002673	Start Auction
 ETC_20150317_002674	Failed to start an auction
@@ -2850,10 +2850,10 @@ ETC_20150317_002849	The mercenary has been hired.
 ETC_20150317_002850	The mercenary was let go.
 ETC_20150317_002851	This mercenary is already hired.
 ETC_20150317_002852	The theme of your Barracks has been changed.
-ETC_20150317_002853	You have successfully changed your team name.
-ETC_20150317_002854	You have failed to change your team name.
-ETC_20150317_002855	Enter your team name. Your team name will be the name seen by other players.
-ETC_20150317_002856	This team name already exists.
+ETC_20150317_002853	You have successfully{nl}changed your Team Name.
+ETC_20150317_002854	You have failed to{nl}change your Team Name.
+ETC_20150317_002855	Enter a Team Name. This name will be the name seen by other players.
+ETC_20150317_002856	This Team Name already exists.
 ETC_20150317_002857	Collection Effect
 ETC_20150317_002858	List of acquired
 ETC_20150317_002859	Full list
@@ -2864,17 +2864,17 @@ ETC_20150317_002863	Only through the NPC can be registered.
 ETC_20150317_002864	Obtain {Auto_2} from {Auto_1}
 ETC_20150317_002865	Total Explored
 ETC_20150317_002866	explored
-ETC_20150317_002867	{Auto_1} quests cleared
+ETC_20150317_002867	{Auto_1} quest(s) cleared
 ETC_20150317_002868	{Auto_1} NPCs met
 ETC_20150317_002869	Score {Category}
 ETC_20150317_002870	Rank
 ETC_20150317_002871	Adventure
 ETC_20150317_002872	Exploration
-ETC_20150317_002873	{Auto_1} collections acquired
-ETC_20150317_002874	{Auto_1} achievements earned
-ETC_20150317_002875	{Auto_1} missions cleared
+ETC_20150317_002873	{Auto_1} collection(s) acquired
+ETC_20150317_002874	{Auto_1} achievement(s) earned
+ETC_20150317_002875	{Auto_1} mission(s) cleared
 ETC_20150317_002876	Adventure Ranking
-ETC_20150317_002877	Collection completed {Auto_1}
+ETC_20150317_002877	{Auto_1} collection(s) completed
 ETC_20150317_002878	Contents
 ETC_20150317_002879	Set items
 ETC_20150317_002880	Acquisition Rate:
@@ -2884,7 +2884,7 @@ ETC_20150317_002883	Date
 ETC_20150317_002884	Click to go to the item page.
 ETC_20150317_002885	Recent
 ETC_20150317_002886	Help
-ETC_20150317_002887	Enter your friend's team name
+ETC_20150317_002887	Enter your friend's Team Name
 ETC_20150317_002888	Already in your Friends List
 ETC_20150317_002889	You have a new friend request.
 ETC_20150317_002890	Received requests
@@ -2901,7 +2901,7 @@ ETC_20150317_002900	Played together {Count} time(s)
 ETC_20150317_002901	Formed a party together {Count} time(s)
 ETC_20150317_002902	Traded {Count} time(s)
 ETC_20150317_002903	Already in your block list.
-ETC_20150317_002904	Please enter the team name you want to block.
+ETC_20150317_002904	Enter the Team Name you want to block.
 ETC_20150317_002905	The name of your group is too long.
 ETC_20150317_002906	The contents of your memo is too long.
 ETC_20150317_002907	Memo Settings
@@ -3314,13 +3314,13 @@ ETC_20150317_003313	Are you telling me to die again?!
 ETC_20150317_003314	That's nonsense!
 ETC_20150317_003315	You cold-blooded fool!
 ETC_20150317_003316	You're no different from the one who killed me!
-ETC_20150317_003317	I see.. Please use it well..
-ETC_20150317_003318	I've been waiting for you..
+ETC_20150317_003317	I see... Please use it well...
+ETC_20150317_003318	I've been waiting for you...
 ETC_20150317_003319	Persuading
 ETC_20150317_003320	The soul has turned hostile! {nl} You have to get the essence of the soul forcibly!
 ETC_20150317_003321	You obtained the Meduja larvae
 ETC_20150317_003322	You obtained the lost package
-ETC_20150317_003323	Thank you.. You are so kind..
+ETC_20150317_003323	Thank you... You are so kind...
 ETC_20150317_003324	Taking memo.
 ETC_20150317_003325	You copied the writings on the memorial stone of pilgrims
 ETC_20150317_003326	Jibyu Banshee
@@ -3338,7 +3338,7 @@ ETC_20150317_003337	Retrieving Supplies
 ETC_20150317_003338	Recovering Body
 ETC_20150317_003339	Collecting provocative fragrance
 ETC_20150317_003340	Session available
-ETC_20150317_003341	He-... Help!
+ETC_20150317_003341	H-Help...!
 ETC_20150317_003342	Scout Danus
 ETC_20150317_003343	Releasing trap
 ETC_20150317_003344	This is all because of you!
@@ -3696,7 +3696,7 @@ ETC_20150317_003695	No it tag main trigger
 ETC_20150317_003696	No ice it tag player session
 ETC_20150317_003697	Give power to the Owl Statue! (Space bar)
 ETC_20150317_003698	Giving power
-ETC_20150317_003699	Magic altar is not destroyed
+ETC_20150317_003699	The Altar of Magic is not destroyed
 ETC_20150317_003700	Not keepsake of soul
 ETC_20150317_003701	Using the condensed magic source
 ETC_20150317_003702	Absorb Medakia!
@@ -3989,7 +3989,7 @@ ETC_20150317_003988	Wise Crave Owl Statue
 ETC_20150317_003989	Available within the blocks!
 ETC_20150317_003990	Ludas Ridimed
 ETC_20150317_003991	Possible use!
-ETC_20150317_003992	Available in the thorn forest!
+ETC_20150317_003992	Available in Thorn Forest!
 ETC_20150317_003993	React material of monster on Thorn forest
 ETC_20150317_003994	This can only be used on a monster!
 ETC_20150317_003995	Monsters that are confused
@@ -3999,9 +3999,9 @@ ETC_20150317_003998	No Red Vubbe Archer to apply
 ETC_20150317_003999	There are no experimental monsters around!
 ETC_20150317_004000	You need monsters to bring the fire energy around!
 ETC_20150317_004001	Can only be used in Fallen Tree Garden
-ETC_20150317_004002	You can only used in the general field
-ETC_20150317_004003	Can only be used in Mage Tower 1F.
-ETC_20150317_004004	You may not use this yet.
+ETC_20150317_004002	Can only be used in general fields
+ETC_20150317_004003	Can only be used in Mage Tower 1F
+ETC_20150317_004004	You may not use this yet
 ETC_20150317_004005	There is no Goddess Statue nearby!
 ETC_20150317_004006	There are no monsters around to use the bomb on!
 ETC_20150317_004007	Available only in the West Siauliai Woods
@@ -5103,7 +5103,7 @@ ETC_20150317_005102	Yes!
 ETC_20150317_005103	Out of the way
 ETC_20150317_005104	Let him pass
 ETC_20150317_005105	Return to your positions
-ETC_20150317_005106	Mineral Detector
+ETC_20150317_005106	Petrification Detector
 ETC_20150317_005107	Defeat Saltistter!
 ETC_20150317_005108	Stop him!
 ETC_20150317_005109	Don't get caught while passing
@@ -5644,10 +5644,10 @@ ETC_20150317_005643	Sanctification
 ETC_20150317_005644	The spirit has been separated by the power of seal!
 ETC_20150317_005645	The Seal is charging!
 ETC_20150317_005646	Impure Aura Intoxication
-ETC_20150317_005647	You has been poisoned as the hazy energy from a summon crystal.
+ETC_20150317_005647	You've been poisoned due to the hazy energy from the summon crystal.
 ETC_20150317_005648	Brainwash
 ETC_20150317_005649	Brainwashing in progress
-ETC_20150317_005650	Romuva Holy Water's Effect: Conceals user from Demons
+ETC_20150317_005650	Romuva Holy Water's Effect: Conceals user from demons
 ETC_20150317_005651	Holy Spirit Bomb has been attached
 ETC_20150317_005652	Common Death
 ETC_20150317_005653	Holy Spirit Shackle
@@ -5655,14 +5655,14 @@ ETC_20150317_005654	Spirit Stone is siphoning this demon's life energy!
 ETC_20150317_005655	Shackled!
 ETC_20150317_005656	Ominous Aura
 ETC_20150317_005657	Hostile
-ETC_20150317_005658	The Aura of Malda Altar
-ETC_20150317_005659	The Aura of Malda Altar is enveloping the demons!
+ETC_20150317_005658	Malda Altar's Aura
+ETC_20150317_005659	The aura of the Malda Altar is enveloping the demons!
 ETC_20150317_005660	Confidence
 ETC_20150317_005661	Demons become easier to deal with.
-ETC_20150317_005662	The Power of Glozejas
-ETC_20150317_005663	You can convert the Demons!
+ETC_20150317_005662	Glozejas' Power
+ETC_20150317_005663	You can convert the demons!
 ETC_20150317_005664	Hoodwink
-ETC_20150317_005665	Scent of Lethargy Grass
+ETC_20150317_005665	Lethargy Grass' Scent
 ETC_20150317_005666	Movement speed has decreased due to scent of the Lethargy Grass.
 ETC_20150317_005667	Carbonizing
 ETC_20150317_005668	It's burning!
@@ -5671,9 +5671,9 @@ ETC_20150317_005670	Getting its sap extracted
 ETC_20150317_005671	Burning
 ETC_20150317_005672	It's burning!
 ETC_20150317_005673	Mind Control (Lizardman)
-ETC_20150317_005674	This Lizardman is under Mind Control.
+ETC_20150317_005674	This Lizardman is being mind controlled.
 ETC_20150317_005675	Mind Control (Infroburk)
-ETC_20150317_005676	This Infroburk is under Mind Control.
+ETC_20150317_005676	This Infroburk is being mind controlled.
 ETC_20150317_005677	Has scented stone powder on it.
 ETC_20150317_005678	Sweet smell
 ETC_20150317_005679	Smells sweet.
@@ -5688,7 +5688,7 @@ ETC_20150317_005687	I have purifier parts.
 ETC_20150317_005688	Scented Stone Powder Applied
 ETC_20150317_005689	Scented Stone Powder has been applied! Luring a powerful monster
 ETC_20150317_005690	Promotional Material Attached
-ETC_20150317_005691	The kingdom's army's promotional material is attached on it!
+ETC_20150317_005691	The Royal Army's promotional material is attached on it!
 ETC_20150317_005692	Body Odor Obtained
 ETC_20150317_005693	Nefenders has fainted!
 ETC_20150317_005694	Wide Area Shooting
@@ -5711,8 +5711,8 @@ ETC_20150317_005710	Life Drain
 ETC_20150317_005711	Confusion
 ETC_20150317_005712	Rewind Time
 ETC_20150317_005713	Rewind Time refreshes the remaining time of HP, SP and STA buffs. Additionally resets all cooldowns. 
-ETC_20150317_005714	Go back in time
-ETC_20150317_005715	Rewind monster's behavior.
+ETC_20150317_005714	Go Back in Time
+ETC_20150317_005715	Rewind a monster's behavior.
 ETC_20150317_005716	String
 ETC_20150317_005717	Connects mind and body with the target. All damage received is shared.
 ETC_20150317_005718	Spiritual Chain
@@ -5745,16 +5745,16 @@ ETC_20150317_005744	You cannot take action. Damage taken is decreased by 50% und
 ETC_20150317_005745	Silence
 ETC_20150317_005746	Basic attacks and skills cannot be used.
 ETC_20150317_005747	Can't distinguish between enemy and friendly forces.
-ETC_20150317_005748	Receiving continuous damage. Movement amplifies the damage additionally. 
+ETC_20150317_005748	Receiving continuous damage. The more you move, the more damage you receive. 
 ETC_20150317_005749	Massive Bleeding
 ETC_20150317_005750	Receiving continuous [Bleeding] damage. Movement amplifies the damage additionally. 
 ETC_20150317_005751	Receiving continuous [Poisoning] damage. This effect will end over time or can be cured by Cure or an antidote.
 ETC_20150317_005752	Receiving continuous [Fire] damage.
 ETC_20150317_005753	Can't recover HP and SP. Recoverable with Cure.
 ETC_20150317_005754	Attack Weakened
-ETC_20150317_005755	Your attack is decreased and can continue to decrease more when stacked.
+ETC_20150317_005755	Decreased attack. Decreases more per stack.
 ETC_20150317_005756	Defense Weakened
-ETC_20150317_005757	Your defense is decreased and can continue to decrease more when stacked.
+ETC_20150317_005757	Decreased defense. Decreases more per stack
 ETC_20150317_005758	Armor Break
 ETC_20150317_005759	Temporarily removes the defense of your armor.
 ETC_20150317_005760	Make continuous damage to Human, wild animal monsters, If the different Human, wild animal monsters are closed then infection randomly.
@@ -5763,7 +5763,7 @@ ETC_20150317_005762	Your movement speed is decreased by 50%.
 ETC_20150317_005763	Miniaturization
 ETC_20150317_005764	Body shrinks down
 ETC_20150317_005765	Enlargement
-ETC_20150317_005766	Body becomes larger
+ETC_20150317_005766	Larger body.
 ETC_20150317_005767	Receive damage like you will be acted in a body with different string state object.
 ETC_20150317_005768	Temporarily decreases INT and SPR significantly.
 ETC_20150317_005769	Temporarily cannot see your surroundings.
@@ -6335,67 +6335,67 @@ ETC_20150317_006335	Salavija Hill
 ETC_20150317_006336	Abandoned Camp
 ETC_20150317_006337	Hollow Tree Forest
 ETC_20150317_006338	Field of Reeds
-ETC_20150317_006339	Ishiblysh Square
+ETC_20150317_006339	Isblyskes Square
 ETC_20150317_006340	Ascetic Sanctuary
-ETC_20150317_006341	Nevasingas Highway
-ETC_20150317_006342	Kabeti Hill
+ETC_20150317_006341	Nederlingas Highway
+ETC_20150317_006342	Kabantis Hill
 ETC_20150317_006343	Nomads Camp
-ETC_20150317_006344	Zakole Shore
+ETC_20150317_006344	Pusapskritimis Shore
 ETC_20150317_006345	Pilgrim's Tomb
-ETC_20150317_006346	Pasukti Path
-ETC_20150317_006347	Noreti Fountain
+ETC_20150317_006346	Posukis Path
+ETC_20150317_006347	Noras Fountain
 ETC_20150317_006348	Rudiziu Trail
 ETC_20150317_006349	Vinas Brewery
-ETC_20150317_006350	Oshimas Highway
+ETC_20150317_006350	Osimas Highway
 ETC_20150317_006351	Chliz Uphill
 ETC_20150317_006352	Branginti Hill
-ETC_20150317_006353	Pamaish Hill
+ETC_20150317_006353	Sukurys Hill
 ETC_20150317_006354	Saint's Tomb
 ETC_20150317_006355	Sausas Fork
 ETC_20150317_006356	Bridge of Farewell
 ETC_20150317_006357	Hermit's House
-ETC_20150317_006358	Erienos Chapel
+ETC_20150317_006358	Eriukas Chapel
 ETC_20150317_006359	Malone Trail
-ETC_20150317_006360	Sestine Wilderness
+ETC_20150317_006360	Sestines Wilderness
 ETC_20150317_006361	Peddler Camp
 ETC_20150317_006362	Niekas Field
 ETC_20150317_006363	Meeting Plaza
-ETC_20150317_006364	Wedroka Access Road
-ETC_20150317_006365	Mirshta Lake
+ETC_20150317_006364	Klajone Access Road
+ETC_20150317_006365	Mirsta Lake
 ETC_20150317_006366	Meile Oratorium
 ETC_20150317_006367	Pamaldu Groom
 ETC_20150317_006368	Collapsed Dome
 ETC_20150317_006369	Arka Chapel
 ETC_20150317_006370	Reception Room
-ETC_20150317_006371	Veinika Altar
-ETC_20150317_006372	Uolie Chapel
+ETC_20150317_006371	Karuna Altar
+ETC_20150317_006372	Uola Chapel
 ETC_20150317_006373	Altar of Stability
 ETC_20150317_006374	Small Hall
-ETC_20150317_006375	Liudesy Highway
+ETC_20150317_006375	Liudesio Highway
 ETC_20150317_006376	Olivinas Vacant Lot
-ETC_20150317_006377	Fasadu Rest Area
-ETC_20150317_006378	Laukti Antenave
-ETC_20150317_006379	Atejima Concourse
+ETC_20150317_006377	Priekis Rest Area
+ETC_20150317_006378	Laukimas Antenave
+ETC_20150317_006379	Atejimas Concourse
 ETC_20150317_006380	Small Reception Room
-ETC_20150317_006381	Pasara Altar
-ETC_20150317_006382	Tikintie Gallery
-ETC_20150317_006383	Ishgaki Rest Area
-ETC_20150317_006384	Gryna Upriver
-ETC_20150317_006385	Purine Fork
-ETC_20150317_006386	Temdyti Crossroads
-ETC_20150317_006387	Mirzina Shore
-ETC_20150317_006388	Rankina Vacant Lot
-ETC_20150317_006389	Slaptu Lowland
-ETC_20150317_006390	Paslje Rest Area
-ETC_20150317_006391	Suzadini Junction
-ETC_20150317_006392	Pieva Hill
-ETC_20150317_006393	Sevyni Yard 
-ETC_20150317_006394	Svaigul Hill
-ETC_20150317_006395	Apsvaigy Path
-ETC_20150317_006396	Smakra Shore
-ETC_20150317_006397	Amesti Uphill
+ETC_20150317_006381	Pasala Altar
+ETC_20150317_006382	Tikinciuju Gallery
+ETC_20150317_006383	Aptvertas Rest Area
+ETC_20150317_006384	Tyra Upriver
+ETC_20150317_006385	Purpurine Fork
+ETC_20150317_006386	Tamsus Crossroads
+ETC_20150317_006387	Milziniskas Shore
+ETC_20150317_006388	Ranka Vacant Lot
+ETC_20150317_006389	Slaptas Lowland
+ETC_20150317_006390	Paslepta Rest Area
+ETC_20150317_006391	Sutrikes Junction
+ETC_20150317_006392	Grybas Hill
+ETC_20150317_006393	Senyvas Yard
+ETC_20150317_006394	Svaigulys Hill
+ETC_20150317_006395	Apsvaiges Path
+ETC_20150317_006396	Smakras Shore
+ETC_20150317_006397	Atmesti Uphill
 ETC_20150317_006398	Neglected Grave Site
-ETC_20150317_006399	Pastuma Brook
+ETC_20150317_006399	Pastumtas Brook
 ETC_20150317_006400	Uzjetsu Garden
 ETC_20150317_006401	Mining Area 1
 ETC_20150317_006402	Mining Area 2
@@ -6422,43 +6422,43 @@ ETC_20150317_006422	Parduo Plaza Site
 ETC_20150317_006423	Customs Site
 ETC_20150317_006424	Trade District
 ETC_20150317_006425	Ruklys Square
-ETC_20150317_006426	Pergele Highway
-ETC_20150317_006427	Drasa Chapel Ruins
+ETC_20150317_006426	Pergale Highway
+ETC_20150317_006427	Drasos Chapel Ruins
 ETC_20150317_006428	Noble Residential District
 ETC_20150317_006429	Barracks District
 ETC_20150317_006430	Collapsed Triumphal Arch
 ETC_20150317_006431	Estuary Bank Junction
-ETC_20150317_006432	Zmone Square
-ETC_20150317_006433	Destroyed Amosi Dock
+ETC_20150317_006432	Zmoniu Square
+ETC_20150317_006433	Destroyed Uodegos Dock
 ETC_20150317_006434	Watermill Ruins
 ETC_20150317_006435	Residential District
-ETC_20150317_006436	Viska Sanctum Ruins
-ETC_20150317_006437	Vadova Dock
+ETC_20150317_006436	Visko Sanctum Ruins
+ETC_20150317_006437	Vadovo Dock
 ETC_20150317_006438	Kovos Hall Site
 ETC_20150317_006439	Stone Icicle Square
-ETC_20150317_006440	Nevekia Castle
+ETC_20150317_006440	Neiveikiama Castle
 ETC_20150317_006441	Castle Bastion
 ETC_20150317_006442	Small Square
 ETC_20150317_006443	Assembly Area
-ETC_20150317_006444	Lenteleja Highway
+ETC_20150317_006444	Lenteles Highway
 ETC_20150317_006445	Zaliavin Valley
-ETC_20150317_006446	Miglan Hill
-ETC_20150317_006447	Kuboti Hill
-ETC_20150317_006448	Ledas Valley
-ETC_20150317_006449	Beverti Intersection
-ETC_20150317_006450	Didela Cliff
+ETC_20150317_006446	Miglos Hill
+ETC_20150317_006447	Skardus Hill
+ETC_20150317_006448	Ledo Valley
+ETC_20150317_006449	Bevertis Crossroads
+ETC_20150317_006450	Platus Cliff
 ETC_20150317_006451	Grubus Highway
 ETC_20150317_006452	Broken Path
-ETC_20150317_006453	Drozyba Cliff
-ETC_20150317_006454	Liezube Lowland
-ETC_20150317_006455	Pazine Brook
-ETC_20150317_006456	Prasti Hill
-ETC_20150317_006457	Stadyti Shore
-ETC_20150317_006458	Shiauras Valley
-ETC_20150317_006459	Atidalti Field
-ETC_20150317_006460	Susive Hill Areas
-ETC_20150317_006461	Rodykle Highway
-ETC_20150317_006462	Lowacti Vacant Lot
+ETC_20150317_006453	Droztas Cliff
+ETC_20150317_006454	Liezuvio Lowland
+ETC_20150317_006455	Pazistamas Brook
+ETC_20150317_006456	Prarastas Hill
+ETC_20150317_006457	Stabdymo Shore
+ETC_20150317_006458	Siauras Valley
+ETC_20150317_006459	Atviras Field
+ETC_20150317_006460	Susipyne Hill Areas
+ETC_20150317_006461	Rodykles Highway
+ETC_20150317_006462	Laukimo Vacant Lot
 ETC_20150317_006463	Crossroad Camp
 ETC_20150317_006464	Uoros Farm
 ETC_20150317_006465	Delon Shelter
@@ -6468,8 +6468,8 @@ ETC_20150317_006468	Shadow Forest Road
 ETC_20150317_006469	Eastern Woods Camp
 ETC_20150317_006470	Camp Site
 ETC_20150317_006471	Supplies Camp
-ETC_20150317_006472	Bulvjes Farm
-ETC_20150317_006473	Nudegi Felled Area
+ETC_20150317_006472	Bulves Farm
+ETC_20150317_006473	Nudeges Felled Area
 ETC_20150317_006474	Crystal Mine Entrance
 ETC_20150317_006475	Miners' Village Square
 ETC_20150317_006476	Shelter
@@ -6491,12 +6491,12 @@ ETC_20150317_006491	Rearguard Unit Camp
 ETC_20150317_006492	Center Unit Camp
 ETC_20150317_006493	Razygis Hill
 ETC_20150317_006494	Zitiz Shore
-ETC_20150317_006495	Izdaginakas Highway
+ETC_20150317_006495	Isdaigininko Highway
 ETC_20150317_006496	Occupation Forces Garage
 ETC_20150317_006497	Gyveni Garden
 ETC_20150317_006498	Flag Boot Camp
 ETC_20150317_006499	Buvylvite Large Bridge
-ETC_20150317_006500	Morkos Farm
+ETC_20150317_006500	Morku Farm
 ETC_20150317_006501	Greate Stone Face Hill
 ETC_20150317_006502	Garrison Supply Camp
 ETC_20150317_006503	Vubbe Plunder Base
@@ -6511,7 +6511,7 @@ ETC_20150317_006511	Fourth Supply Room
 ETC_20150317_006512	Third Supply Room
 ETC_20150317_006513	Central Plaza
 ETC_20150317_006514	Kateen Forest Camp
-ETC_20150317_006515	Peljeda Crossroads
+ETC_20150317_006515	Peledos Crossroads
 ETC_20150317_006516	Uzesy Hill
 ETC_20150317_006517	Purple Fountain
 ETC_20150317_006518	Grobis Crossroads
@@ -6519,15 +6519,15 @@ ETC_20150317_006519	Crying Place
 ETC_20150317_006520	Butterfly Tomb
 ETC_20150317_006521	Garden of Consolation
 ETC_20150317_006522	Tomb Spider Nest
-ETC_20150317_006523	Nelasve Shore
+ETC_20150317_006523	Nelaisve Shore
 ETC_20150317_006524	Amolallul Hill
-ETC_20150317_006525	Nuapti Lowland
-ETC_20150317_006526	Bastytis Field
+ETC_20150317_006525	Nualpes Lowland
+ETC_20150317_006526	Bastymosi Field
 ETC_20150317_006527	Tomb of Unknown Soldier
 ETC_20150317_006528	Twin Hill
 ETC_20150317_006529	Bonewide Cliff
-ETC_20150317_006530	Duoklu Hall
-ETC_20150317_006531	Sudejeti Valley
+ETC_20150317_006530	Duokliu Hall
+ETC_20150317_006531	Sudetas Valley
 ETC_20150317_006532	Stone Hill
 ETC_20150317_006533	Cradle of Squire
 ETC_20150317_006534	Mine Worker's Resting Place
@@ -6546,10 +6546,10 @@ ETC_20150317_006546	Metos Field
 ETC_20150317_006547	Abandoned Old Workshop
 ETC_20150317_006548	Kapas Highway
 ETC_20150317_006549	Apvija Hill
-ETC_20150317_006550	Pamirsit Highland
+ETC_20150317_006550	Pamirstas Highland
 ETC_20150317_006551	Mazonas Rest Area
-ETC_20150317_006552	Pasaga Cliff
-ETC_20150317_006553	Zlugi Historic Site
+ETC_20150317_006552	Pasagos Cliff
+ETC_20150317_006553	Zluges Historic Site
 ETC_20150317_006554	Pillars of the Courtyard
 ETC_20150317_006555	Dzida Cliff
 ETC_20150317_006556	Collapsed Sanctum
@@ -6559,19 +6559,19 @@ ETC_20150317_006559	Apynys Habitat
 ETC_20150317_006560	Alkune Stairway
 ETC_20150317_006561	Vienisa Highland
 ETC_20150317_006562	Ratas Fork
-ETC_20150317_006563	Nuotori Cliff
+ETC_20150317_006563	Nutoles  Cliff
 ETC_20150317_006564	Rodoma 1st Ruins
 ETC_20150317_006565	Tomb Guard's Cabin
 ETC_20150317_006566	Rodoma 2nd Ruins
 ETC_20150317_006567	Collapsed Stone Pillar Bridge
-ETC_20150317_006568	Zibinta Uphill
+ETC_20150317_006568	Zibintu Uphill
 ETC_20150317_006569	Geltonas Highland
 ETC_20150317_006570	Stone Pillar Hill
 ETC_20150317_006571	Isvalyta Historic Site
-ETC_20150317_006572	Shirnas Highland
+ETC_20150317_006572	Serno Highland
 ETC_20150317_006573	Dykyne Fork
-ETC_20150317_006574	Apati Cliff
-ETC_20150317_006575	Nepatogu Field
+ETC_20150317_006574	Apatinis Cliff
+ETC_20150317_006575	Nepatogus Field
 ETC_20150317_006576	Neck Cliff of Snake
 ETC_20150317_006577	Camp of Varkis
 ETC_20150317_006578	Forest of Fireflies
@@ -8104,7 +8104,7 @@ ETC_20150317_008104	Name#Hot Panto Warrior#Level#50
 ETC_20150317_008105	Name#Hot Panto Spearman#Level#50
 ETC_20150317_008106	Wandering Vubbe Archer
 ETC_20150317_008107	with you
-ETC_20150317_008108	Killed. The summon army will be created.
+ETC_20150317_008108	defeated. A summon army will be created.
 ETC_20150317_008109	%s was defeated by %s.
 ETC_20150317_008110	Golem AI
 ETC_20150317_008111	Brush
@@ -9312,7 +9312,7 @@ ETC_20150317_009312	Hidden Quest NPC Summon
 ETC_20150317_009313	Charged Royal Mausoleum Cube
 ETC_20150317_009314	Installation Site of Completed Magic Jar
 ETC_20150317_009315	Petrified Stolen Goods
-ETC_20150317_009316	Weak Stone Frost
+ETC_20150317_009316	Faint Stone Frost
 ETC_20150317_009317	Rambear(Quest)
 ETC_20150317_009318	Wild Flower
 ETC_20150317_009319	Rebel Forces Documentary
@@ -9389,7 +9389,7 @@ ETC_20150317_009389	Evil Aura
 ETC_20150317_009390	Pilgrim Julius turned into a Drapeliun!
 ETC_20150317_009391	Making a grave for Liliya
 ETC_20150317_009392	Grave of Pilgrim Mathas*
-ETC_20150317_009393	You are slowed by a lazy aura emanating from a Tree Root Crystal!{nl}Remove the Tree Root Crystal at Nevasingas Highway to remove this curse!
+ETC_20150317_009393	You are slowed by a lazy aura emanating from a Tree Root Crystal!{nl}Remove the Tree Root Crystal at Nederlingas Highway to remove this curse!
 ETC_20150317_009394	Variant Laziness's Tree Root Crystal*
 ETC_20150317_009395	Traces of Pollution
 ETC_20150317_009396	Scattered Tree Root Crystal Core
@@ -9572,8 +9572,8 @@ ETC_20150323_009572	Sirdgela Forest
 ETC_20150323_009573	Dvasia Peak
 ETC_20150323_009574	Ramstis Ridge
 ETC_20150323_009575	Akmens Ridge
-ETC_20150323_009576	Tiltas Valley
 ETC_20150323_009577	Rukas Plateau
+ETC_20150323_009576	Tiltas Valley
 ETC_20150323_009578	Zachariel Crossroads
 ETC_20150323_009579	Stele Road
 ETC_20150323_009580	Escanciu Village
@@ -9639,7 +9639,7 @@ ETC_20150323_009639	Earth Fortress 59_1
 ETC_20150323_009640	Earth Fortress 59_2
 ETC_20150323_009641	Earth Fortress 59_3
 ETC_20150323_009642	Astral Tower 60_1
-ETC_20150323_009643	Raukti Altar
+ETC_20150323_009643	Laukimas Altar
 ETC_20150323_009644	Seal Magic Circle
 ETC_20150323_009645	Wooden Barrel
 ETC_20150323_009646	Goddess Statue Wing
@@ -9756,19 +9756,19 @@ ETC_20150323_009757	Party Quest Count
 ETC_20150323_009758	Altar Group Buff
 ETC_20150323_009759	Purification Contribution
 ETC_20150323_009760	Contributed in purifying evil energy
-ETC_20150323_009761	The energy of weak astral body
-ETC_20150323_009762	Energy of Astral body can be felt weakly
-ETC_20150323_009763	The energy of astral body
-ETC_20150323_009764	Energy of Astral body can be felt for sure
+ETC_20150323_009761	Weakened Astral Body's Energy
+ETC_20150323_009762	The energy of the Astral body can be felt weakly.
+ETC_20150323_009763	Astral Body's Energy
+ETC_20150323_009764	The energy of the Astral body can certainly be felt.
 ETC_20150323_009765	Spooky Energy
-ETC_20150323_009766	Monsters become stronger by spooky energy.
+ETC_20150323_009766	Monsters have become stronger due to spooky energy.
 ETC_20150323_009767	Hauberk Hover
-ETC_20150323_009768	Necromantic Status
+ETC_20150323_009768	Necromantic State
 ETC_20150323_009769	You were attacked by Norgailler's necromantic bead!
 ETC_20150323_009770	Obedience
 ETC_20150323_009771	This monster is enslaved!
 ETC_20150323_009772	Incapacitated
-ETC_20150323_009773	Incapacitated by Evening Star Rune.
+ETC_20150323_009773	Incapacitated by the Evening Star Rune.
 ETC_20150323_009774	Possession
 ETC_20150323_009775	This monster holds a part of Hauberk.
 ETC_20150323_009776	Fainted Scorpio
@@ -9801,11 +9801,11 @@ ETC_20150323_009802	Movement Speed will be increased by 1 for 30 mins.
 ETC_20150323_009803	Use multiple skills to suppress overkill.
 ETC_20150323_009804	Use Status Points obtained through leveling up {nl}    and upgrade your character's abilities.
 ETC_20150323_009805	Elementalist
-ETC_20150323_009806	Vinas Camp
+ETC_20150323_009806	Vynas Camp
 ETC_20150323_009807	Ryskus City
-ETC_20150323_009808	Yujima Narthex
-ETC_20150323_009809	Ramybe Cliff
-ETC_20150323_009810	Gaule Altar
+ETC_20150323_009808	Maskuote Narthex
+ETC_20150323_009809	Taika Cliff
+ETC_20150323_009810	Apgaule Altar
 ETC_20150323_009811	Sviesa Altar
 ETC_20150323_009812	Ershike Altar
 ETC_20150323_009813	Shileik Trail
@@ -9923,7 +9923,7 @@ ETC_20150323_009924	Get the antidote from the people at Akmens Ridge
 ETC_20150323_009925	Remove the seal of Viesa Altar
 ETC_20150323_009926	Find documents about the method of demon transformation in the Sanctuary
 ETC_20150323_009927	Defend against the demons while the Demon Transformation Scroll is being completed
-ETC_20150323_009928	Obtain the 4th key of Maven from Gaule Altar
+ETC_20150323_009928	Obtain the 4th key of Maven from Apgaule Altar
 ETC_20150323_009929	Remove demonic objects
 ETC_20150323_009930	Unknown device 
 ETC_20150323_009931	Win against the Priest of Evidence
@@ -10223,7 +10223,7 @@ ETC_20150323_010224	I know where the key is
 ETC_20150323_010225	I know the location of the key hidden by the humans
 ETC_20150323_010226	You have to find it quickly
 ETC_20150323_010227	This is your only chance
-ETC_20150323_010228	Transformation successful!{nl}Lure the subordinates of Naktis to Gaule Altar.
+ETC_20150323_010228	Transformation successful!{nl}Lure the subordinates of Naktis to Apgaule Altar.
 ETC_20150323_010229	Confirm
 ETC_20150323_010230	Ask about the second device
 ETC_20150323_010231	How to charge the sign of spiritual power
@@ -10231,7 +10231,7 @@ ETC_20150323_010232	How to get the third key
 ETC_20150323_010233	It is too withered to use as medicine
 ETC_20150323_010234	Found details on demon transformation
 ETC_20150323_010235	Seems like it is full of useless things
-ETC_20150323_010236	Naktis' servants destroyed Laukti Antenave
+ETC_20150323_010236	Naktis' servants destroyed Laukimas Altar
 ETC_20150323_010237	About the Plan
 ETC_20150323_010238	About the documents related to demons
 ETC_20150323_010239	Now I can breathe
@@ -10494,7 +10494,7 @@ ETC_20150401_010495	Slipping!
 ETC_20150401_010496	Realization
 ETC_20150401_010497	You can remember the numbers in your head.
 ETC_20150401_010498	Energy of Light
-ETC_20150401_010499	Absorbed energy of light. HP is restored faster!
+ETC_20150401_010499	Absorbed the energy of light. HP is restored faster!
 ETC_20150401_010500	Script check function
 ETC_20150401_010501	development function. do not use.
 ETC_20150401_010502	Powerful Magic Barrier
@@ -10528,7 +10528,7 @@ ETC_20150401_010529	PCSelfDown:10/Notice:NOTICE_Dm_!:Niole root is cut off!:5/NP
 ETC_20150401_010530	PCSelfDown:10/Notice:NOTICE_Dm_!:Niole root is cut off!!:5/NPCDead/Func:SCR_FARM47_HERB_ROOT_EVENT
 ETC_20150401_010531	IvnItem:FARM47_1_SQ_060_ITEM_1:1:0/DoTimeAction:Drying after the putting the meats of the monsters:3:MAKING:None
 ETC_20150401_010532	Get rid of the monster by hitting it with a flare
-ETC_20150401_010533	Get Maven's Fourth Key from Gaule Altar
+ETC_20150401_010533	Get Maven's Fourth Key from Apgaule Altar
 ETC_20150401_010534	Use the creed bead of Medeina
 ETC_20150401_010535	Demon Prison zone exit event
 ETC_20150401_010536	Deliver without spoiling the bread
@@ -10711,7 +10711,7 @@ ETC_20150406_010712	Dye(White)
 ETC_20150406_010713	Dye(Blue)
 ETC_20150406_010714	Dye(Pink)
 ETC_20150406_010715	Dye(Black)
-ETC_20150406_010716	encroaching mind
+ETC_20150406_010716	Encroaching Mind
 ETC_20150406_010717	Hauberk is encroaching the mind!
 ETC_20150406_010718	Base Camp
 ETC_20150406_010719	Turn back, face the enemy and fire the gun.
@@ -11363,7 +11363,7 @@ ETC_20150428_011364	Open your inventory and use the Spirit's Scripture
 ETC_20150428_011365	Use Hauberk's Seal Fragment
 ETC_20150428_011366	Cross Srautas Gorge and go to Gele Plateau
 ETC_20150428_011367	Move to Starving Demon's Way
-ETC_20150428_011368	Move to Demon Prison Area 1
+ETC_20150428_011368	Move to Demon Prison District 1
 ETC_20150428_011369	Guard NPC
 ETC_20150428_011370	Abomination Set
 ETC_20150428_011371	All Stats +3
@@ -11842,7 +11842,7 @@ ETC_20150714_011843	This title is given to players who have completed the main s
 ETC_20150714_011844	Never Die
 ETC_20150714_011845	Resurrect 1,000 times 
 ETC_20150714_011846	Contribution Level
-ETC_20150714_011847	You have the fragment of the eye of the truth.
+ETC_20150714_011847	You have a fragment of the Eyes of Truth.
 ETC_20150714_011848	Astral Body
 ETC_20150714_011849	If you don't see the entity with the eyes of the truth, you won't be able to attack.
 ETC_20150714_011850	The Eyes of Deception
@@ -11888,7 +11888,7 @@ ETC_20150714_011889	Old Market
 ETC_20150714_011890	Workshop Ruins
 ETC_20150714_011891	Secured Place
 ETC_20150714_011892	Palaikai Fork
-ETC_20150714_011893	Amosi Dock
+ETC_20150714_011893	Uodegos Dock
 ETC_20150714_011894	Flooded District
 ETC_20150714_011895	Sky Tower
 ETC_20150714_011896	Vienti Fortress
@@ -12101,13 +12101,13 @@ ETC_20150714_012102	Rub the Fragrant Stone Powders onto Rambear
 ETC_20150714_012103	Use Monster Stimulant
 ETC_20150714_012104	Lure the guard at the Watermill Ruins
 ETC_20150714_012105	Put it at Estuary Bank Junction
-ETC_20150714_012106	Put it at Zmone Square
-ETC_20150714_012107	Put it at Vadova Dock
-ETC_20150714_012108	Put it at Viska Sanctum Ruins
+ETC_20150714_012106	Put it at Zmoniu Square
+ETC_20150714_012107	Put it at Vadovo Dock
+ETC_20150714_012108	Put it at Visko Sanctum Ruins
 ETC_20150714_012109	Release the petrified soldier at Vienti Fortress
 ETC_20150714_012110	Combine Matsum's Flower Stamen and Thorn Flower Powder to create Enhanced Thorn Flower Stimulant
 ETC_20150714_012111	The energy absorbing status
-ETC_20150714_012112	Absorbing the energies
+ETC_20150714_012112	Absorbing the energy
 ETC_20150714_012113	Kareras' Memoir
 ETC_20150714_012114	Finishing the research
 ETC_20150714_012115	Red Spatial Magic Stone (1)
@@ -12147,7 +12147,7 @@ ETC_20150714_012148	Collect the Pure Frost Crystal
 ETC_20150714_012149	Charge Zubeck's Orb
 ETC_20150714_012150	Search for the secret stash with Zubeck's Orb
 ETC_20150714_012151	The remaining dangerous quests Kill Count Share Session
-ETC_20150714_012152	Obtaining the materials for crafting explosive bullets
+ETC_20150714_012152	Obtaining the materials for crafting Resounding Bombs
 ETC_20150714_012153	Without getting caught by the guards of the kingdom military, move to the next area with Amanda
 ETC_20150714_012154	Retrieve the blind shells using the bomb eliminating tools 
 ETC_20150714_012155	Obtain the diluting solution from the equipment merchant in Fedimian
@@ -12401,7 +12401,7 @@ ETC_20150714_012402	The Corrupt Vikaras is about to explode!
 ETC_20150714_012403	You can't insert the Holy Relic
 ETC_20150714_012404	Bishop Aurelius' Spirit is already waiting
 ETC_20150714_012405	You were unable to find the contents related to Naktis{nl}You should try finding the contents again
-ETC_20150714_012406	Transformation was successful!{nl}Lure the subordinates of Naktis to Gaule Altar
+ETC_20150714_012406	Transformation was successful!{nl}Lure the servants of Naktis to Apgaule Altar
 ETC_20150714_012407	There's no key
 ETC_20150714_012408	You absorbed the weak Stone Frost
 ETC_20150714_012409	Rubbing the Scented Stone powders...
@@ -12647,9 +12647,9 @@ ETC_20150714_012648	Looking for the liquid medicine
 ETC_20150714_012649	Obtained the liquid medicine
 ETC_20150714_012650	This guard doesn't have the liquid medicine
 ETC_20150714_012651	The resistance of the guard is strong
-ETC_20150714_012652	Set the explosive
-ETC_20150714_012653	setting completed
-ETC_20150714_012654	The explosive is already set
+ETC_20150714_012652	Set the Resounding Bomb
+ETC_20150714_012653	Set up completed
+ETC_20150714_012654	The Resounding Bomb is already set
 ETC_20150714_012655	Arrived without getting caught by the guard!
 ETC_20150714_012656	Another player is holding onto the object
 ETC_20150714_012657	Event Requirement
@@ -13232,7 +13232,7 @@ ETC_20150717_013233	For the joypad, use the Control Pad to move.
 ETC_20150717_013234	For the mouse, click on an area to move your character. 
 ETC_20150717_013235	When using the mouse, you can also move using the {img W 40 40}, {img A 40 40}, {img S 40 40} and {img D 40 40} keys
 ETC_20150717_013236	Press the same arrow key twice to dash when using Swordsman types. 
-ETC_20150717_013237	Using Dash increases your movement speed but also consumes Stamina faster. 
+ETC_20150717_013237	Sprint increases your movement speed but also consumes Stamina faster. 
 ETC_20150717_013238	Use jump to cross over obstacles or up higher places. 
 ETC_20150717_013239	Press {img X 40 40} to jump.
 ETC_20150717_013240	When using a mouse, you can jump by using {img space 40 40}.
@@ -13474,7 +13474,7 @@ ETC_20150717_013475	Throw the core to the terminal (1)
 ETC_20150717_013476	Throw the core to the terminal (2)
 ETC_20150717_013477	Throw the core to the terminal (3)
 ETC_20150717_013478	Obtain the detonator from the monsters
-ETC_20150717_013479	Saknis Fields Hidden Event Requirements Session
+ETC_20150717_013479	Saknis Plains Hidden Event Requirements Session
 ETC_20150717_013480	Gytis Settlement Area Hidden Event Requirements Session
 ETC_20150717_013481	Sunset Flag Forest Hidden Event Session
 ETC_20150717_013482	Zachariel Crossroads Hidden Event Requirements Session
@@ -13639,27 +13639,27 @@ ETC_20150729_013640	Receiving increased DEX from the activated barrier.
 ETC_20150729_013641	Using Spirits
 ETC_20150729_013642	You feel exhausted and keep losing Stamina.
 ETC_20150729_013643	Sanctum's Blessing - Increased Attack
-ETC_20150729_013644	Increases your attack due to the received blessing from the sanctum.
+ETC_20150729_013644	Increases your attack due to the sanctum's blessing.
 ETC_20150729_013645	A strong protective shield is blocking all attacks.
-ETC_20150729_013646	Divine power bestowed on unknown ruins.
-ETC_20150729_013647	Impose divine punishment on all divine things around the ruins.
-ETC_20150729_013648	Divine power bestowed on unknown pillars.
-ETC_20150729_013649	Received divine blessings. ATK and DEF increased.
-ETC_20150729_013650	Divine power bestowed on unknown crystal.
-ETC_20150729_013651	Impose divine punishment on all divine things around.
-ETC_20150729_013652	Divine power bestowed on unknown stone pillar.
-ETC_20150729_013653	Received divine blessings. ATK and DEF increased.
-ETC_20150729_013654	Divine power bestowed on unknown tombstone
-ETC_20150729_013655	All injuries are healing through force of purification.
-ETC_20150729_013656	Received divine blessings. Your morale and bravery is boosting.
-ETC_20150729_013657	Received divine blessings. You are feeling sturdy.
+ETC_20150729_013646	Divine Power bestowed on Unknown Ruins
+ETC_20150729_013647	Imposes divine punishment on all evil beings beings near the ruins.
+ETC_20150729_013648	Divine Dower bestowed on Unknown Pillars
+ETC_20150729_013649	Slightly increases your attack and defense due to the divine blessing.
+ETC_20150729_013650	Divine power bestowed on Unknown Crystal
+ETC_20150729_013651	Imposes divine punishment on all surrounding evil beings.
+ETC_20150729_013652	Divine power bestowed on Unknown Stone Pillar
+ETC_20150729_013653	Slightly increases your defense and recovery rate due to the divine blessing.
+ETC_20150729_013654	Divine Power bestowed on Unknown Tombstone
+ETC_20150729_013655	All injuries are healing due to the energy of purification.
+ETC_20150729_013656	Your morale and bravery is boosting due to the divine blessing.
+ETC_20150729_013657	You are feeling sturdy due to the divine blessing.
 ETC_20150729_013658	Corpse
-ETC_20150729_013659	Corpse fell.
+ETC_20150729_013659	Fallen corpse.
 ETC_20150729_013660	Hanging on companion
 ETC_20150729_013661	EXP Jackpot
-ETC_20150729_013662	Increased Evasion.
+ETC_20150729_013662	Increased evasion.
 ETC_20150729_013663	Explosion
-ETC_20150729_013664	Explose when dying.
+ETC_20150729_013664	Explodes upon death.
 ETC_20150729_013665	Resistance
 ETC_20150729_013666	Damage Weapon
 ETC_20150729_013667	Potential decrease when using physical attack
@@ -13667,7 +13667,7 @@ ETC_20150729_013668	Arrow Resistance
 ETC_20150729_013669	Increased resistance against arrow attacks.
 ETC_20150729_013670	Property Resistance
 ETC_20150729_013671	Magic resistance increase based on property
-ETC_20150729_013672	Level up
+ETC_20150729_013672	Level Up
 ETC_20150729_013673	Mutant type monsters level up instead of sleeping when casted with sleep type debuff.
 ETC_20150729_013674	Quick Recovery
 ETC_20150729_013675	Increase recovery
@@ -14085,7 +14085,7 @@ ETC_20150803_014086	{nl} {nl}The name of an item you input and the memo can be c
 ETC_20150803_014087	Klaipeda's 
 ETC_20150803_014088	 enables you to warp to other locations.
 ETC_20150803_014089	You can set various settings for the team which your character belongs to at the Lodge.
-ETC_20150803_014090	When you select Lodge Settings, you can change your team name
+ETC_20150803_014090	When you select Lodge Settings, you can change your Team Name.
 ETC_20150803_014091	When you select Change Lodge, the list of Lodges will appear. When you click on a Lodge, you can preview it.
 ETC_20150803_014092	You can create up to 5 characters with the basic Lodge. The number of characters you can create depends on which Lodge you have.
 ETC_20150803_014093	{nl} {nl}There is a Messages Box at the lower right side of your Lodge. You can check messages by selecting it.
@@ -14481,7 +14481,7 @@ ETC_20150918_014482	equipment repaired by you
 ETC_20150918_014483	equipment repaired by you
 ETC_20150918_014484	Chapel
 ETC_20150918_014485	That monster looks ready to explode!
-ETC_20150918_014486	Get more leftover food from Ishiblysh Square!
+ETC_20150918_014486	Get more leftover food from Isblyskes Square!
 ETC_20150918_014487	The Crystal Core Piece reacts strangely and turns into a Lomor!
 ETC_20150918_014488	You have found the real Tree Root Crystal and destroyed it!
 ETC_20150918_014489	The fake Tree Root Crystal made you faint!
@@ -14517,7 +14517,7 @@ ETC_20150918_014518	You have failed to protect the Royal Mausoleum from being de
 ETC_20150918_014519	You have obtained the Spirit Essence!
 ETC_20150918_014520	You have obtained the scripture!
 ETC_20150918_014521	You have succeeded in the persuasion!
-ETC_20150918_014522	You have successfully transformed!{nl}Lure the servants of Naktis to Gaule Altar
+ETC_20150918_014522	You have successfully transformed!{nl}Lure the servants of Naktis to Apgaule Altar
 ETC_20150918_014523	This can be only used on Feretory Hill Areas
 ETC_20150918_014524	You've fired the portable flare.{nl}Defeat the demons that were lured!
 ETC_20150918_014525	You've defeated demons that were lured to flares!
@@ -14545,7 +14545,7 @@ ETC_20150918_014546	You've retrieved the big plant suppressing device
 ETC_20150918_014547	You've installed the small plant suppressing device
 ETC_20150918_014548	You've failed to send it
 ETC_20150918_014549	There are no objects to make with the parts you have at the moment
-ETC_20150918_014550	This is the place where the sound bomb is already installed
+ETC_20150918_014550	This is the place where the Resounding Bomb is already set
 ETC_20150918_014551	You've found the unexploded bomb!{nl}Talk with Sapper Master who knows well about bombs
 ETC_20150918_014552	Found the unexploded bomb!{nl}Use the toolbox to eliminate the unexploded bomb
 ETC_20150918_014553	Evil Thoughts Stone
@@ -14635,13 +14635,13 @@ ETC_20150918_014636	2. Defeat the monsters that are rushing in!
 ETC_20150918_014637	You have succeeded in Palanx trainings that prepare for the actual battles!
 ETC_20150918_014638	 has been successfully persuaded!{nl}Bring it to the Apsauga Altar
 ETC_20150918_014639	 vial(s) of Stumpy Tree Sap extracted!
-ETC_20150918_014640	You used the absorb scroll
+ETC_20150918_014640	Using the Absorption Scroll
 ETC_20150918_014641	You cannot summon the monster in this area.
 ETC_20150918_014642	You cannot use the skill in this region.
 ETC_20150918_014643	The client has been shutdown due to an error. {nl}We apologize for the inconvenience.{nl}By clicking the [Yes] button, details of the error will be sent to the developers.{nl}{nl} ※ The information that will be sent : error code, CPU, VGA and the memory driver information
 ETC_20150918_014644	[Rogue Master]{nl}       Gema
 ETC_20150918_014645	[Item Merchant]{nl}    Muras
-ETC_20150918_014646	[Equipment Merchant]{nl}    
+ETC_20150918_014646	[Equipment Merchant]{nl}    Yorgis
 ETC_20150918_014647	[Blacksmith]{nl}       Anna
 ETC_20150918_014648	[Market Manager]{nl}     Molun
 ETC_20150918_014649	[Storage Keeper]{nl}      Zadan
@@ -14740,7 +14740,7 @@ ETC_20151001_014741	Sealed Box
 ETC_20151001_014742	Be careful!!{nl}Monsters are coming!!
 ETC_20151001_014743	Thank you for your hard work.
 ETC_20151001_014744	Magic Circle Central Device
-ETC_20151001_014745	The Explosive Shot detonated.
+ETC_20151001_014745	The Resounding Bomb detonated.
 ETC_20151001_014746	Move to Kingdom camp to follow the Kingdom's guard!
 ETC_20151001_014747	This scream... is this camp?
 ETC_20151001_014748	Ugh!
@@ -14975,11 +14975,11 @@ ETC_20151001_014976	Pull out the grave guard's shaman doll from the box of the g
 ETC_20151001_014977	Search the trace of girl
 ETC_20151001_014978	Find the Basket containing fresh foods
 ETC_20151001_014979	Pollute the fresh foods
-ETC_20151001_014980	Looking at the Farret Tendency
+ETC_20151001_014980	Looking at the ferrets' tendencies
 ETC_20151001_014981	Find the traces of the Mysterious Girl
-ETC_20151001_014982	Obatin the Urecho for crafting explosive bullets
-ETC_20151001_014983	Install the explosive shot in the hallway of the upper floor
-ETC_20151001_014984	Install the explosive shot beneath the Assembly Area
+ETC_20151001_014982	Obatin the Thunderous Herb for crafting Resounding Bombs
+ETC_20151001_014983	Set the Resounding Bomb in the hallway of the upper floor
+ETC_20151001_014984	Set the Resounding Bomb beneath the Assembly Area
 ETC_20151001_014985	Without getting caught by the guards of the kingdom military, move to the Drill Ground of Confliction together with Amanda
 ETC_20151001_014986	Collect usable equipment
 ETC_20151001_014987	Bring the souls
@@ -15112,7 +15112,7 @@ ETC_20151001_015113	Searching for the Bomb
 ETC_20151001_015114	Found the bomb
 ETC_20151001_015115	This guard doesn't have any bomb
 ETC_20151001_015116	The resistance of the guard is strong
-ETC_20151001_015117	You've set the roar bomb
+ETC_20151001_015117	You've set the Resounding Bomb
 ETC_20151001_015118	You've found the old unexploded bomb.{nl}Look for someone who is likely to know about the bomb
 ETC_20151001_015119	You've found the old unexploded bomb.{nl}Use the bomb disassembling toolbox
 ETC_20151001_015120	The trap was removed!
@@ -15323,12 +15323,12 @@ ETC_20151001_015324	{@st42}Points
 ETC_20151001_015325	Destroy the summon scrolls within 20 minutes.{nl}Failure : Timeout, Incapable of Combat
 ETC_20151001_015326	Summon Scroll
 ETC_20151001_015327	Destroy all the summoning scrolls within 20 minutes!
-ETC_20151001_015328	Mission Succeeded!{nl}You will return after 60 seconds
-ETC_20151001_015329	Mission Failed!{nl}You will return after 30 seconds
+ETC_20151001_015328	Mission succeeded!{nl}You will return in 60 seconds
+ETC_20151001_015329	Mission failed!{nl}You will return in 30 seconds
 ETC_20151001_015330	Defeat Throneweaver
-ETC_20151001_015331	It starts after 50 seconds
-ETC_20151001_015332	It starts after 30 seconds
-ETC_20151001_015333	It starts after 10 seconds
+ETC_20151001_015331	Starting in 50 seconds
+ETC_20151001_015332	Starting in 30 seconds
+ETC_20151001_015333	Starting in 10 seconds
 ETC_20151001_015334	Defeat the raucous Necroventer!
 ETC_20151001_015335	Small Crystal
 ETC_20151001_015336	Destroy the red crystal emanating with red energy!
@@ -15409,19 +15409,19 @@ ETC_20151001_015410	Monsters will appear on the 18th floor after 10 seconds!
 ETC_20151001_015411	Monsters will appear on the 19th floor after 10 seconds!
 ETC_20151001_015412	Monsters will appear on the 20th floor after 10 seconds!
 ETC_20151001_015413	Go to the portal nearby to use the Seal of Space!
-ETC_20151001_015414	It starts after 10 seconds
+ETC_20151001_015414	Starting in 10 seconds
 ETC_20151001_015415	Start!
-ETC_20151001_015416	You will return to the entrance after 60 seconds
+ETC_20151001_015416	You will return to the entrance in 60 seconds
 ETC_20151001_015417	To Home
 ETC_20151001_015418	TrapCondition/0
 ETC_20151001_015419	The Iron Door has opened!
 ETC_20151001_015420	Starting in 10 seconds
 ETC_20151001_015421	Start!
-ETC_20151001_015422	You will return to the entrance after 60 seconds
+ETC_20151001_015422	You will return to the entrance in 60 seconds
 ETC_20151001_015423	Start!!!
-ETC_20151001_015424	Cleared!! You will return to the entrance after 60 seconds
+ETC_20151001_015424	Cleared!! You will return to the entrance in 60 seconds
 ETC_20151001_015425	Completed after 60 seconds
-ETC_20151001_015426	You will return to the entrance after 60 seconds
+ETC_20151001_015426	You will return to the entrance in 60 seconds
 ETC_20151001_015427	Return to Zone
 ETC_20151001_015428	A boss monster has appeared!
 ETC_20151001_015429	Elaganos has appeared!
@@ -15515,11 +15515,11 @@ ETC_20151001_015516	{@st41b}The demons that are after the portal appeared again.
 ETC_20151001_015517	Find and defeat Lutopus!
 ETC_20151001_015518	Defeat all the monsters surging in to move to the next area!
 ETC_20151001_015519	Defeat all the monsters surging in!
-ETC_20151001_015520	Break through the trap area within 60 secs.{nl}Fail : The time has expired
+ETC_20151001_015520	Break through the trap area within 60 seconds.{nl}Failed : You ran out of time
 ETC_20151001_015521	Mission will be failed if you don't pass the trap area within 60 secs!
 ETC_20151001_015522	Defeat Dionia
 ETC_20151001_015523	Defeat Dionia
-ETC_20151001_015524	It starts in 60 seconds
+ETC_20151001_015524	Starting in 60 seconds
 ETC_20151001_015525	{@st41b}Monsters rushed in to the area of ruins. Your help is needed.
 ETC_20151001_015526	Cockat Nest
 ETC_20151001_015527	Destroy all the Cockat nests!
@@ -16167,7 +16167,7 @@ ETC_20151022_016168	To suppress the guardian statue, the monsters will appear.
 ETC_20151022_016169	Incinerate the seal paper
 ETC_20151022_016170	The seal of the vague astral body is starting to be unleashed.
 ETC_20151022_016171	Doll's Curse
-ETC_20151022_016172	Due to the curse of the shaman doll, your defense decreases greatly.
+ETC_20151022_016172	Your defense is significantly decreased due to the curse of the shaman doll.
 ETC_20151022_016173	Spirit - Recover HP
 ETC_20151022_016174	The spirit you guided cures your wound.
 ETC_20151022_016175	Spirit - Recover SP
@@ -16514,7 +16514,7 @@ ETC_20151102_016515	Igti Coast
 ETC_20151102_016516	Alemeth Forest
 ETC_20151102_016517	Barha Forest
 ETC_20151102_016518	Nahash Forest
-ETC_20151102_016519	Vera Cost
+ETC_20151102_016519	Vera Coast
 ETC_20151102_016520	Elgos Monastery Annex
 ETC_20151102_016521	Elgos Abbey Main Building
 ETC_20151102_016522	Vedas Plateau
@@ -16572,13 +16572,13 @@ ETC_20151102_016573	Fight against Demon Lord Zaura who imprisoned Goddess Lada
 ETC_20151102_016574	Stand back.
 ETC_20151102_016575	No!!
 ETC_20151102_016576	Demon Lord Zaura disappeared with the girl! Eliminate the horde of ferrets!
-ETC_20151102_016577	The Kingdom Guards are being chased by the monsters! It's better to save them for now.
+ETC_20151102_016577	The Royal Army guards are being chased by the monsters! It's better to save them for now.
 ETC_20151102_016578	I'm sorry. Please leave
 ETC_20151102_016579	We came to investigate...
 ETC_20151102_016580	Namott
 ETC_20151102_016581	Namott Holy Water Effect: Demon monsters will not appear
-ETC_20151102_016582	Reduced Resistance against Ice Property 
-ETC_20151102_016583	Effect of Psychokinesis Scroll
+ETC_20151102_016582	Reduced Ice property resistance
+ETC_20151102_016583	Psychokinesis Scroll's Effect
 ETC_20151102_016584	You're currently affected by the Psychokinesis Scroll.
 ETC_20151102_016585	Pearl Powder
 ETC_20151102_016586	Soul - Attack
@@ -17195,13 +17195,13 @@ ETC_20151102_017196	OptDesc/ - Out of Body Skill Lv +1
 ETC_20151102_017197	OptDesc/ - Astral Body Explosion Skill Lv +1
 ETC_20151102_017198	OptDesc/ - Vashita Siddhi Skill Lv +1
 ETC_20151102_017199	OptDesc/ - Possession Skill Lv +1
-ETC_20151102_017200	OptDesc/ - Carve Vakarine Skill Lv +1
-ETC_20151102_017201	OptDesc/ - Carve Goddess Zemyna Skill Lv +1
-ETC_20151102_017202	OptDesc/ - Carve Goddess Laima Skill Lv +1
-ETC_20151102_017203	OptDesc/ - Carve Skill Lv +1
+ETC_20151102_017200	OptDesc/ - Statue of Goddess Vakarine Skill Lv +1
+ETC_20151102_017201	OptDesc/ - Statue of Goddess Zemyna Skill Lv +1
+ETC_20151102_017202	OptDesc/ - Statue of Goddess Laima Skill Lv +1
+ETC_20151102_017203	OptDesc/ - Carve Attack Skill Lv +1
 ETC_20151102_017204	OptDesc/ - Carve Owl Skill Lv +1
 ETC_20151102_017205	OptDesc/ - Carve World Tree Skill Lv +1
-ETC_20151102_017206	OptDesc/ - Carve Goddess Ausrine Skill Lv +1
+ETC_20151102_017206	OptDesc/ - Statue of Goddess Ausrine Skill Lv +1
 ETC_20151102_017207	OptDesc/ - Arcane Energy Skill Lv +1
 ETC_20151102_017208	OptDesc/ - Change Skill Lv +1
 ETC_20151102_017209	OptDesc/ - Counter Spell Skill Lv +1
@@ -18087,7 +18087,7 @@ ETC_20151224_018087	Orsha.
 ETC_20151224_018088	{nl} {nl}You can register a deck through the Magic Association NPC in the cities.
 ETC_20151224_018089	{nl} {nl}After paying a certain amount of fee, you can finally adopt that adorable companion.
 ETC_20151224_018090	{nl} {nl}You can view the information of your companion by pressing {img F9 40 40}.
-ETC_20151224_018091	{nl} {nl}The stamina of a companion can be recovered by feeding it special companion food.{nl} {nl}When you feed your companion, it will recover its HP and Stamina by a certain amount.
+ETC_20151224_018091	{nl} {nl}A companion's Stamina can be recovered by feeding it special food.{nl} {nl}When you feed your companion, it will recover its HP and Stamina by a certain amount.
 ETC_20151224_018092	{nl} {nl}You can train your companion to become stronger through special training.
 ETC_20151224_018093	{nl} {nl}Gems can be obtained through hunting in dungeons.
 ETC_20151224_018094	When your character becomes incapable of combat in dungeons, you may lose gems, so be careful!
@@ -18283,7 +18283,7 @@ ETC_20151224_018283	Applies Token benefits to all your characters in the server 
 ETC_20151224_018284	Token: 3 Days [Event]
 ETC_20151224_018285	Applies Token benefits to all your characters in the server for 3 days. Right-click to use.{nl}[Token Benefits]{nl} - Able to learn up to 2 attributes simultaneously{nl} - Reduced Market commission fee (30%{img white_right_arrow 16 16}10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the Internet Cafe benefits & EXP Tome effect){nl} - Able to use Premium Gestures
 ETC_20151224_018286	Skill Reset Potion
-ETC_20151224_018287	Use to reset all skill points. 
+ETC_20151224_018287	A very useful potion for those who just cannot get their skill build right.{nl}Use this to reset your current Skill Points.
 ETC_20151224_018288	Instanced Dungeon Reset Voucher
 ETC_20151224_018289	Resets the restrictions on the instanced dungeons and mercenary missions when used.
 ETC_20151224_018290	10 TP [Event]
@@ -18306,15 +18306,15 @@ ETC_20151224_018306	The Cannoneer is an Archer-based class that uses a powerful 
 ETC_20151224_018307	Musketeers are equipped with rifles. Even though they cannot use a bow at the same time, they have effective skills for continuous hits and close combat techniques by using their rifle.
 ETC_20151224_018308	Dievdirbys can carve and place sacred statues. Their statues can protect allies or attack enemies.
 ETC_20151224_018309	Chaplain
-ETC_20151224_018310	The Chaplain is an army based class that uses the divine power to aid allies in combat. Only advanced priests at a high level can become a Chaplain.
+ETC_20151224_018310	The Chaplain is an army based class that uses divine power to aid allies in combat. Only advanced priests at a high level can become a Chaplain.
 ETC_20151224_018311	Plague Doctors are priests who can heal the status ailments of allies or incinerate an enemy's status ailment. Their special Bird Beak Mask has a special drug to block status ailments. 
 ETC_20151224_018312	Kabbalists are priests who practice ancient magic known as Kabbalah. They can support allies by using infinite power or attack by using a defense formation to disintegrate the enemy's name. 
-ETC_20151224_018313	Paslab Hideout
+ETC_20151224_018313	Paslaptis Hideout
 ETC_20151224_018314	Rohonsa Cliff
 ETC_20151224_018315	Zbuka Inner Court
-ETC_20151224_018316	Gyveni Crossroads
+ETC_20151224_018316	Gyvenimo Crossroads
 ETC_20151224_018317	Bonan Forest Road
-ETC_20151224_018318	Buvylvite Bridge
+ETC_20151224_018318	Bulvytes Bridge
 ETC_20151224_018319	Abandoned Bee Farm
 ETC_20151224_018320	Gaulu Slope
 ETC_20151224_018321	Shabby Cabin
@@ -18567,7 +18567,7 @@ ETC_20151224_018567	Operate the 2nd Sealed Apparatus
 ETC_20151224_018568	Operate the 3rd Sealed Apparatus
 ETC_20151224_018569	Release the left Seal Candlestick's barrier
 ETC_20151224_018570	Release the right Seal Candlestick's barrier
-ETC_20151224_018571	Follow the light bead from the Owl Sculpture in Bastytis Field
+ETC_20151224_018571	Follow the light bead from the Owl Sculpture in Bastymosi Field
 ETC_20151224_018572	Recharge the demonic power to the ice parts by killing the monsters
 ETC_20151224_018573	Achieved Lv. 1 enhancement on a crossbow-type equipment
 ETC_20151224_018574	Defeat the monsters by placing the Condensed Firestone
@@ -18596,7 +18596,7 @@ ETC_20151224_018596	Absorb the crytal power
 ETC_20151224_018597	Lure the demons using the trap of Solitary Cells
 ETC_20151224_018598	Release the blessing spirit of the Altar on the road to the second Watchtower
 ETC_20151224_018599	Release the the blessing spirit at Prayer Room
-ETC_20151224_018600	Obtain the Demon Warrant from the sealed chest
+ETC_20151224_018600	Obtain the Demon Orders from the sealed chest
 ETC_20151224_018601	Recharge the demon power using the vitalities of monsters
 ETC_20151224_018602	Light the fire on the flameholder using the complete flame jewel
 ETC_20151224_018603	Eliminate the Monsters or Demons while holding up the shield
@@ -18946,7 +18946,7 @@ ETC_20151224_018946	OptDesc/Possession Skill Lv +1
 ETC_20151224_018947	OptDesc/Statue of Goddess Vakarine Skill Lv +1
 ETC_20151224_018948	OptDesc/Statue of Goddess Zemyna Skill Lv +1
 ETC_20151224_018949	OptDesc/Statue of Goddess Laima Skill Lv +1
-ETC_20151224_018950	OptDesc/Carve Skill Lv +1
+ETC_20151224_018950	OptDesc/Carve Attack Skill Lv +1
 ETC_20151224_018951	OptDesc/Carve Owl Skill Lv +1
 ETC_20151224_018952	OptDesc/Carve World Tree Skill Lv +1
 ETC_20151224_018953	OptDesc/Statue of Goddess Ausrine Skill Lv +1
@@ -19294,9 +19294,9 @@ ETC_20151224_019294	Hallucination of Draznie
 ETC_20151224_019295	The trap is already activated
 ETC_20151224_019296	The trap is activated{nl}Decoy the surrounding demon to the trap!
 ETC_20151224_019297	You've destroyed the curse of statue!
-ETC_20151224_019298	You've defeated Demon Lord Marnox!{nl}Retrieve the Demon Warrant from the sealed chest!
+ETC_20151224_019298	You've defeated Demon Lord Marnox!{nl}Retrieve the Demon Orders from the sealed chest!
 ETC_20151224_019299	You can't do it now
-ETC_20151224_019300	You've obtained the Demon Warrant
+ETC_20151224_019300	You've obtained the Demon Orders
 ETC_20151224_019301	Retrieving
 ETC_20151224_019302	You've retrieved the herb pocket of Priest Gelija
 ETC_20151224_019303	You've purified the destroyed part of statue!
@@ -19383,7 +19383,7 @@ ETC_20151224_019383	You've collected the rewards
 ETC_20151224_019384	You've not collected the enough energy
 ETC_20151224_019385	End Magic Power Collection{nl}{rank}rank!
 ETC_20151224_019386	End Magic Power Collection{nl}You are not ranked to {low_rank}
-ETC_20151224_019387	The light beads disppeared to Sudejeti Valley.{nl}Chase after the light bead.
+ETC_20151224_019387	The light beads disppeared to Sudetas Valley.{nl}Chase after the light bead.
 ETC_20151224_019388	You've defeated the trapped monsters
 ETC_20151224_019389	Smoky Greenery
 ETC_20151224_019390	Move using the hidden room entrance portal!
@@ -19834,7 +19834,7 @@ ETC_20151224_019834	The following feature cannot be used.
 ETC_20151224_019835	{Target} does not have the benefits to trade with you.
 ETC_20151224_019836	Trade/Buy-in Shop Available
 ETC_20151224_019837	Increased EXP from hunting monsters
-ETC_20151224_019838	Increased STA Recovery Rate
+ETC_20151224_019838	Increased STA recovery rate
 ETC_20151224_019839	Increased Market listing to {COUNT}
 ETC_20151224_019840	Train {COUNT} attributes simultaneously
 ETC_20151224_019841	Increased movement speed by {COUNT}
@@ -19850,14 +19850,14 @@ ETC_20151224_019850	Stamina Recovery Rate 2x Increase
 ETC_20151224_019851	You've used up all of your free entry counts.{nl}Do you want to spend {TP} TP to enter {INDUN}?{nl}However, if you enter a dungeon that is already active, you will not consume TP.
 ETC_20151224_019852	Cannot change to an existing name.
 ETC_20151224_019853	{NAME} is already activated.
-ETC_20151224_019854	All your characters have now received the benefits of this Token.
+ETC_20151224_019854	All your characters received{nl}the benefits of this Token.
 ETC_20151224_019855	Able to use Premium Gestures 
 ETC_20151224_019856	Instanced Dungeon Unlimited Entries Voucher
 ETC_20151224_019857	Your Instanced Dungeon Unlimited Entries Voucher is already activated.
 ETC_20151224_019858	Your current entry count is 0.
 ETC_20151224_019859	Your reset voucher will disappear from your inventory when it is used and will only apply to the current character.
 ETC_20151224_019860	Skill Reset
-ETC_20151224_019861	  All Skill Points Reset
+ETC_20151224_019861	  Resets all Skill Points
 ETC_20151224_019862	Increased EXP from hunting monsters
 ETC_20151224_019863	You cannot buy the currently equipped hairstyle.
 ETC_20151224_019864	Arrange PC Logout
@@ -20386,15 +20386,15 @@ ETC_20160224_020386	Formats with %s are not used in clientmessage.xml due to mul
 ETC_20160224_020387	Convent Auto Matching
 ETC_20160224_020388	Contains a variety of special benefits for all your characters in this server for 30 days. Right-click to use.{nl}[Token Benefits]{nl} - Able to learn up to 2 attributes simultaneously{nl} - Reduced Market commission fee (30%{img white_right_arrow 16 16}10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the Internet Cafe benefits & EXP Tome effect){nl} - Able to use Premium Gestures
 ETC_20160224_020389	Place an equipment on this anvil and hit it afterwards to upgrade the quality. Only equipment with a Potential of 1 or higher can be used. {nl}Upon failure, the Potential of the equipment will not be reduced.{nlAfter a successful enhancement, the Potential of the equipment will reduce by one. Right-click to use.
-ETC_20160224_020390	Magic Scroll
-ETC_20160224_020391	Adds a random option to a hairstyle costume.{nl}Up to 3 options can be added.{nl}You cannot use this scroll on an equipped item.{nl}Right-click to use.
+ETC_20160224_020390	Enchant Scroll
+ETC_20160224_020391	Adds a random option to a hair costume.{nl}Up to 3 options can be added.{nl}You cannot use this scroll on an equipped item.{nl}Right-click to use.
 ETC_20160224_020392	100 TP [Event]
 ETC_20160224_020393	Contains 100 TP.
-ETC_20160224_020394	Magic Scroll 20x Box
-ETC_20160224_020395	Contains 20 Magic Scrolls. Right-click to use.
+ETC_20160224_020394	Enchant Scroll 20x Box
+ETC_20160224_020395	Contains 20 Enchant Scrolls. Right-click to use.
 ETC_20160224_020396	Stat Reset Potion
 ETC_20160224_020397	50 Days Open Commemoration Package
-ETC_20160224_020398	Right-click to obtain the following items:{nl} - 500 TP{nl} - 10x Magic Scroll{nl} - Hairstyle Accessory - Popolion Doll{nl} - 150 TP [Event]
+ETC_20160224_020398	Right-click to obtain the following items:{nl} - 500 TP{nl} - 10x Enchant Scroll{nl} - Hairstyle Accessory - Popolion Doll{nl} - 150 TP [Event]
 ETC_20160224_020399	Contains 500 TP.
 ETC_20160224_020400	150 TP [Event]
 ETC_20160224_020401	Contains 150 TP.
@@ -20561,14 +20561,14 @@ ETC_20160224_020561	 Register to the Adventure Journal?
 ETC_20160224_020562	No Options
 ETC_20160224_020563	The properties of this item was changed during the trade. Please try again.
 ETC_20160224_020564	You cannot carry more than {MAX} silver.
-ETC_20160224_020565	Usable until [{Time}] 
+ETC_20160224_020565	Redeemable until [{Time}] 
 ETC_20160224_020566	Unexpirable
-ETC_20160224_020567	Do not show
+ETC_20160224_020567	Hide
 ETC_20160224_020568	Show
 ETC_20160224_020569	Stat
 ETC_20160224_020570	[Premium] Male Hairstyle
 ETC_20160224_020571	[Premium] Female Hairstyle
-ETC_20160224_020572	Open One More Time
+ETC_20160224_020572	Open one more time
 ETC_20160224_020573	You do not have any card.
 ETC_20160224_020574	Personal : {count}/{max} Quests Completed{nl}Party : 
 ETC_20160224_020575	Defeat {MONSTER}
@@ -20657,7 +20657,7 @@ ETC_20160224_020657	Storing an item in Team Storage{nl}reduces the number of ite
 ETC_20160224_020658	You've exhausted your available trades.
 ETC_20160224_020659	Strike-type
 ETC_20160224_020660	Strike-type Defense
-ETC_20160224_020661	Enchanted Option
+ETC_20160224_020661	Enchant
 ETC_20160224_020662	This collection is shared with your team. It cannot be returned once it has been added. Would you like to add this item?
 ETC_20160224_020663	You have already registered this recipe.
 ETC_20160224_020664	The recipe has been registered.
@@ -20691,7 +20691,7 @@ ETC_20160224_020691	Number of trades allowed
 ETC_20160224_020692	Number of trades allowed.
 ETC_20160224_020693	The target has reached the maximum trades allowed.
 ETC_20160224_020694	Resets all stats.
-ETC_20160224_020695	Can be used only by Token users.
+ETC_20160224_020695	Can only be used by a Token user.
 ETC_20160224_020696	Refugee Salyamonas
 ETC_20160224_020697	Refugee Relyn
 ETC_20160224_020698	Elder Frege
@@ -20794,7 +20794,7 @@ ETC_20160224_020793	Defeat 180 monsters
 ETC_20160224_020794	The mission for Earth Tower 12F will begin shortly
 ETC_20160224_020795	Celestial Sphere
 ETC_20160224_020796	The mission for Earth Tower 12F was a success!{nl}Move to the next floor
-ETC_20160224_020797	Earth Tower 12F
+ETC_20160224_020797	Earth Tower 13F
 ETC_20160224_020798	The first objective has begun{nl}Protect the Celestial Sphere from getting destroyed
 ETC_20160224_020799	Protect the Celestial Sphere
 ETC_20160224_020800	The mission for Earth Tower 13F will begin shortly
@@ -21144,11 +21144,11 @@ ETC_20160310_021143	You cannot plant crops if you are not a guild member.
 ETC_20160310_021144	You are not participating in a guild event.
 ETC_20160310_021145	The information of the item has been changed.
 ETC_20160310_021146	The item has already been sold. Please check your Message Box.
-ETC_20160310_021147	{#550000}Remaining Trades : {COUNT}{nl}{#0f0f0f}The Potential of the item will{nl}decrease if you put it in Team Storage.{nl}But it will not lose Potential when taking it out.{nl}Do you wish to proceed?
-ETC_20160310_021148	{#550000}Remaining Trades : {COUNT}{nl}{#0f0f0f}You will lose the ability to trade the{nl}items that you put in Team Storage.{nl}Do you wish to proceed?
-ETC_20160310_021149	{#FF0000}Remaining Trades : {COUNT}{nl}{#0f0f0f}The Potential of the item will{nl}decrease if you put it in Team Storage.{nl}But it will not lose Potential when taking it out.{nl}Do you wish to proceed?
-ETC_20160310_021150	{#FF0000}Remaining Trades : {COUNT}{nl}{#0f0f0f}You will lose the ability to trade the{nl}items that you put in Team Storage.{nl}Do you wish to proceed?
-ETC_20160310_021151	Another character is currently using the market. Please try again later.
+ETC_20160310_021147	{#550000}Remaining Trades : {COUNT}{nl}{#0f0f0f}The Potential of this item will{nl}decrease if you put it in Team Storage.{nl}But it will not lose Potential upon withdrawal.{nl}Do you wish to proceed?
+ETC_20160310_021148	{#550000}Remaining Trades : {COUNT}{nl}{#0f0f0f}You will lose the ability to trade this{nl}item that you put in Team Storage.{nl}Do you wish to proceed?
+ETC_20160310_021149	{#FF0000}Remaining Trades : {COUNT}{nl}{#0f0f0f}The Potential of this item will{nl}decrease if you put it in Team Storage.{nl}But it will not lose Potential upon withdrawal.{nl}Do you wish to proceed?
+ETC_20160310_021150	{#FF0000}Remaining Trades : {COUNT}{nl}{#0f0f0f}You will lose the ability to trade this{nl}item that you put in Team Storage.{nl}Do you wish to proceed?
+ETC_20160310_021151	Another character is currently using the Market. Please try again later.
 ETC_20160310_021152	Kill Ranking
 ETC_20160310_021153	Damage Ranking
 ETC_20160310_021154	Adventure Index Rank: {Rank}
@@ -21164,3 +21164,21 @@ ETC_20160310_021163	Sinister Idol
 ETC_20160310_021164	Magic Storing Tombstone
 ETC_20160310_021165	The event rewards have been given to the guild master
 ETC_20160310_021166	You have completed the [Demon Uprising] event
+ETC_20160315_021167	Right-click to obtain the following items:{nl} - 600 TP{nl} - Hairstyle Accessory - Popolion Doll{nl} - Hairstyle Accessory - Hanaming Doll{nl}
+ETC_20160315_021168	Contains 600 TP.
+ETC_20160315_021169	Contains 350 TP.
+ETC_20160315_021170	Contains 200 TP.
+ETC_20160315_021171	Right-click to obtain the following items:{nl} - 350 TP{nl} - Hairstyle Accessory - Popolion Doll{nl}
+ETC_20160315_021172	Right-click to obtain the following items:{nl} - 200 TP{nl}
+ETC_20160315_021173	You can enter the server by purchasing DLC.
+ETC_20160317_021174	Grand Translator
+ETC_20160317_021175	An honorable title only bestowed upon those who participated in the Great Translation movement.
+ETC_20160317_021176	Contains a variety of special benefits for all your characters in this server for 30 days. Right-click to use.{nl}[Token Benefits]{nl} - Able to learn up to 2 attributes simultaneously{nl} - Reduced Market commission fee (30%{img white_right_arrow 16 16}10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement speed{nl} - +30% EXP from hunting monsters{nl}(Stacks with EXP Tome){nl} - Able to use Premium Gestures{nl} - Able to use Personal Trade up to 30 times{nl} - 1 additional Mission & Dungeon entry
+ETC_20160317_021177	Right-click to obtain the following items:{nl} - 360 TP{nl} - Hairstyle Accessory - Popolion Doll
+ETC_20160317_021178	Contains 360 TP.
+ETC_20160317_021179	Contains 230 TP.
+ETC_20160317_021180	Contains 110 TP.
+ETC_20160317_021181	Right-click to obtain the following items:{nl} - 260 TP{nl} - Hairstyle Accessory - Popolion Doll
+ETC_20160317_021182	Right-click to obtain the following items:{nl} - 110 TP
+ETC_20160317_021183	2 additional Dungeon and Mission entries
+ETC_20160317_021184	Contains a variety of special benefits for all your characters in this server for 30 days. Right-click to use.{nl}[Token Benefits]{nl} - Able to learn up to 2 attributes simultaneously{nl} - Reduced Market commission fee (30%{img white_right_arrow 16 16}10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement speed{nl} - +30% EXP from hunting monsters{nl}(Stacks with EXP Tome){nl} - Able to use Premium Gestures{nl} - Able to use Personal Trade up to 30 times{nl} - 2 additional Mission & Dungeon entries
