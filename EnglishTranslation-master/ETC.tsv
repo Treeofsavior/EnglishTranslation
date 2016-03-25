@@ -2457,8 +2457,8 @@ ETC_20150317_002456	We need to hurry to find it.
 ETC_20150317_002457	Now is the time.
 ETC_20150317_002458	Successfully persuaded.
 ETC_20150317_002459	I'll be there first!
-ETC_20150317_002460	Transformation success!{nl}Leak the information to Naktis' servants.
-ETC_20150317_002461	Drinking potion of transformation
+ETC_20150317_002460	The transformation worked!{nl}Leak the information to Naktis' servants.
+ETC_20150317_002461	Drinking the Transformation Potion
 ETC_20150317_002462	Okay...
 ETC_20150317_002463	Unseal device
 ETC_20150317_002464	Unsealing device
@@ -2498,7 +2498,7 @@ ETC_20150317_002497	Checking Portal
 ETC_20150317_002498	It seems to be working!
 ETC_20150317_002499	There is no sign of it working at all.
 ETC_20150317_002500	Attaching propaganda
-ETC_20150317_002501	Attached the kingdom propaganda!
+ETC_20150317_002501	Attached the Royal Army propaganda!
 ETC_20150317_002502	Information about the Royal Army recruitment has been posted. {nl} It's hanging high up on the wall.
 ETC_20150317_002503	Destroyed the record of insurgents!
 ETC_20150317_002504	Obtained damaged propaganda.
@@ -10103,7 +10103,7 @@ ETC_20150323_010104	You couldn't find anything!
 ETC_20150323_010105	Found a badge of the sanctum!
 ETC_20150323_010106	Cannot find the badge of the Sanctum!
 ETC_20150323_010107	Witas' curse is making you fall asleep!
-ETC_20150323_010108	The soul is returning to the Goddess.
+ETC_20150323_010108	The soul is returning to the goddess.
 ETC_20150323_010109	Released the soul restrained by the monster!
 ETC_20150323_010110	You already have enough food waste.
 ETC_20150323_010111	Persuade the tired Drapeliun!
@@ -10326,7 +10326,7 @@ ETC_20150323_010327	This item is currently equipped.
 ETC_20150323_010328	You cannot add more than one of each type.
 ETC_20150323_010329	The buyer does not want this item.
 ETC_20150323_010330	Are you sure you want to sell this?  
-ETC_20150323_010331	Awakening Option
+ETC_20150323_010331	Awakening
 ETC_20150323_010332	Can only be used in Tenet Garden
 ETC_20150323_010333	Can only be used in Ramstis Ridge Area
 ETC_20150323_010334	{@st42b}Advancement Date: 
@@ -11370,7 +11370,7 @@ ETC_20150428_011371	All Stats +3
 ETC_20150428_011372	Earth Cloth Armor Set
 ETC_20150428_011373	CON Stat +5
 ETC_20150428_011374	Stamina +10
-ETC_20150428_011375	Gives additional Earth damage when receiving Earth attacks
+ETC_20150428_011375	Gives additional Earth property damage when receiving Earth property attacks
 ETC_20150428_011376	Earth Leather Armor Set
 ETC_20150428_011377	Earth Plate Armor Set
 ETC_20150428_011378	Legwyn Family's Cloth Armor Set
@@ -12064,7 +12064,7 @@ ETC_20150714_012065	Noble Man
 ETC_20150714_012066	Temporal Grave
 ETC_20150714_012067	Normal Husband Down
 ETC_20150714_012068	Village LadA3 Down
-ETC_20150714_012069	Use Centurion's Attribute
+ETC_20150714_012069	Use Centurion Attributes
 ETC_20150714_012070	Found a player who is most suitable for the party. Invite this person to the party!
 ETC_20150714_012071	A party requested your participation. Join the party!
 ETC_20150714_012072	There is a similar player nearby.{nl}You could invite this person to your party!
@@ -12083,7 +12083,7 @@ ETC_20150714_012084	PCSelfDown:10/Notice:NOTICE_Dm_!:Niole Roots were disconnect
 ETC_20150714_012085	DoTimeAction:Collecting:2:SITGROPE:SSN_HATE_AROUND
 ETC_20150714_012086	Notice:NOTICE_Dm_!:It's dried too much so the juice doesn't come out!:5/EffectNPC:Local:F_burstup019_smoke:1:BOT/NPCDead
 ETC_20150714_012087	DoTimeAction:Collecting the bushes:3:#SITGROPESET:None
-ETC_20150714_012088	Property:1/PropertyAdd:1/NPCDead/EffectNPC:Local:F_pc_making_finish_white:1:TOP/GiveItem:REMAINS37_2_SQ_050_ITEM_1:1/Notice:NOTICE_Dm_Clear:You've obatined well dried bushes!:5
+ETC_20150714_012088	Property:1/PropertyAdd:1/NPCDead/EffectNPC:Local:F_pc_making_finish_white:1:TOP/GiveItem:REMAINS37_2_SQ_050_ITEM_1:1/Notice:NOTICE_Dm_Clear:You've obtained well dried bushes!:5
 ETC_20150714_012089	DamagePC:5/NPCDead/Notice:NOTICE_Dm_!:You've been pricked by thorns of bushes!:5
 ETC_20150714_012090	DoTimeAction:Digging the gold plate:2:#SITGROPESET:SSN_HATE_AROUND
 ETC_20150714_012091	Property:1/PropertyAdd:1/PCSelfDown:10/NPCDead/Notice:NOTICE_Dm_Clear:You fell down while you were digging the gold plate that was stuck, but you managed to dig it well!:5/GiveItem:REMAINS37_3_SQ_040__ITEM_1:1
@@ -12165,7 +12165,7 @@ ETC_20150714_012166	Pull the third lever
 ETC_20150714_012167	For another tombstone(1)
 ETC_20150714_012168	Block the monsters that are rushing in
 ETC_20150714_012169	Corrosive Agent(1)
-ETC_20150714_012170	Obtain the boiling liquid from Hallowventer Curse Speller
+ETC_20150714_012170	Obtain the bubbling liquid from the Hallowventer Shaman
 ETC_20150714_012171	Obtain an adequate wood stick
 ETC_20150714_012172	Obtain a magnetic stone
 ETC_20150714_012173	Make a detection stick
@@ -12354,9 +12354,9 @@ ETC_20150714_012355	It will not activate
 ETC_20150714_012356	Putting out the Food
 ETC_20150714_012357	Green Roftlems have sensed the smell of food and are gathering.
 ETC_20150714_012358	Lured Green Roftlem
-ETC_20150714_012359	Monsters are reacting to the rust powders!
-ETC_20150714_012360	The monsters nearby are attracted to the smell of the rust powders!
-ETC_20150714_012361	You've obtained the boiling liquid!
+ETC_20150714_012359	The monster reacted to the rust powder!
+ETC_20150714_012360	The monsters nearby are attracted to the smell of the rust powder!
+ETC_20150714_012361	You've obtained the bubbling liquid!
 ETC_20150714_012362	Scattering the reacting reagent
 ETC_20150714_012363	You've found the genuine gold plate!
 ETC_20150714_012364	An explosion occurred when the gold plate and the reagent were mixed together!
@@ -12370,8 +12370,8 @@ ETC_20150714_012371	Detecting
 ETC_20150714_012372	You've detected a gold component!{nl}Dig the detected area!
 ETC_20150714_012373	You've found the gold plate!
 ETC_20150714_012374	You've obtained the sticky fluid!
-ETC_20150714_012375	Did not obtained anything!
-ETC_20150714_012376	Hallowventer Curse Speller under the gold plate
+ETC_20150714_012375	You didn't obtain anything!
+ETC_20150714_012376	Hallowventer Shaman under the gold plate
 ETC_20150714_012377	You've shot the Wendigo with a numbing needle!{nl}Pull out the hairs of the unconscious Wendigo Archer in 10 secs!
 ETC_20150714_012378	Dust has been shaken off completely! Now make a stone rubbing book!
 ETC_20150714_012379	Go
@@ -12410,7 +12410,7 @@ ETC_20150714_012411	Already rubbed in the Scented Stone powders!
 ETC_20150714_012412	Monsters have become more agile due to the effects from the Symbol of Silt
 ETC_20150714_012413	Using the symbol
 ETC_20150714_012414	It doesn't look like it will be activated anytime soon
-ETC_20150714_012415	A recruitment notice attached by kingdom soldiers.{nl}It is still well attached.
+ETC_20150714_012415	A recruitment notice attached by the Royal Army.{nl}It is still well attached.
 ETC_20150714_012416	You have obtained the petrified recruitment notice.
 ETC_20150714_012417	You have rubbed the monster's scent on the supplies
 ETC_20150714_012418	The monster's scent is already rubbed on the supplies
@@ -12647,7 +12647,7 @@ ETC_20150714_012648	Looking for the liquid medicine
 ETC_20150714_012649	Obtained the liquid medicine
 ETC_20150714_012650	This guard doesn't have the liquid medicine
 ETC_20150714_012651	The resistance of the guard is strong
-ETC_20150714_012652	Set the Resounding Bomb
+ETC_20150714_012652	Setting the bomb
 ETC_20150714_012653	Set up completed
 ETC_20150714_012654	The Resounding Bomb is already set
 ETC_20150714_012655	Arrived without getting caught by the guard!
@@ -13157,11 +13157,11 @@ ETC_20150714_013158	[Knights of Kaliss]{nl}  Adjutant General Hans
 ETC_20150714_013159	[Amanda Tomb Robbers]{nl}  Stephonas
 ETC_20150714_013160	Royal Army Notice Board
 ETC_20150714_013161	Royal Army Propoganda
-ETC_20150714_013162	[Knights of Kaliss]{nl}Wilhelmina Carriot
+ETC_20150714_013162	  [Knights of Kaliss]{nl}Wilhelmina Carriot
 ETC_20150714_013163	[Knights of Kaliss]{nl}  Knight
 ETC_20150714_013164	[Knights of Kaliss]{nl}  Bokor Edita
-ETC_20150714_013165	[Knights of Kaliss]{nl}   Alchemist Saliamonas
-ETC_20150714_013166	[Knights of Kaliss]{nl}    Amanda
+ETC_20150714_013165	      [Knights of Kaliss]{nl}Alchemist Saliamonas
+ETC_20150714_013166	[Amanda Tomb Robbers]{nl}    Amanda
 ETC_20150714_013167	Thorny Bushes
 ETC_20150714_013168	Magic Condenser
 ETC_20150714_013169	Field Gen
@@ -13197,7 +13197,7 @@ ETC_20150717_013198	Hold up little more!{nl}I will gather some people!
 ETC_20150717_013199	The Petrifying Frost is coming!{nl}Destroy the obstacles or jump over them to move to a safe place!
 ETC_20150717_013200	Trigger for the completion
 ETC_20150717_013201	As you were trying to repair the detector, the monsters rushed in!
-ETC_20150717_013202	Weakened Petrified Frosts
+ETC_20150717_013202	Fainted Petrifying Frost
 ETC_20150717_013203	Intensive Spirits' Device has been destroyed and lots of monsters are rushing in!
 ETC_20150717_013204	Defeat Salamanders that are going after Protective Shell activating the device
 ETC_20150717_013205	As the magic stabilizing device activated, the monsters rushed in! 
@@ -14182,25 +14182,25 @@ ETC_20150804_014183	The Light Beacon at the Prayer Hall
 ETC_20150804_014184	TypeFManager
 ETC_20150804_014185	The place to put the stone
 ETC_20150804_014186	Zachariel's Epitaph
-ETC_20150807_014187	AoE Attack Ratio {img red_up_arrow 16 16}2
-ETC_20150807_014188	Lightning Property Attack {img red_up_arrow 16 16}30
-ETC_20150807_014189	Defense {img red_up_arrow 16 16}6
-ETC_20150807_014190	Dark Property Attack {img red_up_arrow 16 16}30
-ETC_20150807_014191	Movement Speed {img red_up_arrow 16 16}5
-ETC_20150807_014192	Fire Property Resistance {img red_up_arrow 16 16}15
-ETC_20150807_014193	Holy Property Attack {img red_up_arrow 16 16}168{nl}Dark Property Attack {img red_up_arrow 16 16}168
-ETC_20150807_014194	HP Recovery {img red_up_arrow 16 16}16
-ETC_20150807_014195	All Stats {img red_up_arrow 16 16}1
-ETC_20150807_014196	Additional Earth Property Attack {img red_up_arrow 16 16}12
-ETC_20150807_014197	Fire Property Resistance {img red_up_arrow 16 16}16
-ETC_20150807_014198	Attack against Devil-type Targets {img red_up_arrow 16 16}6
-ETC_20150807_014199	Attack against Devil-type Targets {img red_up_arrow 16 16}8 for 30 seconds at a 1% chance when using basic attacks
-ETC_20150807_014200	1% chance of increased attack against Devil-type Targets by {img red_up_arrow 16 16}157 for 30 seconds
-ETC_20150807_014201	All Stats {img red_up_arrow 16 16}3
-ETC_20150807_014202	CON {img red_up_arrow 16 16}5
-ETC_20150807_014203	STA {img red_up_arrow 16 16}10
-ETC_20150807_014204	Dark Property Resistance {img red_up_arrow 16 16}10
-ETC_20150807_014205	SPR {img red_up_arrow 16 16}6
+ETC_20150807_014187	AoE Attack Ratio {img red_up_arrow 16 16} 2
+ETC_20150807_014188	Lightning Property Attack {img red_up_arrow 16 16} 30
+ETC_20150807_014189	Defense {img red_up_arrow 16 16} 6
+ETC_20150807_014190	Dark Property Attack {img red_up_arrow 16 16} 30
+ETC_20150807_014191	Movement Speed {img red_up_arrow 16 16} 5
+ETC_20150807_014192	Fire Property Resistance {img red_up_arrow 16 16} 15
+ETC_20150807_014193	Holy Property Attack {img red_up_arrow 16 16} 168{nl}Dark Property Attack {img red_up_arrow 16 16} 168
+ETC_20150807_014194	HP Recovery {img red_up_arrow 16 16} 16
+ETC_20150807_014195	All Stats {img red_up_arrow 16 16} 1
+ETC_20150807_014196	Additional Earth Property Attack {img red_up_arrow 16 16} 12
+ETC_20150807_014197	Fire Property Resistance {img red_up_arrow 16 16} 16
+ETC_20150807_014198	Attack against Devil-type Targets {img red_up_arrow 16 16} 6
+ETC_20150807_014199	Attack against Devil-type Targets {img red_up_arrow 16 16} 8 for 30 seconds at a 1% chance when using basic attacks
+ETC_20150807_014200	1% chance of increased attack against Devil-type Targets by {img red_up_arrow 16 16} 157 for 30 seconds
+ETC_20150807_014201	All Stats {img red_up_arrow 16 16} 3
+ETC_20150807_014202	CON {img red_up_arrow 16 16} 5
+ETC_20150807_014203	STA {img red_up_arrow 16 16} 10
+ETC_20150807_014204	Dark Property Resistance {img red_up_arrow 16 16} 10
+ETC_20150807_014205	SPR {img red_up_arrow 16 16} 6
 ETC_20150807_014206	Group Settings {img white_right_arrow 18 18}
 ETC_20150807_014207	{@st41b}Fold {img red_up_arrow 16 16} 
 ETC_20150918_014208	Cockat
@@ -14347,26 +14347,26 @@ ETC_20150918_014348	Words of the Traitor
 ETC_20150918_014349	The Tomb Robber in History
 ETC_20150918_014350	Traitor's Diary
 ETC_20150918_014351	Light Plate Set
-ETC_20150918_014352	AoE Attack Ratio {img green_up_arrow 16 16}1
-ETC_20150918_014353	Defense {img green_up_arrow 16 16}6
-ETC_20150918_014354	Dark Property Attack {img green_up_arrow 16 16}30
-ETC_20150918_014355	Movement Speed {img green_up_arrow 16 16}5
-ETC_20150918_014356	Fire Property Attack {img green_up_arrow 16 16}15
-ETC_20150918_014357	Holy Property Attack {img green_up_arrow 16 16}168{nl}Darkness Property Attack {img green_up_arrow 16 16}168
-ETC_20150918_014358	HP Recovery {img green_up_arrow 16 16}16
-ETC_20150918_014359	All Stats {img green_up_arrow 16 16}1
-ETC_20150918_014360	Earth Property Additional Damage {img green_up_arrow 16 16}12
-ETC_20150918_014361	Fire Property Resistance {img green_up_arrow 16 16}16
-ETC_20150918_014362	Attack against Devil-type Targets {img green_up_arrow 16 16}6
-ETC_20150918_014363	Attack against Devil-type Targets {img green_up_arrow 16 16}8
-ETC_20150918_014364	1% chance to gain 30 seconds of increased attack against Devil-type Targets by {img green_up_arrow 16 16}157 
-ETC_20150918_014365	All Stats {img green_up_arrow 16 16}3
-ETC_20150918_014366	CON {img green_up_arrow 16 16}5
-ETC_20150918_014367	Stamina {img green_up_arrow 16 16}10
-ETC_20150918_014368	Darkness Property Resistance {img green_up_arrow 16 16}10
-ETC_20150918_014369	SPR {img green_up_arrow 16 16}6
-ETC_20150918_014370	Argbenipa Set
-ETC_20150918_014371	Backstab Attack x4{nl}Evasion {img red_down_arrow 16 16}188
+ETC_20150918_014352	AoE Attack Ratio {img green_up_arrow 16 16} 1
+ETC_20150918_014353	Defense {img green_up_arrow 16 16} 6
+ETC_20150918_014354	Dark Property Attack {img green_up_arrow 16 16} 30
+ETC_20150918_014355	Movement Speed {img green_up_arrow 16 16} 5
+ETC_20150918_014356	Fire Property Attack {img green_up_arrow 16 16} 15
+ETC_20150918_014357	Holy Property Attack {img green_up_arrow 16 16}168{nl}Darkness Property Attack {img green_up_arrow 16 16} 168
+ETC_20150918_014358	HP Recovery {img green_up_arrow 16 16} 16
+ETC_20150918_014359	All Stats {img green_up_arrow 16 16} 1
+ETC_20150918_014360	Earth Property Additional Damage {img green_up_arrow 16 16} 12
+ETC_20150918_014361	Fire Property Resistance {img green_up_arrow 16 16} 16
+ETC_20150918_014362	Attack against Devil-type Targets {img green_up_arrow 16 16} 6
+ETC_20150918_014363	Attack against Devil-type Targets {img green_up_arrow 16 16} 8
+ETC_20150918_014364	1% chance to gain 30 seconds of increased attack against Devil-type Targets by {img green_up_arrow 16 16} 157 
+ETC_20150918_014365	All Stats {img green_up_arrow 16 16} 3
+ETC_20150918_014366	CON {img green_up_arrow 16 16} 5
+ETC_20150918_014367	Stamina {img green_up_arrow 16 16} 10
+ETC_20150918_014368	Darkness Property Resistance {img green_up_arrow 16 16} 10
+ETC_20150918_014369	SPR {img green_up_arrow 16 16} 6
+ETC_20150918_014370	Agvenipa Set
+ETC_20150918_014371	[Backstab] Attack x4{nl}Evasion {img red_down_arrow 16 16} 188
 ETC_20150918_014372	Bokor Zombie Count
 ETC_20150918_014373	blowSound volume except for my character
 ETC_20150918_014374	Character Advancement Rank Limit
@@ -14977,10 +14977,10 @@ ETC_20151001_014978	Find the Basket containing fresh foods
 ETC_20151001_014979	Pollute the fresh foods
 ETC_20151001_014980	Looking at the ferrets' tendencies
 ETC_20151001_014981	Find the traces of the Mysterious Girl
-ETC_20151001_014982	Obatin the Thunderous Herb for crafting Resounding Bombs
+ETC_20151001_014982	Obtain the Thunderous Herb for crafting Resounding Bombs
 ETC_20151001_014983	Set the Resounding Bomb in the hallway of the upper floor
 ETC_20151001_014984	Set the Resounding Bomb beneath the Assembly Area
-ETC_20151001_014985	Without getting caught by the guards of the kingdom military, move to the Drill Ground of Confliction together with Amanda
+ETC_20151001_014985	Without getting caught by the Royal Army guards, move to Drill Ground of Confliction together with Amanda
 ETC_20151001_014986	Collect usable equipment
 ETC_20151001_014987	Bring the souls
 ETC_20151001_014988	Find the repair parts
@@ -15012,7 +15012,7 @@ ETC_20151001_015013	Find the holy relics
 ETC_20151001_015014	Obtain the buired holy relics using the explorer
 ETC_20151001_015015	Obtain the fresh body fluid of monsters
 ETC_20151001_015016	Obtain the stone from the rocks nearby
-ETC_20151001_015017	Obatin the leather string from the monsters
+ETC_20151001_015017	Obtain the leather string from the monsters
 ETC_20151001_015018	Make the string bunch for bookbinding through the leather string
 ETC_20151001_015019	Plateau Defense Target NPC
 ETC_20151001_015020	One-handed Sword Dagger
@@ -15110,7 +15110,7 @@ ETC_20151001_015111	This is the place where Romuva of Purification is already st
 ETC_20151001_015112	You are not feeling well!
 ETC_20151001_015113	Searching for the Bomb
 ETC_20151001_015114	Found the bomb
-ETC_20151001_015115	This guard doesn't have any bomb
+ETC_20151001_015115	This guard doesn't have a bomb
 ETC_20151001_015116	The resistance of the guard is strong
 ETC_20151001_015117	You've set the Resounding Bomb
 ETC_20151001_015118	You've found the old unexploded bomb.{nl}Look for someone who is likely to know about the bomb
@@ -15145,12 +15145,12 @@ ETC_20151001_015146	The girl disappeared somewhere after she saw the ferrets tha
 ETC_20151001_015147	Collecting Drowsy Herb
 ETC_20151001_015148	You have successfully collected the Drowsy Herb
 ETC_20151001_015149	You cannot move because you are drowsy
-ETC_20151001_015150	Untying the tied strings
+ETC_20151001_015150	Untying the strings
 ETC_20151001_015151	Thank you so much
-ETC_20151001_015152	You've arrived well without being caught by the guards
+ETC_20151001_015152	You have arrived safely without being caught by the guards
 ETC_20151001_015153	You've detected an explosive
 ETC_20151001_015154	I am counting on you!
-ETC_20151001_015155	I'm alive.. Thank you!
+ETC_20151001_015155	I'm alive... Thank you!
 ETC_20151001_015156	You've failed to protect Hix
 ETC_20151001_015157	The shrine has restored to its previous status
 ETC_20151001_015158	You've succeeded activating Romuva magic field
@@ -16460,7 +16460,7 @@ ETC_20151022_016461	Letter on the ground
 ETC_20151022_016462	Suspicious Sack
 ETC_20151022_016463	[Kedoran Merchant Alliance]{nl}   Leopoldas
 ETC_20151022_016464	[Kedoran Merchant Alliance]{nl}     Edita
-ETC_20151022_016465	[Kedoran Merchant Alliance]{nl} Marcelijus
+ETC_20151022_016465	[Kedoran Merchant Alliance]{nl} Margellius
 ETC_20151022_016466	[Kedoran Merchant Alliance]{nl}     Gerda
 ETC_20151022_016467	[Kedoran Merchant Alliance]{nl}   Serapinas
 ETC_20151022_016468	[Fencer Master]{nl}  Sorscha Hutton
@@ -16944,7 +16944,7 @@ ETC_20151102_016945	Retrieve the sacred objects destroyed by the Demons
 ETC_20151102_016946	Deliver an item that can overload the device to Edmundas
 ETC_20151102_016947	Find the experiment journal written by a mysterious mage
 ETC_20151102_016948	Deactivate the Gigantic Bracken Spore Breeding device
-ETC_20151102_016949	Increases Backstab damage by 4x when attacking an enemy from behind{nl}Evasion {img red_down_arrow 16 16}188
+ETC_20151102_016949	Increases [Backstab] damage by 4x when attacking an enemy from behind{nl}Evasion {img red_down_arrow 16 16} 188
 ETC_20151102_016950	Player's Max Level
 ETC_20151102_016951	OptDesc/ - Thrust Skill Lv +1
 ETC_20151102_016952	OptDesc/ - Bash Skill Lv +1
@@ -18244,7 +18244,7 @@ ETC_20151224_018244	NGS Debuging Log
 ETC_20151224_018245	Premium
 ETC_20151224_018246	A gem that can be found in a dungeon. It is able to enhance equipment by equipping it in a socket. Cannot be used with same effect simultaneously. Right-click to insert it to an equipment.
 ETC_20151224_018247	Colimen Magician Gem
-ETC_20151224_018248	Applies Token benefits to all your characters in the server for 1 day. Right-click to use.{nl}[Token Benefits]{nl} - Able to learn up to 2 attributes simultaneously{nl} - Reduced Market commission fee (30%{img white_right_arrow 16 16}10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the Internet Cafe benefits & EXP Tome effect){nl} - Able to use Premium Gestures
+ETC_20151224_018248	Applies Token benefits to all your characters in the server for 1 day. Right-click to use.{nl}[Token Benefits]{nl} - Able to learn up to 2 attributes simultaneously{nl} - Reduced Market commission fee (30%{img white_right_arrow 16 16} 10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the Internet Cafe benefits & EXP Tome effect){nl} - Able to use Premium Gestures
 ETC_20151224_018249	Token: 5 Minutes
 ETC_20151224_018250	Token: 10 Minutes
 ETC_20151224_018251	Token: 30 Minutes
@@ -18255,7 +18255,7 @@ ETC_20151224_018255	Contains 100 TP. This item cannot be refunded or returned af
 ETC_20151224_018256	Contains 200 TP. This item cannot be refunded or returned after use.
 ETC_20151224_018257	Contains 300 TP. This item cannot be refunded or returned after use.
 ETC_20151224_018258	Token: 7 Days [Event]
-ETC_20151224_018259	Applies Token benefits to all your characters in the server for 7 days. Right-click to use.{nl}[Token Benefits]{nl} - Able to learn up to 2 attributes simultaneously{nl} - Reduced Market commission fee (30%{img white_right_arrow 16 16}10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the Internet Cafe benefits & EXP Tome effect){nl} - Able to use Premium Gestures
+ETC_20151224_018259	Applies Token benefits to all your characters in the server for 7 days. Right-click to use.{nl}[Token Benefits]{nl} - Able to learn up to 2 attributes simultaneously{nl} - Reduced Market commission fee (30%{img white_right_arrow 16 16} 10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the Internet Cafe benefits & EXP Tome effect){nl} - Able to use Premium Gestures
 ETC_20151224_018260	Premium Awakening Stone
 ETC_20151224_018261	Megaphone 50x Box
 ETC_20151224_018262	Contains 50 Megaphones when you open it. Right-click to use.
@@ -18265,7 +18265,7 @@ ETC_20151224_018265	Contains 10 Soul Crystals when you open it. Right-click to u
 ETC_20151224_018266	Warp Scroll 10x Box
 ETC_20151224_018267	Contains 10 Warp Scrolls when you open it. Right-click to use.
 ETC_20151224_018268	Token: 5 Days [Event]
-ETC_20151224_018269	Applies Token benefits to all your characters in the server for 5 days. Right-click to use.{nl}[Token Benefits]{nl} - Able to learn up to 2 attributes simultaneously{nl} - Reduced Market commission fee (30%{img white_right_arrow 16 16}10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the Internet Cafe benefits & EXP Tome effect){nl} - Able to use Premium Gestures
+ETC_20151224_018269	Applies Token benefits to all your characters in the server for 5 days. Right-click to use.{nl}[Token Benefits]{nl} - Able to learn up to 2 attributes simultaneously{nl} - Reduced Market commission fee (30%{img white_right_arrow 16 16} 10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the Internet Cafe benefits & EXP Tome effect){nl} - Able to use Premium Gestures
 ETC_20151224_018270	Premium Package A
 ETC_20151224_018271	Contains goodies. Right-click to use.{nl} - 600 TP (Untradable){nl} - Highly Enriched HP Potion 150x (Untradable){nl} - Highly Enriched SP Potion 150x (Untradable){nl} - Warp Scroll 10x Box 3x (Untradable){nl} - Megaphone 50x Box (Untradable){nl} - Hair Accessory: War Bonnet
 ETC_20151224_018272	Premium Package B
@@ -18273,15 +18273,15 @@ ETC_20151224_018273	Contains goodies. Right-click to use.{nl} - 1300 TP (Untrada
 ETC_20151224_018274	Contains 600 TP. This item cannot be refunded or returned after use.
 ETC_20151224_018275	Contains 1300 TP. This item cannot be refunded or returned after use.
 ETC_20151224_018276	Token: 1 Day [Event]
-ETC_20151224_018277	Applies Token benefits to all your characters in the server for 1 day. Right-click to use.{nl}[Token Benefits]{nl} - Able to learn up to 2 attributes simultaneously{nl} - Reduced Market commission fee (30%{img white_right_arrow 16 16}10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the Internet Cafe benefits & EXP Tome effect){nl} - Able to use Premium Gestures
+ETC_20151224_018277	Applies Token benefits to all your characters in the server for 1 day. Right-click to use.{nl}[Token Benefits]{nl} - Able to learn up to 2 attributes simultaneously{nl} - Reduced Market commission fee (30%{img white_right_arrow 16 16} 10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the Internet Cafe benefits & EXP Tome effect){nl} - Able to use Premium Gestures
 ETC_20151224_018278	Token: 3 Hours [Event]
-ETC_20151224_018279	Applies Token benefits to all your characters in the server for 3 hours. Right-click to use.{nl}[Token Benefits]{nl} - Able to learn up to 2 attributes simultaneously{nl} - Reduced Market commission fee (30%{img white_right_arrow 16 16}10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the Internet Cafe benefits & EXP Tome effect){nl} - Able to use Premium Gestures
+ETC_20151224_018279	Applies Token benefits to all your characters in the server for 3 hours. Right-click to use.{nl}[Token Benefits]{nl} - Able to learn up to 2 attributes simultaneously{nl} - Reduced Market commission fee (30%{img white_right_arrow 16 16} 10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the Internet Cafe benefits & EXP Tome effect){nl} - Able to use Premium Gestures
 ETC_20151224_018280	Token: 6 Hours [Event]
-ETC_20151224_018281	Applies Token benefits to all your characters in the server for 6 hours. Right-click to use.{nl}[Token Benefits]{nl} - Able to learn up to 2 attributes simultaneously{nl} - Reduced Market commission fee (30%{img white_right_arrow 16 16}10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the Internet Cafe benefits & EXP Tome effect){nl} - Able to use Premium Gestures
+ETC_20151224_018281	Applies Token benefits to all your characters in the server for 6 hours. Right-click to use.{nl}[Token Benefits]{nl} - Able to learn up to 2 attributes simultaneously{nl} - Reduced Market commission fee (30%{img white_right_arrow 16 16} 10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the Internet Cafe benefits & EXP Tome effect){nl} - Able to use Premium Gestures
 ETC_20151224_018282	Token: 12 Hours [Event]
-ETC_20151224_018283	Applies Token benefits to all your characters in the server for 12 hours. Right-click to use.{nl}[Token Benefits]{nl} - Able to learn up to 2 attributes simultaneously{nl} - Reduced Market commission fee (30%{img white_right_arrow 16 16}10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the Internet Cafe benefits & EXP Tome effect){nl} - Able to use Premium Gestures
+ETC_20151224_018283	Applies Token benefits to all your characters in the server for 12 hours. Right-click to use.{nl}[Token Benefits]{nl} - Able to learn up to 2 attributes simultaneously{nl} - Reduced Market commission fee (30%{img white_right_arrow 16 16} 10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the Internet Cafe benefits & EXP Tome effect){nl} - Able to use Premium Gestures
 ETC_20151224_018284	Token: 3 Days [Event]
-ETC_20151224_018285	Applies Token benefits to all your characters in the server for 3 days. Right-click to use.{nl}[Token Benefits]{nl} - Able to learn up to 2 attributes simultaneously{nl} - Reduced Market commission fee (30%{img white_right_arrow 16 16}10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the Internet Cafe benefits & EXP Tome effect){nl} - Able to use Premium Gestures
+ETC_20151224_018285	Applies Token benefits to all your characters in the server for 3 days. Right-click to use.{nl}[Token Benefits]{nl} - Able to learn up to 2 attributes simultaneously{nl} - Reduced Market commission fee (30%{img white_right_arrow 16 16} 10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the Internet Cafe benefits & EXP Tome effect){nl} - Able to use Premium Gestures
 ETC_20151224_018286	Skill Reset Potion
 ETC_20151224_018287	A very useful potion for those who just cannot get their skill build right.{nl}Use this to reset your current Skill Points.
 ETC_20151224_018288	Instanced Dungeon Reset Voucher
@@ -18648,24 +18648,24 @@ ETC_20151224_018648	Curling Gimmick
 ETC_20151224_018649	Monster Kill Count Check Session
 ETC_20151224_018650	Magic Power War Objective
 ETC_20151224_018651	Monster and NPC Test
-ETC_20151224_018652	Magic Power Deliever Objective
+ETC_20151224_018652	Magic Power Deliver Objective
 ETC_20151224_018653	Karacha Set
-ETC_20151224_018654	Increases Backstab damage by 3x when attacking an enemy from behind{nl}Evasion {img red_down_arrow 16 16}188
+ETC_20151224_018654	Increases [Backstab] damage by 3x when attacking an enemy from behind{nl}Evasion {img red_down_arrow 16 16} 188
 ETC_20151224_018655	Velnia Monkey Set
-ETC_20151224_018656	DEX {img green_up_arrow 16 16}6
+ETC_20151224_018656	DEX {img green_up_arrow 16 16} 6
 ETC_20151224_018657	Elgos Set
-ETC_20151224_018658	Magic Defense {img green_up_arrow 16 16}5
-ETC_20151224_018659	Magic Defense {img green_up_arrow 16 16}10
-ETC_20151224_018660	INT {img green_up_arrow 16 16}15
+ETC_20151224_018658	Magic Defense {img green_up_arrow 16 16} 5
+ETC_20151224_018659	Magic Defense {img green_up_arrow 16 16} 10
+ETC_20151224_018660	INT {img green_up_arrow 16 16} 15
 ETC_20151224_018661	Ibre Set
-ETC_20151224_018662	Physical Defense {img green_up_arrow 16 16}5
-ETC_20151224_018663	Physical Defense {img green_up_arrow 16 16}10
-ETC_20151224_018664	Evasion {img green_up_arrow 16 16}15
+ETC_20151224_018662	Physical Defense {img green_up_arrow 16 16} 5
+ETC_20151224_018663	Physical Defense {img green_up_arrow 16 16} 10
+ETC_20151224_018664	Evasion {img green_up_arrow 16 16} 15
 ETC_20151224_018665	Grynas Set
-ETC_20151224_018666	Dark Property Resistance {img green_up_arrow 16 16}10
-ETC_20151224_018667	Dark Property Resistance {img green_up_arrow 16 16}20
+ETC_20151224_018666	Dark Property Resistance {img green_up_arrow 16 16} 10
+ETC_20151224_018667	Dark Property Resistance {img green_up_arrow 16 16} 20
 ETC_20151224_018668	HP {img green_up_arrow 16 16}1020
-ETC_20151224_018669	Basic Attack, +6 {img green_up_arrow 16 16} magic defense for 30 seconds with every [Physical] attack, -6 {img red_down_arrow 16 16} phyiscal defense{nl}When stacked, increases Holy and Dark property attacks equal to 7.5% magic defense for 10 seconds when stacked 20 times.
+ETC_20151224_018669	{img green_up_arrow 16 16} 6 magic defense, {img red_down_arrow 16 16} 6 physical defense for 30 seconds with every basic and physical attack{nl}Increases Holy and Dark property attack equal to 7.5% magic defense for 10 seconds when stacked 20 times
 ETC_20151224_018670	Minimum Combo Count
 ETC_20151224_018671	When you set this value to 1, the log about NGS will be remained as info log.
 ETC_20151224_018672	Count per one wiki ranking page
@@ -20384,8 +20384,8 @@ ETC_20160224_020384	Reaction time after clicking OBB TEST
 ETC_20160224_020385	Processing overtime log
 ETC_20160224_020386	Formats with %s are not used in clientmessage.xml due to multilingual word order issues.
 ETC_20160224_020387	Convent Auto Matching
-ETC_20160224_020388	Contains a variety of special benefits for all your characters in this server for 30 days. Right-click to use.{nl}[Token Benefits]{nl} - Able to learn up to 2 attributes simultaneously{nl} - Reduced Market commission fee (30%{img white_right_arrow 16 16}10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the Internet Cafe benefits & EXP Tome effect){nl} - Able to use Premium Gestures
-ETC_20160224_020389	Place an equipment on this anvil and hit it afterwards to upgrade the quality. Only equipment with a Potential of 1 or higher can be used. {nl}Upon failure, the Potential of the equipment will not be reduced.{nlAfter a successful enhancement, the Potential of the equipment will reduce by one. Right-click to use.
+ETC_20160224_020388	Contains a variety of special benefits for all your characters in this server for 30 days. Right-click to use.{nl}[Token Benefits]{nl} - Able to learn up to 2 attributes simultaneously{nl} - Reduced Market commission fee (30%{img white_right_arrow 16 16} 10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the Internet Cafe benefits & EXP Tome effect){nl} - Able to use Premium Gestures
+ETC_20160224_020389	Place a piece of equipment on this anvil and hit it afterwards to upgrade the quality. Only equipment with a Potential of 1 or higher can be used. {nl}Upon failure, the Potential of the equipment will not be reduced.{nl}After a successful enhancement, the Potential of the equipment will reduce by one. Right-click to use.
 ETC_20160224_020390	Enchant Scroll
 ETC_20160224_020391	Adds a random option to a hair costume.{nl}Up to 3 options can be added.{nl}You cannot use this scroll on an equipped item.{nl}Right-click to use.
 ETC_20160224_020392	100 TP [Event]
@@ -20400,7 +20400,7 @@ ETC_20160224_020400	150 TP [Event]
 ETC_20160224_020401	Contains 150 TP.
 ETC_20160224_020402	Token [Event]
 ETC_20160224_020403	Token: 15 Days [Event]
-ETC_20160224_020404	Contains a variety of special benefits for all your characters in this server for 15 days. Right-click to use.{nl}[Token Benefits]{nl} - Able to learn up to 2 attributes simultaneously{nl} - Reduced Market commission fee (30%{img white_right_arrow 16 16}10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the Internet Cafe benefits & EXP Tome effect){nl} - Able to use Premium Gestures
+ETC_20160224_020404	Contains a variety of special benefits for all your characters in this server for 15 days. Right-click to use.{nl}[Token Benefits]{nl} - Able to learn up to 2 attributes simultaneously{nl} - Reduced Market commission fee (30%{img white_right_arrow 16 16} 10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the Internet Cafe benefits & EXP Tome effect){nl} - Able to use Premium Gestures
 ETC_20160224_020405	Earth Tower Entrance
 ETC_20160224_020406	Small_Area of Ruins_Tombstone03
 ETC_20160224_020407	Goddess Zemyna
@@ -20419,23 +20419,23 @@ ETC_20160224_020419	Use Rune Caster Attributes
 ETC_20160224_020420	Buy Rune Caster Items
 ETC_20160224_020421	Following Battle NPC
 ETC_20160224_020422	Virtov Set
-ETC_20160224_020423	Ice Property Attack {img green_up_arrow 16 16}12
-ETC_20160224_020424	Ice Property Attack {img green_up_arrow 16 16}26
-ETC_20160224_020425	Pierce-type Defense {img green_up_arrow 16 16}25
+ETC_20160224_020423	Ice Property Attack {img green_up_arrow 16 16} 12
+ETC_20160224_020424	Ice Property Attack {img green_up_arrow 16 16} 26
+ETC_20160224_020425	Pierce-type Defense {img green_up_arrow 16 16} 25
 ETC_20160224_020426	Virtov Leather Set
-ETC_20160224_020427	Strike-type Defense {img green_up_arrow 16 16}25
+ETC_20160224_020427	Strike-type Defense {img green_up_arrow 16 16} 25
 ETC_20160224_020428	Virtov Plate Set
-ETC_20160224_020429	Slash-type Defense {img green_up_arrow 16 16}25
+ETC_20160224_020429	Slash-type Defense {img green_up_arrow 16 16} 25
 ETC_20160224_020430	Lolopanther Set
-ETC_20160224_020431	SP Recovery {img green_up_arrow 16 16}100
-ETC_20160224_020432	Earth Property Attack {img green_up_arrow 16 16}42
-ETC_20160224_020433	INT {img green_up_arrow 16 16}25
+ETC_20160224_020431	SP Recovery {img green_up_arrow 16 16} 100
+ETC_20160224_020432	Earth Property Attack {img green_up_arrow 16 16} 42
+ETC_20160224_020433	INT {img green_up_arrow 16 16} 25
 ETC_20160224_020434	Lolopanther Leather Set
-ETC_20160224_020435	Critical Rate {img green_up_arrow 16 16}46
-ETC_20160224_020436	DEX {img green_up_arrow 16 16}25
+ETC_20160224_020435	Critical Rate {img green_up_arrow 16 16} 46
+ETC_20160224_020436	DEX {img green_up_arrow 16 16} 25
 ETC_20160224_020437	Lolopanther Plate Set
-ETC_20160224_020438	HP Recovery {img green_up_arrow 16 16}100
-ETC_20160224_020439	STR {img green_up_arrow 16 16}25
+ETC_20160224_020438	HP Recovery {img green_up_arrow 16 16} 100
+ETC_20160224_020439	STR {img green_up_arrow 16 16} 25
 ETC_20160224_020440	Max silver allowed to users upon item drop
 ETC_20160224_020441	Nexon Internet Cafe additional EXP
 ETC_20160224_020442	Event Scene Quest normal monster drop rate 1/10
@@ -21066,7 +21066,7 @@ ETC_20160310_021065	Absorb Demon Souls
 ETC_20160310_021066	Protect the Villagers
 ETC_20160310_021067	Search the Annex Laboratory
 ETC_20160310_021068	Search for surviving Monks
-ETC_20160310_021069	HP Recovery {img green_up_arrow 16 16}190
+ETC_20160310_021069	HP Recovery {img green_up_arrow 16 16} 190
 ETC_20160310_021070	Buyable
 ETC_20160310_021071	{ol}{@st45w3}{s18}Increased by {Auto_1} {Auto_2}
 ETC_20160310_021072	Letas' Divine Tree is nowhere to be seen {nl}Monsters reacting to the forest's energy start to attack!
@@ -21110,7 +21110,7 @@ ETC_20160310_021109	You have absorbed the demon's soul
 ETC_20160310_021110	Absorbing the demon's soul
 ETC_20160310_021111	Injecting the purified soul
 ETC_20160310_021112	You have destroyed the Sinister Idol!
-ETC_20160310_021113	What.. is this tree vine..?
+ETC_20160310_021113	What... is this tree vine...?
 ETC_20160310_021114	Dominikas has tricked us!
 ETC_20160310_021115	Ah... Knowing none of this we...
 ETC_20160310_021116	This... is the tree vine that attacked us, isn't it?
@@ -21144,10 +21144,10 @@ ETC_20160310_021143	You cannot plant crops if you are not a guild member.
 ETC_20160310_021144	You are not participating in a guild event.
 ETC_20160310_021145	The information of the item has been changed.
 ETC_20160310_021146	The item has already been sold. Please check your Message Box.
-ETC_20160310_021147	{#550000}Remaining Trades : {COUNT}{nl}{#0f0f0f}The Potential of this item will{nl}decrease if you put it in Team Storage.{nl}But it will not lose Potential upon withdrawal.{nl}Do you wish to proceed?
-ETC_20160310_021148	{#550000}Remaining Trades : {COUNT}{nl}{#0f0f0f}You will lose the ability to trade this{nl}item that you put in Team Storage.{nl}Do you wish to proceed?
-ETC_20160310_021149	{#FF0000}Remaining Trades : {COUNT}{nl}{#0f0f0f}The Potential of this item will{nl}decrease if you put it in Team Storage.{nl}But it will not lose Potential upon withdrawal.{nl}Do you wish to proceed?
-ETC_20160310_021150	{#FF0000}Remaining Trades : {COUNT}{nl}{#0f0f0f}You will lose the ability to trade this{nl}item that you put in Team Storage.{nl}Do you wish to proceed?
+ETC_20160310_021147	{#550000}Remaining Trades : {COUNT}{nl}{#0f0f0f}The Potential of this item decreases{nl}after being placed in Team Storage,{nl}but will not decrease after withdrawal.{nl}Do you wish to proceed?
+ETC_20160310_021148	{#550000}Remaining Trades : {COUNT}{nl}{#0f0f0f}You will lose the ability to trade this item{nl}after placing it in your Team Storage.{nl}Do you wish to proceed?
+ETC_20160310_021149	{#FF0000}Remaining Trades : {COUNT}{nl}{#0f0f0f}The Potential of this item decreases{nl}after being placed in Team Storage,{nl}but will not decrease after withdrawal.{nl}Do you wish to proceed?
+ETC_20160310_021150	{#FF0000}Remaining Trades : {COUNT}{nl}{#0f0f0f}You will lose the ability to trade this item{nl}after placing it in your Team Storage.{nl}Do you wish to proceed?
 ETC_20160310_021151	Another character is currently using the Market. Please try again later.
 ETC_20160310_021152	Kill Ranking
 ETC_20160310_021153	Damage Ranking
@@ -21173,7 +21173,7 @@ ETC_20160315_021172	Right-click to obtain the following items:{nl} - 200 TP{nl}
 ETC_20160315_021173	You can enter the server by purchasing DLC.
 ETC_20160317_021174	Grand Translator
 ETC_20160317_021175	An honorable title only bestowed upon those who participated in the Great Translation movement.
-ETC_20160317_021176	Contains a variety of special benefits for all your characters in this server for 30 days. Right-click to use.{nl}[Token Benefits]{nl} - Able to learn up to 2 attributes simultaneously{nl} - Reduced Market commission fee (30%{img white_right_arrow 16 16}10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement speed{nl} - +30% EXP from hunting monsters{nl}(Stacks with EXP Tome){nl} - Able to use Premium Gestures{nl} - Able to use Personal Trade up to 30 times{nl} - 1 additional Mission and Dungeon entry
+ETC_20160317_021176	Contains a variety of special benefits for all your characters in this server for 30 days. Right-click to use.{nl}[Token Benefits]{nl} - Able to learn up to 2 attributes simultaneously{nl} - Reduced Market commission fee (30%{img white_right_arrow 16 16} 10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement speed{nl} - +30% EXP from hunting monsters{nl}(Stacks with EXP Tome){nl} - Able to use Premium Gestures{nl} - Able to use Personal Trade up to 30 times{nl} - 1 extra instance entry for missions and dungeons
 ETC_20160317_021177	Right-click to obtain the following items:{nl} - 360 TP{nl} - Hairstyle Accessory - Popolion Doll
 ETC_20160317_021178	Contains 360 TP.
 ETC_20160317_021179	Contains 230 TP.
@@ -21181,4 +21181,4 @@ ETC_20160317_021180	Contains 110 TP.
 ETC_20160317_021181	Right-click to obtain the following items:{nl} - 260 TP{nl} - Hairstyle Accessory - Popolion Doll
 ETC_20160317_021182	Right-click to obtain the following items:{nl} - 110 TP
 ETC_20160317_021183	2 additional Dungeon and Mission entries
-ETC_20160317_021184	Contains a variety of special benefits for all your characters in this server for 30 days. Right-click to use.{nl}[Token Benefits]{nl} - Able to learn up to 2 attributes simultaneously{nl} - Reduced Market commission fee (30%{img white_right_arrow 16 16}10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement speed{nl} - +30% EXP from hunting monsters{nl}(Stacks with EXP Tome){nl} - Able to use Premium Gestures{nl} - Able to use Personal Trade up to 30 times{nl} - 2 additional Mission and Dungeon entries
+ETC_20160317_021184	Contains a variety of special benefits for all your characters in this server for 30 days. Right-click to use.{nl}[Token Benefits]{nl} - Able to learn up to 2 attributes simultaneously{nl} - Reduced Market commission fee (30%{img white_right_arrow 16 16} 10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement speed{nl} - +30% EXP from hunting monsters{nl}(Stacks with EXP Tome){nl} - Able to use Premium Gestures{nl} - Able to use Personal Trade up to 30 times{nl} - 2 extra instance entries for missions and dungeons
