@@ -4300,7 +4300,7 @@ SKILL_20150714_004299	Enemies hit by [Umbo Blow] can be affected by stun with a 
 SKILL_20150714_004300	Splash will be added onto [Shield Lob] by 1 per attribute level.
 SKILL_20150714_004301	Increases Block when equipped with a shield by 5% per attribute level.
 SKILL_20150714_004302	After equipped with a shield, press the C button to use [Guard].
-SKILL_20150714_004303	Enemies hit by [Umbo Blow] will fall down, increases the knockback power by 40 per attribute level. 
+SKILL_20150714_004303	Enemies hit by [Umbo Blow] will fall down, increases the knockdown power by 40 per attribute level. 
 SKILL_20150714_004304	Increases your defense by 1 per attribute level when using [High Guard]. 
 SKILL_20150714_004305	High Guard: Rim Blow Speciality
 SKILL_20150714_004306	Applies your damage of [Rim Blow] to 250% when using [High Guard]. From Lv2, damage increases by 20% per attribute level. 
@@ -4783,7 +4783,7 @@ SKILL_20150717_004782	Deals damage equal to 20% magic attack when changing the e
 SKILL_20150717_004783	Deals damage equal to 20% magic attack when changing the enemy's size with [Shrink Body] per attribute level.
 SKILL_20150717_004784	When you attack an enemy affected by [Swell Body] while [Left Arm Enhancement] is active, it will continuously apply the [Attacked Weakened] status effect. Increases the duration by 8 seconds per attribute level and [Attacked Weakened] can stack up to 10 times.
 SKILL_20150717_004785	Enemies hit by [Hail] have a 5% chance per attribute level to be afflicted with [Freeze] for 5 seconds.
-SKILL_20150717_004786	Increases your evasion while charging [Meteor] by 10% per attribute level.
+SKILL_20150717_004786	Increases your evasion by 10% per attribute level while charging [Meteor].
 SKILL_20150717_004787	Using Fire property attacks to finish nearby enemies will cause an explosion and splash damage by 80% with a 30% chance.
 SKILL_20150717_004788	Using Ice property attacks to finish enemies will slow down nearby enemies with a 50% chance for 6 seconds.
 SKILL_20150717_004789	Deals damage to nearby enemies with a 1% chance per attribute level when the summoned familiar of [Summon Familiar] explodes itself.
@@ -5800,7 +5800,7 @@ SKILL_20151224_005799	Receive different materials depending on the terrain. #{Ca
 SKILL_20151224_005800	Gem Penalty Level Reduction: #{CaptionRatio}#
 SKILL_20151224_005801	{#993399}{ol}[Magic]{/}{/}{nl}Stab the enemy with a bone knife. If the enemy is a Beast, Devil or Insect-type, blood will spew out that recovers some of your HP.
 SKILL_20151224_005802	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}{#339999}{ol}[Bleeding]{/}{/} Duration: 5 seconds{nl}HP Recovery: #{CaptionRatio2}#
-SKILL_20151224_005803	{#993399}{ol}[Magic]{/}{/}{nl}Stab the enemy with a bone knife. If the enemy is a Beast, Devil or Insect-type, blood will spew out that recovers some of your HP.
+SKILL_20151224_005803	{#993399}{ol}[Magic]{/}{/}{nl}Attack and absorb the life force from a Beast, Devil or Insect-type enemy while recovering your HP at the same time.
 SKILL_20151224_005804	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Blood Sucking: #{CaptionRatio2}#%{nl}Consumes #{CaptionTime}# SP per 0.4 second
 SKILL_20151224_005805	{#993399}{ol}[Magic]{/}{/}{nl}Summon a carved, pointed bone called a 'Kundela'. The Kundela points towards enemies in range, attacking them with bone shards and cursing them.
 SKILL_20151224_005806	Attribute Damage: #{CaptionRatio}#%{nl}Bone Pointing Duration: #{CaptionRatio2}# seconds{nl}{#339999}{ol}[Curse]{/}{/} Duration: 7 seconds
@@ -6349,7 +6349,7 @@ SKILL_20160323_006348	Team Level
 SKILL_20160323_006349	 - Able to learn up to 2 attributes simultaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement{nl} - Increased maximum buff count{nl} - Able to use Premium Gestures{nl}
 SKILL_20160323_006350	Increases the critical chance of [Double Slash] by 7% per attribute level.
 SKILL_20160323_006351	Increases the critical chance of [Moulinet] by 12% per attribute level.
-SKILL_20160323_006352	Increases the critical chance of [Multi Shot] by 7% per attribute level.
+SKILL_20160323_006352	Increases the critical chance of [Multi Shot] by 1.5% per attribute level.
 SKILL_20160323_006353	Deals 20% additional damage per attribute level to Flying-type monsters when equipped with a [Two-handed Bow].
 SKILL_20160323_006354	Increases the critical chance of [Spiral Arrow] by 13% per attribute level.
 SKILL_20160323_006355	Carnivory: Duration Time
