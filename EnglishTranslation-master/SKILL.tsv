@@ -4751,7 +4751,7 @@ SKILL_20150717_004750	Increases the AoE Attack Ratio of [Wagon Wheel] by 1.
 SKILL_20150717_004751	Deals additional damage equal to 50% physical attack to knock backed enemies with [Cartar Stroke].
 SKILL_20150717_004752	The enemy that was attacked by [Skull Swing] will not be able to jump for 3 seconds.
 SKILL_20150717_004753	The enemy that is attacked by [Pierce] will be in [Bleeding] for 5 seconds with 2% probability. Beeeding damage will be decided based on Physical ATK.
-SKILL_20150717_004754	Decreases the Strike damage dealt on an enemy with [Synchro Thrusting] by 10%, while increasing the Pierce damage by 10% per attribute level.
+SKILL_20150717_004754	Decreases [Strike] damage by 10%, and increases [Pierce] damage by 10% per attribute level of [Synchro Thrusting].
 SKILL_20150717_004755	Range attack rate increases by 3 while [Finestra] is activated, Evasion decrease rate is doubled.
 SKILL_20150717_004756	Decreases the cooldown time of [Long Stride] by 10 seconds.
 SKILL_20150717_004757	Increases the physical damage increase effect of [Warcry] by 1 per attribute level. (This attribute only applies after the enemy's defense is decreased.)
@@ -5244,7 +5244,7 @@ SKILL_20150918_005243	Enemies hit by [Hand Knife] have a 40% chance to be afflic
 SKILL_20150918_005244	Lv. 3 of Swell Left Arm: Enhance required
 SKILL_20151001_005245	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Raises your sword and smashes the area around the center of the body. Deals additional damage on medium and large-type enemies according to how much their defense has been decreased by Skull Swing.
 SKILL_20151001_005246	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Release a strong attack on enemies by spinning your body. Increases your critical rate when the attack lands and deals additional damage to a stunned enemy.
-SKILL_20151001_005247	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}+50 Critical Rate{nl}AoE Attack Ratio: #{SkillSR}#
+SKILL_20151001_005247	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Critical Rate: +50{nl}AoE Attack Ratio: #{SkillSR}#
 SKILL_20151001_005248	Flame Ground
 SKILL_20151001_005249	{#993399}{ol}[Magic] - [Fire]{/}{/}{nl}Creates a magic circle of flames at a targeted area. Deals continuous flame damage to enemies within the magic circle.
 SKILL_20151001_005250	Freezing Sphere
