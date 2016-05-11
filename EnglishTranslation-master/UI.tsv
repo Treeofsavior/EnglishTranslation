@@ -1,4 +1,4 @@
-﻿UI_20150317_000001	{@st41b}Learn Attributes{nl}from respective masters of each class.{/}
+UI_20150317_000001	{@st41b}Learn Attributes{nl}from respective masters of each class.{/}
 UI_20150317_000002	{@st43}Attribute List {/}
 UI_20150317_000003	{@st59}Close{/}
 UI_20150317_000004	{@st43}Learn Attributes{/}
@@ -1285,7 +1285,7 @@ UI_20150317_001284	Control Set
 UI_20150317_001285	{@St41}Difficulty : %s
 UI_20150317_001286	{@St42}Remaining Time : %s
 UI_20150317_001287	{@St53}Item Crafting
-UI_20150323_001288	{@st59}Place your item here{/}
+UI_20150323_001288	{@st59}Place your equipment here{/}
 UI_20150323_001289	{@st42}Cancel
 UI_20150323_001290	{@st42}Confirm
 UI_20150323_001291	{@st43}Briquetting{/}
@@ -1881,7 +1881,7 @@ UI_20151224_001880	{@st66b}Request Office Mission{/}
 UI_20151224_001881	{@st66b18}Entry Limit{/}
 UI_20151224_001882	{@st45tw2}Name{/}
 UI_20151224_001883	{@st45tw2}Entry Lv.{/}
-UI_20151224_001884	Searching Time : 
+UI_20151224_001884	Time Elapsed : 
 UI_20151224_001885	{@st59}Zoom In{/}
 UI_20151224_001886	{@st59}Zoom Out{/}
 UI_20151224_001887	{@st59}Show Last Warp Point{/}
@@ -2049,7 +2049,7 @@ UI_20151224_002048	{@st42}%s Benefits{/}
 UI_20151224_002049	Benefits
 UI_20160224_002050	Team Storage
 UI_20160224_002051	{@st59}Close{/}
-UI_20160224_002052	You can store tradable items but at the cost of 1 Potential.{nl}Withdrawing from Team Storage will deduct your remaining{nl}trades by 1 regardless of the number of items you take out.
+UI_20160224_002052	You can store only tradable items, but at the cost of 1 Potential.{nl}Withdrawing from Team Storage will deduct your remaining{nl}trades by 1 regardless of the number of items you take out.
 UI_20160224_002053	Retrieve Item
 UI_20160224_002054	General : /s (chat){nl}Shout : /y (chat){nl}Party : /p (chat){nl}Whisper : /w Team Name (chat){nl}Reply : /r (chat){nl} {nl}Able to switch with the Tab key
 UI_20160224_002055	{@59}Close{/}
@@ -2173,3 +2173,15 @@ UI_20160323_002172	{@st42} Character Greetings{/}
 UI_20160323_002173	[Server] Guild Name
 UI_20160323_002174	Record / Score
 UI_20160323_002175	[Created: %s ago]
+UI_20160411_002176	{@st66b}Use Camera Vibration{/}
+UI_20160425_002177	{@st42}If both sides are using Tokens,{nl}the trade properties of the weapon{nl}will not be changed.{/}
+UI_20160425_002178	{@st66b} Apply Background Effect
+UI_20160425_002179	{@st66b} Apply Dead Parts
+UI_20160425_002180	{@st66b} Apply Character Silhouettes
+UI_20160426_002181	{/}Do you want to delete your {b}{s20}Companion{/}{s43}{@st43}%s{/}{/}{b}{s20}?{/}
+UI_20160426_002182	{/}{b}{s20}It cannot be recovered after being deleted.{/}
+UI_20160426_002183	{/}{b}{s20}Companion{/}{s43}{@st43}%s{/}
+UI_20160426_002184	{/}Deleting in {b}{s20}%s seconds.{/}
+UI_20160426_002185	{s18}{ol}{#ffffcc}No{/}
+UI_20160426_002186	{s18}{ol}{#ffffcc}Cancel{/}
+UI_20160509_002187	Only Token users have access to Team Storage. Items that can be traded can be stored here.
