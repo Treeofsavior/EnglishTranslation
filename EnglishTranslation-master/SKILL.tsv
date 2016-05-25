@@ -1183,7 +1183,7 @@ SKILL_20150317_001182	Stone Curse
 SKILL_20150317_001183	Petrify target.
 SKILL_20150317_001184	Duration: #{CaptionTime}# seconds{nl}Splash: #{CaptionRatio}#
 SKILL_20150317_001185	Hail
-SKILL_20150317_001186	{#993399}{ol}[Magic] - [Ice]{/}{/}{n}Shards of ice fall upon the targeted area and damage enemies.
+SKILL_20150317_001186	{#993399}{ol}[Magic] - [Ice]{/}{/}{nl}Shards of ice fall upon the targeted area and damage enemies.
 SKILL_20150317_001187	Prominence
 SKILL_20150317_001188	{#993399}{ol}[Magic] - [Fire]{/}{/}{nl}Swathes of fire appear around you. Fire randomly moves and damage enemies.
 SKILL_20150317_001189	Attack #{SkillAtkAdd}#{nl}Duration 15 seconds
@@ -5168,7 +5168,7 @@ SKILL_20150918_005167	Shield Guard
 SKILL_20150918_005168	Umbo Thrust: Enhance
 SKILL_20150918_005169	Increases the damage dealt on an enemy with [Umbo Thrust] by 1% per attribute level.
 SKILL_20150918_005170	Moulinet: Critical
-SKILL_20150918_005171	[Cartar Stroke] no longer knocks enemies back. (Only applies if the attribute is set to ON)
+SKILL_20150918_005171	[Cartar Stroke] no longer knocks enemies back. (Only applies if this attribute is set to ON)
 SKILL_20150918_005172	Skyliner: Enhance
 SKILL_20150918_005173	Increases the damage dealt on an enemy with [Skyliner] by 1% per attribute level.
 SKILL_20150918_005174	Crosscut: Enhance
@@ -5199,11 +5199,11 @@ SKILL_20150918_005198	Increases the damage dealt on an enemy with [Shield Bash] 
 SKILL_20150918_005199	High Kick: Enhance
 SKILL_20150918_005200	Increases the damage dealt on an enemy with [High Kick] by 1% per attribute level.
 SKILL_20150918_005201	Earth Wave: Remove Knockdown
-SKILL_20150918_005202	[Earth Wave] no longer knocks enemies down. (Only applies if the attribute is set to ON)
+SKILL_20150918_005202	[Earth Wave] no longer knocks enemies down. (Only applies if this attribute is set to ON)
 SKILL_20150918_005203	Steed Charge: Remove Knockdown
-SKILL_20150918_005204	[Steed Charge] no longer knocks enemies down. (Only applies if the attribute is set to ON)
+SKILL_20150918_005204	[Steed Charge] no longer knocks enemies down. (Only applies if this attribute is set to ON)
 SKILL_20150918_005205	Doom Spike
-SKILL_20150918_005206	[Doom Spike] no longer knocks enemies down. (Only applies if the attribute is set to ON)
+SKILL_20150918_005206	[Doom Spike] no longer knocks enemies down. (Only applies if this attribute is set to ON)
 SKILL_20150918_005207	Increases the count of [Weapon Maintenance] by 20 per attribute level.
 SKILL_20150918_005208	Increases the count of [Armor Maintenance] by 5 per attribute level.
 SKILL_20150918_005209	Dust Devil: Enhance
@@ -5325,7 +5325,7 @@ SKILL_20151016_005324	Shield Mastery: Block
 SKILL_20151016_005325	Increases your block by 5% per attribute level when equipped with a [Shield].
 SKILL_20151016_005326	Two-handed Sword Mastery: Critical Attack
 SKILL_20151016_005327	Skull Swing: Remove Knockback
-SKILL_20151016_005328	[Skull Swing] does not push away enemies anymore. (Only applies if the attribute is set to ON)
+SKILL_20151016_005328	[Skull Swing] does not push away enemies anymore. (Only applies if this attribute is set to ON)
 SKILL_20151016_005329	Spear Lunge: Enhance
 SKILL_20151016_005330	Increases the damage dealt on an enemy with [Spear Lunge] by 1% per attribute level.
 SKILL_20151016_005331	Two-handed Spear Mastery: Penetration
@@ -5732,7 +5732,7 @@ SKILL_20151102_005731	Increases the damage dealt on an enemy with [Merkabah] by 
 SKILL_20151102_005732	Merkabah: Petrification
 SKILL_20151102_005733	[Merkabah] petrifies [Cursed] enemies for 3 seconds.
 SKILL_20151102_005734	Ein Sof: SP Recovery
-SKILL_20151102_005735	Exchanges half the maximum HP recovery of [Ein Sof] for SP recovery instead.
+SKILL_20151102_005735	Exchanges half the maximum HP increase of [Ein Sof] for SP instead.
 SKILL_20151102_005736	Lv. 3 Ein Sof required
 SKILL_20151224_005737	Mining
 SKILL_20151224_005738	Block: +#{CaptionRatio}#{nl}Attack: -#{CaptionTime}#%{nl}Critical Rate: -#{CaptionRatio2}#{nl}Duration: 30 seconds
@@ -6108,7 +6108,7 @@ SKILL_20151224_006107	Increases the body's evasion by 10% per attribute level wh
 SKILL_20151224_006108	Deals damage equal to 20% magic attack per attribute level to enemies hit with [Barrier].
 SKILL_20151224_006109	Increases the character's SP recovery. Increases the SP recovery by 10 per attribute level.
 SKILL_20151224_006110	Energy Blast: Remove Knockdown
-SKILL_20151224_006111	You can change directions while using [Energy Blast]. (You will not be knocked down if this attribute is ON.)
+SKILL_20151224_006111	[Energy Blast] no longer knocks enemies down. (Only applies if this attribute is set to ON.)
 SKILL_20151224_006112	Damage the enemy when they step on the magic circle created by [Healing Factor]. The damage is determined by the value of the character's current HP.
 SKILL_20151224_006113	The range of [Fumigate] becomes a purification area for 10 seconds. Increases the ally's poison resistance by 10% per attribute level.
 SKILL_20151224_006114	Increases the ally's status ailment resistance within the range of [Nachash] by 1% per attribute level.
@@ -6284,7 +6284,7 @@ SKILL_20160224_006283	Increases the damage dealt on an enemy with [Langort] by 1
 SKILL_20160224_006284	Using [Langort] increases the chance to block enemy attacks by 5% per attribute level. After a successful block, the enemy becomes afflicted with [Silence] for 3 seconds.
 SKILL_20160224_006285	Party members will receive a buff when [Swash Buckling] is used.
 SKILL_20160224_006286	Targe Smash: Remove Knockback
-SKILL_20160224_006287	[Targe Smash] no longer knocks enemies back. (Only applies if the attribute is set to ON)
+SKILL_20160224_006287	[Targe Smash] no longer knocks enemies back. (Only applies if this attribute is set to ON)
 SKILL_20160224_006288	Decreases the movement speed of monsters affected by [Swell Body] by 15%, while increasing their physical and magic attack by 20% per attribute level. (The effects do not count towards characters.)
 SKILL_20160224_006289	Increases the movement speed of monsters affected by [Shrink Body] by 10%, while decreasing their physical and magic attack by 25% per attribute level. (The effects do not count towards characters.)
 SKILL_20160224_006290	Receive a [Quick Cast] effect with a 1% chance per attribute level after using a Rune Caster skill. The effect is based on the caster's skill level of [Quick Cast]. If [Quick Cast] hasn't been learned, then the duration of the skill is reduced along with receiving Lv1 effects.
@@ -6356,4 +6356,4 @@ SKILL_20160323_006355	Carnivory: Duration Time
 SKILL_20160323_006356	Increases the duration time of [Carnivory] by 1 second per attribute level.
 SKILL_20160329_006357	Maximum Duration: #{CaptionRatio2}# seconds{nl}+#{CaptionRatio}#% Block during skill duration{nl}Duration: 15 seconds
 SKILL_20160425_006358	 - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement{nl} - Increased maximum buff count{nl} - Able to use Premium Gestures{nl}
-SKILL_20160426_006359	- Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30%{img white_right_arrow 16 16}10%){nl} - Able to list up to 9 items on the Market{nl} - +3 increased character movement{nl} - Increased maximum buff count{nl} - Able to use 
+SKILL_20160426_006359	 - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - +3 increased character movement{nl} - Increased maximum buff count{nl} - Able to use 
