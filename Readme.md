@@ -3,6 +3,8 @@
 Because of that shitty Indonesian translation made by Gamescool. I've decided to port the current English Translation Project to Tree Of Savior INA.
 
 ## Changelog
+### 2016-06-02
+- UI: UI_20150804_001771
 - Nothing has been done (lol)
 
 
