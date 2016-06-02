@@ -16,6 +16,7 @@ Because of that shitty Indonesian translation made by Gamescool. I've decided to
 
 ## Changelog
 ### 2016-06-02
+- ITEM: 60% progress
 version 0.0.8
 - UI: Completed UI porting and some of translation made by Me
 
