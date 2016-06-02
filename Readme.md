@@ -1,6 +1,6 @@
-# Tree Of Savior INA - English Translation Porting
+# Tree Of Savior INA - English Translation Porting (Unofficial)
 ----
-Because of that shitty Indonesian translation made by Gamescool. I've decided to port the current English Translation Project to Tree Of Savior INA.
+Because of how shitty Indonesian translation made by Gemscool. I've decided to port the current English Translation Project to Tree Of Savior INA.
 
 ## How to Install
 1. Download the archive from release
