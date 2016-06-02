@@ -14,6 +14,9 @@ Because of how shitty Indonesian translation made by Gemscool. I've decided to p
 
 6. Change Language="Indonesian" to Language="English"
 
+## Some sample Screenshot
+![Screenshot UI](http://i.imgur.com/lE94lBy.jpg)
+
 ## Changelog
 ### 2016-06-02
 - ITEM: 60% progress
