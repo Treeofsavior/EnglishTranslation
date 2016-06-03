@@ -1138,7 +1138,7 @@ SKILL_20150317_001137	{#993399}{ol}[Magic]{/}{/}{nl}Inflicts damage by drawing i
 SKILL_20150317_001138	Raise
 SKILL_20150317_001139	Lift targets into the air.
 SKILL_20150317_001140	Targets: #{CaptionRatio}#{nl}Duration: #{CaptionRatio2}# seconds
-SKILL_20150317_001141	Gravity Pull
+SKILL_20150317_001141	Gravity Pole
 SKILL_20150317_001142	Create a gravitational field that pulls all nearby enemies.
 SKILL_20150317_001143	Target #{CaptionRatio}#{nl}Max. duration 5 seconds
 SKILL_20150317_001144	Unbind
@@ -1855,7 +1855,7 @@ SKILL_20150317_001854	Rage
 SKILL_20150317_001855	Increased damage and SP cost
 SKILL_20150317_001856	Hangman's Knot: Splash
 SKILL_20150317_001857	Charging - Evasion
-SKILL_20150317_001858	Gravity Pull: Decreased Defense
+SKILL_20150317_001858	Gravity Pole: Decreased Defense
 SKILL_20150317_001859	Release from poisoned state.
 SKILL_20150317_001860	Needle Blow Poison
 SKILL_20150317_001861	Continuously receiving Poison damage.
@@ -2191,12 +2191,12 @@ SKILL_20150317_002190	Telekinesis: Forced move
 SKILL_20150317_002191	Inflicts damage equal to 20% magic attack per level to nearby enemies when moving with [Telekinesis].
 SKILL_20150317_002192	Psychic Pressure: Stun
 SKILL_20150317_002193	Enemy falls under [Stun] for 1 second at a 10% chance per Attribute level when hit with [Psychic Pressure].
-SKILL_20150317_002194	Gravity Pull: Evasion
-SKILL_20150317_002195	Evasion increases by 10 per attribute level when using [Gravity Pull].
+SKILL_20150317_002194	Gravity Pole: Evasion
+SKILL_20150317_002195	Evasion increases by 10 per attribute level when using [Gravity Pole].
 SKILL_20150317_002196	Magnetic Force: Stun
 SKILL_20150317_002197	Enemies attacked with [Magnetic Force] falls under [Stun] for 1 second at chance of 5% per attribute level.
-SKILL_20150317_002198	Gravity Pull: Decreased Defense
-SKILL_20150317_002199	Physical Defense of enemy drawn in skill [Gravity Pull] is reduced by 5% per attribute level.
+SKILL_20150317_002198	Gravity Pole: Decreased Defense
+SKILL_20150317_002199	Physical Defense of enemy drawn in skill [Gravity Pole] is reduced by 5% per attribute level.
 SKILL_20150317_002200	Raise: Large Monsters
 SKILL_20150317_002201	[Raise] applies to large-type monsters.
 SKILL_20150317_002202	Physical Link: Defense
@@ -4110,7 +4110,7 @@ SKILL_20150428_004109	[Montano] triggered [Slow] on target for 10 seconds. Durat
 SKILL_20150428_004110	Lethargy: Additional Damage
 SKILL_20150428_004111	Enemies affected by [Lethargy] will receive 20% additional damage with Strike attacks.
 SKILL_20150428_004112	Character's Fire attack increases by 3 per attribute level when using [Staff] weapon.
-SKILL_20150428_004113	Evasion increases by 10% per attribute level when using [Gravity Pull].
+SKILL_20150428_004113	Evasion increases by 10% per attribute level when using [Gravity Pole].
 SKILL_20150428_004114	Skill duration of [Spiritual Chain] increases by 1 seconds per attribute level.
 SKILL_20150428_004115	Punji Stake: Knockdown Damage
 SKILL_20150428_004116	Air type monsters that fall on ground with [Snatching] receives 20% more damage per attribute level when attacked with Slash, Strike type attacks.
@@ -4434,9 +4434,9 @@ SKILL_20150714_004433	Increases the damage dealt on an enemy with [Telekinesis] 
 SKILL_20150714_004434	Increases the damage dealt on an enemy with [Psychic Pressure] by 1% per attribute level.
 SKILL_20150714_004435	Increases the damage dealt on an enemy with [Magnetic Force] by 1% per attribute level.
 SKILL_20150714_004436	Enemies hit by [Psychic Pressure] have a 10% chance per attribute level to become afflicted with [Stun] for 1 second.
-SKILL_20150714_004437	Increases evasion by 10% per attribute level when using [Gravity Pull].
+SKILL_20150714_004437	Increases evasion by 10% per attribute level when using [Gravity Pole].
 SKILL_20150714_004438	The enemy that was shot by [Magnetic Force] will fall into [Stun] status for 1 sec with the probability of 5%.
-SKILL_20150714_004439	Decreases the physical defense by 5% per attribute level on enemies that are pulled by [Gravity Pull].
+SKILL_20150714_004439	Decreases the physical defense by 5% per attribute level on enemies that are pulled by [Gravity Pole].
 SKILL_20150714_004440	Swap: Friendly
 SKILL_20150714_004441	[Swap] will be applied to allies and not enemies.
 SKILL_20150714_004442	Hangman's Knot: Additional Damage
@@ -5155,7 +5155,7 @@ SKILL_20150918_005154	Applies one new deadly poison to your weapon for the next 
 SKILL_20150918_005155	Immune to Lv1 status ailments
 SKILL_20150918_005156	Increased magic defense.
 SKILL_20150918_005157	Shield Bash-Mix stat
-SKILL_20150918_005158	Vulnerable to Pierce attacks
+SKILL_20150918_005158	Vulnerable to Strike attacks
 SKILL_20150918_005159	Decreased Fire, Ice, Lightning, Earth and Poison properties
 SKILL_20150918_005160	Block Increase
 SKILL_20150918_005161	Decreased accuracy
@@ -6061,7 +6061,7 @@ SKILL_20151224_006060	Increases the Fire property attack of an ally by 5 per att
 SKILL_20151224_006061	Decreases the Fire property resistance of nearby enemies by 10 per attribute level for 5 seconds when [Enchant Fire] is used.
 SKILL_20151224_006062	[Gust] deals damage even to unfrozen enemies. Attacks unfrozen enemies 2 times and attacks frozen enemies 3 times.
 SKILL_20151224_006063	Increases the freeze duration of [Subzero Shield] by 0.5 seconds per attribute level.
-SKILL_20151224_006064	Decreases the physical defense of enemies by 10% per attribute level that are pulled by [Gravity Pull].
+SKILL_20151224_006064	Decreases the physical defense of enemies by 10% per attribute level that are pulled by [Gravity Pole].
 SKILL_20151224_006065	Decreases the AoE Defense Ratio of the enemies gathered through [Hangman's Knot] by 1 per attribute level.
 SKILL_20151224_006066	Enemies affected by [Swell Body] will have their movement speed decreased by 15% and physical and magic attack increased by 20% per attribute level.
 SKILL_20151224_006067	Enemies affected by [Shrink Body] will have their movement speed increased by 10% and physical and magic attack decreased by 25% per attribute level.
@@ -6330,8 +6330,8 @@ SKILL_20160310_006329	Attack: #{SkillAtkAdd}#{nl}Blocks: #{CaptionRatio}#{nl}Pav
 SKILL_20160310_006330	Additional Enemy Level: #{CaptionRatio}#{nl}Duration: #{CaptionRatio2}# seconds
 SKILL_20160310_006331	Restrained in the air.
 SKILL_20160310_006332	Swash Buckling: Repel
-SKILL_20160310_006333	Gravity Pull: Enhance
-SKILL_20160310_006334	Increases the damage dealt on an enemy with [Gravity Pull] by 1% per attribute level.
+SKILL_20160310_006333	Gravity Pole: Enhance
+SKILL_20160310_006334	Increases the damage dealt on an enemy with [Gravity Pole] by 1% per attribute level.
 SKILL_20160310_006335	Applies the effects of [Swift Step] to party members. (The effects will only be applied to party members if this attribute is ON.)
 SKILL_20160310_006336	[Crossfire] gets a 10% chance per level of inflicting [Burn] on targets for 6 seconds. Burn damage is proportional to the character's physical attack.
 SKILL_20160315_006337	Aim at an enemy in a stable posture. Increases Missile property attacks for one time.
