@@ -14926,20 +14926,743 @@ QUEST_LV_0100_20160323_014925	The merchant wants to retrieve some blue coal they
 QUEST_LV_0100_20160323_014926	Deliver the Blue Coal to the merchant
 QUEST_LV_0100_20160323_014927	You have collected enough blue coal. Deliver it to the merchant.
 QUEST_LV_0100_20160323_014928	The Barbarian Master wants you to defeat monsters in Feretory Hills using only basic attacks and Barbarian techniques. This is a task you must complete on your own.
-QUEST_LV_0100_20160718_014929	[Event]	Scavenge Challenge
-QUEST_LV_0100_20160718_014930	Check the Event Notice Board
-QUEST_LV_0100_20160718_014931	Please check the Event Notice Board
-QUEST_LV_0100_20160718_014932	I can see someone who doesn't move at all. Where am I?
-QUEST_LV_0100_20160718_014933	You can get from one hill to the other by crossing the bridge. Where am I?
-QUEST_LV_0100_20160718_014934	I am near a statue that can bless you. Where am I?
-QUEST_LV_0100_20160718_014935	I can see a pretty red light reflected off of that ore. Where am I?
-QUEST_LV_0100_20160718_014936	To win this prize, you must find twins. Where am I?
-QUEST_LV_0100_20160718_014937	Two bundles of hay keep me company. Where am I?
-QUEST_LV_0100_20160718_014938	I like relaxing under a very big tree and count the ornaments on it. Where am I?
-QUEST_LV_0100_20160718_014939	I am in front of the lonely house and can see a long stone bridge. Where am I?
-QUEST_LV_0100_20160718_014940	I am under the spotlight looking at the bridge above the fall. Where am I?
-QUEST_LV_0100_20160718_014941	I can hear people going up the stairs and smell old wood. Where am I?
-QUEST_LV_0100_20160718_014942	The door behind me is not supposed to remain unlocked and open like it is now. Where am I?
-QUEST_LV_0100_20160718_014943	You have to step on the stone stairway to see me near the tree. Where am I?
-QUEST_LV_0100_20160718_014944	Who would pile something that is already burning? Where am I?
-QUEST_LV_0100_20160718_014945	From the stone stairway to the light on the street. Where am I?
+QUEST_LV_0100_20160718_014929	You didn't see him?{nl}His mind is not all that sound. Where could he be?{nl}
+QUEST_LV_0100_20160718_014930	Niels sent you too?{nl}I am not going.{nl}I have to research these wild flowers.{nl}
+QUEST_LV_0100_20160718_014931	I am not sure of what he meant by 'the worthy one'...{nl}However, the goddess said unto Zachariel and gave him{nl}the divine task of helping the one who will save this world.{nl}
+QUEST_LV_0100_20160718_014932	There's a herb that only grows around Metos Field.{nl}Please bring me it.
+QUEST_LV_0100_20160718_014933	Good job.{nl}You're pretty sharp, aren't you?{nl}
+QUEST_LV_0100_20160718_014934	Alright, it's done.{nl}Take this to Davio.
+QUEST_LV_0100_20160718_014935	This will be enough.{nl}Davio sent you, right?{nl}I still need one more ingredient to make the medicine truly effective.
+QUEST_LV_0100_20160718_014936	To make the medicine, I needed to find the cause of Jonas' symptoms and it drove me crazy.{nl}Funnily enough, it was caused by a spell that was used long ago.{nl}
+QUEST_LV_0100_20160718_014937	I heard a rumor that the Great King Zachariel erased the {nl}memories of all workers after building the Royal Mausoleum.{nl}That should be the spell casted on Jonas, though he is also a bit senile.{nl}
+QUEST_LV_0100_20160718_014938	It will be completed once you melt it in the honey that you have.{nl}Take it with you.
+QUEST_LV_0100_20160718_014939	We don't accept just anyone as a Peltasta.{nl}I will give you an assignment. First, defeat all Jukopus that are occupying Siaulai's Miners' Village.
+QUEST_LV_0100_20160718_014940	I am happy to see that you are determined to learn the way of the sword from me,{nl}but I can't be sure that you are capable.{nl}I will test you by seeing how you face against the Vubbes at the Miners' Village.
+QUEST_LV_0100_20160718_014941	Your will to learn from me is good, but first I have a favor to ask.{nl}We can continue our talk if you are up for it.{nl}
+QUEST_LV_0100_20160718_014942	I heard the lost telescope lens from the Astral Tower is at the Miners' Village. {nl}Get me that lens before the other masters find out and I'll teach you my techniques.
+QUEST_LV_0100_20160718_014943	I heard the Vubbes at the Miners' Village have a special type of venom. {nl}I'm sure it's the same venom used by the assassin Evoniphon. Bring me that venom.
+QUEST_LV_0100_20160718_014944	{nl}The Archer Master is not a mean person, so he will give you the book if you ask nicely.{nl}
+QUEST_LV_0100_20160718_014945	It's not hard to teach you high level magic... but, you should help me before I teach it to you.{nl}I need to collect fire energy for my research, but I just don't have the time.
+QUEST_LV_0100_20160718_014946	This is the symbol that I engraved on my father's sleeve...{nl}This is so precious to me... Thank you.
+QUEST_LV_0100_20160718_014947	This is an opportunity for us. The Cockats are suffering from a disease.{nl}Please get enough tails from them to use for our research.
+QUEST_LV_0100_20160718_014948	What if one of those flowers suddenly bit you?{nl}They may look beautiful to you, but I don't just see them as beautiful.
+QUEST_LV_0100_20160718_014949	I must protect them...
+QUEST_LV_0100_20160718_014950	Gesti... should not be underestimated.{nl}We need to find the hidden sanctum fast, but let's be cautious.
+QUEST_LV_0100_20160718_014951	You need the Seal of Space in order to enter the hidden sanctuary. {nl}It's hidden in the Sventove Central Altar, but I just hope it's not too late.
+QUEST_LV_0100_20160718_014952	We can't do anything about the destroyed altar, but the fragments still have power. {nl}Gather the pieces and insert them into the 8 pillars of the Sventove Central Hall.
+QUEST_LV_0100_20160718_014953	Uh...
+QUEST_LV_0100_20160718_014954	Is there nothing valuable here?{nl}I mean, I've been hired by Raymond, but...
+QUEST_LV_0100_20160718_014955	In between this Gorge Area and Klaipeda is the Thorn Forest that is full of evil energy. {nl}It was just a normal and peaceful forest before but...{nl}
+QUEST_LV_0100_20160718_014956	I don't know who it is but it's a good thing the Revelator stopped it. {nl}We might even have had another Medzio Diena otherwise.
+QUEST_LV_0100_20160718_014957	Overlong Bridge Valley is home to many places where one can open spatial chasms.
+QUEST_LV_0100_20160718_014958	Dementia? That's absurd.{nl}I'm perfectly fine. {nl}You're the crazy ones.
+QUEST_LV_0100_20160718_014959	Just where did that old man go all by himself?{nl}His mind isn't even right...
+QUEST_LV_0100_20160718_014960	You should prove that you are suited to use a sword if you want to reach a higher level of swordsmanship. {nl}Go and collect Red Kepa Skins at the Miners' Village.
+QUEST_LV_0100_20160718_014961	While magic does not choose its wielder, I don't like a lazy disciple.{nl}Defeating Stone Orcas in Crystal Mine 1F will be a test of your guts.
+QUEST_LV_0100_20160718_014962	If you can't bring me cores, you better give up now.
+QUEST_LV_0100_20160718_014963	Defeat the Jukopus at the Miners' Village and bring me their cores as proof.
+QUEST_LV_0100_20160718_014964	We should ask for more in times like this.{nl}I don't know what they're looking for, {nl}but they pay a lot when something is discovered at the Royal Mausoleum.{nl}{nl}
+QUEST_LV_0100_20160718_014965	Ah, so you're the newcomer.{nl}Come see this thing behind me and if the matter inside solidifies, bring it to me.{nl}{nl}
+QUEST_LV_0100_20160718_014966	I would feel more comfortable doing it myself, {nl}but I took an arrow to the knee before, and it aches quite a bit.
+QUEST_LV_0100_20160718_014967	Hmm... So... The procedure is...{nl}Wash your body in the water, pray, and then...{nl}
+QUEST_LV_0100_20160718_014968	Thank you. {nl}I should be able to work with this amount of divine energy.
+QUEST_LV_0100_20160718_014969	Clymen... I can feel its presence at the Ishpirki Access Road.
+QUEST_LV_0100_20160718_014970	Goddess Saule? {nl}We haven't seen Her in a long time.{nl}
+QUEST_LV_0100_20160718_014971	The portal that leads to Goddess Saule doesn't open. {nl}I think it's because the Holy Pond is corrupted.
+QUEST_LV_0100_20160718_014972	Is it the sacred object?{nl}It's been such a long time, I can't think of anything else.
+QUEST_LV_0100_20160718_014973	I also wonder why they used such magic on the old man.
+QUEST_LV_0100_20160718_014974	I had never seen demons use any herbs, but I'm sure whatever it is they're doing, it's evil.{nl}I was on my way to stop them when this happened...
+QUEST_LV_0100_20160718_014975	The Chapparition will not bring back the lives of those who died.{nl}It's a sad thing.. But we can't just leave it like that.
+QUEST_LV_0100_20160718_014976	What? You're not a reaper?{nl}But since you've seen my face now, I'm sorry but you will be cursed. {nl}
+QUEST_LV_0100_20160718_014977	Wait a minute. No. No.{nl}Deliver this letter for me and we can pretend this never happened.
+QUEST_LV_0100_20160718_014978	{nl}You'll have to deliver it to Ripper, the guard of Fedimian.{nl}Do not look at what's written in the letter.
+QUEST_LV_0100_20160718_014979	I can release the Kartas Hunter from the seal by myself, but{nl}in order to preserve the power of the Crystal, we will need help from my vassals.{nl}
+QUEST_LV_0100_20160718_014980	It could be... That they were threatened...{nl}Or they had a mission to complete even though they were being chased?{nl}
+QUEST_LV_0100_20160718_014981	Attention! Please read.{nl}Should the purifier be disabled, toxic substances will fill Crystal Mine 3F.{nl}
+QUEST_LV_0100_20160718_014982	Please proceed with the following steps as quickly as possible in the event of a purifier failure.{nl}
+QUEST_LV_0100_20160718_014983	: Take it and find the unmined magic crystals spread around 3F.{nl}
+QUEST_LV_0100_20160718_014984	: Restore in the Purifier.{nl}
+QUEST_LV_0100_20160718_014985	- Attention -{nl}After using:
+QUEST_LV_0100_20160718_014986	Would you please help me?{nl}The Pantos must have eaten something wrong to be acting like that.{nl}
+QUEST_LV_0100_20160718_014987	You saw that baby Panto eat the Plateau Sugar Beet I was carrying, right?{nl}I'm guessing the adult Pantos started acting strange after eating the Sugar Beets that grow here.{nl}
+QUEST_LV_0100_20160718_014988	Get rid of all the Sugar Beet stems you see growing at the Spalva Junction.{nl}It's a shame but I'd rather the Pantos starve than eat those things.
+QUEST_LV_0100_20160718_014989	I often hear from other watchers that the soil here is being contaminated.{nl}With what, I'm not sure...
+QUEST_LV_0100_20160718_014990	If we're going to use a shaman doll, we need more information.{nl}There used to be nothing but Pantos here, but now I see other monsters hanging around.{nl}
+QUEST_LV_0100_20160718_014991	Good.{nl}If you find any Spion Archers, Leaflies or Malis at Gele Plateau, can you handle them?{nl}Also, let me know if you find anything new.
+QUEST_LV_0100_20160718_014992	We've only recently started to scout this area, so we don't know exactly where they are either.{nl}But the last places we found are the two I talked about earlier.
+QUEST_LV_0100_20160718_014993	Hm... I see.{nl}It's not much yet, but we might be able to fix the shaman doll a little.{nl}
+QUEST_LV_0100_20160718_014994	I'll let Basil know. {nl}Thanks for helping.
+QUEST_LV_0100_20160718_014995	Running from the demons I found some traps around this area that weren't working like they should.{nl}They're supposed to react to demons only, but they reacted to me, too.{nl}
+QUEST_LV_0100_20160718_014996	Then some Blue Vubbe Archers saw it and took a few of my traps for themselves.{nl}If you're going over there, would you please collect some of my traps?{nl}
+QUEST_LV_0100_20160718_014997	I bought them from a Sapper I met in Klaipeda, and they weren't cheap...{nl}Guess they aren't worth the money.
+QUEST_LV_0100_20160718_014998	I built a few dozens of them, so we're still far from collecting them all.{nl}If I get out of here, I need to go to Klaipeda and find that Sapper.
+QUEST_LV_0100_20160718_014999	Do you know what's harder than running from Marnox?{nl}Trying to hide among the Varvs at the Felon Prison.{nl}I want you to just get rid of all the Varvs you can find.
+QUEST_LV_0100_20160718_015000	If you see any Varvs, just get rid of them.
+QUEST_LV_0100_20160718_015001	If I get out of here, I can talk proudly of having faced Marnox.{nl}But the thing with the Varvs is not something I want to talk about over dinner, or ever, to be honest.
+QUEST_LV_0100_20160718_015002	{nl}They were so many; there's no way, huh...{nl}Still, thanks for clearing them out a little...
+QUEST_LV_0100_20160718_015003	I think I'm going to need to camp out here for a few days, but I'm worried about spending the night here.{nl}Will you get me the blue coal I burried at Goram Shores and Saunu Brook?{nl}
+QUEST_LV_0100_20160718_015004	I burried it before Medzio Diena, but given my situation I really need to use it...
+QUEST_LV_0100_20160718_015005	I bought it from the mine in the northern snowfield thinking I could sell it in Orsha...{nl}However, after Medzio Diena, everyone was busy reconstructing the city and cutting down the tree around it.{nl}
+QUEST_LV_0100_20160718_015006	In the end, no one was buying my items.{nl}So I ended up burying it nearby in Koru Jungle.{nl}
+QUEST_LV_0100_20160718_015007	I didn't mean to leave it there for so long...{nl}Not sure if it'll still light up, because of the humidity.
+QUEST_LV_0100_20160718_015008	I've lost all of my Holy Stones...{nl}I don't know how much longer I'll be able to stay here.{nl}
+QUEST_LV_0100_20160718_015009	If you happen to find an Orb Crystal when fighting demons, will you bring it to me?{nl}I can use it to create a makeshift Holy Stone and protect myself.
+QUEST_LV_0100_20160718_015010	I'm still in pain from the beating.
+QUEST_LV_0100_20160718_015011	It's not much... But it will have to do.{nl}Thank you so much!
+QUEST_LV_0100_20160718_015012	You weren't thinking of ditching me and doing everything yourself, were you?{nl}Don't you have to be around here for that, anyways?{nl}
+QUEST_LV_0100_20160718_015013	While you're at it, you could clear out some monsters for me, too.
+QUEST_LV_0100_20160718_015014	Guess I shouldn't just trust whoever Niels recommends.
+QUEST_LV_0100_20160718_015015	Thank you.{nl}If you finish the other job, would you work here with me for a few months?{nl}It's okay if you don't want to, though...
+QUEST_LV_0100_20160718_015016	Epigraphist Deltran
+QUEST_LV_0100_20160718_015017	Please help me!{nl}There are important records here that I must find.{nl}
+QUEST_LV_0100_20160718_015018	But those monsters... If I move they'll come running right away.{nl}Please clear out the ones wandering over there!
+QUEST_LV_0100_20160718_015019	I got out of Stele Road without my master knowing.{nl}If I go back empty-handed, I'll be in big trouble.{nl}
+QUEST_LV_0100_20160718_015020	I could even be expelled from the Association...
+QUEST_LV_0100_20160718_015021	Thank you for helping me.{nl}I wonder where all those monsters came from.{nl}
+QUEST_LV_0100_20160718_015022	I know for sure there's something important in here!{nl} But please don't tell the other adventurers I'm here...
+QUEST_LV_0100_20160718_015023	With that many monsters, taking anything is almost impossible...
+QUEST_LV_0100_20160718_015024	Never have I seen such a dreadful place.{nl}The monsters corrupted by evil energy are interfering with our attempts of purification.{nl}
+QUEST_LV_0100_20160718_015025	If you follow the word of the goddess, you know what to do.{nl}Defeat them all!
+QUEST_LV_0100_20160718_015026	There's no time to wonder how this happened.{nl}We need to fix it before it's too late.
+QUEST_LV_0100_20160718_015027	I will make sure to tell the other believers about your generous help.{nl}Thank you.
+QUEST_LV_0100_20160718_015028	Please don't leave me alone here!{nl}If you go, the Lapasape Mages will come and take me!{nl}Please!
+QUEST_LV_0100_20160718_015029	I don't want them to take me.{nl}I miss my mother...
+QUEST_LV_0100_20160718_015030	Did you really get all of them?{nl}I can still feel them glaring at me from between the trees...
+QUEST_LV_0100_20160718_015031	Herbalist Talas
+QUEST_LV_0100_20160718_015032	It's useless.{nl}The demons won't let me collect the herbs I need from Badoca Hill.{nl}
+QUEST_LV_0100_20160718_015033	Without those herbs I can't make medicine for the refugees.{nl}It would be great if you could help...
+QUEST_LV_0100_20160718_015034	There's not much I can do with my legs like this...
+QUEST_LV_0100_20160718_015035	Thank you!{nl}I should tend to my legs now.
+QUEST_LV_0100_20160718_015036	The village priest asked me to collect some antidote from the Merog Stingers.{nl}I thought the villagers could help but, as you can see... it's hopeless...{nl}
+QUEST_LV_0100_20160718_015037	If you see any Merog Stingers, would you collect some antidote samples from them?{nl}
+QUEST_LV_0100_20160718_015038	For some time now the people coming to the shrine ruins are being chased away by Merog Stingers.{nl}They even stung and almost killed a few villagers...
+QUEST_LV_0100_20160718_015039	Thank you!{nl}We should collect as much as we can until everyone has recovered.
+QUEST_LV_0100_20160718_015040	Help!{nl}My spirits were taken away by monsters...{nl}
+QUEST_LV_0100_20160718_015041	Please save them!
+QUEST_LV_0100_20160718_015042	You need to observe the monsters carefully to find them...
+QUEST_LV_0100_20160718_015043	Thank you.{nl}I pray that they rest in peace with the goddess...
+QUEST_LV_0100_20160718_015044	I'm sorry... I'm so sorry...
+QUEST_LV_0100_20160718_015045	Frail Owl Sculpture
+QUEST_LV_0100_20160718_015046	I wish I could do something for the spirits, like you...
+QUEST_LV_0100_20160718_015047	The spirits I need to collect are all scattered, in fear of the monsters.{nl}Would you find these frightened spirits and bring them back to me?
+QUEST_LV_0100_20160718_015048	I miss the old, peaceful times...
+QUEST_LV_0100_20160718_015049	If I wasn't hidden among the trees like this, who knows if the monsters wouldn't have taken me too.{nl}But I will guide the spirits for as long as I can.{nl}Thank you for helping.
+QUEST_LV_0100_20160718_015050	Could you please... Help a bit more?{nl}The reason I am being chased by them is because I am getting rid of the defiling aura from the forest.{nl}
+QUEST_LV_0100_20160718_015051	I think you'd be able to deal with them more effectively...{nl}Could you help me?
+QUEST_LV_0100_20160718_015052	I want to finish them off as soon as possible and return.
+QUEST_LV_0100_20160718_015053	Thank you!{nl}We should finish the rest of them off as well.
+QUEST_LV_0100_20160718_015054	Historian Grenus
+QUEST_LV_0100_20160718_015055	Hey there. Could you help me out?{nl}There are a lot of relics in this area that are important to my research, but I can't gather them on my own.{nl}
+QUEST_LV_0100_20160718_015056	So here's my proposition... {nl}Why don't you go to the exploration sites that I've marked and dig the relics up.
+QUEST_LV_0100_20160718_015057	I assure you that you will be mentioned in my papers if my research sees the light of day.
+QUEST_LV_0100_20160718_015058	Well look at that, a kind traveler helping me more than any of my apprentices.{nl}Your name will be on my research papers when they're finished in a few years.{nl}Thank you!{nl}
+QUEST_LV_0100_20160718_015059	Maybe I should look for another line of work before I get any older...{nl}I think I'll do some serious thinking once I finish this research..
+QUEST_LV_0100_20160718_015060	What to do..{nl}I was planning on waiting at the gravekeeper's hut until the professor was well, but there are just too many monsters here.
+QUEST_LV_0100_20160718_015061	{nl}Could you please deal with some of the monsters in the surrounding area?{nl}I beg of you.
+QUEST_LV_0100_20160718_015062	I think I'll be leaving any strange things alone in the future...{nl}I never thought that something like this would happen.
+QUEST_LV_0100_20160718_015063	Thank you.{nl}I hope that the professor will get better soon...
+QUEST_LV_0100_20160718_015064	Settler Rodonas
+QUEST_LV_0100_20160718_015065	I've heard that you've been helping people around here..{nl}I was wondering if you could help me as well?{nl}I have to reclaim some land that Gytis asked me, but I haven't been able to go anywhere near it because of the monsters...{nl}I'd be grateful if you could deal with some of them..
+QUEST_LV_0100_20160718_015066	It's so sad that we have to be developing the land around Klaipeda...{nl}I'm worried that some of the monsters will come running towards us since they've lost their habitats.
+QUEST_LV_0100_20160718_015067	Thank you!{nl}You've scared a lot of the monsters away..{nl}I think we'll be able to start working in just a bit.
+QUEST_LV_0100_20160718_015068	What the settlement area needs is mercenaries to protect us... not more farmers...{nl}I can't see a single mercenary.
+QUEST_LV_0100_20160718_015069	I'm sorry, but could you help me out a bit?{nl}I wasn't able to gather more than half of the materials required for my mission.{nl}Could you please deal with the monsters and get the dirty pouches that they are carrying?{nl}I'd really appreciate it...
+QUEST_LV_0100_20160718_015070	I'm pretty sure that anyone asking for these are mages or alchemists...{nl}I'd like to tell them to try gathering this stuff themselves...
+QUEST_LV_0100_20160718_015071	Thank you so much!{nl}I'll be able to make it back much more quickly thanks to you.{nl}Even if this is only the beginning...
+QUEST_LV_0100_20160718_015072	Clear the Royal Mausoleum of the Guardians that overlook sinister presences and are trying to destroy the defense systems.{nl}That is the only way that you will be able to safely achieve your goals here.
+QUEST_LV_0100_20160718_015073	The defense system is being destroyed.
+QUEST_LV_0100_20160718_015074	The Guardians are being defiled at an increased rate.{nl}This has only delayed the destruction of the Royal Mausoleum.
+QUEST_LV_0100_20160718_015075	You must retreive the essence from the Tainted Guardians.{nl}You will be able to interrupt the destruction of the Royal Mausoleum by doing so.
+QUEST_LV_0100_20160718_015076	Deal with all of the Tainted Guardians.{nl}That is the fate of the Royal Mausoleum Guardians.
+QUEST_LV_0100_20160718_015077	Laterous
+QUEST_LV_0100_20160718_015078	The people are scared because of all sorts of strange rumors...{nl}I need to find some people to raise a farm but people refuse to venture out because of the rumors and monsters.{nl}I'm getting more anxious by the day.{nl}You seem like a strong adventurer, so could you please deal with some of the monsters nearby?{nl}I'm sure that dealing with the monsters will help out with the rumors as well.
+QUEST_LV_0100_20160718_015079	I am not leaving here no matter what anyone says..{nl}I've come here after ignoring all my family and friends that told be that this was a bad idea, you see.
+QUEST_LV_0100_20160718_015080	Thank you so much!{nl}I'm sure that many people will be more eager since the monsters are gone.{nl}We'll be able to get a foothold now!
+QUEST_LV_0100_20160718_015081	I thought that this was supposed to be a pleasant place to live instead of being infested with monsters...{nl}I still won't give up though...
+QUEST_LV_0100_20160718_015082	Wandering Believer's Soul
+QUEST_LV_0100_20160718_015083	One of the living all the way over here... The goddess must have sent you...{nl}Please help me... Strange figures and monsters are taking the spirits away...
+QUEST_LV_0100_20160718_015084	I'll be taken away as well if something isn't done about it...{nl}Please! Could you deal with some of the monsters in the area?
+QUEST_LV_0100_20160718_015085	I don't remember anything from when I was alive...{nl}Why did I even die?
+QUEST_LV_0100_20160718_015086	Thank you...{nl}With them gone, I can now leave whenever I wish.
+QUEST_LV_0100_20160718_015087	Why am I here... and why are they trying to catch me?
+QUEST_LV_0100_20160718_015088	Pilgrim Seronia
+QUEST_LV_0100_20160718_015089	I'm relieved to meet a person here.{nl}Could you deal with some of the monsters in the surrounding area?{nl}They're more than a match for me on my own..{nl}I'd greatly appreciate your help.
+QUEST_LV_0100_20160718_015090	I don't know how I got all the way over here...{nl}I got separated from the people I came with since we were chased by monsters...{nl}I have no idea where any of them might be...{nl}I hope they are alright...
+QUEST_LV_0100_20160718_015091	Thank you so much..{nl}I think I'll start moving once the monsters have thinned out a bit more.
+QUEST_LV_0100_20160718_015092	This way leads to the cursed city...{nl}Where did we start going wrong?
+QUEST_LV_0100_20160718_015093	Follower Nedluss
+QUEST_LV_0100_20160718_015094	I've decided to stay here and help out as repentance to my wrongs against Melchioras.{nl}I've just found several suspicious spell devices on the Garden Watchtower.{nl}However, they're a bit too much for me to deal by myself.{nl}So I was thinking... could you destroy them for me?
+QUEST_LV_0100_20160718_015095	I shudder to think of how many of those monsterous devices are still hidden...
+QUEST_LV_0100_20160718_015096	Well done.{nl}I'm sure that there will be a few more to destroy if we comb the area but...{nl}I think we can call it a day.
+QUEST_LV_0100_20160718_015097	I hope Melchioras gets well soon...
+QUEST_LV_0100_20160718_015098	We'll need to know about the demons well in order to drive them out of this area.{nl}Defeat the demons and bring back their condensed magic.{nl}Melchioras may be able to do some research in order to find a fatal weakness.
+QUEST_LV_0100_20160718_015099	I'm sure that they'll be easier to handle if we know their weaknesses...
+QUEST_LV_0100_20160718_015100	I think that this will be enough to find a weakness or two.{nl}Thank you!
+QUEST_LV_0100_20160718_015101	I am thinking of setting up traps around the Delmore Outskirts but...{nl}I wasn't able to do anything due to the Pag Emitters coming from all over.{nl}Could you deal with some of them if they come near?{nl}I'm sure that setting up any traps will be much easier if you help.
+QUEST_LV_0100_20160718_015102	I'll be discussing where the best places would be to set up the traps with my colleagues here.
+QUEST_LV_0100_20160718_015103	That's a lot of monsters!{nl}Now all that is left is to set up the traps without them noticing.
+QUEST_LV_0100_20160718_015104	I'd like to stay and help Melchioras.{nl}I'm sure you feel the same, correct?
+QUEST_LV_0100_20160718_015105	{nl}We should hand out the Maroulu Herbs that we found while searching the area to the people.{nl}Please look for some more from the Fortress Walls since we need much more.{nl}I'm sure we'll be able to help people recover.
+QUEST_LV_0100_20160718_015106	An herb that helps people become enthusiastic...{nl}Isn't it incredible?
+QUEST_LV_0100_20160718_015107	I think that this will be enough for one person.{nl}Thank you.
+QUEST_LV_0100_20160718_015108	I've been put between a rock and a hard place thanks to you dealing with the Manticen..{nl}So you have to help me out.{nl}Get rid of the monsters around here since they're hindering my work.
+QUEST_LV_0100_20160718_015109	I'll make sure to raise one of those that survive the clean-up to avoid getting defeated by other adventurers..
+QUEST_LV_0100_20160718_015110	That was quite a sight... I get why the Manticen was defeated.{nl}Thanks for your help.
+QUEST_LV_0100_20160718_015111	Farmer Deluma
+QUEST_LV_0100_20160718_015112	The world has become a harsh place after Medzio Diena.{nl}There are more thefts of farming equipment...{nl}Monsters also break them often.{nl}That's why I've hidden them in the grass.
+QUEST_LV_0100_20160718_015113	I have to retreive the equipment now that it's time to start working again but..{nl}Could you by any chance help me out and get the equipment for me?
+QUEST_LV_0100_20160718_015114	We used to be free from the fear of monsters and were able to trust people..{nl}The world has become so harsh.
+QUEST_LV_0100_20160718_015115	We need a bit more for there to be enough for all the people but...{nl}Thank you for helping out!
+QUEST_LV_0100_20160718_015116	I hope the people that agreed to help arrive soon...
+QUEST_LV_0100_20160718_015117	I've been preparing for this experiment for a long time, but have no idea where it could have gone wrong...{nl}Maybe I didn't have enough ingredients...{nl}Please help me a bit more with my experiment.
+QUEST_LV_0100_20160718_015118	I've hid my bag full of ingredients near Dumbliu Pond.{nl}You can gather insects or small animals with that bag.{nl}How about we use that? Please get me some more test subjects!
+QUEST_LV_0100_20160718_015119	I'll go and prepare for the next experiment.{nl}It may take a while...
+QUEST_LV_0100_20160718_015120	Thank you!{nl}I can restart the experiments sooner if I have more test subjects.
+QUEST_LV_0100_20160718_015121	Lumberjack Luoval
+QUEST_LV_0100_20160718_015122	I suppose you're a cut above the average since you've made it all the way here.{nl}I have to get some lumber from the Neryshkus Sanctum Ruins but there are so many monsters..{nl}I don't know if I'll even be able to make it back home...
+QUEST_LV_0100_20160718_015123	Could you be bothered to deal with some of the monsters if you go by Neryshkus Sanctum Ruins?{nl}Of course I won't blame you if you're too busy..
+QUEST_LV_0100_20160718_015124	Monsters have been showing up over here ever since all of the mercenaries and soldiers went off to Fedimian.
+QUEST_LV_0100_20160718_015125	Thank you for helping out.{nl}There just seems to be no end of them...
+QUEST_LV_0100_20160718_015126	Fedimian is one of the major stopping points for the traders heading inland.{nl}There will be many traders coming through here once this is all settled.{nl}That's why I want to create a trading post at Leipsna Chapel Site.{nl}I'd appreciate it if you'd clear the place up a bit from the monsters...
+QUEST_LV_0100_20160718_015127	What if that never happens?{nl}The whole world will become infested with demons if Fedimian falls anyway..{nl}Do you think anyone will be able to trade?{nl}The only alternative to success is for mankind to fail so I am investing and hoping for the best...
+QUEST_LV_0100_20160718_015128	It seems like you've done quite a job even if it's only a small step towards clearing it all up..{nl}Thank you!
+QUEST_LV_0100_20160718_015129	Priest Rovli
+QUEST_LV_0100_20160718_015130	They're all afraid of the ferrets...{nl}I'll defend this place by myself if I have to.
+QUEST_LV_0100_20160718_015131	Believer Dreka
+QUEST_LV_0100_20160718_015132	We'll start surveying this region in earnest once Goddess Lada recovers..{nl}Of course that is a long way off...
+QUEST_LV_0100_20160718_015133	The villagers and other priests believe that the ferrets can be converted.{nl}It's all useless! What use is converting the ferrets after the shrine and village are destroyed.{nl}Please help me.{nl}Teach the ferrets a lesson by dealing with them to show that they can't come here!
+QUEST_LV_0100_20160718_015134	I'm begging passing adventurers since I'm a priest but..{nl}I don't know how it came to this...
+QUEST_LV_0100_20160718_015135	Do you think that they've learned their lesson?{nl}Thank you so much for helping.
+QUEST_LV_0100_20160718_015136	I wish to present Godess Lada with Ceyral Saplings that are filled with the energy of life.{nl}That's why we've come all this way...{nl}But there are simply too many monsters in there for me to go anywhere near.{nl}Could you please go get some Ceyral Saplings for me?
+QUEST_LV_0100_20160718_015137	I've gone through so much to get here..{nl}I should have brought my brother along...
+QUEST_LV_0100_20160718_015138	I haven't been able to smell Ceyral for such a long time.{nl}Thank you so much for gathering this much!{nl}However, I do think that we need a bit more.
+QUEST_LV_0100_20160718_015139	If you've come here to deal with the monsters, how about going over there first?{nl}You see... A few of my colleagues aren't able to get here because of the monsters.{nl}Could you possibly deal with some of the monsters?
+QUEST_LV_0100_20160718_015140	How am I supposed to get to Orsha with these cowards?
+QUEST_LV_0100_20160718_015141	Thank you!{nl}I don't know what's keeping them from coming though...
+QUEST_LV_0100_20160718_015142	We need to retrieve as much as the management wants but...{nl}We've still got a lot of time left until the newcomers arrive.{nl}How about finding me some Manaryll Tombstones from Augalu Garden if you've got the time?{nl}You can just pick them up anywhere but I don't have the people to do it.
+QUEST_LV_0100_20160718_015143	I have to wait here for my group leader's orders.{nl}I'd really appreciate the help.
+QUEST_LV_0100_20160718_015144	Wow, that's a lot!{nl}I do think that we'll need a bit more, but this should be enough to fill a page in my ledger.
+QUEST_LV_0100_20160718_015145	Yes? What is it?{nl}
+QUEST_LV_0100_20160718_015146	Ahh, of course I know Zenoa.{nl}You're talking about that cute Dievdirbys right?{nl}
+QUEST_LV_0100_20160718_015147	I'm sorry, but...{nl}I don't have any chisels prepared, and I'm fresh out of materials to make new ones.
+QUEST_LV_0100_20160718_015148	We've gathered here to stop Delmore Rephaim, the lord of Delmore Castle.{nl}All because he's trying to create another Kruvina.{nl}
+QUEST_LV_0100_20160718_015149	I should have stopped its creation... But I was a coward back then.{nl}Delmore Rephaim is trying to build that Kruvina once more.{nl}
+QUEST_LV_0100_20160718_015150	I'm sorry, but could you collect some Charog sap?{nl}I want to make a monster repellant.
+QUEST_LV_0100_20160718_015151	That was a really tough enchantment.{nl}I wonder how Yane did in Tagika Crossroads...
+QUEST_LV_0100_20160718_015152	Thank you... so much.{nl}It should be impossible to create another Kruvina now.{nl}
+QUEST_LV_0100_20160718_015153	Are you the Revelator Leja talked about?{nl}And that's... our food that got stolen.{nl}
+QUEST_LV_0100_20160718_015154	Thank you for taking back our food but...{nl}I don't think I can trust you just yet.{nl}
+QUEST_LV_0100_20160718_015155	Please understand.{nl}We were tricked by the demons once before, you see.
+QUEST_LV_0100_20160718_015156	Leja said she had somewhere else to be and left.{nl}I can't tell you where she is going, though.{nl}
+QUEST_LV_0100_20160718_015157	Like I said earlier, we can't trust you just yet.{nl}
+QUEST_LV_0100_20160718_015158	We once had someone come to our village calling himself a Revelator.{nl}He was a man with a pale face and long hair.{nl}
+QUEST_LV_0100_20160718_015159	We thought our Revelator had finally arrived and did as the man said.{nl}Truth is, in reality... he was a demon.{nl}
+QUEST_LV_0100_20160718_015160	We believed the demon and because of that Goddess Lada was taken away...{nl}Even the ferrets turned violent.{nl}
+QUEST_LV_0100_20160718_015161	We think it was because of the totem the demon made us set up.{nl}We all want to join forces and rescue Goddess Lada, but we're worried about the ferret attacks.{nl}
+QUEST_LV_0100_20160718_015162	There is a totem that we don't even dare get close to because of its evil energy.{nl}If you really are a Revelator, then you should be able to destroy it with your divine power.{nl}
+QUEST_LV_0100_20160718_015163	Show us.{nl}If you really are a Revelator, that is...
+QUEST_LV_0100_20160718_015164	Please understand.{nl}I know Leja is glad the Revelator is finally here but...{nl}
+QUEST_LV_0100_20160718_015165	We've been fooled before, we can't help but be suspicious.
+QUEST_LV_0100_20160718_015166	You... you're a true Revelator, there's no doubt about it.{nl}I feel so sorry for how I treated you earlier... Please forgive this old man.{nl}
+QUEST_LV_0100_20160718_015167	Leja went to Zeraha to try and find something to help you.{nl}She said Goddess Laima will have left something prepared for the Revelator.{nl}
+QUEST_LV_0100_20160718_015168	There is a big statue of Goddess Laima there. {nl}It was sculpted a long time ago when She was still at our village.{nl}
+QUEST_LV_0100_20160718_015169	Oh... that girl came.{nl}Can I tell you about what happened in our village?{nl}
+QUEST_LV_0100_20160718_015170	Our village has always worshiped Goddess Laima.{nl}One day, she had a vision of a calamity that would strike the kingdom in a future far away.{nl}
+QUEST_LV_0100_20160718_015171	So, to stop this calamity, She decided to leave the village.{nl}Maybe She was worried about leaving us behind, so she had Goddess Lada look after us instead.{nl}
+QUEST_LV_0100_20160718_015172	But unlike what Goddess Laima predicted, our village remained peaceful.{nl}
+QUEST_LV_0100_20160718_015173	Then, unexpectedly, Medzio Diena happened.{nl}It was the calamity in Goddess Laima's vision.{nl}
+QUEST_LV_0100_20160718_015174	Medzio Diena didn't cause much damage here, but that was only the beginning.{nl}You see, not long ago our river turned red.{nl}
+QUEST_LV_0100_20160718_015175	The river water caused terrible pain to everyone who drank it, and it made the fruit grow to an abnormal size.{nl}The fruit, just like the red water, was inedible.{nl}
+QUEST_LV_0100_20160718_015176	As if that weren't enough, the demons then came and took Goddess Lada.{nl}Just as Laima predicted... chaos took over the village.{nl}
+QUEST_LV_0100_20160718_015177	Leja probably told you... what Goddess Laima said to us.{nl}She said a Revelator would dream of the calamity and come with the light to chase away evil.
+QUEST_LV_0100_20160718_015178	We aren't sure what She meant by the light, but...{nl}Our elders used to say that a warm energy filled the village when Goddess Laima was here.{nl}
+QUEST_LV_0100_20160718_015179	It was all very quick.{nl}The moment that girl came to me, I felt the same warm energy our elders talked about.{nl}
+QUEST_LV_0100_20160718_015180	The girl looked me straight in the eyes and, without a word, she nodded.{nl}Then she disappeared towards Zeraha.{nl}
+QUEST_LV_0100_20160718_015181	Hurry and follow the light.{nl}This can only be a sign sent by Goddess Laima to guide you in the right direction.{nl}
+QUEST_LV_0100_20160718_015182	Please, for Goddess Lada... and our village.
+QUEST_LV_0100_20160718_015183	That warm energy...{nl}Until the day I return to the goddess I will never be able to forget it.{nl}
+QUEST_LV_0100_20160718_015184	Go now.{nl}Follow the light and you will see the girl once again.{nl}
+QUEST_LV_0100_20160718_015185	The totem is at the Banaga Forest Trail.
+QUEST_LV_0100_20160718_015186	If you really are a Revelator that came here with the light to save our town...{nl}Then you should be able to take back the ferrets' hideout.{nl}
+QUEST_LV_0100_20160718_015187	If you can prove that you are in fact a Revelator, I will tell you where to find Leja.
+QUEST_LV_0100_20160718_015188	Here's the scent.{nl}Let's see now... About the ferrets...{nl}
+QUEST_LV_0100_20160718_015189	Help...? It's not something I haven't thought about.{nl}The city closest to here is Fedimian.{nl}
+QUEST_LV_0100_20160718_015190	I heard Fedimian was devastated after Medzio Diena, though.{nl}Even after four years, it's still being reconstructed.{nl}
+QUEST_LV_0100_20160718_015191	And Goddess Lada, She said that no matter what happens to Her...{nl}She would never make Her presence known to anyone but the Revelators.{nl}
+QUEST_LV_0100_20160718_015192	As you know...{nl}People now think that the goddesses have all disappeared.{nl}
+QUEST_LV_0100_20160718_015193	But if they find out that the goddesses are still around...{nl}You can imagine what a shock that would be.{nl}
+QUEST_LV_0100_20160718_015194	That's why only you, a Revelator, can save Goddess Lada.{nl}The goddess said so Herself, too...
+QUEST_LV_0100_20160718_015195	Your face doesn't look familiar...{nl}Please don't cause a commotion and just move along.
+QUEST_LV_0100_20160718_015196	I'm sorry I doubted you.{nl}It's just that our town has been hurt by fake Revelators before...{nl}
+QUEST_LV_0100_20160718_015197	Goddess Lada being taken by the demons...{nl}None of that would have happened if we hadn't believed the fake Revelators.{nl}
+QUEST_LV_0100_20160718_015198	And with our water turning red we felt more and more powerless...{nl}We should have realized our mistake and gone to the real Revelators, but...{nl}I'm so sorry.
+QUEST_LV_0100_20160718_015199	What are you still doing here?{nl}You're going to miss the girl. Hurry and go after her.
+QUEST_LV_0100_20160718_015200	Thank you. I'm so grateful to you and to Goddess Lada for having sent you.{nl}You are a blessing to our village.
+QUEST_LV_0100_20160718_015201	I don't know what the demons did to those ferrets but...{nl}Seeing how they attack, avoiding a fight must be impossible, right?
+QUEST_LV_0100_20160718_015202	The disc suddenly started glowing red so I followed it all the way here.{nl}I was chased away by monsters, but I clearly saw that it was pointing to something.{nl}
+QUEST_LV_0100_20160718_015203	I have no idea about the rest.{nl}Any guesses?
+QUEST_LV_0100_20160718_015204	So that beast has a gem stuck on it now, huh?{nl}I'd say you'd have to get the beast out and kill it to get rid of the gem...{nl}
+QUEST_LV_0100_20160718_015205	That red water is no one's business but our village's.{nl}Outsiders would do well to leave us alone.
+QUEST_LV_0100_20160718_015206	I'm sorry I was rude to you earlier...{nl}Please forgive this old man's insolence.
+QUEST_LV_0100_20160718_015207	May the Revelator who dreamt of chaos defeat the evil forces and bring light back into our world...{nl}If the legends are true, this red water will soon be no more.
+QUEST_LV_0100_20160718_015208	A dagger.. The owner of the dagger..{nl}I don't think that fits anyone I know..{nl}
+QUEST_LV_0100_20160718_015209	I suppose we will have to go to the Masters for advice.{nl}Where did they get such a dagger and why did they do this..
+QUEST_LV_0100_20160718_015210	You've remembered something?{nl}How could you have not remembered something so important.. Well, spit it out.{nl}
+QUEST_LV_0100_20160718_015211	Gytis Settlement..{nl}I think I do remember hearing something about someone doing strange things over there.{nl}
+QUEST_LV_0100_20160718_015212	Here you go, I'll give you the dagger so you can find who the culprit is behind this.{nl}It'll help a great deal if you find who did this.
+QUEST_LV_0100_20160718_015213	Are you curious about the dagger again?{nl}I'm not exactly an expert in that field but.. Well, whatever. Give it here.{nl}
+QUEST_LV_0100_20160718_015214	What is this..{nl}You've just come back to find me right?{nl}
+QUEST_LV_0100_20160718_015215	Yes, this is Evoniphon's dagger.{nl}I don't know too much about evil energies, but it shows all of his habits.{nl}
+QUEST_LV_0100_20160718_015216	Followed a mysterious girl from Grynas Training Camp..{nl}Yes. I do seem to remember something.{nl}
+QUEST_LV_0100_20160718_015217	Please let me know if anything like this happens again.{nl}I'll give you as much information as I can manage. Thank you.{nl}
+QUEST_LV_0100_20160718_015218	I've received nothing but help from you.{nl}I sincerely hope that you'll catch who ever did this...
+QUEST_LV_0100_20160718_015219	Evoniphon.. I've never heard that name before.{nl}You said something about the Ranger Master?{nl}
+QUEST_LV_0100_20160718_015220	I think I'll have to go visit sometime with something nice.{nl}Anyhow, thank you for the hard work. Farewell!
+QUEST_LV_0100_20160718_015221	I am collecting the ocean's energy here to create an altar for the goddess.{nl}But the monsters.. are causing me trouble.{nl}
+QUEST_LV_0100_20160718_015222	Brother Daroul is fighting the monsters off but..{nl}They're just coming in endless waves.{nl}
+QUEST_LV_0100_20160718_015223	Would you really do that for me?{nl}I can't express my gratitude enough..{nl}
+QUEST_LV_0100_20160718_015224	I happen to have a good idea.{nl}I have something that might be usable as bait for the monsters.{nl}
+QUEST_LV_0100_20160718_015225	If you bury the powder in this bag, it'll spread its scent to the surrounding area in a cloud of green smoke.{nl}Then the monsters will gather towards you.{nl}
+QUEST_LV_0100_20160718_015226	I'd appreciate it if you could deal with the monsters near the Old Bridge and Kranta Skerries!
+QUEST_LV_0100_20160718_015227	I can't offord to lose a chance like this.{nl}Monsters are petty distractions.
+QUEST_LV_0100_20160718_015228	Oh no...{nl}I've managed to finish the altar thanks to your help, but a Crabil has appeared!
+QUEST_LV_0100_20160718_015229	We've just run away from the Crabil ourselves.{nl}I'm sure that it is attracted by the ocean's energy.{nl}
+QUEST_LV_0100_20160718_015230	I can't even go anywhere near the altar, let alone preform the ceremony because of the monster.{nl}It also seems to be getting stronger by the minute thanks to the ocean's energy.{nl}
+QUEST_LV_0100_20160718_015231	We'll do our best to stop the altar...{nl}Could you possibly get rid of the Crabil?
+QUEST_LV_0100_20160718_015232	I'll stop the altar if you can buy me some time.{nl}Here goes nothing!
+QUEST_LV_0100_20160718_015233	Are you alright?{nl}I don't know how I can thank you enough...
+QUEST_LV_0100_20160718_015234	My goodness..{nl}The Crabil has ruined all of the offerings that were meant for the goddess.{nl}
+QUEST_LV_0100_20160718_015235	We won't be able to offer any of this to the goddess..{nl}This is quite troubling..{nl}
+QUEST_LV_0100_20160718_015236	Ah well, I suppose it can't be helped.{nl}Could I possibly ask you to order some coral handicrafts while we repair the altar?
+QUEST_LV_0100_20160718_015237	There are some precious corals growing near the Kranta Skerries.{nl}Please provide the Fedimian Accessory Merchant Joana with the blue coral for the goods.{nl}
+QUEST_LV_0100_20160718_015238	I would normally craft them myself but the situation is less than optimal as you may see..{nl}I know it's a long way to go but I beg of you..
+QUEST_LV_0100_20160718_015239	Hello!{nl}Please feel free to take your time!{nl}
+QUEST_LV_0100_20160718_015240	Hmm? You've come here to request some coral accessories?{nl}Oh.. It's been a long time since I've seen any coral.{nl}
+QUEST_LV_0100_20160718_015241	The quality seems to be impecable as well.{nl}All right. I'll do it.
+QUEST_LV_0100_20160718_015242	I would normally craft them myself but the situation is less than optimal as you may see..{nl}I know it's a long way to Fedimian, but I beg of you.
+QUEST_LV_0100_20160718_015243	However, I also have a request since this is a hard task.{nl}I would prefer to receive some Gapcrab Shell as compensation.{nl}
+QUEST_LV_0100_20160718_015244	Of course, I won't receive any that are cracked or dented.{nl}Do you agree to the conditions?
+QUEST_LV_0100_20160718_015245	Well then, off you go.{nl}I'll start working assuming that you'll bring me some quality materials.
+QUEST_LV_0100_20160718_015246	Gapcrab Shell from the Kranta Skerries.{nl}I won't accept them if they've been damaged too much.
+QUEST_LV_0100_20160718_015247	Did you bring the Shell?{nl}
+QUEST_LV_0100_20160718_015248	The Shell seems to be in good condition.{nl}I haven't seen such quality Shell for a while now...{nl}
+QUEST_LV_0100_20160718_015249	I'll be able to use these to craft great accessories.{nl}Here you go, the coral accessories that you've requested.
+QUEST_LV_0100_20160718_015250	Finally... The goddesses have listened to our prayers!{nl}They have been silent for so long..{nl}
+QUEST_LV_0100_20160718_015251	This is all thanks to you.{nl}We would have taken so much longer without your help.{nl}
+QUEST_LV_0100_20160718_015252	This is only the beginning.{nl}We must gather our strength and prepare for further hardships.{nl}
+QUEST_LV_0100_20160718_015253	Thank you so much... for all the help!
+QUEST_LV_0100_20160718_015254	Those useless monsters have destroyed the coral that was Goddess Jurate's blessing.{nl}I'd like to make them pay, but I must protect the altar... There is no way that the two of us can...
+QUEST_LV_0100_20160718_015255	Please. The monsters found at the Kranta Skerries.{nl}Show them that they can't destroy the coral without getting punished.
+QUEST_LV_0100_20160718_015256	Thank you so much.{nl}I'm thinking of tidying the place up once the altar becomes safe.
+QUEST_LV_0100_20160718_015257	Hmm.. Come to think of it.. {nl}It's no use if the monsters come back after they've been driven off.{nl}
+QUEST_LV_0100_20160718_015258	So I think that it may be better to just scare them..{nl}Could you possibly be asked to help us once more?{nl}
+QUEST_LV_0100_20160718_015259	Please gather the monster's energy after dealing with them.{nl}They won't bother us again if we put it near the Cranto Coast.{nl}
+QUEST_LV_0100_20160718_015260	Thank you once again for agreeing to help us.
+QUEST_LV_0100_20160718_015261	Remember, monsters from other regions don't count.{nl}Please fill it with the energy from monsters from this region.
+QUEST_LV_0100_20160718_015262	You've already filled it with energy?{nl}It would have taken me ages.. Well, I won't deny that you've got talent.{nl}
+QUEST_LV_0100_20160718_015263	I'll go and bury the talisman since this will only take a moment.{nl}Thank you for helping.
+QUEST_LV_0100_20160718_015264	{nl}May the blessings of Goddes Jurate be upon you..
+QUEST_LV_0100_20160718_015265	Thank you for helping us get back in touch with Goddess Jurate again.{nl}This was all possible thanks to your help..{nl}
+QUEST_LV_0100_20160718_015266	We're thinking of taking care of the altar for a while.{nl}So we want to gather some of the ocean's energy in advance... Could you help us do so?
+QUEST_LV_0100_20160718_015267	Go to Sniega Sentry and collect some special stones.{nl}You'll be able to spot which ones are special by spraying them with this divine water and collecting the ones that glow blue.
+QUEST_LV_0100_20160718_015268	The stones that glow blue when sprayed by divine water.{nl}I just need those particular stones.
+QUEST_LV_0100_20160718_015269	You've returned. Thank you so much.{nl}Let me take a look at the stones.
+QUEST_LV_0100_20160718_015270	They all seem to be pristine.{nl}All we have to do is to place these stones where the ocean's energy is the strongest!
+QUEST_LV_0100_20160718_015271	Ah, will you do that?{nl}It's near Polybba Marshlands and Sahguma Lagoon.{nl}
+QUEST_LV_0100_20160718_015272	If you take a look at where the water is flowing..{nl}You'll easily spot where the ocean's energy gathers.
+QUEST_LV_0100_20160718_015273	We'll be fine as long as there is enough energy from the oceans.{nl}I'm sure Goddess Jurate will be pleased as well.{nl}
+QUEST_LV_0100_20160718_015274	I think we can finally relax a bit.{nl}The altar will be filled with the ocean's energy about the time when it stabilizes.{nl}
+QUEST_LV_0100_20160718_015275	We are in your debt.{nl}I will pray for Goddess Jurate to bless your journey.
+QUEST_LV_0100_20160718_015276	Come back anytime if you have any more clues about Evoniphon.{nl}I will provide you with as much information as I can. Thanks.{nl}
+QUEST_LV_0100_20160718_015277	I'll gather the Red Kepa peels.
+QUEST_LV_0100_20160718_015278	For Safety
+QUEST_LV_0100_20160718_015279	Monsters From the Settlement Clearing
+QUEST_LV_0100_20160718_015280	Too Much For One Person
+QUEST_LV_0100_20160718_015281	Vanished Glory
+QUEST_LV_0100_20160718_015282	I don't think that's needed,
+QUEST_LV_0100_20160718_015283	Nice Place to Live
+QUEST_LV_0100_20160718_015284	That doesn't sound right.
+QUEST_LV_0100_20160718_015285	Protect the Royal Masoleum
+QUEST_LV_0100_20160718_015286	Hidden Magic Devices
+QUEST_LV_0100_20160718_015287	That doesn't really matter.
+QUEST_LV_0100_20160718_015288	Efforts Towards Redemption
+QUEST_LV_0100_20160718_015289	Lost Pilgrim
+QUEST_LV_0100_20160718_015290	Stay here and rest for a while.
+QUEST_LV_0100_20160718_015291	Dangerous Distraction
+QUEST_LV_0100_20160718_015292	Good Day to Recover
+QUEST_LV_0100_20160718_015293	For What
+QUEST_LV_0100_20160718_015294	Hidden Farming Equipment
+QUEST_LV_0100_20160718_015295	Can-do Spirit
+QUEST_LV_0100_20160718_015296	Habitat
+QUEST_LV_0100_20160718_015297	Thinking Ahead
+QUEST_LV_0100_20160718_015298	Violent Rampage
+QUEST_LV_0100_20160718_015299	Hoping the Goddess Will Recover
+QUEST_LV_0100_20160718_015300	Stuffy Colleagues
+QUEST_LV_0100_20160718_015301	I can help you a little.
+QUEST_LV_0100_20160718_015302	Find the Hidden Artifacts
+QUEST_LV_0100_20160718_015303	Observing the Owl (1)
+QUEST_LV_0100_20160718_015304	That's going to be difficult, sorry.
+QUEST_LV_0100_20160718_015305	Talking about what you heard.
+QUEST_LV_0100_20160718_015306	Memories of the Sleeping Owl
+QUEST_LV_0100_20160718_015307	I'll hand you the sculpture.
+QUEST_LV_0100_20160718_015308	Goddess Jurate's Loremaster (1)
+QUEST_LV_0100_20160718_015309	Raising an Altar(1)
+QUEST_LV_0100_20160718_015310	I don't think I can help you, sorry.
+QUEST_LV_0100_20160718_015311	Raising an Altar (2)
+QUEST_LV_0100_20160718_015312	I'll go and help you a bit more.
+QUEST_LV_0100_20160718_015313	Raising an Altar (3)
+QUEST_LV_0100_20160718_015314	I'll lead them so they won't be able to approach.
+QUEST_LV_0100_20160718_015315	That sounds way too dangerous.
+QUEST_LV_0100_20160718_015316	Retaking the Altar
+QUEST_LV_0100_20160718_015317	I'll get rid of that Crabil.
+QUEST_LV_0100_20160718_015318	I need some time to prepare.
+QUEST_LV_0100_20160718_015319	Better Offerings
+QUEST_LV_0100_20160718_015320	I'm sorry, I don't think I can help you any longer.
+QUEST_LV_0100_20160718_015321	What Interests You These Days
+QUEST_LV_0100_20160718_015322	Okay, let's do that.
+QUEST_LV_0100_20160718_015323	That's too difficult for me.
+QUEST_LV_0100_20160718_015324	Ceremony for the Goddess
+QUEST_LV_0100_20160718_015325	Winning Favors (1)
+QUEST_LV_0100_20160718_015326	I'll drive the monsters away from Kranta Skerries.
+QUEST_LV_0100_20160718_015327	I'll do it, but I'm gonna rest for a while first.
+QUEST_LV_0100_20160718_015328	Winning Favors (2)
+QUEST_LV_0100_20160718_015329	I'll fill the talisman with the energy from monsters.
+QUEST_LV_0100_20160718_015330	I have to go do something else, sorry.
+QUEST_LV_0100_20160718_015331	Preparing for the Future (1)
+QUEST_LV_0100_20160718_015332	I'll think about it.
+QUEST_LV_0100_20160718_015333	Preparing for the Future (2)
+QUEST_LV_0100_20160718_015334	I'll do it; I'll place the stones.
+QUEST_LV_0100_20160718_015335	Sorry, I need to get going now.
+QUEST_LV_0100_20160718_015336	Dagger's Owner
+QUEST_LV_0100_20160718_015337	I remember experiencing something similar.
+QUEST_LV_0100_20160718_015338	I'm curious about it as well.
+QUEST_LV_0100_20160718_015339	The Operations Officer seems to have realized something about the Vubbe Cloth. Talk to him again.
+QUEST_LV_0100_20160718_015340	The Hunter Master told you that he will acknowledge you as a Hunter if you help him find the books. Search for the books at Vubbe Outpost as the Hunter Master told you.
+QUEST_LV_0100_20160718_015341	The Hunter Master says that the Quarel Shooter Master may be interested in trading the book for tough Glizardon leather. Go to Tenet Church B1 next to Gele Plateau by passing Srautas Gorge that is beyond the Miners' Village. Bring back the Glizardon leather from there.
+QUEST_LV_0100_20160718_015342	The Archer Master, who is currently fixing the wall, has the next book. Collect boulders from the entrance of Crystal Mines next to the Miners' Village for the Archer Master.
+QUEST_LV_0100_20160718_015343	The Quarrel Shooter Master has requested that you help find some books. First, go to the Miners' Village past East Siauliai Woods. Then look for the book at the Vubbe Outpost as the Quarrel Shooter Master mentioned.
+QUEST_LV_0100_20160718_015344	You have obtained the book from the Hunter Master. Return to the Quarrel Shooter Master for the next book.
+QUEST_LV_0100_20160718_015345	The Quarrel Shooter Master says that you can obtain the next book from the Archer Master who is currently repairing the wall. Go to the Miners' Village past East Siauliai Woods and collect boulders for the Archer Master.
+QUEST_LV_0100_20160718_015346	The Archer Master has requested help in order to find the book. Go to the Miners' Village past East Siauliai Woods. Next, go to the Vubbe Outpost and look for the book there as the Archer Master mentioned.
+QUEST_LV_0100_20160718_015347	The Archer Master says that the Quarel Shooter Master may be interested in trading the book for tough Glizardon leather. Go to Tenet church next to Gele Plateau by passing Srautas Gorge that is beyond the Miners' Village. Bring back the Glizardon leather from there.
+QUEST_LV_0100_20160718_015348	The Ranger Master has requested help in order to find the book. Go to the Miners' Village past East Siauliai Woods. Next, go to the Vubbe Outpost and look for the book there as the Archer Master mentioned.
+QUEST_LV_0100_20160718_015349	The Ranger Master says that the Quarel Shooter Master may be interested in trading the book for tough Glizardon leather. Go to Tenet church next to Gele Plateau by passing Srautas Gorge that is beyond the Miners' Village. Bring back the Glizardon leather from there.
+QUEST_LV_0100_20160718_015350	First, go to the Miners' Village past East Siauliai Woods. Then look for boulders in the area mentioned by the Ranger Master.
+QUEST_LV_0100_20160718_015351	Go to the basement of Tenet Church next to Gele Plateau by passing Srautas Gorge that is beyond the Miners' Village. Then obtain Coarse Bark from the Yognomes there in exchange for the Peltasta Master's cooperation.
+QUEST_LV_0100_20160718_015352	The Peltasta Master has given you one mission. Go to the basement of Tenet Church next to Gele Plateau by passing Srautas Gorge that is beyond the Miners' Village. Then obtain Glizardon Black Claws from that area.
+QUEST_LV_0100_20160718_015353	Go to Tenet Garden next to Gele Plateau by passing Srautas Gorge that is beyond the Miners' Village. Then, install the Pot of Fire next to the monsters that can be found there in order to collect the energy of fire.
+QUEST_LV_0100_20160718_015354	The Cyromancer wishes that you will help find a book. Go to the Miners' Village past East Siauliai Woods. Then seek out the Mayor of the Miners' Village and ask about where the book might be.
+QUEST_LV_0100_20160718_015355	The Swordman Master wishes to gain insight to advancing his skills. Go to the basement of Tenet Church next to Gele Plateau by passing Srautas Gorge that is beyond the Miners' Village. Then learn what the Swordman Master was trying to express by defeating the Glizardons there.
+QUEST_LV_0100_20160718_015356	The Priest Master wishes to prove sincerity to the goddess. Go to the Miners' Village past East Siauliai Woods. Then find the possessed soldier in Miners' Village and perform an exorcism.
+QUEST_LV_0100_20160718_015357	Go to Tenet Church next to Gele Plateau by passing Srautas Gorge that is beyond the Miners' Village in order to obtain the ingredients requested by the Wizard Master. You will be able to obtain Galok Fur from the ground floor, Egnome Fragments from the second floor and Glizardon Horns from the 1st basement floor.
+QUEST_LV_0100_20160718_015358	The Cleric Master has requested help curing the patients. Cure the patients after obtaining Divine Water from the Priest and Krivis Masters.
+QUEST_LV_0100_20160718_015359	You have obtained Divine Water from the Priest and Krivis Masters. Go to the Miners' Village past East Siauliai Woods and cure the patients there.
+QUEST_LV_0100_20160718_015360	Talk to Stonemason Canolyn
+QUEST_LV_0100_20160718_015361	You have met a very perplexed looking Stonemason Canolyn. Talk to Stonemason Canolyn.
+QUEST_LV_0100_20160718_015362	Report back to Stonemason Canolyn
+QUEST_LV_0100_20160718_015363	It seems as if you have reduced a fair amount of Cockatrices. Report back to Stonemason Canolyn.
+QUEST_LV_0100_20160718_015364	Stonemason Canolyn says that her equipment has been stolen by monsters. Talk to her again.
+QUEST_LV_0100_20160718_015365	Unfortunately, there is no equipment box. Go back to Stonemason Canolyn.
+QUEST_LV_0100_20160718_015366	Collecting Cockat Tails
+QUEST_LV_0100_20160718_015367	Tara Miles says that the Cockat is already dying and wants to have it's tail. Obtain the Cockat tail from the other side of the Camp of Apiarists.
+QUEST_LV_0100_20160718_015368	Hand the Cockat tail to Tara Miles
+QUEST_LV_0100_20160718_015369	You seem to have obtained enough Cockat tails. Go back to Tara Miles.
+QUEST_LV_0100_20160718_015370	Obtain Cockat tails
+QUEST_LV_0100_20160718_015371	As proof of your sincerety, the Priest Master wants you to collect
+QUEST_LV_0100_20160718_015372	. Head to the Miners' Village after passing through East Siauliai Woods. Then, defeat the Vubbes near the Miners' Village and collect
+QUEST_LV_0100_20160718_015373	.
+QUEST_LV_0100_20160718_015374	The Krivis Master says that the Krivis brother that had been transporting the Holy Relic has disappeared. Go to the Miners' Village past East Siauliai Forest. Then try looking for the missing Krivis brother there.
+QUEST_LV_0100_20160718_015375	Collect Red Keppa Peels from the Miners' Village
+QUEST_LV_0100_20160718_015376	The Swordman Master has asked you to prove that you are worthy of using a sword. Go to the Miners' Village past East Siauliai Forest. Then deal with the Red Kepas to obtain their peels.
+QUEST_LV_0100_20160718_015377	You have collected all of the required Red Kepa peels. Give the peels to the Swordman Master.
+QUEST_LV_0100_20160718_015378	Obtain Red Kepa Peels
+QUEST_LV_0100_20160718_015379	Defeat Red Kepa
+QUEST_LV_0100_20160718_015380	The Wizard Master is emphasizing the importance of tenacity. Go to the Miners' Village past East Siauliai Forest. Then deal with the Red Kepa there before returning to the Wizard Master.
+QUEST_LV_0100_20160718_015381	You have dealed with all the Red Kepa. Go back and report to the Wizard Master.
+QUEST_LV_0100_20160718_015382	Defeat Jukopus to Obtain their Cores
+QUEST_LV_0100_20160718_015383	The Archer Master wishes to test your skills to see if you are worthy. Go to the Miners' Village past East Siauliai Forest. Defeat the Jukopus there to obtain their cores.
+QUEST_LV_0100_20160718_015384	You have collected enough Jukopus cores. Give them to the Archer Master.
+QUEST_LV_0100_20160718_015385	Obtain Jukopus Cores
+QUEST_LV_0100_20160718_015386	The Cleric Master says that you will be able to advance your skills further through servitude. Go to the Miners' Village past East Siauliai Forest. Defeat the Vubbes near the Miners' Village and collect green ointment.
+QUEST_LV_0100_20160718_015387	You can barely see someone. Try talking to him.
+QUEST_LV_0100_20160718_015388	Go to Tenet Church next to Gele Plateau by passing Srautas Gorge that is beyond the Miners' Village. Then, collect Pawndel Soul Crystals and Pawnd Mind Crystals from the ground floor.
+QUEST_LV_0100_20160718_015389	Defeat Jukopus near the Miners' Village
+QUEST_LV_0100_20160718_015390	You must pass a test to become a Peltasta. Go to the Miners' Village past East Siauliai Forest and defeat the Jukopus there.
+QUEST_LV_0100_20160718_015391	You have dealed with all of the Jukopus. Go and report to the Peltasta Master.
+QUEST_LV_0100_20160718_015392	Defeat the Vubbe at the Miners' Village.
+QUEST_LV_0100_20160718_015393	You must pass a test to become a Highlander. Go to the Miners' Village past East Siauliai Forest and defeat the Vubbe there.
+QUEST_LV_0100_20160718_015394	Defeat the Vubbe at the Miners' Village.
+QUEST_LV_0100_20160718_015395	The Pyromancer says that you will be allowed to learn if you help the research. Go and help the Bokor Master who is currently cooperating with the Pyromancer Master on a research project.
+QUEST_LV_0100_20160718_015396	You've found a villager, but they appear to be wounded. Ask the villager what happened.
+QUEST_LV_0100_20160718_015397	Find a lens from the Miners' Village
+QUEST_LV_0100_20160718_015398	The Quarrel Shooter says that he is looking for the telescope that used to be at the Astral Tower and has learned something about the whereabouts of its lens. Try finding the lens at the Miners' Village past the East Siauliai Forest.
+QUEST_LV_0100_20160718_015399	Collect Vubbe Poison Samples
+QUEST_LV_0100_20160718_015400	The Ranger Master mentioned an assassin by the name of Evoniphon and wants to have a sample of his poison. Go to the Miners' Village past East Siauliai Forest and collect poison samples from the Vubbe there.
+QUEST_LV_0100_20160718_015401	Obtain %s by Defeating Vubbe
+QUEST_LV_0100_20160718_015402	Gustas says that only the final seal remains but is worried about a dangerous presence. Break the seal left of the Collapsed Sanctum. You should also be wary of monster attacks.
+QUEST_LV_0100_20160718_015403	The Ranger Sub-master wishes that the Rangers will help the people by participating in the reconstruction of Orsha. Go to Koru Jungle past the Woods of the Linked Bridges and Paupys Crossing. You will be able to find stones that can be used to reconstruct Orsha there.
+QUEST_LV_0100_20160718_015404	The Sapper Sub-master is researching new Sapper techniques. Go to Koru Jungle past the Woods of the Linked Bridges and Paupys Crossing. You will be able to find some stones there that can be used for research purposes.
+QUEST_LV_0100_20160718_015405	Joana seems to know something about this sculpture. Talk to Joana about the sculpture.
+QUEST_LV_0100_20160718_015406	Agent Moren seems to know something. Try talking to him.
+QUEST_LV_0100_20160718_015407	Go and check the purifier on the 3rd floor of Crystal Mine.
+QUEST_LV_0100_20160718_015408	It seems as if the purifier does not have sufficient power. Go to the Emergency Power Source with the magic crystal and charge it before giving power to the purifier.
+QUEST_LV_0100_20160718_015409	You have charged the crystal with sufficient power. Go back to the purifier on the 3rd floor and provide it with power.
+QUEST_LV_0100_20160718_015410	Watcher Molly at Srautas Gorge is waiting for your help.
+QUEST_LV_0100_20160718_015411	Watcher Molly thinks that the reason behind the strange behavior of the Pantos is the Sugar Beets that they enjoy eating. Get rid of the Sugar Beets like Molly suggested.
+QUEST_LV_0100_20160718_015412	You have removed enough Plateau Sugar Beets. Report back to Watcher Molly.
+QUEST_LV_0100_20160718_015413	Watcher Molly is waiting for someone's help at Gele Plateau.
+QUEST_LV_0100_20160718_015414	Dealing with Nearby Monsters
+QUEST_LV_0100_20160718_015415	Watcher Molly requires monster information in order to effectively use Shaman Dolls on Gele Plateau. Defeat Spion Archers, Leaflies and Mali in order to deal with the new monsters to give Molly advice.
+QUEST_LV_0100_20160718_015416	This should be enough information for Molly. Go back and tell Molly what you have learned about the monsters.
+QUEST_LV_0100_20160718_015417	Priest Draznie is looking for help in Ashaq Underground Prison 2F.
+QUEST_LV_0100_20160718_015418	Priest Draznie has asked you to collect some traps she set up a long time ago. According to her, most traps are set up in the Waiting Room and the Supply Room.
+QUEST_LV_0100_20160718_015419	You have collected a large number of malfunctioning traps. Take them to Priest Draznie.
+QUEST_LV_0100_20160718_015420	Priest Gelija is waiting for help in Ashaq Underground Prison 3F
+QUEST_LV_0100_20160718_015421	Priest Gelija has asked you to clear out the Varvs that have been terrorizing the priests in Ashaq Underground Prison. They are often found at the Felon Prison.
+QUEST_LV_0100_20160718_015422	You have cleared out enough Varvs. Report to Gelija.
+QUEST_LV_0100_20160718_015423	A traveling merchant in Koru Jungle is waiting for help.
+QUEST_LV_0100_20160718_015424	Deliver the Blue Coal to the Merchant
+QUEST_LV_0100_20160718_015425	You have collected enough blue coal. Deliver it to the merchant.
+QUEST_LV_0100_20160718_015426	Follower Vaidutis on the Ground Floor of Tenet Church is waiting for help.
+QUEST_LV_0100_20160718_015427	Collect Orb Crystals
+QUEST_LV_0100_20160718_015428	Follower Vaidutis asked you to collect orb crystals in order to craft a Holy Stone to complete his mission. You can find orb crystals near the Worship Anteroom and Nuosirdum Chapel.
+QUEST_LV_0100_20160718_015429	Report back to Follower Vaidutis
+QUEST_LV_0100_20160718_015430	You have collected sufficient amounts of orb crystals. Take them to Follower Vaidutis.
+QUEST_LV_0100_20160718_015431	Historian Kepeck is waiting for help on Apvija Hill.
+QUEST_LV_0100_20160718_015432	Historian Kepeck says that he has nothing to protect him. Defeat monsters from the surrounding area to keep him safe.
+QUEST_LV_0100_20160718_015433	Report back to Historian Kepeck
+QUEST_LV_0100_20160718_015434	You have dealed with enough monsters. Go back to Kepeck.
+QUEST_LV_0100_20160718_015435	Talk to Historian Grenus
+QUEST_LV_0100_20160718_015436	Historian Grenus is waiting for help at the Gateway of the Great King.
+QUEST_LV_0100_20160718_015437	Find Worn Ancient Scriptures
+QUEST_LV_0100_20160718_015438	Historian Grenus wishes to produce some research results by excavating relics at the Gateway of the Great King. Look for Worn Ancient Scriptures from the excavation site while he takes a rest.
+QUEST_LV_0100_20160718_015439	Report back to Historian Grenus
+QUEST_LV_0100_20160718_015440	You have collected sufficient Worn Ancient Scriptures. Take them to Historian Grenus even if you don't think they are worth much.
+QUEST_LV_0100_20160718_015441	Talk to Epigraphist Deltlan
+QUEST_LV_0100_20160718_015442	Epigraphist Deltlan is waiting for help at Overlong Bridge Valley.
+QUEST_LV_0100_20160718_015443	Epigraphist Deltlan has asked you to deal with the monsters from the surrounding area so that he can carry on with his research.
+QUEST_LV_0100_20160718_015444	Report back to Epigraphist Deltlan
+QUEST_LV_0100_20160718_015445	You have dealed with enough monsters. Go back to Epigraphist Deltlan.
+QUEST_LV_0100_20160718_015446	Believer Kazis is waiting for help at Kvailas Forest.
+QUEST_LV_0100_20160718_015447	Defeat monsters at Kvailas Forest
+QUEST_LV_0100_20160718_015448	Believer Kazis desperately wishes for the defiled forest to be cleansed of demons. Deal with demons in the surrounding area to make his wish come true.
+QUEST_LV_0100_20160718_015449	Report back to Believer Kazis
+QUEST_LV_0100_20160718_015450	You have defeated enough monsters at Kvailas Forest. Report back to Believer Kazis.
+QUEST_LV_0100_20160718_015451	Believer Bronius is waiting for help at Kvailas Forest.
+QUEST_LV_0100_20160718_015452	Cleansing the Defiling Energies
+QUEST_LV_0100_20160718_015453	Believer Bronius wishes to cleanse Kvailas Forest of the demon energy that is defiling it. Let's cleanse Kvailas Forest of the demon's energy.
+QUEST_LV_0100_20160718_015454	Report Back to Believer Bronius
+QUEST_LV_0100_20160718_015455	You have cleansed enough of the defiling energies. Report back to Believer Bronius.
+QUEST_LV_0100_20160718_015456	Tess, who is alone in Knidos Jungle, is waiting for hlep.
+QUEST_LV_0100_20160718_015457	Collect Lapasape Wand Fragments
+QUEST_LV_0100_20160718_015458	Collect Lapasape wand fragments to show that you have dealed with Lapasape Mages in order to calm Tess.
+QUEST_LV_0100_20160718_015459	Take the Fragments to Tess
+QUEST_LV_0100_20160718_015460	You have collected enough Lapasape wand fragments. This should be enough to calm Tess a bit. Go back to Tess.
+QUEST_LV_0100_20160718_015461	Herbalist Talas is waiting for help at Dadan Jungle.
+QUEST_LV_0100_20160718_015462	Collect Dry Dadania Leaves
+QUEST_LV_0100_20160718_015463	Herbalist Talas has become injured by a trap after coming to collect dry Dadania leaves at Badoca Hill. Go find dry Dadania leaves from Dadania bushes at Badoca Hill for Talas.
+QUEST_LV_0100_20160718_015464	Report back to Herbalist Talas
+QUEST_LV_0100_20160718_015465	You have collected sufficient dry Dadania leaves. Report back to Herbalist Talas.
+QUEST_LV_0100_20160718_015466	The Gloomy Owl sculpture at Karolis Springs is waiting for someone.
+QUEST_LV_0100_20160718_015467	Rescue Spirits Taken by the Monsters
+QUEST_LV_0100_20160718_015468	The Gloomy Owl sculpture says that the monsters near Duokliu Hall have swallowed all of the spirits it is supposed to lead. Find and deal with the monsters that have swallowed the spirits to free them.
+QUEST_LV_0100_20160718_015469	Report back to the Gloomy Owl Sculpture
+QUEST_LV_0100_20160718_015470	You have freed a great deal of spirits. Go back and report to the Gloomy Owl Sculpture.
+QUEST_LV_0100_20160718_015471	Free the Swallowed Spirits
+QUEST_LV_0100_20160718_015472	Talk to the Frail Owl Sculpture
+QUEST_LV_0100_20160718_015473	The Frail Owl sculpture at Letas Stream is waiting for help.
+QUEST_LV_0100_20160718_015474	Retreiving Fading Spirits
+QUEST_LV_0100_20160718_015475	The Frail Owl sculpture asked you to bring back the fading spirits that ran away because of the monsters.
+QUEST_LV_0100_20160718_015476	Return to the Frail Owl sculpture
+QUEST_LV_0100_20160718_015477	You have retreived enough fading spirits. Go back to the Frail Owl sculpture.
+QUEST_LV_0100_20160718_015478	The Mayor's granddaughter of Pelke Shrine Ruins is waiting for help.
+QUEST_LV_0100_20160718_015479	The Mayor's granddaughter has asked you to collect antidote samples after defeating Merog Stingers.
+QUEST_LV_0100_20160718_015480	Report Back to the Mayors' Granddaughter
+QUEST_LV_0100_20160718_015481	You have collected enough antidote samples. Return to the Mayor's granddaughter.
+QUEST_LV_0100_20160718_015482	Assistant Airine at Akmens Ridge is waiting for help.
+QUEST_LV_0100_20160718_015483	Assistant Airine says that she will stay with Archeologist Dezic until he recovers. Help Airine nurse Dezic back to health safely by dealing with the monsters nearby.
+QUEST_LV_0100_20160718_015484	Report back to Assistant Airine
+QUEST_LV_0100_20160718_015485	You have defeated enough monsters for Assistant Airine to be safe. Go back to Airine.
+QUEST_LV_0100_20160718_015486	Talk to Settler Rodonas
+QUEST_LV_0100_20160718_015487	Settler Rodonas from Gytis Settlement is waiting for help.
+QUEST_LV_0100_20160718_015488	Settler Rodonas says that he is unable to establish the settlement because there are too many monsters. Help Rodonas by defeating monsters near Bandrass Forkroad.
+QUEST_LV_0100_20160718_015489	Report back to Settler Rodonas
+QUEST_LV_0100_20160718_015490	You have dealed with monsters near Bandrass Forkroad as Settler Rodonas requested. Report back to Settler Rodonas.
+QUEST_LV_0100_20160718_015491	Talk to the Tired Soldier
+QUEST_LV_0100_20160718_015492	The Tired Soldier is waiting for help near Zachariel Crossroads.
+QUEST_LV_0100_20160718_015493	Obtain Dirty Pouches
+QUEST_LV_0100_20160718_015494	The Tired Soldier says that he has been ordered to obtain dirty pouches from the monsters. Defeat the monsters near Zachariel Crossroads and bring the Tired Soldier Filthy Parcels that may contain something of worth.
+QUEST_LV_0100_20160718_015495	Report to the Tired Soldier
+QUEST_LV_0100_20160718_015496	You have collected a sufficient amount of dirty pouches. Go back to the Tired Soldier.
+QUEST_LV_0100_20160718_015497	Talk with the Royal Mausoleum Guardian
+QUEST_LV_0100_20160718_015498	The Royal Mausoleum Guardian is waiting for the Revelator on the ground floor.
+QUEST_LV_0100_20160718_015499	The Royal Mausoleum Guardian says that those who once protected the Royal Mausoleum are now corrupt and are destroying that which they once protected. The Royal Mausoleum Guardian asked you to deal with the corrupted ones and the monsters that breached the defenses.
+QUEST_LV_0100_20160718_015500	You have dealt with enough monsters. Go back to the Royal Mausoleum Guardian.
+QUEST_LV_0100_20160718_015501	Talk to Laterous
+QUEST_LV_0100_20160718_015502	Laterous from Baron Allerno is waiting for help.
+QUEST_LV_0100_20160718_015503	Deal with the monsters from the surrounding area
+QUEST_LV_0100_20160718_015504	Laterous is saying that the reason behind the disappearances and bad rumors is the monsters. Deal with the monsters from the surrounding area to see if that is true.
+QUEST_LV_0100_20160718_015505	Report back to Laterous
+QUEST_LV_0100_20160718_015506	You have dealt with the monsters as Laterous had requested. Go back to Laterous.
+QUEST_LV_0100_20160718_015507	The Royal Mausoleum Guardian is waiting for the Revelator on the second floor.
+QUEST_LV_0100_20160718_015508	Retreive the Guardian's Essence
+QUEST_LV_0100_20160718_015509	The Royal Mausoleum Guardian has asked you to retrieve the essence from those that have forgotten their duties and are now destroying the Royal Mausoleum.
+QUEST_LV_0100_20160718_015510	Report back to the Royal Mausoleum Guardian
+QUEST_LV_0100_20160718_015511	You have retreived enough of the essences. Go back to the Royal Mausoleum Guardian.
+QUEST_LV_0100_20160718_015512	Talk to the Wandering Spirit of a Believer
+QUEST_LV_0100_20160718_015513	The Wandering Spirit of a Believer is waiting for help at Carlyle's Mausoleum.
+QUEST_LV_0100_20160718_015514	The Wandering Spirit of a Believer has asked you to defeat the monster that killed him. Deal with the monsters from the surrounding area to apease the Spirit.
+QUEST_LV_0100_20160718_015515	Report back to the Wandering Spirit of a Believer
+QUEST_LV_0100_20160718_015516	You have defeated enough monsters at Carlyle's Mausoleum. Go back to the Wandering Spirit of a Believer.
+QUEST_LV_0100_20160718_015517	Talk to Follower Nedluss
+QUEST_LV_0100_20160718_015518	Follower Nedluss is waiting for help at Delmore Manor.
+QUEST_LV_0100_20160718_015519	Destroy the magic devices at the Manor
+QUEST_LV_0100_20160718_015520	Follower Nedluss has asked you to destroy the magic devices that have been discovered within the Manor.
+QUEST_LV_0100_20160718_015521	Report back to Follower Nedluss
+QUEST_LV_0100_20160718_015522	You have destroyed enough magic devices. Go back and report to Follower Nedluss.
+QUEST_LV_0100_20160718_015523	Follower Bigs is waiting for a Revelator at the Delmore Manor.
+QUEST_LV_0100_20160718_015524	Collect Condensed Magic
+QUEST_LV_0100_20160718_015525	Follower Bigs says that he requires Condensed Magic from demons to help Melchioras. Defeat the demons from the surrounding area to collect condensed magic.
+QUEST_LV_0100_20160718_015526	Report back to Follower Bigs
+QUEST_LV_0100_20160718_015527	You have collected sufficient Condensed Magic. Go back to Follower Bigs.
+QUEST_LV_0100_20160718_015528	Talk to Pilgrim Seronia
+QUEST_LV_0100_20160718_015529	Pilgrim Seronia is waiting for help at Feretory Hills.
+QUEST_LV_0100_20160718_015530	Pilgrim Seronia says that she has been chased by monsters all the way here. Deal with the monsters from the surrounding area so that she can rest a little.
+QUEST_LV_0100_20160718_015531	Report back to Pilgrim Seronia
+QUEST_LV_0100_20160718_015532	You have dealt with enough monsters from the surrounding area. Go back to Pilgrim Seronia.
+QUEST_LV_0100_20160718_015533	Revelator Mihail is waiting for help at Delmore Outskirts.
+QUEST_LV_0100_20160718_015534	Defeat the Pag Emitter
+QUEST_LV_0100_20160718_015535	Revelator Mihail has asked you to defeat the Pag Emitters that are attacking people at Delmore Outskirts.
+QUEST_LV_0100_20160718_015536	You have defeated enough Pag Emitters. Report back to Revelator Mihail.
+QUEST_LV_0100_20160718_015537	Talk to Revelator Connor
+QUEST_LV_0100_20160718_015538	Revelator Connor is waiting for help at Delmore Outskirts.
+QUEST_LV_0100_20160718_015539	Collect Maroulu Herbs
+QUEST_LV_0100_20160718_015540	Revelator Connor asked you to collect Maroulu Herbs Grass from the Fortress walls in order for the people with Melchioras to recover.
+QUEST_LV_0100_20160718_015541	Report back to Revelator Connor
+QUEST_LV_0100_20160718_015542	You have gathered enough Maroulu Herbs. Go back and hand them to Revelator Connor.
+QUEST_LV_0100_20160718_015543	Baron Secretary Benius is waiting for help at Myrkiti Farm.
+QUEST_LV_0100_20160718_015544	Baron Secretary Benius has asked you to defeat the monsters in the surrounding area that are hindering the work process.
+QUEST_LV_0100_20160718_015545	You have dealt with enough monsters in the surrounding area. Go back to Baron Secretary Benius.
+QUEST_LV_0100_20160718_015546	Talk to Farmer Deluma
+QUEST_LV_0100_20160718_015547	Farmer Deluma is waiting for help at Tenants' Farm.
+QUEST_LV_0100_20160718_015548	Collect the hidden farming tools
+QUEST_LV_0100_20160718_015549	Farmer Deluma has asked you to retreive the farming tools that were hidden to prevent them from being stolen by monsters and thieves.
+QUEST_LV_0100_20160718_015550	Go back to Farmer Deluma
+QUEST_LV_0100_20160718_015551	You have retrieved enough farming tools. Return to Famer Deluma and give them to him.
+QUEST_LV_0100_20160718_015552	Necromancer Drasius is waiting for help at the Goddess' Ancient Garden.
+QUEST_LV_0100_20160718_015553	Retreive the Bag of Goods
+QUEST_LV_0100_20160718_015554	Necromancer Drasius says that the reason behind the failed summoning was due to a lack of offerings. Drasius has asked you to retreive the pouch containing offerings from the loosely strewn rocks near Dumbliu Pond.
+QUEST_LV_0100_20160718_015555	Report back to Necromancer Drasius
+QUEST_LV_0100_20160718_015556	You have gathered enough offering parcels. Go back to Necromancer Drasius.
+QUEST_LV_0100_20160718_015557	Talk to Lumberjack Luoval
+QUEST_LV_0100_20160718_015558	Lumberjack Luoval is waiting for help at Escanciu Village.
+QUEST_LV_0100_20160718_015559	Lumberjack Luoval says that there are too many monsters for him to gather lumber from Neryshkus Sanctum Ruins. Defeat the monsters there to allow Luoval to gather lumber.
+QUEST_LV_0100_20160718_015560	Report back to Lumberjack Luoval
+QUEST_LV_0100_20160718_015561	You have dealt with enough monsters from the Neryshkus Sanctum Ruins. Report back to Lumberjack Luoval.
+QUEST_LV_0100_20160718_015562	Stonemason Canolyn is waiting for help at the Fedimian Suburbs.
+QUEST_LV_0100_20160718_015563	Deal with the monsters at Leipsna Chapel Site
+QUEST_LV_0100_20160718_015564	Stonemason Canolyn wishes to establish a trade hub that leads to Fedimian at Leipsna Chapel Site. Deal with the monsters there and return to Canolyn.
+QUEST_LV_0100_20160718_015565	You have dealt with enough monsters at Leipsna Chapel Site. Go back to Stonemason Canoyln.
+QUEST_LV_0100_20160718_015566	Talk to Priest Rovli
+QUEST_LV_0100_20160718_015567	Priest Rovli is waiting for help at Bellai Rainforest.
+QUEST_LV_0100_20160718_015568	Teach the Ferrets a lesson
+QUEST_LV_0100_20160718_015569	Priest Rovli wishes to teach the Ferrets that are wrecking havoc on roads that lead to the major shrines a lesson. Teach the Ferrets in the surrounding area a lesson.
+QUEST_LV_0100_20160718_015570	Report back to Priest Rovli
+QUEST_LV_0100_20160718_015571	You have scared the Ferrets enough. Go back to Priest Rovli.
+QUEST_LV_0100_20160718_015572	Talk to Believer Dreka
+QUEST_LV_0100_20160718_015573	Believer Dreka is waiting for help at Seir Rainforest.
+QUEST_LV_0100_20160718_015574	Collect Ceyral Saplings
+QUEST_LV_0100_20160718_015575	Believer Dreka wishes to collect Ceyral Saplings for Goddess Rada to recover. Collect Ceyral Saplings from near Shulti Workshop and return to Dreka.
+QUEST_LV_0100_20160718_015576	Return to Believer Dreka
+QUEST_LV_0100_20160718_015577	You have collected enough Ceyral Saplings. Hand them to Believer Dreka.
+QUEST_LV_0100_20160718_015578	Talk to Merchant Dolonas
+QUEST_LV_0100_20160718_015579	Merchant Dolonas is waiting for help at Fasika Plateau.
+QUEST_LV_0100_20160718_015580	Merchant Dolonas has asked for help in order to pass Fasika Plateau safely. Deal with the monsters in the surrounding area to make it safer.
+QUEST_LV_0100_20160718_015581	Report back to Merchant Dolonas
+QUEST_LV_0100_20160718_015582	You have cleared the area of enough monsters. Go back and give Merchant Dolonas the good news.
+QUEST_LV_0100_20160718_015583	Talk to the Collection Member
+QUEST_LV_0100_20160718_015584	The Collection Member at Manahas is waiting for help.
+QUEST_LV_0100_20160718_015585	Excavate Manaryll Tombstones
+QUEST_LV_0100_20160718_015586	The Collection Member has asked you to help find ancient Manahas relics from the Augalu Garden. Dig through the soil to find Manaryll Tombstones.
+QUEST_LV_0100_20160718_015587	Report back to the Collection Member.
+QUEST_LV_0100_20160718_015588	You have found enough Manaryll Tombstones. Hand them in to the Collection Member.
+QUEST_LV_0100_20160718_015589	The Swordsman Submaster wishes to prove your skills as a Revelator. Go past the Woods of the Linked Bridges and defeat Red Kepas and Woodins in Paupys Crossing.
+QUEST_LV_0100_20160718_015590	To judge your practical skills and strength, the Highlander Submaster has tasked you with defeating Woodins in Paupys Crossing. Go past the Woods of the Linked Bridges to get to Paupys Crossing.
+QUEST_LV_0100_20160718_015591	The Swordsman Submaster has tasked you with defeating Gosarus in the Dadan Jungle to achieve an even stronger level. Go to the Dadan Jungle by passing Paupys Crossing, Koru Jungle and Knidos Jungle.
+QUEST_LV_0100_20160718_015592	To evaluate how much you have grown as a Revelator, the Highlander Submaster has tasked you with defeating Gosarus in the Dadan Jungle. Go to the Dadan Jungle by passing Paupys Crossing, Koru Jungle and Knidos Jungle.
+QUEST_LV_0100_20160718_015593	The Peltasta Submaster wants to test your shield-using abilities. Go to the Dadan Jungle by passing Paupys Crossing, Koru Jungle and Knidos Jungle. Equip a shield and hunt monsters once you get there. Defeating demons will earn you extra points. Alas, this is a task you will have to complete on your own.
+QUEST_LV_0100_20160718_015594	The Hoplite Submaster has tasked you with defeating Rafflys at the Dadan Jungle. Go to the Dadan Jungle by passing Paupys Crossing, Koru Jungle and Knidos Jungle.
+QUEST_LV_0100_20160718_015595	The Barbarian Submaster wants to test your mind for combat. Go to the Dadan Jungle by passing Paupys Crossing, Koru Jungle and Knidos Jungle. Defeat the Gosarus there and submit proof of your hunt.
+QUEST_LV_0100_20160718_015596	The Priest Submaster has asked you to visit Koru Jungle, Knidos Jungle and Dadan Jungle and collect Wormwood, Hemostasis Herb and Moonlight Flower respectively in each area. Go those areas by passing Paupys Crossing and Koru Jungle.
+QUEST_LV_0100_20160718_015597	Go to the Dadan Jungle by passing Paupys Crossing, Koru Jungle and Knidos Jungle. Then collect Raffly Soul Crystals and Vubbe Warrior Mind Crystals from Dadan Jungle.
+QUEST_LV_0100_20160718_015598	Go meet Blacksmith Ilanai in Orsha to pass the request of Dievdirbys Submaster.
+QUEST_LV_0100_20160718_015599	Talk with Blacksmith Ilanai in Orsha and ask about the necessary materials.
+QUEST_LV_0100_20160718_015600	Blacksmith Ilanai doesn't have a chisel ready for you, but she can make one if you collect the right materials. Go to the Dadan Jungle by passing Paupys Crossing, Koru Jungle and Knidos Jungle. Defeat Grummers there and collect chunks of metal from them.
+QUEST_LV_0100_20160718_015601	You have collected enough chunks of metal. Bring them to Blacksmith Ilanai in Orsha.
+QUEST_LV_0100_20160718_015602	Talk with Blacksmith Ilanai in Orsha and receive the chisel.
+QUEST_LV_0100_20160718_015603	You successfully defeated the monster after it suddenly attacking from beneath the water. Ask Napalis if they are all right.
+QUEST_LV_0100_20160718_015604	Dievdirbys Asel is waiting for you at Grynas Hills. Go find Dievdirbys Asel.
+QUEST_LV_0100_20160718_015605	Talk to the Quiet Owl Sculpture at Susipyne Hill Areas
+QUEST_LV_0100_20160718_015606	Dievdirbys Asel suggests that you split up to investigate about the Owl Sculpture. Go and take a look at the Quiet Owl Sculpture at Susipyne Hill Areas.
+QUEST_LV_0100_20160718_015607	Talk to Dievdirbys Asel at the Siauras Valley
+QUEST_LV_0100_20160718_015608	Unfortunately, the Quiet Owl Sculpture says that the information you seek is in the hands of the Sleeping Owl Sculpture. Go to Siauras Valley where Dievdirbys Asel is.
+QUEST_LV_0100_20160718_015609	Dievdirbys Asel has crafted a Small Owl Sculpture. Take it to the Friendly Owl Sculpture.
+QUEST_LV_0100_20160718_015610	Go back to Dievdirbys Asel
+QUEST_LV_0100_20160718_015611	The Friendly Owl Sculpture has given some of its powers to the Small Owl Sculpture. Go back to Dievdirbys Asel with the Sculpture.
+QUEST_LV_0100_20160718_015612	The Broken Owl Sculpture has shown parts of the past. Talk about what you have seen with Dievdirbys Asel.
+QUEST_LV_0100_20160718_015613	Check the situation of the Lemyra Sentry
+QUEST_LV_0100_20160718_015614	It seems as if someone is fighting. Check if something is happening at Lemyra Sentry.
+QUEST_LV_0100_20160718_015615	Talk to Loremaster Daroul
+QUEST_LV_0100_20160718_015616	Loremaster Daroul is thanking you. Ask about what was happening.
+QUEST_LV_0100_20160718_015617	Help Loremaster Daroul deal with the attacking monsters.
+QUEST_LV_0100_20160718_015618	Loremaster Daroul is trying to find a way to contact Goddess Jurate. Try talking to Daroul again.
+QUEST_LV_0100_20160718_015619	Collect Blue Coral
+QUEST_LV_0100_20160718_015620	Loremaster Daroul is trying to craft something to offer to Goddess Jurate. He has asked you to help collect more Blue Coral as there is not enough to finish the product.
+QUEST_LV_0100_20160718_015621	Hand the Blue Coral to Loremaster Daroul
+QUEST_LV_0100_20160718_015622	You have collected sufficient amounts of Blue Coral. Go back and hand it to Loremaster Daroul.
+QUEST_LV_0100_20160718_015623	Loremaster Daroul is satisfied with the collected Blue Coral. Ask him what he requires next.
+QUEST_LV_0100_20160718_015624	Go and talk to Loremaster Daroul.
+QUEST_LV_0100_20160718_015625	Loremaster Daroul says that his colleague has found a good place for an altar. Follow Loremaster Daroul.
+QUEST_LV_0100_20160718_015626	Talk to Loremaster Verta
+QUEST_LV_0100_20160718_015627	Loremaster Verta is waiting for you and Daroul. Talk to Loremaster Verta.
+QUEST_LV_0100_20160718_015628	Lure and defeat monsters from the surrounding area.
+QUEST_LV_0100_20160718_015629	Loremaster Verta says that the monsters in the surrounding area are hindering his efforts at creating an altar. Lure the monsters from the Old Bridge and Kranta Skerries by using the Smelly Parcel.
+QUEST_LV_0100_20160718_015630	You have driven off the monsters. Go to Loremaster Verta and tell him about the results.
+QUEST_LV_0100_20160718_015631	Loremaster Verta and Daroul have come from the Dellam Sandbank. Ask them what happened.
+QUEST_LV_0100_20160718_015632	Retake the Altar to Goddess Jurate from the Crabil
+QUEST_LV_0100_20160718_015633	They say that the Crabil was attracted to the ocean's energy. Defeat the Crabil that is near the altar.
+QUEST_LV_0100_20160718_015634	You have driven off the Crabil. Go and talk to Loremaster Verta.
+QUEST_LV_0100_20160718_015635	Protect the Loremaster and defeat the %s.
+QUEST_LV_0100_20160718_015636	Loremaster Daroul seems to be in trouble. Ask what the problem is.
+QUEST_LV_0100_20160718_015637	Loremaster Daroul says that the offerings that were placed on the altar have all been destroyed because of the Crabil. He has asked you to collect more Blue Coral and take it to the Fedimian Accessory Merchant Joana.
+QUEST_LV_0100_20160718_015638	Talk to the Fedimian Accessory Merchant Joana
+QUEST_LV_0100_20160718_015639	Loremaster Daroul has asked you to request that the Blue Coral be worked on by the Fedimian Accessory Merchant Joana. Talk to Joana.
+QUEST_LV_0100_20160718_015640	Talk to Accessory Merchant Joana
+QUEST_LV_0100_20160718_015641	You have requested the processing of the Blue Coral to Accessory Merchant Joana. Joana seems to have a request of her own.
+QUEST_LV_0100_20160718_015642	Collect whole Shell from the Gap Crabs at Kranta Skerries
+QUEST_LV_0100_20160718_015643	Accessory Merchant Joana has asked for whole Gap Crab Shell in return for her services. Collect whole Gap Crab Shell from the Igti Coast.
+QUEST_LV_0100_20160718_015644	Deliver the Shell to Accessory Merchant Joana
+QUEST_LV_0100_20160718_015645	You have collected the requested amount of Shell for Accessory Merchant Joana. Return to her.
+QUEST_LV_0100_20160718_015646	You have retrieved the crafted Coral from Accessory Merchant Joana. Take the Coral to Loremaster Verta so it can be offered to Goddess Jurate.
+QUEST_LV_0100_20160718_015647	Goddess Jurate has answered the call of the Loremasters! Talk to Loremaster Verta once more.
+QUEST_LV_0100_20160718_015648	Loremaster Daroul is asking for a bit more help.
+QUEST_LV_0100_20160718_015649	Dealing with the monsters at Kranta Skerries
+QUEST_LV_0100_20160718_015650	Loremaster Daroul says that the monsters are wrecking the Coral at Kranta Skerries. He has asked you to deal with the monsters in the surrounding area.
+QUEST_LV_0100_20160718_015651	You have dealt with enough monsters at Kranta Skerries. Report your actions to Loremaster Daroul.
+QUEST_LV_0100_20160718_015652	Deal with the monsters wrecking Kranta Skerries
+QUEST_LV_0100_20160718_015653	Loremaster Daroul is looking for a way to prevent the monsters from wrecking the coral. Talk to Daroul.
+QUEST_LV_0100_20160718_015654	Fill Daroul's Pendant with the energy of monsters
+QUEST_LV_0100_20160718_015655	Loremaster Daroul wishes to scare the monsters by filling his pendant with the energy from monsters. Fill his pendant with their energy by defeating them.
+QUEST_LV_0100_20160718_015656	You have filled Daroul's Pendant with the energy of monsters. Go back to Daroul.
+QUEST_LV_0100_20160718_015657	It seems as if Loremaster Verta is preparing something. Talk to Verta.
+QUEST_LV_0100_20160718_015658	Collect the Blue Stones from Sniega Sentry
+QUEST_LV_0100_20160718_015659	Loremaster Verta wishes to collect the ocean's energy ahead of time. Go to Sniega Sentry and collect the stones that shine blue in response to the Ocean's Divine Water.
+QUEST_LV_0100_20160718_015660	Return and hand the stones to Loremaster Verta
+QUEST_LV_0100_20160718_015661	You have collected all the Stones required by Loremaster Verta. Return and hand them over to Verta.
+QUEST_LV_0100_20160718_015662	Loremaster Verta seems to have checked the quality of Stones. Talk to Verta.
+QUEST_LV_0100_20160718_015663	Place the Blue Stones where the ocean's energy is gathering.
+QUEST_LV_0100_20160718_015664	Loremaster Verta aproves of the quality of Blue Stones. He has asked you to place them where the energy of the ocean is gathering.
+QUEST_LV_0100_20160718_015665	You have placed the Stones as Loremaster Verta requested. Go back and tell him that the deed is done.
+QUEST_LV_0100_20160718_015666	Dievdirbys Asel is curious about the dagger's owner. Talk to Asel.
+QUEST_LV_0100_20160718_015667	You have seen a similar case before. Ask the Ranger Master about the dagger.
+QUEST_LV_0100_20160718_015668	The dagger belonged to Evoniphon afterall. Tell Dievdirbys Asel about what you have heard from the Ranger Master.
