@@ -2251,11 +2251,11 @@ UI_20160718_002250	{@st42b}Siauliai{/}
 UI_20160718_002251	{#000000}Score{/}
 UI_20160718_002252	{#000000}%s Points{/}
 UI_20160718_002253	Regional GvG Rankings
-UI_20160811_002254	{@st66b18}※The item will be consumed if you change the name.{/}
+UI_20160811_002254	{@st66b18}※ The item is consumed when you change the name.{/}
 UI_20160811_002255	{@st42}Turn on Login Notifications
 UI_20160811_002256	{@white_16_ol}Guild Member{/}
 UI_20160811_002257	{@white_16_ol}Friend{/}
-UI_20160811_002258	{@st66d}{s18}{#FFFF18}[ %s ]{/} {@st66d}{s18}{#FFFFFF}The Card's level will{nl}decrease by one stage if you unequip it.{/}
+UI_20160811_002258	{@st66d}{s18}{#FFFF18}[ %s ]{/} {@st66d}{s18}{#FFFFFF}The card's level will{nl}decrease by one stage if you unequip it.{/}
 UI_20160811_002259	{@st66b}Removable Effect{/}
 UI_20160811_002260	None.
 UI_20160811_002261	{@st41b}Unequip{/}
@@ -2263,7 +2263,7 @@ UI_20160811_002262	{img icon_item_tospoint 24 24}{@st41b}Consume 5TP{nl}Unequip 
 UI_20160811_002263	{@st41b}Final Confirmation
 UI_20160811_002264	{@st42}My Trades{/}
 UI_20160811_002265	{@st42}Trades{/}
-UI_20160811_002266	{@st66b}If both sides are using Tokens,{nl}the trade properties of the equipment will not be changed.{nl}Consumables and material items will become untradable regardless of Token use.{/}
+UI_20160811_002266	{@st66b}If both sides are using Tokens,{nl}the trade properties of the equipment are unchanged.{nl}Consumables and material items will become untradable regardless of Token use.{/}
 UI_20160811_002267	Token Match
 UI_20160811_002268	{@st42}The item in question will become untradable after the trade{/}
 UI_20160811_002269	{@st42}The item in question will remain tradable after the trade{/}
@@ -2274,25 +2274,25 @@ UI_20160811_002273	{@st66d}The item properties will be changed{nl}as both sides 
 UI_20160811_002274	{@st42}List of items that will become untradable after the trade{/}
 UI_20160811_002275	{@st66b}{s20}Character is currently in {/}{s20}{#770000}combat{@st66b}{s20}.{/}
 UI_20160811_002276	{@st66b}Cancel{/}
-UI_20160811_002277	{@st66b} Real-time Standings
+UI_20160811_002277	{@st66b}Real-time Standings
 UI_20160811_002278	{@st66b}Previous Season Standings{/}
 UI_20160811_002279	Previous Week's Standings
-UI_20160811_002280	20 x 300TP Vouchers
+UI_20160811_002280	20 x 300 TP Vouchers
 UI_20160811_002281	Receive Rewards
 UI_20160811_002282	{@sti1c}Weekly Rankings{/}
 UI_20160811_002283	{@st66b}Uphill Defense{/}
-UI_20160811_002284	Levels in ascending order{/}
-UI_20160811_002285	Levels in descending order{/}
+UI_20160811_002284	Level in ascending order{/}
+UI_20160811_002285	Level in descending order{/}
 UI_20160811_002286	{img %s 12 12}{/} {@st66b}{s18}Monster Card{/}
 UI_20160811_002287	Transcend Item
 UI_20160811_002288	Transcendence
-UI_20160811_002289	{@st59b}Transcend Item{nl}{@st59s}- Another way to enhance the item's performance other than by anvil{nl}- Items that can Transcend : Weapons, Armor, Accessories{nl}- Transcendence Success Rate = Used Ingredients / Maximum Required Ingredients{nl}- Increases Transcendence Stage by 1 on success(Maximum of 10 Stages){nl}- Decreases Transcendence Stage by 1 on failure(Does not loose potential){nl}- Transcended Items cannot be traded{/}
-UI_20160811_002290	{@st42}Stage%s{/}
+UI_20160811_002289	{@st59b}Transcend Item{nl}{@st59s}- Another way to enhance the item's performance other than by the anvil{nl}- Items that can transcend : Weapons, armor and accessories{nl}- Transcendence Success Rate = Used Ingredients / Maximum Required Ingredients{nl}- Increases Transcendence Stage by 1 on success(Maximum of 10 Stages){nl}- Decreases Transcendence Stage by 1 on failure (No Potential loss){nl}- Transcended items cannot be traded{/}
+UI_20160811_002290	{@st42}Stage %s{/}
 UI_20160811_002291	Extract Blessed Gem
-UI_20160811_002292	{@st59b}Extract Blessed Gem{nl}{@st59s}- Extract Blessed Gem from Transcended Item{nl}- Extraction Requirements : Hammer of Dismantlement{nl}- You will be able to retreive some of the Blessed Gems used for the Transcendence even though the item will be destroyed. {nl}- You cannot do this at Transcendence Stage 0.{/}
+UI_20160811_002292	{@st59b}Extract Blessed Gem{nl}{@st59s}- Extract Blessed Gem from transcended items{nl}- Extraction Requirements : Hammer of Dismantlement{nl}- You will be able to retreive some of the Blessed Gems used for Transcendence even though the item will be destroyed. {nl}- You cannot do this at Transcendence Stage 0.{/}
 UI_20160811_002293	Extraction Results
 UI_20160811_002294	Extract Item
-UI_20160811_002295	{@st59b}Extract Item{nl}{@st59s}- Remove Transcendence effects from a Transcended Item{nl}- Extraction Requirements : Spell Rod{/}
+UI_20160811_002295	{@st59b}Extract Item{nl}{@st59s}- Remove the transcendental effects from a transcended item{nl}- Extraction Requirements : Spell Rod{/}
 UI_20160811_002296	Item Extraction Results
 UI_20160811_002297	Name of (Package) being sold
 UI_20160811_002298	{@st67}{s18} ※ You can only purchase 1 product per account.{/}
@@ -2306,8 +2306,8 @@ UI_20160811_002305	{@st66d}{s26}Right to Cancel{/}
 UI_20160811_002306	{@st59}View suggested dungeon locations{/}
 UI_20160811_002307	{@st41}Lodge%s (%s/%s){/}
 UI_20160811_002308	{@st59}Move to Lodge.
-UI_20160811_002309	{@st59}The Jurate(Seasonal Server) is an event server that will exist until the 20th of October.{nl}Please check the Official Homepage for more details.{nl}The Vakarine, Laima, Zemyna, Gabija servers have been merged to create the Vaivora Server.{/}
-UI_20160811_002310	{@st59}Please select a server.{nl}The Vakarine, Laima, Zemyna, Gabija servers have been merged to create the Vaivora Server.{/}
+UI_20160811_002309	{@st59}Jurate (Seasonal Server) is an event server that will exist until the 20th of October.{nl}Please check the Official Homepage for more details.{nl}The Vakarine, Laima, Zemyna, Gabija servers have been merged into the Vaivora server.{/}
+UI_20160811_002310	{@st59}Please select a server.{nl}The Vakarine, Laima, Zemyna, Gabija servers have been merged into the Vaivora server.{/}
 UI_20160811_002311	{@st66b}Move to other lodge
 UI_20160811_002312	{@st59}Move Lodge.{/}
 UI_20160811_002313	{@st59}Delete Companion
@@ -2315,7 +2315,7 @@ UI_20160811_002314	You feel better.
 UI_20160811_002315	Carpet-type
 UI_20160811_002316	{@st42b}{s16}Charge{/}
 UI_20160811_002317	{@st66b}{s16}Preview{/}
-UI_20160811_002318	{@st42b}{s16}Put in cart{/}
-UI_20160811_002319	Have not learned
+UI_20160811_002318	{@st42b}{s16}Add{/}
+UI_20160811_002319	Unlearned
 UI_20160811_002320	* When battling
 UI_20160811_002321	{@st66d}Equipped Weapon
