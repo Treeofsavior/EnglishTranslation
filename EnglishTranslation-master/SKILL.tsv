@@ -6336,8 +6336,8 @@ SKILL_20160310_006335	Applies the effects of [Swift Step] to party members. (The
 SKILL_20160310_006336	[Crossfire] gets a 10% chance per level of inflicting [Burn] on targets for 6 seconds. Burn damage is proportional to the character's physical attack.
 SKILL_20160315_006337	Aim at an enemy in a stable posture. Increases Missile property attacks for one time.
 SKILL_20160317_006338	Attack: +#{CaptionRatio}#%{nl}Additional Attribute Damage: #{CaptionRatio2}#{nl}Duration: 10 seconds
-SKILL_20160317_006339	- Able to learn up to 2 attributes simultaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement speed{nl} - Can only trade up to 30 times{nl} - 1 extra instance entry for missions and dungeons
-SKILL_20160317_006340	- Able to learn up to 2 attributes simultaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement speed{nl} - Can only trade up to 30 times{nl} - 2 extra instance entries for missions and dungeons
+SKILL_20160317_006339	- Able to learn up to 2 attributes simultaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement speed{nl} - Can only trade up to 30 times{nl
+SKILL_20160317_006340	- Able to learn up to 2 attributes simultaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement speed{nl} - Can only trade up to 30 times{nl
 SKILL_20160323_006341	Party Horn
 SKILL_20160323_006342	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Additional Critical Chance: 62%
 SKILL_20160323_006343	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio2}#%{nl}Physical Defense: -#{CaptionRatio}#{nl}Additional Critical Chance: 40%{nl}Duration: #{CaptionTime}# seconds
@@ -6470,3 +6470,20 @@ SKILL_20160723_006469	Damballa: Remove Knockdown
 SKILL_20160723_006470	[Damballa] no longer knocks enemies down. (Only applies if this attribute is set to ON.)
 SKILL_20160723_006471	Counter Spell: Enemy Target 
 SKILL_20160723_006472	[Counter Spell] only removes enemy magic.
+SKILL_20160811_006473	Physical Defense Increased by #{CaptionRatio}#%{nl}Physical Attack Decreased by #{CaptionRatio2}#%{nl}Sustain Period #{CaptionTime}#Seconds
+SKILL_20160811_006474	Attack #{SkillAtkAdd}#{nl}Attribute Attack #{CaptionRatio}#%{nl}Casting Time 0.2 seconds{nl}Area of attack rate #{SkillSR}#
+SKILL_20160811_006475	Maximum Link Numbers #{CaptionRatio}#{nl}Count Limit #{CaptionRatio2}#{nl}Sustain Period #{CaptionTime}#Seconds
+SKILL_20160811_006476	Attack #{SkillAtkAdd}#{nl}Target Numbers #{CaptionRatio2}#{nl}Attribute Attack #{CaptionRatio}#%{nl}Sustain Period #{CaptionTime}#Seconds
+SKILL_20160811_006477	Makes monsters reappear at the same spot as where they died by manipulating time. Must use near monsters for it to have effect.
+SKILL_20160811_006478	Hides traps to conceal them from the enemy. Sustain time may decrease depending on objects.
+SKILL_20160811_006479	Attack 200% + #{SkillAtkAdd}#{nl}Attribute Attack #{CaptionRatio}#%{nl}Sustain Period 1.5 seconds{nl}Consumes 1 Divine Machine Arrow
+SKILL_20160811_006480	{#993399}{ol}[Magic] - [Darkness]{/}{/}{nl}Deals damage to cursed enemies from afar. Deals additional damage on every third casting if used in succession.
+SKILL_20160811_006481	Concealed as to not be seen.
+SKILL_20160811_006482	Increase Physical/Magical Defense
+SKILL_20160811_006483	Physical/Magical Defense will be increased
+SKILL_20160811_006484	In Possession of a Battlebird
+SKILL_20160811_006485	Increases HP and SP recovery rate.
+SKILL_20160811_006486	120% Increase in EXP gain from monsters{nl}5 time increase in Stamina recovery rate
+SKILL_20160811_006487	240% Increase in EXP gain from monsters{nl}9 time increase in Stamina recovery rate
+SKILL_20160811_006488	50% Increase in EXP gain from monsters{nl}2 time increase in Stamina recovery rate
+SKILL_20160811_006489	1% increase in summoned Skeleton Soldier attack per attribute level.
