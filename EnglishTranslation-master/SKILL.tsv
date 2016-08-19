@@ -6470,20 +6470,20 @@ SKILL_20160723_006469	Damballa: Remove Knockdown
 SKILL_20160723_006470	[Damballa] no longer knocks enemies down. (Only applies if this attribute is set to ON.)
 SKILL_20160723_006471	Counter Spell: Enemy Target 
 SKILL_20160723_006472	[Counter Spell] only removes enemy magic.
-SKILL_20160811_006473	Physical Defense Increased by #{CaptionRatio}#%{nl}Physical Attack Decreased by #{CaptionRatio2}#%{nl}Sustain Period #{CaptionTime}#Seconds
-SKILL_20160811_006474	Attack #{SkillAtkAdd}#{nl}Attribute Attack #{CaptionRatio}#%{nl}Casting Time 0.2 seconds{nl}Area of attack rate #{SkillSR}#
-SKILL_20160811_006475	Maximum Link Numbers #{CaptionRatio}#{nl}Count Limit #{CaptionRatio2}#{nl}Sustain Period #{CaptionTime}#Seconds
-SKILL_20160811_006476	Attack #{SkillAtkAdd}#{nl}Target Numbers #{CaptionRatio2}#{nl}Attribute Attack #{CaptionRatio}#%{nl}Sustain Period #{CaptionTime}#Seconds
-SKILL_20160811_006477	Makes monsters reappear at the same spot as where they died by manipulating time. Must use near monsters for it to have effect.
-SKILL_20160811_006478	Hides traps to conceal them from the enemy. Sustain time may decrease depending on objects.
-SKILL_20160811_006479	Attack 200% + #{SkillAtkAdd}#{nl}Attribute Attack #{CaptionRatio}#%{nl}Sustain Period 1.5 seconds{nl}Consumes 1 Divine Machine Arrow
+SKILL_20160811_006473	Physical Defense: +#{CaptionRatio}#%{nl}Physical Attack: -#{CaptionRatio2}#%{nl}Duration: #{CaptionTime}# seconds
+SKILL_20160811_006474	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Casting Time: 0.2 seconds{nl}AoE Ratio: #{SkillSR}#
+SKILL_20160811_006475	Maximum Link Numbers: #{CaptionRatio}#{nl}Count Limit: #{CaptionRatio2}#{nl}Duration: #{CaptionTime}# seconds
+SKILL_20160811_006476	Attack: #{SkillAtkAdd}#{nl}Targets: #{CaptionRatio2}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Duration: #{CaptionTime}# seconds
+SKILL_20160811_006477	Makes monsters re-appear at the same spot as where they died by manipulating time. You must use this near monsters for it to have effect.
+SKILL_20160811_006478	Hides traps to conceal them from the enemy. The duration time may decrease depending on objects.
+SKILL_20160811_006479	Attack: 200% + #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Duration: 1.5 seconds{nl}Consumes 1 Divine Machine Arrow
 SKILL_20160811_006480	{#993399}{ol}[Magic] - [Darkness]{/}{/}{nl}Deals damage to cursed enemies from afar. Deals additional damage on every third casting if used in succession.
 SKILL_20160811_006481	Concealed as to not be seen.
 SKILL_20160811_006482	Increase Physical/Magical Defense
 SKILL_20160811_006483	Physical/Magical Defense will be increased
-SKILL_20160811_006484	In Possession of a Battlebird
+SKILL_20160811_006484	Battlebird Owner
 SKILL_20160811_006485	Increases HP and SP recovery rate.
-SKILL_20160811_006486	120% Increase in EXP gain from monsters{nl}5 time increase in Stamina recovery rate
-SKILL_20160811_006487	240% Increase in EXP gain from monsters{nl}9 time increase in Stamina recovery rate
-SKILL_20160811_006488	50% Increase in EXP gain from monsters{nl}2 time increase in Stamina recovery rate
-SKILL_20160811_006489	1% increase in summoned Skeleton Soldier attack per attribute level.
+SKILL_20160811_006486	120% increase in EXP gain from monsters{nl}x5 increase in Stamina recovery rate
+SKILL_20160811_006487	240% increase in EXP gain from monsters{nl}x9 increase in Stamina recovery rate
+SKILL_20160811_006488	50% increase in EXP gain from monsters{nl}x2 increase in Stamina recovery rate
+SKILL_20160811_006489	Increases the attack of a summoned Skeleton Soldier by 1% per attribute level.
