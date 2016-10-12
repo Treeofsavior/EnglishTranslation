@@ -6582,7 +6582,7 @@ SKILL_20161005_006581	{#993399}{ol}[Magic]{/}{/}{nl}Concentrate magic energfy an
 SKILL_20161005_006582	{#993399}{ol}[Magic] - [Dark]{/}{/}{nl}Stab the enemy with a bone knife. If the enemy is a Beast, Devil or Insect-type, blood will spew out that recovers some of your HP. 
 SKILL_20161005_006583	{#993399}{ol}[Magic]{/}{/}{nl}Attack and absorb the life force from a Beast, Devil or Insect-type enemy while recovering your HP at the same time.
 SKILL_20161005_006584	{#993399}{ol}[Magic] - [Dark]{/}{/}{nl}Stabs an enemy with a cursed knife carved from a bone. An enemy stabbed by this bone fragment will be afflicted with [Decay]. Enemies affected by [Decay] receive additional damage from Missile attacks.
-SKILL_20161005_006585	Kurdaitcha Max Duarion #{CaptionRatio}#{nl}Movement Speed Decrease #{CaptionRatio2}# {nl}{#339999}{ol}[Curse]{/}{/} Duration 7 seconds
+SKILL_20161005_006585	Kurdaitcha Maximum Duration: #{CaptionRatio}#{nl}Movement Speed Reduction: #{CaptionRatio2}# {nl}{#339999}{ol}[Curse]{/}{/} Duration: 7 seconds
 SKILL_20161005_006586	Kundela Slash
 SKILL_20161005_006587	{#993399}{ol}[Magic] - [Dark]{/}{/}{nl}Use the Kundela to attack enemies. The cursed enemies receive additional damage.
 SKILL_20161005_006588	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}{#339999}{ol}[Curse]{/}{/} Additional damage to enemies afflicted with [Curse]
@@ -6597,7 +6597,7 @@ SKILL_20161005_006596	Absorbs nearby evil spirits and expels Evil Spirit Energy 
 SKILL_20161005_006597	Absorable Evil Spirits: #{CaptionRatio}#{nl}Cooldown reduced for Dark Surge: #{CaptionRatio2}# × [Number of Evil Spirits] seconds{nl}Buff Duration: #{CaptionTime}# + [Number of Evil Spirits] × 2 seconds
 SKILL_20161005_006598	Ghastly Trail
 SKILL_20161005_006599	{#993399}{ol}[Magic] - [Dark]{/}{/}{nl}Make the summoned evil spirits to follow you in line.
-SKILL_20161005_006600	Additional Damage #{SkillAtkAdd}#{nl}Max Duration 5 seconds{nl}Requires summoned Evil Spirits
+SKILL_20161005_006600	Additional Damage: #{SkillAtkAdd}#{nl}Maximum Duration: 5 seconds{nl}Requires summoned Evil Spirits
 SKILL_20161005_006601	Saves the location or create a portal for you or your party members to be able to use. If Location Saved, it records the current axis, and must wait cooldown for opening a portal.
 SKILL_20161005_006602	Saveable Portals: #{CaptionRatio}#{nl}Portal Cooldown: #{CaptionTime}# minutes{nl}Portal Duration: 15 seconds
 SKILL_20161005_006603	Warp to Friend
@@ -6616,38 +6616,38 @@ SKILL_20161005_006615	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRati
 SKILL_20161005_006616	Magic Circle Reduction
 SKILL_20161005_006617	Missile Hole
 SKILL_20161005_006618	For a period of time, grants an effect that can minimize damage from missile attacks and magic bullet attacks for you and your party members.
-SKILL_20161005_006619	Duration: #{CaptionTime}# seconds{nl}Number of Defense #{CaptionRatio}#
+SKILL_20161005_006619	Duration: #{CaptionTime}# seconds{nl}Number of Blocks: #{CaptionRatio}#
 SKILL_20161005_006620	{#993399}{ol}[Magic]{/}{/}{nl}Sprinkle magic powder around to attack and boost movement speed of the allies.
-SKILL_20161005_006621	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Duration of Boosted Movement Speed #{CaptionTime}# seconds
+SKILL_20161005_006621	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Increased Movement Speed Duration: #{CaptionTime}# seconds
 SKILL_20161005_006622	Enchantment
-SKILL_20161005_006623	Grants main weapons of nearby allies with [Enchantment] buff. The effect of [Enchantment] is likely to make the targets in a confused state.
-SKILL_20161005_006624	Chance to Confuse #{CaptionRatio}#%{nl}Duration 10 seconds
+SKILL_20161005_006623	Grants the main weapon of nearby allies with the [Enchantment] buff. The effects of [Enchantment] is likely to make the targets in a confused state.
+SKILL_20161005_006624	Chance to Confuse: #{CaptionRatio}#%{nl}Duration: 10 seconds
 SKILL_20161005_006625	Reward
-SKILL_20161005_006626	Grants main weapons and upper armor of nearby allies briefly with [Reward] buff. The effect of [Reward] increases weapon's attack and upper armor's defense.
-SKILL_20161005_006627	Increased Attack #{CaptionRatio}#{nl}Increased Defense #{CaptionRatio2}#{nl}Duration 10 seconds
+SKILL_20161005_006626	Grants the main weapon and top armor of nearby allies briefly with the [Reward] buff. The effects of [Reward] increases a weapon's attack and top armor's defense.
+SKILL_20161005_006627	Increased Attack: #{CaptionRatio}#{nl}Increased Defense: #{CaptionRatio2}#{nl}Duration: 10 seconds
 SKILL_20161005_006628	Agility
-SKILL_20161005_006629	Grants nearby allies briefly with [Agility] buff. The [Agility] effect increases max stamina and increases evade an enemy attack proportional to the current stamina.
-SKILL_20161005_006630	STA + #{CaptionRatio}#{nl}Dodge Chance +[Current STA] ×#{CaptionRatio2}#% {nl}Duration: #{CaptionTime}# seconds
+SKILL_20161005_006629	Grants nearby allies briefly with the [Agility] buff. The effects of [Agility] increases maximum Stamina and increases the chance to dodge an enemy attack proportional to your current Stamina.
+SKILL_20161005_006630	STA + #{CaptionRatio}#{nl}Dodge Chance: +[Current STA] ×#{CaptionRatio2}#% {nl}Duration: #{CaptionTime}# seconds
 SKILL_20161005_006631	Enchant Armor
-SKILL_20161005_006632	Sets up a shopp grants armor items with enchant options.
+SKILL_20161005_006632	Sets up a shop that grants armor equipment with enchantments.
 SKILL_20161005_006633	The number of available enchantments increases as its skill level does
 SKILL_20161005_006634	Craft Spellbook
 SKILL_20161005_006635	Craft a spellbook containing a selected skill that can be used by anyone.
 SKILL_20161005_006636	The used spellbook disappears after the use
 SKILL_20161005_006637	Enchant Lightning
 SKILL_20161005_006638	Grants lightning property attack to melee and missile attacks of you and your party members for a period of time.
-SKILL_20161005_006639	Lightning Property Attack + #{CaptionRatio}# {nl}Duration: #{CaptionTime}# seconds
+SKILL_20161005_006639	Lightning Property Attack: +#{CaptionRatio}# {nl}Duration: #{CaptionTime}# seconds
 SKILL_20161005_006640	Empowering
 SKILL_20161005_006641	Briefly increases your and your party members' characer levels and max SP. The increased level will not be explicitly shown but when entering instances, it will prove very useful.
-SKILL_20161005_006642	Character Level +#{CaptionRatio}# {nl}Max SP +#{CaptionRatio2}#% {nl}Duration: #{CaptionTime}# seconds
-SKILL_20161005_006643	Temporarily increases companion's Attack, Accuracy, Crit Rate and Attak Speed.
+SKILL_20161005_006642	Character Level: +#{CaptionRatio}# {nl}Maximum SP: +#{CaptionRatio2}#% {nl}Duration: #{CaptionTime}# seconds
+SKILL_20161005_006643	Temporarily increases your Companion's attack, accuracy, crit rate and attack speed.
 SKILL_20161005_006644	Companion Attack: +#{CaptionRatio}#{nl}Companion Accuracy: +#{CaptionRatio}#{nl}Companion Critical Rate: +#{CaptionRatio}#{nl}Companion Attack Speed + #{CaptionRatio2}# seconds {nl}Duration: #{CaptionTime}# seconds{nl}Maximum Level: 5
 SKILL_20161005_006645	Throws a tear gas bomb at the selected area. The affected target gets the darkness status ailement and will be unable to attack.
 SKILL_20161005_006646	While riding, boosts your mobility and shoots the enemies. When Limacon effect is active, a pistol normal attack is possible.
-SKILL_20161005_006647	Duration: #{CaptionTime}# seconds{nl}Additional Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Requires mounting
+SKILL_20161005_006647	Duration: #{CaptionTime}# seconds{nl}Additional Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Able to use while riding
 SKILL_20161005_006648	Evasive Action
 SKILL_20161005_006649	While riding your companion, the skill increases evasion rate and decreases movement speed for a period of time.
-SKILL_20161005_006650	Evasion Rate +#{CaptionRatio}#%{nl}Mveoment Speed -#{CaptionRatio2}#
+SKILL_20161005_006650	Evasion Rate: +#{CaptionRatio}#%{nl}Movement Speed: -#{CaptionRatio2}#
 SKILL_20161005_006651	Marching Fire
 SKILL_20161005_006652	{#DD5500}{ol}[Missile]{/}{/}{nl}March forward while shooting. The enemies in front get attacked.
 SKILL_20161005_006653	Combination
@@ -6657,40 +6657,40 @@ SKILL_20161005_006656	Aiming
 SKILL_20161005_006657	If a target in the active area of the hawk is selected, you can attack outside your range. The range increases with the skill level.
 SKILL_20161005_006658	Pre-Emptive Strike
 SKILL_20161005_006659	The hawk automatically attacks enemies near its master. Counters the enemy that attacked its master with Blistering Thrash and oncoming enemies with hovering. The hawk cannot use the unlearnt skill.
-SKILL_20161005_006660	Duration #{CaptionTime}# minutes
+SKILL_20161005_006660	Duration: #{CaptionTime}# minutes
 SKILL_20161005_006661	Cannon Barrage
 SKILL_20161005_006662	{#DD5500}{ol}[Missile]{/}{/}{nl}Repeatedly fire your cannon at the selected target.
 SKILL_20161005_006663	Throw a smoke grenade at a selected area and blind them. Also, the enemies within its range receive additional damage from cannon attacks and hidden enemies get detected.
 SKILL_20161005_006664	Smoke Grenade Duration: #{CaptionTime}# seconds
 SKILL_20161005_006665	Bazooka
 SKILL_20161005_006666	Crouch down to focus and prepare for cannon fire. Normal attack becomes a cannon attack but cannot attack enemies in close proximity.
-SKILL_20161005_006667	Additional Damage #{CaptionRatio}#%{nl}Range +#{CaptionRatio2}#{nl}
+SKILL_20161005_006667	Additional Damage: #{CaptionRatio}#%{nl}Range: +#{CaptionRatio2}#{nl}
 SKILL_20161005_006668	Volleyfire
 SKILL_20161005_006669	{#DD5500}{ol}[Missile]{/}{/}{nl}Repeatedly fire at one enemy.
 SKILL_20161005_006670	Birdfall
 SKILL_20161005_006671	{#DD5500}{ol}[Missile]{/}{/}{nl}Aim your shot against flying type enemies. The flying target gets additional damage and stunned but the attack is weaker against ground type enemies.
-SKILL_20161005_006672	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Falls down the targets in Hanging Shot or Levitation{nl}Stuns and Deals Additional Damage to Flying Type Enemies
+SKILL_20161005_006672	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Falls down the targets in Hanging Shot or Levitation{nl}Stuns and deals additional damage to Flying-type enemies
 SKILL_20161005_006673	Skarphuggning
 SKILL_20161005_006674	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Aim at the upper part of the enemy and slash. Deals additional damage to a target with reduced defense when attacking with a missile attack.
 SKILL_20161005_006675	Hacka Pelle
 SKILL_20161005_006676	Get into position with warcry. While riding, temporarily increases movement speed.
-SKILL_20161005_006677	Movement Speed +#{CaptionRatio}# {nl}Duration: #{CaptionTime}# seconds{nl}Able to use while riding
+SKILL_20161005_006677	Movement Speed: +#{CaptionRatio}# {nl}Duration: #{CaptionTime}# seconds{nl}Able to use while riding
 SKILL_20161005_006678	Bombardment Orders
 SKILL_20161005_006679	{#DD5500}{ol}[Missile]{/}{/}{nl}Order a bombardment strike upon a selected area. Enemies within its AoE gets continuous damage per each strike.
 SKILL_20161005_006680	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Bombardment Duration: #{CaptionTime}# seconds{nl}Able to use while riding
 SKILL_20161005_006681	Hackapell Charge
 SKILL_20161005_006682	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Order your companion to get into an offensive charging position. Cause damage to the nearby enemies while moving.
-SKILL_20161005_006683	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Duration: #{CaptionTime}# seconds{nl}Useable while riding
+SKILL_20161005_006683	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Duration: #{CaptionTime}# seconds{nl}Able to use while riding
 SKILL_20161005_006684	Leg Shot
 SKILL_20161005_006685	{#DD5500}{ol}[Missile]{/}{/}{nl}Aim at the target's leg and fire your pistol. The target's movement speed gets momentarily reduced.
-SKILL_20161005_006686	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Enemy Movement Speed Decreases for 7 seconds by #{CaptionRatio2}#%{nl}Able to use while riding
+SKILL_20161005_006686	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Reduced enemy's movement speed by #{CaptionRatio2}#% for 7 seconds{nl}Able to use while riding
 SKILL_20161005_006687	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Charge forward and deals damage to enemies coming in contact. Cavalry Charge gets more vulnerable to crits and its crit resistance gets reduced.
 SKILL_20161005_006688	Storm Bolt
 SKILL_20161005_006689	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Push your sword in with great force to attack. The target gets more vulnerable to defense decreasing effect from arrow attacks and has a chance to bleed for 10 seconds.
-SKILL_20161005_006690	Attack: #{SkillAtkAdd}#{nl}Status Ailment Duration: #{CaptionTime}# seconds{nl}Bleed Chance 30%{nl}Able to Use while Riding
+SKILL_20161005_006690	Attack: #{SkillAtkAdd}#{nl}Status Ailment Duration: #{CaptionTime}# seconds{nl}Bleed Chance: 30%{nl}Able to use while riding
 SKILL_20161005_006691	Spread Shot
 SKILL_20161005_006692	{#DD5500}{ol}[Missile]{/}{/}{nl}Fire five arrows at once to attack enemies within range.
-SKILL_20161005_006693	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}No. of Targets #{CaptionRatio2}#
+SKILL_20161005_006693	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Number of Targets: #{CaptionRatio2}#
 SKILL_20161005_006694	Homing Arrow
 SKILL_20161005_006695	{#DD5500}{ol}[Missile]{/}{/}{nl}Aim straight at the enemy and fire multiple arrows.
 SKILL_20161005_006696	Rapid Fire
@@ -6698,7 +6698,7 @@ SKILL_20161005_006697	{#DD5500}{ol}[Missile]{/}{/}{nl}Pull the quiver quickly an
 SKILL_20161005_006698	Triple Arrow
 SKILL_20161005_006699	{#DD5500}{ol}[Missile]{/}{/}{nl}Shoot three exploding arrows. The explosion attacks nearby enemies as well.
 SKILL_20161005_006700	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%
-SKILL_20161005_006701	{#DD5500}{ol}[Missile]{/}{/}{nl}Shoot multiple arrows up in the air and bring the storm of arrows. The targets in its AoE get damage per hit.
+SKILL_20161005_006701	{#DD5500}{ol}[Missile]{/}{/}{nl}Shoot multiple arrows up in the air to bring up a storm of arrows. The targets in its AoE get damage per hit.
 SKILL_20161005_006702	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Arrow Rain Duration: 3 seconds
 SKILL_20161005_006703	Jump Shot
 SKILL_20161005_006704	{#DD5500}{ol}[Missile]{/}{/}{nl}Jump high up in the air and fire arrow forward. Enemies in its trajectory get damage and movement speed reduced.
