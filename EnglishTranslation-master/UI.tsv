@@ -2251,15 +2251,15 @@ UI_20160718_002250	{@st42b}Siauliai{/}
 UI_20160718_002251	{#000000}Score{/}
 UI_20160718_002252	{#000000}%s Points{/}
 UI_20160718_002253	Regional GvG Rankings
-UI_20160811_002254	{@st66b18}※ The item is consumed when you change the name.{/}
+UI_20160811_002254	{@st66b18}※ The item is consumed when you change name.{/}
 UI_20160811_002255	{@st42}Turn on Login Notifications
 UI_20160811_002256	{@white_16_ol}Guild Member{/}
 UI_20160811_002257	{@white_16_ol}Friend{/}
-UI_20160811_002258	{@st66d}{s18}{#FFFF18}[ %s ]{/} {@st66d}{s18}{#FFFFFF}The card's level will{nl}decrease by one stage if you unequip it.{/}
+UI_20160811_002258	{@st66d}{s18}{#FFFF18}[%s]{/}{nl}{@st66d}{s18}{#FFFFFF}Upon equip, one star will be removed{/}
 UI_20160811_002259	{@st66b}Removable Effect{/}
 UI_20160811_002260	None.
 UI_20160811_002261	{@st41b}Unequip{/}
-UI_20160811_002262	{img icon_item_tospoint 24 24}{@st41b}Consume 5TP{nl}Unequip Card without the loss of a Star{/}
+UI_20160811_002262	{img icon_item_tospoint 24 24}{@st41b}Consume 5 TP{nl}Unequip card without the loss of a star{/}
 UI_20160811_002263	{@st41b}Confirm
 UI_20160811_002264	{@st42}My Trades{/}
 UI_20160811_002265	{@st42}Trades{/}
@@ -2289,7 +2289,7 @@ UI_20160811_002288	Transcendence
 UI_20160811_002289	{@st59b}Transcend Item{nl}{@st59s}- Another way to enhance the item's performance other than by the anvil{nl}- Items that can transcend : Weapons, armor and accessories{nl}- Transcendence Success Rate = Used Ingredients / Maximum Required Ingredients{nl}- Increases Transcendence Stage by 1 on success (Maximum of 10 Stages){nl}- Decreases Transcendence Stage by 1 on failure (No Potential loss){nl}- Transcended items cannot be traded{/}
 UI_20160811_002290	{@st42}Stage %s{/}
 UI_20160811_002291	Extract Blessed Gem
-UI_20160811_002292	{@st59b}Extract Blessed Gem{nl}{@st59s}- Extract Blessed Gem from transcended items{nl}- Extraction Requirements : Hammer of Dismantlement{nl}- You will be able to retreive some of the Blessed Gems used for Transcendence even though the item will be destroyed. {nl}- You cannot do this at Transcendence Stage 0.{/}
+UI_20160811_002292	{@st59b}Extract Blessed Gem{nl}{@st59s}- Extract Blessed Gem from transcended items{nl}- Extraction Requirements : Hammer of Dismantlement{nl}- You'll retrieve some of the Blessed Gems used for Transcendence even though the item will be destroyed. {nl}- You cannot do this at Transcendence Stage 0.{/}
 UI_20160811_002293	Extraction Results
 UI_20160811_002294	Extract Item
 UI_20160811_002295	{@st59b}Extract Item{nl}{@st59s}- Remove the transcendental effects from a transcended item{nl}- Extraction Requirements : Spell Rod{/}
@@ -2324,13 +2324,13 @@ UI_20161005_002323	{@st45tw2}Material Weapon{/}
 UI_20161005_002324	{@st43}Enchant Armor{/}
 UI_20161005_002325	{@st66b}Enchant{/}
 UI_20161005_002326	{@st59}Close{/}
-UI_20161005_002327	{img silver 20 20}Price}
+UI_20161005_002327	{img silver 20 20}Price
 UI_20161005_002328	 Store Name
 UI_20161005_002329	{@st66b}Shop{/}
-UI_20161005_002330	{img silver 20 20}Price} 
+UI_20161005_002330	{img silver 20 20}Price
 UI_20161005_002331	{@st41b}Confirm
 UI_20161005_002332	{@st41b}Close
-UI_20161005_002333	{img squaier_buff 24 24}Lasts for 24 hours{/}
+UI_20161005_002333	{img squaier_buff 24 24}24 hours{/}
 UI_20161005_002334	{@st66b}Details
 UI_20161005_002335	{@st66b}War
 UI_20161005_002336	{@st43}Homunculus Info{/}
@@ -2346,10 +2346,10 @@ UI_20161005_002345	Settings{/}
 UI_20161005_002346	{@st59}Close{/}
 UI_20161005_002347	{@st66d}You cannot revert this when the skill is applied.{nl}Do you wish to proceed?{/}
 UI_20161005_002348	It is a spell voucher that{nl}quickly defeats monsters in an instanced dungeon.
-UI_20161005_002349	Instance Clear Voucher
+UI_20161005_002349	Instanced Clear Voucher
 UI_20161005_002350	Warning
 UI_20161005_002351	 The monsters defeated by the pillar of light{nl}shall not be recorded on the Adventure Journal and{nl}items get dropped near the the pillar of light. Please, be aware of possible item loss.{nl}The used voucher disappears instantly and it can only be used in the instanced dungeon of that count.{/}
-UI_20161005_002352	Do you wish to use Instance Clear Voucher?{/}
+UI_20161005_002352	Do you wish to use a Instanced Clear Voucher?{/}
 UI_20161005_002353	{@st59b}Blessed Gems Extraction{nl}{@st59s}- Extract a Blessed Gem from a transcended item{nl}- Extraction Requirements : Hammer of Dismantlement{nl}- You'll retrieve some of the Blessed Gems used for Transcendence even though the item will be destroyed.{nl}  : Current Success Rate / 40% of the amount of Blessed Gems will be returned. {nl}- You cannot use this when your item is in Stage 0 of Transcendence.{/}
 UI_20161005_002354	Mission Failed
 UI_20161005_002355	All players have been incapacitated.
@@ -2372,7 +2372,7 @@ UI_20161005_002371	Before{/}
 UI_20161005_002372	After{/}
 UI_20161005_002373	{@st66d}Change Gender{/}
 UI_20161005_002374	Warning{/}
-UI_20161005_002375	Remove your equipped gear before you proceed{nl}The class costume will be changed along with your gender{/}
+UI_20161005_002375	Remove all equipped gear before you proceed{nl}The class costume will be changed along with your gender{/}
 UI_20161005_002376	{@st67}All the premium items that were gender specific will no longer be equippable{/}
 UI_20161005_002377	Stat
 UI_20161005_002378	{@st66d}{s30}The webpage reached its end. {nl} Please, press Close.{/}
@@ -2384,7 +2384,7 @@ UI_20161005_002383	{@st66d_y}%s{/}
 UI_20161005_002384	Selected Option:{nl}%s
 UI_20161005_002385	Guild Attributes & Info
 UI_20161005_002386	{@st66b}Save
-UI_20161005_002387	{@st42}One Line Message Board - Can Post Up to 3 Times A Day.{/}
+UI_20161005_002387	{@st42}One Line Message Board - Post Up to 3 Times A Day.{/}
 UI_20161005_002388	{@st42}Records
 UI_20161005_002389	GvG Ranks
 UI_20161005_002390	{@st66e}Forge (%s/%s){/}
