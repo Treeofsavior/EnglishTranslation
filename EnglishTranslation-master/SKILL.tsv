@@ -6539,7 +6539,7 @@ SKILL_20161005_006538	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Leaps forward 
 SKILL_20161005_006539	Scutum Hit
 SKILL_20161005_006540	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Swings the shield to attack enemies in front.
 SKILL_20161005_006541	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Pierces the lance into the enemies in front and incapacitate their movements. The skill decreases both movement speed and attack speed of the boss monster.
-SKILL_20161005_006542	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Enemy {#339999}{ol}[Trap]{/}{/} Duration: #{CaptionRatio2}#seconds{nl}Boss Monster Status Ailment Duration: #{CaptionTime}# seconds
+SKILL_20161005_006542	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Enemy {#339999}{ol}[Trap]{/}{/} Duration: #{CaptionRatio2}# seconds{nl}Boss Monster Status Ailment Duration: #{CaptionTime}# seconds
 SKILL_20161005_006543	Dragon Dive
 SKILL_20161005_006544	Mortal Slash
 SKILL_20161005_006545	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Swings the sword left and right in front and slashes upwards.
@@ -6557,7 +6557,7 @@ SKILL_20161005_006556	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Lunges the spe
 SKILL_20161005_006557	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Duration: 10 seconds
 SKILL_20161005_006558	Head Strike
 SKILL_20161005_006559	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Aim for the head and deals an attack with high crit chance.
-SKILL_20161005_006560	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Additional Crit Chance: CaptionRatio2}#%
+SKILL_20161005_006560	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Additional Crit Chance: {CaptionRatio2}#%
 SKILL_20161005_006561	Joust
 SKILL_20161005_006562	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Charges forward to lunge the spear at the enemy and destroy magic circles. The target's INT and SPR stats get reduced and cleric and wizard types will be silenced and normal attacks and skills cannot be used.
 SKILL_20161005_006563	Unhorsing
