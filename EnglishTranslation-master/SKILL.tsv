@@ -6422,7 +6422,7 @@ SKILL_20160718_006421	Lv6 Rim Blow required
 SKILL_20160718_006422	Peltasta 3rd Circle required
 SKILL_20160723_006423	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use your shield and sword to attack multiple times.
 SKILL_20160723_006424	Duration: #{CaptionRatio}# seconds{nl}Summons #{CaptionRatio2}# Shadow Clones{nl}Damage Increase: #{CaptionTime}#%
-SKILL_20160723_006425	Property Resistance: +#{CaptionRatio}#{nl}Nullification Chance: #{CaptionRatio2}#%{nl}Enemy's Magic Defense: -#{SkillFactor}#{nl}Duration: #{CaptionTime}# seconds
+SKILL_20160723_006425	Property Resistance: +#{CaptionRatio}#{nl}Property Damage: -#{SkillSR}#%{nl}Nullification Chance: #{CaptionRatio2}#%{nl}Enemy's Magic Defense: -#{SkillFactor}#{nl}Duration: #{CaptionTime}# seconds
 SKILL_20160723_006426	You have been reincarnated.
 SKILL_20160723_006427	Increased defense effects
 SKILL_20160723_006428	Increased physical and magic defense, maximum HP.
