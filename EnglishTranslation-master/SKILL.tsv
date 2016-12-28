@@ -6377,7 +6377,7 @@ SKILL_20160718_006376	Kneel down to improve your concentration. Increases your a
 SKILL_20160718_006377	{#DD5500}{ol}[Physical]{/}{/}{nl}Your companion holds on to a target. Decreases a target's physical defense and attacks against the target will have an increased critical chance. Also, deals continuous damage to the target.
 SKILL_20160718_006378	{#DD5500}{ol}[Physical]{/}{/}{nl}Order your companion to drag a target towards you. The target becomes unable to attack and suffers continuous damage.
 SKILL_20160718_006379	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Command your hawk to divebomb enemies multiple times in the targeted area. The target is likely to be afflicted with [Blind].
-SKILL_20160718_006380	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionTime}#%{nl}Recovers HP equal to 5% of your maximum HP{nl}Additional HP Recovery Rate: #{CaptionRatio}# ~ #{CaptionRatio2}#{nl}Magic Circle Duration: #{CaptionTime}# seconds
+SKILL_20160718_006380	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{KDownPower}#%{nl}Recovers HP equal to 5% of your maximum HP{nl}Additional HP Recovery Rate: #{CaptionRatio}# ~ #{CaptionRatio2}#{nl}Magic Circle Duration: #{CaptionTime}# seconds
 SKILL_20160718_006381	Creates a magic circle of the Guardian Saint. The target takes damage of the magic circle instead of the caster. Also, it increases your SP and Stamina recovery.
 SKILL_20160718_006382	Summons a holy torch, improving the HP recovery of nearby allies. Reduces the accuracy of nearby enemies. Also, when you are nearby the torch, the duration of harmful effects will reduce.
 SKILL_20160718_006383	Additional Damage: +#{CaptionRatio}#{nl}Number of Hits: #{CaptionRatio2}#{nl}Allies Affected: #{CaptionTime}#{nl}Duration: 60 seconds{nl}Consumes 1 Holy Powder
@@ -6422,7 +6422,7 @@ SKILL_20160718_006421	Lv6 Rim Blow required
 SKILL_20160718_006422	Peltasta 3rd Circle required
 SKILL_20160723_006423	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use your shield and sword to attack multiple times.
 SKILL_20160723_006424	Duration: #{CaptionRatio}# seconds{nl}Summons #{CaptionRatio2}# Shadow Clones{nl}Damage Increase: #{CaptionTime}#%
-SKILL_20160723_006425	Property Resistance: +#{CaptionRatio}#{nl}Nullification Chance: #{CaptionRatio2}#%{nl}Enemy's Magic Defense: -#{SkillFactor}#{nl}Duration: #{CaptionTime}# seconds
+SKILL_20160723_006425	Property Resistance: +#{CaptionRatio}#{nl}Property Damage: -#{SkillSR}#%{nl}Nullification Chance: #{CaptionRatio2}#%{nl}Enemy's Magic Defense: -#{SkillFactor}#{nl}Duration: #{CaptionTime}# seconds
 SKILL_20160723_006426	You have been reincarnated.
 SKILL_20160723_006427	Increased defense effects
 SKILL_20160723_006428	Increased physical and magic defense, maximum HP.
