@@ -3631,7 +3631,7 @@ SKILL_20150414_003630	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Throw spear to
 SKILL_20150414_003631	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use your shield and dash to push enemies away. Enemies nearby will fall down when hit with the shield.
 SKILL_20150414_003632	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Attack with a powerful slash on the lower half of an enemy with a chance to paralyze.
 SKILL_20150414_003633	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use your shield to inflict damage on an enemy with a powerful smash. Has a chance to afflict [Blind] on the enemy.
-SKILL_20150414_003634	Attack: #{SkillAtkAdd}#{nl}Defense: -#{CaptionRatio}#{nl}{#339999}{ol}[Unbalance]{/}{/} Duration: 5 seconds
+SKILL_20150414_003634	Attack: #{SkillAtkAdd}#{nl}Defense: -#{CaptionRatio}# {nl}{#339999}{ol}[Unbalance]{/}{/} Duration: 5 seconds
 SKILL_20150414_003635	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Hold down the key to crouch and move forward. Increases evasion against enemy attacks and triggers an attack immediately after movement has ended.
 SKILL_20150414_003636	{#DD5500}{ol}[Physical] - [Pierce] - [Strike]{/}{/}{nl}Use sword and shield to attack continuously.
 SKILL_20150414_003637	{#DD5500}{ol}[Pierce]{/}{/}{nl}Impales a small or medium-type monster with a spear. It is possible to attack other enemies with a skewered enemy.
@@ -5361,7 +5361,7 @@ SKILL_20151022_005360	Zucken
 SKILL_20151022_005361	Attaque Composee
 SKILL_20151022_005362	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}Stab an enemy in front of you.
 SKILL_20151022_005363	Lunge
-SKILL_20151022_005364	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}Lower your stance and reach out to attack an enemy. Your evasion rate increases and the enemy becomes more vulnerable to [Slash]-ty[e] attacks.
+SKILL_20151022_005364	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}Lower your stance and reach out to attack an enemy. Your evasion rate increases and the enemy becomes more vulnerable to [Slash]-type attacks.
 SKILL_20151022_005365	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Evasion Rate: +#{CaptionRatio2}#%{nl}Duration: #{CaptionTime}# seconds
 SKILL_20151022_005366	Sept Etoiles
 SKILL_20151022_005367	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}Stab an enemy with successive strikes.
@@ -6377,7 +6377,7 @@ SKILL_20160718_006376	Kneel down to improve your concentration. Increases your a
 SKILL_20160718_006377	{#DD5500}{ol}[Physical]{/}{/}{nl}Your companion holds on to a target. Decreases a target's physical defense and attacks against the target will have an increased critical chance. Also, deals continuous damage to the target.
 SKILL_20160718_006378	{#DD5500}{ol}[Physical]{/}{/}{nl}Order your companion to drag a target towards you. The target becomes unable to attack and suffers continuous damage.
 SKILL_20160718_006379	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Command your hawk to divebomb enemies multiple times in the targeted area. The target is likely to be afflicted with [Blind].
-SKILL_20160718_006380	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionTime}#%{nl}Recovers HP equal to 5% of your maximum HP{nl}Additional HP Recovery Rate: #{CaptionRatio}# ~ #{CaptionRatio2}#{nl}Magic Circle Duration: #{CaptionTime}# seconds
+SKILL_20160718_006380	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{KDownPower}#%{nl}Recovers HP equal to 5% of your maximum HP{nl}Additional HP Recovery Rate: #{CaptionRatio}# ~ #{CaptionRatio2}#{nl}Magic Circle Duration: #{CaptionTime}# seconds
 SKILL_20160718_006381	Creates a magic circle of the Guardian Saint. The target takes damage of the magic circle instead of the caster. Also, it increases your SP and Stamina recovery.
 SKILL_20160718_006382	Summons a holy torch, improving the HP recovery of nearby allies. Reduces the accuracy of nearby enemies. Also, when you are nearby the torch, the duration of harmful effects will reduce.
 SKILL_20160718_006383	Additional Damage: +#{CaptionRatio}#{nl}Number of Hits: #{CaptionRatio2}#{nl}Allies Affected: #{CaptionTime}#{nl}Duration: 60 seconds{nl}Consumes 1 Holy Powder
@@ -6422,7 +6422,7 @@ SKILL_20160718_006421	Lv6 Rim Blow required
 SKILL_20160718_006422	Peltasta 3rd Circle required
 SKILL_20160723_006423	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use your shield and sword to attack multiple times.
 SKILL_20160723_006424	Duration: #{CaptionRatio}# seconds{nl}Summons #{CaptionRatio2}# Shadow Clones{nl}Damage Increase: #{CaptionTime}#%
-SKILL_20160723_006425	Property Resistance: +#{CaptionRatio}#{nl}Nullification Chance: #{CaptionRatio2}#%{nl}Enemy's Magic Defense: -#{SkillFactor}#{nl}Duration: #{CaptionTime}# seconds
+SKILL_20160723_006425	Property Resistance: +#{CaptionRatio}#{nl}Property Damage: -#{SkillSR}#%{nl}Nullification Chance: #{CaptionRatio2}#%{nl}Enemy's Magic Defense: -#{SkillFactor}#{nl}Duration: #{CaptionTime}# seconds
 SKILL_20160723_006426	You have been reincarnated.
 SKILL_20160723_006427	Increased defense effects
 SKILL_20160723_006428	Increased physical and magic defense, maximum HP.
@@ -6557,7 +6557,7 @@ SKILL_20161005_006556	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Lunges the spe
 SKILL_20161005_006557	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Duration: 10 seconds
 SKILL_20161005_006558	Head Strike
 SKILL_20161005_006559	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Aim for the head and deals an attack with high crit chance.
-SKILL_20161005_006560	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Additional Crit Chance: {CaptionRatio2}#%
+SKILL_20161005_006560	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Additional Critical Chance: CaptionRatio2}#%
 SKILL_20161005_006561	Joust
 SKILL_20161005_006562	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Charges forward to lunge the spear at the enemy and destroy magic circles. The target's INT and SPR stats get reduced and cleric and wizard types will be silenced and normal attacks and skills cannot be used.
 SKILL_20161005_006563	Unhorsing
@@ -6822,7 +6822,7 @@ SKILL_20161005_006821	Bayonet Thrust: Reduced Recovery
 SKILL_20161005_006822	Reduced HP and SP recovery.
 SKILL_20161005_006823	Running Shot applied.
 SKILL_20161005_006824	Limacon applied.
-SKILL_20161005_006825	Equip Cassis Crista to use Murmillo skills.{nl}Increases the chance to block [Missile]-type attacks or nullify magic attacks.{nl}However, reduces movement speed and evasion rate for [Melee]-type attacks.{nl}Depending on acquired attributes, increases Peltasta and Rodelero skills.
+SKILL_20161005_006825	Equip the Cassis Crista to use Murmillo skills.{nl}Increases the chance to block [Missile]-type attacks or nullify magic attacks.{nl}However, reduces movement speed and evasion rate for [Melee]-type attacks.{nl}Depending on acquired attributes, increases Peltasta and Rodelero skills.
 SKILL_20161005_006826	Foretell: Attack Immunity
 SKILL_20161005_006827	Gains a chance to be immune to all attacks.
 SKILL_20161005_006828	Magic Attack Immunity
@@ -6852,7 +6852,7 @@ SKILL_20161005_006851	Instanced Clear Voucher Barrier
 SKILL_20161005_006852	Immune to all damage.
 SKILL_20161005_006853	[One-handed Sword] type Weapon can be equipped on the right hand (sub weapon).
 SKILL_20161005_006854	One-handed Spear Mastery: Medium-sized Hunter
-SKILL_20161005_006855	When equipped with [One-handed Spear], battling a medium-sized enemy increases your skill damage by 4% per attribute level.
+SKILL_20161005_006855	When equipped with [One-handed Spear], battling a medium sized enemy increases your skill damage by 4% per attribute level.
 SKILL_20161005_006856	Zwerchhau: Enhance
 SKILL_20161005_006857	Increases the damage dealt on an enemy with [Zwerchhau] by 1% per attribute level.
 SKILL_20161005_006858	Sturtzhau: Enhance
@@ -6862,7 +6862,7 @@ SKILL_20161005_006861	Increases the attack count of [Zucken], raising the total 
 SKILL_20161005_006862	Redel: Multi Cuts
 SKILL_20161005_006863	Increases the attack count of [Redel], raising the total amount of damage by 180%.
 SKILL_20161005_006864	Zornhau: Deep Cut
-SKILL_20161005_006865	[Zornhau]'s attack strikes the enemy multiple times. The number of hits increases by 1 per attribute level.
+SKILL_20161005_006865	[Zornhau]'s attack strikes the enemy multiple times. Increases the number of hits by 1 per attribute level.
 SKILL_20161005_006866	Punish: Earthquake
 SKILL_20161005_006867	When [Punish] is successful, deals damage to nearby enemies as well.
 SKILL_20161005_006868	Balestra Fente: Enhance
@@ -6876,7 +6876,7 @@ SKILL_20161005_006875	Increases the damage dealt on an enemy with [Dethrone] by 
 SKILL_20161005_006876	Serpentine: Additional Damage
 SKILL_20161005_006877	Enemies affected by [Serpentine] become vulnerable to physical melee attacks for 10 seconds and attacks gain 100% additional damage.
 SKILL_20161005_006878	Dragon Dive: Enhance
-SKILL_20161005_006879	Increases the damage dealt on an enemy with [Dragon Dive] by 1% per attribute level.
+SKILL_20161005_006879	Increases the damage dealt on an enemy with [Dragon Dive] by 1% per attribute level
 SKILL_20161005_006880	Murmillo: Enhanced Manica
 SKILL_20161005_006881	Reduces damage received by enemies to a 25% chance by 10 per attribute level.
 SKILL_20161005_006882	Frenzied Slash: Enhance
@@ -6892,7 +6892,7 @@ SKILL_20161005_006891	Increases the damage dealt on an enemy with [Takedown] by 
 SKILL_20161005_006892	Frenzied Shoot: Enhance
 SKILL_20161005_006893	Increases the damage dealt on an enemy with [Frenzied Shoot] by 1% per attribute level.
 SKILL_20161005_006894	Enhanced Peltasta Shield Attack
-SKILL_20161005_006895	While equipped with Cassis Crista, increases the skill attack damage for Peltastas' Rim Blow, Umbo Blow, Shield Lob Umbo Thrust by 40% per attribute level.
+SKILL_20161005_006895	While equipped with the Cassis Crista, increases the skill attack damage for Peltastas' Rim Blow, Umbo Blow, Shield Lob Umbo Thrust by 40% per attribute level.
 SKILL_20161005_006896	Scutum Hit: Enhance
 SKILL_20161005_006897	Increases the damage dealt on an enemy with [Scutum Hit] by 1% per attribute level.
 SKILL_20161005_006898	Headbutt: Additional Damage
@@ -6900,11 +6900,11 @@ SKILL_20161005_006899	[Headbutt] makes the enemy vulnerable to [Strike]-type att
 SKILL_20161005_006900	Scutum Hit: Stun
 SKILL_20161005_006901	[Scutum Hit] has 3% chance of stunning an attacked target for 2 seconds. Increases the chance by 3% per attribute level.
 SKILL_20161005_006902	Enhanced Rodelero Shield Attack
-SKILL_20161005_006903	While equipped with Cassis Crista, increases Rodelero's skill damage for Shield Charge, Targe Smash, Shield Push, Shield Shove and Shield Bash by 20% per attribute level.
+SKILL_20161005_006903	While equipped with the Cassis Crista, increases Rodelero's skill damage for Shield Charge, Targe Smash, Shield Push, Shield Shove and Shield Bash by 20% per attribute level.
 SKILL_20161005_006904	Repeated Hits Attack Boost
-SKILL_20161005_006905	While equipped with Cassis Crista, increases skill attack damage for Peltasta's Butterfly and Rodelero's Shooting Star increases by 15% per attribute level.
+SKILL_20161005_006905	While equipped with the Cassis Crista, increases skill attack damage for Peltasta's Butterfly and Rodelero's Shooting Star increases by 15% per attribute level.
 SKILL_20161005_006906	Enhanced Hoplite Shield Attack
-SKILL_20161005_006907	While equipped with Cassis Crista, increases skill attack damage for Hoplite's Synchro Thrusting increases by 28% per attribute level.
+SKILL_20161005_006907	While equipped with the Cassis Crista, increases skill attack damage for Hoplite's Synchro Thrusting increases by 28% per attribute level.
 SKILL_20161005_006908	Lancer: Knockdown Chance
 SKILL_20161005_006909	Normal attack knocks down the enemy with 1% chance per attribute level.
 SKILL_20161005_006910	Crush: Enhance
@@ -6914,7 +6914,7 @@ SKILL_20161005_006913	[Crush] reduces enemy's physical attack and physical defen
 SKILL_20161005_006914	Head Strike: Enhance
 SKILL_20161005_006915	Increases the damage dealt on an enemy with [Head Strike] by 1% per attribute level.
 SKILL_20161005_006916	Head Strike: Stun
-SKILL_20161005_006917	[Head Strike] has 10% chance per attribute level to stun an enemy.
+SKILL_20161005_006917	[Head Strike] has a 10% chance per attribute level to stun an enemy.
 SKILL_20161005_006918	Joust: Enhance
 SKILL_20161005_006919	Increases the damage dealt on an enemy with [Joust] by 1% per attribute level.
 SKILL_20161005_006920	Unhorsing: Enhance
@@ -6962,7 +6962,7 @@ SKILL_20161005_006961	When using [Blood Curse], HP consumption rises to 80% whil
 SKILL_20161005_006962	Bone Pointing: Repeated Hits
 SKILL_20161005_006963	[Bone Pointing] attack applies at repeated hits.
 SKILL_20161005_006964	Kurdaitcha: Increased Movement Speed
-SKILL_20161005_006965	Increases movement speed during [Kurdaitcha] to match the normal walking speed
+SKILL_20161005_006965	Increases movement speed during [Kurdaitcha] to match the normal walking speed.
 SKILL_20161005_006966	Craft Inchant Round
 SKILL_20161005_006967	While in Rest Mode, you can craft Enchant Rounds using Magic Powder.
 SKILL_20161005_006968	Magic Powder: Enhance
@@ -7092,7 +7092,7 @@ SKILL_20161005_007091	Reduce Level: Additional Reduction
 SKILL_20161005_007092	Reduces the additional level of [Reduce Level] by 1 per attribute level.
 SKILL_20161005_007093	Merkabah: Enhanced Durability
 SKILL_20161005_007094	Increases the durability of the wheel from [Merkabah] which only receives 1 damage for any attacks. The wheel can withstand 5 times of damage per attribute level.
-SKILL_20161005_007095	Increases an ally's magic defense when nearby the wheel of [Merkabah] by 10 per attribute level.
+SKILL_20161005_007095	Increases an ally's magic defense when nearby the wheel of [Merkabah] by 10 per attribute level
 SKILL_20161005_007096	Inquisitor: Burn
 SKILL_20161005_007097	Upon defeating an enemy, there is 1% chance per attribute level that flame erupts from the fallen enemy attribute level. The flame lasts for 10 seconds.
 SKILL_20161005_007098	Iron Maiden: Enhance
@@ -7170,3 +7170,145 @@ SKILL_20161005_007169	Plague Doctor 2nd Circle Required
 SKILL_20161005_007170	Sage 1st Circle Required
 SKILL_20161005_007171	Schwarzer Reiter 3rd Circle Required
 SKILL_20161005_007172	Warlock 2nd Circle Required
+SKILL_20161010_007173	Deals constant Holy property damage.
+SKILL_20161010_007174	Applies beneficial effects to allies.
+SKILL_20161010_007175	Adds +1 skill level for installment skills
+SKILL_20161010_007176	Server EXP Bonus
+SKILL_20161010_007177	EXP Event Bonus
+SKILL_20161010_007178	N/A
+SKILL_20161010_007179	Party EXP Bonus
+SKILL_20161010_007180	Party EXP Bonus{nl}Grants additional EXP when 3 or more party members are logged in.{nl}EXP gain bonus increases when 4 or more players are logged in nearby the party.{nl}EXP gain bonus increases when players logged in nearby the party include 3 or more characters of the same job. 
+SKILL_20161024_007181	The sweet and salty taste of a pumpkin candy is spreading in your mouth.
+SKILL_20161112_007182	Attack: 300% + #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}AoE Attack Ratio: #{CaptionRatio}#{nl}Consumes #{SpendItemCount}# Claymore
+SKILL_20161112_007183	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Casting Time: 3 seconds{nl}Duration: #{CaptionRatio2}# seconds{nl}Consumes #{SpendItemCount}# Pine Wood
+SKILL_20161112_007184	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Trap Duration: 15 seconds{nl}Consumes #{SpendItemCount}# Ash Wood
+SKILL_20161112_007185	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionTime}#%{nl}Arrow Count: #{CaptionRatio}#{nl}Set up Range: #{CaptionRatio2}#{nl}Consumes #{SpendItemCount}# Wires
+SKILL_20161112_007186	Red Seed
+SKILL_20161112_007187	EXP gained from monster hunting +25%{nl}Movement speed +2
+SKILL_20161112_007188	Punji Stake: Efficiency Boost
+SKILL_20161112_007189	Reduces the amount of Pine Wood consumed when using [Punji Stake] from 3 to 2.
+SKILL_20161112_007190	Claymore: Firepower Boost
+SKILL_20161112_007191	Increases the skill damage of [Claymore] by 2.5 times, but consumes 2 Claymore.
+SKILL_20161112_007192	Broom Trap: Firepower Boost
+SKILL_20161112_007193	Increases the skill damage of [Broom Trap] by 1.5 times, but consumes 4 Ash Wood.
+SKILL_20161112_007194	Spike Shooter: Firepower Boost
+SKILL_20161112_007195	Increases the skill damage of [Spike Shooter] by 2.5 times, but consumes 3 Wires.
+SKILL_20161112_007196	Punji Stake: Implacable
+SKILL_20161112_007197	[Punji Stake] is not cancelled when being cast even after being attacked by an enemy.
+SKILL_20161112_007198	Pheasant: Stun
+SKILL_20161112_007199	Enemies affected by [Pheasant] have a 10% chance per attribute level of being stunned.
+SKILL_20161112_007200	Pre-Emptive Strike: Remove Hovering
+SKILL_20161112_007201	The hawk will not use [Hovering] when [Pre-Emptive Strike] is being used.
+SKILL_20161112_007202	Pre-Emptive Strike: Remove Sonic Strike
+SKILL_20161112_007203	The hawk will not use [Sonic Strike] when [Pre-Emptive Strike] is being used.
+SKILL_20161214_007204	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Gather up power and use your weapon to attack targets by smashing it to the ground.
+SKILL_20161214_007205	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Casting Time: #{CaptionTime}# seconds{nl}AoE Attack Ratio: #{SkillSR}#
+SKILL_20161214_007206	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Inflict damage on enemies by swinging your sword around to create continuous attacks.
+SKILL_20161214_007207	Attack: 200% + #{SkillAtkAdd}#{nl}Attribute Damage:  #{CaptionRatio}#%{nl}AoE Attack Ratio #{SkillSR}#{nl}Able to use while riding
+SKILL_20161214_007208	Attack: 150% + #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}AoE Attack Ratio: #{SkillSR}#{nl}Able to use while riding
+SKILL_20161214_007209	Attack: 300% + #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}AoE Attack Ratio: #{SkillSR}#{nl}Able to use while riding
+SKILL_20161214_007210	Attack: 150% + #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Maximum Duration: 10 seconds{nl}AoE Attack Ratio: 5{nl}Able to use while riding
+SKILL_20161214_007211	Maximum Duration: #{CaptionRatio}# seconds{nl}Consumes 5% SP per second
+SKILL_20161214_007212	Attack: #{SkillAtkAdd}#{nl}Ice Wall Count: #{CaptionRatio}#{nl}{#339999}{ol}[Freeze]{/}{/} Duration: 5 seconds{nl}Ice Wall Duration: 15 seconds
+SKILL_20161214_007213	{#993399}{ol}[Magic] - [Psychokinesis]{/}{/}{nl}Concentrate on the the tip of your hand to inflict continuous damage with psychokinesis.
+SKILL_20161214_007214	{#993399}{ol}[Magic] - [Psychokinesis]{/}{/}{nl}Creates a gravity field in front of you in a line that pulls nearby enemies into it.
+SKILL_20161214_007215	Enlarge the size of you and your party member's hand to increase attack. The effect depends on the caster's INT.
+SKILL_20161214_007216	Temporarily enlarge you and your party member's offhand, increasing attack and defense if it is equipped with a shield or dagger.
+SKILL_20161214_007217	{#993399}{ol}[Magic] - [Psychokinesis]{/}{/}{nl}Concentrate magic energfy and fire it at the enemies.
+SKILL_20161214_007218	{#993399}{ol}[Magic] - [Poison]{/}{/}{nl}Stab the enemy with a bone knife. If the enemy is a Beast, Devil or Insect-type, blood will spew out that recovers some of your HP. 
+SKILL_20161214_007219	{#993399}{ol}[Magic] - [Poison]{/}{/}{nl}Attack and absorb the life force from a Beast, Devil or Insect-type enemy while recovering your HP at the same time.
+SKILL_20161214_007220	{#993399}{ol}[Magic] - [Poison]{/}{/}{nl}Summon a carved, pointed bone called a 'Kundela'. The Kundela points towards enemies in range, attacking them with bone shards and cursing them.
+SKILL_20161214_007221	{#993399}{ol}[Magic] - [Poison]{/}{/}{nl}Stabs an enemy with a cursed knife carved from a bone. An enemy stabbed by this bone fragment will be afflicted with [Decay]. Enemies affected by Decay receive additional damage from Missile attacks.
+SKILL_20161214_007222	{#993399}{ol}[Magic] - [Poison]{/}{/}{nl}Use Kundela to attack enemies. The cursed enemies receive additional damage.
+SKILL_20161214_007223	{#993399}{ol}[Magic] - [Poison]{/}{/}{nl}Comsumes one's own HP and deals proportional damage to nearby enemies and grants [Blood Curse] ailment status. Enemies under the [Blood Curse] state will not recover its SP and when attacked heals the attacker's HP.  Using this skill without sufficient HP will incapacitate you.
+SKILL_20161214_007224	Attack: 300% + #{CaptionRatio3}#{nl}Attribute Damage: #{CaptionRatio2}#%{nl}AoE Attack Ratio: #{CaptionRatio}#{nl}Consumes #{SpendItemCount}# Claymore
+SKILL_20161214_007225	Attack: #{CaptionRatio2}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Trap Duration 15 seconds{nl}Consumes #{SpendItemCount}# Ash Wood
+SKILL_20161214_007226	Attack: #{CaptionRatio3}#{nl}Attribute Damage: #{CaptionTime}#%{nl}Arrow Count: #{CaptionRatio}#{nl}Install Range: #{CaptionRatio2}#{nl}Consumes #{SpendItemCount}# Wire
+SKILL_20161214_007227	Guardian Saint Duration #{CaptionTime}# seconds{nl}Charges: #{CaptionRatio}#
+SKILL_20161214_007228	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio2}#%{nl}Additional Damage to Plant-type Monsters: +#{CaptionRatio}#{nl}Statue Materials Drop Rate: #{CaptionTime}#%{nl}AoE Attack Ratio 1
+SKILL_20161214_007229	{#993399}{ol}[Magic] - [Psychokinesis]{/}{/}{nl}Inflict damage on nearby enemies by separating your soul from your body to cause an explosion.
+SKILL_20161214_007230	{#993399}{ol}[Magic] - [Psychokinesis]{/}{/}{nl}}Bind enemy to stop its movement and inflict damage.
+SKILL_20161214_007231	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Targets: #{CaptionRatio2}#{nl}Maximum Duration: 10 seconds
+SKILL_20161214_007232	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Strike down enemies with a powerful attack. Deals triple damage to Mutant and Devil-type enemies.
+SKILL_20161214_007233	Deal a fixed amount damage to the selected target based on its max HP. But the target continuously recovers its HP and the total amount it will recover matches the double amount lost by this attack. The skill does not apply to the field boss monster.
+SKILL_20161214_007234	{#993399}{ol}[Magic] - [Holy]{/}{/}{nl}Swings a gohei made of a wooden stick and white paper. Removes harmful effects on allies and beneficial effects on enemies in front.
+SKILL_20161214_007235	Sweeps the floor with the purified and divine broom. The sweepred area increases the skill level of an installation on it for a period of time.
+SKILL_20161214_007236	Max. Sweeping Duration: #{CaptionTime}# seconds{nl}Magic Circle Duration: #{CaptionRatio}# seconds
+SKILL_20161214_007237	{#993399}{ol}[Magic] - [Holy]{/}{/}{nl}Throws an arrow in front to cause a great amount of damage to  Devil-type enemies and cause Holy property damage to the enemies nearby the place of impact.
+SKILL_20161214_007238	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Max. No. of Target  10{nl}Basic Duration: #{CaptionRatio2}# seconds
+SKILL_20161214_007239	Clap your hands twice. Increase duration for some of magic circles and installations nearby.
+SKILL_20161214_007240	Dance to boost allies' spirits up. When melee attacks on the enemies affected by the particular skill receive additional Holy property damage. Activates while pressing the skill button.
+SKILL_20161214_007241	Maximum Duration: #{CaptionTime}#seconds{nl}Consumes #{CaptionRatio}#% SP per second{nl}Additional Holy property Damage: #{CaptionRatio2}#%
+SKILL_20161214_007242	Increase missile attacks.
+SKILL_20161214_007243	Receives additional Holy property damage from melee attacks.
+SKILL_20161214_007244	Wild Nature
+SKILL_20161214_007245	Running increases Barbarian Skill Damage.
+SKILL_20161214_007246	Mounted demon becomes stronger.
+SKILL_20161214_007247	Increases Holy and Dark property attacks equal to 8% magic defense for 10 seconds when stacked 100 times.
+SKILL_20161214_007248	Solmiki Plate Set
+SKILL_20161214_007249	Able to activate the special effect of Solmiki plate set
+SKILL_20161214_007250	Solmiki Plate Set Effect
+SKILL_20161214_007251	Partially heals HP for 5 seconds
+SKILL_20161214_007252	Lucky Taffy
+SKILL_20161214_007253	EXP gained increases!
+SKILL_20161214_007254	Vitamin Pill
+SKILL_20161214_007255	It will make you healthy.
+SKILL_20161214_007256	Valentine Chocolate
+SKILL_20161214_007257	You feel sweet, sweet love.
+SKILL_20161214_007258	Pain Barrier: Duration
+SKILL_20161214_007259	Increases [Pain Barrier] duration for 5 seconds.
+SKILL_20161214_007260	Cartar Stroke: Quick Charging
+SKILL_20161214_007261	Decreases the charging time of [Cartar Stroke] by half.
+SKILL_20161214_007262	Activates Wild Nature buff for barbarian skills while dashing.
+SKILL_20161214_007263	Deadly Combo: Enhance
+SKILL_20161214_007264	Increases the damage dealt on an enemy with [Deadly Combo] by 1% per attribute level. 
+SKILL_20161214_007265	Mortal Slash: Enhance
+SKILL_20161214_007266	Increases the damage dealt on an enemy with [Mortal Slash] by 1% per attribute level.
+SKILL_20161214_007267	Ice Wall: Duration
+SKILL_20161214_007268	Increases the duration of [Ice Wall] by 10 second
+SKILL_20161214_007269	When Dirty Pole receives a melee attack, its fragments spread to attack enemies and the targets gain [Corruption] status ailment for 10 seconds.
+SKILL_20161214_007270	When Corpse Tower defeats a monster a Skeleton Soldier will be summoned.
+SKILL_20161214_007271	Item Awakening: Quick and Prompt Decision
+SKILL_20161214_007272	The number of monsters appearing in [Item Awakening] dugeon.
+SKILL_20161214_007273	Increases the skill damage of [Claymore] by 2.5 times, but consumes 2 Claymore.
+SKILL_20161214_007274	Increases the skill damage of [Broom Trap] by 1.5 times, but consumes 4 Ash Wood.
+SKILL_20161214_007275	Increases the skill damage of [Spike Shooter] by 2.5 times, but consumes 3 Wires.
+SKILL_20161214_007276	Train: Ground Companion
+SKILL_20161214_007277	Increases skill damage of [Coursing], [Snatching], [Retrieve] by 1% of Companion Attack per attribute level.
+SKILL_20161214_007278	Train: Flying Companion
+SKILL_20161214_007279	Increases skill damage of [Hovering], [Sonic Strike], [Pheasant] by 1% of Companion Attack per attribute level.
+SKILL_20161214_007280	Guardian Saint: Change Target
+SKILL_20161214_007281	[Guardian Saint] selects you as the recipient of damage.
+SKILL_20161214_007282	Transmit Prana: STR
+SKILL_20161214_007283	[Transmit Prana] also transmits STR ability.
+SKILL_20161214_007284	Transmit Prana: CON
+SKILL_20161214_007285	[Transmit Prana] also transmits CON ability.
+SKILL_20161214_007286	Transmit Prana: SPR
+SKILL_20161214_007287	[Transmit Prana] also transmits SPR ability.
+SKILL_20161214_007288	Transmit Prana: DEX
+SKILL_20161214_007289	[Transmit Prana] also transmits DEX ability.
+SKILL_20161214_007290	Conversion: Penance
+SKILL_20161214_007291	[Conversion] makes the target explode when coming in contact with other monsters.
+SKILL_20161214_007292	Barrier: Distant Defense
+SKILL_20161214_007293	While inside [Barrier], damage received from missile or force attacks decrease by 10% per attribute level.
+SKILL_20161214_007294	Ein Sof: Stacked Healing
+SKILL_20161214_007295	While under the effect of [Ein Sof], the amount recovered by HP increases by 10% per attribute level.
+SKILL_20161214_007296	While [Sweeping] is maintained, duration for nearby allies' magic circles increases by 1 second per attribute level.
+SKILL_20161214_007297	Miko 1st Circle required
+SKILL_20161214_007298	Squire 3rd Circle required
+SKILL_20161214_007299	Templar 2nd Circle required
+SKILL_20161223_007300	Increased EXP gains and movement speed.
+SKILL_20161226_007301	Fortune Cookies - 1
+SKILL_20161226_007302	+30% EXP from hunting monsters{nl}+1 movement speed
+SKILL_20161226_007303	Fortune Cookies - 2
+SKILL_20161226_007304	+60% EXP from hunting monsters{nl}+2 movement speed
+SKILL_20161226_007305	Fortune Cookies - 3
+SKILL_20161226_007306	+90% EXP from hunting monsters{nl}+3 movement speed
+SKILL_20161226_007307	Fortune Cookies - 4
+SKILL_20161226_007308	+120% EXP from hunting monsters{nl}+4 movement speed
+SKILL_20161226_007309	Fortune Cookies - 5
+SKILL_20161226_007310	+150% EXP from hunting monsters{nl}+5 movement speed
+SKILL_20170117_007311	Event Dungeon
+SKILL_20170117_007312	You will not be able to use skills or items.{nl}Your defense will be reduced.
+SKILL_20170126_007313	Increases the EXP gains of all party members by 15% for 30 minutes.
+SKILL_20170126_007314	Increases +4 movement speed, +1 AoE attack ratio and +25% EXP gains of all party members for 30 minutes.
