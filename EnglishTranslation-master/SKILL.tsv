@@ -1163,10 +1163,10 @@ SKILL_20150317_001162	Increases your attack by enlarging your left hand.
 SKILL_20150317_001163	Physical Attack: +#{CaptionRatio}#{nl}Magic Attack: +#{CaptionRatio}#{nl}Duration: #{CaptionTime}# seconds
 SKILL_20150317_001164	Shrink Body
 SKILL_20150317_001165	Shrinks the size of a target's body.
-SKILL_20150317_001166	Large ??Medium ??Small {nl}Duration: #{CaptionTime}# seconds
+SKILL_20150317_001166	Large → Medium → Small {nl}Duration: #{CaptionTime}# seconds
 SKILL_20150317_001167	Swell Body
 SKILL_20150317_001168	Enlarges the size of a target's body. 
-SKILL_20150317_001169	Small ??Medium ??Large {nl}Duration: #{CaptionTime}# seconds
+SKILL_20150317_001169	Small → Medium → Large {nl}Duration: #{CaptionTime}# seconds
 SKILL_20150317_001170	Transpose
 SKILL_20150317_001171	Temporarily replaces your INT and CON.
 SKILL_20150317_001172	Reversi
@@ -6526,7 +6526,7 @@ SKILL_20161005_006525	Frenzied Slash
 SKILL_20161005_006526	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Jumps up in the air and strikes the foes on the ground. The enemies get stunned.
 SKILL_20161005_006527	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Number of Targets#{CaptionRatio2}#{nl}Able to use while wearing the helmet
 SKILL_20161005_006528	Evade Thrust
-SKILL_20161005_006529	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Lunges the sword at the enemy's neck while defending one's self behind the shielf.
+SKILL_20161005_006529	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Lunges the sword at the enemy's neck while defending one's self behind the shield.
 SKILL_20161005_006530	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}AoE Attack Ratio: #{SkillSR}#{nl}Able to use while wearing the helmet
 SKILL_20161005_006531	Headbutt
 SKILL_20161005_006532	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Headbutt the target and turn the target around. There is a chance for enemies getting stunned and if you are not equipped with a helmet, you might too.
@@ -6709,7 +6709,7 @@ SKILL_20161005_006708	Activate Patron Saint Magic Circle. The target of the magi
 SKILL_20161005_006709	Savior
 SKILL_20161005_006710	Lycanthropy
 SKILL_20161005_006711	Temporarily transform into a wolf.Continuously consume SP while in the wolf form.
-SKILL_20161005_006712	Able to use Wolf Skills{nl}Additional Attack: #{SkillAtkAdd}#{nl}Maximum Duration: #{CaptionTime}# minutes{nl}Consumes 2% SP per minute
+SKILL_20161005_006712	Able to use Wolf Skills{nl}Additional Attack: #{SkillAtkAdd}#{nl}Maximum Duration: #{CaptionTime}# minutes{nl}Consumes 2% SP per second
 SKILL_20161005_006713	Summon the Henge Stone. Increases skill levels of magic circles and installations by cleric type clases by 1 and stats while in the transformed mode.
 SKILL_20161005_006714	Set up a shop that can change the character's gender. 
 SKILL_20161005_006715	Gender change can be performed as many as the amount of required items owned.
@@ -6717,7 +6717,7 @@ SKILL_20161005_006716	Foretell
 SKILL_20161005_006717	Summon a moving magic circle in front. While on the magic circle, there is a chance to be invincible.
 SKILL_20161005_006718	Magic Circle Movement Speed: #{CaptionRatio}#{nl}Attack Nullify Chance: #{CaptionRatio2}#%{nl}Duration: #{CaptionTime}# seconds
 SKILL_20161005_006719	Twist of Fate
-SKILL_20161005_006720	Deal a fixed amount damage to the selected target based on its maximum HP. The target continuously recovers its HP and the total amount it will recover matches the amount lost by this attack. The skill does not apply to the field boss monster.
+SKILL_20161005_006720	Deal a fixed amount damage to the selected target based on its maximum HP. The target continuously recovers its HP and the total amount it will recover matches the amount lost by this attack. The skill does not apply to Field Boss monsters.
 SKILL_20161005_006721	Reduces #{CaptionRatio}#% - #{CaptionRatio2}#% of maximum HP{nl}Duration: #{CaptionTime}# seconds
 SKILL_20161005_006722	Install a magic circle that grant super healing ability temporarily. You or your party member recover to the HP to the point when the target stepped on the magic circle. 
 SKILL_20161005_006723	Black Death Steam
@@ -6758,8 +6758,8 @@ SKILL_20161005_006757	Calling Storm Attack: #{SkillAtkAdd}#{nl}Charm Duration #{
 SKILL_20161005_006758	Begone Demon
 SKILL_20161005_006759	{#993399}{ol}[Magic]{/}{/}{nl}Instantly activates the spell contained inside the installed charm. Storm Calling immediately calls to rain and Creeping Death, Tri-Disaster and Dark Sight explode to attack nearby enemies.
 SKILL_20161005_006760	Attribute Damage: #{CaptionRatio}#%{nl}
-SKILL_20161005_006761	{#993399}{ol}[Magic]{/}{/}{nl}Install a charm with a resistance to the Fire, Ice and Lightening properties. Allies within the vicinity of the charm will have their Fire, Ice and Lightening property resistances increased. When the charm explodes, nearby enemies will receive damage based on the three properties.
-SKILL_20161005_006762	Explosion Attack: #{SkillAtkAdd}#{nl}Charm Duration: #{CaptionTime}# minutes{nl}Fire, Ice, Lightening Property Resistance: +#{CaptionRatio}#% {nl}Requires 2 Strange Yellow Papers
+SKILL_20161005_006761	{#993399}{ol}[Magic]{/}{/}{nl}Install a charm with a resistance to the Fire, Ice and Lightning properties. Allies within the vicinity of the charm will have their Fire, Ice and Lightning property resistances increased. When the charm explodes, nearby enemies will receive damage based on the three properties.
+SKILL_20161005_006762	Explosion Attack: #{SkillAtkAdd}#{nl}Charm Duration: #{CaptionTime}# minutes{nl}Fire, Ice, Lightning Property Resistance: +#{CaptionRatio}#% {nl}Requires 2 Strange Yellow Papers
 SKILL_20161005_006763	{#993399}{ol}[Magic]{/}{/}{nl}Install the Creeping Death charm that moves slowly foward. Creeping Death deals continuous damage to the targets coming in contact with it while moving. Deals additional damage when exploding via Begone Demon. 
 SKILL_20161005_006764	Attack: #{SkillAtkAdd}#{nl}Explosion Attack: #{CaptionRatio2}#{nl}Number of Hits: #{CaptionRatio}#{nl}Requires 3 Strange Yellow Papers
 SKILL_20161005_006765	Gohei
@@ -6787,7 +6787,7 @@ SKILL_20161005_006786	Trapped in another dimension.
 SKILL_20161005_006787	Wheel Torture
 SKILL_20161005_006788	Undetectable by enemies.
 SKILL_20161005_006789	Storm Calling
-SKILL_20161005_006790	Receive damage and additional lightening property damage.
+SKILL_20161005_006790	Receive damage and additional Lightning property damage.
 SKILL_20161005_006791	Bound
 SKILL_20161005_006792	Increased evasion rate, decreased movement speed.
 SKILL_20161005_006793	Enemy gets blinded and receives additional damage from cannon attacks. Detects targets in Cloaking or Burrowed states.
@@ -7047,8 +7047,8 @@ SKILL_20161005_007046	Rapid Fire: Enhance
 SKILL_20161005_007047	Increases the damage dealt on an enemy with [Rapid Fire] by 1% per attribute level.
 SKILL_20161005_007048	Triple Arrow: Enhance
 SKILL_20161005_007049	Increases the damage dealt on an enemy with [Triple Arrow] by 1% per attribute level.
-SKILL_20161005_007050	Rain Arrow: Enhance
-SKILL_20161005_007051	Increases the damage dealt on an enemy with [Rain Arrow] by 1% per attribute level.
+SKILL_20161005_007050	Arrow Sprinkle: Enhance
+SKILL_20161005_007051	Increases the damage dealt on an enemy with [Arrow Sprinkle] by 1% per attribute level.
 SKILL_20161005_007052	Jump Shot: Enhance
 SKILL_20161005_007053	Increases the damage dealt on an enemy with [Jump Shot] by 1% per attribute level.
 SKILL_20161005_007054	Spread Shot: Backward Shot
@@ -7227,7 +7227,7 @@ SKILL_20161214_007226	Attack: #{CaptionRatio3}#{nl}Attribute Damage: #{CaptionTi
 SKILL_20161214_007227	Guardian Saint Duration #{CaptionTime}# seconds{nl}Charges: #{CaptionRatio}#
 SKILL_20161214_007228	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio2}#%{nl}Additional Damage to Plant-type Monsters: +#{CaptionRatio}#{nl}Statue Materials Drop Rate: #{CaptionTime}#%{nl}AoE Attack Ratio 1
 SKILL_20161214_007229	{#993399}{ol}[Magic] - [Psychokinesis]{/}{/}{nl}Inflict damage on nearby enemies by separating your soul from your body to cause an explosion.
-SKILL_20161214_007230	{#993399}{ol}[Magic] - [Psychokinesis]{/}{/}{nl}}Bind enemy to stop its movement and inflict damage.
+SKILL_20161214_007230	{#993399}{ol}[Magic] - [Psychokinesis]{/}{/}{nl}Bind enemy to stop its movement and inflict damage.
 SKILL_20161214_007231	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Targets: #{CaptionRatio2}#{nl}Maximum Duration: 10 seconds
 SKILL_20161214_007232	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Strike down enemies with a powerful attack. Deals triple damage to Mutant and Devil-type enemies.
 SKILL_20161214_007233	Deal a fixed amount damage to the selected target based on its max HP. But the target continuously recovers its HP and the total amount it will recover matches the double amount lost by this attack. The skill does not apply to the field boss monster.
@@ -8130,7 +8130,7 @@ SKILL_20170313_008129	* Increases damage dealt with [Spread Shot] by 1% per attr
 SKILL_20170313_008130	* Increases damage dealt with [Homing Arrow] by 1% per attribute level
 SKILL_20170313_008131	* Increases damage dealt with [Rapid Fire] by 1% per attribute level
 SKILL_20170313_008132	* Increases damage dealt with [Triple Arrow] by 1% per attribute level
-SKILL_20170313_008133	* Increases damage dealt with [Rain Arrow] by 1% per attribute level
+SKILL_20170313_008133	* Increases damage dealt with [Arrow Sprinkle] by 1% per attribute level
 SKILL_20170313_008134	* Increases damage dealt with [Jump Shot] by 1% per attribute level
 SKILL_20170313_008135	* [Spread Shot] is followed by 5 shots from the character's back{nl}* Effect occurs every time when the attribute is ON
 SKILL_20170313_008136	* [Spread Shot] has 1% chance per attribute level to bounce off of the enemy to attack another
