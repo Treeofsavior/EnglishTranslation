@@ -1163,10 +1163,10 @@ SKILL_20150317_001162	Increases your attack by enlarging your left hand.
 SKILL_20150317_001163	Physical Attack: +#{CaptionRatio}#{nl}Magic Attack: +#{CaptionRatio}#{nl}Duration: #{CaptionTime}# seconds
 SKILL_20150317_001164	Shrink Body
 SKILL_20150317_001165	Shrinks the size of a target's body.
-SKILL_20150317_001166	Large → Medium → Small {nl}Duration: #{CaptionTime}# seconds
+SKILL_20150317_001166	Large ??Medium ??Small {nl}Duration: #{CaptionTime}# seconds
 SKILL_20150317_001167	Swell Body
 SKILL_20150317_001168	Enlarges the size of a target's body. 
-SKILL_20150317_001169	Small → Medium → Large {nl}Duration: #{CaptionTime}# seconds
+SKILL_20150317_001169	Small ??Medium ??Large {nl}Duration: #{CaptionTime}# seconds
 SKILL_20150317_001170	Transpose
 SKILL_20150317_001171	Temporarily replaces your INT and CON.
 SKILL_20150317_001172	Reversi
@@ -1401,7 +1401,7 @@ SKILL_20150317_001400	Crossfire
 SKILL_20150317_001401	Shoot an arrow that explodes in a cross if it kills the monster.
 SKILL_20150317_001402	{#CC3300}{ol}[Pierce]{/}{/}Attribute {nl}#{SkillFactor}#% + #{SkillAtkAdd}#{nl} Splash #{SkillSR}#{nl} Consume #{SpendSP }# SP
 SKILL_20150317_001403	Playing Flute
-SKILL_20150317_001404	Feelings
+SKILL_20150317_001404	Identify
 SKILL_20150317_001405	Move away from current area by jumping and rotating backwards. Successfully evading enemy attack results in drastic increase of critical strike chance on the next attack.
 SKILL_20150317_001406	Leg Shot
 SKILL_20150317_001407	Shoot feet of target to slow it down.
@@ -7356,20 +7356,20 @@ SKILL_20170313_007355	Attack 350% + #{SkillAtkAdd}#{nl}Attribute attack #{Captio
 SKILL_20170313_007356	Attack 150% + #{SkillAtkAdd}#{nl}Attribute attack #{CaptionRatio}#%{nl}AoE attack ratio #{SkillSR}#
 SKILL_20170313_007357	Smoke Grenade duration #{CaptionTime}# seconds{nl}AoE attack ratio #{SkillSR}#
 SKILL_20170313_007358	Prepares cannon attack to enhance focus. Uses cannon attack as basic attack, which does not affect enemies that are too near. In the Bazooka state, increases basic Cannoneer skill range by 2 times.
-SKILL_20170313_007359	
-SKILL_20170313_007360	
-SKILL_20170313_007361	
-SKILL_20170313_007362	
-SKILL_20170313_007363	
-SKILL_20170313_007364	
-SKILL_20170313_007365	
-SKILL_20170313_007366	
-SKILL_20170313_007367	
-SKILL_20170313_007368	
-SKILL_20170313_007369	
-SKILL_20170313_007370	
-SKILL_20170313_007371	
-SKILL_20170313_007372	
+SKILL_20170313_007359	Set up a shop to identify unidentified items. The chances of obtaining more sockets and higher potential increase with the skill level.
+SKILL_20170313_007360	Increased chance of additional sockets{nl}Increased chance of additional potential
+SKILL_20170313_007361	Overestimate
+SKILL_20170313_007362	Increases the enhancement of your shield and sub-weapon, as well as that of nearby allies, according to the skill level.
+SKILL_20170313_007363	Enhancement + #{CaptionRatio}#{nl}Duration: #{CaptionRatio2}# seconds
+SKILL_20170313_007364	Forgery
+SKILL_20170313_007365	Creates a forgery of the accessory your character is wearing. Only party members can use the forgery and receive its effects. The Appraiser will not receive the effects of the accessory when the forgery is used.
+SKILL_20170313_007366	Forgery duration: #{CaptionRatio}# seconds{nl}Buff duration: #{CaptionRatio2}# seconds
+SKILL_20170313_007367	Devaluation
+SKILL_20170313_007368	Provides a chance to turn all enemy equipment enhancement and transcendence values to 0. When the enemy is a monster, reduces physical and magic attack and defense. This amount is reduced in half if the enemy is a boss monster.
+SKILL_20170313_007369	Chance of devaluation: #{CaptionTime}#%{nl}Targets: #{CaptionRatio}#{nl}Monster physical and magic attack decreased #{CaptionRatio2}#%{nl}Monster physical and magic defense reduced #{CaptionRatio3}#%{nl}Duration: 120 seconds
+SKILL_20170313_007370	Blindside
+SKILL_20170313_007371	{#DD5500}{ol}[Missile]{/}{/}{nl}Use a magnifying glass to find the enemy's blind side and attack. The attack will apply as critical attack. Foes around the attacked enemy will have higher chances of being hit by critical attacks.{nl}(The effects of Blindside and the character's critical rate apply separately.)
+SKILL_20170313_007372	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio2}#%{nl}Increased Min. Critical Attack Chances{nl}Duration: #{CaptionRatio}# seconds
 SKILL_20170313_007373	Max. Magic Circles: #{SkillFactor}#{nl}Increases DEX for allies{nl}Enemy's Evasion & Defense: -#{CaptionRatio}#{nl} Duration for allies: #{CaptionTime}# seconds{nl}Duration for enemies #{CaptionRatio2}# seconds
 SKILL_20170313_007374	Change to a state where you become temporarily invincible from all attacks.
 SKILL_20170313_007375	Max. duration 1.5 seconds{nl}Long range projectile, can defend magic
@@ -7378,16 +7378,16 @@ SKILL_20170313_007377	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRati
 SKILL_20170313_007378	Combo activated by attacking enemies. Fever buff initiated after 300 combos.
 SKILL_20170313_007379	Jolly Roger: Enemy Debuff
 SKILL_20170313_007380	Hit the enemy to increase the number of combos.
-SKILL_20170313_007381	
-SKILL_20170313_007382	
-SKILL_20170313_007383	
-SKILL_20170313_007384	
+SKILL_20170313_007381	Increase Sub-weapon Enhancement
+SKILL_20170313_007382	Reveal Weak Spot
+SKILL_20170313_007383	Reveals the enemy's weak spot to increase critical rate.
+SKILL_20170313_007384	Ignore Enhancement and Transcendence
 SKILL_20170313_007385	Fever
 SKILL_20170313_007386	Missile Attack Damage Increase
 SKILL_20170313_007387	Mount the demon to increase defense.
 SKILL_20170313_007388	Pirates
 SKILL_20170313_007389	A Corsair became party leader, activating Pirates. Stay near the party leader to receive the Pirates buff.
-SKILL_20170313_007390	
+SKILL_20170313_007390	You are receiving the effects of the Appraiser's accessory.
 SKILL_20170313_007391	Rocksodon Owner
 SKILL_20170313_007392	Increases physic attack and maximum HP.
 SKILL_20170313_007393	Character EXP Event
@@ -8135,14 +8135,14 @@ SKILL_20170313_008134	* Increases damage dealt with [Jump Shot] by 1% per attrib
 SKILL_20170313_008135	* [Spread Shot] is followed by 5 shots from the character's back{nl}* Effect occurs every time when the attribute is ON
 SKILL_20170313_008136	* [Spread Shot] has 1% chance per attribute level to bounce off of the enemy to attack another
 SKILL_20170313_008137	* Increases damage dealt with [Parthian Shaft] by 1% per attribute level
-SKILL_20170313_008138	
-SKILL_20170313_008139	
-SKILL_20170313_008140	
-SKILL_20170313_008141	
-SKILL_20170313_008142	
-SKILL_20170313_008143	
-SKILL_20170313_008144	
-SKILL_20170313_008145	
+SKILL_20170313_008138	Overestimate: Duration
+SKILL_20170313_008139	* Duration of [Overestimate] buff increased 1 second per attribute level
+SKILL_20170313_008140	Devaluation: Increased Chance
+SKILL_20170313_008141	* Chance of inflicting the [Devaluation] buff increased by 1% per attribute level
+SKILL_20170313_008142	Blindside: Critical Attack
+SKILL_20170313_008143	* Critical attack on enemies affected by the [Blindside] debuff increased 5% per attribute level
+SKILL_20170313_008144	Blindside: Enhance
+SKILL_20170313_008145	* Increased damage dealt with [Blindside] by 1% per attribute level
 SKILL_20170313_008146	* Increases damage dealt with [Cure] by 1% per attribute level
 SKILL_20170313_008147	* Enhances damage of [Cure] to Cleric Circle 2 standards
 SKILL_20170313_008148	* Enhances damage of [Cure] to Cleric Circle 3 standards
@@ -8364,5 +8364,1094 @@ SKILL_20170313_008363	* Increases ally installments' HP recovered by [Clapping] 
 SKILL_20170313_008364	* While [Kagura] is active, you and nearby allies will receive less damage from magic attacks by 10% per attribute level{nl}* Increases SP consumption by 20
 SKILL_20170313_008365	* Decreases cooldown on HP potions{nl}* (-10% per level)
 SKILL_20170313_008366	* Decreases cooldown on SP potions{nl}* (-10% per level)
-SKILL_20170313_008367	
+SKILL_20170313_008367	Requires Appraiser Circle 1
 SKILL_20170313_008368	Requires Elementalist Circle 3, Meteor Level 10
+SKILL_20170327_008369	Pretend to be frozen
+SKILL_20170327_008370	April Fools'!
+SKILL_20170327_008371	Big Companion Buff
+SKILL_20170327_008372	+20% EXP gains from hunting monsters
+SKILL_20170327_008373	Firecracker
+SKILL_20170327_008374	The power of the firecracker has spread to all party members.
+SKILL_20170327_008375	Commander Lord Phail Buff
+SKILL_20170327_008376	The snark of Commander Lord Phail is spreading.
+SKILL_20170330_008377	Enlarges the size of your target. Increases the target's maximum HP by 2 times and doubles loot dropped.
+SKILL_20170330_008378	{#DD5500}{ol}[Physical]{/}{/}{nl}Your companion holds on to a target. Decreases a target's physical defense and continuously deals damage. Attacks against the target will have an increased critical chance.{nl}(When the target is a character, duration is reduced in half.)
+SKILL_20170330_008379	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Continuously attack using your dagger. A double attack with a high critical rate may stun the enemy. Attacking from the back deals extra damage.
+SKILL_20170330_008380	Additional Damage: #{CaptionRatio}#%{nl}Cannon Attack Range: +#{CaptionRatio2}#{nl}
+SKILL_20170330_008381	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use your trained fingertips to attack an enemy by inflicting an internal injury. Deals additional damage proportional to the enemy's defense (additional damage does not exceed character's max. attack).
+SKILL_20170330_008382	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Strike with a powerful hand knife to deal damage on an enemy. Deals additional damage proportional to the enemy's INT (additional damage does not exceed character's max. attack).
+SKILL_20170330_008383	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}AoE Attack Ratio #{SkillSR}#
+SKILL_20170330_008384	Attack 150% + #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Duration: #{CaptionTime}# seconds
+SKILL_20170330_008385	Nullifies characters' enhancement and transcendence values and reduces monsters' attack and defense.
+SKILL_20170330_008386	You will not be able to use skills.{nl}Your defense will be reduced.
+SKILL_20170330_008387	* Duration of [Overestimate] buff increased 1 second per attribute level{nl}* Increases SP consumption by 5
+SKILL_20170330_008388	* Critical attack on enemies affected by the [Blindside] debuff increased 5% per attribute level{nl}* Increases SP consumption by 10
+SKILL_20170330_008389	Monk: Strike Duration
+SKILL_20170330_008390	* Increases duration of additional strike damage Monk debuffs by 5 seconds{nl}* Debuffs: Double Punch, God Finger Flick
+SKILL_20170418_008391	Dark Crystal
+SKILL_20170418_008392	You have collected a Dark Crystal
+SKILL_20170420_008393	{#DD5500}{ol}[Missile]{/}{/} {#7AE4FF}{ol}[{img tooltip_speedofatk}speedofatk]{/}{/}{nl}Shoot three exploding arrows. The explosion attacks nearby enemies as well.
+SKILL_20170420_008394	Attack #{SkillFactor}#% x 3
+SKILL_20170420_008395	Attack #{SkillFactor}#{nl}AoE Attack Ratio #{SkillSR}#
+SKILL_20170420_008396	Attack: #{SkillFactor}#{nl}Ingnore small, medium target defense: #{CaptionRatio}#%{nl}AoE Attack Ratio: #{SkillSR}#
+SKILL_20170420_008397	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{#7AE4FF}{ol}[{img tooltip_speedofatk}speedofatk]{nl}Perform a side slash on enemies.{nl}Enemies afflicted with [Bleeding] take additional damage.
+SKILL_20170420_008398	Attack #{SkillFactor}#% x 2{nl}AoE Attack Ratio #{SkillSR}#
+SKILL_20170420_008399	Attack #{SkillFactor}#% x 3{nl}AoE Attack Ratio #{SkillSR}#
+SKILL_20170420_008400	Attack #{SkillFactor}#% x 4
+SKILL_20170420_008401	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Perform an upward swing with your weapon, launching an enemy.
+SKILL_20170420_008402	Attack: #{SkillFactor}#% x 4{nl}Casting Time: #{CaptionRatio2}# seconds{nl}AoE Attack Ratio: #{SkillSR}#
+SKILL_20170420_008403	Attack: #{SkillFactor}#{nl}{#339999}{ol}[Shock]{/}{/} Duration: #{CaptionTime}# seconds {nl}AoE Attack Ratio: #{SkillSR}#
+SKILL_20170420_008404	#Block: #{CaptionRatio2}# Increase
+SKILL_20170420_008405	{#DD5500}{ol}[Physical] - [Slash]{/}{/} {#7AE4FF}{ol}[{img tooltip_speedofatk}speedofatk]{nl}Inflict damage on enemies by swinging your sword around to create continuous attacks. Deals Double Damage to enemies under Crown debuff.
+SKILL_20170420_008406	Attack #{SkillFactor}#% x 5{nl}AoE Attack Ratio #{SkillSR}#
+SKILL_20170420_008407	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Strike and push an enemy sidewards using the side of your sword. The enemy becomes afflicted with [Armor Break].
+SKILL_20170420_008408	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{#7AE4FF}{ol}[{img tooltip_speedofatk}speedofatk]{nl}Slash the enemy sideways.{nl}Inflicts additional damage on enemies affected by [Bleeding].
+SKILL_20170420_008409	Attack #{SkillFactor}#% x 15{nl}AoE Attack Ratio #{SkillSR}#
+SKILL_20170420_008410	Attack: #{SkillFactor}#{nl}Medium target 2 attacks{nl}Large target 3 attacks
+SKILL_20170420_008411	Critical Chance: +#{CaptionRatio}# Increase{nl}Block #{CaptionRatio3}#% Increase{nl}Evasion: -#{CaptionRatio2}#{nl}Duration: #{CaptionTime}# seconds
+SKILL_20170420_008412	Attack #{SkillFactor}#%{nl}{nl}AoE Attack Ratio #{SkillSR}#
+SKILL_20170420_008413	Attack: #{SkillFactor}#%{nl}Target 5
+SKILL_20170420_008414	Attack: #{SkillFactor}#%{nl}Duration 6 seconds
+SKILL_20170420_008415	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Trample down on an enemy while in the air or jumping. Increases attack according to the character's height and the boots' defense.
+SKILL_20170420_008416	Targets: #{CaptionRatio}#{nl}Maximum Physical Defense: -#{CaptionRatio2}#{nl}Duration: #{CaptionTime}# seconds
+SKILL_20170420_008417	Increases your attack when you keep repeatedly attacking one particular enemy.
+SKILL_20170420_008418	Attack per Stack: 1.5% Increase{nl}Maximum Stacks: #{CaptionRatio2}#{nl}Increase speedofatk #{CaptionRatio}{nl}Duration: #{CaptionTime}# seconds
+SKILL_20170420_008419	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Swing an enemy around, using centrifugal force to throw it away.
+SKILL_20170420_008420	Attack: #{SkillFactor}#{nl}Rotates 9 times{nl}Distance Thrown: 150
+SKILL_20170420_008421	#{SkillFactor}#% Attack per 0.5 seconds{nl}Max. Duration 10 seconds{nl}Consume STA
+SKILL_20170420_008422	Attack: #{SkillFactor}#% x #{CaptionRatio2}{nl}AoE Attack Ratio #{SkillSR}#
+SKILL_20170420_008423	Attack: #{SkillFactor}#%{nl}Critical Rate: +50{nl}AoE Attack Ratio: #{SkillSR}#
+SKILL_20170420_008424	#{SkillFactor}#% Attack per 0.5 seconds{nl}Max. Duration 5 seconds{nl}Consume STA
+SKILL_20170420_008425	Attack: #{SkillFactor}#{nl}{#339999}{ol}[Stun]{/}{/} Duration 1 second
+SKILL_20170420_008426	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use your shield to inflict damage on an enemy with a powerful smash. Has a chance to afflict [Blind] on the enemy. Adds additional damage to frozen and petrified enemies.
+SKILL_20170420_008427	Attack: #{SkillFactor}#{nl}{#339999}{ol}[Shock]{/}{/} Duration 3 seconds {nl}AoE Attack Ratio: #{SkillSR}#
+SKILL_20170420_008428	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use your shield to interrupt enemies.{nl}The target becomes afflicted with [Unbalanced].
+SKILL_20170420_008429	Attack: #{SkillFactor}#{nl}Defense: -#{CaptionRatio}#{nl}{#339999}{ol}[Unbalanced]{/}{/} Duration: #{CaptionTime}# seconds
+SKILL_20170420_008430	Attack: #{SkillFactor}#{nl}Maximum Duration: 10 seconds
+SKILL_20170420_008431	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use your shield and sword to successively attack enemies.
+SKILL_20170420_008432	Attack: #{SkillFactor}#% x 4{nl}{nl}AoE Attack Ratio: #{SkillSR}#
+SKILL_20170420_008433	Attack #{SkillFactor}#%{nl}Duration #{CaptionTime}#Seconds
+SKILL_20170420_008434	Attack #{SkillFactor}#%{nl}Duration #{CaptionRatio2}#Seconds
+SKILL_20170420_008435	Attack: #{SkillFactor}#{%nl}Duration: 10 seconds
+SKILL_20170420_008436	{#DD5500}{ol}[Strike]{/}{/}{nl}Impales a small or medium-type monster with a spear. It is possible to attack other enemies with a skewered enemy.{nl}(Duration will be changed once you enter PVP Server)
+SKILL_20170420_008437	Attack: #{SkillFactor}#%{nl}Duration #{CaptionRatio}#Seconds{nl}AoE Attack Ratio: #{SkillSR}#{nl}Able to use while riding
+SKILL_20170420_008438	Attack: #{SkillFactor}#% x 5{nl}AoE Attack Ratio: #{SkillSR}#{nl}Able to use while riding
+SKILL_20170420_008439	Attack: #{SkillFactor}#%{nl}AoE Attack Ratio: #{SkillSR}#{nl}Able to use while riding
+SKILL_20170420_008440	#{SkillFactor}#% Attack per 0.3 seconds{nl}Maximum Duration: 10 seconds{nl}AoE Attack Ratio #{SkillSR}#{nl}Able to use while riding{nl}#(CaptionRatio3} Consume SP per 0.3 seconds
+SKILL_20170420_008441	Increases attack equal to [Skill Level+1]x[Number of Weapon Stars]{nl}Attack Count: #{CaptionRatio2}#{nl}Duration: 1 hour
+SKILL_20170420_008442	Increases defense equal to [Skill Level+1]x[Number of Weapon Stars]{nl}Shoot: #{CaptionRatio2}#{nl}Duration: 1 hour
+SKILL_20170420_008443	Attack #{SkillFactor}#% x #{CaptionRatio}#Counts
+SKILL_20170420_008444	{#DD5500}{ol}[Physical] - [Slash]{/}{/} {#7AE4FF}{ol}[{img tooltip_speedofatk}speedofatk]{nl}As you spin, attack an enemy repeatedly using a weapon in each hand. The enemy will be immobilized temporarily.
+SKILL_20170420_008445	{#DD5500}{ol}[Physical] - [Pierce]{/}{/} {#7AE4FF}{ol}[{img tooltip_speedofatk}speedofatk]{nl}Use a weapon in each hand to deal successive strikes on an enemy.
+SKILL_20170420_008446	Attack #{SkillFactor}#% x 7
+SKILL_20170420_008447	Attack #{SkillFactor}#% x 6
+SKILL_20170420_008448	Cooldown time reduced by 50%{nl}Minimum/Maximum Duration: #{CaptionRatio}# seconds ~ #{CaptionRatio2}# seconds
+SKILL_20170420_008449	When taking damage, your attack speed and attack are increased, but your defense is decreased.
+SKILL_20170420_008450	Additional damage#{CaptionRatio}#% Increase{nl}Damage received #{CaptionRatio2}#% Increase{nl}Duration: #{CaptionTime}# seconds
+SKILL_20170420_008451	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Hold your sword backwards and use its handle to smack down an enemy.
+SKILL_20170420_008452	Doubles your EXP and loot dropped when you defeat an enemy within a certain number of attacks. You take 3x damage while the effect is active, and lose more durability when you become incapable of combat.
+SKILL_20170420_008453	#{SkillFactor}#% Attack per 0.2 seconds{nl}Duration: #{CaptionRatio2}#seconds{nl}AoE Attack Ratio: #{SkillSR}#
+SKILL_20170420_008454	Attack: #{SkillFactor}#% x #{CaptionRatio2}#Counts{nl}{#339999}{ol}[Shock]{/}{/} Duration: 5 seconds
+SKILL_20170420_008455	Attack #{SkillFactor}#% x #{CaptionRatio2}#Counts
+SKILL_20170420_008456	Attack: #{SkillFactor}#% x 3{nl}AoE Attack Ratio: #{SkillSR}#{nl}Duration: #{CaptionTime}# seconds
+SKILL_20170420_008457	Attack: #{SkillFactor}#% x 6{nl}AoE Attack Ratio: #{SkillSR}#{nl}Ignores enemies' defense by 20%
+SKILL_20170420_008458	{#DD5500}{ol}[Physical] - [Pierce]{/}{/} {#7AE4FF}{ol}[{img tooltip_speedofatk}speedofatk]{/}{/}{nl}{nl}Stab an enemy in front of you.
+SKILL_20170420_008459	Attack #{SkillFactor}#% x 2
+SKILL_20170420_008460	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}Lower your stance and reach out to attack an enemy. Your evasion rate increases and the enemy becomes more vulnerable to [Slash] attacks.
+SKILL_20170420_008461	Attack: #{SkillFactor}#% x 4{nl}Evasion Rate: +#{CaptionRatio2}# Increase{nl}Duration: #{CaptionTime}# seconds
+SKILL_20170420_008462	{#DD5500}{ol}[Physical] - [Pierce]{/}{/} {#7AE4FF}{ol}[{img tooltip_speedofatk}speedofatk]{/}{/}{nl}{nl}Stab an enemy in front of you.
+SKILL_20170420_008463	Attack #{SkillFactor}#% x 8
+SKILL_20170420_008464	{#DD5500}{ol}[Physical] - [Strike]{/}{/}Attack an enemy with the guard of your sword. The enemy's defense is ignored when attacked again with [Pierce] attacks.
+SKILL_20170420_008465	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}Move swiftly to avoid enemy attacks and deliver complex successive attacks.{nl}(The Buff Durations will be changed to 4 seconds once you enter PvP server.)
+SKILL_20170420_008466	Attack: #{SkillFactor}#% x 5{nl}Evasion Rate: +#{CaptionRatio2}#%
+SKILL_20170420_008467	{#DD5500}{ol}[Physical] - [Slash]{/}{/} {#7AE4FF}{ol}[{img tooltip_speedofatk}speedofatk]{/}{/}{nl}Perform a complex upward attack with your rapier. This attack protects you against an enemy attack.
+SKILL_20170420_008468	Attack: #{SkillFactor}#%{nl}Max. Targets: 10
+SKILL_20170420_008469	{#DD5500}{ol}[Physical] - [Pierce]{/}{/} {#7AE4FF}{ol}[{img tooltip_speedofatk}speedofatk]{/}{/}{nl}Strikes the enemy hands to drop their weapons with a rapier. The enemy cannot get the effect of the weapon until they pick it up. (The enemy picks up the weapon automatically after duration.) 
+SKILL_20170420_008470	Attack: #{SkillFactor}#{nl}Length of Time Enemy Is Disarmed: #{CaptionTime}# seconds
+SKILL_20170420_008471	Attack: #{SkillFactor}#%{nl}HP #{CaptionRatio2}# Consumes{nl}Consumes 5 Ninjutsu Bombs
+SKILL_20170420_008472	Counter-attack by tricking the enemy with a fake doll created from a log.
+SKILL_20170420_008473	Attack multiple enemies by continuously exploding the gunpowder you possess.
+SKILL_20170420_008474	Attack: #{SkillFactor}#%{nl}Consumes 2 Ninjutsu Bombs
+SKILL_20170420_008475	Attack #{SkillFactor}#% x 5
+SKILL_20170420_008476	Murmillo wears the Cassis Crista and prepares for the battle. Once the helmet is equipped, Murmillo skills can be used and a chance to avoid enemy missile or magic attacks increases. Use the skill again to unequip the helmet.
+SKILL_20170420_008477	Attack: #{SkillFactor}#%{nl}}Number of Targets#{CaptionRatio2}#{nl}Able to use while wearing the helmet
+SKILL_20170420_008478	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Lunges the sword at the enemy's neck while defending one's self behind the shield.
+SKILL_20170420_008479	Attack: #{SkillFactor}#%{nl}AoE Attack Ratio: #{SkillSR}#{nl}Able to use while wearing the helmet
+SKILL_20170420_008480	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Headbutt the target and turn the target around. There is a chance for enemies getting stunned and if you are not equipped with a helmet, you might too.
+SKILL_20170420_008481	Attack: #{SkillFactor}#{nl}{#339999}{ol}[Stun]{/}{/}Duration: #{CaptionTime}# seconds
+SKILL_20170420_008482	Attack #{SkillFactor}#%{nl}Able to use while wearing the helmet
+SKILL_20170420_008483	Attack: #{SkillFactor}#%{nl}Status Ailment Duration: #{CaptionRatio2}# seconds
+SKILL_20170420_008484	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Pierces the lance into the enemies in front and incapacitate their movements. The skill decreases both movement speed and attack speed of the boss monster.
+SKILL_20170420_008485	Attack #{SkillFactor}#% x 2{nl}Enemy {#339999}{ol}[Trap]{/}{/} Duration #{CaptionRatio2}#seconds{nl}Boss Monster Status Ailment Duration #{CaptionTime}# seconds
+SKILL_20170420_008486	Maximum Duration: #{CaptionRatio}# seconds{nl}SP per second  #{CaptionRatio2}#Consume
+SKILL_20170420_008487	Attack: #{SkillFactor}#%{nl}Ability Reduce Duration: 10 seconds
+SKILL_20170420_008488	Attack: #{SkillFactor}#%{nl}Additional Critical Chance: CaptionRatio2}#% Add
+SKILL_20170420_008489	Attack: #{SkillFactor}#% x 2{nl}Status Ailment Duration: #{CaptionRatio2}# seconds
+SKILL_20170420_008490	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Fix your grip on the spear and strike your enemy down downward and take the target off of the companion.
+SKILL_20170420_008491	Attack #{SkillFactor}#%
+SKILL_20170420_008492	Attack #{SkillFactor}#% x 2{nl}AoE Attack Ratio #{SkillSR}#
+SKILL_20170420_008493	{#339999}{ol}[Sleep]{/}{/} Duration: #{CaptionRatio2}#seconds{nl}Attack Threshold: #{CaptionRatio}#
+SKILL_20170420_008494	Attack: #{SkillFactor}# x 3{nl}Bullet Count: #{CaptionRatio2}#
+SKILL_20170420_008495	{#993399}{ol}[Magic] - [Fire]{/}{/}{nl}Summons a fireball. Enemies touching the fireball will receive continuous flame damage.
+SKILL_20170420_008496	Attack: #{SkillFactor}#% x 5{nl}Fire Wall #{CaptionRatio}#{nl}Duration: 15 seconds
+SKILL_20170420_008497	Fire Property Attack: +#{CaptionRatio}#{nl}Additional Damage: +#{CaptionRatio2}#{nl}Duration: #{CaptionTime}# seconds
+SKILL_20170420_008498	#{SkillFactor}#% Attack per 0.5 seconds{nl}Duration 10 seconds
+SKILL_20170420_008499	#{SkillFactor}#% Attack per 0.4 seconds{nl}Consumes #{CaptionRatio}# SP every 0.5 second
+SKILL_20170420_008500	#{SkillFactor}#% Attack per 0.7 seconds{nl}Duration 8.4 seconds
+SKILL_20170420_008501	Attack: #{SkillFactor}#% x 2{nl}{#339999}{ol}[Freeze]{/}{/} Duration: 5 seconds
+SKILL_20170420_008502	Attack: #{SkillFactor}#% x 6{nl}{#339999}{ol}[Freeze]{/}{/} Duration: 5 seconds
+SKILL_20170420_008503	Attack: #{SkillAtkAdd}#{nl}Ice Wall Count: #{CaptionRatio}#{nl}{#339999}{ol}[Freeze]{/}{/} Duration: 5 seconds{nl}Ice Wall Duration: 15 seconds
+SKILL_20170420_008504	{#339999}{ol}[Ice]{/}{/} Attacks to Targets #{SkillFactor}#%
+SKILL_20170420_008505	Attack: #{SkillFactor}#%{nl}AoE Attack Ratio: #{CaptionRatio}#{nl}Duration: #{CaptionTime}# seconds
+SKILL_20170420_008506	Attack: #{SkillFactor}#%{nl}Targets: #{CaptionRatio}#{nl}Consumes #{CaptionRatio}#{nl} SP per second
+SKILL_20170420_008507	Attack #{SkillFactor}#% x #{CaptionRatio}#counts {nl}Duration #{CaptionTime}#Seconds
+SKILL_20170420_008508	#{SkillFactor}#% Attack per 0.5 seconds{nl}Targets: #{CaptionRatio}#{nl}Consumes #{CaptionRatio3}# SP per second{nl}Maximum Duration: 10 seconds
+SKILL_20170420_008509	Attack: #{SkillFactor}#% x 5{nl}}Number of Targets: #{CaptionRatio}#
+SKILL_20170420_008510	Attack: #{SkillFactor}#%{nl}Casting Time: #{CaptionTime}#seconds{nl}AoE Attack Ratio: #{SkillSR}#
+SKILL_20170420_008511	Duration: #{CaptionTime}# seconds{nl}Chance of doubling the duration: #{CaptionRatio}#%{nl}Movement Speed: -10%{nl}Additional {#DD5500}{ol}Lightning{/}{/}Property Damage: +35%{nl}Attack on {#DD5500}{ol}Fire{/}{/}Property Targets: #{CaptionRatio3}#%
+SKILL_20170420_008512	#{SkillFactor}#% Attack per 0.3 seconds{nl}The Number of Targets: #{CaptionRatio2}#{nl}Duration 5.4 seconds
+SKILL_20170420_008513	Attack: #{SkillFactor}#%{nl}Summon #{CaptionRatio}# Familiar Spirits
+SKILL_20170420_008514	Temporarily increases the attack speed of you and your party members by manipulating time.
+SKILL_20170420_008515	Attack Speed: +#{CaptionRatio}# Increase{nl}Duration: #{CaptionTime}# seconds
+SKILL_20170420_008516	Attack: #{SkillFactor}#% x 16{nl}AoE Attack Ratio: #{SkillSR}#{nl}Consumes #{CaptionRatio}# Corpse(s)
+SKILL_20170420_008517	Attack: #{SkillFactor}#% x 15{nl}Duration: 15 seconds{nl}Consumes #{CaptionRatio}# Corpse(s)
+SKILL_20170420_008518	Attack: #{SkillFactor}#{nl}Dirty Pole Duration: #{CaptionRatio}# seconds{nl}{#339999}{ol}[Decay]{/}{/} Duration: #{CaptionTime}# seconds{nl}Consumes #{CaptionRatio2}# Corpses
+SKILL_20170420_008519	Attack: #{SkillFactor}#%{nl}}Number of Corpses: #{CaptionRatio2}#{nl}Casting Time: #{CaptionTime}# seconds
+SKILL_20170420_008520	Attack: #{SkillFactor}#%{nl}{#339999}{ol}[Bleeding]{/}{/} Duration: 5 seconds{nl}Recovers #{CaptionRatio2}#% of damage
+SKILL_20170420_008521	Attack: #{SkillFactor}#{nl}Blood Sucking: #{CaptionRatio2}#%{nl}Consumes #{CaptionTime}# SP per 0.4 second
+SKILL_20170420_008522	{nl}Bone Pointing Duration: #{CaptionRatio2}# seconds{nl}{#339999}{ol}[Curse]{/}{/} Duration: 7 seconds
+SKILL_20170420_008523	Attack #{SkillFactor}#%{nl}Duration #{CaptionRatio2}#Seconds
+SKILL_20170420_008524	{#993399}{ol}[Magic] - [Poison]{/}{/}{nl}Use Kundela to attack enemies. The cursed enemies receive additional damage.
+SKILL_20170420_008525	Attack: #{SkillFactor}#{nl}{#339999}{ol}[Curse]{/}{/} Additional damage to enemies afflicted with [Curse]
+SKILL_20170420_008526	Attack #{SkillFactor}#%{nl}HP consumption while using the skill #{CaptionRatio}#%{nl}Duration #{CaptionTime}#seconds
+SKILL_20170420_008527	#{SkillFactor}#% Attack per 0.3 seconds{nl}Duration 6.6 seconds{nl}#{CaptionRatio2}#additional damage per second
+SKILL_20170420_008528	Attack #{SkillFactor}#% x #{CaptionRatio2}#counts {nl}Duration 30 seconds
+SKILL_20170420_008529	Attack #{SkillFactor}#{nl}Stigma duration 20 seconds
+SKILL_20170420_008530	Additional Damage #{SkillAtkAdd}#{nl}Max Duration 5 seconds{nl}Requires summoned Evil Spirits
+SKILL_20170420_008531	Attack: #{SkillFactor}#%{nl}Consumes 1 Rune Stone{nl}Casting Time: 64 seconds
+SKILL_20170420_008532	Duration: #{CaptionTime}# seconds{nl}Increases Ice-property skill attack by 150%{nl}Consumes 1 Rune Stone{nl}Casting Time: 4 seconds
+SKILL_20170420_008533	Giant Size Duration: #{CaptionTime}# seconds{nl}Magic Circle Duration: 10 seconds{nl}Defense, Maximum HP: #{CaptionRatio}#%{nl}Movement Speed: +#{CaptionRatio2}#{nl}Consumes 1 Rune Stone{nl}Casting Time: 4 seconds
+SKILL_20170420_008534	Attack: #{SkillFactor}#% x 5{nl}Consumes 1 Rune Stone{nl}Casting Time: 4 seconds
+SKILL_20170420_008535	Resistance Effect Chance: +#{CaptionRatio}#%{nl}Duration: #{CaptionTime}# seconds{nl}Consumes 1 Rune Stone{nl}Casting Time: 4 seconds
+SKILL_20170420_008536	Attack: #{SkillFactor}#%{nl}Duration 1.5 seconds
+SKILL_20170420_008537	Attack: #{SkillAtkAdd}#{nl}Dimension Duration: #{CaptionTime}# seconds
+SKILL_20170420_008538	Attack #{SkillAtkAdd}#{nl}Duration of Boosted Movement Speed #{CaptionTime}# seconds
+SKILL_20170420_008539	Attack: #{SkillFactor}#%{nl}{#339999}{ol}[Skew]{/}{/} Duration: #{CaptionTime}# seconds
+SKILL_20170420_008540	Kneel down to improve your concentration. Increases your attack, attack speed and range. Either casting Kneeling Shot or jumping will turn the kneeling state off.
+SKILL_20170420_008541	Physical Damage: +#{CaptionRatio}#{nl}Range: +#{CaptionRatio2}#{nl}Attack Speed: +#{CaptionTime}#
+SKILL_20170420_008542	Moving Shot Movement Speed: +#{CaptionRatio3}#%{nl}Physical Defense: -#{CaptionRatio}#{nl}Evasion: +#{CaptionRatio2}#{nl}Duration: #{CaptionTime}# seconds
+SKILL_20170420_008543	{#DD5500}{ol}[Missile]{/}{/} {#7AE4FF}{ol}[{img tooltip_speedofatk}speedofatk]{/}{/}{nl}Fires an arrow that bounces off of the target to hit an adjacent enemy.
+SKILL_20170420_008544	Attack: #{SkillFactor}#%{nl}/Bounced arrow attack #{CaptionRatio}#%
+SKILL_20170420_008545	{#DD5500}{ol}[Missil]{/}{/} {#7AE4FF}{ol}[{img tooltip_speedofatk}speedofatk]{/}{/}{nl}Fires two arrow simultaneously to the enemy.
+SKILL_20170420_008546	Attack #{SkillFactor}#% x 2
+SKILL_20170420_008547	{#DD5500}{ol}[Missile]{/}{/} {#7AE4FF}{ol}[{img tooltip_speedofatk}speedofatk]{/}{/}{nl}{nl}Fires 5 arrows forward in an arc in front of you.
+SKILL_20170420_008548	Attack #{SkillFactor}#% x 5
+SKILL_20170420_008549	{#DD5500}{ol}[Missile]{/}{/}{#7AE4FF}{ol}[{img tooltip_speedofatk}공격?�도]{/}{/}{nl}Fires an arrow with a high chance of critical at a target.
+SKILL_20170420_008550	Attack: #{SkillFactor}#%{nl}Additional Critical Chance 62%
+SKILL_20170420_008551	Attack: +#{CaptionRatio}#%{nl}Additional Damage: #{CaptionRatio2}#{nl}Duration: 10 seconds
+SKILL_20170420_008552	Attack: #{SkillFactor}#%{nl}Duration 2 seconds
+SKILL_20170420_008553	Attack: #{SkillFactor}#% {nl}}Number of Targets: #{CaptionRatio}#
+SKILL_20170420_008554	Attack: #{SkillFactor}#%{nl}Attack 5 times
+SKILL_20170420_008555	Attack:   #{SkillFactor}#%{nl}Blocks: #{CaptionRatio}#{nl}Pavise Duration:   #{CaptionTime}# seconds   
+SKILL_20170420_008556	Attack: #{SkillFactor}#%{nl}Throw Count: #{CaptionRatio2}#{nl}Caltrops Duration: #{CaptionTime}# seconds{nl}Reduces enemy's movement speed by 10 for 5 seconds
+SKILL_20170420_008557	Attack: #{SkillFactor}#%{nl}{#339999}{ol}[Stun]{/}{/}Duration: #{CaptionTime}# seconds{nl} Use  1 stone bullet
+SKILL_20170420_008558	Attack #{SkillFactor}#% x no. of hits{nl}Max. load time #{CaptionTime}# seconds
+SKILL_20170420_008559	Allows you to attack while moving quickly. Increases attack speed and deals additional damage when using basic attacks.
+SKILL_20170420_008560	Duration: #{CaptionTime}# seconds{nl}Attack Speed: +10%{nl}Additional Damage: #{CaptionRatio}#%
+SKILL_20170420_008561	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Set up a trap in front of you that fires a buckshot. It triggers by re-using the skill.
+SKILL_20170420_008562	Attack #{SkillFactor}#%{nl}AoE ratio #{CaptionRatio}#{nl}Consumes #{SpendItemCount}# Claymore
+SKILL_20170420_008563	Attack #{SkillFactor}#%{nl}Cast time 3 seconds{nl}Duration #{CaptionRatio2}# seconds{nl}Pine Wood Consumption: #{SpendItemCount}#
+SKILL_20170420_008564	Attack: #{SkillFactor}#{nl}Bomb Explosion Count: #{CaptionRatio}#
+SKILL_20170420_008565	Attack #{SkillFactor}#% x no. of hits{nl}Trap duration 15 seconds{nl}Consumes #{SpendItemCount}# Ash Wood
+SKILL_20170420_008566	Attack: #{SkillFactor}#%{nl}Installs #{CaptionRatio}#
+SKILL_20170420_008567	Attack #{SkillFactor}#%{nl}#{CaptionRatio}# arrows{nl}Install range #{CaptionRatio2}#{nl}Consumes #{SpendItemCount}# Wire
+SKILL_20170420_008568	0.5 second attack #{SkillFactor}#%{nl}Physical defense #{CaptionRatio}#% decrease{nl}Add. critical chance 40%{nl}Duration 5.5 seconds
+SKILL_20170420_008569	#{SkillFactor}#% Attack per 0.5 seconds{nl}Duration 5 seconds
+SKILL_20170420_008570	Temporarily increases companion's Attack, Accuracy, Crit Rate and Basic Attack Speed.
+SKILL_20170420_008571	Companion Attack: +#{CaptionRatio}#{nl}Companion Accuracy: +#{CaptionRatio}#{nl}Companion Critical Rate: +#{CaptionRatio}#{nl}Companion Attack Speed + #{CaptionRatio2}# seconds {nl}Duration: #{CaptionTime}# seconds{nl}Maximum Level: 5
+SKILL_20170420_008572	Attack: #{SkillFactor}#%{nl}Maximum Duration: 5 seconds
+SKILL_20170420_008573	{#DD5500}{ol}[Missile] - [Poison]{/}{/}{nl}Blows a toxic arrow that inflicts damage over a long period of time.
+SKILL_20170420_008574	0.5 second attack #{SkillAtkAdd}#{nl}{#339999}{ol}[Poison]{/}{/} Duration  #{CaptionRatio2}# seconds{nl}Use #{SpendPoison}# Poison pot
+SKILL_20170420_008575	{#DD5500}{ol}[Missile] - [Poison]{/}{/}{nl}Fires a contagious poison arrow. The poisoned target spreads poison around to nearby enemies whenever it is attacked. {nl}
+SKILL_20170420_008576	{#DD5500}{ol}[Physical] - [Poison]{/}{/}{nl}Create a poison puddle by throwing a pot filled with poison. Any enemy who come into contact with the puddle is poisoned. {nl}
+SKILL_20170420_008577	0.5 seconds attack #{SkillFactor}#%{nl}Duration #{CaptionTime}# seconds{nl}Consumes  #{SpendPoison}# Poison Pot
+SKILL_20170420_008578	{#DD5500}{ol}[Physical] - [Poison]{/}{/}{nl}Throw Jincan to attack enemies. Defeated enemies have a chance to be replaced with a poison insect that attacks other enemies.{nl}Damage increases with STR.
+SKILL_20170420_008579	Applies a poison once to the weapon of you and your party members for the next attack.{nl}Damage increases with STR.
+SKILL_20170420_008580	Attack: #{SkillFactor}#%{nl}target hit {#339999}{ol}[Fear]{/}{/}+{#339999}{ol}[Confusion]{/}{/}{nl}{#339999}{ol}Inflict [Fear] to Maximum Targets: #{CaptionRatio}# {#339999}{ol}{/}{/}{nl}Duration #{CaptionTime}#
+SKILL_20170420_008581	Maximum Duration: #{CaptionRatio2}# seconds{nl}Consumes #{CaptionRatio}# SP per second
+SKILL_20170420_008582	{#DD5500}{ol}[Missile] {#7AE4FF}{ol}[{img tooltip_speedofatk} attack speed]{/}{/}{nl}Fires an arrow that, upon hitting a target, bounces to hit two nearby enemies.
+SKILL_20170420_008583	Attack: #{SkillFactor}#%{nl}/Bounced arrow attack #{CaptionRatio2}#%
+SKILL_20170420_008584	Trick an enemy to lower its guard. Temporarily decreases the evasion of enemies in front of you.
+SKILL_20170420_008585	Attack: #{SkillAtkAdd}#{nl}STR: +#{CaptionRatio}#{nl}Duration: #{CaptionTime}# seconds
+SKILL_20170420_008586	{#DD5500}{ol}[Physical] - [Pierce]{/}{/} {#7AE4FF}{ol}[{img tooltip_speedofatk} attack speed]{/}{/}{nl}Continuously attack using your dagger. A double attack with a high critical rate may stun the enemy. Attacking from the back deals extra damage.
+SKILL_20170420_008587	Attack #{SkillFactor}#% x 2 times{nl}Critical chance #{CaptionRatio}#%
+SKILL_20170420_008588	Attack: #{SkillFactor}#{nl}Bleeding Duration: #{CaptionTime}# seconds{nl}Consumes 1 Broadhead Arrow
+SKILL_20170420_008589	Attack: #{SkillFactor}#%{nl}Physical Defense: -#{CaptionRatio}#% {nl}Removes Reflect Shield{nl}Consumes 1 Bodkin Arrow
+SKILL_20170420_008590	{#DD5500}{ol}[Missile]{/}{/} {#7AE4FF}{ol}[{img tooltip_speedofatk} attack speed]{/}{/}{nl}Fires a barbed arrowhead. Deals a number of hits depending on an enemy's defense type.
+SKILL_20170420_008591	Attack: #{SkillFactor}#%{nl}Cloth armor-type Targets: 3 hits{nl}Leather armor-type Targets: 2 hits{nl}Plate armor-Type targets: 1 hit{nl}Ghost armor-type targets: Nullifies{nl}Consumes 1 Barbed Arrow
+SKILL_20170420_008592	{#DD5500}{ol}[Missile]{/}{/} {#7AE4FF}{ol}[{img tooltip_speedofatk} attack speed]{/}{/}{nl}Fires an arrow that, upon hitting an enemy, creates a cross-shaped explosion.
+SKILL_20170420_008593	Attack: #{SkillFactor}#%{nl}Explosion Attack: #{CaptionRatio}#%{nl}Consumes 1 Hail Mary Arrow
+SKILL_20170420_008594	Attack: #{SkillFactor}#% x #{CaptionRatio2}# time(s){nl}Duration: 10 seconds{nl}Consumes 1 Magic Arrow
+SKILL_20170420_008595	Attack #{SkillFactor}#%{nl}Explosion attack  #{SkillFactor}#%{nl}Duration 1.5 seconds{nl}Consumes 1 Divine Machine Arrow
+SKILL_20170420_008596	Attack #{SkillFactor}#% x #{CaptionRatio2}# times{nl}Able to use while riding
+SKILL_20170420_008597	{#DD5500}{ol}[Missile]{/}{/}{nl}Shoot forward while pushing yourself back with recoil.
+SKILL_20170420_008598	Attack: #{SkillFactor}#%{nl}Able to use while riding
+SKILL_20170420_008599	Duration #{CaptionTime}# seconds{nl}Add. damage  #{CaptionRatio2}#%{nl}Able to use while riding
+SKILL_20170420_008600	0.3 second attack #{SkillFactor}#% x no. of hits{nl}Duration 10 seconds{nl}Able to use while riding
+SKILL_20170420_008601	Attack #{SkillFactor}#% x 9
+SKILL_20170420_008602	0.3 second attack #{SkillFactor}#%{nl}Duration 10 seconds{nl}Able to use while riding
+SKILL_20170420_008603	Attack #{SkillFactor}#%{nl}Duration #{CaptionRatio}#Seconds
+SKILL_20170420_008604	Attack #{SkillFactor}#% x 11
+SKILL_20170420_008605	{#DD5500}{ol}[Missile]{/}{/}{nl}Aim accurately at the head of an enemy to attack. The attacked enemy will have its INT and SPR temporarily reduced.
+SKILL_20170420_008606	Attack #{SkillFactor}#%{nl}Reduces #{CaptionRatio2}# INT and SPR
+SKILL_20170420_008607	Attack #{SkillFactor}#%{nl}
+SKILL_20170420_008608	{#DD5500}{ol}[Physical] - [Strike]{/}{/} {#7AE4FF}{ol}[{img tooltip_speedofatk} attack speed]{/}{/}{nl}Use the butt of the gun to attack an enemy in close distance.
+SKILL_20170420_008609	{#DD5500}{ol}[Physical] - [Pierce]{/}{/} {#7AE4FF}{ol}[{img tooltip_speedofatk} attack speed]{/}{/}{nl}Stab an enemy by using the bayonet equipped to the rifle. The stabbed enemy might be pushed back.
+SKILL_20170420_008610	Attack #{SkillFactor}#%{nl}Falls down the targets in Hanging Shot or Levitation{nl}Stuns and Deals Additional Damage to Flying Type Enemies
+SKILL_20170420_008611	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Aim at the upper part of the enemy and slash.
+SKILL_20170420_008612	Attack: #{SkillFactor}#% x 6{nl}AoE Attack Ratio: #{SkillSR}#{nl}Able to use while riding
+SKILL_20170420_008613	Attack #{SkillFactor}#%{nl}Bombardment Duration #{CaptionTime}# seconds{nl}Able to use while riding
+SKILL_20170420_008614	Attack #{SkillFactor}#%{nl}Duration #{CaptionTime}# seconds{nl}Able to use while riding
+SKILL_20170420_008615	Attack #{SkillFactor}#%{nl}Enemy Movement Speed Decreases for 7 seconds by #{CaptionRatio2}#%{nl}Able to use while riding
+SKILL_20170420_008616	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Push your sword in with great force to attack. The target receives additional damage from Hackapell skills and has a chance to bleed for 10 seconds.
+SKILL_20170420_008617	Attack #{SkillFactor}#% x3{nl}Status Ailment Duration #{CaptionTime}# seconds{nl}Bleed Chance 30%{nl}Able to Use while Riding
+SKILL_20170420_008618	{#DD5500}{ol}[Missile]{/}{/} {#7AE4FF}{ol}[{img tooltip_speedofatk} attack speed]{/}{/}{nl}Fire five arrows at once to attack enemies within range.
+SKILL_20170420_008619	Attack #{SkillFactor}#% x no. of hits{nl}Arrow Rain Duration: 3 seconds
+SKILL_20170420_008620	Attack #{SkillAtkAdd}#{nl}AoE Ratio #{SkillSR}#{nl}Reduced Enemy Movement Speed Chance #{CaptionRatio2}#%
+SKILL_20170420_008621	Attack #{SkillFactor}#%{nl}Min. critical chance increase{nl}Duration #{CaptionRatio}# Seconds
+SKILL_20170420_008622	Attack: #{SkillFactor}#%{nl}Recovers HP equal to 5% of your maximum HP{nl}Additional HP Recovery Rate: #{CaptionRatio}# ~ #{CaptionRatio2}#{nl}Magic Circle Duration: #{CaptionTime}# seconds
+SKILL_20170420_008623	#{CaptionRatio3}# second attack #{SkillFactor}#%{nl}No. of hits: #{CaptionRatio}#{nl}Magic circle duration #{CaptionTime}#seconds
+SKILL_20170420_008624	Decreases 0.3% per stack{nl}Magic circle duration #{CaptionTime}# seconds
+SKILL_20170420_008625	0.3 second attack #{SkillFactor}#%{nl}No. of hits #{CaptionRatio}#{nl}Magic circle duration 30 seconds
+SKILL_20170420_008626	Creates a magic circle that temporarily maintains the beneficial effects of you and your party members. Duration will no surpass 20 seconds.
+SKILL_20170420_008627	Duration #{CaptionRatio2}#% increase
+SKILL_20170420_008628	Attack #{SkillFactor}#%{nl}Physical defense #{CaptionRatio}# increase{nl}Targets: 10{nl}Duration #{CaptionTime}# seconds{nl}Consumes 1 Holy Water
+SKILL_20170420_008629	Max. Magic Circles: #{CaptionRatio3}#{nl}Increases DEX for allies{nl}Enemy's Evasion: -#{CaptionRatio}#{nl}Decreases enemy's defense by 10%{nl}Duration for allies: #{CaptionTime}# seconds{nl}Duration for enemies #{CaptionRatio2}# seconds
+SKILL_20170420_008630	Resurrects a target that has been defeated in combat.{nl}In Team Battle League, allows for 1 resurrection per round.
+SKILL_20170420_008631	Attack: #{SkillFactor}#%{nl}Casting Time: #{CaptionTime}# seconds{nl}HP recovery after resurrection: #{CaptionRatio}#%
+SKILL_20170420_008632	Holy Property Attack: +#{CaptionRatio}#{nl}Additional Property Damage: +#{CaptionRatio2}#{nl}Duration: #{CaptionTime}# seconds{nl}Consumes 1 Gyslotis
+SKILL_20170420_008633	{#993399}{ol}[Magic] - [Holy]{/}{/}{nl}Creates an exorcism circle that damages enemies inside, then deals continuous damage.
+SKILL_20170420_008634	0.4 second attack #{SkillFactor}#%{nl}Duration #{CaptionTime}#Seconds
+SKILL_20170420_008635	Magic Defense: -#{CaptionRatio}#% decrease{nl}Hexing Duration: #{CaptionTime}# seconds
+SKILL_20170420_008636	Attack: #{SkillFactor}#%{nl}Attack bonus on 3rd attack #{CaptionRatio}#times ~ #{CaptionRatio2}#times
+SKILL_20170420_008637	Attack#{SkillFactor}#%{nl}Max. duration 10 seconds{nl}Requires summoned zombies
+SKILL_20170420_008638	Attack #{SkillFactor}#%{nl}Max. targets #{CaptionRatio2}#
+SKILL_20170420_008639	{#DD5500}{ol}[Physical] - [Pierce]{/}{/} {#7AE4FF}{ol}[{img tooltip_speedofatk} attack speed]{/}{/}{nl}Attack the target by using a carving knife. Plant-type monsters take additional bonus damage and may drop statue materials.
+SKILL_20170420_008640	Attack #{SkillFactor}#% x 5{nl}Additional Damage to Plant-type Monsters +#{CaptionRatio}#{nl}Statue Materials Drop Rate #{CaptionTime}#%{nl}AoE Attack Ratio 1
+SKILL_20170420_008641	Attack: #{SkillFactor}#% x3{nl}Block: #{CaptionRatio}# times{nl}Duration 25 seconds{nl}Consumes 2 Oak Wood
+SKILL_20170420_008642	Carve a divine World Tree that silences nearby enemies.
+SKILL_20170420_008643	Body moving range #{CaptionRatio}#
+SKILL_20170420_008644	STR, CON, INT, SPR, DEX: -#{CaptionRatio}#{nl}Consumes #{CaptionRatio2}# SP per second{nl}Maximum Duration: 10 seconds
+SKILL_20170420_008645	0.3 second attack #{SkillFactor}#%{nl}Targets #{CaptionRatio2}#{nl}Max. duration 6.5 seconds
+SKILL_20170420_008646	Transfer a portion of your INT stat to an ally in front of you.
+SKILL_20170420_008647	{#DD5500}{ol}[Physical] - [Strike]{/}{/} {#7AE4FF}{ol}[{img tooltip_speedofatk} attack speed]{/}{/}{nl}Strike down enemies with a powerful attack. Deals triple damage to Mutant and Devil-type enemies.
+SKILL_20170420_008648	Property resistance #{CaptionRatio}# increase{nl}Property attack damage #{CaptionRatio3}#% decrease{nl}Nullification chance #{CaptionRatio2}#%{nl}Enemy's magic defense 8% decrease{nl}Duration #{CaptionTime}# seconds
+SKILL_20170420_008649	Attack: #{SkillFactor}#%{nl}Maximum Targets: #{CaptionRatio}#
+SKILL_20170420_008650	{#DD5500}{ol}[Physical] - [Strike]{/}{/} {#7AE4FF}{ol}[{img tooltip_speedofatk} attack speed]{/}{/}{nl}Attacks an enemy marking them as a traitor. Reduces resistance to Fire, Ice, Lightning and Poison of an enemy that receives the attack. Deals additional damage to a stunned enemy.
+SKILL_20170420_008651	Attack #{SkillFactor}#% x 2{nl}AoE attack ratio #{SkillSR}#{nl}Property resistance #{CaptionRatio2}# decrease
+SKILL_20170420_008652	{#DD5500}{ol}[Physical] - [Strike]{/}{/} {#7AE4FF}{ol}[{img tooltip_speedofatk} attack speed]{/}{/}{nl}Use your trained fists to attack an enemy in quick succession. The target receives additional strike damage for a period of time.
+SKILL_20170420_008653	Attack: #{SkillFactor}#% x2{nl}Use 2 Stamina
+SKILL_20170420_008654	{#DD5500}{ol}[Physical] - [Strike]{/}{/} {#7AE4FF}{ol}[{img tooltip_speedofatk} attack speed]{/}{/}{nl}Use your trained fingertips to attack an enemy by inflicting an internal injury. Deals additional damage proportional to the enemy's defense (additional damage does not exceed character's max. attack).
+SKILL_20170420_008655	{#DD5500}{ol}[Physical] - [Strike]{/}{/} {#7AE4FF}{ol}[{img tooltip_speedofatk} attack speed]{/}{/}{nl}Strike with a powerful hand knife to deal damage on an enemy. Deals additional damage proportional to the enemy's INT (additional damage does not exceed character's max. attack).
+SKILL_20170420_008656	{#DD5500}{ol}[Physical] - [Strike]{/}{/} {#7AE4FF}{ol}[{img tooltip_speedofatk} attack speed]{/}{/}{nl}Extend your fist from a close distance to destroy the insides of an enemy. The attacked enemy will steadily lose HP and SP.
+SKILL_20170420_008657	Attack per Hit: #{SkillFactor}#%{nl}Consumes #{CaptionRatio3}# SP per second
+SKILL_20170420_008658	Attack #{SkillFactor}#%{nl}Consumes #{CaptionRatio2}# silver
+SKILL_20170420_008659	Attack: #{SkillFactor}#%{nl}Target #{CaptionRatio}#{nl}Heal all party members{nl}Heal #{CaptionRatio}# allies{nl}Uses 500 silver
+SKILL_20170420_008660	Attack #{SkillFactor}#%{nl}Consumes #{CaptionRatio}# silver
+SKILL_20170420_008661	Penetrate into the mind of an enemy in front of you to control it.
+SKILL_20170420_008662	Transform into a monster of the Animal-type, Plant-type or Insect-type in front of you for a given duration.
+SKILL_20170420_008663	Abel to Use Wolf Skills{nl}Additional Attack #{SkillFactor}#%{nl}Max Duration #{CaptionTime}# minutes{nl}SP Consumption 80 per minute
+SKILL_20170420_008664	Increases the maximum SP and STA of you and your party members.
+SKILL_20170420_008665	Install a magic circle that grants super healing abilities temporarily. You or your party members recover HP equal to the amount left at the point when the magic circle is stepped on.
+SKILL_20170420_008666	0.4 second attack #{SkillFactor}#%{nl}Basic duration #{CaptionRatio2}# seconds
+SKILL_20170420_008667	Spread all status ailments on targeted enemies to other enemies within the range.
+SKILL_20170420_008668	0.5 second attack #{SkillFactor}#%{nl}Duration #{CaptionTime}#Seconds
+SKILL_20170420_008669	Duration: #{CaptionTime}# seconds{nl}Additional Damage: #{CaptionRatio}#% x7
+SKILL_20170420_008670	Attack: #{SkillFactor}#%{nl}Attribute Damage: #{CaptionRatio}#%{nl}100% magic attack damage on collision{nl}Max. collisions: #{CaptionRatio2}#
+SKILL_20170420_008671	Attack #{SkillFactor}#%{nl}Max. installs #{CaptionRatio2}#
+SKILL_20170420_008672	0.3 second attack #{SkillFactor}#%{nl}Duration #{CaptionTime}# seconds{nl}Requires 1 Wheel of Judgement
+SKILL_20170420_008673	{#DD5500}{ol}[Physical] - [Strike]{/}{/} {#7AE4FF}{ol}[{img tooltip_speedofatk} attack speed]{/}{/}{nl}Lifts the weapon high up in the air above the head and smash it down. If Blunt weapon, deals additional damage.
+SKILL_20170420_008674	Attack #{SkillFactor}#% x7{nl}Duration #{CaptionTime}# seconds {nl}Max. No. of Targets 7
+SKILL_20170420_008675	Explosion Attack #{SkillFactor}#%{nl}Charm Duration #{CaptionTime}# minutes{nl}AoE #{CaptionRatio}#{nl}Requites 2 sheets of Strange Yellow Paper
+SKILL_20170420_008676	Attack: #{SkillFactor}#{nl}{#339999}{ol}[Stun]{/}{/} Duration 3 seconds
+SKILL_20170420_008677	Attack: #{SkillFactor}#%{nl}Targets: #{CaptionRatio2}#
+SKILL_20170420_008678	Calling Storm Attack #{SkillFactor}#%{nl}Charm Duration #{CaptionRatio}# seconds{nl}Storm Duration #{CaptionTime}# seconds{nl}Requires 2 sheets of Strange Yellow Paper
+SKILL_20170420_008679	Explosion Attack #{SkillFactor}#% x 3{nl}Charm duration #{CaptionTime}# minutes{nl}Fire, Ice, Lightening Property Resistance #{CaptionRatio}# increase{nl}Requires 2 sheets of Strange Yellow Paper
+SKILL_20170420_008680	{#993399}{ol}[Magic]{/}{/}{nl}Install Creeping Death charm that moves slowly foward. Creeping Death deals continuous damage to the targets coming in contact with it while moving. Deals additional damage when exploding via Begone Demon.
+SKILL_20170420_008681	Attack #{SkillFactor}#% x #{CaptionRatio}#{nl}Explosion attack #{CaptionRatio2}#%{nl}Requires 3 sheets of Strange Yellow Paper
+SKILL_20170420_008682	Sweeps the floor with the purified and divine broom. The sweeped area increases the skill level of magic circles in use at that location for a period of time.
+SKILL_20170420_008683	0.3 second attack #{SkillFactor}#%{nl}Max. targets: 10{nl}Duration #{CaptionRatio2}# seconds
+SKILL_20170420_008684	Clap your hands twice. Increases duration for some installations nearby.
+SKILL_20170420_008685	Maximum Duration #{CaptionTime}#seconds{nl}Consumes #{CaptionRatio}#% SP per second{nl}Additional Holy property Damage: #{CaptionRatio2}#%
+SKILL_20170420_008686	Increases your critical rate.
+SKILL_20170420_008687	Basic attack speed increased. 
+SKILL_20170420_008688	Numbed. Movement and attack speed decreased.
+SKILL_20170420_008689	When attacking with Hackapell skill, additional damage will be dealt.
+SKILL_20170420_008690	The duration time of beneficial buffs has been increased.
+SKILL_20170420_008691	Mount the demon to reduce the amount of damage received.
+SKILL_20170420_008692	Reduces Darkness property damage by 5%.
+SKILL_20170420_008693	Receive 2.5% less Darkness property damage per stack.
+SKILL_20170420_008694	Reduces Darkness property damage by 10%.
+SKILL_20170420_008695	Receive 5% less Darkness property damage per stack.
+SKILL_20170420_008696	Reduces Ice property damage by 5%.
+SKILL_20170420_008697	Receive 2.5% less Ice property damage per stack.
+SKILL_20170420_008698	Reduces Ice property damage by 10%.
+SKILL_20170420_008699	Receive 5% less Ice property damage per stack.
+SKILL_20170420_008700	Reduces Darkness property damage by 15%.
+SKILL_20170420_008701	Receive 7.5% less Darkness property damage per stack.
+SKILL_20170420_008702	* Can equip [Cloth] armor{nl}* When 3 pieces of [Cloth] armor are equipped, magic damage taken is decreased by 5%{nl}* When 4 or more [Cloth] armor pieces are equipped, magic damage taken is decreased by 10%
+SKILL_20170420_008703	* Can equip [Leather] armor{nl}* When 3 pieces of [Leather] armor are equipped, critical attack is increased by 30{nl}* When 3 pieces of [Leather] are equipped, accuracy is increased by 30{nl}* When 4 or more [Leather] armor pieces are equipped critical attack is increased by 50{nl}* When 4 or more [Leather] armor pieces are equipped, accuracy is increased by 50 
+SKILL_20170420_008704	* Can equip [Plate] armor{nl}* When 3 pieces of [Plate] armor are equipped, physical damage taken is decreased by 5%{nl}* When 4 or more [Plate] armor pieces are equipped, physical damage taken is decreased by 10%
+SKILL_20170420_008705	* Increases damage dealt on an enemy with [Bash] by 0.5% per attribute level
+SKILL_20170420_008706	* Increases damage dealt with [Thrust] by 0.5% per attribute level
+SKILL_20170420_008707	* Amplifies physical damage increase effect and decreased defense effect of [Gung Ho] by 1% per attribute level
+SKILL_20170420_008708	* Increases additional damage of [Concentrate] by 1% per attribute level
+SKILL_20170420_008709	* Increases damage dealt with [Pommel Beat] by 0.5% per attribute level
+SKILL_20170420_008710	* Increases damage dealt with [Double Slash] by 0.5% per attribute level
+SKILL_20170420_008711	* Increases AoE attack ratio of [Bash] by 1 per attribute level{nl}* Increases SP consumption by 10%
+SKILL_20170420_008712	* Activates consecutive attacks when using [Thrust] by 1% chance per attribute level{nl}* Increases SP consumption by 10%
+SKILL_20170420_008713	* Enemies hit by [Bash] are knocked down{nl}* Increases SP consumption by 30%
+SKILL_20170420_008714	* Increases critical chance of [Double Slash] by 7% per attribute level{nl}* Increases SP consumption by 10%
+SKILL_20170420_008715	* Inflicts [Bleeding] on stunned enemies for 5 seconds with [Thrust]{nl}* Bleeding damage is proportional to character's STR{nl}* Increases SP consumption by 10%
+SKILL_20170420_008716	* Enemies stunned by [Restrain] become slowed down after stun wears off{nl}* Increases duration of slow effect by 3 seconds per attribute level{nl}* Increases SP consumption by 10%
+SKILL_20170420_008717	Increases the duration of stun from [Restrain] by 1 second per attribute level {nl}* Increases SP consumption by 20%
+SKILL_20170420_008718	* Increases [Pain Barrier] duration for 5 seconds{nl}* Increases SP consumption by 10%
+SKILL_20170420_008719	* Increases damage with [Rim Blow] by 0.5% per attribute level
+SKILL_20170420_008720	* Increases damage with [Rim Blow] by 0.5% per attribute level
+SKILL_20170420_008721	* Increases damage dealt with [Shield Lob] by 0.5% per attribute level
+SKILL_20170420_008722	* Increases damage dealt with [Butterfly] by 0.5% per attribute level
+SKILL_20170420_008723	* Increases character's maximum HP by 5% per attribute level when [Swash Buckling] is active{nl}* Increases SP consumption by 10%
+SKILL_20170420_008724	* Enemies hit by [Umbo Blow] have a 5% chance per attribute level to become afflicted with [Stun] for 3 seconds{nl}* Increases SP consumption by 10%
+SKILL_20170420_008725	* Increases AoE attack ratio of [Shield Lob] by 1 per attribute level{nl}* Increases SP consumption by 30%
+SKILL_20170420_008726	* Enemies hit by [Umbo Blow] will be knocked down{nl}* Increases knockdown power by 40 per attribute level{nl}* Increases SP consumption by 10%
+SKILL_20170420_008727	* Applies damage of [Rim Blow] to 60% when using [High Guard]{nl}* From Lv2, damage increases by 10% per attribute level
+SKILL_20170420_008728	* Applies damage of [Umbo Blow] to 60% when using [High Guard]* From Lv2, damage increases by 10% per attribute level
+SKILL_20170420_008729	* Increases character's evasion by 6% per attribute level when [Guardian] is active{nl}* Increases SP consumption by 10%
+SKILL_20170420_008730	* Increases damage dealt with [Umbo Thrust] by 0.5% per attribute level
+SKILL_20170420_008731	* Increases damage dealt with [Langort] by 0.5% per attribute level
+SKILL_20170420_008732	* Using [Langort] increases the chance to block enemy attacks by 5% per attribute level{nl}* After a successful block, the enemy becomes afflicted with [Silence] for 3 seconds{nl}* Increases SP consumption by 10%
+SKILL_20170420_008733	* Party members receive a buff when [Swash Buckling] is used{nl}* Increases SP consumption by 10%
+SKILL_20170420_008734	* Increases damage dealt with [Cartar Stroke] by 0.5% per attribute level
+SKILL_20170420_008735	* Increases damage dealt with [Crown] by 0.5% per attribute level
+SKILL_20170420_008736	* Increases damage dealt with [Wagon Wheel] by 0.5% per attribute level
+SKILL_20170420_008737	* Enhances physical defense increase effect of [Cross Guard] by 3 per attribute level
+SKILL_20170420_008738	* Increases damage dealt with [Moulinet] by 0.5% per attribute level
+SKILL_20170420_008739	* Increases damage dealt with [Skull Swing] by 0.5% per attribute level
+SKILL_20170420_008740	Increases the knockback power of [Cartar Stroke] by 50 per attribute level{nl}* increases SP consumption by 20%
+SKILL_20170420_008741	* Increases enemy INT and SPR reduction from [Crown] by 2% per attribute level{nl}* Increases SP consumption by 10%
+SKILL_20170420_008742	* Increases AoE attack ratio of [Wagon Wheel] by 1{nl}* Increases SP consumption by 10%
+SKILL_20170420_008743	* Increases critical chance of [Moulinet] by 12% per attribute level{nl}* Increases SP consumption by 10%
+SKILL_20170420_008744	* Enemies blocked by [Crossguard] remain staggered for 1 second longer per attribute level{nl}* Increases SP consumption by 10%
+SKILL_20170420_008745	* Deals additional damage equal to 50% physical attack to enemies knock backed with [Cartar Stroke]{nl}* Increases SP consumption by 10%
+SKILL_20170420_008746	* [Cartar Stroke] no longer knocks enemies back{nl}* Only applies if attribute is set to ON{nl}* Increases SP consumption by 10%
+SKILL_20170420_008747	* Increases damage dealt with [Skyliner] by 0.5% per attribute level
+SKILL_20170420_008748	* Increases damage dealt with [Crosscut] by 0.5% per attribute level
+SKILL_20170420_008749	* Increases damage dealt with [Vertical Slash] by 0.5% per attribute level
+SKILL_20170420_008750	* Removes knockback effect from [Skull Swing] does not push away enemies anymore{nl}* Only applies if attribute is set to ON{nl}* Increases SP consumption by 10%
+SKILL_20170420_008751	* Decreases charging time of [Cartar Stroke] by half{nl}* Increases SP consumption by 20%
+SKILL_20170420_008752	* Increases damage dealt with [Stabbing] by 0.5% per attribute level
+SKILL_20170420_008753	* Increases damage dealt with [Synchro Thrusting] by 0.5% per attribute level
+SKILL_20170420_008754	* Increases damage dealt with [Pierce] by 0.5% per attribute level
+SKILL_20170420_008755	* Increases damage dealt with [Long Stride] by 0.5% per attribute level
+SKILL_20170420_008756	* Increases damage dealt with [Spear Throw] by 0.5% per attribute level
+SKILL_20170420_008757	* Increases evasion and magic defense by 5% per attribute level when using [Stabbing]{nl}* Increases SP consumption by 10%
+SKILL_20170420_008758	* Deals 4 consecutive hits on boss monsters with [Pierce]{nl}* Increases SP consumption by 10%
+SKILL_20170420_008759	* Enemies hit by [Pierce] have a 2% chance per attribute level of being afflicted with [Bleeding] for 6 seconds{nl}* Bleeding damage is proportional to character's physical attack{nl}* Increases SP consumption by 10%
+SKILL_20170420_008760	* Adds 10% of your INT to physical damage while [Finestra] is active{nl}* Increases SP consumption by 10%
+SKILL_20170420_008761	* Increases AoE attack ratio by 3, but reduces evasion rate by x2 more of the existing value when [Finestra] is active{nl}* Increases SP consumption by 3{nl}* Increases SP consumption by 10%
+SKILL_20170420_008762	* Enemies hit by [Spear Throw] have a chance to be afflicted with [Bind] for 7 seconds{nl}* Chances increase by 15% per attribute level{nl}* Increases SP consumption by 10%
+SKILL_20170420_008763	* Increases damage dealt with [Spear Lunge] by 0.5% per attribute level
+SKILL_20170420_008764	* Increases damage dealt with [Embowel] by 0.5% per attribute level
+SKILL_20170420_008765	* Enhances physical attack increase effect of [Warcry] by 1% per attribute level{nl}* Attribute applies after an enemy's defense is reduced
+SKILL_20170420_008766	* Increases damage dealt with [Stomping Kick] by 0.5% per attribute level
+SKILL_20170420_008767	* Increases the amount of enemies [Warcry] can affect by 1 per attribute level{nl}* Increases SP consumption by 20{nl}* Increases SP consumption by 30%
+SKILL_20170420_008768	Increases the duration of [Warcry] by 2 seconds per attribute level{nl}* Increases SP consumption by 20%
+SKILL_20170420_008769	* Increases critical chance of [Savagery] by 5% per attribute level{nl}* Increases SP consumption by 10%
+SKILL_20170420_008770	* Applies Continuous Attack bonus to slash attacks for [Savagery]{nl}* Increases SP consumption by 10%
+SKILL_20170420_008771	* Maintains the stacks from [Frenzy] when switching to another target, but the maximum amount of stacks is reduced by half{nl}* Increases SP consumption by 10%
+SKILL_20170420_008772	* Adds critical attack proportional to physical attack when [Aggressor] is active{nl}* Increases by 5% per attribute level{nl}* Increases {nl}* Increases SP consumption by 20%
+SKILL_20170420_008773	* Increases damage dealt with [Pouncing] by 0.5% per attribute level
+SKILL_20170420_008774	* Increases damage dealt with [Helm Chopper] by 0.5% per attribute level
+SKILL_20170420_008775	* Increases damage dealt with [Seism] by 0.5% per attribute level
+SKILL_20170420_008776	* Increases damage dealt with [Cleave] by 0.5% per attribute level
+SKILL_20170420_008777	* Enemies hit by [Pouncing] have a 8% chance per attribute level of being knocked down{nl}* Increases SP consumption by 5{nl}* Increases SP consumption by 30%
+SKILL_20170420_008778	* Increases duration of all Barbarian debuffs by 1 second per attribute level when affected by the [Warcry] debuff{nl}* Duration increase reduced to 1/3 in PvP{nl}* Increases SP consumption by 10%
+SKILL_20170420_008779	* Increases damage dealt with [Shield Charge] by 0.5% per attribute level
+SKILL_20170420_008780	* Increases damage dealt with [Montano] by 0.5% per attribute level
+SKILL_20170420_008781	* Increases damage dealt with [Targe Smash] by 0.5% per attribute level
+SKILL_20170420_008782	* Increases damage dealt with [Shield Push] by 0.5% per attribute level
+SKILL_20170420_008783	* Inflicts 20% additional damage per attribute level on frozen and petrified enemies with [Targe Smash]{nl}* Increases SP consumption by 10%
+SKILL_20170420_008784	* Inflicts target with [Slow] for 10 seconds and increases duration of [Slow] by 3/2/1 seconds per attribute level on small/medium/large sized monsters respectively with [Montano]{nl}* Increases SP consumption by 10%
+SKILL_20170420_008785	* Spreads [Burn] equal to attribute level when defeating an enemy affected by [Burn] with [Targe Smash]{nl}* Increases SP consumption by 10%
+SKILL_20170420_008786	* Increases damage dealt with [Shooting Star] by 0.5% per attribute level
+SKILL_20170420_008787	* Increases damage dealt with [Slithering] by 0.5% per attribute level
+SKILL_20170420_008788	* Increases duration of the unbalanced status effect applied from [Shield Push] by 1 second per attribute level{nl}* Increases SP consumption by 20%
+SKILL_20170420_008789	* Increases damage dealt with [Shield Shoving] by 0.5% per attribute level
+SKILL_20170420_008790	* Increases damage dealt with [Shield Bash] by 0.5% per attribute level
+SKILL_20170420_008791	* Increases damage dealt with [High Kick] by 0.5% per attribute level
+SKILL_20170420_008792	* Enemies hit by [Slithering] become vulnerable to [Strike] attacks for 10 seconds{nl}Increases additional damage by 10% per attribute level{nl}* Increases SP consumption by 10%
+SKILL_20170420_008793	* Removes knockback effect from [Targe Smash]{nl}* Only applies if attribute is set to ON{nl}* Increases SP consumption by 10%
+SKILL_20170420_008794	* Increases damage with [Impaler] by 0.5% per attribute level
+SKILL_20170420_008795	* Increases damage dealt with [Earth Wave] by 0.5% per attribute level
+SKILL_20170420_008796	* Increases damage dealt with [Steed Charge] by 0.5% per attribute level
+SKILL_20170420_008797	* Increases damage dealt with [Doom Spike] by 0.5% per attribute level
+SKILL_20170420_008798	* Increases damage dealt with [Rush] by 0.5% per attribute level
+SKILL_20170420_008799	* Enemies attacked with [Rush] have a 1% chance per attribute level to be afflicted with [Stun] for 2 seconds{nl}* Increases SP consumption by 20%
+SKILL_20170420_008800	* Changes the property of [Earth Wave] to Earth property{nl}* Increases SP consumption by 10%
+SKILL_20170420_008801	* Applies critical on [Steed Charge] in enemies afflicted with [Slow]{nl}* Increases SP consumption by 20%
+SKILL_20170420_008802	* Removes knockback effect from [Steed Charge]{nl}* Only applies if attribute is set to ON{nl}* Increases SP consumption by 10%
+SKILL_20170420_008803	* Removes knockback effect from [Doom Spike]{nl}* Only applies if attribute is set to ON{nl}* Increases SP consumption by 10%
+SKILL_20170420_008804	* Applies [Slow] with a 4 seconds duration after [Arrest] ends{nl}* Increases duration of [Slow] from Lv2 by 0.4 seconds per attribute level{nl}* Increases SP consumption by 10%
+SKILL_20170420_008805	* Decreases physical defense of enemies affected by [Arrest] by 2% per attribute level.{nl}* Increases SP consumption by 20%
+SKILL_20170420_008806	* Increases damage dealt with [Deadly Combo] by 0.5% per attribute level
+SKILL_20170420_008807	* Increases damage dealt with [Keel Hauling] by 0.5% per attribute level
+SKILL_20170420_008808	* Inflicts [Bleeding] on enemies attacked with [Keel Hauling] for 5 seconds{nl}* Increases the duration of [Bleeding] by 1 second per attribute level{nl}* Bleeding damage is proportional to character's STR{nl}* Increases SP consumption by 10%
+SKILL_20170420_008809	* Increases damage dealt with [Dust Devil] by 0.5% per attribute level
+SKILL_20170420_008810	* Increases damage dealt with [Hexen Dropper] by 0.5% per attribute level
+SKILL_20170420_008811	* Nullifies an enemy's attack by a certain chance when [Jolly Roger] is active{nl}* Applies the chance by 0.5% per attribute level and increases chances depending on number of pirate members{nl}* Does not apply if nobody other than you is a pirate member{nl}* Increases SP consumption by 10%
+SKILL_20170420_008812	* Increases damage dealt with [Pistol Shot] by 0.5% per attribute level
+SKILL_20170420_008813	Decreases a member's HP recovery time by 2 seconds per attribute level while in the [Schiltron] formation Increases SP consumption by 20%
+SKILL_20170420_008814	* Increases damage dealt with [Cyclone] by 0.5% per attribute level
+SKILL_20170420_008815	* Increases damage dealt with [Mordschlag] by 0.5% per attribute level
+SKILL_20170420_008816	* Increases damage dealt with [Punish] by 0.5% per attribute level
+SKILL_20170420_008817	* Allows movement when using [Cyclone]{nl}* Increases SP consumption by 30%
+SKILL_20170420_008818	* Decreases damage taken from x3 to x2 while [Double Pay Earn] is active{nl}* Increases SP consumption by 10%
+SKILL_20170420_008819	* Attacks become critical hits while attacking Cloth armor-type enemies with [Mordschlag]{nl}* Increases SP consumption by 10%
+SKILL_20170420_008820	* While using [Pain Barrier], increases movement speed by 5%, but decreases evasion by 10% per attribute level respectively{nl}* Increases SP consumption by 10%
+SKILL_20170420_008821	* Increases damage dealt with [Zonhau] by 0.5% per attribute level
+SKILL_20170420_008822	* Increases damage dealt with [Redel] by 0.5% per attribute level
+SKILL_20170420_008823	* Increases damage dealt with [Zucken] by 0.5% per attribute level
+SKILL_20170420_008824	* Increases chance to block harmful effects by 15% per attribute level during [Cyclone]{nl}* Increases SP consumption by 10%
+SKILL_20170420_008825	*Increases the damage dealt on an enemy with [Zwerchhau] by 0.5% per attribute level.
+SKILL_20170420_008826	* Increases damage dealt with [Sturtzhau] by 0.5% per attribute level
+SKILL_20170420_008827	* Increases [Zucken] attack count, raising total amount of damage by +100%{nl}* Increases SP consumption by 100%
+SKILL_20170420_008828	* Increases [Redel] attack count, raising total amount of damage by +180%{nl}* Increases SP consumption by 100%
+SKILL_20170420_008829	* [Zornhau] attack strikes the enemy multiple times{nl}* Number of hits increases by 1 per attribute level{nl}* Increases SP consumption by 100%
+SKILL_20170420_008830	* Deals damage to nearby enemies when [Punish] is successful{nl}* Increases SP consumption by 20%
+SKILL_20170420_008831	* Increases damage dealt with [Attaque Composee] by 0.5% per attribute level
+SKILL_20170420_008832	* Increases damage dealt with [Lunge] by 0.5% per attribute level
+SKILL_20170420_008833	* Increases damage dealt with [Sept Etoiles] by 0.5% per attribute level
+SKILL_20170420_008834	* Increases damage dealt with [Attaque Coquille] by 0.5% per attribute level
+SKILL_20170420_008835	* Increases damage dealt with [Esquive Toucher] by 0.5% per attribute level
+SKILL_20170420_008836	* Increases damage dealt with [Flanconnade] by 0.5% per attribute level
+SKILL_20170420_008837	* Increases damage with [Balestra Fente] by 0.5% per attribute level
+SKILL_20170420_008838	* Increases damage dealt with [Attaque Au Fer] by 0.5% per attribute level
+SKILL_20170420_008839	* Increases damage dealt with [Kunai] by 0.5% per attribute level
+SKILL_20170420_008840	* Increases damage dealt with [Katon no Jutsu] by 0.5% per attribute level
+SKILL_20170420_008841	* Increases damage dealt with [Mijin no Jutsu] by 0.5% per attribute level
+SKILL_20170420_008842	* Hides character for 5 seconds after using [Mijin no Jutsu]{nl}* Increases duration from Lv2 by 1.5 seconds per attribute level{nl}* Increases SP consumption by 10%
+SKILL_20170420_008843	* Hides character for 2 seconds per attribute level after using [Katon no Jutsu]{nl}* Increases SP consumption by 10%
+SKILL_20170420_008844	* Increases stamina reduction cycle of [Bunshin no Jutsu] by 0.05 seconds per attribute level{nl}* Increases SP consumption by 10%
+SKILL_20170420_008845	* Restricts movement of an enemy for 4 seconds when dealing damage with [Mokuton no Jutsu]{nl}Increases duration from Lv2 by 1 second per attribute level{nl}* Increases SP consumption by 10%
+SKILL_20170420_008846	* Decreases damage taken by 4% per attribute level when there are at least 2 clones from [Bunshin no Jutsu]{nl}* Increases SP consumption by 10%
+SKILL_20170420_008847	* Increases damage dealt with [Dragontooth] by 0.5% per attribute level
+SKILL_20170420_008848	* Increases evasion by 10% per attribute level for 7 seconds after using [Dragontooth]{nl}* Increases SP consumption by 10%
+SKILL_20170420_008849	* Increases damage dealt with [Serpentine] by 0.5% per attribute level
+SKILL_20170420_008850	* Enemies hit by [Serpentine] have a 2% chance per attribute level of being afflicted with [Bleeding] for 8 seconds{nl}* Bleeding damage is proportional to character's physical attack{nl}* Increases SP consumption by 10%
+SKILL_20170420_008851	* Increases damage dealt with [Gae Bulg] by 0.5% per attribute level
+SKILL_20170420_008852	* Creates a defense zone for 15 seconds where the spear is thrown{nl}* Increases physical defense and magic defense by 2% for party members within the zone{nl}* Increases SP consumption by 15%
+SKILL_20170420_008853	* Creates attack zone for 15 seconds where the spear is thrown. Increases physical attack and magic attack by 2% for party members within the zone{nl}* Increases SP consumption by 10%
+SKILL_20170420_008854	* Increases damage dealt with [Dragon Soar] by 0.5% per attribute level
+SKILL_20170420_008855	* Enemies hit by [Dragon Soar] have a 5% chance per attribute level to be afflicted with [Shock] for 10 seconds{nl}* Increases SP consumption by 10%
+SKILL_20170420_008856	* Increases damage dealt with [Dethrone] by 0.5% per attribute level
+SKILL_20170420_008857	* Enemies affected by [Serpentine] become vulnerable to physical melee attacks for 10 seconds and attacks gain 50% additional damage{nl}* Increases SP consumption by 10%
+SKILL_20170420_008858	* Increases damage dealt with [Dragon Dive] by 0.5% per attribute level
+SKILL_20170420_008859	* Increases damage dealt with [Frenzied Slash] by 0.5% per attribute level
+SKILL_20170420_008860	* Increases damage dealt with [Evade Thrust] by 0.5% per attribute level
+SKILL_20170420_008861	* [Evade Thrust] gains 2% chance of inflicting bleeding on enemy for 25 seconds{nl}* Bleed damage is proportional to the character's STR{nl}* Increases SP consumption by 10%
+SKILL_20170420_008862	* Increases damage dealt with [Headbutt] by 0.5% per attribute level
+SKILL_20170420_008863	* Increases damage dealt with [Takedown] by 0.5% per attribute level
+SKILL_20170420_008864	* Increases damage dealt with [Frenzied Shoot] by 0.5% per attribute level
+SKILL_20170420_008865	* While equipped with Cassis Crista, Peltastas' Rim Blow, Umbo Blow{nl} Shield Lob, Umbo Thrust skill attack damage increases by 15% per attribute level
+SKILL_20170420_008866	* Increases damage dealt with [Scutum Hit] by 0.5% per attribute level
+SKILL_20170420_008867	* Enemies hit by [Slithering] become vulnerable to [Strike] attacks for 10 seconds{nl}Increases additional damage by 6% per attribute level{nl}* Increases SP consumption by 10%
+SKILL_20170420_008868	* [Scutum Hit] has 3% chance of stunning attacked target for 2 seconds{nl}Chance increases by 3% per attribute level{nl}* Increases SP consumption by 10%
+SKILL_20170420_008869	* While equipped with Cassis Crista, Rodelero skill damage for Shield Charge{nl} Targe Smash, Shield Push, Shield Shove and Shield Bash increases by 15% per attribute level
+SKILL_20170420_008870	* While equipped with Cassis Crista, skill attack damage for Peltasta's Butterfly and Rodelero's Shooting Star increases by 10% per attribute level
+SKILL_20170420_008871	* While equipped with Cassis Crista, skill attack damage for Hoplite's Synchro Thrusting increases by 15% per attribute level
+SKILL_20170420_008872	* Increases damage dealt with [Crush] by 0.5% per attribute level
+SKILL_20170420_008873	* [Crush] reduces enemy's physical attack and physical defense by 10% per attribute level{nl}* Increases SP consumption by 10%
+SKILL_20170420_008874	* Increases damage dealt with [Head Strike] by 0.5% per attribute level
+SKILL_20170420_008875	* [Head Strike] has 10% chance per attribute level to stun the enemy for 2.5 seconds{nl}* Increases SP consumption by 10%
+SKILL_20170420_008876	* Increases damage dealt with [Joust] by 0.5% per attribute level
+SKILL_20170420_008877	* Increases damage dealt with [Unhorsing] by 0.5% per attribute level
+SKILL_20170420_008878	* Increases damage dealt with [Quintain] by 0.5% per attribute level
+SKILL_20170420_008879	* Increases damage dealt with [Mortal Slash] by 0.5% per attribute level
+SKILL_20170420_008880	* Increases damage dealt with [Energy Bolt] by 0.5% per attribute level
+SKILL_20170420_008881	* Increases reflect damage of [Reflect Shield] by 1 per attribute level and decreases damage received accordingly{nl}* Increases SP consumption by 10%
+SKILL_20170420_008882	* Increases physical and magic attack debuff effect of [Lethargy] by 1% per attribute level
+SKILL_20170420_008883	* Increases damage dealt with [Earthquake] by 0.5% per attribute level
+SKILL_20170420_008884	* Increases damage dealt with [Magic Missile] by 0.5% per attribute level
+SKILL_20170420_008885	* Deals additional damage equal to 40% of magic attack per attribute level when attacking an enemy under [Sleep] with [Energy Bolt]{nl}* Increases SP consumption by 10%
+SKILL_20170420_008886	* Enemies affected by [Lethargy] receive 10% additional damage per attribute level with [Strike] attacks{nl}* Increases SP consumption by 10%
+SKILL_20170420_008887	* Increases magic damage by 10% per attribute level while [Quick Cast] is active{nl}* Increases SP consumption by 10%
+SKILL_20170420_008888	* Increases damage dealt with [Fireball] by 0.5% per attribute level
+SKILL_20170420_008889	* Increases damage dealt with [Fire Wall] by 0.5% per attribute level
+SKILL_20170420_008890	* Increases damage dealt with [Flare] by 0.5% per attribute level
+SKILL_20170420_008891	* Increases damage dealt with [Fire Pillar] by 0.5% per attribute level
+SKILL_20170420_008892	* Increases damage dealt with [Hell Breath] by 0.5% per attribute level
+SKILL_20170420_008893	* Enemies hit by [Fireball] have a 10% chance per attribute level to receive flame damage for 5 seconds{nl}*[Burn] damage is based on character's INT{nl}* Increases  SP consumption by 30%
+SKILL_20170420_008894	* Increases Fire property attack of an ally by 5 per attribute level for 5 seconds when they step on [Fire Wall]{nl}* Increases SP consumption by 10%
+SKILL_20170420_008895	* Enemies hit by [Hell Breath] have a 10% chance per attribute level of being knocked back{nl}* Increases SP consumption by 30%
+SKILL_20170420_008896	* Decreases Fire property resistance of nearby enemies by 10 per attribute level for 5 seconds when [Enchant Fire] is used{nl}* Increases SP consumption by 10%
+SKILL_20170420_008897	* Increases damage of [Flare] by 10 per attribute level to Cloth armor-type enemies{nl}* Increases SP consumption by 10%
+SKILL_20170420_008898	* Increases damage dealt with [Flame Ground] by 0.5% per attribute level
+SKILL_20170420_008899	* Increases damage dealt with [Ice Bolt] by 0.5% per attribute level
+SKILL_20170420_008900	* Increases damage dealt with [Ice Spike] by 0.5% per attribute level
+SKILL_20170420_008901	* Increases damage dealt with [Ice Blast] by 0.5% per attribute level
+SKILL_20170420_008902	* Increases damage dealt with [Snow Rolling] by 0.5% per attribute level
+SKILL_20170420_008903	* [Ice Bolt] has 10% chance per attribute level to freeze the enemy{nl}* Not applicable in TBL or GvG{nl}* Increases SP consumption by 10%
+SKILL_20170420_008904	* [Gust] deals damage even to unfrozen enemies{nl}* Attacks unfrozen enemies 2 times and frozen enemies 3 times{nl}* Increases SP consumption by 10%
+SKILL_20170420_008905	* Cryorite can be dropped with a chance of 1% per attribute level when [Ice Wall] disappears{nl}* Increases SP consumption by 20%
+SKILL_20170420_008906	* Increases freeze duration of [Subzero Shield] by 0.5 seconds per attribute level{nl}* Increases  SP consumption by 20%
+SKILL_20170420_008907	* Increases damage of [Ice Blast] by 10 per attribute level when attacking leather armor-type enemies{nl}* Increases SP consumption by 10%
+SKILL_20170420_008908	* While equipped with a shield when [Subzero Shield] is active, there is an increase in counter attack damage based on your shield's defense{nl}* Counter attack damage is enhanced by 50% per attribute level{nl}* Increases SP consumption by 10%
+SKILL_20170420_008909	* Increases damage dealt with [Telekinesis] by 0.5% per attribute level
+SKILL_20170420_008910	* Increases damage dealt with [Psychic Pressure] by 0.5% per attribute level
+SKILL_20170420_008911	* Increases damage dealt with [Magnetic Force] by 0.5% per attribute level
+SKILL_20170420_008912	* Enemies hit by [Psychic Pressure] have a 10% chance per attribute level to become afflicted with [Stun] for 1 second{nl}* Increases  SP consumption by 20%
+SKILL_20170420_008913	Enemies hit by [Magnetic Force] have a 5% chance per attribute level to become afflicted with [Stun] for 4 seconds*  Increases SP consumption by 30%
+SKILL_20170420_008914	* Decreases physical defense of enemies pulled by [Gravity Pole] by 4% per attribute level
+SKILL_20170420_008915	* Applies [Raise] to large-type monsters{nl}* Increases SP consumption by 10%
+SKILL_20170420_008916	* Increases damage dealt with [Gravity Pole] by 0.5% per attribute level
+SKILL_20170420_008917	* Immobilizes targets moved by [Swap] for 2 seconds{nl}* Increases SP consumption by 20%
+SKILL_20170420_008918	* Maintains [Psychic Pressure] casting even when character is attacked{nl}* Increases SP consumption by 20%
+SKILL_20170420_008919	* Maintains [Gravity Pole] casting even when character is attacked{nl}* Increases SP consumption by 20%
+SKILL_20170420_008920	* Increases physical defense equal to [connected party members + attribute level] when [Physical Link] is active{nl}* Increases SP consumption by 10%
+SKILL_20170420_008921	* Enemies hit by [Hangman's Knot] will receive additional damage equal to 20% magic attack per attribute level{nl}* Increases SP consumption by 10%
+SKILL_20170420_008922	* Increases the chance to nullify an enemy's attack while using [Lifeline] by 2% per attribute level{nl}* Increases SP consumption by 10%
+SKILL_20170420_008923	* Increases the duration of [Spiritual Chain] by 1 second per attribute level{nl}* Increases SP consumption by 10%
+SKILL_20170420_008924	* Decreases AoE defense ratio of enemies gathered through [Hangman's Knot] by 1 per attribute level{nl}* Increases SP consumption by 10%
+SKILL_20170420_008925	* Deals damage equal to 100% magic attack to enemies when link from [Unbind] is about to disconnect{nl}* Increases by 10% per attribute level from Lv. 2{nl}* Increases SP consumption by 10%
+SKILL_20170420_008926	* Deals 10% additional damage per attribute level of the Lightning property attack to enemies affected by [Joint Penalty]{nl}* Increases SP consumption by 10%
+SKILL_20170420_008927	* Deals 10% additional damage per attribute level of the Poison property attack to enemies affected by [Joint Penalty]{nl}* Increases SP consumption by 10%
+SKILL_20170420_008928	* Deals 10% additional damage per attribute level of the Earth property attack to enemies affected by [Joint Penalty]{nl}* Increases SP consumption by 10%
+SKILL_20170420_008929	* Increases attack increase effect of [Swell Left Arm] by 1% per attribute level
+SKILL_20170420_008930	* Increases defense and attack increase effect of [Swell Right Arm] by 1% per attribute level
+SKILL_20170420_008931	* Increases INT increase effect of [Swell Brain] by 1% per attribute level
+SKILL_20170420_008932	* Deals damage equal to 20% of magic attack when changing the enemy's size with [Swell Body] per attribute level{nl}* Increases SP consumption by 10%
+SKILL_20170420_008933	* Deals damage equal to 20% of magic attack when changing the enemy's size with [Shrink Body] per attribute level{nl}* Increases SP consumption by 10%
+SKILL_20170420_008934	* Deals 30% additional damage per attribute level on enemies affected by [Shrink Body] when [Swell Left Arm] is in effect{nl}* Increases SP consumption by 10%
+SKILL_20170420_008935	* Attacking enemies affected by [Swell Body] when [Swell Left Arm] is in effect causes [Attacked Weakened] to persist in duration{nl}* Increases duration by 8 seconds per attribute level{nl}* [Attack Weakened] can be stacked up to 10 times{nl}* Increases SP consumption by 10%
+SKILL_20170420_008936	* Not using a dagger or a shield as offhand gives 6% higher accuracy and evasion per attribute level{nl}* Increases SP consumption by 10%
+SKILL_20170420_008937	* Increases damage dealt with [Prominence] by 0.5% per attribute level
+SKILL_20170420_008938	* Increases damage dealt with [Hail] by 0.5% per attribute level
+SKILL_20170420_008939	* Increases damage dealt with [Electrocute] by 0.5% per attribute level
+SKILL_20170420_008940	* Increases damage dealt with [Meteor] by 0.5% per attribute level
+SKILL_20170420_008941	* Deals additional damage equal to 50% of magic attack per attribute level when using [Electrocute] on frozen enemies{nl}* Increases SP consumption by 10%
+SKILL_20170420_008942	* Increases the number of targets that can be affected by [Petrify] with [Stone Curse] by attribute level{nl}* Increases SP consumption by 10%
+SKILL_20170420_008943	* [Prominence] wanders within a smaller range{nl}* Increases SP consumption by 10%
+SKILL_20170420_008944	* Enemies hit by [Hail] have a 5% chance per attribute level of becoming afflicted with [Freeze] for 5 seconds{nl}* Increases SP consumption by 30%
+SKILL_20170420_008945	* Increases evasion by 10% per attribute level while charging [Meteor]{nl}* Increases SP consumption by 10%
+SKILL_20170420_008946	* Chance to double the duration of [Rain]{nl}* Increases the chance by 5% per attribute level{nl}* Increases SP consumption by 10%
+SKILL_20170420_008947	* Increases damage dealt with [Frost Cloud] by 0.5% per attribute level
+SKILL_20170420_008948	* Increases damage dealt with [Freezing Sphere] by 0.5% per attribute level
+SKILL_20170420_008949	* Decreases charging time of [Meteor] by half{nl}* Increases SP consumption by 20%
+SKILL_20170420_008950	* Increases damage dealt with [Summon Familiar] by 0.5% per attribute level
+SKILL_20170420_008951	* Deals damage to nearby enemies with a 1% chance per attribute level when the summoned familiar of [Summon Familiar] explodes itself{nl}* Increases SP consumption by 10%
+SKILL_20170420_008952	* Chance to afflict [Burn] for 10 seconds on an enemy when attacked by Salamion{nl}* Chance increases by 2% per attribute level{nl}* Increases SP consumption by 10%
+SKILL_20170420_008953	* Chance to afflict [Blind] for 10 seconds on an enemy when attacked by Salamion{nl}* Chance increases by 2% per attribute level{nl}* Increases SP consumption by 10%
+SKILL_20170420_008954	* Increases damage dealt with [Evocation] by 0.5% per attribute level
+SKILL_20170420_008955	* Summoned servant grants beneficial effects at a higher rate{nl}* Increases SP consumption by 10%
+SKILL_20170420_008956	* Increases damage dealt with [Desmodus] by 0.5% per attribute level
+SKILL_20170420_008957	*Increases damage dealt with Mounted demon by 0.5% per attribute level
+SKILL_20170420_008958	* Increases critical rate effect from [Quicken] by 5% and decreases evasion by 2% per attribute level{nl}* Increases SP consumption by 20%
+SKILL_20170420_008959	* Enemies affected by [Slow] have their critical resistance decreased by a value equal to 15% of the caster's INT{nl}* Increases SP consumption by 10%
+SKILL_20170420_008960	* When an enemy affected by [Reincarnate] dies and is revived, two enemies will appear with a chance of 1% per attribute level{nl}* Increases SP consumption by 30%
+SKILL_20170420_008961	* Allows [Stop] to also stop boss monsters once{nl}* Increases SP consumption by 10{nl}* Increases SP consumption by 30%
+SKILL_20170420_008962	* Enemies provoked after using [Backmasking] will be afflicted with [Confusion] for 6 seconds{nl}* If the attribute is Lv2, applies 8 seconds of [Confusion]{nl}* Increases SP consumption by 10%
+SKILL_20170420_008963	* Decreases chance of nullifying an attack by 6% per attribute level when enemies are affected by [Slow]{nl}* Increases SP consumption by 10%
+SKILL_20170420_008964	* Increases evasion by 20 per attribute level while [Haste] is active{nl}* Increases SP consumption by 10%
+SKILL_20170420_008965	* Increases damage dealt with [Gather Corpse] by 0.5% per attribute level
+SKILL_20170420_008966	* Increases damage dealt with [Flesh Cannon] by 0.5% per attribute level
+SKILL_20170420_008967	* Increases damage dealt with [Flesh Hoop] by 0.5% per attribute level
+SKILL_20170420_008968	* Enemies hit by [Flesh Cannon] have a chance to be afflicted with Decay for 15 seconds{nl}* Increases chance by 10% per attribute level{nl}* Increases SP consumption by 10%
+SKILL_20170420_008969	* Weakens enemy attacks for 4 seconds near the hoop after using [Flesh Hoop]{nl}* [Attack Weakened] can be stacked up to 10 times{nl}* Increases SP consumption by 20%
+SKILL_20170420_008970	* Enemies near the Shoggoth are afflicted with [Decay] for 15 seconds{nl}* Lasts for 1 minute per attribute level after Shoggoth is summoned{nl}* Increases SP consumption by 10%
+SKILL_20170420_008971	* Increases range of [Disinter] by 10 per attribute level{nl}* Increases SP consumption by 10%
+SKILL_20170420_008972	* Increases attack of the summoned Shoggoth by 0.5 per attribute level
+SKILL_20170420_008973	* Increases attack of the summoned Corpse Tower by 0.5% per attribute level
+SKILL_20170420_008974	* Increases attack of a summoned Skeleton Soldier by 0.5% per attribute level
+SKILL_20170420_008975	* Increases chance of enlarging size and maximum HP of summoned Shoggoth by 1% per attribute level{nl}* Increases SP consumption by 20%
+SKILL_20170420_008976	* Increases damage dealt with [Flesh Strike] by 0.5% per attribute level
+SKILL_20170420_008977	* Increases attack of Skull Archers by 0.5% per attribute level
+SKILL_20170420_008978	* Collects more corpses when [Disinter] is used{nl}* Increases SP consumption by 10%
+SKILL_20170420_008979	* When Dirty Pole receives a melee attack, its fragments spread to attack enemies and the targets gain [Corruption] status ailment for 10 seconds{nl}* Increases SP consumption by 10%
+SKILL_20170420_008980	* If a Shoggoth is within the range of [Flesh Strike], it explodes and gives [Corruption] status ailment to nearby enemies for 5 seconds per attribute level{nl}* Increases SP consumption by 10%
+SKILL_20170420_008981	* Increases HP of Skull Soldiers by 0.5% per attribute level
+SKILL_20170420_008982	* When a Skull Soldier defeats a monster, the Necronomicon gains 1 corpse per attribute level{nl}* Increases SP consumption by 10%
+SKILL_20170420_008983	* When Corpse Tower defeats a monster, a Skeleton Soldier is summoned{nl}* Increases SP consumption by 10%
+SKILL_20170420_008984	* Increases damage dealt with [Combustion] by 0.5% per attribute level
+SKILL_20170420_008985	* Increases damage dealt with [Alchemistic Missile] by 0.5% per attribute level
+SKILL_20170420_008986	* Increases damage dealt with [Pole of Agony] by 0.5% per attribute level
+SKILL_20170420_008987	* Increases remaining effect time of [Pole of Agony] on an enemy by 0.8 seconds per attribute level{nl}* Increases SP consumption by 10%
+SKILL_20170420_008988	* Increases damage dealt with [Invocation] by 0.5% per attribute level
+SKILL_20170420_008989	* Increases Dark property attack by 5% per attribute level of allies nearby the evil spirit of [Invocation]{nl}* Applies double the effect to casting character{nl}* Increases SP consumption by 10%
+SKILL_20170420_008990	* Creates an evil spirit with [Dark Theurge] at a 0.4% chance per attribute level in the enemy's position{nl}* Increases SP consumption by 10%
+SKILL_20170420_008991	* Increases damage dealt with [Dark Theurge] by 0.5% per attribute level
+SKILL_20170420_008992	* Enemies hit by [Dark Theurge] have a 1% chance per attribute level to be afflicted with [Blind] for 10 seconds{nl}* Increases SP consumption by 10%
+SKILL_20170420_008993	* Increases damage dealt with [Mastema] by 0.5% per attribute level
+SKILL_20170420_008994	* Reduces aggressiveness of enemies hit by [Mastema] by 1% per attribute level{nl}* Increases SP consumption by 10%
+SKILL_20170420_008995	* [Pole of Agony] deals a minimum number of damage to enemies{nl}* Number increases with attribute level{nl}* Increases SP consumption by 10%
+SKILL_20170420_008996	* Increases duration for evil spirits summoned from [Invocation] by 5 seconds per attribute level{nl}* Increases SP consumption by 10%
+SKILL_20170420_008997	* [Mastema] deals continuous damage to target and decreases STR, INT, SPR, DEX by 10% per attribute level{nl}* Increases SP consumption by 10%
+SKILL_20170420_008998	* Increases chance of summoning high-level evil spirits by 1% per attribute level{nl}* Increases SP consumption by 10%
+SKILL_20170420_008999	* Increases HP absorbed by 1% per attribute level
+SKILL_20170420_009000	* Increases damage dealt with [Blood Bath] by 0.5% per attribute level
+SKILL_20170420_009001	* Increases damage dealt with [Blood Sucking] by 0.5% per attribute level
+SKILL_20170420_009002	* Increases damage dealt with [Bone Pointing] by 0.5% per attribute level
+SKILL_20170420_009003	* Increases summon time of [Bone Pointing] by 1 second per attribute level{nl}* Increases SP consumption by 10%
+SKILL_20170420_009004	* Increases damage dealt with [Ngadhundi] by 0.5% per attribute level
+SKILL_20170420_009005	* Increases chance to hit with twice the normal damage to enemies hexed by [Kurdaitcha] (or any other methods) by 1% chance per attribute level{nl}*Applies to characters other than the caster{nl}* Increases SP consumption by 10%
+SKILL_20170420_009006	* Increases chance to nullify the enemy's physical attack while using [Levitation] by 1.5% per attribute level{nl}* Increases SP consumption by 10%
+SKILL_20170420_009007	* Increases damage dealt with [Kundela Slash] by 0.5% per attribute level
+SKILL_20170420_009008	* When using [Blood Curse], HP consumption rises to 80% but duration for [Blood Curse] increases by 7 seconds{nl}* Increases SP consumption by 10%
+SKILL_20170420_009009	* [Bone Pointing] attack applies as repeated hits{nl}* Increases SP consumption by 50%
+SKILL_20170420_009010	* Movement speed during [Kurdaitcha] increases to match normal walking speed{nl}* Increases SP consumption by 10%
+SKILL_20170420_009011	* Decreases enemy's movement speed by 70% for 4 seconds on a basic attack with a 5% chance per attribute level while [Rune of Ice] is active{nl}* Increases SP consumption by 10%
+SKILL_20170420_009012	* Increases damage dealt with [Rune of Destruction] by 0.5% per attribute level
+SKILL_20170420_009013	* Allies turned into giants by [Rune of Giants] gain additional HP according to [20% of the caster's CON] x [60 per attribute level]{nl}* Increases SP consumption by 10%
+SKILL_20170420_009014	* Increases damage dealt with [Rune of Justice] by 0.5% per attribute level
+SKILL_20170420_009015	* Increases critical resistance from [Rune of Protection] equal to 20% of the caster's SPR per attribute level{nl}* Increases SP consumption by 10%
+SKILL_20170420_009016	* Grants resistance to knockback and knockdown by 1% per attribute level{nl}* Resistance reduced in half for PvP{nl}* Increases SP consumption by 20%
+SKILL_20170420_009017	* Increases damage dealt with [Magic Powder] by 0.5% per attribute level
+SKILL_20170420_009018	* [Magic Powder] effect duration increases by 1 second per attribute level{nl}* Increases SP consumption by 10%
+SKILL_20170420_009019	* Increases damage dealt with [Micro Dimension] by 0.5% per attribute level
+SKILL_20170420_009020	* Increases damage dealt with [Ultimate Dimension] by 0.5% per attribute level
+SKILL_20170420_009021	* Grants [Ultimate Dimension] a 5% chance per attribute level to confuse the enemy for 8 seconds{nl}* Increases SP consumption by 10%
+SKILL_20170420_009022	* Increases [Blink]'s apparition duration by 1 second per attribute level{nl}* Increases SP consumption by 10%
+SKILL_20170420_009023	* Increases damage dealt with [Maze] by 0.5% per attribute level
+SKILL_20170420_009024	* When [Maze] effect ends, grants 10% chances per attribute level of confusing the enemy instead of silencing them{nl}* Increases SP consumption by 10%
+SKILL_20170420_009025	* Doubles ally installments and summons within the range of [Micro Dimension]{nl}* Cloned targets will not be further duplicated{nl}* Increases SP consumption by 50%
+SKILL_20170420_009026	* Increases range of ally magic circles within the range of [Ultimate Dimension] by 10%{nl}* Increases SP consumption by 50%
+SKILL_20170420_009027	* Increases damage dealt with [Multi Shot] by 0.5% per attribute level
+SKILL_20170420_009028	* Increases damage dealt with [Full Draw] by 0.5% per attribute level
+SKILL_20170420_009029	* Enhances physical damage increase effect of [Kneeling Shot] by 1% per attribute level
+SKILL_20170420_009030	* Increases damage dealt with [Oblique Shot] by 0.5% per attribute level
+SKILL_20170420_009031	* Increases damage dealt with [Heavy Shot] by 0.5% per attribute level
+SKILL_20170420_009032	* Increases damage dealt with [Twin Arrows] by 0.5% per attribute level
+SKILL_20170420_009033	* Increases critical chance of [Multi Shot] by 5% per attribute level{nl}* Increases SP consumption by 10%
+SKILL_20170420_009034	* Increases knockback power of [Full Draw] by 50{nl}* Increases SP consumption by 10%
+SKILL_20170420_009035	* Increases critical rate during [Kneeling Shot] by 40 per attribute level{nl}* Increases SP consumption by 30%
+SKILL_20170420_009036	Deals 10% additional damage per attribute level to Flying-type monsters when equipped with a [Two-handed Bow].
+SKILL_20170420_009037	* Enemies hit by [Oblique Shot] while [Swift Step] is active have a 5% chance per attribute level to be afflicted with [Slow] for 7 seconds{nl}* Increases SP consumption by 10%
+SKILL_20170420_009038	* Increases critical rate by 30 per attribute level when [Swift Step] is active{nl}* Increases SP consumption by 50%
+SKILL_20170420_009039	Decreases the enemy's physical defense threaded with [Full Draw] by 2% per attribute level.{nl}*Increases SP consumption by 10%
+SKILL_20170420_009040	* Decreases charging time of [Multi Shot] by half{nl}* Increases SP consumption by 20%
+SKILL_20170420_009041	* Increases damage dealt with [Barrage] by 0.5% per attribute level
+SKILL_20170420_009042	* Increases damage dealt with [High Anchoring] by 0.5% per attribute level
+SKILL_20170420_009043	* Increases additional damage effect of [Steady Aim] by 3 per attribute level
+SKILL_20170420_009044	* Increases damage dealt with [Critical Shot] by 0.5% per attribute level
+SKILL_20170420_009045	* Increases damage dealt with [Time Bomb Arrow] 0.5% per attribute level
+SKILL_20170420_009046	* Increases damage dealt with [Bounce Shot] by 0.5% per attribute level
+SKILL_20170420_009047	* Enemies hit by [Barrage] have a 10% chance per attribute level of being knocked back{nl}* Increases SP consumption by 20%
+SKILL_20170420_009048	* Enemies hit by [Bounce Shot] have a 3% chance per attribute level to become afflicted with [Slow]{nl}* Increases SP consumption by 30%
+SKILL_20170420_009049	* Increases critical chance of [Spiral Arrow] by 13% per attribute level{nl}* Increases SP consumption by 20%
+SKILL_20170420_009050	* Increases damage dealt with [Spiral Arrow] by 0.5% per attribute level
+SKILL_20170420_009051	* Enemies hit by [High Anchoring] have their critical resistance reduced by 15 per attribute level for 5 seconds{nl}* Increases SP consumption by 30%
+SKILL_20170420_009052	* Increases damage dealt with [Scatter Caltrops] by 0.5% per attribute level
+SKILL_20170420_009053	* Increases damage dealt with [Stone Shot] by 0.5% per attribute level
+SKILL_20170420_009054	* Increases damage dealt with [Rapid Fire] by 0.5% per attribute level
+SKILL_20170420_009055	* Increases damage dealt with [Teardown] by 0.5% per attribute level
+SKILL_20170420_009056	* Increases duration of [Scatter Caltrops] by 1 second per attribute level{nl}* Increases SP consumption by 10%
+SKILL_20170420_009057	* Fixes number of stone bullets picked by [Stone Picking] to that of [skill level]{nl}* Increases SP consumption by 20%
+SKILL_20170420_009058	* Allows you to dismantle Dievdirbys' [Carve World Tree] with [Teardown]{nl}* Increases SP consumption by 10%
+SKILL_20170420_009059	* Increases chances to afflict [Bleeding] on an enemy when damage is dealt with [Deploy Pavise] by 1%{nl}* Increases SP consumption by 10%
+SKILL_20170420_009060	* Enemies hit by [Rapid Fire] have a 50% chance per attribute level of having their critical resistance reduced by 150 for 3 seconds{nl}* Increases SP consumption by 10%
+SKILL_20170420_009061	* Increases damage dealt with [Broom Trap] by 0.5% per attribute level
+SKILL_20170420_009062	* Increases damage dealt with [Claymore] by 0.5% per attribute level
+SKILL_20170420_009063	* Increases damage dealt with [Punji Stake] by 0.5% per attribute level
+SKILL_20170420_009064	* Increases damage dealt with [Detonate Traps] by 0.5% per attribute level
+SKILL_20170420_009065	* Increases damage dealt with [Spike Shooter] by 0.5% per attribute level
+SKILL_20170420_009066	* Increases damage dealt with [Collar Bomb] by 0.5% per attribute level
+SKILL_20170420_009067	* Decreases time of first rotation by 0.3 seconds and increases number of rotations for [Broom Trap] by 0.8 per attribute level{nl}* Increases SP consumption by 10%
+SKILL_20170420_009068	* IncreasesAoE attack ratio of [Claymore] by 1 per attribute level{nl}* Increases SP consumption by 10%
+SKILL_20170420_009069	* When an enemy launched by [Punji Stake] hits the ground, it and nearby enemies are dealt 50% of physical attack as damage{nl}* Increases SP consumption by 30%
+SKILL_20170420_009070	* Increases damage dealt with [Stake Stockades] by 0.5% per attribute level
+SKILL_20170420_009071	* Deals 10% additional damage per attribute level on Flying-type monsters with [Claymore]{nl}* Increases SP consumption by 10%
+SKILL_20170420_009072	* Deals 50% additional damage per attribute level on Flying-type monsters with [Detonate Traps]{nl}* Increases SP consumption by 10%
+SKILL_20170420_009073	* Reduces amount of Pine Wood consumed when using [Punji Stake] from 3 to 2{nl}* Increases SP consumption by 10%
+SKILL_20170420_009074	* Increases skill damage of [Claymore] by 1.5 times{nl}* Consumes 2 Claymore
+SKILL_20170420_009075	*Increases critical chance of [Broom Trap] by 50%{nl}* Consumes 4 Ash Wood   
+SKILL_20170420_009076	*Increases critical chance of [Spike Shooter] by 2.5 times{nl}* Consumes 3 Wires   
+SKILL_20170420_009077	* [Punji Stake] is not cancelled when being cast even after being attacked by an enemy{nl}* Increases SP consumption by 20%
+SKILL_20170420_009078	* Enemies affected by [Pointing] have a 5% chance per attribute level to be afflicted with [Fear] for 3 seconds{nl}* Increases SP consumption by 10%
+SKILL_20170420_009079	* Decreases physical defense of an enemy attacked with [Retrieve] by 2% per attribute level{nl}* Increases SP consumption by 10%
+SKILL_20170420_009080	Flying-type monsters who are brought to the ground by [Snatching] will receive 20% additional damage from [Slash] and [Strike] attacks per attribute level.{nl}* Increases SP consumption by 30%
+SKILL_20170420_009081	* Increases movement speed of companion from [Praise] by 1 per attribute level{nl}* Increases SP consumption by 10%
+SKILL_20170420_009082	* Decreases the magic defense of an enemy by affected by [Coursing] by 2% per attribute level{nl}* Increases SP consumption by 10%
+SKILL_20170420_009083	* Enemies discovered during [Hounding] have chances to be affected by [Confusion] increased by 10% per attribute level{nl}* Increases SP consumption by 10%
+SKILL_20170420_009084	* Enemies attacked with [Rush Dog] have a 10% chance per attribute level to be afflicted with [Stun] for 6 seconds{nl}* Increases SP consumption by 10%
+SKILL_20170420_009085	* Increases damage dealt with [Coursing] by 0.5% per attribute level
+SKILL_20170420_009086	* Increases damage dealt with [Snatching] by 0.5% per attribute level
+SKILL_20170420_009087	* Increases damage dealt with [Rush Dog] by 0.5% per attribute level
+SKILL_20170420_009088	* Increases damage dealt with [Retrieve] by 0.5% per attribute level
+SKILL_20170420_009089	* Increases skill damage of [Coursing], [Snatching], [Retrieve] by 1% of the companion's attack per attribute level
+SKILL_20170420_009090	* Increases damage dealt with [Needle Blow] by 0.5% per attribute level
+SKILL_20170420_009091	* Increases damage dealt with [Wugong Gu] by 0.5% per attribute level
+SKILL_20170420_009092	* Increases damage dealt with [Throw Gu Pot] by 1% per attribute level
+SKILL_20170420_009093	* Characters detoxified by [Detoxify] become immune to poison for 4 seconds per attribute level{nl}* Increases SP consumption by 30%
+SKILL_20170420_009094	* Increases duration of [Wugong Gu] infection on an affected target by 1 second per attribute level{nl}* Increases SP consumption by 10%
+SKILL_20170420_009095	* Maintains [Poison] by 2 seconds per attribute level when enemies move outside the range of [Throw Gu Pot]{nl}* Increases SP consumption by 10%
+SKILL_20170420_009096	* Decreases evasion rate of enemies affected by [Jincan Gu] by 5% per attribute level{nl}* Increases SP consumption by 20%
+SKILL_20170420_009097	* Decreases poison resistance of enemies affected by [Zhendu] by 7 per attribute level{nl}* Increases SP consumption by 10%
+SKILL_20170420_009098	* Increases damage dealt with [Flu Flu] by 0.5% per attribute level
+SKILL_20170420_009099	* Increases damage dealt with [Flare Shot] by 0.5% per attribute level
+SKILL_20170420_009100	* Deals additional damage equal to 50% of physical attack to the next attacking skill used during [Cloaking]{nl}* Increases SP consumption by 30%
+SKILL_20170420_009101	Increases the number of enemies influenced by [Flu Flu] by 1 per attribute level.{nl}* Increases SP consumption by 30%
+SKILL_20170420_009102	* Allows you to jump while in [Camouflage]{nl}* Increases SP consumption by 10%
+SKILL_20170420_009103	* Enemies within the range of [Scan] have a chance to be afflicted with [Confusion] for 5 seconds{nl}Increases the chance by 10% per attribute level{nl}* Increases SP consumption by 10%
+SKILL_20170420_009104	* Increases movement speed of [Cloaking] by 1 per attribute level{nl}* Increases SP consumption by 10%
+SKILL_20170420_009105	* Increases damage dealt with [Split Arrow] by 0.5% per attribute level
+SKILL_20170420_009106	* Increases damage dealt with [Vendetta] by 0.5% per attribute level
+SKILL_20170420_009107	* Enemies within the range of [Lachrymator] will receive damage equal to [attribute level] every 2 seconds{nl}* Increases SP consumption by 10%
+SKILL_20170420_009108	* Increases damage dealt with [Backstab] by 0.5% per attribute level
+SKILL_20170420_009109	* Increases duration of [Sneak Hit] by 2 seconds per attribute level{nl}* Increases SP consumption by 10%
+SKILL_20170420_009110	* Doubles the damage when hitting an enemy affected by the [Bleeding] status ailment with [Vendetta]{nl}* Increases SP consumption by 10%
+SKILL_20170420_009111	* Inflicts the enemy with [Massive Bleeding] for 10 seconds when attacked with [Backstab] while affected by bleeding{nl}* Increases the duration by 1 second per attribute level{nl}* Increases SP consumption by 30%
+SKILL_20170420_009112	* Deals damage equal to your physical attack on nearby enemies when removing [Burrow]{nl}* Increases SP consumption by 10%
+SKILL_20170420_009113	* Increases range of   [Lachrymator] to 75{nl}* Increases SP consumption by 40% 
+SKILL_20170420_009114	* Increases chances by 15% per attribute level of enemies turning around when using [Feint]{nl}* Increases SP consumption by 10%
+SKILL_20170420_009115	* Allows you to seize not only an enemies' magic circle, but also your allies' with [Capturing]{nl}* Increases SP consumption by 10%
+SKILL_20170420_009116	* Increases damage dealt with [Broadhead] by 0.5% per attribute level
+SKILL_20170420_009117	* Increases damage dealt with [Bodkin Point] by 0.5% per attribute level
+SKILL_20170420_009118	* Increases damage dealt with [Barbed Arrow] by 0.5% per attribute level
+SKILL_20170420_009119	* Increases damage dealt with [Crossfire] by 0.5% per attribute level
+SKILL_20170420_009120	* Increases damage dealt with [Magic Arrow] by 0.5% per attribute level
+SKILL_20170420_009121	* Increases damage dealt with [Divine Machine Arrow] by 0.5% per attribute level
+SKILL_20170420_009122	* Further decreases an enemy's physical defense by 0.5% per attribute level when attacked by [Bodkin Point]{nl}* Increases SP consumption by 10%
+SKILL_20170420_009123	* [Crossfire] gets a 10% chance per level of inflicting [Burn] on targets for 6 seconds{nl}* Burn damage is proportional to the character's physical attack{nl}* Increases SP consumption by 10%
+SKILL_20170420_009124	* Enemies hit by the flames of [Magic Arrow] will be afflicted with [Silence] by a certain chance. Increases the chance by 10% per attribute level{nl}* Increases SP consumption by 20%
+SKILL_20170420_009125	* Enemies hit by [Divine Machine Arrow] are afflicted with [Shock] for 10 seconds{nl}* Increases SP consumption by 10%
+SKILL_20170420_009126	* Increases [Roost] active range by 20 per attribute level{nl}* Increases SP consumption by 10%
+SKILL_20170420_009127	* If [Call] is used, the hawk has a 50% chance of fetching small items{nl}* Increases SP consumption by 20%
+SKILL_20170420_009128	Increases the duration of [Hovering] by 3 seconds per attribute level{nl}* Increases SP consumption by 20%
+SKILL_20170420_009129	* Your hawk will attack enemies faster while using [Hovering]{nl}* Increases SP consumption by 10%
+SKILL_20170420_009130	* Increases damage dealt with [Hovering] by 0.5% per attribute level
+SKILL_20170420_009131	* Increases damage dealt with [Pheasant] by 0.5% per attribute level
+SKILL_20170420_009132	* Decreases chance of nullifying the attack by 5% per attribute level when enemies are within the range of [Circling]{nl}* Increases SP consumption by 10%
+SKILL_20170420_009133	* Increases damage dealt with [Sonic Strike] by 0.5% per attribute level
+SKILL_20170420_009134	* Increases damage dealt with [Combination] by 0.5% per attribute level
+SKILL_20170420_009135	* If the target gets blinded by [Sonic Strike], there is a chance it will be inflicted with confusion{nl}* [Confusion] will decrease the target's physical defense by 2% per level and increase physical attack by 2% per level{nl}* Increases SP consumption by 10%
+SKILL_20170420_009136	* If enemies within the range of [Circling] receive physical or missile attacks, there is 5% chance per attribute level that another enemy will receive the same damage{nl}* Increases SP consumption by 10%
+SKILL_20170420_009137	* Increases damage dealt with [Concentrated Fire] by 0.5% per attribute level
+SKILL_20170420_009138	* Increases damage dealt with [Caracole] by 0.5% per attribute level
+SKILL_20170420_009139	* Increases damage dealt with [Limacon] by 0.5% per attribute level
+SKILL_20170420_009140	* Increases damage dealt with [Retreat Shot] by 0.5% per attribute level
+SKILL_20170420_009141	* Increases chance to nullify an enemy's attack while using [Retreat Shot] by 0.5% per attribute level{nl}* Increases SP consumption by 20%
+SKILL_20170420_009142	* Increases damage dealt with [Wild Shot] by 0.5% per attribute level
+SKILL_20170420_009143	* When [Caracole] hits its target, it spreads to attack nearby enemies{nl}* Increases SP consumption by 10%
+SKILL_20170420_009144	* When [Limacon] hits its target, it spreads to attack nearby enemies{nl}* Increases SP consumption by 10%
+SKILL_20170420_009145	* Increases damage dealt with [Cannon Shot] by 0.5% per attribute level
+SKILL_20170420_009146	* Increases damage dealt with [Shootdown] by 0.5% per attribute level
+SKILL_20170420_009147	* Increases damage dealt with [Siege Burst] by 0.5% per attribute level
+SKILL_20170420_009148	* Increases damage dealt with [Cannon Blast] by 0.5% per attribute level
+SKILL_20170420_009149	* Flying-type monsters hit by [Shootdown] will fall down on the ground for 4 seconds per attribute level{nl}* From Lv. 2, the duration decreases by 1.8 seconds per attribute level{nl}* Flying-type monsters who fall down can receive additional damage by Cannon Shot{nl}* Increases SP consumption by 10%
+SKILL_20170420_009150	* Increases attacking range of [Siege Burst] by 25 per attribute level{nl}* Increases SP consumption by 30%
+SKILL_20170420_009151	* Enemies hit by [Cannon Blast] have a 7% chance per attribute level to be afflicted with [Armor Break] for 10 seconds{nl}* Increases SP consumption by 50%
+SKILL_20170420_009152	* Increases damage dealt on an enemy with [Cannon Barrage] by 0.5% per attribute level
+SKILL_20170420_009153	* Increases additional cannon damage received by an enemy in the state of [Smoke Grenade] by 10% per attribute level{nl}* Increases SP consumption by 10%
+SKILL_20170420_009154	* [Siege Bust] removes all of enemy magic circles at the point of attack{nl}* Increases SP consumption by 10%
+SKILL_20170420_009155	* [Cannon Barrage] has a 5% chance per attribute level to stun an enemy for 3 seconds{nl}* Increases SP consumption by 10%
+SKILL_20170420_009156	* Maintains [Siege Burst] casting even when character is attacked{nl}* Increases SP consumption by 20%
+SKILL_20170420_009157	* Increases damage dealt with [Covering Fire] by 0.5% per attribute level
+SKILL_20170420_009158	* Increases damage dealt with [Headshot] by 0.5% per attribute level
+SKILL_20170420_009159	* Increases damage dealt with [Snipe] by 0.5% per attribute level
+SKILL_20170420_009160	* Increases damage dealt with [Penetration Shot] by 0.5% per attribute level
+SKILL_20170420_009161	* Increases damage dealt on with [Butt Stroke] by 0.5% per attribute level
+SKILL_20170420_009162	* Increases damage dealt with [Bayonet Thrust] by 0.5% per attribute level
+SKILL_20170420_009163	* Enemies hit by [Butt Stroke] have a 1.5% chance per attribute level to become afflicted with [Stun] for 3 seconds{nl}* Increases SP consumption by 10%
+SKILL_20170420_009164	* Enemies hit by [Headshot] have a 2.5% chance per attribute level to become afflicted with [Stun] for 3 seconds{nl}* Increases SP consumption by 10%
+SKILL_20170420_009165	* Enemies hit by [Snipe] have a 3.5% chance per attribute level to become afflicted with [Stun] for 3 seconds{nl}* Increases SP consumption by 10%
+SKILL_20170420_009166	* Increases damage dealt with [Volleyfire] by 0.5% per attribute level
+SKILL_20170420_009167	[Snipe] deals damage to one other enemy nearby its initial target.{nl}* Increases SP consumption by 50%
+SKILL_20170420_009168	* [Bayonet Thrust] has 2% chance per attribute level to activate repeated hits and give the enemy [Bleed] status ailment for 10 seconds{nl}* Bleeding damage is proportional to the character's STR{nl}* Increases SP consumption by 10%
+SKILL_20170420_009169	* [Bayonet Thrust] decreases the enemy's HP and SP recovery via skills or potions for 80 seconds{nl}* After Level 2, duration increases by 20 seconds per attribute level{nl}* Increases SP consumption by 10%
+SKILL_20170420_009170	* [Head Shot] is casted twice, but with reduced damage{nl}* Increases SP consumption by 10%
+SKILL_20170420_009171	* Reduces casting time of [Penetration Shot]{nl}* Attribute does not apply when Kneeling Shot is active{nl}* Increases SP consumption by 10%
+SKILL_20170420_009172	* [Penetration Shot] can be used while in the state of [Kneeling Shot]{nl}* Increases SP consumption by 30%
+SKILL_20170420_009173	* Increases damage dealt with [Birdfall] by 0.5% per attribute level
+SKILL_20170420_009174	* Applies a successful [Butt Stroke] on a bleeding enemy with 100% of damage{nl}*  Increases SP consumption by 10%
+SKILL_20170420_009175	* [Butt Stroke] makes an enemy vulnerable to gun attacks for 10 seconds and receives 30% additional damage{nl}*  Increases SP consumption by 10%
+SKILL_20170420_009176	* Increases the damage dealt on an enemy with [Skarphuggning] by 0.5% per attribute level
+SKILL_20170420_009177	* Increases the damage dealt on an enemy with [Bombardment Orders] by 0.5% per attribute level
+SKILL_20170420_009178	* Increases the damage dealt on an enemy with [Cavalry Charge] by 0.5% per attribute level
+SKILL_20170420_009179	* Increases the damage dealt on an enemy with [Leg Shot] by 0.5% per attribute level
+SKILL_20170420_009180	* Increases movement speed of [Leg Shot] by 1% per attribute level{nl} * Increases SP consumption by 10%
+SKILL_20170420_009181	* Increases damage dealt with [Storm Bolt] by 0.5% per attribute level
+SKILL_20170420_009182	* Increases damage dealt with [Spread Shot] by 0.5% per attribute level
+SKILL_20170420_009183	* Increases damage dealt with [Homing Arrow] by 0.5% per attribute level
+SKILL_20170420_009184	* Increases damage dealt with [Rapid Fire] by 0.5% per attribute level
+SKILL_20170420_009185	* Increases damage dealt with [Triple Arrow] by 0.5% per attribute level
+SKILL_20170420_009186	* Increases damage dealt with [Rain Arrow] by 0.5% per attribute level
+SKILL_20170420_009187	* Increases damage dealt with [Jump Shot] by 0.5% per attribute level
+SKILL_20170420_009188	* Increases damage dealt with [Parthian Shaft] by 0.5% per attribute level
+SKILL_20170420_009189	* Increases [Overestimate] buff duration by 1 second per attribute level{nl}* Increases SP consumption by 10%
+SKILL_20170420_009190	* Increases critical attack on enemies affected by [Blindside] debuff by 5% per attribute level{nl}* Increases SP consumption by 10%
+SKILL_20170420_009191	* Increases damage dealt with [Blindside] by 0.5% per attribute level
+SKILL_20170420_009192	* Increases damage dealt with [Cure] by 0.5% per attribute level
+SKILL_20170420_009193	* Increases damage dealt with [Heal] by 0.5% per attribute level
+SKILL_20170420_009194	* Adds to the defense decrease effect of [Deprotected Zone] by 1 per attribute level{nl}* This attribute applies after the stack calculation
+SKILL_20170420_009195	* Decreases the interval of [Cure]'s magic circle by 0.2 seconds{nl}* Increases SP consumption by 20%
+SKILL_20170420_009196	* Adds to the chance of automatically being healed at a 2% per attribute level when using [Heal]{nl} Increases SP consumption by 20%
+SKILL_20170420_009197	* Increases duration of [Deprotected Zone]'s magic circle by 1 second per attribute level{nl}* Increases SP consumption by 10%
+SKILL_20170420_009198	* Deals damage equal to 100% of magic attack to nearby Devil-type monsters when using [Divine Might]{nl}* Increases SP consumption by 10%
+SKILL_20170420_009199	* Using basic sword attacks on enemies with [Deprotected Zone] will inflict [Weakened Defense]{nl}* [Weakened Defense] can be stacked up to 10 times{nl} Increases SP consumption by 10%
+SKILL_20170420_009200	* Increases range applied by [Safety Zone] to 15{nl}* Increases SP consumption by 80%
+SKILL_20170420_009201	* Decreases damage taken when applied with a character's [Guardian Saint] by 5% per attribute level{nl}* Increases SP consumption by 10%
+SKILL_20170420_009202	* [Heal] will not inflict damage nor react to enemies{nl}* Increases SP consumption by 10%
+SKILL_20170420_009203	* Increases block count of [Safety Zone] by 1 per attribute level{nl}* Increases SP consumption by 10%
+SKILL_20170420_009204	* Increases damage dealt with [Zaibas] by 0.5% per attribute level
+SKILL_20170420_009205	* Increases the HP recovery of [Aukuras] by 1% per attribute level
+SKILL_20170420_009206	* [Zaibas] is affected by the character's AoE attack ratio and inflicts damage on multiple target at once{nl}* Total count does not increase{nl}* Increases SP consumption by 30%
+SKILL_20170420_009207	* Increases the duration of [Daino]'s effect by 40 seconds per attribute level{nl}* Increases SP consumption by 20%
+SKILL_20170420_009208	* Increases Fire property resistance by 14 per attribute level when [Aukuras] is active{nl}* Increases SP consumption by 10%
+SKILL_20170420_009209	* Increases duration of [Zalciai] by 3 seconds per attribute level{nl}* Increases SP consumption by 20%
+SKILL_20170420_009210	 Increases magic amplification by 12 per attribute level when [Zalciai] is active{nl}* Increases SP consumption by 10%
+SKILL_20170420_009211	* Increases duration of [Divine Stigma] by 1 second per attribute level{nl} Increases SP consumption by 20% 
+SKILL_20170420_009212	* Increases range of [Melstis] to 80{nl}* Increases SP consumption by 20% 
+SKILL_20170420_009213	* Increases critical attack of [Zalciai] by 1% per attribute level
+SKILL_20170420_009214	* Increases damage dealt with [Aspersion] by 0.5% per attribute level
+SKILL_20170420_009215	* Increases additional damage of [Blessing] by 1% per attribute level
+SKILL_20170420_009216	* Increases damage dealt with [Exorcise] by 0.5% per attribute level
+SKILL_20170420_009217	* Increases attack count of [Blessing] by 10 per attribute level{nl} Increases SP consumption by 20% 
+SKILL_20170420_009218	* Increases number of targets for [Blessing] by 1 per attribute level{nl}* Increases SP consumption by 10%
+SKILL_20170420_009219	* Increases dark property resistance by 5 per attribute level when [Sacrament] is active{nl}* Increases SP consumption by 10%
+SKILL_20170420_009220	* Increases number of targets that can be revived with [Resurrection] by 1 per attribute level{nl}* Increases SP consumption by 10%
+SKILL_20170420_009221	* Increases duration of [Revive] by 7 seconds per attribute level{nl}* Not applicable in TBL or GvG{nl}* Increases SP consumption by 20%
+SKILL_20170420_009222	* Increases duration of [Monstrance] by 1 second per attribute level{nl}* Increases SP consumption by 20%
+SKILL_20170420_009223	* Increases your ally's evasion by 2% per attribute level when [Monstrance] is active{nl}* Increases SP consumption by 10%
+SKILL_20170420_009224	* Increases duration of [Exorcise]'s magic circle by 1 second per attribute level{nl}* Increases SP consumption by 10%
+SKILL_20170420_009225	* Increases damage dealt with [Effigy] by 0.5% per attribute level
+SKILL_20170420_009226	* Increases damage dealt with [Bwa Kayiman] by 0.5% per attribute level
+SKILL_20170420_009227	* Increases damage dealt with [Damballa] by 0.5% per attribute level
+SKILL_20170420_009228	* Increases chances of creating a large-type zombie when zombifying a large-type monster by 1% per attribute level{nl}* Increases SP consumption by 20%
+SKILL_20170420_009229	* Increases chances of creating a Wheelchair Zombie when creating a zombie by 1% per attribute level{nl} Increases SP consumption by 20%
+SKILL_20170420_009230	* Enemies hit by [Effigy] have a 5% chance per attribute level of becoming afflicted with [Blind] for 5 seconds{nl}* Increases SP consumption by 10%
+SKILL_20170420_009231	* Decreases an enemy's STR within the range of [Ogouveve] by 2 per attribute level{nl} Increases SP consumption by 20%
+SKILL_20170420_009232	* Increases chances of a new zombie emerging from [Damballa] by 2% per attribute level{nl}* Increases SP consumption by 20%
+SKILL_20170420_009233	* Increases zombie's physical defense by 8 per attribute level when using [Bwa Kayiman]{nl}* Increases SP consumption by 10%
+SKILL_20170420_009234	* Increases maximum number of zombies from [Zombify] by 1{nl}* Increases SP consumption by 10%
+SKILL_20170420_009235	* Enemies affected by [Hexing] will receive 10% additional damage per attribute level from Dark property attacks{nl}* Increases SP consumption by 10%
+SKILL_20170420_009236	* Increases range of [Samediveve] to 110{nl} Increases SP consumption by 30%
+SKILL_20170420_009237	* Increases range of [Ogouveve] to 110{nl} Increases SP consumption by 30%
+SKILL_20170420_009238	 [Damballa] no longer knocks enemies down{nl}* Only applies if attribute is set to ON{nl} Increases SP consumption by 10%
+SKILL_20170420_009239	* Increases damage dealt with [Carve] by 0.5% per attribute level
+SKILL_20170420_009240	* Increases damage dealt with [Carve Owl] by 0.5% per attribute level
+SKILL_20170420_009241	* Increases chances of obtaining materials for [Carve] by 1% per attribute level{nl}* Increases SP consumption by 30%
+SKILL_20170420_009242	* Increases cooldown of skills from enemies when within the range while [Statue of Goddess Laima] is active{nl}* Increases SP consumption by 10%
+SKILL_20170420_009243	* Increases damage dealt with [Astral Body Explosion] by 0.5% per attribute level
+SKILL_20170420_009244	* Increases damage dealt while in the state of Out of Body by 0.5% per attribute level
+SKILL_20170420_009245	* Increases damage dealt with [Possession] by 0.5% per attribute level
+SKILL_20170420_009246	* Enemies hit with [Astral Body Explosion] are knocked down{nl}* Increases SP consumption by 10%
+SKILL_20170420_009247	* Recovers HP equal to 5% of maximum HP per attribute level when using [Prakriti]{nl}* Increases SP consumption by 30%
+SKILL_20170420_009248	* Enemies within the range of [Vashita Siddhi] have a chance of being afflicted with [Confusion] for 5 seconds{nl}* Increases the chance by 10% per attribute level{nl}* Increases SP consumption by 20%
+SKILL_20170420_009249	* Increases HP recovery effect of [Restoration] by 1 per attribute level
+SKILL_20170420_009250	* Increases damage dealt with [Smite] by 0.5% per attribute level
+SKILL_20170420_009251	* Increases the chance of nullifying Fire, Ice, Lightning, Poison and Earth property attacks by 0.8% per attribute level when [Resist Elements] is active{nl}* Increases SP consumption by 10%
+SKILL_20170420_009252	* Deals damage equal to 20% magic attack per attribute level to enemies hit with [Barrier]{nl}* Increases SP consumption by 10%
+SKILL_20170420_009253	* Deals damage equal to 50% of physical attack to enemies knocked into the air by [Smite], on landing{nl}* Effect only activates when attribute is ON{nl}* Increases SP consumption by 10%
+SKILL_20170420_009254	* Increases instant death chance of [Turn Undead] in proportion to the character's SPR{nl}* Increases SP consumption by 10%
+SKILL_20170420_009255	* Increases monster's physical attack converted with [Conversion] equal to 50% of the character's STR{nl}* Increases SP consumption by 20%
+SKILL_20170420_009256	* Increases SP recovery while [Restoration] is active{nl}* Increases SP recovery by 10 per attribute level{nl}* Increases SP consumption by 20%
+SKILL_20170420_009257	* Increases damage dealt with [Conviction] by 0.5% per attribute level
+SKILL_20170420_009258	* Increases property resistance of [Resist Elements] by 1 per attribute level
+SKILL_20170420_009259	* While inside [Barrier], damage received from missile or force attacks decreases by 10% per attribute level{nl}* Increases SP consumption by 20%
+SKILL_20170420_009260	* Increases damage dealt with [Double Punch] by 0.5% per attribute level
+SKILL_20170420_009261	* Increases damage dealt with [Palm Strike] by 0.5% per attribute level
+SKILL_20170420_009262	* Increases damage dealt with [Hand Knife] by 0.5% per attribute level
+SKILL_20170420_009263	* Increases damage dealt with [Inch Punch] by 0.5% per attribute level
+SKILL_20170420_009264	* Increases damage dealt with [Energy Blast] by 0.5% per attribute level
+SKILL_20170420_009265	* Increases damage dealt with [God Finger] by 0.5% per attribute level
+SKILL_20170420_009266	* Increases reflection of [Iron Skin] by 5% per attribute level{nl}* Increases SP consumption by 10%
+SKILL_20170420_009267	* Enemies hit by [Palm Strike] will be afflicted with [Bleeding] for 8 seconds{nl}* Increases duration of [Bleeding] by 1 second per attribute level{nl}* Bleeding damage is proportional to the character's physical attack{nl}* Increases SP consumption by 10%
+SKILL_20170420_009268	* Enemies hit by [Hand Knife] have a 40% chance to be afflicted with [Armor Break] for 3 seconds{nl}* Increases the chance by 10% per attribute level from Lv2{nl}* Increases SP consumption by 50%
+SKILL_20170420_009269	* Enemies hit by [One Inch Punch] will be afflicted with [Silence] for 5 seconds{nl}* Increases SP consumption by 20%
+SKILL_20170420_009270	* Applies Golden Bell Shield buff to characters nearby when using [Golden Bell Shield]{nl}* Increases SP consumption by 10%
+SKILL_20170420_009271	 [Palm Strike] no longer knocks enemies down{nl}* Only applies if attribute is set to ON{nl}* Increases SP consumption by 10%
+SKILL_20170420_009272	* [Hand Knife] no longer knocks enemies down{nl}* Only applies if attribute is set to ON{nl}* Increases SP consumption by 10%
+SKILL_20170420_009273	* Increases damage dealt with [Indulgentia] by 0.5% per attribute level
+SKILL_20170420_009274	* Adds 1 target per attribute level to the applied effects of [Discerning Evil]{nl}* Increases SP consumption by 30%
+SKILL_20170420_009275	* Increases duration of [Increase Magic Defense] by 1 second per attribute level{nl}* Increases SP consumption by 20%
+SKILL_20170420_009276	* Increases damage dealt with [Carnivory] by 0.5% per attribute level
+SKILL_20170420_009277	* Increases duration of [Chortasmata] by 1 second per attribute level{nl}* Increases SP consumption by 10%
+SKILL_20170420_009278	* Increases evasion of small-type monster transformed by [Shape Shifting] or [Transform] by 50 per attribute level
+SKILL_20170420_009279	* Increases critical rate of the animal-type monsters transformed via [Shape Shifting] or [Transform] by 40 per attribute level
+SKILL_20170420_009280	* Increases duration time of [Carnivory] by 1 second per attribute level{nl}* Increases SP consumption by 10%
+SKILL_20170420_009281	* Increases the duration of [Savior] effects by 1 second per attribute level{nl}* Increases SP consumption by 10%
+SKILL_20170420_009282	* Enemies near the initial target of [Telepath] also get the same effect{nl}* Increases SP consumption by 10%
+SKILL_20170420_009283	* Enemies receive holy damage equal to [attribute level] within the range of [Arcane Energy]{nl}* Increases SP consumption by 10%
+SKILL_20170420_009284	* Character is not threatened by monsters summoned with [Call of Deities]{nl}* Effects exclude pre-emptive attack types{nl}* Increases SP consumption by 10%
+SKILL_20170420_009285	* Increases duration of [Forecast] by 2 seconds per attribute level{nl}* Increases SP consumption by 20%
+SKILL_20170420_009286	* A monster that is transformed by [Change] will have the Item Jackpot Effect with a 0.05% chance per attribute level{nl}* Increases SP consumption by 30%
+SKILL_20170420_009287	* Increases chances to nullify an enemy's attack while activating [Forecast] by 1% per attribute level{nl}* Increases SP consumption by 10%
+SKILL_20170420_009288	* Increases duration of [Arcane Energy] by 1 minute per attribute level{nl}* Increases SP consumption by 20%
+SKILL_20170420_009289	* Decreases movement speed of an enemy affected by [Death Sentence] by 15% per attribute level{nl}* Increases SP consumption by 10%
+SKILL_20170420_009290	* Increases duration of [Foretell] effects by 1 second per attribute level{nl}* Increases SP consumption by 10%
+SKILL_20170420_009291	* [Counter Spell] only removes enemy magic{nl}* Increases SP consumption by 20%
+SKILL_20170420_009292	* Reduces cooldown time of [Death Sentence] significantly{nl}* Increases SP consumption by 30%
+SKILL_20170420_009293	* Enemies within the range of [Prophecy] receive damage proportional to that of magic attack{nl}* Damage rate increases with attribute level{nl}* Increases SP consumption by 10%
+SKILL_20170420_009294	* Damages enemies when they step on the magic circle created by [Healing Factor]{nl}* Damage is determined by the value of the character's current HP{nl}* Increases SP consumption by 10%
+SKILL_20170420_009295	* Increases damage dealt with [Incineration] by 0.5% per attribute level
+SKILL_20170420_009296	* Increases cycle time of HP cost by 0.02 seconds per attribute level while [Bloodletting] is in effect{nl}* Increases SP consumption by 10%
+SKILL_20170420_009297	* Increases the chance that [Fumigate] blocks Lv3 or weaker status ailments for 10 seconds by 5% per attribute level{nl}* Increases SP consumption by 10%
+SKILL_20170420_009298	* The range of [Fumigate] becomes a purification area for 10 seconds{nl}* Increases allies' poison resistance by 10% per attribute level{nl}* Increases SP consumption by 10%
+SKILL_20170420_009299	* Increases damage dealt with [Black Death Steam] by 0.5% per attribute level
+SKILL_20170420_009300	* Increases the range of [Pandemic]{nl}*  Increases SP consumption by 200% 
+SKILL_20170420_009301	* When [Disenchant] is used upon an enemy, it increases the target's debuff level by 1{nl}* Increases SP consumption by 10%
+SKILL_20170420_009302	* When [Disenchant] is used upon an enemy, gear defense stats get nullified for 5 seconds per attribute level{nl}* Increases SP consumption by 10%
+SKILL_20170420_009303	* When an enemy is defeated by [Incinerate], it transfers its debuff to a nearby enemy{nl}* Increases the number of possible targets by 1 per attribute level{nl}* Increases SP consumption by 40%
+SKILL_20170420_009304	* Increases the duration of [Revenged Sevenfold]'s effect by 1 second per attribute level{nl}* Increases SP consumption by 10%
+SKILL_20170420_009305	* Inflicts [Curse] at a 10% chance for 4 seconds on an enemy when damage is dealt with [Revenged Sevenfold]{nl}* Increases SP consumption by 10%
+SKILL_20170420_009306	* Increases damage dealt with [Nachash] by 0.5% per attribute level
+SKILL_20170420_009307	* Increases allies' status ailment resistance within the range of [Nachash] by 1% per attribute level{nl}* Increases SP consumption by 10%
+SKILL_20170420_009308	* Increases chances to afflict petrification or curse an enemy when damage is dealt with [Nachash] by 1%{nl}* Increases SP consumption by 10%
+SKILL_20170420_009309	* Increases duration of [Ein Sof] tiles by 1 second per attribute level{nl}* Increases SP consumption by 10%
+SKILL_20170420_009310	* Increases the number of [Ein Sof] tiles created by 1 per attribute level{nl}* Increases SP consumption by 10%
+SKILL_20170420_009311	* Increases damage dealt with [Merkabah] by 0.5% per attribute level
+SKILL_20170420_009312	* Inflicts [Petrification] for 3 seconds on enemies affected by [Curse] when attacking with [Merkabah]{nl}* Increases SP consumption by 10%
+SKILL_20170420_009313	* Exchanges half the maximum HP increase of [Ein Sof] for SP instead{nl}* Increases SP consumption by 10%
+SKILL_20170420_009314	* Nullify enemy attacks while near [Merkabah]'s wheel and temporarily gain the Holy property{nl}* Increases SP consumption by 10%
+SKILL_20170420_009315	* Reduces the additional level of [Reduce Level] by 1 per attribute level{nl}* Increases SP consumption by 10%
+SKILL_20170420_009316	* [Merkabah] wheel's durability increases and receives only 1 damage for any attacks{nl}The wheel can take damage 5 times per attribute level{nl}* Increases SP consumption by 10%
+SKILL_20170420_009317	* When near [Merkabah]'s wheel, allies' magic defense increases by 10 per attribute level{nl}* Increases SP consumption by 10%
+SKILL_20170420_009318	* Increases the lower limit HP of [Last Rites] by 2% per attribute level{nl}* Increases SP consumption by 10%
+SKILL_20170420_009319	* Increases duration of the deployed capella of [Deploy Cappella] by 3 seconds{nl}* Increases SP consumption by 10%
+SKILL_20170420_009320	* Increases damage dealt with [Magnus Exorcismus] by 0,5% per attribute level
+SKILL_20170420_009321	* Increases damage dealt with [Iron Maiden] by 0.5% per attribute level
+SKILL_20170420_009322	* Increases damage dealt with [Heretic's Fork] by 0.5% per attribute level
+SKILL_20170420_009323	* Increases damage dealt with [Iron Boots] by 0.5% per attribute level
+SKILL_20170420_009324	* Increases the movement speed of [Iron Boots] by 1% per attribute level. Increases SP consumption by 10%
+SKILL_20170420_009325	* Increases damage dealt with [Pear of Anguish] by 0.5% per attribute level
+SKILL_20170420_009326	* [Pear of Anguish] with 10% chance per attribute level [silences] the enemy for 5 seconds{nl}* Increases SP consumption by 10%
+SKILL_20170420_009327	* While [Breaking Wheel] is active, attacking the wheel physically increases its range temporarily to attack enemies outside its range{nl}* Increases SP consumption by 50%
+SKILL_20170420_009328	* Increases damage dealt with [God Smash] by 0.5% per attribute level
+SKILL_20170420_009329	* In PvP, [Malleus Maleficarum] reduces the SP of an enemy by 5% of its current amount per attribute level. In PvE, it silences the monster{nl}* Increases SP consumption by 10%
+SKILL_20170420_009330	* [Dark Sight]'s effect duration increases by 1 second per attribute level{nl}* Increases SP consumption by 10%
+SKILL_20170420_009331	* Increases damage dealt with [Entrenchment] by 0.5% per attribute level
+SKILL_20170420_009332	* Increases damage dealt with [Hurling] by 0.5% per attribute level
+SKILL_20170420_009333	* Enemies get stunned by [Hurling] for 1 second{nl}* After Lv2, the duration of stun increases by 0.3 seconds per attribute level{nl}* Increases SP consumption by 10%
+SKILL_20170420_009334	* Increases duration of [Hidden Potential] effects by 5 seconds per attribute level{nl}* Increases SP consumption by 10%
+SKILL_20170420_009335	* Increases damage dealt with [Storm Calling] by 0.5% per attribute level
+SKILL_20170420_009336	* Increases amount of ally HP recovered by [Storm Calling] by 1% per attribute level{nl}* Increases SP consumption by 10%
+SKILL_20170420_009337	* Increases damage dealt with [Begone Demon] by 0.5% per attribute level
+SKILL_20170420_009338	* Melee attacks deal additional damage of 50% to enemies in the range of [Storm Calling]{nl}* Increases SP consumption by 10%
+SKILL_20170420_009339	* Increases damage dealt with [Gohei] by 0.5% per attribute level
+SKILL_20170420_009340	* While [Sweeping] is maintained, duration for nearby allies' Magic Circles increases by 1 second per Attribute Level{nl}* Increases SP consumption by 10%
+SKILL_20170420_009341	* Increases damage dealt with [Hamaya] by 0.5% per attribute level
+SKILL_20170420_009342	* While [Kagura] is active, you and nearby allies will receive less damage from magic attacks by 10% per attribute level{nl}* Increases SP consumption by 10%
+SKILL_20170420_009343	Decreases damage received by 10% per level when at least 3 enemies or more are provoked when using [Cross Guard].
+SKILL_20170510_009344	{#DD5500}{ol}[Physical] - [Slash]{/}{/} {#7AE4FF}{ol}[{img tooltip_speedofatk}speedofatk]{nl}Inflict damage on enemies by swinging your sword around to create continuous attacks. Deals Double Damage to enemies under Crown effects.
+SKILL_20170510_009345	Temporarily decreases the defense of nearby enemies and increases attack proportionally to the number of targets nearby.
+SKILL_20170510_009346	Targets: #{CaptionRatio}#{nl}Physical defense max. decrease: #{CaptionRatio2}#%{nl}Attack increase per target: #{CaptionRatio3}#{nl}Duration #{CaptionTime}# seconds
+SKILL_20170510_009347	{#DD5500}{ol}[Missile: Gun]{/}{/}{nl}Fires continuous shots with a pistol to damage multiple enemies ahead.
+SKILL_20170510_009348	Duration: #{CaptionTime}# seconds{nl}Chance of doubling the duration: #{CaptionRatio}#%{nl}Movement Speed: -10%{nl}Additional {#DD5500}{ol}Lightning{/}{/}Property Damage: +35%{nl}Attack on {#DD5500}{ol}Fire{/}{/}Property Targets: #{SkillFactor}#%
+SKILL_20170510_009349	Summon the devil of card inserted in Grimore. The attack and defense of the summoned devil will be decided according to character's level, and increase 5% for each star on the corresponding card. Grimore can only equip Devil type monster cards.
+SKILL_20170510_009350	Summons a Devil-type boss monster{nl}Devil's Additional Attack: #{CaptionRatio}#%{nl}Devil's Additional Defense: #{CaptionRatio}#%
+SKILL_20170510_009351	Salamion Duration: #{CaptionTime}# seconds{nl}Salamion Level: #{CaptionRatio2}#{nl}Salamion Additional Damage: +#{CaptionRatio}#%{nl}Add. Salamion defense #{CaptionRatio}#%
+SKILL_20170510_009352	{#993399}{ol}[Magic] - [Dark]{/}{/}{nl}Attack enemies with a summoned devil based on the secondary card equipped in the Grimoire.
+SKILL_20170510_009353	Create a Shoggoth with stats based on the cards that are placed in the Necronomicon. The attack and defense of the Shoggoth is affected by your skill level. The Shoggoth's stats increase by 5% for each star on the card. Only Animal, Plant and Mutant-type cards can be placed in the Necronomicon.
+SKILL_20170510_009354	Shoggoth's Additional Damage: #{CaptionRatio}#%{nl}Shoggoth's Additional Defense: #{CaptionRatio}#%{nl}Consumes #{CaptionTime}# Corpse(s)
+SKILL_20170510_009355	Add. Corpse Tower attack #{CaptionRatio3}#%{nl}Corpse Tower #{CaptionRatio}# second duration{nl}No. of defenses: #{CaptionTime}#{nl}Consumes #{CaptionRatio2}# corpses
+SKILL_20170510_009356	Summons #{CaptionRatio}# Skeleton Soldiers{nl}Add. Skeleton Soldier attack #{CaptionRatio3}#%{nl}Consumes #{CaptionRatio2}# Corpse(s){nl}Maximum Level: 5
+SKILL_20170510_009357	Summons #{CaptionRatio}# Skeleton Archers{nl}Add. Skeleton Archer attack #{CaptionRatio3}#%{nl}Consumes #{CaptionRatio2}# Corpse(s){nl}Maximum Level: 5
+SKILL_20170510_009358	{#993399}{ol}[Magic] - [Fire]{/}{/}{nl}Explodes an item of yours on the ground to damage nearby enemies.
+SKILL_20170510_009359	{#DD5500}{ol}[Missile: Bow]{/}{/}{nl}Quickly fires a number of arrows at a targeted area.
+SKILL_20170510_009360	{#DD5500}{ol}[Missile: Bow]{/}{/}{nl}Pull your bowstring back to fire a highly piercing shot. Enemies hit are pinned onto the surrounding terrain.
+SKILL_20170510_009361	{#DD5500}{ol}[Missile: Bow]{/}{/} {#7AE4FF}{ol}[{img tooltip_speedofatk}speedofatk]{/}{/}{nl}Fires an arrow that bounces off of the target to hit an adjacent enemy.
+SKILL_20170510_009362	{#DD5500}{ol}[Missile: Bow]{/}{/}{nl}Demonstrate your strength by firing a shot that pushes enemies away.
+SKILL_20170510_009363	{#DD5500}{ol}[Missile: Bow]{/}{/} {#7AE4FF}{ol}[{img tooltip_speedofatk}speedofatk]{/}{/}{nl}Fires two arrow simultaneously to the enemy.
+SKILL_20170510_009364	{#DD5500}{ol}[Missile: Bow]{/}{/} {#7AE4FF}{ol}[{img tooltip_speedofatk}speedofatk]{/}{/}{nl}{nl}Fires 5 arrows forward in an arc in front of you.
+SKILL_20170510_009365	{#DD5500}{ol}[Missile: Bow]{/}{/}{nl}Aim with the tip of your arrow and penetrate through enemies in front of you.
+SKILL_20170510_009366	{#DD5500}{ol}[Missile: Bow]{/}{/}{#7AE4FF}{ol}[{img tooltip_speedofatk}attack speed]{/}{/}{nl}Fires an arrow with a high chance of critical at a target.
+SKILL_20170510_009367	{#DD5500}{ol}[Missile: Bow]{/}{/}{nl}Fires an arrow with a bomb attached. Upon hitting a target, the arrow will explode after an amount of time, dealing extra damage.
+SKILL_20170510_009368	{#DD5500}{ol}[Missile: Bow]{/}{/}{nl}Fires an arrow that splits upon hitting a target to hit other adjacent enemies.
+SKILL_20170510_009369	{#DD5500}{ol}[Missile: Bow]{/}{/}{nl}Fires a spiraling arrow that deals multiple hits to a target.
+SKILL_20170510_009370	{#DD5500}{ol}[Missile: Bow]{/}{/}{nl}Jump backwards while firing multiple arrows forward.
+SKILL_20170510_009371	Obtainable Stone Bullets: #{CaptionRatio}#
+SKILL_20170510_009372	{#DD5500}{ol}[Missile: Bow]{/}{/}{nl}Fires a stone bullet to push an enemy away. The target has a chance to become afflicted with [Stun].
+SKILL_20170510_009373	{#DD5500}{ol}[Missile: Bow]{/}{/}{nl}Load multiple arrows into your crossbow and then fire them in quick succession at an enemy.
+SKILL_20170510_009374	{#DD5500}{ol}[Missile: Bow] - [Poison]{/}{/}{nl}Blows a toxic arrow that inflicts damage over a long period of time.
+SKILL_20170510_009375	0.5 second attack #{SkillFactor}#%{nl}{#339999}{ol}[Poison]{/}{/} Duration  #{CaptionRatio2}# seconds{nl}Use #{SpendPoison}# Poison pot
+SKILL_20170510_009376	{#DD5500}{ol}[Missile: Bow] - [Poison]{/}{/}{nl}Fires a contagious poison arrow. The poisoned target spreads poison around to nearby enemies whenever it is attacked. {nl}
+SKILL_20170510_009377	{#DD5500}{ol}[Missile: Bow]{/}{/}{nl}Fires a musical arrow to a target. Enemies nearby the target will be afflicted with [Fear].
+SKILL_20170510_009378	{#DD5500}{ol}[Missile: Bow]{/}{/}{nl}Fires a flare on the ground at a targeted area. Upon hitting the ground, the flare bursts into sparks that damage nearby enemies.
+SKILL_20170510_009379	{#DD5500}{ol}[Missile: Bow] {#7AE4FF}{ol}[{img tooltip_speedofatk} attack speed]{/}{/}{nl}Fires an arrow that, upon hitting a target, bounces to hit two nearby enemies.
+SKILL_20170510_009380	{#DD5500}{ol}[Missile: Bow]{/}{/}{nl}If the target dies from this attack, it explodes. Party members gain STR for a period of time.
+SKILL_20170510_009381	{#DD5500}{ol}[Missile: Bow]{/}{/}{nl}Fires a wide broadhead arrow. Inflicts [Bleeding] on the enemy hit.
+SKILL_20170510_009382	{#DD5500}{ol}[Missile: Bow]{/}{/}{nl}Fires a high-penetration bodkin arrow at an enemy. Lowers the defense of struck enemies and nullifies any protective magic.
+SKILL_20170510_009383	{#DD5500}{ol}[Missile: Bow]{/}{/} {#7AE4FF}{ol}[{img tooltip_speedofatk} attack speed]{/}{/}{nl}Fires a barbed arrowhead. Deals a number of hits depending on an enemy's defense type.
+SKILL_20170510_009384	{#DD5500}{ol}[Missile: Bow]{/}{/} {#7AE4FF}{ol}[{img tooltip_speedofatk} attack speed]{/}{/}{nl}Fires an arrow that, upon hitting an enemy, creates a cross-shaped explosion.
+SKILL_20170510_009385	{#DD5500}{ol}[Missile: Bow]{/}{/}{nl}Fires an arrow, igniting flames that inflict damage over time on enemies entering the targeted area.
+SKILL_20170510_009386	{#DD5500}{ol}[Missile: Bow]{/}{/}{nl}Fires an arrow with explosives attached. Upon hitting its target, the arrow will explode after an amount of time and cause collateral damage.
+SKILL_20170510_009387	{#DD5500}{ol}[Missile: Gun]{/}{/}{nl}Fires multiple bullets in rapid succession at an enemy.
+SKILL_20170510_009388	{#DD5500}{ol}[Missile: Gun]{/}{/}{nl}Shoot forward while pushing yourself back with recoil.
+SKILL_20170510_009389	{#DD5500}{ol}[Missile: Gun]{/}{/}{nl}Shoot repeatedly in the opposite direction you are moving.
+SKILL_20170510_009390	{#DD5500}{ol}[Missile: Gun]{/}{/}{nl}Attack an enemy simultaneously with a crossbow and pistol held in both hands. 
+SKILL_20170510_009391	{#DD5500}{ol}[Missile: Gun]{/}{/}{nl}March forward while shooting. The enemies in front get attacked.
+SKILL_20170510_009392	{#DD5500}{ol}[Missile: Cannon]{/}{/}{nl}Fires cannonballs to target enemies on ground. The damage is halved against airborne enemies.
+SKILL_20170510_009393	{#DD5500}{ol}[Missile: Cannon]{/}{/}{nl}Fires cannonballs to target airborne enemies. The damage is halved against enemies on ground.
+SKILL_20170510_009394	{#DD5500}{ol}[Missile: Cannon]{/}{/}{nl}Fires a howitzer to the ground. 5x damage is dealt to an enemy's structure.
+SKILL_20170510_009395	{#DD5500}{ol}[Missile: Cannon]{/}{/}{nl}Fires a cannonball that spreads to target all enemies in front of you.
+SKILL_20170510_009396	{#DD5500}{ol}[Missile: Cannon]{/}{/}{nl}Repeatedly fire your cannon at the selected target.
+SKILL_20170510_009397	{#DD5500}{ol}[Missile: Gun]{/}{/}{nl}Attack multiple enemies by firing at a targeted area.
+SKILL_20170510_009398	{#DD5500}{ol}[Missile: Gun]{/}{/}{nl}Aim accurately at the head of an enemy to attack. The attacked enemy will have its INT and SPR temporarily reduced.
+SKILL_20170510_009399	{#DD5500}{ol}[Missile: Gun]{/}{/}{nl}Aim and fire at a far away enemy. The usual range of fire is increased and heavily damages a single enemy.
+SKILL_20170510_009400	{#DD5500}{ol}[Missile: Gun]{/}{/}{nl}Fire continuously in a straight line in front of you until the maximum range of fire. The attacked enemies might be pushed back.
+SKILL_20170510_009401	{#DD5500}{ol}[Missile: Gun]{/}{/}{nl}Repeatedly fire at one enemy.
+SKILL_20170510_009402	{#DD5500}{ol}[Missile: Gun]{/}{/}{nl}Aim your shot against flying type enemies. The flying target gets additional damage and stunned but the attack is weaker against ground type enemies.
+SKILL_20170510_009403	Attack: #{SkillFactor}#% x 4{nl}AoE Attack Ratio: #{SkillSR}#{nl}Able to use while riding
+SKILL_20170510_009404	{#DD5500}{ol}[Missile: Bow]{/}{/}{nl}Order a bombardment strike upon a selected area. Enemies within its AoE gets continuous damage per each strike.
+SKILL_20170510_009405	{#DD5500}{ol}[Missile: Gun]{/}{/}{nl}Aim at the target's leg and fire your pistol. The target's movement speed gets momentarily reduced.
+SKILL_20170510_009406	{#DD5500}{ol}[Missile: Bow]{/}{/} {#7AE4FF}{ol}[{img tooltip_speedofatk} attack speed]{/}{/}{nl}Fire five arrows at once to attack enemies within range.
+SKILL_20170510_009407	{#DD5500}{ol}[Missile: Bow]{/}{/}{nl}Aim straight at the enemy and fire multiple arrows.
+SKILL_20170510_009408	{#DD5500}{ol}[Missile: Bow]{/}{/}{nl}Pull the quiver quickly and shoot.
+SKILL_20170510_009409	{#DD5500}{ol}[Missile: Bow]{/}{/} {#7AE4FF}{ol}[{img tooltip_speedofatk}speedofatk]{/}{/}{nl}Shoot three exploding arrows. The explosion attacks nearby enemies as well.
+SKILL_20170510_009410	{#DD5500}{ol}[Missile: Bow]{/}{/}{nl}Shoot multiple arrows up in the air and bring the storm of arrows. The targets in its AoE get damage per hit.
+SKILL_20170510_009411	{#DD5500}{ol}[Missile: Bow]{/}{/}{nl}Jump high up in the air and fire arrow forward. Enemies in its trajectory get damage and movement speed reduced.
+SKILL_20170510_009412	{#DD5500}{ol}[Missile: Bow]{/}{/}{nl}Charge forward but attack the opposite direction. Only Able to Use while Moving
+SKILL_20170510_009413	{#DD5500}{ol}[Missile: Bow]{/}{/}{nl}Use a magnifying glass to find the enemy's blind side and attack. The attack will apply as critical attack. Foes around the attacked enemy will have higher chances of being hit by critical attacks.{nl}(The effects of Blindside and the character's critical rate apply separately.)
+SKILL_20170510_009414	{#993399}{ol}[Magic] - [Holy]{/}{/}{nl}Creates a magic circle in front of you, healing allies or damaging enemies. Does not affect airborne enemies. Amount of HP recovered depends on the target's maximum HP. Recovery increases with the casting character's INT and SPR.
+SKILL_20170510_009415	Attack: #{SkillFactor}#%{nl}Recovers HP equal to 5% of your maximum HP{nl}Additional HP Recovery Rate: #{CaptionRatio}# ~ #{CaptionRatio2}#{nl}Magic Circle Duration: #{CaptionTime}# seconds{nl}Heal tiles: #{CaptionRatio3}#
+SKILL_20170510_009416	STR, INT: +#{CaptionRatio}#{nl}Effect Duration: #{CaptionRatio3}# seconds{nl}Stigma Duration: #{CaptionRatio2}# seconds
+SKILL_20170510_009417	Creates a magic circle that raises a dead enemy as a zombie. The stats of the raised zombie are affected by those of the dead enemy, and its HP and STR increases with the caster's INT and SPR.
+SKILL_20170510_009418	Abel to Use Wolf Skills{nl}Additional Attack 5%{nl}Max Duration #{CaptionTime}# minutes{nl}SP Consumption 80 per minute
+SKILL_20170510_009419	{#993399}{ol}[Magic] - [Holy]{/}{/}{nl}Swings a gohei made of a wooden stick and white paper. Removes 1 harmful effect of rank 1 or below on allies and 1 beneficial effect of rank 1 or lower on enemies in front.
+SKILL_20170510_009420	Donnes' Buff
+SKILL_20170510_009421	+100% EXP from hunting monsters
+SKILL_20170510_009422	* Amplifies physical damage increase effect and decreased defense effect of [Gung Ho] by 1% per attribute level
+SKILL_20170510_009423	* Increases character's evasion by 50 per attribute level when [Guardian] is active{nl}* Increases SP consumption by 10%
+SKILL_20170510_009424	* Increases evasion by 50 per attribute level while using [Stabbing]{nl}Increases magic defense by 5% per attribute level{nl}* Increases SP consumption by 10
+SKILL_20170510_009425	* Increases magic defense by 5% and Ice property resistance by 25% per attribute level in proportion to the Shield item equipped
+SKILL_20170510_009426	* Increases evasion by 50 per attribute level when using [Gravity Pole]
+SKILL_20170510_009427	* Decreases movement speed of monsters affected by [Swell Body] by 15% per attribute level{nl}* Increases physical and magic attack by 10% per attribute level{nl}* Effects do not apply to characters
+SKILL_20170510_009428	* Not using a dagger or a shield as offhand gives 30 higher accuracy and evasion per attribute level{nl}* Increases SP consumption by 10%
+SKILL_20170510_009429	* Increases evasion by 50 per attribute level while charging [Meteor]{nl}* Increases SP consumption by 10%
+SKILL_20170510_009430	* Increases damage dealt with Mounted demon by 0.5% per attribute level
+SKILL_20170510_009431	* Increases critical rate effect from [Quicken] by 30 and decreases evasion by 40 per attribute level{nl}* Increases SP consumption by 30%
+SKILL_20170510_009432	* Increases your ally's evasion by 20 per attribute level when [Monstrance] is active{nl}* Increases SP consumption by 10%
+SKILL_20170510_009433	* Increases the body's evasion by 10 per attribute level when [Out of Body] is active
+SKILL_20170510_009434	* Decreases the enemy's physical defense by 10% with a chance of 10% per attribute level when using a basic attack during Out of Body{nl}* Unable to turn ON/OFF during Out of Body
+SKILL_20170510_009435	* Enemies near the initial target of [Telepath] also get the same effect corresponding to attribute level{nl}* Increases SP consumption by 10%
+SKILL_20170512_009436	Reduces skill casting time. Reduced time will now surpass 90% of the original casting time.
+SKILL_20170512_009437	Attack: #{SkillFactor}#%{nl}Creates 4 over 4 times
+SKILL_20170512_009438	Set up an upright shield to protect yourself from enemy attacks. Enemies without a target will attack the pavise instead. Enemies attacked during the installation will have a chance of being afflicted with Bleeding.
+SKILL_20170512_009439	Attack #{SkillFactor}#%{nl}Blocks #{CaptionRatio}#{nl}Pavise duration #{CaptionTime}# seconds{nl}Chance of Bleeding #{CaptionRatio2}#%
+SKILL_20170512_009440	{#DD5500}{ol}[Missile: Gun]{/}{/}{nl}Aim accurately at the head of an enemy to attack. The attacked enemy will have its INT and SPR temporarily reduced and be afflicted with Bleeding for 10 seconds.
+SKILL_20170512_009441	{#DD5500}{ol}[Missile: Gun]{/}{/}{nl}Aim and fire at a far away enemy. The usual range of fire is increased and heavily damages a single enemy. Attacking a bleeding enemy will deal additional damage.
+SKILL_20170512_009442	Decreases Slash, Pierce, Bow and Gun attack damage for you and your party members.
+SKILL_20170512_009443	Decreases damage received by #{CaptionRatio}#%{nl}Duration 35 seconds
+SKILL_20170512_009444	{#993399}{ol}[Magic] - [Psychokinesis]{/}{/}{nl}Inflict damage on nearby enemies by separating your soul from your body to cause an explosion. Attacked enemies receive a percentage of Psychokinesis magic damage for 5 seconds.
+SKILL_20170512_009445	Transfer a portion of your INT stat to an ally in front of you. Deals additional Psychokinesis damage proportional to your magic attack and an extra 150% damage when attacking with Psychokinesis skills.
+SKILL_20170512_009446	Transmits #{CaptionRatio}#% INT{nl}Duration #{CaptionRatio2}# seconds{nl}Additional Psychokinesis damage #{CaptionRatio3}#
+SKILL_20170512_009447	Attack #{SkillFactor}#% x #{CaptionRatio}#counts{nl}Max. targets: 8{nl}Duration #{CaptionTime}# seconds
+SKILL_20170512_009448	Temporarily transform into a wolf. Continuously consumes SP while in the wolf form. Increases damage and critical rate while transformed.
+SKILL_20170512_009449	Able to use wolf skills{nl}Add. damage #{CaptionRatio}#% increase{nl}Critical rate #{CaptionRatio2}# increase{nl}Max. duration #{CaptionTime}# minutes{nl}Consumes 70 SP per second
+SKILL_20170512_009450	Duration #{CaptionTime}# seconds{nl}Increases add. damage by 20% when transformed{nl}Increases critical rate by 100 when transformed
+SKILL_20170512_009451	Deals additional Psychokinesis damage proportional to your magic attack, but increases your taken damage by 50% when attacked with Psychokinesis.
+SKILL_20170512_009452	Continuously receive Fire damage. Drastically reduces the resistance to Fire property of enemies afflicted with the debuff.
+SKILL_20170512_009453	Loss of Spirit
+SKILL_20170512_009454	Psychokinesis magic damage inflicted based on Astral Body Explosion damage every 0.5 seconds.
+SKILL_20170512_009455	* Increases property damage of [Flare] by 10 per attribute level to Cloth armor-type enemies{nl}* Increases SP consumption by 10%
+SKILL_20170512_009456	* Increases property damage of [Flare] by 10 per attribute level to Leather armor-type enemies{nl}* Increases SP consumption by 10%
+SKILL_20170512_009457	* [Zaibas] deals the same damage to nearby enemies{nl}* Max. targets: 4{nl}* Total count is maintained {nl}* Increases SP consumption by 30%
