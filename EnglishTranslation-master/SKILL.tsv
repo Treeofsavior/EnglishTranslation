@@ -6587,35 +6587,35 @@ SKILL_20161005_006586	Kundela Slash
 SKILL_20161005_006587	{#993399}{ol}[Magic] - [Dark]{/}{/}{nl}Use the Kundela to attack enemies. The cursed enemies receive additional damage.
 SKILL_20161005_006588	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}{#339999}{ol}[Curse]{/}{/} Additional damage to enemies afflicted with [Curse]
 SKILL_20161005_006589	Levitation
-SKILL_20161005_006590	For a brief period of time, your character levitates. While levitating, you are immune to melee attacks but receive additional damage from missile attacks.
+SKILL_20161005_006590	For a brief period of time, your character levitates. While levitating, you are immune to melee attacks but receives additional damage from missile attacks.
 SKILL_20161005_006591	Duration: #{CaptionRatio}# seconds{nl}Receives additional damage from missile attacks
 SKILL_20161005_006592	Blood Curse
 SKILL_20161005_006593	{#993399}{ol}[Magic] - [Dark]{/}{/}{nl}Consumes one's own HP and deals proportional damage to nearby enemies and grants the [Blood Curse] status ailment. Enemies under the [Blood Curse] state will not recover SP and when attacked heals the attacker's HP instead. Using this skill without sufficient HP will incapacitate you.
 SKILL_20161005_006594	Attack: #{SkillAtkAdd}#{nl}HP consumption while using the skill: #{CaptionRatio}#%{nl}Duration: #{CaptionTime}# seconds
 SKILL_20161005_006595	Drain
-SKILL_20161005_006596	Absorbs nearby evil spirits and expels Evil Spirit Energy around. The cooldown for Dark Surge will be reduced depending on the number of absorbed evil spirits. Your normal attacks will be imbued with evil spirits.
+SKILL_20161005_006596	Absorbs nearby evil spirits and expels Evil Spirit Energy around. Cooldown for Dark Surge will be reduced depending on the number of absorbed evil spirits. Your normal attacks will be imbued with evil spirits.
 SKILL_20161005_006597	Absorable Evil Spirits: #{CaptionRatio}#{nl}Cooldown reduced for Dark Surge: #{CaptionRatio2}# × [Number of Evil Spirits] seconds{nl}Buff Duration: #{CaptionTime}# + [Number of Evil Spirits] × 2 seconds
 SKILL_20161005_006598	Ghastly Trail
 SKILL_20161005_006599	{#993399}{ol}[Magic] - [Dark]{/}{/}{nl}Make the summoned evil spirits to follow you in line.
 SKILL_20161005_006600	Additional Damage: #{SkillAtkAdd}#{nl}Maximum Duration: 5 seconds{nl}Requires summoned Evil Spirits
-SKILL_20161005_006601	Saves your current location or creates a portal for you or your party members to be able to use. Saving a location records the coordinates, and then you must wait for the cooldown to open a portal to the desired location.
+SKILL_20161005_006601	Saves the location or create a portal for you or your party members to be able to use. If Location Saved, it records the current axis, and must wait cooldown for opening a portal.
 SKILL_20161005_006602	Saveable Portals: #{CaptionRatio}#{nl}Portal Cooldown: #{CaptionTime}# minutes{nl}Portal Duration: 15 seconds
 SKILL_20161005_006603	Warp to Friend
 SKILL_20161005_006604	Warps to the selected friend. You cannot warp to a friend who is in an instance dungeon.
 SKILL_20161005_006605	Warp to Specific Friend's Location
 SKILL_20161005_006606	Micro Dimension
-SKILL_20161005_006607	Distorts space into a small size to deal damage to enemies.
+SKILL_20161005_006607	Distorts the space into a small size to deal damage to enemies.
 SKILL_20161005_006608	Ultimate Dimension
-SKILL_20161005_006609	Distorts space into a large size to deal damage to enemies.
+SKILL_20161005_006609	Distorts the space into a large size to deal damage to enemies.
 SKILL_20161005_006610	Blink
-SKILL_20161005_006611	Leaves behind an apparition at your location and teleports you randomly to a different place. The apparition remains for a period of time and receives damage from monsters in your stead.
+SKILL_20161005_006611	Leave behind an apparition on your location and you get teleported randomly to a different place. The apparition remains for a period of time and receives damage from the monsters in your stead.
 SKILL_20161005_006612	Apparition Duration: #{CaptionTime}# seconds
 SKILL_20161005_006613	Maze
 SKILL_20161005_006614	Locks the enemies in the selected location up in a different dimension. The locked enemies will not be able get attacked by receives continous damage while in the state and once unlocked, get sileneced.
 SKILL_20161005_006615	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Dimension Duration: #{CaptionTime}# seconds
 SKILL_20161005_006616	Magic Circle Reduction
 SKILL_20161005_006617	Missile Hole
-SKILL_20161005_006618	Grants an effect that can minimize damage from missile attacks and magic bullet attacks for you and your party members for a period of time.
+SKILL_20161005_006618	For a period of time, grants an effect that can minimize damage from missile attacks and magic bullet attacks for you and your party members.
 SKILL_20161005_006619	Duration: #{CaptionTime}# seconds{nl}Number of Blocks: #{CaptionRatio}#
 SKILL_20161005_006620	{#993399}{ol}[Magic]{/}{/}{nl}Sprinkle magic powder around to attack and boost movement speed of the allies.
 SKILL_20161005_006621	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Increased Movement Speed Duration: #{CaptionTime}# seconds
