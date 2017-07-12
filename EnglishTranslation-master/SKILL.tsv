@@ -8415,7 +8415,7 @@ SKILL_20170420_008414	Attack: #{SkillFactor}#%{nl}Duration 6 seconds
 SKILL_20170420_008415	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Trample down on an enemy while in the air or jumping. Increases attack according to the character's height and the boots' defense.
 SKILL_20170420_008416	Targets: #{CaptionRatio}#{nl}Maximum Physical Defense: -#{CaptionRatio2}#{nl}Duration: #{CaptionTime}# seconds
 SKILL_20170420_008417	Increases your attack when you keep repeatedly attacking one particular enemy.
-SKILL_20170420_008418	Attack per Stack: 1.5% Increase{nl}Maximum Stacks: #{CaptionRatio2}#{nl}Increase speedofatk #{CaptionRatio}{nl}Duration: #{CaptionTime}# seconds
+SKILL_20170420_008418	Attack per Stack: 1.5% Increase{nl}Maximum Stacks: #{CaptionRatio2}#{nl}Increase speedofatk #{CaptionRatio}#{nl}Duration: #{CaptionTime}# seconds
 SKILL_20170420_008419	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Swing an enemy around, using centrifugal force to throw it away.
 SKILL_20170420_008420	Attack: #{SkillFactor}#{nl}Rotates 9 times{nl}Distance Thrown: 150
 SKILL_20170420_008421	#{SkillFactor}#% Attack per 0.5 seconds{nl}Max. Duration 10 seconds{nl}Consume STA
@@ -9455,3 +9455,38 @@ SKILL_20170512_009454	Psychokinesis magic damage inflicted based on Astral Body 
 SKILL_20170512_009455	* Increases property damage of [Flare] by 10 per attribute level to Cloth armor-type enemies{nl}* Increases SP consumption by 10%
 SKILL_20170512_009456	* Increases property damage of [Flare] by 10 per attribute level to Leather armor-type enemies{nl}* Increases SP consumption by 10%
 SKILL_20170512_009457	* [Zaibas] deals the same damage to nearby enemies{nl}* Max. targets: 4{nl}* Total count is maintained {nl}* Increases SP consumption by 30%
+SKILL_20170522_009458	You will transform into the selected monster.  
+SKILL_20170525_009459	Duration #{CaptionTime}# seconds{nl}Add. damage  #{CaptionRatio2}#%{nl}Able to use while riding
+SKILL_20170525_009460	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Push your sword in with great force to attack. The target receives additional damage from Skarphuggning and has a chance to bleed for 10 seconds.
+SKILL_20170525_009461	Increases debuff by #{CaptionRatio}#% of its remaining time
+SKILL_20170525_009462	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Install Pear of Anguish on the ground that deals damage to incoming enemies. If a magic-using enemy is detected, it flies over to it and deals even greater damage.
+SKILL_20170525_009463	Decreases damage received from Slash, Pierce, Bow and Gun attacks
+SKILL_20170525_009464	Decreased movement speed and evasion
+SKILL_20170525_009465	SPR and INT stats have been decreased. Receiving Bleeding damage every 1 second.
+SKILL_20170525_009466	When attacking with Skarphuggning, additional damage will be dealt.
+SKILL_20170525_009467	Shining Luck
+SKILL_20170525_009468	* Able to use Guard by pressing C after equipping a shield{nl}* Disabled in friendly duels and PvP{nl}Cooldown time 3 seconds
+SKILL_20170525_009469	Slithering: Lower Slash
+SKILL_20170525_009470	* Applies debuff to enemies attacked with Slithering{nl}* Reduces movement speed by 4 per attribute level{nl}* Reduces evasion by 15 per attribute level{nl}* Knocks down attacked enemies{nl}* Increases SP consumption by 10%
+SKILL_20170525_009471	* Increases [Zucken] attack count, raising total amount of damage by +100%{nl}* Increases SP consumption by 150%
+SKILL_20170525_009472	* Increases [Redel] attack count, raising total amount of damage by +180%{nl}* Increases SP consumption by 150%
+SKILL_20170525_009473	* [Zornhau] attack strikes the enemy multiple times{nl}* Number of hits increases by 1 per attribute level{nl}* Increases SP consumption by 150%
+SKILL_20170525_009474	Barrier: Increased Range
+SKILL_20170525_009475	* Increases the range of Barrier by 2 times{nl}* Increases SP consumption by 10%
+SKILL_20170605_009476	Pure White Wedding Bouquet
+SKILL_20170605_009477	May Wedding Bouquet
+SKILL_20170605_009478	Attack #{SkillFactor}#%{nl}{#339999}{ol}[Bleeding]{/}{/} Duration: 5 seconds{nl}Recovers #{CaptionRatio2}#% of damage
+SKILL_20170605_009479	Increases Movement Speed +5
+SKILL_20170605_009480	Wedding Cake
+SKILL_20170605_009481	For 60 minutes, 10% increase in EXP gains, plus movement speed +3 and HP +10
+SKILL_20170605_009482	GM Attack 
+SKILL_20170605_009483	Physical and Magic Attack increased by +1
+SKILL_20170605_009484	GM Defense 
+SKILL_20170605_009485	Defense increased by +1
+SKILL_20170605_009486	GM Max HP 
+SKILL_20170605_009487	Max HP increased by +1
+SKILL_20170609_009488	Party Firecracker
+SKILL_20170609_009489	The power of the firecracker has spread to all party members.
+SKILL_20170615_009490	Increases your maximum SP and HP.
+SKILL_20170709_009491	Stone Spirit
+SKILL_20170709_009492	EXP gains +100%, Stamina +20, Movement Speed +3 for 1 hour
