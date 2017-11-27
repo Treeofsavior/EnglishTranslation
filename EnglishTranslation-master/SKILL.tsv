@@ -6587,35 +6587,35 @@ SKILL_20161005_006586	Kundela Slash	쿤델라 슬래쉬
 SKILL_20161005_006587	{#993399}{ol}[Magic] - [Dark]{/}{/}{nl}Use the Kundela to attack enemies. The cursed enemies receive additional damage.	{#993399}{ol}[마법] - [암흑]{/}{/}{nl}쿤델라를 사용하여 적을 공격합니다. 저주 상태의 적은 추가 대미지를 받습니다.				
 SKILL_20161005_006588	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}{#339999}{ol}[Curse]{/}{/} Additional damage to enemies afflicted with [Curse]	공격력 #{SkillAtkAdd}#{nl}특성 공격력 #{CaptionRatio}#%{nl}{#339999}{ol}[저주]{/}{/} 상태의 적에게 추가대미지				
 SKILL_20161005_006589	Levitation	레비테이션				
-SKILL_20161005_006590	For a brief period of time, your character levitates. While levitating, you are immune to melee attacks but receives additional damage from missile attacks.	일정 시간동안 비행 상태가 됩니다. 비행 상태에서는 근접 공격에 피격되지 않지만, 미사일 공격에 추가 피해를 받습니다.				
+SKILL_20161005_006590	For a brief period of time, your character levitates. While levitating, you are immune to melee attacks but receive additional damage from missile attacks.	일정 시간동안 비행 상태가 됩니다. 비행 상태에서는 근접 공격에 피격되지 않지만, 미사일 공격에 추가 피해를 받습니다.				
 SKILL_20161005_006591	Duration: #{CaptionRatio}# seconds{nl}Receives additional damage from missile attacks	지속시간 #{CaptionRatio}#초{nl}미사일 공격에 추가피해				
 SKILL_20161005_006592	Blood Curse	블러드 커스				
 SKILL_20161005_006593	{#993399}{ol}[Magic] - [Dark]{/}{/}{nl}Consumes one's own HP and deals proportional damage to nearby enemies and grants the [Blood Curse] status ailment. Enemies under the [Blood Curse] state will not recover SP and when attacked heals the attacker's HP instead. Using this skill without sufficient HP will incapacitate you.	{#993399}{ol}[마법] - [암흑]{/}{/}{nl}레비테이션 상태에서 자신의 HP을 소모한 뒤, 주변 적들에게 소모된 HP에 비례한 수치만큼 피해를 주고 [피의 저주] 상태를 부여합니다. [피의 저주] 상태에 걸린 적은 SP 회복력이 0이 되며, 해당 적을 공격했을 때는 공격자의 HP가 회복됩니다. 체력이 부족한 상태에서 이 기술을 사용하면 전투불능상태가 될 수 있습니다.				
 SKILL_20161005_006594	Attack: #{SkillAtkAdd}#{nl}HP consumption while using the skill: #{CaptionRatio}#%{nl}Duration: #{CaptionTime}# seconds	공격력 #{SkillAtkAdd}#{nl}스킬 사용시 HP 소모량 #{CaptionRatio}#%{nl}지속시간 #{CaptionTime}#초				
 SKILL_20161005_006595	Drain	드레인				
-SKILL_20161005_006596	Absorbs nearby evil spirits and expels Evil Spirit Energy around. Cooldown for Dark Surge will be reduced depending on the number of absorbed evil spirits. Your normal attacks will be imbued with evil spirits.	주위에 있는 악령을 흡수해 악령의 기운을 발산합니다. 흡수한 악령 수에 따라 다크써지 재사용 대기시간이 줄어듭니다. 또한 기본 공격 시 악령이 깃든 공격이 나갑니다.				
+SKILL_20161005_006596	Absorbs nearby evil spirits and expels Evil Spirit Energy around. The cooldown for Dark Surge will be reduced depending on the number of absorbed evil spirits. Your normal attacks will be imbued with evil spirits.	주위에 있는 악령을 흡수해 악령의 기운을 발산합니다. 흡수한 악령 수에 따라 다크써지 재사용 대기시간이 줄어듭니다. 또한 기본 공격 시 악령이 깃든 공격이 나갑니다.				
 SKILL_20161005_006597	Absorable Evil Spirits: #{CaptionRatio}#{nl}Cooldown reduced for Dark Surge: #{CaptionRatio2}# ??[Number of Evil Spirits] seconds{nl}Buff Duration: #{CaptionTime}# + [Number of Evil Spirits] ??2 seconds	악령 흡수 가능 수 #{CaptionRatio}#{nl}다크써지 재사용 대기시간 #{CaptionRatio2}# ×[악령 수]초 감소{nl}버프 지속시간 #{CaptionTime}# + [악령 수]×2초				
 SKILL_20161005_006598	Ghastly Trail	사바쓰				
 SKILL_20161005_006599	{#993399}{ol}[Magic] - [Dark]{/}{/}{nl}Make the summoned evil spirits to follow you in line.	{#993399}{ol}[마법] - [암흑]{/}{/}{nl}현재 소환되어 있는 악령을 시전자 뒤에 줄지어 따라다니게 합니다.				
 SKILL_20161005_006600	Additional Damage: #{SkillAtkAdd}#{nl}Maximum Duration: 5 seconds{nl}Requires summoned Evil Spirits	추가 공격력 #{SkillAtkAdd}#{nl}최대 지속시간 5초{nl}소환된 악령 필요				
-SKILL_20161005_006601	Saves the location or create a portal for you or your party members to be able to use. If Location Saved, it records the current axis, and must wait cooldown for opening a portal.	자신과 파티원들이 이용할 수 있게 위치를 저장하거나 포탈을 생성합니다. 위치 저장시 현재 있는곳의 좌표를 저장하며, 원하는 위치의 포탈을 다시 열기 위해서는 대기시간을 기다려야 합니다.				
+SKILL_20161005_006601	Saves your current location or creates a portal for you or your party members to be able to use. Saving a location records the coordinates, and then you must wait for the cooldown to open a portal to the desired location.	자신과 파티원들이 이용할 수 있게 위치를 저장하거나 포탈을 생성합니다. 위치 저장시 현재 있는곳의 좌표를 저장하며, 원하는 위치의 포탈을 다시 열기 위해서는 대기시간을 기다려야 합니다.				
 SKILL_20161005_006602	Saveable Portals: #{CaptionRatio}#{nl}Portal Cooldown: #{CaptionTime}# minutes{nl}Portal Duration: 15 seconds	포탈 저장 가능 수 #{CaptionRatio}#개{nl}포탈 재사용 대기시간 #{CaptionTime}#분{nl}포탈 지속시간 15초				
 SKILL_20161005_006603	Warp to Friend	친구에게 이동				
 SKILL_20161005_006604	Warps to the selected friend. You cannot warp to a friend who is in an instance dungeon.	지정된 친구의 옆으로 워프합니다. 인스턴스 던전에 입장한 친구에게 이동할 수 없습니다.				
 SKILL_20161005_006605	Warp to Specific Friend's Location	선택한 친구의 위치로 이동				
 SKILL_20161005_006606	Micro Dimension	마이크로 디멘션				
-SKILL_20161005_006607	Distorts the space into a small size to deal damage to enemies.	공간을 작게 왜곡하여 적에게 피해를 줍니다.				
+SKILL_20161005_006607	Distorts space into a small size to deal damage to enemies.	공간을 작게 왜곡하여 적에게 피해를 줍니다.				
 SKILL_20161005_006608	Ultimate Dimension	얼티밋 디멘션				
-SKILL_20161005_006609	Distorts the space into a large size to deal damage to enemies.	공간을 크게 왜곡하여 지정된 범위의 적들에게 피해를 줍니다.				
+SKILL_20161005_006609	Distorts space into a large size to deal damage to enemies.	공간을 크게 왜곡하여 지정된 범위의 적들에게 피해를 줍니다.				
 SKILL_20161005_006610	Blink	블링크				
-SKILL_20161005_006611	Leave behind an apparition on your location and you get teleported randomly to a different place. The apparition remains for a period of time and receives damage from the monsters in your stead.	자신이 있던 자리에 잔상을 남기고 임의의 위치로 순간 이동합니다. 잔상은 잠시동안 위치에 남아 몬스터의 위협을 대신 받습니다.				
+SKILL_20161005_006611	Leaves behind an apparition at your location and teleports you randomly to a different place. The apparition remains for a period of time and receives damage from monsters in your stead.	자신이 있던 자리에 잔상을 남기고 임의의 위치로 순간 이동합니다. 잔상은 잠시동안 위치에 남아 몬스터의 위협을 대신 받습니다.				
 SKILL_20161005_006612	Apparition Duration: #{CaptionTime}# seconds	잔상 유지시간 #{CaptionTime}#초				
 SKILL_20161005_006613	Maze	메이즈				
 SKILL_20161005_006614	Locks the enemies in the selected location up in a different dimension. The locked enemies will not be able get attacked by receives continous damage while in the state and once unlocked, get sileneced.	지정한 위치에 있는 적들을 다른 차원 공간에 가둡니다. 가둬진 적들은 외부의 피해를 받지 않지만, 지속적인 피해를 받고 메이즈가 끝나면 침묵 상태가 됩니다.				
 SKILL_20161005_006615	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Dimension Duration: #{CaptionTime}# seconds	공격력 #{SkillAtkAdd}#{nl}특성 공격력 #{CaptionRatio}#%{nl}공간 지속시간 #{CaptionTime}#초				
 SKILL_20161005_006616	Magic Circle Reduction	마법진 축소				
 SKILL_20161005_006617	Missile Hole	미사일 홀				
-SKILL_20161005_006618	For a period of time, grants an effect that can minimize damage from missile attacks and magic bullet attacks for you and your party members.	일정 시간 동안 자신과 파티원에게 미사일 공격과 마법 탄환 공격의 피해를 극소화 하는 효과를 부여합니다.				
+SKILL_20161005_006618	Grants an effect that can minimize damage from missile attacks and magic bullet attacks for you and your party members for a period of time.	일정 시간 동안 자신과 파티원에게 미사일 공격과 마법 탄환 공격의 피해를 극소화 하는 효과를 부여합니다.				
 SKILL_20161005_006619	Duration: #{CaptionTime}# seconds{nl}Number of Blocks: #{CaptionRatio}#	지속시간 #{CaptionTime}#초{nl}방어 횟수 #{CaptionRatio}#회				
 SKILL_20161005_006620	{#993399}{ol}[Magic]{/}{/}{nl}Sprinkle magic powder around to attack and boost movement speed of the allies.	{#993399}{ol}[마법]{/}{/}{nl}마법 가루를 주위에 뿌려, 주변 적들에게 피해를 주고 아군에게는 일시적으로 이동속도를 증가시킵니다.				
 SKILL_20161005_006621	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Increased Movement Speed Duration: #{CaptionTime}# seconds	공격력 #{SkillAtkAdd}#{nl}특성 공격력 #{CaptionRatio}#%{nl}이동속도 증가 지속시간 #{CaptionTime}#초				
