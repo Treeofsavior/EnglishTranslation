@@ -1367,7 +1367,7 @@ SKILL_20150317_001366	Hide yourself in an apple barrel to avoid the attention of
 SKILL_20150317_001367	Number of Blocks: #{CaptionRatio}#{nl}Movement Speed: -#{CaptionRatio}#	방어 횟수 #{CaptionRatio}#회{nl}이동속도 #{CaptionRatio}# 감소				
 SKILL_20150317_001368	Flu Flu	플루플루				
 SKILL_20150317_001369	Shoot a noisemaker arrow at the enemy. Also affect enemies nearby.	소리가 나는 화살을 대상에게 발사합니다. 대상 주변에도 영향을 줍니다.				
-SKILL_20150317_001370	Attack: #{SkillAtkAdd}#{nl} Initial Target suffers{#339999}{ol}[Fear]{/}{/}+{#339999}{ol}[Confusion]{/}{/}{nl}{#339999}{ol}Inflict [Fear] to Max. Targets: #{CaptionRatio}# {#339999}{ol}{/}{/}{nl}Duration: #{CaptionTime}# seconds	공격력 #{SkillAtkAdd}#{nl}공격당한 대상 {#339999}{ol}[공포]{/}{/}+{#339999}{ol}[혼란]{/}{/}{nl}주변 최대 #{CaptionRatio}#명에게 {#339999}{ol}[공포]{/}{/}{nl}지속시간 #{CaptionTime}#				
+SKILL_20150317_001370	Attack: #{SkillAtkAdd}#{nl} Initial Target suffers from {#339999}{ol}[Fear]{/}{/}+{#339999}{ol}[Confusion]{/}{/}{nl}{#339999}{ol}Inflict [Fear] to Max. Targets: #{CaptionRatio}# {#339999}{ol}{/}{/}{nl}Duration: #{CaptionTime}# seconds	공격력 #{SkillAtkAdd}#{nl}공격당한 대상 {#339999}{ol}[공포]{/}{/}+{#339999}{ol}[혼란]{/}{/}{nl}주변 최대 #{CaptionRatio}#명에게 {#339999}{ol}[공포]{/}{/}{nl}지속시간 #{CaptionTime}#				
 SKILL_20150317_001371	Flare Shot	플레어 샷				
 SKILL_20150317_001372	Shoot a flare at the targeted area. Sparks shoot out of the flare to damage nearby enemies.	지면에 섬광 화살을 발사합니다. 섬광이 터진 곳은 불꽃이 튀면서 주변에 있는 대상에게 피해를 줍니다.				
 SKILL_20150317_001373	Attack: #{SkillAtkAdd}#{nl}Duration: 10 seconds	공격력 #{SkillAtkAdd}#{nl}지속시간 10초				
@@ -2026,7 +2026,7 @@ SKILL_20150317_002025	Spear Blow has a chance to stun.{nl} (Increases by 5% per 
 SKILL_20150317_002026	Surprise Attack	기습				
 SKILL_20150317_002027	Additional critical chance against stunned enemies. {nl} (Basic chance of 30% + 5% added per level.)	스턴 상태인 적 공격시 일정확률로 추가 데미지를 줍니다.{nl}(기본 30% + 레벨당 5%씩 추가)				
 SKILL_20150317_002028	Concentration	집중				
-SKILL_20150317_002029	Critical Rate increases when attacking far away enemies. {nl} (Basic chance of 50% + 5% added per level.)	최대 사거리 근처에 있는 적 공격시 일정확률로 치명타가 들어갑니다.{nl}(기본 50% + 레벨당 5%씩 추가)				
+SKILL_20150317_002029	Increases your Critical Rate when attacking far away enemies. {nl} (Basic chance of 50% + 5% added per level.)	최대 사거리 근처에 있는 적 공격시 일정확률로 치명타가 들어갑니다.{nl}(기본 50% + 레벨당 5%씩 추가)				
 SKILL_20150317_002030	Self Vitality	자활력				
 SKILL_20150317_002031	Potion buff duration increases. {nl} (Increases by 5% per level.)	자신이 적용한 물약버프 지속시간이 증가합니다.{nl}(레벨당 5%씩 증가)				
 SKILL_20150317_002032	Strike	스트라이크				
@@ -2102,7 +2102,7 @@ SKILL_20150317_002101	Decreases damage received by 10% per level when at least 3
 SKILL_20150317_002102	Two-handed Sword Mastery	투핸드소드 마스터리				
 SKILL_20150317_002103	[Two-handed Sword] wearing critical attack is increased by 10% per level of features.	[양손검] 착용 시 치명타 공격력이 특성 레벨 당 10% 증가합니다.				
 SKILL_20150317_002104	Moulinet: Critical Rate	뮬리넷: 치명타발생				
-SKILL_20150317_002105	Critical Rate for [Moulinet] is increased by 10% per Attribute level.	스킬 [뮬리넷]의 치명타 확률이 특성 레벨 당 10% 증가합니다.				
+SKILL_20150317_002105	Critical Rate for [Moulinet] is increased by 10% per attribute level.	스킬 [뮬리넷]의 치명타 확률이 특성 레벨 당 10% 증가합니다.				
 SKILL_20150317_002106	Stabbing: Evasion	스태빙: 회피				
 SKILL_20150317_002107	Evasion increase by 5% per Attribute level when attacking enemy with [Stabbing].	스킬 [스태빙]으로 적을 공격하는 동안 회피가 특성 레벨 당 5% 증가합니다.				
 SKILL_20150317_002108	Pierce: Continuous Attack	피어스: 연타				
@@ -6684,7 +6684,7 @@ SKILL_20161005_006683	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRati
 SKILL_20161005_006684	Leg Shot	다리 쏘기				
 SKILL_20161005_006685	{#DD5500}{ol}[Missile]{/}{/}{nl}Aim at the target's leg and fire your pistol. The target's movement speed gets momentarily reduced.	{#DD5500}{ol}[미사일]{/}{/}{nl}적의 다리를 겨눠 권총을 발사합니다. 공격당한 적은 이동속도가 일시적으로 감소합니다.				
 SKILL_20161005_006686	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Reduced enemy's movement speed by #{CaptionRatio2}#% for 7 seconds{nl}Able to use while riding	공격력 #{SkillAtkAdd}#{nl}특성 공격력 #{CaptionRatio}#%{nl}7초간 적 이동속도 #{CaptionRatio2}#% 감소{nl}탑승 상태에서 사용 가능				
-SKILL_20161005_006687	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Charge forward and deals damage to enemies coming in contact. Cavalry Charge gets more vulnerable to crits and its crit resistance gets reduced.	{#DD5500}{ol}[물리] - [때리기]{/}{/}{nl}전방 돌진으로 적들과 충돌하여 피해를 입힙니다. 카발리 챠지에 피해입은 적은 일시적으로 치명타에 취약해져, 피해입은 공격이 치명타가 될 확률이 증가합니다.				
+SKILL_20161005_006687	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Charge forward to deal damage on enemies. Affected enemies become weak against critical attacks, lowering its critical resistance for a period of time.	{#DD5500}{ol}[물리] - [때리기]{/}{/}{nl}전방 돌진으로 적들과 충돌하여 피해를 입힙니다. 카발리 챠지에 피해입은 적은 일시적으로 치명타에 취약해져, 피해입은 공격이 치명타가 될 확률이 증가합니다.				
 SKILL_20161005_006688	Storm Bolt	스톰 볼트				
 SKILL_20161005_006689	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Push your sword in with great force to attack. The target gets more vulnerable to defense decreasing effect from arrow attacks and has a chance to bleed for 10 seconds.	{#DD5500}{ol}[물리] - [찌르기]{/}{/}{nl}강한 힘으로 빠르게 검을 찔러넣어 적을 공격합니다. 공격당한 적은 화살 공격의 방어력 감소 효과를 더 많이 받게 되고 일정 확률로 10초 동안 출혈을 일으킵니다.				
 SKILL_20161005_006690	Attack: #{SkillAtkAdd}#{nl}Status Ailment Duration: #{CaptionTime}# seconds{nl}Bleed Chance: 30%{nl}Able to use while riding	공격력 #{SkillAtkAdd}#{nl}상태이상 지속시간 #{CaptionTime}#초{nl}출혈 확률 30%{nl}탑승 상태에서 사용 가능				
@@ -8740,7 +8740,7 @@ SKILL_20170420_008739	* Increases damage dealt with [Skull Swing] by 0.5% per at
 SKILL_20170420_008740	Increases the knockback power of [Cartar Stroke] by 50 per attribute level{nl}* increases SP consumption by 20%	* 스킬 [카타스트로크]의 밀치는 힘이 특성 레벨당 50 증가{nl}* SP 소모 20%증가	SKILL_20170313_007491	* Increases knockback power of [Cartar Stroke] by 50 per attribute level{nl}* Increases cooldown time by 2 seconds	* 스킬 [카타스트로크]의 밀치는 힘이 특성 레벨당 50 증가{nl}* 재사용 대기시간 2초 증가	
 SKILL_20170420_008741	* Increases enemy INT and SPR reduction from [Crown] by 2% per attribute level{nl}* Increases SP consumption by 10%	* 스킬 [크라운]으로 적의 지능, 정신을 깎는 수치가 특성 레벨당{nl}    2% 증가{nl}* SP 소모 10%증가	SKILL_20170313_007492	* Increases enemy INT and SPR reduction from [Crown] by 2% per attribute level{nl}* Increases SP consumption by 6	* 스킬 [크라운]으로 적의 지능, 정신을 깎는 수치가 특성 레벨당{nl}    2% 증가{nl}* SP 소모 6증가	
 SKILL_20170420_008742	* Increases AoE Attack Ratio of [Wagon Wheel] by 1{nl}* Increases SP consumption by 10%	* 스킬 [수레바퀴]의 광역 공격 비율이 1 추가{nl}* SP 소모 10%증가	SKILL_20170313_007493	* Increases AoE Attack Ratio of [Wagon Wheel] by 1{nl}* Increases SP consumption by 5	* 스킬 [수레바퀴]의 광역 공격 비율이 1 추가{nl}* SP 소모 5증가	
-SKILL_20170420_008743	* Increases critical chance of [Moulinet] by 12% per attribute level{nl}* Increases SP consumption by 10%	* 스킬 [뮬리넷]의 치명타 확률이 특성 레벨당 12% 증가{nl}* SP 소모 10%증가	SKILL_20170313_007495	* Increases critical chance of [Moulinet] by 12% per attribute level{nl}* Increases SP consumption by 11	* 스킬 [뮬리넷]의 치명타 확률이 특성 레벨당 12% 증가{nl}* SP 소모 11증가	
+SKILL_20170420_008743	* Increases Critical Chance of [Moulinet] by 12% per attribute level{nl}* Increases SP consumption by 10%	* 스킬 [뮬리넷]의 치명타 확률이 특성 레벨당 12% 증가{nl}* SP 소모 10%증가	SKILL_20170313_007495	* Increases critical chance of [Moulinet] by 12% per attribute level{nl}* Increases SP consumption by 11	* 스킬 [뮬리넷]의 치명타 확률이 특성 레벨당 12% 증가{nl}* SP 소모 11증가	
 SKILL_20170420_008744	* Enemies blocked by [Crossguard] remain staggered for 1 second longer per attribute level{nl}* Increases SP consumption by 10%	* [크로스 가드]에 막힌 적이 경직 되는 시간이 특성 레벨당{nl}    1초 증가{nl}* SP 소모 10%증가	SKILL_20170313_007496	* Enemies blocked by [Crossguard] remain staggered for 1 second longer per attribute level{nl}* Increases SP consumption by 5	* [크로스 가드]에 막힌 적이 경직 되는 시간이 특성 레벨당{nl}    1초 증가{nl}* SP 소모 5증가	
 SKILL_20170420_008745	* Deals additional damage equal to 50% physical attack to enemies knock backed with [Cartar Stroke]{nl}* Increases SP consumption by 10%	* 스킬 [카타스트로크]로 밀려나는 적에게 물리 공격력의{nl}    50% 추가대미지{nl}* SP 소모 10%증가	SKILL_20170313_007497	* Deals additional damage equal to 50% physical attack to enemies knock backed with [Cartar Stroke]{nl}* Increases SP consumption by 7	* 스킬 [카타스트로크]로 밀려나는 적에게 물리 공격력의{nl}    50% 추가대미지{nl}* SP 소모 7증가	
 SKILL_20170420_008746	* [Cartar Stroke] no longer knocks enemies back{nl}* Only applies if attribute is set to ON{nl}* Increases SP consumption by 10%	* 스킬 [카타스트로크]의 넉백 제거{nl}* 해당 특성이 ON이면 무조건 밀려나지 않음{nl}* SP 소모 10%증가	SKILL_20170313_007499	* [Cartar Stroke] no longer knocks enemies back{nl}* Only applies if attribute is set to ON{nl}* Increases SP consumption by 8	* 스킬 [카타스트로크]의 넉백 제거{nl}* 해당 특성이 ON이면 무조건 밀려나지 않음{nl}* SP 소모 8증가	
