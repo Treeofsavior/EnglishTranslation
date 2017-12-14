@@ -2749,8 +2749,8 @@ UI_20170912_002748	Class Points %s	클래스 점수  %s점
 UI_20170912_002749	Team Level %s	팀 레벨 %s				
 UI_20170912_002750	Exploration	탐험				
 UI_20170912_002751	%s % Explored	총 탐사율 %s %				
-UI_20170912_002752	- Recommended level	- 권장레벨				
-UI_20170912_002753	- Exploration	- 탐색율				
+UI_20170912_002752	=- 권장레벨	- 권장레벨				
+UI_20170912_002753	=- 탐색율	- 탐색율				
 UI_20170912_002754	Type	종류				
 UI_20170912_002755	Acquisition Points %s	획득 점수 %s 점				
 UI_20170912_002756	Acquisition Points %s	획득점수 %s점				
@@ -2884,7 +2884,7 @@ UI_20170912_002883	{nl}{img %s 40 40}{@st42b}{s20}Cubes  	{nl}{img %s 40 40}{@st
 UI_20170912_002884	ⓘ See the official website and item descriptions for more info.	ⓘ확률성 아이템의 확률은 공식 홈페이지에서 확인할 수 있습니다.				
 UI_20170912_002885	{@st43}Equip Monster Cards{/}	{@st43}몬스터 카드 장착{/}				
 UI_20170912_002886	{@st59}Close Equip Monster Cards{/}	{@st59}몬스터 카드 장착 UI를 닫습니다{/}				
-UI_20170912_002887	{@st59}Only Templar Guild Master in Team{/}	{@st59}팀내 유일한 템플러 직업을 가진 길드 마스터 캐릭터{/}	UI_20161221_002518	{@st59}No Guild Master Templar Character{/}	{@st59}템플러 직업을 가진 길드 마스터 캐릭터{/}	
+UI_20170912_002887	{@st59}Only Templar Guild Master in Team{/}	{@st59}팀내 유일한 템플러 직업을 가진 길드 마스터 캐릭터{/}				
 UI_20170912_002888	{@st66b}Respawn in nearby city (30 seconds){/}	{@st66b}가까운 도시에서 부활하기 (30초){/}				
 UI_20170912_002889	{@st66b}Show Party Name{/}	{@st66b}파티 이름 표시{/}				
 UI_20170912_002890	{@st66b}Recipe Material Obtained{/}	{@st66b}레시피 재료 획득 시 팝업{/}				
@@ -2922,3 +2922,57 @@ UI_20170912_002921	Additional +1 reward from Saalus Missions	살러스 수녀원
 UI_20170925_002922	{img icon_item_tospoint 24 24}{@st41b}Consume 0 TP{nl}Unequip card without the loss of a star{/}	{img icon_item_tospoint 24 24}{@st41b}0TP 소모{nl}별 감소없이 카드 해제하기{/}	UI_20160811_002262	{img icon_item_tospoint 24 24}{@st41b}Consume 5 TP{nl}Unequip card without the loss of a star{/}	{img icon_item_tospoint 24 24}{@st41b}5TP 소모{nl}별 감소없이 카드 해제하기{/}	
 UI_20170925_002923	Total Waiting Queue: %s	총 대기인원: %s	UI_20161121_002465	Total Waiting Queue: %s	총 대기인원: %s명	
 UI_20170925_002924	Receiving information.	정보를 요청 중 입니다.				
+UI_20171128_002925	Close UI.	출석 UI를 닫습니다.				
+UI_20171128_002926	Check Period	출석 체크 기간				
+UI_20171128_002927	* Daily attendance rewards will be automatically sent once per day to the inventory of the first character to access the game.{nl}* Enchant Scroll (14 Days).{nl}* Rewards can only be received during the attendance check period. After this period, no more rewards will be sent.{nl}	* 출석 보상은 1일 1회, 당일 첫 접속한 캐릭터 인벤토리로 자동 지급됩니다.{nl}* 마법 부여 스크롤(14일)을 제외한 모든 아이템은 팀 창고로 이동할 수 있습니다.{nl}* 출석 체크 기간 동안에만 출석 보상을 받을 수 있으며, 기간 경과 시 더 이상 지급되지 않습니다.{nl}				
+UI_20171128_002928	{@st66b18}※ Changing your Team Name with TP are not refundable.{/}	{@st66b18}※이름 변경에 사용된 TP는 환불되지 않습니다.{/}	UI_20151224_001847	{@st66b18}※ Purchases made with TP are not refundable.{/}	{@st66b18}※구매에 사용된 TP는 환불되지 않습니다.{/}	
+UI_20171128_002929	Size%s	크기: %s				
+UI_20171128_002930	{@st42b}Check	{@st42b}확인				
+UI_20171128_002931	Update Guild Storage.	현재 길드 보관함을 갱신합니다.				
+UI_20171128_002932	ⓘ Spot rewards are %s every week.{nl}ⓘ The rewards include  	ⓘ 점령 보상은 매주 %s 지급됩니다.{nl}ⓘ 점령 보상금은 전 주 마켓 수수료 중에서 	UI_20170912_002852	ⓘ Spot rewards are %s every week.{nl}ⓘ The rewards include  	ⓘ 점령 보상은 매주 %s됩니다.{nl}ⓘ 점령 보상금은 전 주 마켓 수수료 중에서 	
+UI_20171128_002933	 of your Market fees of the previous week.{nl}ⓘ Spot rewards are delivered as Guild War items.{nl}ⓘ The maximum possible amount rewarded is %s hundred million Silver.{nl}ⓘ Please check our official website for more information.	만큼 지급됩니다.{nl}ⓘ 점령 보상금은 콜로니전 기념 주화로 환산되어 지급됩니다.{nl}ⓘ 점령 보상금으로 지급되는 실버는 상한선이 존재하며, 상한선은 %s억입니다.{nl}ⓘ Beta에 지급되는 점령 보상 및 지급 일정은 위에 명시된 내용과 다를 수 있으며, 홈페이지 내 공지사항을 통해 확인 바랍니다.	UI_20170912_002853	 of your Market fees of the previous week.{nl}ⓘ Spot rewards are delivered as Copper Bars.{nl}ⓘ The maximum possible amount rewarded is %s hundred million Silver.{nl}ⓘ Please check our official website for more information.	만큼 지급됩니다.{nl}ⓘ 점령 보상금은 동괴로 환산되어 지급됩니다.{nl}ⓘ 점령 보상금으로 지급되는 실버는 상한선이 존재하며, 상한선은 %s억입니다.{nl}ⓘ Beta에 지급되는 점령 보상 및 지급 일정은 위에 명시된 내용과 다를 수 있으며, 홈페이지 내 공지사항을 통해 확인 바랍니다.	
+UI_20171128_002934	Auto Match%s	자동매칭%s				
+UI_20171128_002935	{@st41b}Enter Now%s	{@st41b}바로입장%s	UI_20161121_002464	{@st41b}Enter Now	{@st41b}바로입장	
+UI_20171128_002936	{@st43}{#ffcc33}{s24}Clear	{@st43}{#ffcc33}{s24}클리어				
+UI_20171128_002937	{@ST43}Cleared : 	{@st43}{s24}달성률 : 				
+UI_20171128_002938	{@st43b}{s18}Received rewards	{@st43b}{s18}획득 보상				
+UI_20171128_002939	{@st66d_y}Multiply Effect Reward x	{@st66d_y}배수권 효과 보상 x				
+UI_20171128_002940	{img icon_item_silver 24 24} Silver	{img icon_item_silver 24 24} 실버				
+UI_20171128_002941	{img icon_item_cube3 25 25} Cube	{img icon_item_cube3 25 25} 큐브				
+UI_20171128_002942	{img test_indun_exp 30 15} EXP	{img test_indun_exp 30 15} 경험치				
+UI_20171128_002943	{img test_indun_exp 30 15} Class EXP	{img test_indun_exp 30 15} 클래스 경험치				
+UI_20171128_002944	{@st41b}Return	{@st41b}돌아가기				
+UI_20171128_002945	Return to the entrance map.	입장 지역으로 돌아갑니다.				
+UI_20171128_002946	Achievement Rate	인던 달성률				
+UI_20171128_002947	{@st59}Special Costume{/}	{@st59}스페셜 코스튬{/}				
+UI_20171128_002948	{@st43}Item Dispel{/}	{@st43}아이템 분해{/}				
+UI_20171128_002949	{@st43}{#ffcc33}Dispel Complete{/}	{@st43}{#ffcc33}분해 완료{/}				
+UI_20171128_002950	{@st41b}Dispel Cost{/}	{@st41b}분해 비용{/}				
+UI_20171128_002951	{@st41b}Match Dispel{/}	{@st41b}분해 하기{/}				
+UI_20171128_002952	Item Re-Identification	아이템 재감정				
+UI_20171128_002953	Match Re-Identification	재감정 하기				
+UI_20171128_002954	{@st43b}{s18}Place the item you want to enhance.	{@st43b}{s18}아이템을 올려주세요				
+UI_20171128_002955	{@st43b}{s18}Current Option	{@st43b}{s18}현재 옵션				
+UI_20171128_002956	{@st43b}{s18}Before Change	{@st43b}{s18}변경 전				
+UI_20171128_002957	{@st43b}{s18}After Change	{@st43b}{s18}변경 후				
+UI_20171128_002958	{@st43b}{s18}Material	{@st43b}{s18}재료				
+UI_20171128_002959	{@st59}Change Companion Name{/}	{@st59}컴패니언 이름을 수정합니다{/}				
+UI_20171128_002960	{@st43}Portal Shop{/}	{@st43}포탈 상점{/}				
+UI_20171128_002961	{@st59}Close Portal Shop UI{/}	{@st59}포탈 상점 UI를 닫습니다{/}				
+UI_20171128_002962	Selected Portal Quantity %s/%s 	선택한 포탈 개수 %s/%s 개				
+UI_20171128_002963	{@st59}Close Portal Placed Shop UI{/}	{@st59}포탈 상점 등록 UI를 닫습니다{/}				
+UI_20171128_002964	Would you like to undo your last advancement?{/}	마지막 전직을 취소하고 되돌리시겠습니까?{/}				
+UI_20171128_002965	If you undo your current class advancement, the advancement will be undone and your current class EXP will disappear.{/}	현재 클래스의 전직을 취소하고 전직 이전으로 되돌아가며{nl}클래스 경험치는 사라집니다.{/}				
+UI_20171128_002966	* Rank down can only be used once during the same rank.{nl}Cannot be used continuously.	* 랭크 다운은 동일한 랭크에서 한 번만 사용할 수 있으며{nl}연속해서 사용할 수 없습니다.				
+UI_20171128_002967	* Lastly, Rank down cannot be used at a rank lower{nl}than the rank already being used.	* 마지막으로 랭크 다운을 사용한 랭크보다 낮은 랭크에서는{nl}이용이 불가능 합니다.				
+UI_20171128_002968	* Skills and Attributes of removed or adjusted class circles{nl}will be converted to points.	* 초기화로 인해 삭제 또는 서클이 내려가는 클래스는{nl}스킬과 특성을 초기화 후 포인트로 반환됩니다.				
+UI_20171128_002969	* Class-specific costumes received{nl}by Rank advancement will be deleted if the class is completely removed.	* 초기화로 인해 클래스가 완전히 삭제되는 경우에는{nl}전직 시 지급된 직업별 코스튬이 제거됩니다.				
+UI_20171128_002970	* You will return to the barracks after using the Voucher.	* 초기화 후에는 캐릭터 선택창으로 돌아갑니다.				
+UI_20171128_002971	{@st59}Rank Info{/}	{@st59}랭크 정보{/}				
+UI_20171128_002972	{@st66b}Buff Effect Simplify{/}	{@st66b}버프 이펙트 간소화{/}				
+UI_20171128_002973	{@st66b}Model Simplify{/}	{@st66b}모델 간소화{/}				
+UI_20171128_002974	{@st59}Attendance Reward Check{/}	{@st59}출석 보상 확인{/}				
+UI_20171128_002975	Returning to the previous class.	해당 클래스를 이전으로 되돌립니다.				
+UI_20171128_002976	Map name	맵이름				
+UI_20171128_002977	{@st42b}Use	{@st42b}이용하기				
+UI_20171128_002978	Raid Dungeon Entry Item Consume Quantity -2	레이드 던전 입장 아이템 소모 개수 -2				
