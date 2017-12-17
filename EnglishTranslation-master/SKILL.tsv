@@ -7238,7 +7238,7 @@ SKILL_20161214_007237	{#993399}{ol}[Magic] - [Holy]{/}{/}{nl}Throws an arrow in 
 SKILL_20161214_007238	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Max. No. of Target  10{nl}Basic Duration: #{CaptionRatio2}# seconds	공격력 #{SkillAtkAdd}#{nl}특성 공격력 #{CaptionRatio}#%{nl}최대 공격 대상 10명{nl}지속시간 #{CaptionRatio2}#초				
 SKILL_20161214_007239	Clap your hands twice. Increase duration for some of magic circles and installations nearby.	자리에서 박수를 2번 칩니다. 자신의 주변 일부 마법진과 설치류 스킬의 지속시간이 증가합니다.				
 SKILL_20161214_007240	Dance to boost allies' spirits up. When melee attacks on the enemies affected by the particular skill receive additional Holy property damage. Activates while pressing the skill button.	춤을 춰서 주변 동료들에게 힘을 복돋아줍니다. 해당 스킬의 영향을 받는 적에게 근접 공격 시, 신성속성 추가 대미지를 줍니다. 스킬 버튼을 누르고 있는동안 활성화 됩니다.				
-SKILL_20161214_007241	Maximum Duration: #{CaptionTime}#seconds{nl}Consumes #{CaptionRatio}#% SP per second{nl}Additional Holy property Damage: #{CaptionRatio2}#%	최대 지속시간 #{CaptionTime}#초{nl}1초당 SP 소모량 #{CaptionRatio}#%{nl}신성 속성 추가 대미지 #{CaptionRatio2}#%				
+SKILL_20161214_007241	Maximum Duration: #{CaptionTime}# seconds{nl}Consumes #{CaptionRatio}#% SP per second{nl}Additional Holy property Damage: #{CaptionRatio2}#%	최대 지속시간 #{CaptionTime}#초{nl}1초당 SP 소모량 #{CaptionRatio}#%{nl}신성 속성 추가 대미지 #{CaptionRatio2}#%				
 SKILL_20161214_007242	Increase missile attacks.	미사일 속성의 공격력이 증가합니다.	SKILL_20160224_006242	Reduced SP usage, and deals additional damage when attacking.	SP소모량이 감소하고, 공격 시 추가대미지를 입힙니다.	
 SKILL_20161214_007243	Receives additional Holy property damage from melee attacks.	근접 공격에 피격 시 신성 속성 추가 대미지를 입습니다.	SKILL_20161010_007173	Deals constant Holy property damage.	지속적으로 신성 속성 피해를 받음.	
 SKILL_20161214_007244	Wild Nature	야성				
@@ -8490,7 +8490,7 @@ SKILL_20170420_008489	Attack: #{SkillFactor}#% x 2{nl}Status Ailment Duration: #
 SKILL_20170420_008490	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Fix your grip on the spear and strike your enemy down downward and take the target off of the companion.	{#DD5500}{ol}[물리] - [찌르기]{/}{/}{nl}창을 고쳐잡아 위에서 아래로 찍어내리는 공격으로 컴패니언에 탑승한 적을 바닥으로 떨어뜨립니다. 야수형 적에게 추가대미지를 줍니다.	SKILL_20161005_006564	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Fix your grip on the spear and strike your enemy down downward and take the target off of the companion.	{#DD5500}{ol}[물리] - [찌르기]{/}{/}{nl}창을 고쳐잡아 위에서 아래로 찍어내리는 공격으로 컴패니언에 탑승한 적을 바닥으로 떨어뜨립니다.	
 SKILL_20170420_008491	Attack #{SkillFactor}#%	공격력 #{SkillFactor}#%				
 SKILL_20170420_008492	Attack #{SkillFactor}#% x 2{nl}AoE Attack Ratio #{SkillSR}#	공격력 #{SkillFactor}#% x 2회{nl}광역 공격 비율 #{SkillSR}#{nl}	SKILL_20150714_004154	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Casting Time: 1 second{nl}AoE Attack Ratio: #{SkillSR}#	공격력 #{SkillAtkAdd}#{nl}특성 공격력 #{CaptionRatio}#%{nl}캐스팅 시간 1초{nl}광역 공격 비율 #{SkillSR}#	
-SKILL_20170420_008493	{#339999}{ol}[Sleep]{/}{/} Duration: #{CaptionRatio2}#seconds{nl}Attack Threshold: #{CaptionRatio}#	{#339999}{ol}[수면]{/}{/} 지속시간 #{CaptionRatio2}#초{nl}공격 한계치 #{CaptionRatio}#회	SKILL_20150317_001073	{#339999}{ol}[Sleep]{/}{/} Duration: #{SkillFactor}# seconds{nl}Attack Threshold: #{CaptionRatio}#	{#339999}{ol}[수면]{/}{/} 지속시간 #{SkillFactor}#초{nl}공격 한계치 #{CaptionRatio}#회	
+SKILL_20170420_008493	{#339999}{ol}[Sleep]{/}{/} Duration: #{CaptionRatio2}# seconds{nl}Attack Threshold: #{CaptionRatio}#	{#339999}{ol}[수면]{/}{/} 지속시간 #{CaptionRatio2}#초{nl}공격 한계치 #{CaptionRatio}#회	SKILL_20150317_001073	{#339999}{ol}[Sleep]{/}{/} Duration: #{SkillFactor}# seconds{nl}Attack Threshold: #{CaptionRatio}#	{#339999}{ol}[수면]{/}{/} 지속시간 #{SkillFactor}#초{nl}공격 한계치 #{CaptionRatio}#회	
 SKILL_20170420_008494	Attack: #{SkillFactor}# x 3{nl}Bullet Count: #{CaptionRatio2}#	공격력 #{SkillFactor}#% x 3회{nl}생성되는 탄환 #{CaptionRatio2}#개	SKILL_20151224_005786	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Bullet Count: #{CaptionRatio2}#	공격력 #{SkillAtkAdd}#{nl}특성 공격력 #{CaptionRatio}#%{nl}생성되는 탄환 #{CaptionRatio2}#개	
 SKILL_20170420_008495	{#993399}{ol}[Magic] - [Fire]{/}{/}{nl}Summons a fireball. Enemies touching the fireball will receive continuous flame damage.	{#993399}{ol}[마법] - [불]{/}{/}{nl}화염구를 소환합니다. 화염구에 닿은 적은 화염 피해를 입습니다.	SKILL_20150414_003680	{#993399}{ol}[Magic] - [Fire]{/}{/}{nl}Summons a fireball. Enemies touching the fireball will receive continuous flame damage.	{#993399}{ol}[마법] - [불]{/}{/}{nl}화염구를 소환합니다. 화염구에 닿은 적은 지속적으로 화염 피해를 입습니다.	
 SKILL_20170420_008496	Attack: #{SkillFactor}#% x 5{nl}Fire Wall #{CaptionRatio}#{nl}Duration: 15 seconds	공격력 #{SkillFactor}#% x 5회{nl}파이어월 #{CaptionRatio}#개{nl}지속시간 15초	SKILL_20150714_004157	Attribute Damage: #{CaptionTime}#%{nl}Number of Tiles: #{CaptionRatio}#{nl}Number of Hits: #{CaptionRatio2}#{nl}Duration: 15 seconds	특성 공격력 #{CaptionTime}#%{nl}파이어월 #{CaptionRatio}#개{nl}공격 횟수 #{CaptionRatio2}#회{nl}지속시간 15초	
@@ -9720,7 +9720,7 @@ SKILL_20171128_009719	Attack: #{SkillFactor}#%{nl}Number of attacks: #{CaptionRa
 SKILL_20171128_009720	Ole	올레				
 SKILL_20171128_009721	Flap your cloak to become the center of attention. Enemies with a maximum provocation value are more likely to receive critical strikes.	망토를 펄럭이며 주변의 이목을 집중시킵니다. 적이 자신에게 가진 도발 수치가 최대일 경우 치명타로 공격할 확률이 증가합니다.				
 SKILL_20171128_009722	Critical Chance: #{CaptionRatio}#%{nl}Duration: #{CaptionRatio2}# seconds	치명타 확률 #{CaptionRatio}#%{nl}지속시간 #{CaptionRatio2}#초				
-SKILL_20171128_009723	Pasodoble	파소 도블레				
+SKILL_20171128_009723	Paso Doble	파소 도블레				
 SKILL_20171128_009724	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Rotate 360 degrees and attack enemies in front of you. Enemies struck are knocked down.	{#DD5500}{ol}[물리] - [찌르기]{/}{/}{nl}360도 회전을 하며 전방의 적을 공격합니다. 공격당한 적은 제자리에서 넘어집니다.				
 SKILL_20171128_009725	Back Slide	백 슬라이드				
 SKILL_20171128_009726	Move backwards a set distance. Cooldown time decreases with skill level.	뒤로 일정거리 이동합니다. 스킬 레벨이 증가할수록 재사용 대기시간이 감소합니다.				
@@ -9871,14 +9871,14 @@ SKILL_20171128_009870	Dispel Magic Attack	마법 공격 무효화	SKILL_20150714
 SKILL_20171128_009871	The attack speed is increased, and the evasion rate for the melee attack is increased.	공격 속도가 상승하고, 근접 공격에 대한 회피율이 증가된 상태입니다.	SKILL_20150317_000991	Increases your movement speed.	이동속도가 증가합니다.	
 SKILL_20171128_009872	Put enemies in Iron Maiden	적을 아이언 메이든에 가둠	ETC_20161005_024538	Iron Maiden	아이언 메이든	
 SKILL_20171128_009873	All attacks are hit and aren't affected while on the move.	모든 공격이 명중하며 이동 중에는 피해를 받지 않습니다.	SKILL_20161005_006794	Generates a barrier that absorbs enemy attacks.	적의 공격을 흡수하는 방어막 생성	
-SKILL_20171128_009874	Race changed to devil-type	종족이 악마형으로 변경됨				
+SKILL_20171128_009874	Race changed to Devil-type.	종족이 악마형으로 변경됨				
 SKILL_20171128_009875	Increase Block	블록 상승				
-SKILL_20171128_009876	Changes pistol attack skills to Holy property.	권총 사용 공격 스킬이 신성 속성으로 변경됩니다.				
+SKILL_20171128_009876	Pistol attack skills changed to Holy property.	권총 사용 공격 스킬이 신성 속성으로 변경됩니다.				
 SKILL_20171128_009877	Take a double gun stance. 	더블 건 스탠스를 취합니다.				
 SKILL_20171128_009878	Immolation: Fire Property	이몰레이션: 불 속성				
-SKILL_20171128_009879	Receiving Fire property effects from Immolation	이몰레이션으로 인해 불 속성 효과를 받는 중				
-SKILL_20171128_009880	Can't recover HP. Increases the damage to the enemy in proportion to the HP remaining. 	HP 회복불가. 남은 HP에 비례해서 적에게 주는 대미지 증가				
-SKILL_20171128_009881	Increases damage of all Dragoon skills	모든 드라군 스킬의 대미지가 증가				
+SKILL_20171128_009879	Receiving Fire property effects from Immolation.	이몰레이션으로 인해 불 속성 효과를 받는 중				
+SKILL_20171128_009880	Can't recover HP. Increases the damage dealt to enemies in proportion to HP remaining. 	HP 회복불가. 남은 HP에 비례해서 적에게 주는 대미지 증가				
+SKILL_20171128_009881	Increases damage dealt by all Dragoon skills.	모든 드라군 스킬의 대미지가 증가				
 SKILL_20171128_009882	Debuff Immunity	디버프에 면역됨				
 SKILL_20171128_009883	Max Attack increased.	최소 공격력이 상승한 상태입니다.				
 SKILL_20171128_009884	Add. Property Damage	성속성 추가 대미지				
@@ -9887,8 +9887,8 @@ SKILL_20171128_009886	Uninterrupted Knockback, Knockdown Immunity and Casting 	�
 SKILL_20171128_009887	Immune to Knockback and Knockdown	넉백, 넉다운 면역 상태				
 SKILL_20171128_009888	Cursed characters will receive additional damage when hit	저주를 건 캐릭터에게 피격 시 추가 대미지를 입음				
 SKILL_20171128_009889	Accuracy increased.	명중이 상승한 상태입니다.				
-SKILL_20171128_009890	Move by entering your shadow	그림자에 숨어들어 이동합니다				
-SKILL_20171128_009891	When enemies are provoked to the max their critical attack rate increases	적이 자신에게 가진 도발수치가 최대일 경우 치명타로 공격할 확률이 증가				
+SKILL_20171128_009890	Hiding within your shadow.	그림자에 숨어들어 이동합니다				
+SKILL_20171128_009891	When enemy provocation is at maximum, chance to be critically struck is increased.	적이 자신에게 가진 도발수치가 최대일 경우 치명타로 공격할 확률이 증가				
 SKILL_20171128_009892	Provoked. Accuracy and evasion are reduced.	도발 당함. 명중, 회피 감소				
 SKILL_20171128_009893	Surrounding enemies are provoked	주변 적을 도발한 상태				
 SKILL_20171128_009894	Changed to basic attack	기본 공격이 변경됨				
@@ -9967,7 +9967,7 @@ SKILL_20171128_009966	Cannot gain EXP	경험치 획득 불가
 SKILL_20171128_009967	Receives additional Team Battle League penalties while the effect is active.	해당 효과가 유지되는 동안 팀배틀리그 패널티를 추가로 받습니다.				
 SKILL_20171128_009968	Challenger	챌린저				
 SKILL_20171128_009969	Increases Looting Chance.	루팅 찬스가 증가합니다.				
-SKILL_20171128_009970	End challenge	도전 종료				
+SKILL_20171128_009970	End Challenge	도전 종료				
 SKILL_20171128_009971	You can no longer participate today.	금일은 더이상 참여할 수 없습니다.				
 SKILL_20171128_009972	* Can equip [Two-handed Sword] type weapons{nl}* Increase AoE by 1 when equipped with a [Two-handed Sword].	* [양손검] 계열 무기 착용 가능{nl}* [양손검] 착용시 광역 공격 비율 1 증가	SKILL_20170313_007410	* Can equip [Two-handed Sword] type weapons	* [양손검] 계열 무기 착용 가능	
 SKILL_20171128_009973	* Can equip [One-handed Spear] type weapons{nl}* Increase attack range by 5 when equipped with a [One-handed Spear].	* [한손창] 계열 무기 착용 가능{nl}* [한손창] 착용시 공격 범위 5 증가{nl}* [한손창] 착용시 중형, 대형 크기 적에게 주는 대미지 5% 증가	SKILL_20170313_007411	* Can equip [One-handed Spear] type weapons	* [한손창] 계열 무기 착용 가능	
@@ -9998,7 +9998,7 @@ SKILL_20171128_009997	Muleta: Counter attack enhancement	물레타: 반격 강�
 SKILL_20171128_009998	* Increases damage with [Muleta] by 0.5% per attribute level	* 적에게 입히는 [물레타]의 반격 대미지가 특성 레벨당 0.5% 증가				
 SKILL_20171128_009999	Faena: Enhance	파에나: 강화				
 SKILL_20171128_010000	* Increases damage with [Faena] by 0.5% per attribute level	* 적에게 입히는 [파에나]의 대미지가 특성 레벨당 0.5% 증가				
-SKILL_20171128_010001	Faena:Risk-taking	파에나: 위험 감수				
+SKILL_20171128_010001	Faena: Risk-taking	파에나: 위험 감수				
 SKILL_20171128_010002	* While not equipped with a sub-weapon or shield, add 50% of your attack power to [Faena] damage{nl}* Increases SP consumption by 30%	* 보조무기, 방패를 착용하지 않고 있다면 [파에나] 공격력의 50% 추가{nl}* SP 소모 30%증가				
 SKILL_20171128_010003	Ole: Duration	올레: 지속시간				
 SKILL_20171128_010004	* Increases [Ole] buff duration by 1 second per attribute level{nl}* Increases SP consumption by 10%	* [올레] 버프의 지속시간이 특성 레벨당 1초 증가{nl}* SP 소모 10%증가				
@@ -10008,8 +10008,8 @@ SKILL_20171128_010007	Capote: Excitement	카포티: 흥분
 SKILL_20171128_010008	* Enemies affected by [Capote] have their critical resistance reduced by 50%{nl}* Increases SP consumption by 20%	* [카포티] 디버프 중인 적은 치명타 저항이 50 감소{nl}* SP 소모 20%증가				
 SKILL_20171128_010009	Muleta: Duration	물레타: 유지시간				
 SKILL_20171128_010010	* Increases the duration of the [Muleta] counter window by 0.1 second per attribute level{nl}Increases SP consumption by 10%	* 스킬 [물레타]의 유지 시간이 특성 레벨당 0.1초 증가{nl}* SP 소모 10%증가				
-SKILL_20171128_010011	Muleta: Master of Counter-attack	물레타: 반격의 고수				
-SKILL_20171128_010012	* Removes attack type restrictions for counter-attack{nl}* Increases SP consumption by 20%	* 반격할 수 있는 공격이 [때리기], [베기], [찌르기]에서 모든 {nl}    공격으로 제한 해제{nl}* SP 소모 20%증가				
+SKILL_20171128_010011	Muleta: Master of Counterattack	물레타: 반격의 고수				
+SKILL_20171128_010012	* Removes attack type restrictions for counterattack{nl}* Increases SP consumption by 20%	* 반격할 수 있는 공격이 [때리기], [베기], [찌르기]에서 모든 {nl}    공격으로 제한 해제{nl}* SP 소모 20%증가				
 SKILL_20171128_010013	* Evasion +50% for 5 seconds after using Back Slide{nl}* Increases SP consumption by 20%	* 스킬 [백 슬라이드] 사용 시, 5초간 회피 50% 증가{nl}* SP 소모 20%증가				
 SKILL_20171128_010014	* When Corpse Tower defeats a monster, a Skeleton Soldier is summoned{nl}* Activates when Raise Dead is learned{nl}* Increases SP consumption by 10%	* 콥스타워가 몬스터 처치 시 그 자리에 해골병사 소환{nl}* [레이즈 데드] 스킬 습득 시 발동 {nl}* SP 소모 10%증가	SKILL_20170420_008983	* When Corpse Tower defeats a monster, a Skeleton Soldier is summoned{nl}* Increases SP consumption by 10%	* 콥스타워가 몬스터 처치 시 그 자리에 해골병사 소환{nl}* SP 소모 10%증가	
 SKILL_20171128_010015	Dark Theurge: Create Evil Spirit	다크써지: 악령 생성	SKILL_20151102_005642	Dark Theurge: Create Evil Spirit	다크 써지: 악령 생성	
@@ -10021,8 +10021,8 @@ SKILL_20171128_010020	* Enemies hit by [Dark Theurge] have a 1% chance per attri
 SKILL_20171128_010021	Mastema: Phantom Pain	마스테마: 팬텀 페인	SKILL_20161005_006954	Mastema: Phantom Pain	마스테마: 팬텀 폐인	
 SKILL_20171128_010022	Demon Scratch: Enhance	데몬 스크래치: 강화				
 SKILL_20171128_010023	* Increases damage with [Demon Scratch] by 0.5% per attribute level	* 적에게 입히는 [데몬 스크래치]의 대미지가 특성 레벨당 0.5% 증가				
-SKILL_20171128_010024	Dark Theurge:  Anguish	다크써지: 절망				
-SKILL_20171128_010025	Increases damage with [Dark Theurge] to debuffed enemies by 10% per attribute level{nl}* Increases SP consumption by 100%	* 스킬 [다크써지]가 [공포] 디버프에 걸린 적에게 주는 대미지가 특성 레벨당 10% 증가{nl}* SP 소모 100%증가				
+SKILL_20171128_010024	Dark Theurge: Anguish	다크써지: 절망				
+SKILL_20171128_010025	* Increases damage dealt with [Dark Theurge] to enemies debuffed with [Fear] by 10% per attribute level{nl}* Increases SP consumption by 100%	* 스킬 [다크써지]가 [공포] 디버프에 걸린 적에게 주는 대미지가 특성 레벨당 10% 증가{nl}* SP 소모 100%증가				
 SKILL_20171128_010026	Darkness Fear	어둠의 공포				
 SKILL_20171128_010027	* Enemies attacked with [Mastema], [Pole of Agony], or [Demon Scratch] receive the [Fear] debuff{nl}* Increases SP consumption by 50%	* [마스테마], [폴 오브 아고니], [데몬 스크래치]에 공격당한 적은 [공포] 디버프에 걸림{nl}* SP 소모 50%증가				
 SKILL_20171128_010028	Dark Theurge: Tough Evil Spirit	다크써지: 질긴 악령				
@@ -10039,7 +10039,7 @@ SKILL_20171128_010038	* When Lightning Hands is active, enemies hit by basic att
 SKILL_20171128_010039	Dimension Compression: Enhance	디멘션 컴프레션: 강화				
 SKILL_20171128_010040	* Increases damage dealt with [Dimension Compression] by 0.5% per attribute level	* 적에게 입히는 [디멘션 컴프레션]의 대미지가 특성 레벨당 0.5% 증가				
 SKILL_20171128_010041	Micro Dimension: After Effects	마이크로 디멘션: 축소 왜곡 후유증				
-SKILL_20171128_010042	* Mirco Dimension damage hits 1 additional time when compressed space expands after 1.5 seconds, dealing damage to enemies nearby and yourself{nl}* Increases SP consumption by 50%	* 피격된 적은 1.5초 후에 압축된 공간이 급속도로 확장되며{nl}    본인 포함 주변에 [마이크로 디멘션] 대미지를 1회 더 적용{nl}* SP 소모 50%증가				
+SKILL_20171128_010042	* Micro Dimension damage hits 1 additional time when compressed space expands after 1.5 seconds, dealing damage to enemies nearby and yourself{nl}* Increases SP consumption by 50%	* 피격된 적은 1.5초 후에 압축된 공간이 급속도로 확장되며{nl}    본인 포함 주변에 [마이크로 디멘션] 대미지를 1회 더 적용{nl}* SP 소모 50%증가				
 SKILL_20171128_010043	Ultimate Dimension: After Effects	얼티밋 디멘션: 확대 왜곡 후유증				
 SKILL_20171128_010044	* Enemies hit receive additional property-less damage every 0.5 seconds for [Attribute Level * 1 seconds]{nl}* Increases SP consumption by 50%	* 피격된 적은 [특성 레벨 x 1초]간 0.5초마다{nl}    무속성 추가 대미지 적용{nl}* SP 소모 50%증가				
 SKILL_20171128_010045	Shadow Thorn: Enhance	섀도우 쏜: 강화				
@@ -10055,10 +10055,10 @@ SKILL_20171128_010054	* Enemies hit by [Shadow Conjuration] are inflicted with t
 SKILL_20171128_010055	* When [Limacon] hits its target, it spreads to attack nearby enemies{nl}* Increases SP consumption by 3	* 스킬 [리마콘] 사용시 피격 된 적 주변으로 탄환이 확산되어{nl}    적에게 피해를 줌{nl}* SP 소모 3증가	SKILL_20170420_009144	* When [Limacon] hits its target, it spreads to attack nearby enemies{nl}* Increases SP consumption by 10%	* 스킬 [리마콘] 사용시 피격 된 적 주변으로 탄환이 확산되어{nl}    적에게 피해를 줌{nl}* SP 소모 10%증가	
 SKILL_20171128_010056	Marching Fire: Enhance	돌격 사격: 강화				
 SKILL_20171128_010057	* Increases damage dealt with [Marching Fire] by 0.5% per attribute level	* 적에게 입히는 [돌격 사격]의 대미지가 특성 레벨당 0.5% 증가				
-SKILL_20171128_010058	SweepingCannon: Enhance	스위핑 캐논: 강화				
+SKILL_20171128_010058	Sweeping Cannon: Enhance	스위핑 캐논: 강화				
 SKILL_20171128_010059	* Increases damage dealt with [Sweeping Cannon] by 0.5% per attribute level	* 적에게 입히는 [스위핑 캐논]의 대미지가 특성 레벨당 0.5% 증가				
-SKILL_20171128_010060	Bazooka: Veteran Merceneary	바주카: 숙련된 포병				
-SKILL_20171128_010061	* Removes attack range limit{nl}* Increase base attack rate in [Bazooka] state{nl}* Increases SP consumption by 200%	* 최소 공격 사거리 제한 해제{nl}* [바주카] 상태일 경우 기본 공격 속도 증가{nl}* SP 소모 200%증가				
+SKILL_20171128_010060	Bazooka: Veteran Mercenary	바주카: 숙련된 포병				
+SKILL_20171128_010061	* Removes attack range limit{nl}* Increase base attack speed in [Bazooka] state{nl}* Increases SP consumption by 200%	* 최소 공격 사거리 제한 해제{nl}* [바주카] 상태일 경우 기본 공격 속도 증가{nl}* SP 소모 200%증가				
 SKILL_20171128_010062	Cannon Shot: Chain Explosion	캐논샷: 연쇄폭발				
 SKILL_20171128_010063	* Reduces damage by 2/3 per hit on ground enemies, but increases no. of hits to 3{nl}* Increases SP consumption by 30%	* 지상의 적에게 1타격당 대미지가 2/3으로 감소하지만 공격{nl}    횟수가 3회로 증가{nl}* SP 소모 30%증가				
 SKILL_20171128_010064	Shootdown: Chain Explosion	슛다운: 연쇄폭발				
@@ -10116,7 +10116,7 @@ SKILL_20171128_010115	* Increases the duration of [Daino]'s effect by 4 seconds 
 SKILL_20171128_010116	* Increases duration of [Divine Stigma] by 6 seconds per attribute level{nl} Increases SP consumption by 20% 	* [디바인 스티그마]의 효과 지속시간이 특성 레벨당 6초씩 증가{nl}* SP 소모 20%증가	SKILL_20170420_009211	* Increases duration of [Divine Stigma] by 1 second per attribute level{nl} Increases SP consumption by 20% 	* [디바인 스티그마]의 효과 지속시간이 특성 레벨당 1초씩 증가{nl}* SP 소모 20%증가	
 SKILL_20171128_010117	* Ally magic attacks within range of [Aukuras] deal additional Fire property damage{nl}* Decreases torch duration by 10 seconds{nl}* Eliminates the amount of HP recovered {nl}* Increases SP consumption by 20%{nl}* Decreases cooldown by 30 seconds	* [아우쿠라스] 범위 안에 있는 아군이 마법 공격을 하면{nl}    화속성 추가 대미지를 줌{nl}* 횃불 지속시간 10초 감소{nl}* HP 회복효과 제거{nl}* SP 소모 20%증가{nl}* 재사용 대기시간 30초 감소				
 SKILL_20171128_010118	Divine Stigma: Defeat Devil	디바인 스티그마: 악마처단				
-SKILL_20171128_010119	* Increases [Divine Stigma] damage against Devil-type targets is increased by 10% per attribute level{nl}* Increases SP consumption by 20%	* [디바인 스티그마]의 대미지가 악마형 대상에게{nl}    특성 레벨당 10% 증가{nl}* SP 소모 20%증가				
+SKILL_20171128_010119	* Increases [Divine Stigma] damage against Devil-type targets by 10% per attribute level{nl}* Increases SP consumption by 20%	* [디바인 스티그마]의 대미지가 악마형 대상에게{nl}    특성 레벨당 10% 증가{nl}* SP 소모 20%증가				
 SKILL_20171128_010120	Divine Stigma: Enhance	디바인 스티그마: 강화				
 SKILL_20171128_010121	* Increases damage dealt with [Divine Stigma] by 0.5% per attribute level	* 적에게 입히는 [디바인 스티그마]의 대미지가{nl}    특성 레벨당 0.5% 증가				
 SKILL_20171128_010122	Daino: Additional Attack	다이노: 추가 공격				
