@@ -9742,7 +9742,7 @@ SKILL_20171128_009741	Attack: #{SkillFactor}#%{nl}Max Charge Time: 3 seconds{nl}
 SKILL_20171128_009742	The number of available enchantments increases with skill level{nl}Max Level: 5	레벨에 따라 부여할 수 있는 옵션 종류 증가{nl}5레벨 마스터	SKILL_20161005_006633	The number of available enchantments increases as its skill level does	레벨에 따라 부여할 수 있는 옵션 종류 증가	
 SKILL_20171128_009743	Enchant Earth	인챈트 어스				
 SKILL_20171128_009744	Enchant the armor of you and your party with the power of the land, granting the ability to block without having to wear shields.	자신과 파티원의 방어구에 땅 속성 인챈트를 하여 방패를 착용하지 않아도 블록을 가능하게 합니다.				
-SKILL_20171128_009745	Block Chance: +#{CaptionRatio}#{nl}Duration: 300 seconds	블록 확률 #{CaptionRatio}#% 증가{nl}지속시간 300초				
+SKILL_20171128_009745	Block Chance: +#{CaptionRatio}#%{nl}Duration: 300 seconds	블록 확률 #{CaptionRatio}#% 증가{nl}지속시간 300초				
 SKILL_20171128_009746	{#993399}{ol}[Magic] - [Lightning]{/}{/}{nl}Change your basic attack to a Lightning property ranged attack.	{#993399}{ol}[마법] - [전기]{/}{/}{nl}자신의 기본 공격을 전기 속성 범위 공격으로 변경합니다.				
 SKILL_20171128_009747	Lightning Property Additional Damage: #{SkillFactor}#%{nl}Duration: 300 seconds	전기 속성 추가 공격 #{SkillFactor}#%{nl}지속시간 300초				
 SKILL_20171128_009748	Shadow Thorn	섀도우 쏜				
@@ -9752,7 +9752,7 @@ SKILL_20171128_009751	{#993399}{ol}[Magic] - [Dark]{/}{/}{nl}Cast your shadow ou
 SKILL_20171128_009752	Shadow Pool	섀도우 풀				
 SKILL_20171128_009753	Drift into the shadows and hide within the ground. Enemies cannot attack you while in this state.	그림자로 녹아들어 바닥에 숨은채 이동합니다. 이 상태에선 적의 공격을 받지 않습니다.				
 SKILL_20171128_009754	Hallucination 	할루시네이션				
-SKILL_20171128_009755	Summons a shadow that looks exactly the same as you to take damage in your place. The shadow has 20% of your maximum HP.	자신과 똑같이 생긴 그림자 분신을 소환하여 피해를 대신 입게 합니다. 분신의 HP는 본체 HP의 20%로 적용됩니다.				
+SKILL_20171128_009755	Summon a shadow that looks exactly the same as you to take damage in your place. The shadow has 20% of your maximum HP.	자신과 똑같이 생긴 그림자 분신을 소환하여 피해를 대신 입게 합니다. 분신의 HP는 본체 HP의 20%로 적용됩니다.				
 SKILL_20171128_009756	{#993399}{ol}[Magic] - [Dark]{/}{/}{nl}Extract shadows from surrounding enemies and compress them into small beads. The beads explode after 3 seconds and inflict damage to enemies.	{#993399}{ol}[마법] - [암흑]{/}{/}{nl}주변의 적으로부터 그림자를 뽑아내서 작은 구슬로 압축합니다.구슬은 3초 뒤 폭발하며 적에게 대미지를 줍니다.				
 SKILL_20171128_009757	Shadow Fetter	섀도우 페터				
 SKILL_20171128_009758	Nail the shadow of enemies to the ground to prevent them from moving.	지정한 범위 적의 그림자에 못을 박아 이동불가 상태로 만듭니다.				
@@ -9842,7 +9842,7 @@ SKILL_20171128_009841	Judgment	저지먼트
 SKILL_20171128_009842	{#993399}{ol}[Magic]{/}{/}{nl}Change the type of enemies within a specified range to Demon type. Enemies take 10% additional Holy damage.	{#993399}{ol}[마법]{/}{/}{nl}지정한 범위 내의 적의 종족을 악마형으로 변경합니다. 변경된 적은 신성 속성 공격에 10% 추가 피해를 입습니다.				
 SKILL_20171128_009843	Duration: #{CaptionTime}# seconds{nl}Applies up to 8 targets	지속시간 #{CaptionTime}#초{nl}최대 8명 적용				
 SKILL_20171128_009844	Divine Punishment	천형부				
-SKILL_20171128_009845	{#993399}{ol}[Magic] - [Lightning]{/}{/}{nl}Deals damage after 3 seconds to a single target.	{#993399}{ol}[마법] - [전기]{/}{/}{nl}단일 대상 적에게 3초 뒤 천벌을 가합니다.				
+SKILL_20171128_009845	{#993399}{ol}[Magic] - [Lightning]{/}{/}{nl}Deal damage after 3 seconds to a single target.	{#993399}{ol}[마법] - [전기]{/}{/}{nl}단일 대상 적에게 3초 뒤 천벌을 가합니다.				
 SKILL_20171128_009846	Attack: #{SkillFactor}#%{nl}Requires 3 Strange Yellow Papers	공격력 #{SkillFactor}#%{nl}괴황지 3개 필요				
 SKILL_20171128_009847	{#993399}{ol}[Magic]{/}{/}{nl} Creates a magic circle, altering other magic circles in front of you to affect Flying-type enemies.	{#993399}{ol}[마법]{/}{/}{nl}전방에 생성된 마법진이 공중형 적에게 효과를 줄 수 있도록 변경하는 마법진을 생성합니다.				
 SKILL_20171128_009848	Duration: #{CaptionTime}# seconds{nl}Requires 3 Strange Yellow Papers	지속시간 #{CaptionTime}#초{nl}괴황지 3개 필요				
@@ -9889,7 +9889,7 @@ SKILL_20171128_009888	Cursed characters will receive additional damage when hit	
 SKILL_20171128_009889	Accuracy increased.	명중이 상승한 상태입니다.				
 SKILL_20171128_009890	Move by entering your shadow	그림자에 숨어들어 이동합니다				
 SKILL_20171128_009891	When enemies are provoked to the max their critical attack rate increases	적이 자신에게 가진 도발수치가 최대일 경우 치명타로 공격할 확률이 증가				
-SKILL_20171128_009892	Provoked. Accuracy, evasion reduced.	도발 당함. 명중, 회피 감소				
+SKILL_20171128_009892	Provoked. Accuracy and evasion are reduced.	도발 당함. 명중, 회피 감소				
 SKILL_20171128_009893	Surrounding enemies are provoked	주변 적을 도발한 상태				
 SKILL_20171128_009894	Changed to basic attack	기본 공격이 변경됨				
 SKILL_20171128_009895	Receives additional Lightning property damage when hit.	피격 시 전기 속성 추가 대미지를 입습니다.				
@@ -9919,7 +9919,7 @@ SKILL_20171128_009918	Basic attacked changed to magic attack.	기본 공격이 �
 SKILL_20171128_009919	Continually restores HP.{nl}Does not restore HP when Aukuras: Goddess of Fire is active.	지속적으로 체력을 회복합니다.{nl}단, [아우쿠라스: 불의 여신] 특성이 활성화 중일 경우 회복되지 않습니다.	SKILL_20150317_001751	Increased HP recovery speed.	체력 회복속도가 향상됩니다.	
 SKILL_20171128_009920	Physical and magic defense increased and additional damage while attack	물리 방어력과 마법 방어력이 증가하고 공격 시 증가한 방어력만큼 추가 대미지				
 SKILL_20171128_009921	Aukuras: Goddess of Fire	아우쿠라스: 불의 여신				
-SKILL_20171128_009922	Additional fire damage with magic attacks.	마법 공격시 화속성 추가 대미지				
+SKILL_20171128_009922	Additional Fire property damage dealt with magic attacks.	마법 공격시 화속성 추가 대미지				
 SKILL_20171128_009923	Condensation Immunity	콘덴세이션일시면역				
 SKILL_20171128_009924	Elemental Effect	원소 효과				
 SKILL_20171128_009925	Keitrys Elemental Enhance Potion Effect	케이트리스 속성 대미지 증가 포션 효과				
@@ -10114,13 +10114,13 @@ SKILL_20171128_010113	Mozambique Drill: Ricochet	모잠비크 드릴: 도탄
 SKILL_20171128_010114	* Applies ricochet from enemies hit by Mozambique Drill{nl}* Increases SP consumption by 50%	* 스킬 [모잠비크 드릴]에 피격된 적으로부터 도탄 발생{nl}* SP 소모 50%증가				
 SKILL_20171128_010115	* Increases the duration of [Daino]'s effect by 4 seconds per attribute level{nl}* Increases SP consumption by 20%	* 스킬 [다이노]의 효과 지속시간이 특성 레벨당 4초 증가{nl}* SP 소모 20%증가	SKILL_20170420_009207	* Increases the duration of [Daino]'s effect by 40 seconds per attribute level{nl}* Increases SP consumption by 20%	* 스킬 [다이노]의 효과 지속시간이 특성 레벨당 40초 증가{nl}* SP 소모 20%증가	
 SKILL_20171128_010116	* Increases duration of [Divine Stigma] by 6 seconds per attribute level{nl} Increases SP consumption by 20% 	* [디바인 스티그마]의 효과 지속시간이 특성 레벨당 6초씩 증가{nl}* SP 소모 20%증가	SKILL_20170420_009211	* Increases duration of [Divine Stigma] by 1 second per attribute level{nl} Increases SP consumption by 20% 	* [디바인 스티그마]의 효과 지속시간이 특성 레벨당 1초씩 증가{nl}* SP 소모 20%증가	
-SKILL_20171128_010117	* [Aukuras] Ally magic attacks within range{nl}deal additional Fire property damage{nl}* Decreases torch duration by 10 seconds{nl}* Eliminates the amount of HP recovered {nl}* Increases SP consumption by 20%{nl}* Decreases cooldown by 30 seconds	* [아우쿠라스] 범위 안에 있는 아군이 마법 공격을 하면{nl}    화속성 추가 대미지를 줌{nl}* 횃불 지속시간 10초 감소{nl}* HP 회복효과 제거{nl}* SP 소모 20%증가{nl}* 재사용 대기시간 30초 감소				
+SKILL_20171128_010117	* Ally magic attacks within range of [Aukuras] deal additional Fire property damage{nl}* Decreases torch duration by 10 seconds{nl}* Eliminates the amount of HP recovered {nl}* Increases SP consumption by 20%{nl}* Decreases cooldown by 30 seconds	* [아우쿠라스] 범위 안에 있는 아군이 마법 공격을 하면{nl}    화속성 추가 대미지를 줌{nl}* 횃불 지속시간 10초 감소{nl}* HP 회복효과 제거{nl}* SP 소모 20%증가{nl}* 재사용 대기시간 30초 감소				
 SKILL_20171128_010118	Divine Stigma: Defeat Devil	디바인 스티그마: 악마처단				
-SKILL_20171128_010119	* [Divine Stigma] damage against Devil-type targets{nl}is increased by 10% per attribute level.{nl}* Increases SP consumption by 20%	* [디바인 스티그마]의 대미지가 악마형 대상에게{nl}    특성 레벨당 10% 증가{nl}* SP 소모 20%증가				
+SKILL_20171128_010119	* Increases [Divine Stigma] damage against Devil-type targets is increased by 10% per attribute level{nl}* Increases SP consumption by 20%	* [디바인 스티그마]의 대미지가 악마형 대상에게{nl}    특성 레벨당 10% 증가{nl}* SP 소모 20%증가				
 SKILL_20171128_010120	Divine Stigma: Enhance	디바인 스티그마: 강화				
 SKILL_20171128_010121	* Increases damage dealt with [Divine Stigma] by 0.5% per attribute level	* 적에게 입히는 [디바인 스티그마]의 대미지가{nl}    특성 레벨당 0.5% 증가				
 SKILL_20171128_010122	Daino: Additional Attack	다이노: 추가 공격				
-SKILL_20171128_010123	* Increases attack speed by 10 per skill level when Daino is active{nl}Adds an additional attack to basic attacks while active{nl}* Increases SP consumption by 50%	* [다이노] 버프 상태에서 기본 공격 속도가 스킬 레벨당 10 증가{nl}* [다이노] 버프 상태에서 기본 공격 시 기본 공격 대미지만큼{nl}    추가 공격{nl}* SP 소모 50%증가				
+SKILL_20171128_010123	* Increases attack speed by 10 per skill level while [Daino] is active{nl}Adds an additional attack to basic attacks while active{nl}* Increases SP consumption by 50%	* [다이노] 버프 상태에서 기본 공격 속도가 스킬 레벨당 10 증가{nl}* [다이노] 버프 상태에서 기본 공격 시 기본 공격 대미지만큼{nl}    추가 공격{nl}* SP 소모 50%증가				
 SKILL_20171128_010124	Turn Undead: Conversion	턴 언데드: 개종	SKILL_20150918_005239	Conversion: Might Enhance	개종: 완력 강화	
 SKILL_20171128_010125	Converted with [Turn Undead] maximum  5 enemies {nl} * Increases the monster's physical attack converted with [Turn Undead] equal to 50% of the character's STR, {nl}* 20% SP Consumption.	* [턴 언데드] 스킬로 최대 5마리 적 개종 가능{nl} * 스킬 [턴 언데드]으로 개종된 몬스터의 물리 공격력이 캐릭터{nl}    힘 스탯의 50%만큼 증가{nl}* SP 소모 20%증가	SKILL_20170420_009255	* Increases monster's physical attack converted with [Conversion] equal to 50% of the character's STR{nl}* Increases SP consumption by 20%	* 스킬 [개종]으로 개종된 몬스터의 물리 공격력이 캐릭터{nl}    힘 스탯의 50%만큼 증가{nl}* SP 소모 20%증가	
 SKILL_20171128_010126	Demolition: Enhance 	데몰리션: 강화				
@@ -10163,7 +10163,7 @@ SKILL_20171128_010162	* Increases God Smash damage on Demon enemies by 10% per a
 SKILL_20171128_010163	Divine Punishment: Enhance 	천형부: 강화				
 SKILL_20171128_010164	* Increases damage dealt with [Divine Punishment] by 0.5% per attribute level	* 적에게 입히는 [천형부]의  대미지가 특성 레벨당 0.5% 증가				
 SKILL_20171128_010165	Storm Calling: Zaibas	호풍환우부: 자이바스				
-SKILL_20171128_010166	* If the caster has learned [Zaibas], automatically casts Zaibas in the location of [Storm Calling] when it is triggered{nl}* Increases SP consumption by 50%	* 시전자가 [자이바스]를 배웠다면, [호풍환우부]가 발동할 때{nl}    해당 위치에 [자이바스] 발동{nl}* SP 소모 50%증가				
+SKILL_20171128_010166	* If the caster has learned [Zaibas], automatically casts [Zaibas] in the location of [Storm Calling] when it is triggered{nl}* Increases SP consumption by 50%	* 시전자가 [자이바스]를 배웠다면, [호풍환우부]가 발동할 때{nl}    해당 위치에 [자이바스] 발동{nl}* SP 소모 50%증가				
 SKILL_20171128_010167	Immolation: Fire Property Attack	이몰레이션: 불 속성 공격				
 SKILL_20171128_010168	* Increases Fire property attack by 100 per attribute level when using Immolation{nl}* Increases SP consumption by 20%	* [이몰레이션] 사용 시 20초간 불 속성 공격력이 특성 레벨당{nl}    100 증가{nl}* SP 소모 20%증가				
 SKILL_20171128_010169	Immolation: Enhance	이몰레이션: 강화				
