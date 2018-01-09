@@ -2596,7 +2596,7 @@ UI_20170330_002595	{@st66}Font Size	{@st66}글자 크기
 UI_20170330_002596	{@st66b}Show Login Message	{@st66b}접속 알림 표시				
 UI_20170330_002597	{@st66}Guild Members{/}	{@st66}길드원{/}				
 UI_20170330_002598	{@st66}Friends{/}	{@st66}친구{/}				
-UI_20170330_002599	{@st66b}If both trading players are Token users,{nl}tradable equipment, consumables, gems and other items will remain tradable.{/}	{@st66b}거래 시 유저가 모두 토큰을 사용 중 이라면{nl}장비, 소모품, 기타, 카드, 젬 아이템의 속성 변경이 없습니다.{/}	UI_20160811_002266	{@st66b}If both sides are using Tokens,{nl}the trade properties of the equipment are unchanged.{nl}Consumables and material items will become untradable{nl}regardless of the usage of Tokens.{/}	{@st66b}거래 시 유저가 모두 토큰을 사용 중 이라면{nl}장비 아이템의 속성 변경이 없습니다.{nl}소비나 재료 아이템은 토큰여부와 상관없이 거래불가입니다.{/}	
+UI_20170330_002599	{@st66b}If both trading players are Token users,{nl}tradable equipment, consumables,{nl}gems and other items will remain tradable.{/}	{@st66b}거래 시 유저가 모두 토큰을 사용 중 이라면{nl}장비, 소모품, 기타, 카드, 젬 아이템의 속성 변경이 없습니다.{/}	UI_20160811_002266	{@st66b}If both sides are using Tokens,{nl}the trade properties of the equipment are unchanged.{nl}Consumables and material items will become untradable{nl}regardless of the usage of Tokens.{/}	{@st66b}거래 시 유저가 모두 토큰을 사용 중 이라면{nl}장비 아이템의 속성 변경이 없습니다.{nl}소비나 재료 아이템은 토큰여부와 상관없이 거래불가입니다.{/}	
 UI_20170330_002600	{s18}Items with Expiration Date	{s18}기간제 아이템 목록				
 UI_20170330_002601	Item(s) close to expiration date. Close?	곧 기간이 만료됩니다. 종료하시겠습니까?				
 UI_20170330_002602	{@st43}{s20}Expired Items{/}	{@st43}{s20}기간제 지난 아이템 일괄 삭제 목록{/}				
@@ -2697,7 +2697,7 @@ UI_20170726_002696	{s20}Poison	{s20}독의 양
 UI_20170726_002697	{@st42}Poison in Poison Pot{/}	{@st42}포이즌 팟의 독의 양{/}				
 UI_20170726_002698	{@st59}Tackle Box{/}	{@st59}낚시 살림통{/}				
 UI_20170726_002699	{@st59}Dungeon Info (F10){/}	{@st59}던전 정보(F10){/}				
-UI_20170726_002700	{@st66b}See basic character info{/}	{@st66b}캐릭터 기본 정보 보기{/}				
+UI_20170726_002700	{@st66b}See Basic Character Info{/}	{@st66b}캐릭터 기본 정보 보기{/}				
 UI_20170726_002701	{@st66b}Show HP and SP under character{/}	{@st66b}캐릭터 아래에 HP, SP 표시{/}				
 UI_20170726_002702	{@st66b}Use multithread (Beta){/}	{@st66b}멀티스레드 사용(Beta){/}				
 UI_20170726_002703	{@st59}Applies multithread update (Beta).{/}	{@st59}멀티스레드 업데이트(Beta)를 적용합니다.{/}				
@@ -2749,8 +2749,8 @@ UI_20170912_002748	Class Points %s	클래스 점수  %s점
 UI_20170912_002749	Team Level %s	팀 레벨 %s				
 UI_20170912_002750	Exploration	탐험				
 UI_20170912_002751	%s % Explored	총 탐사율 %s %				
-UI_20170912_002752	=- 권장레벨	- 권장레벨				
-UI_20170912_002753	=- 탐색율	- 탐색율				
+UI_20170912_002752	- Recommended level	- 권장레벨				
+UI_20170912_002753	- Exploration	- 탐색율				
 UI_20170912_002754	Type	종류				
 UI_20170912_002755	Acquisition Points %s	획득 점수 %s 점				
 UI_20170912_002756	Acquisition Points %s	획득점수 %s점				
@@ -2945,12 +2945,12 @@ UI_20171128_002944	{@st41b}Return	{@st41b}돌아가기
 UI_20171128_002945	Return to the entrance map.	입장 지역으로 돌아갑니다.				
 UI_20171128_002946	Achievement Rate	인던 달성률				
 UI_20171128_002947	{@st59}Special Costume{/}	{@st59}스페셜 코스튬{/}				
-UI_20171128_002948	{@st43}Item Dispel{/}	{@st43}아이템 분해{/}				
-UI_20171128_002949	{@st43}{#ffcc33}Dispel Complete{/}	{@st43}{#ffcc33}분해 완료{/}				
-UI_20171128_002950	{@st41b}Dispel Cost{/}	{@st41b}분해 비용{/}				
-UI_20171128_002951	{@st41b}Match Dispel{/}	{@st41b}분해 하기{/}				
+UI_20171128_002948	{@st43}Item Dismantle{/}	{@st43}아이템 분해{/}				
+UI_20171128_002949	{@st43}{#ffcc33}Dismantle Complete{/}	{@st43}{#ffcc33}분해 완료{/}				
+UI_20171128_002950	{@st41b}Dismantle Cost{/}	{@st41b}분해 비용{/}				
+UI_20171128_002951	{@st41b}Dismantle Items{/}	{@st41b}분해 하기{/}				
 UI_20171128_002952	Item Re-Identification	아이템 재감정				
-UI_20171128_002953	Match Re-Identification	재감정 하기				
+UI_20171128_002953	Re-Identify Item	재감정 하기				
 UI_20171128_002954	{@st43b}{s18}Place the item you want to enhance.	{@st43b}{s18}아이템을 올려주세요				
 UI_20171128_002955	{@st43b}{s18}Current Option	{@st43b}{s18}현재 옵션				
 UI_20171128_002956	{@st43b}{s18}Before Change	{@st43b}{s18}변경 전				
@@ -2969,8 +2969,8 @@ UI_20171128_002968	* Skills and Attributes of removed or adjusted class circles{
 UI_20171128_002969	* Class-specific costumes received{nl}by Rank advancement will be deleted if the class is completely removed.	* 초기화로 인해 클래스가 완전히 삭제되는 경우에는{nl}전직 시 지급된 직업별 코스튬이 제거됩니다.				
 UI_20171128_002970	* You will return to the barracks after using the Voucher.	* 초기화 후에는 캐릭터 선택창으로 돌아갑니다.				
 UI_20171128_002971	{@st59}Rank Info{/}	{@st59}랭크 정보{/}				
-UI_20171128_002972	{@st66b}Buff Effect Simplify{/}	{@st66b}버프 이펙트 간소화{/}				
-UI_20171128_002973	{@st66b}Model Simplify{/}	{@st66b}모델 간소화{/}				
+UI_20171128_002972	{@st66b}Simplify Buff Effects{/}	{@st66b}버프 이펙트 간소화{/}				
+UI_20171128_002973	{@st66b}Simplify Models{/}	{@st66b}모델 간소화{/}				
 UI_20171128_002974	{@st59}Attendance Reward Check{/}	{@st59}출석 보상 확인{/}				
 UI_20171128_002975	Returning to the previous class.	해당 클래스를 이전으로 되돌립니다.				
 UI_20171128_002976	Map name	맵이름				
