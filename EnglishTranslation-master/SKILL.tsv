@@ -9729,7 +9729,7 @@ SKILL_20171128_009728	{#993399}{ol}[Magic] - [Poison]{/}{/}{nl}Stab the enemy wi
 SKILL_20171128_009729	{#993399}{ol}[Magic] - [Poison]{/}{/}{nl}Attack and absorb the life force from a Beast, Devil or Insect-type enemy, or an enemy affected by the debuff, while recovering your HP at the same time.	{#993399}{ol}[마법] - [독]{/}{/}{nl}야수형, 악마형, 곤충형 적 혹은 에너베이션 디버프 상태인 적의 체력을 흡수해 공격함과 동시에 일부를 자신의 체력으로 회복합니다.	SKILL_20161214_007219	{#993399}{ol}[Magic] - [Poison]{/}{/}{nl}Attack and absorb the life force from a Beast, Devil or Insect-type enemy while recovering your HP at the same time.	{#993399}{ol}[마법] - [독]{/}{/}{nl}야수형, 악마형, 곤충형 적의 체력을 흡수해 공격함과 동시에 일부를 자신의 체력으로 회복합니다.	
 SKILL_20171128_009730	{#993399}{ol}[Magic] - [Dark]{/}{/}{nl}Put on shoes made of mixed hair and blood. Walk while leaving bloody footprints on the ground, temporarily cursing any enemies who come into contact with it.	{#993399}{ol}[마법] - [암흑]{/}{/}{nl}피와 머리카락을 섞어 만든 신발을 신고 이동합니다. 지면에 찍힌 피 발자국을 밟은 적은 일시적으로 저주 상태에 빠집니다.	SKILL_20151224_005809	{#993399}{ol}[Magic]{/}{/}{nl}Put on shoes made of mixed hair and blood. Walk while leaving bloody footprints on the ground, temporarily cursing any enemies who come into contact with it.	{#993399}{ol}[마법]{/}{/}{nl}피와 머리카락을 섞어 만든 신발을 신고 이동합니다. 지면에 찍힌 피 발자국을 밟은 적은 일시적으로 저주 상태에 빠집니다.	
 SKILL_20171128_009731	Enervation	에너베이션				
-SKILL_20171128_009732	{#993399}{ol}[Magic] - [Poison]{/}{/}{nl}Temporarily inflicts a curse spell on an enemy in range to cause additional damage when hit. Additional damage only applies to cursed Featherfoot magic attacks.	{#993399}{ol}[마법] - [독]{/}{/}{nl}일시적으로 범위 안의 적에게 저주의 주술을 걸어 피격시 추가 대미지를 입게 합니다. 추가 대미지는 저주를 건 페더풋의 마법 공격력으로 적용됩니다.				
+SKILL_20171128_009732	{#993399}{ol}[Magic] - [Poison]{/}{/}{nl}Temporarily inflicts a curse spell on enemies within range to cause additional damage when hit. Additional damage is based on the Featherfoot's Magic Attack.	{#993399}{ol}[마법] - [독]{/}{/}{nl}일시적으로 범위 안의 적에게 저주의 주술을 걸어 피격시 추가 대미지를 입게 합니다. 추가 대미지는 저주를 건 페더풋의 마법 공격력으로 적용됩니다.				
 SKILL_20171128_009733	Additional Attack: #{SkillFactor}#%{nl}Applies 10 times{nl}Duration: 50 seconds	추가 공격 #{SkillFactor}#%{nl}적용 횟수 10회{nl}지속시간 50초				
 SKILL_20171128_009734	Demon Scratch	데몬 스크래치				
 SKILL_20171128_009735	{#993399}{ol}[Magic] - [Dark]{/}{/}{nl}Create a magic circle that summons a demon's arm in front of you. The summoned demon disappears after attacking.	{#993399}{ol}[마법] - [암흑]{/}{/}{nl}전방에 악마의 팔을 소환하는 마법진을 생성합니다. 소환된 악마는 전방을 공격한 뒤 사라집니다.				
@@ -9746,7 +9746,7 @@ SKILL_20171128_009745	Block Chance: +#{CaptionRatio}#%{nl}Duration: 300 seconds	
 SKILL_20171128_009746	{#993399}{ol}[Magic] - [Lightning]{/}{/}{nl}Change your basic attack to a Lightning property ranged attack.	{#993399}{ol}[마법] - [전기]{/}{/}{nl}자신의 기본 공격을 전기 속성 범위 공격으로 변경합니다.				
 SKILL_20171128_009747	Additional Lightning Property Damage: +#{SkillFactor}#%{nl}Duration: 300 seconds	전기 속성 추가 공격 #{SkillFactor}#%{nl}지속시간 300초				
 SKILL_20171128_009748	Shadow Thorn	섀도우 쏜				
-SKILL_20171128_009749	{#993399}{ol}[Magic] - [Dark]{/}{/}{nl}In the shadow of the enemy, spiky spikes rise and attack the enemy.	{#993399}{ol}[마법] - [암흑]{/}{/}{nl}적의 그림자에서 뾰족한 가시가 솟아오르며 적을 공격합니다.				
+SKILL_20171128_009749	{#993399}{ol}[Magic] - [Dark]{/}{/}{nl}Sharp thorns rise from within the shadow of an enemy, dealing damage.	{#993399}{ol}[마법] - [암흑]{/}{/}{nl}적의 그림자에서 뾰족한 가시가 솟아오르며 적을 공격합니다.				
 SKILL_20171128_009750	Shadow Conjuration	섀도우 컨저레이션				
 SKILL_20171128_009751	{#993399}{ol}[Magic] - [Dark]{/}{/}{nl}Cast your shadow outwards, dealing damage to enemies within it.	{#993399}{ol}[마법] - [암흑]{/}{/}{nl}자신의 그림자를 전방으로 길게 늘어뜨려서 그림자위에 있는 적을 공격합니다.				
 SKILL_20171128_009752	Shadow Pool	섀도우 풀				
@@ -9772,7 +9772,7 @@ SKILL_20171128_009771	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Cut down enemie
 SKILL_20171128_009772	{#DD5500}{ol}[Missile:Bow]{/}{/}{nl}Jump backward and fire arrows straight ahead, damaging enemies in a line.	{#DD5500}{ol}[미사일:활]{/}{/}{nl}후방으로 점프하며 전방 범위에 화살을 발사하여 일직선상에 있던 적들에게 피해를 줍니다.	SKILL_20170510_009411	{#DD5500}{ol}[Missile: Bow]{/}{/}{nl}Jump high up in the air and fire arrow forward. Enemies in its trajectory get damage and movement speed reduced.	{#DD5500}{ol}[미사일:활]{/}{/}{nl}높이 점프하여 전방 범위에 화살을 발사합니다. 일직선상에 있던 적들은 피해를 받고 확률적으로 이동속도가 감소합니다.	
 SKILL_20171128_009773	Attack: #{SkillFactor}#%{nl}Backward Movement Distance: #{CaptionRatio}#	공격력 #{SkillFactor}#%{nl}후방 이동거리 #{CaptionRatio}#	SKILL_20170420_008620	Attack #{SkillAtkAdd}#{nl}AoE Ratio #{SkillSR}#{nl}Reduced Enemy Movement Speed Chance #{CaptionRatio2}#%	공격력 #{SkillAtkAdd}#{nl}광역 공격 비율 #{SkillSR}#{nl}적 이동속도 감소 확률 #{CaptionRatio2}#%	
 SKILL_20171128_009774	Down Fall	다운 폴				
-SKILL_20171128_009775	{#DD5500}{ol}[Missile:Bow]{/}{/}{nl}Fire several arrows into the air and attacks arrows enemies a single designated enemy. If you and enemies are away from a certain distance, you will not be attacked.	{#DD5500}{ol}[미사일:활]{/}{/}{nl}여러발의 화살을 공중을 향해 발사하여 지정된 단일 적에게 화살 공격을 퍼붓습니다. 자신과 적이 일정 거리 이상 멀어지게되면 공격받지 않습니다.				
+SKILL_20171128_009775	{#DD5500}{ol}[Missile:Bow]{/}{/}{nl}Fire several arrows into the air to rain down on a single designated enemy. You will stop inflicting damage if you and the enemy are too far from each other.	{#DD5500}{ol}[미사일:활]{/}{/}{nl}여러발의 화살을 공중을 향해 발사하여 지정된 단일 적에게 화살 공격을 퍼붓습니다. 자신과 적이 일정 거리 이상 멀어지게되면 공격받지 않습니다.				
 SKILL_20171128_009776	Silver Bullet	실버불릿				
 SKILL_20171128_009777	All attacks using a pistol are augmented, changing them to the Holy attribute.	권총을 사용하는 모든 공격이 신성 속성으로 변경되는 버프를 자신에게 부여합니다.				
 SKILL_20171128_009778	Duration: #{CaptionTime}# seconds{nl}Able to use while riding	지속시간 #{CaptionTime}#초{nl}탑승 상태에서 사용 가능				
@@ -9835,7 +9835,7 @@ SKILL_20171128_009834	Grants an effect that provides knockdown, knockback, and c
 SKILL_20171128_009835	Gevura	게부라				
 SKILL_20171128_009836	Triggers an effect based on the numbers calculated on enemies. Enemies attacked while under the effect of Gevura receive additional damage proportional to the number of enemies and the calculated number.	자신 주변 적에게 수비술로 산출된 숫자를 기반으로 게부라가 발동됩니다. 게부라 상태에서 공격받은 적은 게부라 수에 비례한 대미지를 받고, 산출된 숫자만큼 적용됩니다.				
 SKILL_20171128_009837	Duration: 30 seconds{nl}Damage Increase: #{CaptionRatio}#%	지속시간 30초{nl} 대미지 증가량 #{CaptionRatio}#%				
-SKILL_20171128_009838	Makes the attacks of party members have the Holy property. Increases Holy property additional damage in proportion to the caster's [Sacrament] level which becomes more powerful when HP is below 40%.	파티원의 공격이 신성 속성을 갖게 하는 상태로 만듭니다. 신성 속성 추가 공격은 시전자가 가진 사크라멘트 레벨에 비례하고, 체력이 40% 이하가 되면 효과가 더욱 증가합니다.	SKILL_20151224_005922	Makes the attacks of party members have the Holy property. Increases Holy property damage in proportion to the caster's [Sacrament] level which becomes more powerful when HP is below 40%.	파티원의 공격이 신성 속성을 갖게 하는 상태로 만듭니다. 신성 속성 공격력은 시전자가 가진 사크라멘트 레벨에 비례하고, 체력이 40% 이하가 되면 효과가 더욱 증가합니다.	
+SKILL_20171128_009838	Grant the attacks of party members the Holy property. Increases Holy property additional damage in proportion to the caster's [Sacrament] level which becomes more powerful when HP is below 40%.	파티원의 공격이 신성 속성을 갖게 하는 상태로 만듭니다. 신성 속성 추가 공격은 시전자가 가진 사크라멘트 레벨에 비례하고, 체력이 40% 이하가 되면 효과가 더욱 증가합니다.	SKILL_20151224_005922	Makes the attacks of party members have the Holy property. Increases Holy property damage in proportion to the caster's [Sacrament] level which becomes more powerful when HP is below 40%.	파티원의 공격이 신성 속성을 갖게 하는 상태로 만듭니다. 신성 속성 공격력은 시전자가 가진 사크라멘트 레벨에 비례하고, 체력이 40% 이하가 되면 효과가 더욱 증가합니다.	
 SKILL_20171128_009839	Summon an Iron Maiden to trap a medium or small sized enemy, excluding boss monsters. Trapped enemies cannot move for a certain amount of time while Demon type enemies take constant damage.	아이언 메이든을 소환하여 보스몬스터를 제외한 중형 이하 크기의 적을 가둡니다. 집어넣어진 적은 일정 시간동안 움직일 수 없고, 악마형 적은 지속적인 피해를 입습니다.				
 SKILL_20171128_009840	Duration: #{CaptionTime}# seconds{nl}	지속시간 #{CaptionTime}#초{nl}악마형 적 최대 HP가 1%씩 감소				
 SKILL_20171128_009841	Judgment	저지먼트				
@@ -9880,7 +9880,7 @@ SKILL_20171128_009879	Receiving Fire property effects from Immolation.	이몰레
 SKILL_20171128_009880	Can't recover HP. Increases the damage dealt to enemies in proportion to HP remaining. 	HP 회복불가. 남은 HP에 비례해서 적에게 주는 대미지 증가				
 SKILL_20171128_009881	Increases damage dealt by all Dragoon skills.	모든 드라군 스킬의 대미지가 증가				
 SKILL_20171128_009882	Debuff Immunity	디버프에 면역됨				
-SKILL_20171128_009883	Max Attack increased.	최소 공격력이 상승한 상태입니다.				
+SKILL_20171128_009883	Minimum Attack increased.	최소 공격력이 상승한 상태입니다.				
 SKILL_20171128_009884	Add. Property Damage	성속성 추가 대미지				
 SKILL_20171128_009885	When attacked, surrounding enemies also receive damage	자신도 피해를 입으며 주변 적에게 피해를 줌				
 SKILL_20171128_009886	Uninterrupted Knockback, Knockdown Immunity and Casting 	넉백, 넉다운 면역 및 캐스팅이 끊기지 않는 상태				

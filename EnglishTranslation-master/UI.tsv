@@ -453,8 +453,8 @@ UI_20150317_000452	{@st41b}Individual EXP	{@st41b}각자얻기
 UI_20150317_000453	{@st41b}Equal EXP	{@st41b}균등분배				
 UI_20150317_000454	{@st41b}By Level	{@st41b}레벨차등				
 UI_20150317_000455	{@st41}Quest Sharing	{@st41}퀘스트 공유				
-UI_20150317_000456	{@st41b}Enabled	{@st41b}사용				
-UI_20150317_000457	{@st41b}Disabled	{@st41b}사용안함				
+UI_20150317_000456	{@st41b}Use	{@st41b}사용				
+UI_20150317_000457	{@st41b}Don't Use	{@st41b}사용안함				
 UI_20150317_000458	{@st41b}Create Party	{@st41b}파티 생성				
 UI_20150317_000459	{@st43}Public Party List {/}	{@st43}공개 파티 목록{/}				
 UI_20150317_000460	{@st59b}Public Party List{nl}{@st59s} - Search for a party you want to join by viewing the open parties in your server {nl} - Use the search option to find a party you want to join{/}	{@st59b}공개 파티 목록{nl}{@st59s} - 서버내 공개된 파티 목록을 확인해서 원하는 파티에 가입{nl} - 검색 옵션 사용으로 원하는 조건의 파티 검색{/}				
@@ -2345,11 +2345,11 @@ UI_20161005_002344	Name{/}	이름{/}
 UI_20161005_002345	Settings{/}	설정{/}				
 UI_20161005_002346	{@st59}Close{/}	{@st59}호문쿨루스 정보 UI를 닫습니다{/}				
 UI_20161005_002347	{@st66d}You cannot revert this when the skill is applied.{nl}Do you wish to proceed?{/}	{@st66d}한번 적용된 스킬은 변경하실 수 없습니다.{nl}진행하시겠습니까?{/}				
-UI_20161005_002348	It is a spell voucher that{nl}quickly defeats monsters in an instanced dungeon.	인스턴스 던전의 몬스터를 {nl}빠르게 처치할 수 있는 주문서 입니다.				
-UI_20161005_002349	Instanced Clear Voucher	인스턴스 던전 소탕권{/}				
+UI_20161005_002348	A spell voucher that quickly{nl}defeats monsters within an instanced dungeon.	인스턴스 던전의 몬스터를 {nl}빠르게 처치할 수 있는 주문서 입니다.				
+UI_20161005_002349	Instance Clear Voucher	인스턴스 던전 소탕권{/}				
 UI_20161005_002350	Warning	주의사항				
-UI_20161005_002351	 The monsters defeated by the pillar of light{nl}shall not be recorded on the Adventure Journal and{nl}items get dropped near the the pillar of light. Please, be aware of possible item loss.{nl}The used voucher disappears instantly and it can only be used in the instanced dungeon of that count.{/}	 빛기둥에 죽은 몬스터는 모험일지에 기록되지{nl}않을 수 있으며, 빛기둥 주변에서 아이템이 떨어지게{nl}되어, 유실 가능성에 유의해 주시기 바랍니다.{nl}사용한 소탕권은 즉시 사라지며, 해당회차 인스턴스{nl}던전에서만 적용됩니다.{/}				
-UI_20161005_002352	Do you wish to use a Instanced Clear Voucher?{/}	인스턴스 던전 소탕권을 사용하시겠습니까?{/}				
+UI_20161005_002351	 The monsters defeated by the pillar of light{nl}will not be recorded in the Adventure Journal, and{nl}items will be dropped near the pillar of light.{nl}Please be aware of possible item loss.{nl}The used voucher will disappear instantly{nl}and it can only be used within instanced dungeons.{/}	 빛기둥에 죽은 몬스터는 모험일지에 기록되지{nl}않을 수 있으며, 빛기둥 주변에서 아이템이 떨어지게{nl}되어, 유실 가능성에 유의해 주시기 바랍니다.{nl}사용한 소탕권은 즉시 사라지며, 해당회차 인스턴스{nl}던전에서만 적용됩니다.{/}				
+UI_20161005_002352	Do you wish to use the Instance Clear Voucher?{/}	인스턴스 던전 소탕권을 사용하시겠습니까?{/}				
 UI_20161005_002353	{@st59b}Blessed Gems Extraction{nl}{@st59s}- Extract a Blessed Gem from a transcended item{nl}- Extraction Requirements : Hammer of Dismantlement{nl}- You'll retrieve some of the Blessed Gems used for Transcendence even though the item will be destroyed.{nl}  : Current Success Rate / 40% of the amount of Blessed Gems will be returned. {nl}- You cannot use this when your item is in Stage 0 of Transcendence.{/}	{@st59b}축복석 추출{nl}{@st59s}- 초월아이템에서 축복석 추출{nl}- 축복석 추출 재료 : 분해의 망치{nl}- 축복석 추출시 해당 아이템은 제거되지만, 사용된 축복석의 일부를 되돌려 받을 수 있습니다. {nl}   : 현재까지 성공 / 실패에 사용된 축복석의 40%를 돌려받습니다. {nl}- 초월 0단계에서는 사용할 수 없습니다.{/}	UI_20160811_002292	{@st59b}Extract Blessed Gem{nl}{@st59s}- Extract Blessed Gem from transcended items{nl}- Extraction Requirements : Hammer of Dismantlement{nl}- You'll retrieve some of the Blessed Gems used for Transcendence even though the item will be destroyed. {nl}- You cannot do this at Transcendence Stage 0.{/}	{@st59b}축복석 추출{nl}{@st59s}- 초월아이템에서 축복석 추출{nl}- 축복석 추출 재료 : 분해의 망치{nl}- 축복석 추출시 해당 아이템은 제거되지만, 사용된 축복석의 일부를 되돌려 받을 수 있습니다. {nl}- 초월 0단계에서는 사용할 수 없습니다.{/}	
 UI_20161005_002354	Mission Failed	미션 실패				
 UI_20161005_002355	All players have been incapacitated.	모든 플레이어가 전투 불능 상태가 되었습니다.				
@@ -2372,8 +2372,8 @@ UI_20161005_002371	Before{/}	현재{/}
 UI_20161005_002372	After{/}	변경 후{/}				
 UI_20161005_002373	{@st66d}Change Gender{/}	{@st66d}성별 변경{/}				
 UI_20161005_002374	Warning{/}	주의 사항{/}				
-UI_20161005_002375	Remove all equipped gear before you proceed{nl}The class costume will be changed along with your gender{/}	모든 장비 해제 한 뒤에 전환 가능{nl}기본 직업별 코스튬은 성별 자동 변경{/}				
-UI_20161005_002376	{@st67}All the premium items that were gender specific will no longer be equippable{/}	{@st67}기존 성별에 맞게 구매한 유료코스튬은{nl}성별 변환 후, 장착 불가{/}				
+UI_20161005_002375	Remove all equipped gear before you proceed{nl}The class costume will be changed along with your{nl}gender{/}	모든 장비 해제 한 뒤에 전환 가능{nl}기본 직업별 코스튬은 성별 자동 변경{/}				
+UI_20161005_002376	{@st67}All the premium items that were gender specific will{nl}no longer be equippable{/}	{@st67}기존 성별에 맞게 구매한 유료코스튬은{nl}성별 변환 후, 장착 불가{/}				
 UI_20161005_002377	Stat	능력치				
 UI_20161005_002378	{@st66d}{s30}The webpage reached its end. {nl} Please, press Close.{/}	{@st66d}{s30}웹 페이지가 끝났습니다. {nl} 닫기를 눌러주세요.{/}				
 UI_20161005_002379	View from the Player's POV	플레이어 시점 보기				
@@ -2484,7 +2484,7 @@ UI_20161214_002483	{@st41b}Remaining Fund {/}{img white_right_arrow 15 18}	{@st4
 UI_20161214_002484	Level 1 cards do not consume 5TP.	1레벨 카드는 5TP가 소모되지 않습니다.				
 UI_20161214_002485	{@st66b}Real-time Standings	{@st66b}실시간 랭킹	UI_20160811_002277	{@st66b}Real-time Standings	{@st66b}주간 실시간 랭킹	
 UI_20161214_002486	Last Season Standings	지난 시즌 랭킹	UI_20160811_002279	Previous Week's Standings	지난 주간 랭킹	
-UI_20161214_002487	Increases EXP/Drop Rate{nl}up to 3 times{nl}by consuming the entry counter and Instance Dungeon Multiply Token.	던전 입장 소비 횟수와{nl} 인스턴스 던전 배수 토큰 아이템을{nl}소모한 만큼{nl}경험치/아이템드랍률을{nl} 최대 3배까지 증가시킵니다.				
+UI_20161214_002487	Increases EXP/Drop Rate{nl}up to 3 times by consuming{nl}the entry counter and{nl}Instanced Dungeon Multiply Tokens.	던전 입장 소비 횟수와{nl} 인스턴스 던전 배수 토큰 아이템을{nl}소모한 만큼{nl}경험치/아이템드랍률을{nl} 최대 3배까지 증가시킵니다.				
 UI_20161214_002488	{@st41b}Activate Multiply Mode	{@st41b}배수모드 발동				
 UI_20161214_002489	{@st41b}Cancel Multiply Mode	{@st41b}배수모드 취소				
 UI_20161214_002490	Multiply Mode Number	배수모드 적용 개수				
