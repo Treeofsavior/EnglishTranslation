@@ -2245,7 +2245,7 @@ UI_20160718_002244	{@st59}Shows dead parts of defeated monsters.{/}	{@st59}몬�
 UI_20160718_002245	{@st66b}Show Character Silhouettes{/}	{@st66b}캐릭터 실루엣 적용{/}	UI_20160425_002180	{@st66b} Apply Character Silhouettes	{@st66b} 캐릭터 실루엣 적용	
 UI_20160718_002246	{@st59}Characters hidden behind the background are shown in silhouettes.{/}	{@st59}캐릭터가 배경 뒤에 있을 때 실루엣으로 표시합니다.{/}				
 UI_20160718_002247	Do you want to use this %s?{/}	%s 을 사용하시겠습니까?{/}	UI_20151224_001958	Do you want to use this %s?{/}	%s 아이템을 사용하시겠습니까?{/}	
-UI_20160718_002248	Unable to Use :	사용제한 : %s				
+UI_20160718_002248	Expires in:	사용제한 : %s				
 UI_20160718_002249	Day Hour Minute Second	일시분초				
 UI_20160718_002250	{@st42b}Siauliai{/}	{@st42b}샤울레이{/}				
 UI_20160718_002251	{#000000}Score{/}	{#000000}점수{/}				
@@ -2445,8 +2445,8 @@ UI_20161108_002444	{@st43}%s obtained!{/}	{@st43}%s 획득!{/}
 UI_20161108_002445	{@st42b}Open Goddess' Blessed Cube X %s	{@st42b}축복받은 여신의 큐브 X %s 열기				
 UI_20161108_002446	{@st42b}Open Leticia's Secret Cube X %s	{@st42b}레티샤의 비밀 큐브 X %s 열기				
 UI_20161108_002447	{@st41}Open Compensation Cube	{@st41}보상 큐브 열기				
-UI_20161108_002448	{@st59}Close{/}	{@st59}창을 닫습니다.{/}				
-UI_20161108_002449	{@st66b}Might obtain something mysterious{nl}when opened.{/}	{@st66b}사용하면 무언가 알 수 없는 것을{nl}획득할 수 있을 것 같습니다.{/}				
+UI_20161108_002448	{@st59}Close{/}	{@st59}창을 닫습니다.{/}					
+UI_20161108_002449	{@st66b}Open this cube to{nl}acquire something unknown.{/}	{@st66b}사용하면 무언가 알 수 없는 것을{nl}획득할 수 있을 것 같습니다.{/}			
 UI_20161121_002450	{@st41}Entry Count Reset : 06:00 AM Every Day{/}	{@st41}입장 횟수 초기화 : 매일 6시{/}				
 UI_20161121_002451	Name/Location	이름/위치				
 UI_20161121_002452	Entry Level	입장레벨				
@@ -2536,9 +2536,9 @@ UI_20170313_002535	Item Name	아이템 이름
 UI_20170313_002536	{@st43}Forgery{/}	{@st43}모조품{/}				
 UI_20170313_002537	{@st41b}Change	{@st41b}변경하기				
 UI_20170313_002538	{@st68b}{s18}Collection{/}	{@st68b}{s18}콜렉션 상태{/}				
-UI_20170313_002539	{@st68b}Complete(%s){/}	{@st68b}완성(%s){/}				
-UI_20170313_002540	{@st68b}New(%s){/}	{@st68b}미확인(%s){/}				
-UI_20170313_002541	{@st68b}Incomplete(%s){/}	{@st68b}미완성(%s){/}				
+UI_20170313_002539	{@st68b}Complete (%s){/}	{@st68b}완성(%s){/}				
+UI_20170313_002540	{@st68b}New (%s){/}	{@st68b}미확인(%s){/}				
+UI_20170313_002541	{@st68b}Incomplete (%s){/}	{@st68b}미완성(%s){/}				
 UI_20170313_002542	{@st66b}See All Effects{/}	{@st66b}총 효과보기{/}				
 UI_20170313_002543	{@st59}See the total of effects obtained.{/}	{@st59}총 효과를 출력 합니다.{/}				
 UI_20170313_002544	{@st59}Search the name of a collection or effect.{/}	{@st59}콜렉션 이름 또는 효과로 검색 합니다.{/}				
@@ -2615,7 +2615,7 @@ UI_20170330_002614	{@st45tw2}Others{/}	{@st45tw2}기타{/}
 UI_20170330_002615	{@st42}Join	{@st42}참석하기				
 UI_20170330_002616	{@st42}Close	{@st42}닫기				
 UI_20170330_002617	{@st59}Close Message Box{/}	{@st59}메시지 함을 닫습니다{/}	UI_20150317_000017	{@st59}Close{/}	{@st59}경매장을 닫습니다{/}	
-UI_20170330_002618	{#62100c}Untradable items: %s	{#62100c}거래불가 개수 : %s개	UI_20150918_001804	Total Untradable: %s	총 거래 불가: %s개	
+UI_20170330_002618	{#62100c}Untradable Items: %s	{#62100c}거래불가 개수 : %s개	UI_20150918_001804	Total Untradable: %s	총 거래 불가: %s개	
 UI_20170330_002619	Tradability	거래 옵션				
 UI_20170330_002620	Shop	상점				
 UI_20170330_002621	Personal	개인				
@@ -2725,9 +2725,9 @@ UI_20170912_002724	{@st59}Growth{/}	{@st59}성장{/}
 UI_20170912_002725	{@st59}Exploration{/}	{@st59}탐험{/}				
 UI_20170912_002726	Team	팀명				
 UI_20170912_002727	Character	캐릭명				
-UI_20170912_002728	{img test_cooltime 24 24}Points reset on the 1st day of every month.{/}	{img test_cooltime 24 24} 매월 1일마다 점수가 초기화됩니다.{/}				
-UI_20170912_002729	{@st41b}Top Ranks	{@st41b}상위 랭킹				
-UI_20170912_002730	{@st41b}My Nearest Ranks	{@st41b}내 주변 랭킹				
+UI_20170912_002728	{img test_cooltime 24 24}Points reset on the first day of every month.{/}	{img test_cooltime 24 24} 매월 1일마다 점수가 초기화됩니다.{/}				
+UI_20170912_002729	{@st41b}Top Ranking	{@st41b}상위 랭킹				
+UI_20170912_002730	{@st41b}My Nearest Ranking	{@st41b}내 주변 랭킹				
 UI_20170912_002731	{@st43b}Total %s Points	{@st43b}총 획득 점수 %s점				
 UI_20170912_002732	{@st66b}More Monsters	{@st66b}몬스터 더 보기				
 UI_20170912_002733	{@st66d_y}%s Points / {/}{@st42}%s Points{/}	{@st66d_y}%s점 / {/}{@st42}%s점{/}				
@@ -2820,10 +2820,10 @@ UI_20170912_002819	Position {img %s 13 13}	직위{img %s 13 13}
 UI_20170912_002820	Contribution	기여도				
 UI_20170912_002821	{@st66b}{s18}Authorities{/}	{@st66b}{s18}길드 권한{/}				
 UI_20170912_002822	%s online      %s offline	온라인 %s명      오프라인 %s명				
-UI_20170912_002823	Show online	접속 인원만 보기				
+UI_20170912_002823	Show Online	접속 인원만 보기				
 UI_20170912_002824	{@st41b}Invite	{@st41b}길드 초대				
 UI_20170912_002825	{@st66d_y}{s18}Guild Level{/}	{@st66d_y}{s18}길드 레벨{/}				
-UI_20170912_002826	{@st43b}{s18}Guild Tower(%s/1){/}	{@st43b}{s18}길드 타워 (%s/1){/}				
+UI_20170912_002826	{@st43b}{s18}Guild Tower (%s/1){/}	{@st43b}{s18}길드 타워 (%s/1){/}				
 UI_20170912_002827	Benefits	길드 혜택				
 UI_20170912_002828	Guild benefits updated to current Templar's Guild Tower level.	현재 템플러의 길드 타워 레벨로 길드 혜택을 갱신합니다.				
 UI_20170912_002829	Attribute Points: %s	특성 포인트: %s				
@@ -2854,15 +2854,15 @@ UI_20170912_002853	 of your Market fees of the previous week.{nl}ⓘ Spot reward
 UI_20170912_002854	Tuesday 06:00	화요일 06:00				
 UI_20170912_002855	{@st43b}{s18}Guild Emblem{/}	{@st43b}{s18}길드 엠블럼{/}				
 UI_20170912_002856	{@st41b}{nl}Image %s{/}	{@st41b}{nl}이미지 %s{/}				
-UI_20170912_002857	ⓘ The first emblem can be registered for free.{nl}ⓘ Changing the emblem costs %s0,000 Silver.{nl}ⓘ Your image must be sized %s and in %s format.{nl}ⓘ The file name must be composed of only alphanumeric characters.{nl}ⓘ The use of problematic images can result in restrictions.	ⓘ 길드 엠블럼의 최초 등록은 무료입니다.{nl}ⓘ 길드 엠블럼 변경시 %s만 실버가 사용됩니다.{nl}ⓘ 길드 엠블럼은 %s 크기의 %s 파일만 등록 가능합니다.{nl}ⓘ 파일 이름이 영문과 숫자로 이루어진 파일만 등록 가능합니다.{nl}ⓘ 문제 있는 이미지 사용 시 제재가 있을 수 있습니다.				
+UI_20170912_002857	ⓘ The first emblem can be registered for free.{nl}ⓘ Changing the emblem costs %s0000 silver.{nl}ⓘ Your image must be sized %s and in %s format.{nl}ⓘ The file name must be composed of only alphanumeric characters.{nl}ⓘ The use of problematic images can result in restrictions.	ⓘ 길드 엠블럼의 최초 등록은 무료입니다.{nl}ⓘ 길드 엠블럼 변경시 %s만 실버가 사용됩니다.{nl}ⓘ 길드 엠블럼은 %s 크기의 %s 파일만 등록 가능합니다.{nl}ⓘ 파일 이름이 영문과 숫자로 이루어진 파일만 등록 가능합니다.{nl}ⓘ 문제 있는 이미지 사용 시 제재가 있을 수 있습니다.				
 UI_20170912_002858	{@st43b}{s18}Hangout Entry Settings{/}	{@st43b}{s18}아지트 입장 설정{/}				
 UI_20170912_002859	Allow Outsiders	외부인 입장 가능				
 UI_20170912_002860	{@st43b}{s18}Guild News{/}	{@st43b}{s18}길드 공지{/}				
-UI_20170912_002861	{@st66}{s18}Register{/}	{@st66}{s18}등록{/}				
+UI_20170912_002861	{@st66}{s18}Submit{/}	{@st66}{s18}등록{/}				
 UI_20170912_002862	{@st43b}{s18}Guild Notes{/}	{@st43b}{s18}길드 소개글{/}				
-UI_20170912_002863	{@st43b}{s18}One-line Message Board{/}	{@st43b}{s18}한 줄 게시판{/}				
-UI_20170912_002864	Max. 25 characters allowed.	최대 25자 까지 가능합니다.				
-UI_20170912_002865	ⓘ You can post on the One-line Message Board 3 times a day.	ⓘ 한 줄 게시판은 하루 3회 등록 가능합니다.				
+UI_20170912_002863	{@st43b}{s18}Message Board{/}	{@st43b}{s18}한 줄 게시판{/}				
+UI_20170912_002864	A maximum of 25 characters is allowed.	최대 25자 까지 가능합니다.				
+UI_20170912_002865	ⓘ You can post up to 3 times per day in the Message Board.	ⓘ 한 줄 게시판은 하루 3회 등록 가능합니다.				
 UI_20170912_002866	Guild Info	길드 정보				
 UI_20170912_002867	Wars	전쟁				
 UI_20170912_002868	Territory Wars	콜로니전				
@@ -2948,13 +2948,13 @@ UI_20171128_002947	{@st59}Special Costume{/}	{@st59}스페셜 코스튬{/}
 UI_20171128_002948	{@st43}Item Dismantle{/}	{@st43}아이템 분해{/}				
 UI_20171128_002949	{@st43}{#ffcc33}Dismantle Complete{/}	{@st43}{#ffcc33}분해 완료{/}				
 UI_20171128_002950	{@st41b}Dismantle Cost{/}	{@st41b}분해 비용{/}				
-UI_20171128_002951	{@st41b}Dismantle Items{/}	{@st41b}분해 하기{/}				
+UI_20171128_002951	{@st41b}Dismantle{/}	{@st41b}분해 하기{/}				
 UI_20171128_002952	Item Re-Identification	아이템 재감정				
 UI_20171128_002953	Re-Identify Item	재감정 하기				
-UI_20171128_002954	{@st43b}{s18}Place the item you want to enhance.	{@st43b}{s18}아이템을 올려주세요				
+UI_20171128_002954	{@st43b}{s18}Place the item you want to enhance	{@st43b}{s18}아이템을 올려주세요				
 UI_20171128_002955	{@st43b}{s18}Current Option	{@st43b}{s18}현재 옵션				
-UI_20171128_002956	{@st43b}{s18}Before Change	{@st43b}{s18}변경 전				
-UI_20171128_002957	{@st43b}{s18}After Change	{@st43b}{s18}변경 후				
+UI_20171128_002956	{@st43b}{s18}Before	{@st43b}{s18}변경 전				
+UI_20171128_002957	{@st43b}{s18}After	{@st43b}{s18}변경 후				
 UI_20171128_002958	{@st43b}{s18}Material	{@st43b}{s18}재료				
 UI_20171128_002959	{@st59}Change Companion Name{/}	{@st59}컴패니언 이름을 수정합니다{/}				
 UI_20171128_002960	{@st43}Portal Shop{/}	{@st43}포탈 상점{/}				
