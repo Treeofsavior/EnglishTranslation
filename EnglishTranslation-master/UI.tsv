@@ -1774,7 +1774,7 @@ UI_20150807_001773	{@st41b}Price :{/}	{@st41b}거래 정산 :{/}	UI_20150317_000
 UI_20150807_001774	{@st41b}After Repair :{/}	{@st41b}예상 잔액 :{/}	UI_20150317_000633	{@st41b}Balance{/}	{@st41b}예상 잔액 ▶{/}	
 UI_20150918_001775	Camp Duration	캠프 유지 시간				
 UI_20150918_001776	Effect	효과				
-UI_20150918_001777	Camp duration is increased when it is renewed{nl} Requires %s silver.	갱신시 캠프 유지시간이 증가되며{nl} %s실버가 소모됩니다.				
+UI_20150918_001777	Camp duration is increased when it is renewed.{nl}Requires %s silver.	갱신시 캠프 유지시간이 증가되며{nl} %s실버가 소모됩니다.				
 UI_20150918_001778	Personal Storage	개인 창고				
 UI_20150918_001779	{@st41b}Type : {@sti7}%s{/}	{@st41b}타입 : {@sti7}%s{/}				
 UI_20150918_001780	{@st41b}Difficulty : {@sti7}%s{/}	{@st41b}조작난이도 : {@sti7}%s{/}				
@@ -1839,7 +1839,7 @@ UI_20151224_001838	{@st59}Close	{@st59}주문 판매상점을 닫습니다.	UI_2
 UI_20151224_001839	{@st59}Spell Sell Shop{nl} - You can receive a buff skill from the player by paying in silver.	{@st59}주문 판매상점{nl} - 실버를 지불해 해당 플레이어에게 버프 스킬을 받을 수 있습니다.	UI_20150317_000071	{@st59}Buff Vending Machine{nl} - You can pay silver to receive buffs from another player.	{@st59}버프 자판기{nl} - 실버를 지불해 해당 플레이어에게 버프 기술을 시전받을 수 있습니다.	
 UI_20151224_001840	{@st41b}Build	{@st41b}건설				
 UI_20151224_001841	{@st41b}Materials and Price	{@st41b}소비재료 및 비용				
-UI_20151224_001842	{@st66b}Basement	{@st66b}베이스캠프	UI_20150406_001460	{@st41b}Base Camp	{@st41b}베이스캠프	
+UI_20151224_001842	{@st66b}Base Camp	{@st66b}베이스캠프	UI_20150406_001460	{@st41b}Base Camp	{@st41b}베이스캠프	
 UI_20151224_001843	{@st66b}Records	{@st66b}기록				
 UI_20151224_001844	Legs Quantity	다리개수	UI_20150729_001734	Leg Count	다리갯수	
 UI_20151224_001845	{@st41}Confirm	{@st41}확인				
@@ -2022,7 +2022,7 @@ UI_20151224_002021	{@st59}Show Quest Dialogue{/}	{@st59}퀘스트 대사 보기{
 UI_20151224_002022	{@st59}Abandon Quest{/}	{@st59}퀘스트 포기{/}				
 UI_20151224_002023	{@st49}Preview{/}	{@st49}미리보기{/}				
 UI_20151224_002024	{@st49}Add{/}	{@st49}담기{/}				
-UI_20151224_002025	%s has eaten a %s	%s님이 %s(을)를 드셨습니다	UI_20150714_001683	{@st42} obtained %s by %s	{@st42}%s님이 %s(을)를 드셨습니다	
+UI_20151224_002025	%s ate a %s.	%s님이 %s(을)를 드셨습니다	UI_20150714_001683	{@st42} obtained %s by %s	{@st42}%s님이 %s(을)를 드셨습니다	
 UI_20151224_002026	Amount Left	남은개수				
 UI_20151224_002027	Amount Left : %s{/}	남은개수 : %s{/}	UI_20150317_001268	Amount Left : %s {/}	남은갯수 : %s{/}	
 UI_20151224_002028	{@st41}Buy{/}	{@st41}구매{/}				
@@ -2175,9 +2175,9 @@ UI_20160323_002174	Record / Score	전적 / 점수
 UI_20160323_002175	[Created: %s ago]	[결성: %s 전]				
 UI_20160411_002176	{@st66b}Use Camera Vibration{/}	{@st66b}카메라 진동 사용{/}				
 UI_20160425_002177	{@st42}If both sides are using Tokens,{nl}the trade properties of the weapon{nl}will not be changed.{/}	{@st42}양쪽 모두 토큰 혜택을 적용받는다면{nl}무기 아이템의 거래 속성은{nl}변경되지 않습니다.{/}				
-UI_20160425_002178	{@st66b} Apply Background Effect	{@st66b} 환경 이펙트 적용				
-UI_20160425_002179	{@st66b} Apply Dead Parts	{@st66b} 데드 파츠 적용				
-UI_20160425_002180	{@st66b} Apply Character Silhouettes	{@st66b} 캐릭터 실루엣 적용				
+UI_20160425_002178	{@st66b}Apply Background Effect	{@st66b} 환경 이펙트 적용				
+UI_20160425_002179	{@st66b}Apply Dead Parts	{@st66b} 데드 파츠 적용				
+UI_20160425_002180	{@st66b}Apply Character Silhouettes	{@st66b} 캐릭터 실루엣 적용				
 UI_20160426_002181	{/}Do you want to delete your {b}{s20}Companion{/}{s43}{@st43}%s{/}{/}{b}{s20}?{/}	{/}{b}{s20}컴패니언{/}{s43}{@st43}%s{/}{/}{b}{s20}을 정말 삭제하시겠습니까?{/}				
 UI_20160426_002182	{/}{b}{s20}It cannot be recovered after being deleted.{/}	{/}{b}{s20}삭제가 완료된 이후엔 복구되지 않습니다.{/}				
 UI_20160426_002183	{/}{b}{s20}Companion{/}{s43}{@st43}%s{/}	{/}{b}{s20}컴패니언{/}{s43}{@st43}%s{/}				
@@ -2460,7 +2460,7 @@ UI_20161121_002459	Auto Match	자동매칭
 UI_20161121_002460	Main Monster	대표 등장 몬스터				
 UI_20161121_002461	Waiting for the participation from the party members.{nl}A message will be sent out to players in the appropriate level bracket.	파티원의 참여를 기다립니다.{nl}레벨대가 맞는 파티원에게는 메세지가 전송됩니다.				
 UI_20161121_002462	Auto Match{nl}with Party	파티원과 자동매칭				
-UI_20161121_002463	Auto Match w/ Current Members	현재 모인 멤버로 자동매칭				
+UI_20161121_002463	Auto Match with{nl}Current Members	현재 모인 멤버로 자동매칭				
 UI_20161121_002464	{@st41b}Enter Now	{@st41b}바로입장				
 UI_20161121_002465	Total Waiting Queue: %s	총 대기인원: %s명				
 UI_20161121_002466	Awaiting the participation from the party members.	파티원의 참여를 기다리고 있습니다.				
@@ -2494,7 +2494,7 @@ UI_20161214_002493	{@st66b}Item{/}	{@st66b}아이템{/}
 UI_20161214_002494	{@st59b}Item Transcendence{nl}{@st59s}- Enhances an item's performance in a way different from the anvil enhancement{nl}- Transcendables : Weapon, Armor, Accessory{nl}- Transcendence Chance = Amount of Ingredients / Required Minimum{nl}- If successful, Transcendence level increases by 1(Max. 10){nl}- If failed, Transcendence level along with potential by 1(Transcendence level does not go below 1){nl}- Transcended Item Cannot Be Traded{/}	{@st59b}아이템 초월{nl}{@st59s}- 모루 강화와는 다른 아이템 성능 강화{nl}- 초월 가능 장비 : 무기, 방어구, 장신구{nl}- 초월 성공 확률 = 넣은 재료 개수 / 최대 필요 재료 개수{nl}- 성공 시, 초월이 1단계 상승(최대 10단계){nl}- 실패 시, 초월과 포텐셜이 1단계 하락(초월은 1단계 이하로 떨어지지 않음){nl}- 초월시킨 장비는 거래 제한으로 변경됨{/}	UI_20160811_002289	{@st59b}Transcend Item{nl}{@st59s}- Another way to enhance the item's performance other than by the anvil{nl}- Items that can transcend : Weapons, armor and accessories{nl}- Transcendence Success Rate = Used Ingredients / Maximum Required Ingredients{nl}- Increases Transcendence Stage by 1 on success (Maximum of 10 Stages){nl}- Decreases Transcendence Stage by 1 on failure (No Potential loss){nl}- Transcended items cannot be traded{/}	{@st59b}아이템 초월{nl}{@st59s}- 모루 강화와는 다른 아이템 성능 강화{nl}- 초월 가능 장비 : 무기, 방어구, 장신구{nl}- 초월 성공 확률 = 넣은 재료 개수 / 최대 필요 재료 개수{nl}- 성공 시, 초월이 1단계 상승(최대 10단계){nl}- 실패 시, 초월이 -1단계 하락(포텐셜은 감소되지 않음){nl}- 초월시킨 장비는 거래 제한으로 변경됨{/}	
 UI_20161214_002495	{@st59b}Blessed Gem Extraction{nl}{@st59s}- Extracting Blessed Gems from Transcended Items{nl}- Ingredient for Blessed Gem Extraction : Hammer of Dismantlement{nl}- A portion of Blessed Gems used on the item can be refunded. {nl}   : Depending on the current transcendence level and remaining potential, the refund rate is minimum 20% to maximum 90%. {nl}- Cannot be used on Transcendence Level 0.{/}	{@st59b}축복석 추출{nl}{@st59s}- 초월아이템에서 축복석 추출{nl}- 축복석 추출 재료 : 분해의 망치{nl}- 축복석 추출시 해당 아이템은 제거되지만, 사용된 축복석의 일부를 되돌려 받을 수 있습니다. {nl}   : 현재 초월 단계와 잔여 포텐셜에 따라 최소 20% ~ 최대 90%의 초월석을 돌려받습니다. {nl}- 초월 0단계에서는 사용할 수 없습니다.{/}	UI_20161005_002353	{@st59b}Blessed Gems Extraction{nl}{@st59s}- Extract a Blessed Gem from a transcended item{nl}- Extraction Requirements : Hammer of Dismantlement{nl}- You'll retrieve some of the Blessed Gems used for Transcendence even though the item will be destroyed.{nl}  : Current Success Rate / 40% of the amount of Blessed Gems will be returned. {nl}- You cannot use this when your item is in Stage 0 of Transcendence.{/}	{@st59b}축복석 추출{nl}{@st59s}- 초월아이템에서 축복석 추출{nl}- 축복석 추출 재료 : 분해의 망치{nl}- 축복석 추출시 해당 아이템은 제거되지만, 사용된 축복석의 일부를 되돌려 받을 수 있습니다. {nl}   : 현재까지 성공 / 실패에 사용된 축복석의 40%를 돌려받습니다. {nl}- 초월 0단계에서는 사용할 수 없습니다.{/}	
 UI_20161214_002496	{@st66b}Save{/}	{@st66b}강화 저장{/}				
-UI_20161214_002497	{@st66b}Show Damage On Other Characters	{@st66b}다른 캐릭터 대미지 보기				
+UI_20161214_002497	{@st66b}Show Dmg. Of Other Characters	{@st66b}다른 캐릭터 대미지 보기				
 UI_20161214_002498	{@st59}Please select a server.{/}	{@st59}유라테 - 시즌 서버가 아우슈리네 서버로 통합되었습니다.{nl}자세한 내용은 홈페이지 공지사항을 참고해주세요.{nl}바카리네, 라이마, 제미나, 가비야 서버는 7/14(목) 바이보라 서버로 통합되었습니다.{/}	UI_20160811_002309	{@st59}Please select a server.{/}	{@st59}유라테(시즌 서버) 서버는 10/20까지 운영되는 이벤트 서버입니다.{nl}자세한 내용은 홈페이지 공지사항을 참고해주세요.{nl}바카리네, 라이마, 제미나, 가비야 서버는 바이보라 서버로 통합되었습니다.{/}	
 UI_20161214_002499	{@st59}Record FPS and Activate Replay.{/}	{@st59}리플레이를 실행하며 프레임당 수행시간을 파일로 기록합니다.{/}				
 UI_20161214_002500	Current	현재				
@@ -2698,7 +2698,7 @@ UI_20170726_002697	{@st42}Poison in Poison Pot{/}	{@st42}포이즌 팟의 독의
 UI_20170726_002698	{@st59}Tackle Box{/}	{@st59}낚시 살림통{/}				
 UI_20170726_002699	{@st59}Dungeon Info (F10){/}	{@st59}던전 정보(F10){/}				
 UI_20170726_002700	{@st66b}See Basic Character Info{/}	{@st66b}캐릭터 기본 정보 보기{/}				
-UI_20170726_002701	{@st66b}Show HP and SP under character{/}	{@st66b}캐릭터 아래에 HP, SP 표시{/}				
+UI_20170726_002701	{@st66b}Show HP/SP Under Character{/}	{@st66b}캐릭터 아래에 HP, SP 표시{/}				
 UI_20170726_002702	{@st66b}Use multithread (Beta){/}	{@st66b}멀티스레드 사용(Beta){/}				
 UI_20170726_002703	{@st59}Applies multithread update (Beta).{/}	{@st59}멀티스레드 업데이트(Beta)를 적용합니다.{/}				
 UI_20170726_002704	{@st66d}{s18}TP Cubes{/}	{@st66d}{s18}유료 확률형 아이템{/}				
