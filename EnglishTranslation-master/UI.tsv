@@ -1965,8 +1965,8 @@ UI_20151224_001964	{@st66b}Character Settings{/}	{@st66b}캐릭터 설정{/}	UI_
 UI_20151224_001965	{@st59}Collection (F11){/}	{@st59}콜렉션 (F11){/}				
 UI_20151224_001966	{@st66b}Key Settings	{@st66b}키 설정				
 UI_20151224_001967	{@st42}Duration: %s{/}	{@st42}사용기간 : %s{/}				
-UI_20151224_001968	Applies to this %s for %s{nl} and delete %s from inventory	사용한 %s 인벤토리에서 사라지며{nl}%s동안 현재 %s에만 적용됩니다.{/}				
-UI_20151224_001969	Only apply to %s during %s {nl} and delete %s from inventory.{/}	사용한 %s 인벤토리에서{nl}사라지며 현재 %s에만 적용됩니다.{/}				
+UI_20151224_001968	Removes the %s from{nl}your inventory, providing benefits for %s{nl}for this %s.{/}	사용한 %s 인벤토리에서 사라지며{nl}%s동안 현재 %s에만 적용됩니다.{/}				
+UI_20151224_001969	Removes the %s{nl}from your inventory and applies to this %s.{/}	사용한 %s 인벤토리에서{nl}사라지며 현재 %s에만 적용됩니다.{/}				
 UI_20151224_001970	The duration of your Token can be seen in Character Settings.	캐릭터 설정창에서 잔여시간을 확인하실 수 있습니다.{/}				
 UI_20151224_001971	{@st59}Close{/}	{@st59}TP SHOP을 닫습니다{/}				
 UI_20151224_001972	{@st43}{s18}Preview & Purchase	{@st43}{s18}미리보기 및 구매				
@@ -2244,7 +2244,7 @@ UI_20160718_002243	{@st66b}Apply Dead Parts of Small and Medium sized Monsters	{
 UI_20160718_002244	{@st59}Shows dead parts of defeated monsters.{/}	{@st59}몬스터 처치시 파편을 표시합니다.{/}				
 UI_20160718_002245	{@st66b}Show Character Silhouettes{/}	{@st66b}캐릭터 실루엣 적용{/}	UI_20160425_002180	{@st66b}Apply Character Silhouettes	{@st66b} 캐릭터 실루엣 적용	
 UI_20160718_002246	{@st59}Characters hidden behind the background are shown in silhouettes.{/}	{@st59}캐릭터가 배경 뒤에 있을 때 실루엣으로 표시합니다.{/}				
-UI_20160718_002247	Do you want to use this %s?{/}	%s 을 사용하시겠습니까?{/}	UI_20151224_001958	Do you want to use this %s?{/}	%s 아이템을 사용하시겠습니까?{/}	
+UI_20160718_002247	Use %s?{/}	%s 을 사용하시겠습니까?{/}	UI_20151224_001958	Do you want to use this %s?{/}	%s 아이템을 사용하시겠습니까?{/}	
 UI_20160718_002248	Unable to Use :	사용제한 : %s				
 UI_20160718_002249	Day Hour Minute Second	일시분초				
 UI_20160718_002250	{@st42b}Siauliai{/}	{@st42b}샤울레이{/}				
@@ -2396,9 +2396,9 @@ UI_20161005_002395	{@st42b}Open Portal	{@st42b}포탈 열기
 UI_20161005_002396	{@st66b}Portal Cooldown{/}	{@st66b}포탈 재사용 대기시간{/}				
 UI_20161010_002397	{@st66d_y}{s20}All{/}	{@st66d_y}{s20}총{/}				
 UI_20161107_002398	{@st43}Exchange List{/}	{@st43}교환 목록{/}				
-UI_20161107_002399	{@st41b}Total Medal Consumed : {/}	{@st41b}총 소비 메달 : {/}				
+UI_20161107_002399	{@st41b}Medals : {/}	{@st41b}총 소비 메달 : {/}				
 UI_20161107_002400	{@st41b}Total Medal Obtained : {/}	{@st41b}총 획득 메달 : {/}				
-UI_20161107_002401	Do you wish to spend medal for the item?	메달을 위 아이템으로 교환하시겠습니까?				
+UI_20161107_002401	Do you wish to spend medals for the items?	메달을 위 아이템으로 교환하시겠습니까?				
 UI_20161107_002402	Once exchanged, you cannot revert it.	교환 시 원래의 아이템으로 되돌릴 수 없습니다.				
 UI_20161107_002403	Do you wish to exchange the item for medal?	해당 아이템을 메달로 교환하시겠습니까?				
 UI_20161107_002404	Exchanging the purchased back to medal might cause some loss due to the exchange rate.	구매한 아이템을 메달로 재교환 시 교환율의 불이익이 발생할 수 있습니다.				
@@ -2455,7 +2455,7 @@ UI_20161121_002454	Enter Dungeon	던전 입장
 UI_20161121_002455	%s/%s	%s/%s회				
 UI_20161121_002456	Main Obtainable Equipment	대표 획득 장비				
 UI_20161121_002457	{@st66b}Auto Match{nl}Re-Enter	{@st66b}자동매칭{nl}재입장				
-UI_20161121_002458	Entering the place previously matched.	이전에 매칭된 곳으로 입장합니다.				
+UI_20161121_002458	Re-entering the location previously matched to.	이전에 매칭된 곳으로 입장합니다.				
 UI_20161121_002459	Auto Match	자동매칭				
 UI_20161121_002460	Main Monster	대표 등장 몬스터				
 UI_20161121_002461	Waiting for the participation from the party members.{nl}A message will be sent out to players in the appropriate level bracket.	파티원의 참여를 기다립니다.{nl}레벨대가 맞는 파티원에게는 메세지가 전송됩니다.				
@@ -2927,7 +2927,7 @@ UI_20171128_002926	Check Period	출석 체크 기간
 UI_20171128_002927	* Daily attendance rewards will be automatically sent once per day to the inventory of the first character to access the game.{nl}* Enchant Scroll (14 Days).{nl}* Rewards can only be received during the attendance check period. After this period, no more rewards will be sent.{nl}	* 출석 보상은 1일 1회, 당일 첫 접속한 캐릭터 인벤토리로 자동 지급됩니다.{nl}* 마법 부여 스크롤(14일)을 제외한 모든 아이템은 팀 창고로 이동할 수 있습니다.{nl}* 출석 체크 기간 동안에만 출석 보상을 받을 수 있으며, 기간 경과 시 더 이상 지급되지 않습니다.{nl}				
 UI_20171128_002928	{@st66b18}※ Changing your Team Name with TP are not refundable.{/}	{@st66b18}※이름 변경에 사용된 TP는 환불되지 않습니다.{/}	UI_20151224_001847	{@st66b18}※ Purchases made with TP are not refundable.{/}	{@st66b18}※구매에 사용된 TP는 환불되지 않습니다.{/}	
 UI_20171128_002929	Size%s	크기: %s				
-UI_20171128_002930	{@st42b}Check	{@st42b}확인				
+UI_20171128_002930	{@st42b}Confirm	{@st42b}확인				
 UI_20171128_002931	Update Guild Storage.	현재 길드 보관함을 갱신합니다.				
 UI_20171128_002932	ⓘ Spot rewards are %s every week.{nl}ⓘ The rewards include  	ⓘ 점령 보상은 매주 %s 지급됩니다.{nl}ⓘ 점령 보상금은 전 주 마켓 수수료 중에서 	UI_20170912_002852	ⓘ Spot rewards are %s every week.{nl}ⓘ The rewards include  	ⓘ 점령 보상은 매주 %s됩니다.{nl}ⓘ 점령 보상금은 전 주 마켓 수수료 중에서 	
 UI_20171128_002933	 of your Market fees of the previous week.{nl}ⓘ Spot rewards are delivered as Guild War items.{nl}ⓘ The maximum possible amount rewarded is %s hundred million Silver.{nl}ⓘ Please check our official website for more information.	만큼 지급됩니다.{nl}ⓘ 점령 보상금은 콜로니전 기념 주화로 환산되어 지급됩니다.{nl}ⓘ 점령 보상금으로 지급되는 실버는 상한선이 존재하며, 상한선은 %s억입니다.{nl}ⓘ Beta에 지급되는 점령 보상 및 지급 일정은 위에 명시된 내용과 다를 수 있으며, 홈페이지 내 공지사항을 통해 확인 바랍니다.	UI_20170912_002853	 of your Market fees of the previous week.{nl}ⓘ Spot rewards are delivered as Copper Bars.{nl}ⓘ The maximum possible amount rewarded is %s hundred million Silver.{nl}ⓘ Please check our official website for more information.	만큼 지급됩니다.{nl}ⓘ 점령 보상금은 동괴로 환산되어 지급됩니다.{nl}ⓘ 점령 보상금으로 지급되는 실버는 상한선이 존재하며, 상한선은 %s억입니다.{nl}ⓘ Beta에 지급되는 점령 보상 및 지급 일정은 위에 명시된 내용과 다를 수 있으며, 홈페이지 내 공지사항을 통해 확인 바랍니다.	
