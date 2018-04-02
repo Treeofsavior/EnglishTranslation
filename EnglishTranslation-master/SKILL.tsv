@@ -8400,7 +8400,7 @@ SKILL_20170420_008399	Attack: #{SkillFactor}#% x 3{nl}AoE Attack Ratio: #{SkillS
 SKILL_20170420_008400	Attack #{SkillFactor}#% x 4
 SKILL_20170420_008401	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Perform an upward swing with your weapon, launching an enemy.
 SKILL_20170420_008402	Attack: #{SkillFactor}#% x 4{nl}Casting Time: #{CaptionRatio2}# seconds{nl}AoE Attack Ratio: #{SkillSR}#
-SKILL_20170420_008403	Attack: #{SkillFactor}#{nl}{#339999}{ol}[Shock]{/}{/} Duration: #{CaptionTime}# seconds {nl}AoE Attack Ratio: #{SkillSR}#
+SKILL_20170420_008403	Attack: #{SkillFactor}#%{nl}{#339999}{ol}[Shock]{/}{/} Duration: #{CaptionTime}# seconds {nl}AoE Attack Ratio: #{SkillSR}#
 SKILL_20170420_008404	Block: +#{CaptionRatio2}#
 SKILL_20170420_008405	{#DD5500}{ol}[Physical] - [Slash]{/}{/} {#7AE4FF}{ol}[{img tooltip_speedofatk}Attack Speed]{/}{/}{nl}Inflict damage on enemies by swinging your sword around to create continuous attacks. Deals Double Damage to enemies under Crown debuff.
 SKILL_20170420_008406	Attack #{SkillFactor}#% x 5{nl}AoE Attack Ratio #{SkillSR}#
@@ -10454,8 +10454,8 @@ SKILL_20180320_010453	Heavy Gravity
 SKILL_20180320_010454	{#993399}{ol}[Magic] - [Psychokinesis]{/}{/}{nl}Increases the gravitational force on the targeted area to inflict psychokinesis damage to the enemy. Flying-type monsters within the affected area are changed to the ground-type, and removes Raise tiles around the affected area. Deals 50% additional damage to Mutant-type monster.
 SKILL_20180320_010455	0.5 second attack #{SkillFactor}#%{nl}Duration #{CaptionRatio}#Seconds
 SKILL_20180320_010456	Spirit Shock
-SKILL_20180320_010457	{#993399}{ol}[Magic] - [Psychokinesis]{/}{/}{nl}Links to the soul of a single target to inflict mental damage. Can be used only to a single target at a time. Can be canceled by the Unbind skill.
-SKILL_20180320_010458	Enlarge the size of you and your party member's hand to increase attack of the primary weapon. The effect depends on the caster's INT.
+SKILL_20180320_010457	{#993399}{ol}[Magic] - [Psychokinesis]{/}{/}{nl}Link yourself to the soul of a single target to inflict mental damage. Can only be used on a single target at a time. Can be canceled by the Unbind skill.
+SKILL_20180320_010458	Enlarge the size of you and your party member's hands to increase the attack of their primary weapon. The effect increases in proportion to the caster's INT.
 SKILL_20180320_010459	Primary physical attack +#{CaptionRatio}#{nl}Magic attack +#{CaptionRatio}#{nl}Duration: #{CaptionTime}# seconds{nl}Consumes #{SpendItemCount}# Magic Powder
 SKILL_20180320_010460	Temporarily enlarge you and your party member's offhand, increasing attack and defense of subweapon or shield. Effects increase with the caster's INT and SPR.
 SKILL_20180320_010461	Shield, physical defense +#{CaptionRatio}#{nl}Subweapon, subweapon physical attack +#{CaptionRatio2}#{nl}Duration: #{CaptionTime}# seconds{nl}Consumes #{SpendItemCount}# Magic Powder
@@ -10470,9 +10470,9 @@ SKILL_20180320_010469	{#993399}{ol}[Magic] - [Earth]{/}{/}{nl}Creates sand storm
 SKILL_20180320_010470	Ride the summoned devil from the Grimoire and take control of it. When mounted on the devil, its physical and magic attack increases and the damage taken decreases proportionally to the riding character's magic attack.
 SKILL_20180320_010471	{#993399}{ol}[Magic] - [Dark]{/}{/}{nl}Summon a familiar. The familiar rushes to an enemy that you attack or that attacks you, and then explodes itself.
 SKILL_20180320_010472	Summon a servant. The servant will grant beneficial effects while following its master. The number of buffs increases proportionally to the level of [Summon Servant].
-SKILL_20180320_010473	Applies up to #{CaptionRatio}# times{nl}1st effect [+ AoE attack ratio]{nl}2nd effect [+ SP recovery speed]{nl}3rd effect [STA recovery]{nl}4th effect [+ magic defense]{nl}5th effect [+ Dark property attack]{nl}Consumes Empty Spellbook x#{SpendItemCount}#
+SKILL_20180320_010473	Applies up to #{CaptionRatio}# times{nl}1st effect [+ AoE attack ratio]{nl}2nd effect [+ SP recovery speed]{nl}3rd effect [STA recovery]{nl}4th effect [+ Magic Defense]{nl}5th effect [+ Dark property attack]{nl}Consumes Empty Spellbook x#{SpendItemCount}#
 SKILL_20180320_010474	{#993399}{ol}[Magic] - [Dark]{/}{/}{nl}Attack enemies with a summoned devil based on the secondary card equipped in the Grimoire.
-SKILL_20180320_010475	Temporarily increases the attack speed of you and your party members by manipulating time.The effect increases up to double proportional to the caster's SPR and the target's level.
+SKILL_20180320_010475	Temporarily increases the attack speed of you and your party members by manipulating time. The effect increases up to double proportional to the caster's SPR and the target's level.
 SKILL_20180320_010476	Attack Speed: +#{CaptionRatio}#{nl}Duration:#{CaptionTime} seconds{nl}Consumes #{SpendItemCount} Time Crystal Fragment
 SKILL_20180320_010477	Duration: #{CaptionTime}# seconds{nl}Consumes #{SpendItemCount}# Time Crystal Fragment
 SKILL_20180320_010478	Magic Duration: #{CaptionTime}# seconds{nl}Consumes #{SpendItemCount}# Time Crystal Fragment
@@ -10501,20 +10501,20 @@ SKILL_20180320_010500	Giant Size Duration: #{CaptionTime}# seconds{nl}Magic Circ
 SKILL_20180320_010501	Attack: #{SkillFactor}#% x 5{nl}Consumes 1 Rune Stone{nl}Casting Time: 2 seconds
 SKILL_20180320_010502	{#993399}{ol}[Magic]{/}{/}{nl}Grants an effect that provides knockback and knockdown immunity for you.
 SKILL_20180320_010503	Duration: #{CaptionTime}# seconds{nl}Consumes 1 Rune Stone{nl}Casting Time: 2 seconds
-SKILL_20180320_010504	Grants lightning property damage buff to you and your party members and lightning property to melee and missile attacks. Additional damage to lightning property increases in proportion to the caster's INT and SPR.
-SKILL_20180320_010505	Lightning Property Additional Damage increase +#{CaptionRatio}#{nl}Duration: #{CaptionTime}# seconds{nl}Consumes #{SpendItemCount}# Inchant Round
-SKILL_20180320_010506	Block increases +#{CaptionRatio}#%{nl}Duration: 300 seconds{nl}Consumes #{SpendItemCount}# Inchant Round
-SKILL_20180320_010507	{#993399}{ol}[Magic] - [Dark]{/}{/}{nl}In the shadow of the enemy, spikes rise and attack the enemy.
-SKILL_20180320_010508	{#993399}{ol}[Magic] - [Dark]{/}{/}{nl}Draws your shadow long and forward and attacks enemies in the shadows.
-SKILL_20180320_010509	{#993399}{ol}[Magic] - [Dark]{/}{/}{nl}Extract shadows from surrounding enemies and compress them into small beads. The beads explode in 3 seconds and give damage.
+SKILL_20180320_010504	Grants a Lightning property damage buff to you and your party members. Changes melee and missile attacks to Lightning property. Additional Lightning property damage increases in proportion to the caster's INT and SPR.
+SKILL_20180320_010505	Lightning Property Additional Damage +#{CaptionRatio}#{nl}Duration: #{CaptionTime}# seconds{nl}Consumes #{SpendItemCount}# Enchant Round
+SKILL_20180320_010506	Block Chance +#{CaptionRatio}#%{nl}Duration: 300 seconds{nl}Consumes #{SpendItemCount}# Enchant Round
+SKILL_20180320_010507	{#993399}{ol}[Magic] - [Dark]{/}{/}{nl}Sharp thorns rise from within the shadow of an enemy, dealing damage.
+SKILL_20180320_010508	{#993399}{ol}[Magic] - [Dark]{/}{/}{nl}Cast your shadow outwards, dealing damage to enemies within it.
+SKILL_20180320_010509	{#993399}{ol}[Magic] - [Dark]{/}{/}{nl}Extract shadows from surrounding enemies and compress them into small beads. The beads explode after 3 seconds and inflict damage to enemies.
 SKILL_20180320_010510	Attack: #{SkillFactor}#%{nl}Physical Defense: -#{CaptionRatio}#% {nl}Removes Magic Shield and Reflect Shield{nl}Consumes 1 Bodkin Arrow
 SKILL_20180320_010511	{#DD5500}{ol}[Missile:Gun] - [Fire]{/}{/}{nl}Explodes and inflicts fire damage to enemies in front.
-SKILL_20180320_010512	Stigmatizes the enemy and gives fire magic damage. The stigmatized enemy takes 1.5 times the damage of Zaibas, and increases STR and INT temporarily when defeated.
+SKILL_20180320_010512	Engrave a stigma on the enemy and deal Fire magic damage. The stigmatized enemy takes 1.5 times damage from Zaibas, and increases the STR and INT of allies temporarily when defeated.
 SKILL_20180320_010513	{#993399}{ol}[Magic] - [Psychokinesis]{/}{/}{nl}Inflict damage on nearby enemies by separating your soul from your body to cause an explosion. Attacked enemies receive a percentage of Psychokinesis magic damage for 5 seconds.
 SKILL_20180320_010514	{#993399}{ol}[Magic] - [Psychokinesis]{/}{/}{nl}}Bind enemy to stop its movement and inflict damage.
 SKILL_20180320_010515	{#993399}{ol}[Magic] - [Holy]{/}{/}{nl}Inflicts magic property damage to enemies all around, with a chance of defeating Mutant or Demon enemies instantly.
 SKILL_20180320_010516	{#993399}{ol}[Magic] - [Fire]{/}{/}{nl}Incinerate enemies with status ailments. The duration of [Incineration] will increase depending on the amount of status ailments on enemies.
-SKILL_20180320_010517	{#DD5500}{ol}[Physical] - [Fire]{/}{/}{nl}Sets enemies of fire, inflicting Fire property damage. Your own body also catches fire, reducing your HP. Your character will not become incapable of combat from this damage.
+SKILL_20180320_010517	{#DD5500}{ol}[Physical] - [Fire]{/}{/}{nl}Sets enemies on fire, inflicting Fire property damage. Your own body also catches fire, reducing your HP. Your character will not become incapable of combat from this damage.
 SKILL_20180320_010518	Reduces 1% HP every 0.5 sec.{nl}#{SkillFactor}#% Fire damage every 0.5 sec.{nl}Duration 5 sec.
 SKILL_20180320_010519	Periodically receive Fire damage
 SKILL_20180320_010520	Absorbs enemy attacks for a period of time.
@@ -10537,9 +10537,9 @@ SKILL_20180320_010536	Deals constant earth property damage.
 SKILL_20180320_010537	Rune of Destruction: Magic Defense Destruction
 SKILL_20180320_010538	Decreased Magic Defense
 SKILL_20180320_010539	Swell Left Arm: Summons
-SKILL_20180320_010540	Increase physical, magic damage of the summons
+SKILL_20180320_010540	Increase physical and magical damage of summons.
 SKILL_20180320_010541	Swell Right Arm: Summons
-SKILL_20180320_010542	Increase physical, magic defense of the summons
+SKILL_20180320_010542	Increase physical and magical defense of summons.
 SKILL_20180320_010543	Add. Holy Property Damage
 SKILL_20180320_010544	Fixed
 SKILL_20180320_010545	Provoke Immunity
@@ -10582,7 +10582,7 @@ SKILL_20180320_010581	* Increases the damage dealt on an enemy with [Bash] by 0.
 SKILL_20180320_010582	* Increases the damage dealt on an enemy with [Thrust] by 0.5% per attribute level{nl}* +10% added damage at maximum level
 SKILL_20180320_010583	* Increases the damage dealt on an enemy with [Pommel Beat] by 0.5% per attribute level{nl}* +10% added damage at maximum level
 SKILL_20180320_010584	* Increases the damage dealt on an enemy with [Double Slash] by 0.5% per attribute level{nl}* +10% added damage at maximum level
-SKILL_20180320_010585	*Increases the damage dealt on an enemy with [Rim Blow] by 0.5% per attribute level{nl}* +10% added damage at maximum level
+SKILL_20180320_010585	* Increases the damage dealt on an enemy with [Rim Blow] by 0.5% per attribute level{nl}* +10% added damage at maximum level
 SKILL_20180320_010586	* Increases the damage dealt on an enemy with [Umbo Blow] by 0.5% per attribute level{nl}* +10% added damage at maximum level
 SKILL_20180320_010587	* Increases the damage dealt on an enemy with [Shield Lob] by 0.5% per attribute level{nl}* +10% added damage at maximum level
 SKILL_20180320_010588	* Increases the damage dealt on an enemy with [Butterfly] by 0.5% per attribute level{nl}* +10% added damage at maximum level
@@ -10692,16 +10692,16 @@ SKILL_20180320_010691	* Increases the damage dealt on an enemy with [Te Trong] b
 SKILL_20180320_010692	* Increases the damage dealt on an enemy with [Khao Loi] by 0.5% per attribute level{nl}* +10% added damage at maximum level
 SKILL_20180320_010693	* Increases the damage dealt on an enemy with [Energy Bolt] by 0.5% per attribute level{nl}* +10% added damage at maximum level
 SKILL_20180320_010694	Magic Shield: SPR Efficiency
-SKILL_20180320_010695	* SP consumption of [Magic Shield] decreases by [attribute level * SPR]%
+SKILL_20180320_010695	* SP consumption of [Magic Shield] per hit decreases by [attribute level]% of your SPR
 SKILL_20180320_010696	* Increases the damage dealt on an enemy with [Earthquake] by 0.5% per attribute level{nl}*+10% added damage at maximum level
 SKILL_20180320_010697	* Increases the damage dealt on an enemy with [Magic Missile] by 0.5% per attribute level{nl}*+10% added damage at maximum level
 SKILL_20180320_010698	Lethargy: Strike Speciality
 SKILL_20180320_010699	Earthquake: Remove Knockdown
-SKILL_20180320_010700	* Removes Knockdown of [Earthquake]{nl} Increases SP consumption by 10%
+SKILL_20180320_010700	* Removes knockdown of [Earthquake]{nl} Increases SP consumption by 10%
 SKILL_20180320_010701	Lethargy: Tile Speciality
-SKILL_20180320_010702	* Magic Tile Damage on enemies afflicted with [Lethargy] increases by 3% per attribute level
+SKILL_20180320_010702	* Magic circle damage on enemies afflicted with [Lethargy] increases by 3% per attribute level
 SKILL_20180320_010703	Sleep: Dream Eater
-SKILL_20180320_010704	* Limit of attacks of [Sleep] decreases 80% (min. 1 time){nl}* Enemies affected by [Sleep] will receive 200% damage from Non-Property and Psychokinesis magic attack
+SKILL_20180320_010704	* Limit of attacks of [Sleep] decreases by 80% (min. 1 time){nl}* Enemies affected by [Sleep] will receive 200% damage from Non-Property and Psychokinesis magic attacks
 SKILL_20180320_010705	* Increases the damage dealt on an enemy with [Fireball] by 0.5% per attribute level{nl}*+10% added damage at maximum level
 SKILL_20180320_010706	* Increases the damage dealt on an enemy with [Fire Wall] by 0.5% per attribute level{nl}*+10% added damage at maximum level
 SKILL_20180320_010707	* Increases the damage dealt on an enemy with [Flare] by 0.5% per attribute level{nl}*+10% added damage at maximum level
@@ -10739,18 +10739,18 @@ SKILL_20180320_010738	* Increases duration time of [Heavy Gravity] by 1 second p
 SKILL_20180320_010739	Joint Penalty: Earth
 SKILL_20180320_010740	* Deals 10% additional damage per attribute level of the Earth property attack to enemies affected by [Joint Penalty]{nl}* Increases SP consumption by 10%
 SKILL_20180320_010741	Spiritual Chain: Enhance
-SKILL_20180320_010742	* Magic damages of characters linked by [Spiritual Chain] increases by 3% per attribute level{nl}* Increases SP consumption by 30%
+SKILL_20180320_010742	* Magic damage of characters linked by [Spiritual Chain] increases by 3% per skill level{nl}* Increases SP consumption by 30%
 SKILL_20180320_010743	Spirit Shock: Enhance
 SKILL_20180320_010744	* Increases the damage dealt on an enemy with [Spirit Shock] by 0.5% per attribute level{nl}* +10% added damage at maximum level
 SKILL_20180320_010745	Spirit Shock: Confusion
-SKILL_20180320_010746	* Enemies hit by [Spirit Shock] have 5% chances per attribute level of being afflicted by [Confusion]{nl}* Increases SP consumption by 20%
+SKILL_20180320_010746	* Enemies hit by [Spirit Shock] have a 5% chance per attribute level of being afflicted with [Confusion]{nl}* Increases SP consumption by 20%
 SKILL_20180320_010747	Spirit Shock: Mental Pressure
 SKILL_20180320_010748	* Magic defense of enemies hit by [Spirit Shock] decreases by 25%{nl}* Additional damage increases by the difference of SPR between the attacker's and target's{nl}* Additional damage does not exceed max. 300%{nl}* Increases SP consumption by 50%
 SKILL_20180320_010749	* Increases defense and subweapon attack increase effect of [Swell Right Arm] by 1% per attribute level
 SKILL_20180320_010750	Swell Brain: Fast Operation
 SKILL_20180320_010751	* Casting [Swell Brain] activates same-level [Quick Cast] for 3 seconds per attribute level{nl}* Level of [Quick Cast] is irrelevant; applies only to the caster{nl}* Increases SP consumption by 200%
-SKILL_20180320_010752	* [Swell Left Arm] increases physical and magic attack of your summons by 1% per attribute level
-SKILL_20180320_010753	* [Swell Right Arm] increases physical and magic defense of your summons by 1% per attribute level
+SKILL_20180320_010752	* [Swell Left Arm] increases physical and magic damage dealt by your own summons by 1% per attribute level
+SKILL_20180320_010753	* [Swell Right Arm] increases physical and magic defense of your own summons by 5% per attribute level
 SKILL_20180320_010754	* Increases the damage dealt on an enemy with [Prominence] by 0.5% per attribute level{nl}* +10% added damage at maximum level
 SKILL_20180320_010755	* Increases the damage dealt on an enemy with [Hail] by 0.5% per attribute level{nl}* +10% added damage at maximum level
 SKILL_20180320_010756	* Increases the damage dealt on an enemy with [Electrocute] by 0.5% per attribute level{nl}* +10% added damage at maximum level
@@ -10763,7 +10763,7 @@ SKILL_20180320_010762	Storm Dust: Enhance
 SKILL_20180320_010763	* Increases the damage dealt on an enemy with [Storm Dust] by 0.5% per attribute level{nl}*+10% added damage at maximum level
 SKILL_20180320_010764	Storm Dust: Slow
 SKILL_20180320_010765	* Movement speed of enemies in range of [Storm Dust] decreases by 2 per attribute level
-SKILL_20180320_010766	Storm Dust: Humpback
+SKILL_20180320_010766	Storm Dust: Second Storm
 SKILL_20180320_010767	* Enemies in range of [Storm Dust] when the skill is finished take [Storm Dust] damage for an extra 1.5 seconds per attribute level
 SKILL_20180320_010768	Meteor: Flame Ground
 SKILL_20180320_010769	* Enemies on [Flame Ground] take 5 consecutive hits by [Meteor]
@@ -10773,7 +10773,7 @@ SKILL_20180320_010772	* Increases the damage dealt on an enemy with [Evocation] 
 SKILL_20180320_010773	* Increases the damage dealt on an enemy with [Desmodus] by 0.5% per attribute level{nl}* +10% added damage at maximum level
 SKILL_20180320_010774	Summoning: Devil of Fire and Ice
 SKILL_20180320_010775	* When the Devil summoned by [Summoning] has Fire or Ice property, magic damage of corresponding property skill increases by 5% per attribute level{nl}* Increases SP consumption by 50%
-SKILL_20180320_010776	* Increases the critical rate effect from [Quicken] by 5% and decreases evasion by 2% per attribute level{nl}Effect increases up to 2 times in proportion to caster's SPR and target's level{nl}* Increases SP consumption by 30%
+SKILL_20180320_010776	* [Quicken] increases critical rate by 15 per attribute level and decreases evasion by 20 per attribute level{nl}Effect increases up to 2 times in proportion to caster's SPR and target's level{nl}* Increases SP consumption by 30%
 SKILL_20180320_010777	* Increases your evasion by 15 per attribute level{nl}* Effect increases up to 2 times in proportion to caster's SPR and target's level{nl}* Increases SP consumption by 10%
 SKILL_20180320_010778	* Increases the damage dealt on an enemy with [Gather Corpse] by 0.5% per attribute level{nl}* +10% added damage at maximum level
 SKILL_20180320_010779	* Increases the damage dealt on an enemy with [Flesh Cannon] by 0.5% per attribute level{nl}* +10% added damage at maximum level
