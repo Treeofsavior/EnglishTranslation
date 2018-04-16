@@ -6207,7 +6207,7 @@ SKILL_20160224_006206	{#993399}{ol}[Magic]{/}{/}{nl}Stabs an enemy with a cursed
 SKILL_20160224_006207	Attack: 400% + #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Consumes 1 Rune Stone{nl}Casting Time: 8 seconds
 SKILL_20160224_006208	{#993399}{ol}[Magic]{/}{/}All Ice-type magic cast by you and party members except for deployment magic will be stronger for a given duration.
 SKILL_20160224_006209	Attack: #{CaptionTime}# seconds{nl}Increases Ice-property skill attack by 300%{nl}Consumes 1 Rune Stone{nl}Casting Time: 8 seconds
-SKILL_20160224_006210	{#993399}{ol}[Magic]{/}{/}Creates a temporary magic circle that will turn you and your allies into a giant. Giant players are considered large-type and will have their HP and defense increased. Limited usage of skills.
+SKILL_20160224_006210	{#993399}{ol}[Magic]{/}{/}Creates a temporary magic circle that will turn you or your allies into a giant. Giant players are considered large-type and will have their HP and defense increased. Limited usage of skills.
 SKILL_20160224_006211	Giant Size Duration: #{CaptionTime}# seconds{nl}Magic Circle Duration: 10 seconds{nl}Defense, Maximum HP: +#{CaptionRatio}#%{nl}Movement Speed: +#{CaptionRatio2}#{nl}Consumes 1 Rune Stone{nl}Casting Time: 8 seconds
 SKILL_20160224_006212	{#993399}{ol}[Magic]{/}{/}Charges a frontal divine magic attack unleashed in a straight line.
 SKILL_20160224_006213	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Consumes 1 Rune Stone{nl}Casting Time: 8 seconds
@@ -6813,7 +6813,7 @@ SKILL_20161005_006812	Max. HP decreased. Continuous HP recovery.
 SKILL_20161005_006813	Fire, Ice and Lightning property resistance increased.
 SKILL_20161005_006814	Reduces your SPR and INT while doubling your SP consumption. Additional damage equal to your magic attack will be received.
 SKILL_20161005_006815	Disenchant: Neutralize Gear
-SKILL_20161005_006816	Partially nullifies the defenstive stats from equipment.
+SKILL_20161005_006816	Partially nullifies defensive stats gained from equipment.
 SKILL_20161005_006817	Malleus Maleficarum: Mana Burn
 SKILL_20161005_006818	Increased Lightning Attack.
 SKILL_20161005_006819	Increased maximum SP. Increased Character Level.
@@ -6845,7 +6845,7 @@ SKILL_20161005_006844	SP amount and SP Recovery increased.
 SKILL_20161005_006845	HP Increased State
 SKILL_20161005_006846	HP amount, defense and magic defense increased.
 SKILL_20161005_006847	Manahas' Protection
-SKILL_20161005_006848	Adds 110 ice property damage to your attack.
+SKILL_20161005_006848	Adds an additional hit of 110 Ice property damage to basic attacks.
 SKILL_20161005_006849	Champagne
 SKILL_20161005_006850	Increased AoE ratio.
 SKILL_20161005_006851	Instanced Clear Voucher Barrier
@@ -7346,7 +7346,7 @@ SKILL_20170313_007345	Manipulate time to make a monster reappear on the same spo
 SKILL_20170313_007346	Attack #{SkillAtkAdd}#{nl}Attribute attack #{CaptionRatio}#%{nl}Stigma duration 20 seconds
 SKILL_20170313_007347	{#993399}{ol}[Magic]{/}{/}{nl}Inflicts powerful damage to enemies in a targeted area. The attacked enemies will deal additional damage to other enemies by reflecting magic.
 SKILL_20170313_007348	{#993399}{ol}[Magic]{/}{/}{nl}All Ice-type magic cast by you and party members except for deployment magic will be stronger for a given duration.
-SKILL_20170313_007349	{#993399}{ol}[Magic]{/}{/}{nl}Creates a temporary magic circle that will turn you and your allies into a giant. Giant players are considered large-type and will have their HP and defense increased. Limited usage of skills.
+SKILL_20170313_007349	{#993399}{ol}[Magic]{/}{/}{nl}Creates a temporary magic circle that will turn you or your allies into a giant. Giant players are considered large-type and will have their HP and defense increased. Limited usage of skills.
 SKILL_20170313_007350	{#993399}{ol}[Magic]-[Holy]{/}{/}{nl}Unleashes a divine magic attack in a straight line.
 SKILL_20170313_007351	{#993399}{ol}[Magic]{/}{/}{nl}Increases the chance of resistance of you and your party members against status ailments.
 SKILL_20170313_007352	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Duration: #{CaptionTime}# seconds{nl}Consumes #{SpendPoison}# Poison Pot Poison
@@ -7542,7 +7542,7 @@ SKILL_20170313_007541	* Increases damage dealt with [Helm Chopper] by 1% per att
 SKILL_20170313_007542	* Increases damage dealt with [Seism] by 1% per attribute level
 SKILL_20170313_007543	* Increases damage dealt with [Cleave] by 1% per attribute level
 SKILL_20170313_007544	* Enemies hit by [Pouncing] have a 8% chance per attribute level of being knocked down{nl}* Increases SP consumption by 5{nl}* Increases cooldown time by 5 seconds
-SKILL_20170313_007545	Activates Wild Nature buff for barbarian skills while dashing.
+SKILL_20170313_007545	Activates Wild Nature buff for Barbarian skills while dashing.{nl}* Wild Nature Buff: Increases Barbarian skill damage by{nl}    6% per stack{nl}    Adds additional effects for each skill{nl}* Embowel: Adds [Stun] debuff for 2 seconds per stack{nl}    (Reduced to 1/4 duration in PVP){nl}* Stomping Kick: Increases range by 2 per stack{nl}* Cleave: Increases the critical rate of [Cleave] by 10 per{nl}    stack{nl}* Helm Chopper: Increases the chance of inflicting [Stun]{nl}    by 7% per stack{nl}* Seism: If at 5 stacks, increases number of hits from 3 -> 5{nl}* Giant Swing: Increases damage gain per stack for{nl}    [Giant Swing] from Wild Nature by 2x{nl}* Pouncing: Increases chance of additional damage on{nl}    enemies with [Stun] by 6%
 SKILL_20170313_007546	Wild Nature: Duration
 SKILL_20170313_007547	* Increases Wild Nature buff duration by 5 seconds
 SKILL_20170313_007548	Warcry: Debuff Duration
@@ -8438,8 +8438,8 @@ SKILL_20170420_008437	Attack: #{SkillFactor}#%{nl}Duration: #{CaptionRatio}# sec
 SKILL_20170420_008438	Attack: #{SkillFactor}#% x 5{nl}AoE Attack Ratio: #{SkillSR}#{nl}Able to use while riding
 SKILL_20170420_008439	Attack: #{SkillFactor}#%{nl}AoE Attack Ratio: #{SkillSR}#{nl}Able to use while riding
 SKILL_20170420_008440	#{SkillFactor}#% Attack per 0.3 seconds{nl}Maximum Duration: 10 seconds{nl}AoE Attack Ratio: #{SkillSR}#{nl}Able to use while riding{nl}Consumes #(CaptionRatio3} SP per 0.3 seconds
-SKILL_20170420_008441	Increases Attack by [Skill Lv.] x [Weapon Item Lv.] x [Weapon Grade]{nl} Attack Count: #{CaptionRatio2}#{nl}Duration: 1 hour
-SKILL_20170420_008442	Increases Defense by [Skill Lv.] + [Equipment Item Lv.] x [Equipment Grade]{nl} Defense Count: #{CaptionRatio2}# {nl}Duration: 1 hour
+SKILL_20170420_008441	Increases Attack by [Skill Level] + [Weapon Item Level] x [Weapon Grade]{nl} Attack Count: #{CaptionRatio2}#{nl}Duration: 1 hour
+SKILL_20170420_008442	Increases Defense by [Skill Level] + [Equipment Item Level] x [Equipment Grade]{nl} Defense Count: #{CaptionRatio2}# {nl}Duration: 1 hour
 SKILL_20170420_008443	Attack: #{SkillFactor}#% x #{CaptionRatio}#
 SKILL_20170420_008444	{#DD5500}{ol}[Physical] - [Slash]{/}{/} {#7AE4FF}{ol}[{img tooltip_speedofatk}Attack Speed]{/}{/}{nl}As you spin, attack an enemy repeatedly using a weapon in each hand. The enemy will be immobilized temporarily.
 SKILL_20170420_008445	{#DD5500}{ol}[Physical] - [Pierce]{/}{/} {#7AE4FF}{ol}[{img tooltip_speedofatk}Attack Speed]{/}{/}{nl}Use a weapon in each hand to deal successive strikes on an enemy.
@@ -9512,7 +9512,7 @@ SKILL_20170726_009511	Obtain a reward by maintaining the First Blow buff.
 SKILL_20170726_009512	Property resistance / Property attack
 SKILL_20170726_009513	Kite Moor Set
 SKILL_20170726_009514	Shock Boom Effect
-SKILL_20170726_009515	Frienoet
+SKILL_20170726_009515	Frieno Set
 SKILL_20170726_009516	Stack Defense Increase
 SKILL_20170726_009517	Pasiuteset
 SKILL_20170726_009518	Stack Defense Check
@@ -10427,7 +10427,7 @@ SKILL_20180320_010426	Create a protective shield that absorbs enemy's attack. 1%
 SKILL_20180320_010427	Damage reduction 20%{nl}Duration: #{CaptionTime}# seconds{nl}Applies #{CaptionRatio}# times
 SKILL_20180320_010428	{#993399}{ol}[Magic] - [Earth]{/}{/}{nl} Inflicts damage on an enemy by creating a powerful earthquake in front of you.
 SKILL_20180320_010429	Targets (excluding caster) #{CaptionRatio}#{nl}Duration 300 sec
-SKILL_20180320_010430	{#993399}{ol}[Magic] - [Fire]{/}{/}{nl}Summons fireball at the targeted area. Enemies touching the fireball will receive continuous Fire damage. [Fireball] will not hit the same enemies twice. Summons up to 5 fireballs.
+SKILL_20180320_010430	{#993399}{ol}[Magic] - [Fire]{/}{/}{nl}Summons a fireball at the targeted area. Enemies that touch the fireball will receive Fire damage. [Fireball] will not hit the same enemies twice. Up to 5 fireballs can be summoned.
 SKILL_20180320_010431	{#993399}{ol}[Magic] - [Fire]{/}{/}{nl}Creates a wall of flames that continuously damages approaching enemies.
 SKILL_20180320_010432	Attack: #{SkillFactor}#% x 5{nl}8 Fire Wall {nl}Duration 15 sec
 SKILL_20180320_010433	Temporarily grants Fire property to your attacks.
@@ -10712,7 +10712,7 @@ SKILL_20180320_010711	* Enemies hit by [Fireball] have a 10% chance per attribut
 SKILL_20180320_010712	* When equipped with [Staff], fire property magic attack increases by 5% per attribute level 
 SKILL_20180320_010713	* Increases the damage dealt on an enemy with [Flame Ground] by 0.5% per attribute level{nl}* +10% added damage at maximum level
 SKILL_20180320_010714	Flame Ground: Diffusion
-SKILL_20180320_010715	* Enemies in range of [Flame Ground] become afflicted with [Heat]{nl}* Fire property resistance of enemies afflicted with [Heat] decreases by 50%{nl}Enemies afflicted with [Heat] can be attacked with [Flare]{nl}* Increases SP consumption by 10%
+SKILL_20180320_010715	* Enemies in range of [Flame Ground] become afflicted with [Heat]{nl}* Fire property resistance of enemies afflicted with [Heat] decreases by 50{nl}* Enemies afflicted with [Heat] can be attacked with [Flare]{nl}* Increases SP consumption by 10%
 SKILL_20180320_010716	Fire Wall: Knockback
 SKILL_20180320_010717	* Knocks back enemies hit by [Fire Wall]
 SKILL_20180320_010718	Fireball: Residual Heat
