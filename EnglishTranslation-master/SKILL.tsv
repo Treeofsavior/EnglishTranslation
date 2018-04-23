@@ -6508,10 +6508,10 @@ SKILL_20161005_006507	Zwerchhau
 SKILL_20161005_006508	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Swings the sword in one hand to attack a wide range of enemies. The targets that do not have plate defense type become more vulnerable to slash type attacks.
 SKILL_20161005_006509	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}AoE Attack Ratio: #{SkillSR}#{nl}Duration: #{CaptionTime}# seconds
 SKILL_20161005_006510	Sturtzhau
-SKILL_20161005_006511	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Strike in a diagonal way. The attack ignore a portion of the enemy defense.
-SKILL_20161005_006512	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}AoE Attack Ratio: #{SkillSR}#{nl}Ignores enemy defense: #{CaptionRatio2}#
+SKILL_20161005_006511	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Strike with your weapon in a diagonal. The attack ignores a portion of enemy defense.
+SKILL_20161005_006512	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}AoE Attack Ratio: #{SkillSR}#{nl}Ignores Enemy Defense: #{CaptionRatio2}#
 SKILL_20161005_006513	Balestra Fente
-SKILL_20161005_006514	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Charges forward. The attack decreases the enemy crit resistance.
+SKILL_20161005_006514	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Charges forward. The attack decreases enemy critical resistance.
 SKILL_20161005_006515	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Max. Targets: 10
 SKILL_20161005_006516	Attaque au Fer
 SKILL_20161005_006517	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Strikes the enemy hands to drop their weapons with a rapier. The enemy cannot get the effect of the weapon until they pick it up. (The enemy picks up the weapon automatically after duration.) 
@@ -6521,15 +6521,15 @@ SKILL_20161005_006520	Critical Attack Increment: #{CaptionRatio}#%{nl}Duration: 
 SKILL_20161005_006521	Flash
 SKILL_20161005_006522	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Stabs the enemy three times.
 SKILL_20161005_006523	Cassis Crista
-SKILL_20161005_006524	Murmillo wears the Cassis Crista and prepares for the battle. Once the helmet is equipped, Murmillo skills can be used and a chance to avoid enemy missile or magic attacks increases. Use the skill again to unequip the helmet.
+SKILL_20161005_006524	Equip your Cassis Crista and prepare for battle as a Murmillo. While the helmet is equipped, Murmillo skills can be used and the chance to avoid enemy melee, missile, and magic attacks increases. Use the skill again to remove the helmet.
 SKILL_20161005_006525	Frenzied Slash
-SKILL_20161005_006526	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Jumps up in the air and strikes the foes on the ground. The enemies get stunned.
+SKILL_20161005_006526	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Perform a large leap forwards and strike foes on the ground. Enemies hit are temporarily stunned.
 SKILL_20161005_006527	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Number of Targets#{CaptionRatio2}#{nl}Able to use while wearing the helmet
 SKILL_20161005_006528	Evade Thrust
-SKILL_20161005_006529	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Lunges the sword at the enemy's neck while defending one's self behind the shield.
+SKILL_20161005_006529	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Lunges the sword at the enemy's neck while defending one's self behind the shield. Immediately after using the attack, you will receive slightly decreased magic damage and your block chance will be increased for a short time.
 SKILL_20161005_006530	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}AoE Attack Ratio: #{SkillSR}#{nl}Able to use while wearing the helmet
 SKILL_20161005_006531	Headbutt
-SKILL_20161005_006532	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Headbutt the target and turn the target around. There is a chance for enemies getting stunned and if you are not equipped with a helmet, you might too.
+SKILL_20161005_006532	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Headbutt an enemy and turn them around. Has a chance to stun enemies, and you as well if you are not wearing your helmet. Deals additional damage to enemies that are stunned.
 SKILL_20161005_006533	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}{#339999}{ol}[Stun]{/}{/}Duration: #{CaptionTime}# seconds
 SKILL_20161005_006534	Take Down
 SKILL_20161005_006535	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Take down the enemy with a protected arm to deal damage.
@@ -9828,7 +9828,7 @@ SKILL_20171128_009827	Evasion: +100{nl}Duration: #{CaptionRatio}# seconds{nl}Lev
 SKILL_20171128_009828	Sentence to the enemy to death. The damage to the target is greatly increased, but when the effect ends and if the target is alive, then accumulated damage is returned to the caster.
 SKILL_20171128_009829	Additional Damage: {CaptionRatio}#%{nl}Returned Damage: #{CaptionRatio2}#%{nl}Enemies Affected: 5{nl}Duration: 10 seconds
 SKILL_20171128_009830	Duration 25 seconds{nl}Applies #{CaptionRatio}# times
-SKILL_20171128_009831	Summons a moving magic circle in front. Characters moving inside the circle will not receive damage and will have accuracy on all attacks.
+SKILL_20171128_009831	Summons a moving magic circle in front of you. Characters that are actively moving while inside the circle will not receive damage and their attacks cannot be evaded.
 SKILL_20171128_009832	Magic Circle Movement Speed: #{CaptionRatio}#%{nl}Duration: #{CaptionTime}# seconds
 SKILL_20171128_009833	Methadone
 SKILL_20171128_009834	Grants an effect that provides knockdown, knockback, and casting interruption immunity for you and your party members. Damage taken from enemies is increased by 20%.
@@ -10163,7 +10163,7 @@ SKILL_20171128_010162	* Increases God Smash damage on Demon enemies by 10% per a
 SKILL_20171128_010163	Divine Punishment: Enhance 
 SKILL_20171128_010164	* Increases damage dealt with [Divine Punishment] by 0.5% per attribute level
 SKILL_20171128_010165	Storm Calling: Zaibas
-SKILL_20171128_010166	* If the caster has learned [Zaibas], automatically casts [Zaibas] in the location of [Storm Calling] when it is triggered{nl}* Increases SP consumption by 50%
+SKILL_20171128_010166	* If the caster has learned [Zaibas], automatically casts [Zaibas] at the location of [Storm Calling] when it is placed{nl}* Increases SP consumption by 50%
 SKILL_20171128_010167	Immolation: Fire Property Attack
 SKILL_20171128_010168	* Increases Fire property attack by 100 per attribute level when using Immolation{nl}* Increases SP consumption by 20%
 SKILL_20171128_010169	Immolation: Enhance
@@ -10272,8 +10272,8 @@ SKILL_20180208_010271	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Hit the enemy 
 SKILL_20180208_010272	Attack: #{SkillFactor}#%{nl}+50% increased damage to Flying type enemies{nl}Can be used after adopting the Ram Muay stance.
 SKILL_20180208_010273	Attack: #{SkillFactor}#%{nl}Duration #{CaptionRatio2}# sec{nl}AoE ratio #{SkillSR}#
 SKILL_20180208_010274	Attack: #{SkillFactor}#%{nl}AoE Ratio #{SkillSR}#{nl}Increased damage to enemies under {#339999}{ol}[Curse]{/}{/}
-SKILL_20180208_010275	Allows you to attack while moving quickly. Attack speed and damage of basic attacks are increased, changing it to 2 consecutive hits.
-SKILL_20180208_010276	Additional Damage:#{SkillFactor}#%{nl}Duration #{CaptionTime}# sec{nl}Basic attack speed +10%
+SKILL_20180208_010275	Allows you to attack while moving quickly. The attack speed and damage of basic attacks is increased while also inflicting 2 consecutive hits.
+SKILL_20180208_010276	Additional Damage: #{SkillFactor}#%{nl}Duration: #{CaptionTime}# sec{nl}Basic Attack Speed +10%
 SKILL_20180208_010277	When mounted, boosts you mobility to shoot the enemies rapidly. While Limacon effects are active, pistol attack becomes available.
 SKILL_20180208_010278	Set up a roost where the hawk can sit. The hawk will wait for the owner's order on the roost. The damage of Falconer skills is increased around the roost. The roost disappears when you move away from it.
 SKILL_20180208_010279	Range: #{CaptionRatio}#{nl}Roost Duration: #{CaptionRatio2}# sec{nl}Falconer skill damage +50%
@@ -10288,14 +10288,14 @@ SKILL_20180208_010287	Attack: #{SkillFactor}#% x6{nl}+50% damage to Beast type e
 SKILL_20180208_010288	The hawk automatically attacks enemies near its master. It targets enemies that its master attacks with Sonic Strike and oncoming enemies with Hovering. The damage of Hovering and Sonic Strike used through Pre-Emptive Strike increase in proportion to skill level. The hawk cannot use unlearned skills. Continuously consumes SP, and the effect cancels if low on SP.
 SKILL_20180208_010289	Consume #{CaptionRatio}# SP per 5 sec{nl}+#{CaptionRatio2}#% increased damage for Hovering and Sonic Strike
 SKILL_20180208_010290	Attack: #{SkillFactor}#% x4{nl}Number of targets: 8
-SKILL_20180208_010291	{#DD5500}{ol}[Missile: Gun]{/}{/}{nl}Your minimum attack increases gradually, and the longer you keep the position, the more your attack increases. Movement speed is decreased and you cannot shoot while moving. The duration of the buff when hit by an enemy decreases by 1 sec. Charge time will not be lower than 0.4 sec.
-SKILL_20180208_010292	Full charge time: #{CaptionRatio}#sec{nl}Duration: 30 sec{nl}Equals to maximum attack power when fully charged{nl}Critical damage +50% when fully charged{nl}Movement speed fixed to 10
+SKILL_20180208_010291	{#DD5500}{ol}[Missile: Gun]{/}{/}{nl}Increase your minimum attack gradually. The longer you charge, the more your attack increases. Your movement speed is decreased and you cannot shoot while moving. The duration of the buff decreases by 1 second when hit by an enemy. Full charge time cannot be lower than 0.4 sec.
+SKILL_20180208_010292	Full Charge Time: #{CaptionRatio}# sec{nl}Duration: 30 sec{nl}Equals maximum attack power when fully charged{nl}Critical damage +50% when fully charged{nl}Movement speed fixed to 10
 SKILL_20180208_010293	Prime and Load
-SKILL_20180208_010294	Resets the cooldown of certain Musketeer attack skills. Cooldown of Prime and Load increases in proportion to reset skills. Cooldown reduction effect cannot be applied to Prime and Load.
+SKILL_20180208_010294	Resets the cooldown of certain Musketeer attack skills. The cooldown of Prime and Load increases in proportion to the skills reset. Cooldown reduction effects cannot be applied to Prime and Load.
 SKILL_20180208_010295	Additional cooldown per skill{nl}Covering Fire +5 sec{nl}Penetration Shot +5 sec{nl}Volleyfire +5 sec{nl}Headshot +10 sec{nl}Birdfall +10 sec{nl}Snipe +10 sec
 SKILL_20180208_010296	Grooving Muzzle
-SKILL_20180208_010297	Enhances the Musket's steel wire to increase accuracy and penetration when using the Musket. Grooving Muzzle makes basic attacks critical and has a chance to change them into consecutive hits.
-SKILL_20180208_010298	Accuracy +100{nl}Ignores 15% of enemy defense{nl}30% chance of 3 consecutive hits{nl}100% chance of critical attack of 3 consecutive hits{nl}Duration: #{CaptionTime}# sec
+SKILL_20180208_010297	Enhances your musket's steel wire to increase its accuracy and penetration. While active, Grooving Muzzle provides a chance to make basic attacks critically hit and to change them into consecutive hits.
+SKILL_20180208_010298	Accuracy +100{nl}Ignore 15% of enemy defense{nl}30% chance of 3 consecutive hits{nl}100% chance of critical attack on the 3 consecutive hits{nl}Duration: #{CaptionTime}# sec
 SKILL_20180208_010299	Set up a shop to identify unidentified items. The chances of obtaining more sockets, higher potential and the number of item options increase with the skill level.
 SKILL_20180208_010300	Increased chance of additional sockets{nl}Increased chance of additional potential{nl}Increased chance of additional item stats
 SKILL_20180208_010301	Chace of Devaluation: #{CaptionTime}#%{nl}Targets: #{CaptionRatio}#{nl}Monster physical and magic attack decreased #{CaptionRatio2}#%{nl}Monster physical and magic defense reduced#{CaptionRatio3}#%{nl}Monster duration: 120 sec{nl}Character duration: 20 sec
@@ -10649,7 +10649,7 @@ SKILL_20180320_010648	* Increases the damage dealt on an enemy with [Zornhau] by
 SKILL_20180320_010649	* Increases the damage dealt on an enemy with [Redel] by 0.5% per attribute level{nl}* +10% added damage at maximum level
 SKILL_20180320_010650	* Increases the damage dealt on an enemy with [Zucken] by 0.5% per attribute level{nl}* +10% added damage at maximum level
 SKILL_20180320_010651	* Increases the damage dealt on an enemy with [Zwerchhau] by 0.5% per attribute level{nl}* +10% added damage at maximum level
-SKILL_20180320_010652	* Increases the damage dealt on an enemy with [Sturzhau] by 0.5% per attribute level{nl}* +10% added damage at maximum level
+SKILL_20180320_010652	* Increases the damage dealt on an enemy with [Sturtzhau] by 0.5% per attribute level{nl}* +10% added damage at maximum level
 SKILL_20180320_010653	* Increases the damage dealt on an enemy with [Attaque Composee] by 0.5% per attribute level{nl}* +10% added damage at maximum level
 SKILL_20180320_010654	* Increases the damage dealt on an enemy with [Lunge] by 0.5% per attribute level{nl}* +10% added damage at maximum level
 SKILL_20180320_010655	* Increases the damage dealt on an enemy with [Sept Etoiles] by 0.5% per attribute level{nl}* +10% added damage at maximum level
