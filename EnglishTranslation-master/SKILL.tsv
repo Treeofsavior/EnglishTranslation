@@ -1844,7 +1844,7 @@ SKILL_20150317_001843	Decreased STR
 SKILL_20150317_001844	Holiness
 SKILL_20150317_001845	Added Holy attack
 SKILL_20150317_001846	Decreased defense
-SKILL_20150317_001847	Agility is temporarily increased significantly
+SKILL_20150317_001847	Dexterity is temporarily increased significantly.
 SKILL_20150317_001848	Spirit attack: defense decrease
 SKILL_20150317_001849	Flame attack increased.
 SKILL_20150317_001850	Increased Pierce damage
@@ -8656,7 +8656,7 @@ SKILL_20170420_008655	{#DD5500}{ol}[Physical] - [Strike]{/}{/} {#7AE4FF}{ol}[{im
 SKILL_20170420_008656	{#DD5500}{ol}[Physical] - [Strike]{/}{/} {#7AE4FF}{ol}[{img tooltip_speedofatk} Attack Speed]{/}{/}{nl}Extend your fist from a close distance to destroy the insides of an enemy. The attacked enemy will steadily lose HP and SP.
 SKILL_20170420_008657	Attack per Hit: #{SkillFactor}#%{nl}Consumes #{CaptionRatio3}# SP per second
 SKILL_20170420_008658	Attack: #{SkillFactor}#%{nl}Consumes #{CaptionRatio2}# Silver
-SKILL_20170420_008659	Attack: #{SkillFactor}#%{nl}Target #{CaptionRatio}#{nl}Heal all party members{nl}Heal #{CaptionRatio}# allies{nl}Uses 500 silver
+SKILL_20170420_008659	Attack: #{SkillFactor}#%{nl}Attacks #{CaptionRatio}# enemies{nl}Cures all party members{nl}Cures #{CaptionRatio}# other allies{nl}Uses 500 silver
 SKILL_20170420_008660	Attack: #{SkillFactor}#%{nl}Consumes #{CaptionRatio}# Silver
 SKILL_20170420_008661	Penetrate into the mind of an enemy in front of you to control it.
 SKILL_20170420_008662	Transform into a monster of the Animal-type, Plant-type or Insect-type in front of you for a given duration.
@@ -10467,7 +10467,7 @@ SKILL_20180320_010466	Attack: #{SkillFactor}#%{nl}Creates 4 over #{CaptionRatio}
 SKILL_20180320_010467	Duration: #{CaptionTime}# seconds{nl}Chance of doubling the duration: #{CaptionRatio}#%{nl}Movement Speed: -10%{nl}Additional {#DD5500}{ol}Lightning{/}{/}Property Damage: +35%{nl}Attack on {#DD5500}{ol}Fire{/}{/}Property Targets: #{SkillFactor}#%
 SKILL_20180320_010468	Storm Dust
 SKILL_20180320_010469	{#993399}{ol}[Magic] - [Earth]{/}{/}{nl}Creates sand storm at the target area. Enemies in range of [Storm Dust] takes continuous Earth property damage. Flying-type enemies takes a half of normal damage.
-SKILL_20180320_010470	Ride the summoned devil from the Grimoire and take control of it. When mounted on the devil, its physical and magic attack increases and the damage taken decreases proportionally to the riding character's magic attack.
+SKILL_20180320_010470	Ride the summoned devil from the Grimoire and take control of it. While mounted on the devil, your damage taken decreases.
 SKILL_20180320_010471	{#993399}{ol}[Magic] - [Dark]{/}{/}{nl}Summon a familiar. The familiar rushes to an enemy that you attack or that attacks you, and then explodes itself.
 SKILL_20180320_010472	Summon a servant. The servant will grant beneficial effects while following its master. The number of buffs increases proportionally to the level of [Summon Servant].
 SKILL_20180320_010473	Applies up to #{CaptionRatio}# times{nl}1st effect [+ AoE attack ratio]{nl}2nd effect [+ SP recovery speed]{nl}3rd effect [STA recovery]{nl}4th effect [+ Magic Defense]{nl}5th effect [+ Dark property attack]{nl}Consumes Empty Spellbook x#{SpendItemCount}#
