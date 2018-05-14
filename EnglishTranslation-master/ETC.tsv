@@ -14035,7 +14035,7 @@ ETC_20150730_014036	To prevent the spirit from getting absorbed by the terminal,
 ETC_20150730_014037	Damage taken will be shared with the connected objects.
 ETC_20150730_014038	Buff effects will be shared with the connected objects.
 ETC_20150730_014039	The stats of the connected objects will be shared.
-ETC_20150730_014040	You are in a status to receive the damages instead.
+ETC_20150730_014040	In a state to receive damage instead.
 ETC_20150730_014041	You can make your character stronger by allocating Status Points into STR/CON/INT/SPR/DEX.{nl} {nl} - STR : Increase in Physical Attack, Critical Attack and Max Weight{nl} {nl}- CON : Increase in Max HP, HP Recovery, Block, Critical Resistance and Max Weight{nl} {nl}- INT : Increase in Magic Attack, HP Recovery of Spells and Potions{nl} {nl}- SPR : Increase in Max SP, SP Recovery, Magic Defense, Block Penetration and Resistance to harmful effects{nl} {nl}- DEX : Increase in Accuracy, Evasion and Critical Rate{nl}
 ETC_20150730_014042	DoTimeAction:Looking for parts:2:SITGROPE:None
 ETC_20150730_014043	Property:1/PropertyAdd:1/EffectNPC:Local:F_pc_making_finish_white:1:TOP/Notice:NOTICE_Dm_GetItem:You've found the parts!:5/NPCDead/GiveItem:FLASH_29_1_SQ_040_ITEM_1:1
@@ -27925,7 +27925,7 @@ ETC_20170605_027919	A package that contains a My Wedding Costume. Right-click to
 ETC_20170605_027920	Soul Crystal (4 Medals)
 ETC_20170605_027921	Using this Soul Crystal will resurrect you in the same position you died.{nl} Can be exchanged for 4 medals in the Exchange Shop.
 ETC_20170605_027922	Attribute Points 1,000 Ticket
-ETC_20170605_027923	Will increase attribute points by 1,000. Right-click to use. 
+ETC_20170605_027923	Increases attribute points by 1,000. Right-click to use.
 ETC_20170605_027924	Shining Stat Reset Potion 
 ETC_20170605_027925	Shining Skill Reset Potion 
 ETC_20170605_027926	Attribute Points Box (Rank S) 
@@ -28142,7 +28142,7 @@ ETC_20170615_028136	????????￿ ?￿?????????????
 ETC_20170615_028137	????????￿ ?l?
 ETC_20170615_028138	????????￿ ??????
 ETC_20170615_028139	500 Attribute Points
-ETC_20170615_028140	Gives 500 Attribute Points. Right-click to use.
+ETC_20170615_028140	Increases attribute points by 500. Right-click to use.
 ETC_20170615_028141	Exchange Medal Box Grade A
 ETC_20170615_028142	A box containing 200 Exchange Medals. Right-click to use and obtain the medals.
 ETC_20170615_028143	Exchange Medal Box Grade B
@@ -29998,8 +29998,8 @@ ETC_20171128_029992	Guild Emblem Change Voucher
 ETC_20171128_029993	Use to change the emblem of your guild.
 ETC_20171128_029994	Superior Urgent Repair Set
 ETC_20171128_029995	A box containing 3 Superior Urgent Repair Kits. Right-click to obtain.
-ETC_20171128_029996	1,000 Attribute Points(Challenge Mode Reward)
-ETC_20171128_029997	500 Attribute Points (Challenge Mode Reward)
+ETC_20171128_029996	1,000 Attribute Points (Challenge)
+ETC_20171128_029997	500 Attribute Points (Challenge)
 ETC_20171128_029998	30 TP [Event - 14 Days]
 ETC_20171128_029999	Vakarine Package - Premium
 ETC_20171128_030000	Contains Token:15 Days [Vakarine] and x8 EXP Tome. Right-click to obtain. 
@@ -31282,7 +31282,7 @@ ETC_20180208_031276	{@st66d_y}{s16}[%d]{/}{/}%% chance of recovering 5%% SP afte
 ETC_20180208_031277	Magic Amplification +{@st66d_y}{s16}[%d]{/}{/}
 ETC_20180208_031278	Damage to Medium-sized monsters increased by {@st66d_y}{s16}[%d]{/}{/}%%
 ETC_20180208_031279	SP potion effects +{@st66d_y}{s16}[%d]{/}{/}%%
-ETC_20180208_031280	{@st66d_y}{s16}[%d]{/}{/}%% chance per attack of shocking enemy for 3 sec
+ETC_20180208_031280	{@st66d_y}{s16}[%d]{/}{/}%% chance per attack dealt of shocking an enemy for 3 sec
 ETC_20180208_031281	{@st66d_y}{s16}[%d]{/}{/}%% chance of recovering 3%% SP when attacked by Large monsters
 ETC_20180208_031282	{@st66d_y}{s16}[%d]{/}{/}%% chance of recovering 5%% SP after defeating Mutant monsters
 ETC_20180208_031283	Movement Speed +{@st66d_y}{s16}[%d]{/}{/} for 10 sec after using a STA potion
@@ -31301,14 +31301,14 @@ ETC_20180208_031295	Damage to Earth property monsters increased by {@st66d_y}{s1
 ETC_20180208_031296	Evasion +{@st66d_y}{s16}[%d]{/}{/}%%
 ETC_20180208_031297	Damage to Beast-sized monsters increased by {@st66d_y}{s16}[%d]{/}{/}%%
 ETC_20180208_031298	Physical Attack +{@st66d_y}{s16}[%d]{/}{/} when equipping Strike weapons
-ETC_20180208_031299	Earth property resistance +{@st66d_y}{s16}[%d]{/}{/}
+ETC_20180208_031299	Earth Property Resistance +{@st66d_y}{s16}[%d]{/}{/}
 ETC_20180208_031300	{@st66d_y}{s16}[%d]{/}{/}%% chance per attack of poisoning enemy for 6 sec
 ETC_20180208_031301	Stamina +{@st66d_y}{s16}[%d]{/}{/}
-ETC_20180208_031302	Ice property resistance +{@st66d_y}{s16}[%d]{/}{/}
+ETC_20180208_031302	Ice Property Resistance +{@st66d_y}{s16}[%d]{/}{/}
 ETC_20180208_031303	{@st66d_y}{s16}[%d]{/}{/}%% chance of recovering 5%% SP after defeating Fire monsters
-ETC_20180208_031304	Silence status resistance +{@st66d_y}{s16}[%d]{/}{/}
+ETC_20180208_031304	Silence Resistance +{@st66d_y}{s16}[%d]{/}{/}
 ETC_20180208_031305	{@st66d_y}{s16}[%d]{/}{/}%% chance per attack of reducing damage taken by 10%% for 5 sec
-ETC_20180208_031306	Lightning property resistance +{@st66d_y}{s16}[%d]{/}{/}
+ETC_20180208_031306	Lightning Property Resistance +{@st66d_y}{s16}[%d]{/}{/}
 ETC_20180208_031307	Pierce Defense +{@st66d_y}{s16}[%d]{/}{/}
 ETC_20180208_031308	{@st66d_y}{s16}[%d]{/}{/}%% chance of recovering 5%% SP after defeating Dark monsters
 ETC_20180208_031309	{@st66d_y}{s16}[%d]{/}{/}%% chance of recovering 5%% SP after defeating Poison monsters
@@ -31319,7 +31319,7 @@ ETC_20180208_031313	SPR +{@st66d_y}{s16}[%d]{/}{/}, CON +{@st66d_y}{s16}[%d]{/}{
 ETC_20180208_031314	Damage to Lightning property monsters increased by {@st66d_y}{s16}[%d]{/}{/}%%
 ETC_20180208_031315	DEX +{@st66d_y}{s16}[%d]{/}{/}
 ETC_20180208_031316	Add. Holy Property Damage +{@st66d_y}{s16}[%d]{/}
-ETC_20180208_031317	Holy property resistance +{@st66d_y}{s16}[%d]{/}{/}
+ETC_20180208_031317	Holy Property Resistance +{@st66d_y}{s16}[%d]{/}{/}
 ETC_20180208_031318	{@st66d_y}{s16}[%d]{/}{/}%% chance of attack registering as rear attack
 ETC_20180208_031319	Damage to Dark property monsters increased by {@st66d_y}{s16}[%d]{/}{/}%%
 ETC_20180208_031320	Damage to Plant-type monsters increased by {@st66d_y}{s16}[%d]{/}{/}%%
@@ -31329,7 +31329,7 @@ ETC_20180208_031323	Magic Attack +{@st66d_y}{s16}[%d]{/}{/}%% for 6 sec after us
 ETC_20180208_031324	Damage to Insect-type monsters increased by {@st66d_y}{s16}[%d]{/}{/}%%
 ETC_20180208_031325	{@st66d_y}{s16}[%d]{/}{/}%% chance of recovering 5%% SP after defeating Ice monsters
 ETC_20180208_031326	Damage to Large-sized monsters increased by {@st66d_y}{s16}[%d]{/}{/}%%
-ETC_20180208_031327	Poison property resistance +{@st66d_y}{s16}[%d]{/}{/}
+ETC_20180208_031327	Poison Property Resistance +{@st66d_y}{s16}[%d]{/}{/}
 ETC_20180208_031328	Damage to Poison property monsters increased by {@st66d_y}{s16}[%d]{/}{/}%%
 ETC_20180208_031329	Block Penetration +{@st66d_y}{s16}[%d]{/}{/}
 ETC_20180208_031330	Carry Weight +{@st66d_y}{s16}[%d]{/}{/}%%
@@ -31341,48 +31341,48 @@ ETC_20180208_031335	Add. Poison Property Damage +{@st66d_y}{s16}[%d]{/}
 ETC_20180208_031336	Magic Attack +{@st66d_y}{s16}[%d]{/}{/}
 ETC_20180208_031337	Max. SP +{@st66d_y}{s16}[%d]{/}{/}
 ETC_20180208_031338	Damage to frozen enemies increased by {@st66d_y}{s16}[%d]{/}{/}%%
-ETC_20180208_031339	{@st66d_y}{s16}[%d]{/}{/}%% chance per attack of bleeding enemy for 6 sec
+ETC_20180208_031339	{@st66d_y}{s16}[%d]{/}{/}%% chance per attack dealt of bleeding an enemy for 6 sec
 ETC_20180208_031340	Damage to Stationary-type monsters increased by {@st66d_y}{s16}[%d]{/}{/}%%
 ETC_20180208_031341	Attack Speed +{@st66d_y}{s16}[%d]{/}{/} when equipping one-handed weapons
 ETC_20180208_031342	Physical Attack +{@st66d_y}{s16}[%d]{/}{/} when equipping Missile weapons
-ETC_20180208_031343	Dark property resistance +{@st66d_y}{s16}[%d]{/}{/}
+ETC_20180208_031343	Dark Property Resistance +{@st66d_y}{s16}[%d]{/}{/}
 ETC_20180208_031344	{@st66d_y}{s16}[%d]{/}{/}%% chance of recovering 1%% SP when attacked by Medium-sized monsters
-ETC_20180208_031345	Sleep status resistance +{@st66d_y}{s16}[%d]{/}{/}%%
+ETC_20180208_031345	Sleep Resistance +{@st66d_y}{s16}[%d]{/}{/}%%
 ETC_20180208_031346	Max. HP +{@st66d_y}{s16}[%d]{/}{/}, Max. SP +{@st66d_y}{s16}[%d]{/}{/}
 ETC_20180208_031347	STR +{@st66d_y}{s16}[%d]{/}{/}, CON +{@st66d_y}{s16}[%d]{/}{/}
 ETC_20180208_031348	Physical defense +{@st66d_y}{s16}[%d]{/}{/}
 ETC_20180208_031349	Accuracy +{@st66d_y}{s16}[%d]{/}{/}
 ETC_20180208_031350	SPR +{@st66d_y}{s16}[%d]{/}{/}
 ETC_20180208_031351	{@st66d_y}{s16}[%d]{/}{/}%% chance of respawning with 10%% HP restored after becoming incapable of combat 
-ETC_20180208_031352	Blind state resistance +{@st66d_y}{s16}[%d]{/}{/}%%
+ETC_20180208_031352	Blind Resistance +{@st66d_y}{s16}[%d]{/}{/}%%
 ETC_20180208_031353	Magic Defense +{@st66d_y}{s16}[%d]{/}{/}%%
 ETC_20180208_031354	HP potion effects +{@st66d_y}{s16}[%d]{/}{/}%%
 ETC_20180208_031355	CON +{@st66d_y}{s16}[%d]{/}{/}
 ETC_20180208_031356	Slash Defense +{@st66d_y}{s16}[%d]{/}{/}
-ETC_20180208_031357	Bleeding status resistance +{@st66d_y}{s16}[%d]{/}{/}%%
+ETC_20180208_031357	Bleeding Resistance +{@st66d_y}{s16}[%d]{/}{/}%%
 ETC_20180208_031358	Critical Resistance +{@st66d_y}{s16}[%d]{/}{/}
 ETC_20180208_031359	Physical Attack +{@st66d_y}{s16}[%d]{/}{/} when equipping Slash weapons
 ETC_20180208_031360	Physical Attack +{@st66d_y}{s16}[%d]{/}{/}
 ETC_20180208_031361	INT +{@st66d_y}{s16}[%d]{/}{/}, CON +{@st66d_y}{s16}[%d]{/}{/} 
 ETC_20180208_031362	{@st66d_y}{s16}[%d]{/}{/}%% chance of recovering 0.5%% HP when attacked by Small-sized monsters
-ETC_20180208_031363	{@st66d_y}{s16}[%d]{/}{/}%% chance per attack of gaining +4 Movement Speed for 6 sec
+ETC_20180208_031363	{@st66d_y}{s16}[%d]{/}{/}%% chance per attack dealt of gaining Movement Speed +4 for 6 sec
 ETC_20180208_031364	INT +{@st66d_y}{s16}[%d]{/}{/} 
 ETC_20180208_031365	Damage to knocked down enemies increased by {@st66d_y}{s16}[%d]{/}{/}%%
 ETC_20180208_031366	Add. Lightning Property Damage +{@st66d_y}{s16}[%d]{/}{/}
-ETC_20180208_031367	Stun status resistance +{@st66d_y}{s16}[%d]{/}{/}, Sleep status resistance +{@st66d_y}{s16}[%d]{/}{/} 
+ETC_20180208_031367	Stun Resistance +{@st66d_y}{s16}[%d]{/}{/}%%, Sleep Resistance +{@st66d_y}{s16}[%d]{/}{/}%%
 ETC_20180208_031368	AoE attack ratio +{@st66d_y}{s16}[%d]{/}{/}
 ETC_20180208_031369	Max. HP +{@st66d_y}{s16}[%d]{/}{/}
 ETC_20180208_031370	Magic Defense +{@st66d_y}{s16}[%d]{/}{/}%% for 10 sec when using HP potions
-ETC_20180208_031371	{@st66d_y}{s16}[%d]{/}{/}%% chance per attack of slowing down enemy for 3 sec
+ETC_20180208_031371	{@st66d_y}{s16}[%d]{/}{/}%% chance per attack of slowing down an enemy for 3 sec
 ETC_20180208_031372	{@st66d_y}{s16}[%d]{/}{/}%% chance of recovering 2%% HP when attacked by Medium-sized monsters
-ETC_20180208_031373	Stun status resistance +{@st66d_y}{s16}[%d]{/}{/}%%
+ETC_20180208_031373	Stun Resistance +{@st66d_y}{s16}[%d]{/}{/}%%
 ETC_20180208_031374	Subweapon physical attack +{@st66d_y}{s16}[%d]{/}{/}
 ETC_20180208_031375	Add. Ice Property Damage +{@st66d_y}{s16}[%d]{/}{/}
 ETC_20180208_031376	STR +{@st66d_y}{s16}[%d]{/}{/}, SPR +{@st66d_y}{s16}[%d]{/}{/} 
 ETC_20180208_031377	Add. Fire Property Damage +{@st66d_y}{s16}[%d]{/}{/}
 ETC_20180208_031378	INT +{@st66d_y}{s16}[%d]{/}{/}, SPR +{@st66d_y}{s16}[%d]{/}{/} 
 ETC_20180208_031379	{@st66d_y}{s16}[%d]{/}{/}%% chance of recovering 3%% HP when attacked by Large monsters
-ETC_20180208_031380	Fire property resistance +{@st66d_y}{s16}[%d]{/}{/}
+ETC_20180208_031380	Fire Property Resistance +{@st66d_y}{s16}[%d]{/}{/}
 ETC_20180208_031381	Physical Defense +{@st66d_y}{s16}[%d]{/}{/}%%
 ETC_20180208_031382	Critical Rate +{@st66d_y}{s16}[%d]{/}{/}
 ETC_20180208_031383	Provocation when attacking +{@st66d_y}{s16}[%d]{/}{/}%%
@@ -31395,7 +31395,7 @@ ETC_20180208_031389	CON +{@st66d_y}{s16}[%d]{/}{/} for 10 sec after using an HP 
 ETC_20180208_031390	STR, CON, INT, SPR, DEX +{@st66d_y}{s16}[%d]{/}{/}
 ETC_20180208_031391	SPR +{@st66d_y}{s16}[%d]{/}{/} for 10 sec after using an SP potion
 ETC_20180208_031392	Looting Chance +{@st66d_y}{s16}[%d]{/}{/}
-ETC_20180208_031393	{@st66d_y}{s16}[%d]{/}{/}%% chance per attack of freezing enemy for 4 sec
+ETC_20180208_031393	{@st66d_y}{s16}[%d]{/}{/}%% chance per attack dealt of freezing an enemy for 4 sec
 ETC_20180208_031394	When you participate in Team Battle League, you can fight against other players.
 ETC_20180208_031395	{nl} {nl}- Some buffs are reduced in TBL.{nl}- In TBL, weapon enhancement and transcendence effects apply as 50% less.{nl}- In TBL, you receive 20% of normal damage.{nl}- In TBL, movement speed increasing and decreasing effects apply as 50% less.
 ETC_20180208_031396	You can extract part of the Blessed Gems used to transcend an item in the form of Blessed Shards.
@@ -32245,46 +32245,46 @@ ETC_20180418_032239	You need to complete {GOAL1} more gladiator training session
 ETC_20180418_032240	Gladiator training complete.
 ETC_20180418_032241	You have completed {point} agility training sessions. You don't need to complete any more.
 ETC_20180418_032242	Title Stage {num}
-ETC_20180418_032243	Title Stage 1 applied.{nl}STR +1, physical attack +5{nl}Move to a different map to update.
-ETC_20180418_032244	Title Stage 2 applied.{nl}STR +1, CON +1, physical attack +5, physical defense +10{nl}Move to a different map to update.
-ETC_20180418_032245	Title Stage 3 applied.{nl}STR +1, CON +1, INT +1, physical attack +5, magic attack +5, physical defense +10{nl}Move to a different map to update.
-ETC_20180418_032246	Title Stage 4 applied.{nl}STR +1, CON +1, INT +1, SPR +1 physical attack +5, magic attack +5, physical defense +10, magical defense +10{nl}Move to a different map to update.
-ETC_20180418_032247	Title Stage 5 applied.{nl}STR +1, CON +1, INT +1, SPR +1, DEX +1, physical attack +5, magic attack +5, physical defense +10, magical defense +10, SP +25{nl}Move to a different map to update.
-ETC_20180418_032248	Title Stage 6 applied.{nl}STR +2, CON +1, INT +1, SPR +1, DEX +1, physical attack +10, magic attack +5, physical defense +10, magical defense +10, SP +25{nl}Move to a different map to update.
-ETC_20180418_032249	Title Stage 7 applied.{nl}STR +2, CON +2, INT +1, SPR +1, DEX +1, physical attack +10, magic attack +5, physical defense +20, magical defense +10, SP +25{nl}Move to a different map to update.
-ETC_20180418_032250	Title Stage 8 applied.{nl}STR +2, CON +2, INT +2, SPR +1, DEX +1, physical attack +10, magic attack +10, physical defense +20, magical defense +10, SP +25{nl}Move to a different map to update.
-ETC_20180418_032251	Title Stage 9 applied.{nl}STR +2, CON +2, INT +2, SPR +2, DEX +1, physical attack +10, magic attack +10, physical defense +20, magical defense +20, SP +25{nl}Move to a different map to update.
-ETC_20180418_032252	Title Stage 10 applied.{nl}STR +2, CON +2, INT +2, SPR +2, DEX +2, physical attack +10, magic attack +10, physical defense +20, magical defense +20, SP +50{nl}Move to a different map to update.
-ETC_20180418_032253	Title Stage 11 applied.{nl}STR +3, CON +2, INT +2, SPR +2, DEX +2, physical attack +15, magic attack +10, physical defense +20, magical defense +20, SP +50{nl}Move to a different map to update.
-ETC_20180418_032254	Title Stage 12 applied.{nl}STR +3, CON +3, INT +2, SPR +2, DEX +2, physical attack +15, magic attack +10, physical defense +30, magical defense +20, SP +50{nl}Move to a different map to update.
-ETC_20180418_032255	Title Stage 13 applied.{nl}STR +3, CON +3, INT +3, SPR +2, DEX +2, physical attack +15, magic attack +15, physical defense +30, magical defense +20, SP +50{nl}Move to a different map to update.
-ETC_20180418_032256	Title Stage 14 applied.{nl}STR +3, CON +3, INT +3, SPR +3, DEX +2, physical attack +15, magic attack +15, physical defense +30, magical defense +30, SP +50{nl}Move to a different map to update.
-ETC_20180418_032257	Title Stage 15 applied.{nl}STR +3, CON +3, INT +3, SPR +3, DEX +3, physical attack +15, magic attack +15, physical defense +30, magical defense +30, SP +75{nl}Move to a different map to update.
-ETC_20180418_032258	Title Stage 16 applied.{nl}STR +4, CON +3, INT +3, SPR +3, DEX +3, physical attack +20, magic attack +15, physical defense +30, magical defense +30, SP +75{nl}Move to a different map to update.
-ETC_20180418_032259	Title Stage 17 applied.{nl}STR +4, CON +4, INT +3, SPR +3, DEX +3, physical attack +20, magic attack +15, physical defense +40, magical defense +30, SP +75{nl}Move to a different map to update.
-ETC_20180418_032260	Title Stage 18 applied.{nl}STR +4, CON +4, INT +4, SPR +3, DEX +3, physical attack +20, magic attack +20, physical defense +40, magical defense +30, SP +75{nl}Move to a different map to update.
-ETC_20180418_032261	Title Stage 19 applied.{nl}STR +4, CON +4, INT +4, SPR +4, DEX +3, physical attack +20, magic attack +20, physical defense +40, magical defense +40, SP +75{nl}Move to a different map to update.
-ETC_20180418_032262	Title Stage 20 applied.{nl}STR +4, CON +4, INT +4, SPR +4, DEX +4, physical attack +20, magic attack +20, physical defense +40, magical defense +40, SP +100{nl}Move to a different map to update.
-ETC_20180418_032263	Title Stage 21 applied.{nl}STR +5, CON +4, INT +4, SPR +4, DEX +4, physical attack +25, magic attack +20, physical defense +40, magical defense +40, SP +100{nl}Move to a different map to update.
-ETC_20180418_032264	Title Stage 22 applied.{nl}STR +5, CON +5, INT +4, SPR +4, DEX +4, physical attack +25, magic attack +20, physical defense +50, magical defense +40, SP +100{nl}Move to a different map to update.
-ETC_20180418_032265	Title Stage 23 applied.{nl}STR +5, CON +5, INT +5, SPR +4, DEX +4, physical attack +25, magic attack +25, physical defense +50, magical defense +40, SP +100{nl}Move to a different map to update.
-ETC_20180418_032266	Title Stage 24 applied.{nl}STR +5, CON +5, INT +5, SPR +5, DEX +4, physical attack +25, magic attack +25, physical defense +50, magical defense +50, SP +100{nl}Move to a different map to update.
-ETC_20180418_032267	Title Stage 25 applied.{nl}STR +5, CON +5, INT +5, SPR +5, DEX +5, physical attack +25, magic attack +25, physical defense +50, magical defense +50, SP +125{nl}Move to a different map to update.
-ETC_20180418_032268	Title Stage 26 applied.{nl}STR +6, CON +5, INT +5, SPR +5, DEX +5, physical attack +30, magic attack +25, physical defense +50, magical defense +50, SP +125{nl}Move to a different map to update.
-ETC_20180418_032269	Title Stage 27 applied.{nl}STR +6, CON +6, INT +5, SPR +5, DEX +5, physical attack +30, magic attack +25, physical defense +60, magical defense +50, SP +125{nl}Move to a different map to update.
-ETC_20180418_032270	Title Stage 28 applied.{nl}STR +6, CON +6, INT +6, SPR +5, DEX +5, physical attack +30, magic attack +30, physical defense +60, magical defense +50, SP +125{nl}Move to a different map to update.
-ETC_20180418_032271	Title Stage 29 applied.{nl}STR +6, CON +6, INT +6, SPR +6, DEX +5, physical attack +30, magic attack +30, physical defense +60, magical defense +60, SP +125{nl}Move to a different map to update.
-ETC_20180418_032272	Title Stage 30 applied.{nl}STR +6, CON +6, INT +6, SPR +6, DEX +6, physical attack +30, magic attack +30, physical defense +60, magical defense +60, SP +150{nl}Move to a different map to update.
-ETC_20180418_032273	Title Stage 31 applied.{nl}STR +7, CON +6, INT +6, SPR +6, DEX +6, physical attack +35, magic attack +30, physical defense +60, magical defense +60, SP +150{nl}Move to a different map to update.
-ETC_20180418_032274	Title Stage 32 applied.{nl}STR +7, CON +7, INT +6, SPR +6, DEX +6, physical attack +35, magic attack +30, physical defense +70, magical defense +60, SP +150{nl}Move to a different map to update.
-ETC_20180418_032275	Title Stage 33 applied.{nl}STR +7, CON +7, INT +7, SPR +6, DEX +6, physical attack +35, magic attack +35, physical defense +70, magical defense +60, SP +150{nl}Move to a different map to update.
-ETC_20180418_032276	Title Stage 34 applied.{nl}STR +7, CON +7, INT +7, SPR +7, DEX +6, physical attack +35, magic attack +35, physical defense +70, magical defense +70, SP +150{nl}Move to a different map to update.
-ETC_20180418_032277	Title Stage 35 applied.{nl}STR +7, CON +7, INT +7, SPR +7, DEX +7, physical attack +35, magic attack +35, physical defense +70, magical defense +70, SP +175{nl}Move to a different map to update.
-ETC_20180418_032278	Title Stage 36 applied.{nl}STR +8, CON +7, INT +7, SPR +7, DEX +7, physical attack +40, magic attack +35, physical defense +70, magical defense +70, SP +175{nl}Move to a different map to update.
-ETC_20180418_032279	Title Stage 37 applied.{nl}STR +8, CON +8, INT +7, SPR +7, DEX +7, physical attack +40, magic attack +35, physical defense +80, magical defense +70, SP +175{nl}Move to a different map to update.
-ETC_20180418_032280	Title Stage 38 applied.{nl}STR +8, CON +8, INT +8, SPR +7, DEX +7, physical attack +40, magic attack +40, physical defense +80, magical defense +70, SP +175{nl}Move to a different map to update.
-ETC_20180418_032281	Title Stage 39 applied.{nl}STR +8, CON +8, INT +8, SPR +8, DEX +7, physical attack +40, magic attack +40, physical defense +80, magical defense +80, SP +175{nl}Move to a different map to update.
-ETC_20180418_032282	Title Stage 40 applied.{nl}STR +8, CON +8, INT +8, SPR +8, DEX +8, physical attack +40, magic attack +40, physical defense +80, magical defense +80, SP +200{nl}Move to a different map to update.
+ETC_20180418_032243	Title Stage 1 applied.{nl}STR +1, Physical Attack +5{nl}Move to a different map to update.
+ETC_20180418_032244	Title Stage 2 applied.{nl}STR +1, CON +1, Physical Attack +5, Physical Defense +10{nl}Move to a different map to update.
+ETC_20180418_032245	Title Stage 3 applied.{nl}STR +1, CON +1, INT +1, Physical Attack +5, Magic Attack +5, Physical Defense +10{nl}Move to a different map to update.
+ETC_20180418_032246	Title Stage 4 applied.{nl}STR +1, CON +1, INT +1, SPR +1 Physical Attack +5, Magic Attack +5, Physical Defense +10, Magic Defense +10{nl}Move to a different map to update.
+ETC_20180418_032247	Title Stage 5 applied.{nl}STR +1, CON +1, INT +1, SPR +1, DEX +1, Physical Attack +5, Magic Attack +5, Physical Defense +10, Magic Defense +10, SP +25{nl}Move to a different map to update.
+ETC_20180418_032248	Title Stage 6 applied.{nl}STR +2, CON +1, INT +1, SPR +1, DEX +1, Physical Attack +10, Magic Attack +5, Physical Defense +10, Magic Defense +10, SP +25{nl}Move to a different map to update.
+ETC_20180418_032249	Title Stage 7 applied.{nl}STR +2, CON +2, INT +1, SPR +1, DEX +1, Physical Attack +10, Magic Attack +5, Physical Defense +20, Magic Defense +10, SP +25{nl}Move to a different map to update.
+ETC_20180418_032250	Title Stage 8 applied.{nl}STR +2, CON +2, INT +2, SPR +1, DEX +1, Physical Attack +10, Magic Attack +10, Physical Defense +20, Magic Defense +10, SP +25{nl}Move to a different map to update.
+ETC_20180418_032251	Title Stage 9 applied.{nl}STR +2, CON +2, INT +2, SPR +2, DEX +1, Physical Attack +10, Magic Attack +10, Physical Defense +20, Magic Defense +20, SP +25{nl}Move to a different map to update.
+ETC_20180418_032252	Title Stage 10 applied.{nl}STR +2, CON +2, INT +2, SPR +2, DEX +2, Physical Attack +10, Magic Attack +10, Physical Defense +20, Magic Defense +20, SP +50{nl}Move to a different map to update.
+ETC_20180418_032253	Title Stage 11 applied.{nl}STR +3, CON +2, INT +2, SPR +2, DEX +2, Physical Attack +15, Magic Attack +10, Physical Defense +20, Magic Defense +20, SP +50{nl}Move to a different map to update.
+ETC_20180418_032254	Title Stage 12 applied.{nl}STR +3, CON +3, INT +2, SPR +2, DEX +2, Physical Attack +15, Magic Attack +10, Physical Defense +30, Magic Defense +20, SP +50{nl}Move to a different map to update.
+ETC_20180418_032255	Title Stage 13 applied.{nl}STR +3, CON +3, INT +3, SPR +2, DEX +2, Physical Attack +15, Magic Attack +15, Physical Defense +30, Magic Defense +20, SP +50{nl}Move to a different map to update.
+ETC_20180418_032256	Title Stage 14 applied.{nl}STR +3, CON +3, INT +3, SPR +3, DEX +2, Physical Attack +15, Magic Attack +15, Physical Defense +30, Magic Defense +30, SP +50{nl}Move to a different map to update.
+ETC_20180418_032257	Title Stage 15 applied.{nl}STR +3, CON +3, INT +3, SPR +3, DEX +3, Physical Attack +15, Magic Attack +15, Physical Defense +30, Magic Defense +30, SP +75{nl}Move to a different map to update.
+ETC_20180418_032258	Title Stage 16 applied.{nl}STR +4, CON +3, INT +3, SPR +3, DEX +3, Physical Attack +20, Magic Attack +15, Physical Defense +30, Magic Defense +30, SP +75{nl}Move to a different map to update.
+ETC_20180418_032259	Title Stage 17 applied.{nl}STR +4, CON +4, INT +3, SPR +3, DEX +3, Physical Attack +20, Magic Attack +15, Physical Defense +40, Magic Defense +30, SP +75{nl}Move to a different map to update.
+ETC_20180418_032260	Title Stage 18 applied.{nl}STR +4, CON +4, INT +4, SPR +3, DEX +3, Physical Attack +20, Magic Attack +20, Physical Defense +40, Magic Defense +30, SP +75{nl}Move to a different map to update.
+ETC_20180418_032261	Title Stage 19 applied.{nl}STR +4, CON +4, INT +4, SPR +4, DEX +3, Physical Attack +20, Magic Attack +20, Physical Defense +40, Magic Defense +40, SP +75{nl}Move to a different map to update.
+ETC_20180418_032262	Title Stage 20 applied.{nl}STR +4, CON +4, INT +4, SPR +4, DEX +4, Physical Attack +20, Magic Attack +20, Physical Defense +40, Magic Defense +40, SP +100{nl}Move to a different map to update.
+ETC_20180418_032263	Title Stage 21 applied.{nl}STR +5, CON +4, INT +4, SPR +4, DEX +4, Physical Attack +25, Magic Attack +20, Physical Defense +40, Magic Defense +40, SP +100{nl}Move to a different map to update.
+ETC_20180418_032264	Title Stage 22 applied.{nl}STR +5, CON +5, INT +4, SPR +4, DEX +4, Physical Attack +25, Magic Attack +20, Physical Defense +50, Magic Defense +40, SP +100{nl}Move to a different map to update.
+ETC_20180418_032265	Title Stage 23 applied.{nl}STR +5, CON +5, INT +5, SPR +4, DEX +4, Physical Attack +25, Magic Attack +25, Physical Defense +50, Magic Defense +40, SP +100{nl}Move to a different map to update.
+ETC_20180418_032266	Title Stage 24 applied.{nl}STR +5, CON +5, INT +5, SPR +5, DEX +4, Physical Attack +25, Magic Attack +25, Physical Defense +50, Magic Defense +50, SP +100{nl}Move to a different map to update.
+ETC_20180418_032267	Title Stage 25 applied.{nl}STR +5, CON +5, INT +5, SPR +5, DEX +5, Physical Attack +25, Magic Attack +25, Physical Defense +50, Magic Defense +50, SP +125{nl}Move to a different map to update.
+ETC_20180418_032268	Title Stage 26 applied.{nl}STR +6, CON +5, INT +5, SPR +5, DEX +5, Physical Attack +30, Magic Attack +25, Physical Defense +50, Magic Defense +50, SP +125{nl}Move to a different map to update.
+ETC_20180418_032269	Title Stage 27 applied.{nl}STR +6, CON +6, INT +5, SPR +5, DEX +5, Physical Attack +30, Magic Attack +25, Physical Defense +60, Magic Defense +50, SP +125{nl}Move to a different map to update.
+ETC_20180418_032270	Title Stage 28 applied.{nl}STR +6, CON +6, INT +6, SPR +5, DEX +5, Physical Attack +30, Magic Attack +30, Physical Defense +60, Magic Defense +50, SP +125{nl}Move to a different map to update.
+ETC_20180418_032271	Title Stage 29 applied.{nl}STR +6, CON +6, INT +6, SPR +6, DEX +5, Physical Attack +30, Magic Attack +30, Physical Defense +60, Magic Defense +60, SP +125{nl}Move to a different map to update.
+ETC_20180418_032272	Title Stage 30 applied.{nl}STR +6, CON +6, INT +6, SPR +6, DEX +6, Physical Attack +30, Magic Attack +30, Physical Defense +60, Magic Defense +60, SP +150{nl}Move to a different map to update.
+ETC_20180418_032273	Title Stage 31 applied.{nl}STR +7, CON +6, INT +6, SPR +6, DEX +6, Physical Attack +35, Magic Attack +30, Physical Defense +60, Magic Defense +60, SP +150{nl}Move to a different map to update.
+ETC_20180418_032274	Title Stage 32 applied.{nl}STR +7, CON +7, INT +6, SPR +6, DEX +6, Physical Attack +35, Magic Attack +30, Physical Defense +70, Magic Defense +60, SP +150{nl}Move to a different map to update.
+ETC_20180418_032275	Title Stage 33 applied.{nl}STR +7, CON +7, INT +7, SPR +6, DEX +6, Physical Attack +35, Magic Attack +35, Physical Defense +70, Magic Defense +60, SP +150{nl}Move to a different map to update.
+ETC_20180418_032276	Title Stage 34 applied.{nl}STR +7, CON +7, INT +7, SPR +7, DEX +6, Physical Attack +35, Magic Attack +35, Physical Defense +70, Magic Defense +70, SP +150{nl}Move to a different map to update.
+ETC_20180418_032277	Title Stage 35 applied.{nl}STR +7, CON +7, INT +7, SPR +7, DEX +7, Physical Attack +35, Magic Attack +35, Physical Defense +70, Magic Defense +70, SP +175{nl}Move to a different map to update.
+ETC_20180418_032278	Title Stage 36 applied.{nl}STR +8, CON +7, INT +7, SPR +7, DEX +7, Physical Attack +40, Magic Attack +35, Physical Defense +70, Magic Defense +70, SP +175{nl}Move to a different map to update.
+ETC_20180418_032279	Title Stage 37 applied.{nl}STR +8, CON +8, INT +7, SPR +7, DEX +7, Physical Attack +40, Magic Attack +35, Physical Defense +80, Magic Defense +70, SP +175{nl}Move to a different map to update.
+ETC_20180418_032280	Title Stage 38 applied.{nl}STR +8, CON +8, INT +8, SPR +7, DEX +7, Physical Attack +40, Magic Attack +40, Physical Defense +80, Magic Defense +70, SP +175{nl}Move to a different map to update.
+ETC_20180418_032281	Title Stage 39 applied.{nl}STR +8, CON +8, INT +8, SPR +8, DEX +7, Physical Attack +40, Magic Attack +40, Physical Defense +80, Magic Defense +80, SP +175{nl}Move to a different map to update.
+ETC_20180418_032282	Title Stage 40 applied.{nl}STR +8, CON +8, INT +8, SPR +8, DEX +8, Physical Attack +40, Magic Attack +40, Physical Defense +80, Magic Defense +80, SP +200{nl}Move to a different map to update.
 ETC_20180418_032283	Putting down sandbag...
 ETC_20180418_032284	Sandbag down.
 ETC_20180418_032285	HP recharged.{nl}Training will be easier now.
