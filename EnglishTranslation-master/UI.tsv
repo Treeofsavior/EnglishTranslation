@@ -576,7 +576,7 @@ UI_20150317_000575	{@st41} {s20}Price : %s	{@st41}{s20}강화 가격 : %s
 UI_20150317_000576	{@st41b}Enhance{/}	{@st41b}강화 시작{/}				
 UI_20150317_000577	{@st59}Start Item Enhancement{/}	{@st59}아이템 강화를 시작합니다.{/}				
 UI_20150317_000578	{@st59}Close{/}	{@st59}강화를 닫습니다{/}				
-UI_20150317_000579	{@st41b} Would you like to refine the {@sti9}×%s{/} selected items?{/}	{@st41b}선택한 {@sti9}%s개{/} 아이템으로 강화하시겠습니까?{/}				
+UI_20150317_000579	{@st41b}              Enhance with the {@sti9}×%s{/} selected items?{/}	{@st41b}선택한 {@sti9}%s개{/} 아이템으로 강화하시겠습니까?{/}				
 UI_20150317_000580	{@st43}Enhancement	{@st43}강화				
 UI_20150317_000581	{@st44}Enhance Item{/}	{@st44}아이템 강화{/}				
 UI_20150317_000582	{s24}{b}{#000000}Enhancement Complete!	{s24}{b}{#000000}강화 완료!				
@@ -2261,14 +2261,14 @@ UI_20160811_002260	None.	없음.
 UI_20160811_002261	{@st41b}Unequip{/}	{@st41b}해제하기{/}				
 UI_20160811_002262	{img icon_item_tospoint 24 24}{@st41b}Consume 5 TP{nl}Unequip card without the loss of a star{/}	{img icon_item_tospoint 24 24}{@st41b}5TP 소모{nl}별 감소없이 카드 해제하기{/}				
 UI_20160811_002263	{@st41b}Confirm	{@st41b}최종확인				
-UI_20160811_002264	{@st42}My Trades{/}	{@st42}내 거래 목록{/}				
-UI_20160811_002265	{@st42}Trades{/}	{@st42}상대방 거래 목록{/}				
+UI_20160811_002264	{@st42}My Trade Items{/}	{@st42}내 거래 목록{/}				
+UI_20160811_002265	{@st42}Their Trade Items{/}	{@st42}상대방 거래 목록{/}				
 UI_20160811_002266	{@st66b}If both sides are using Tokens,{nl}the trade properties of the equipment are unchanged.{nl}Consumables and material items will become untradable{nl}regardless of the usage of Tokens.{/}	{@st66b}거래 시 유저가 모두 토큰을 사용 중 이라면{nl}장비 아이템의 속성 변경이 없습니다.{nl}소비나 재료 아이템은 토큰여부와 상관없이 거래불가입니다.{/}				
 UI_20160811_002267	Token Match	토큰일치				
 UI_20160811_002268	{@st42}The item in question will become untradable after the trade{/}	{@st42}거래 후 장비 아이템 거래 불가{/}				
 UI_20160811_002269	{@st42}The item in question will remain tradable after the trade{/}	{@st42}거래 후 장비 아이템 거래 가능{/}				
 UI_20160811_002270	{@st41b}Trade	{@st41b}거래				
-UI_20160811_002271	{@st41b}Cancel Trade	{@st41b}아니오				
+UI_20160811_002271	{@st41b}No	{@st41b}아니오				
 UI_20160811_002272	{@st66d}The item properties will not be changed{nl}as both sides are using Tokens.{/}	{@st66d}거래 대상 양측이 모두 토큰 사용으로{nl}아이템 속성이 변경되지 않습니다.{/}				
 UI_20160811_002273	{@st66d}The item properties will be changed{nl}as both sides are not using Tokens.{/}	{@st66d}거래 대상 양측이 모두 토큰 사용하지 않아{nl}아이템 속성이 변경 됩니다.{/}				
 UI_20160811_002274	{@st42}List of items that will become untradable after the trade{/}	{@st42}거래 속성이 변경되는 아이템 목록{/}				
@@ -2749,8 +2749,8 @@ UI_20170912_002748	Class Points %s	클래스 점수  %s점
 UI_20170912_002749	Team Level %s	팀 레벨 %s				
 UI_20170912_002750	Exploration	탐험				
 UI_20170912_002751	%s % Explored	총 탐사율 %s %				
-UI_20170912_002752	#NAME?	- 권장레벨				
-UI_20170912_002753	#NAME?	- 탐색율				
+UI_20170912_002752	- Recommended Level	- 권장레벨				
+UI_20170912_002753	- Exploration	- 탐색율				
 UI_20170912_002754	Type	종류				
 UI_20170912_002755	Acquisition Points %s	획득 점수 %s 점				
 UI_20170912_002756	Acquisition Points %s	획득점수 %s점				
@@ -2925,7 +2925,7 @@ UI_20170925_002924	Receiving information.	정보를 요청 중 입니다.
 UI_20171128_002925	Close UI.	출석 UI를 닫습니다.				
 UI_20171128_002926	Check Period	출석 체크 기간				
 UI_20171128_002927	* Daily attendance rewards will be automatically sent once per day to the inventory of the first character to access the game.{nl}* Enchant Scroll (14 Days).{nl}* Rewards can only be received during the attendance check period. After this period, no more rewards will be sent.{nl}	* 출석 보상은 1일 1회, 당일 첫 접속한 캐릭터 인벤토리로 자동 지급됩니다.{nl}* 마법 부여 스크롤(14일)을 제외한 모든 아이템은 팀 창고로 이동할 수 있습니다.{nl}* 출석 체크 기간 동안에만 출석 보상을 받을 수 있으며, 기간 경과 시 더 이상 지급되지 않습니다.{nl}				
-UI_20171128_002928	{@st66b18}※ Changing your Team Name with TP are not refundable.{/}	{@st66b18}※이름 변경에 사용된 TP는 환불되지 않습니다.{/}	UI_20151224_001847	{@st66b18}※ Purchases made with TP are not refundable.{/}	{@st66b18}※구매에 사용된 TP는 환불되지 않습니다.{/}	
+UI_20171128_002928	{@st66b18}※ Name changes with TP are not refundable.{/}	{@st66b18}※이름 변경에 사용된 TP는 환불되지 않습니다.{/}	UI_20151224_001847	{@st66b18}※ Purchases made with TP are not refundable.{/}	{@st66b18}※구매에 사용된 TP는 환불되지 않습니다.{/}	
 UI_20171128_002929	Size%s	크기: %s				
 UI_20171128_002930	{@st42b}Confirm	{@st42b}확인				
 UI_20171128_002931	Update Guild Storage.	현재 길드 보관함을 갱신합니다.				
@@ -2981,7 +2981,7 @@ UI_20180115_002980	{@st66b}{s16}*Items remain tradable only when there are trade
 UI_20180115_002981	{s16}{@st66b}*{/}{@st66d_y}No Trades Left{/}{@st66b} means that {/} {@st66d_y}all items traded{nl}can no longer be traded or transferred via Team Storage{/}{@st66b}.{/}{/}	{s16}{@st66b}*{/}{@st66d_y}거래 가능 횟수 0{/}{@st66b} 상태에서는{/} {@st66d_y}거래한 모든 아이템이{nl} 팀 창고 이동 및 거래가 불가능{/}{@st66b}해집니다.{/}{/}				
 UI_20180115_002982	{s16}{@st66b}*{/}{@st66d_y}Event Tokens offer 0 trade counts.{nl}{/} {@st66b}Make sure to check the count before trading.{/}{/}	{s16}{@st66b}*{/}{@st66d_y}증정용 토큰에는 거래 가능 횟수가 없습니다.{nl}{/} {@st66b}거래 시 주의해 주세요.{/}{/}				
 UI_20180115_002983	{@st66d_y}Items will become untradable{/}	{@st66d_y}거래 후 모든 아이템 팀 창고 이동 및 거래 불가{/}	UI_20160811_002268	{@st42}The item in question will become untradable after the trade{/}	{@st42}거래 후 장비 아이템 거래 불가{/}	
-UI_20180115_002984	{@st42}All items will remain tradable (Trade YES, Team Storage YES){/}	{@st42}거래 후 모든 아이템 팀 창고 이동 및 거래 가능{/}	UI_20160811_002269	{@st42}The item in question will remain tradable after the trade{/}	{@st42}거래 후 장비 아이템 거래 가능{/}	
+UI_20180115_002984	{@st42}Items remain tradable and can be team storaged{/}	{@st42}거래 후 모든 아이템 팀 창고 이동 및 거래 가능{/}	UI_20160811_002269	{@st42}The item in question will remain tradable after the trade{/}	{@st42}거래 후 장비 아이템 거래 가능{/}	
 UI_20180115_002985	{@st66d}The following items will become{nl}  {@st66d_y}untradable (Trade NO, Team Storage NO){/}.{/}	{@st66d}아래 아이템이{nl}  {@st66d_y}팀 창고 이동 및 거래 불가{/} 상태가 됩니다.{/}	UI_20170726_002661	{@st66d}If at least one player is not a Token user,{nl}after the trade the item will become untradable.{/}	{@st66d}한 명 이라도 토큰을 사용하지 않으면{nl} 교환 후 아이템이 거래 불가 상태가 됩니다.{/}	
 UI_20180115_002986	{@st42}Untradable Items (Trade NO, Team Storage NO){/}	{@st42}팀 창고 이동 및 거래 속성이 변경되는 아이템 목록{/}	UI_20160811_002274	{@st42}List of items that will become untradable after the trade{/}	{@st42}거래 속성이 변경되는 아이템 목록{/}	
 UI_20180208_002987	{@st59}Close{/}	{@st59}전직 정보 창을 닫습니다{/}	UI_20150317_000086	{@st59}Close{/}	{@st59}클래스 정보 창을 닫습니다{/}	
@@ -3077,7 +3077,7 @@ UI_20180517_003076	{@st66b}Guild funds here{/}	{@st66b}길드 자금 여기{/}
 UI_20180517_003077	Position {img %s 13 13}	직급{img %s 13 13}				
 UI_20180517_003078	%s online, %s offline	온라인 %s명    오프라인 %s명				
 UI_20180517_003079	{@st43b}{s18}Wars{/}	{@st43b}{s18}길드 전쟁 {/}				
-UI_20180517_003080	Neutral Status Canceled Alert	중립 해제 알림				
+UI_20180517_003080	Neutral Cancel Alert	중립 해제 알림				
 UI_20180517_003081	{@st66b}Guild Promotion{/}	{@st66b}홍보{/}				
 UI_20180517_003082	{@st66b}Roles and Authorities{/}	{@st66b}직급과 권한{/}				
 UI_20180517_003083	{@st66b}Applications{/}	{@st66b}가입 신청{/}				
@@ -3122,7 +3122,7 @@ UI_20180517_003121	{@s18}Founded{/}	{@s18}개설일{/}
 UI_20180517_003122	{@s18}Guild Level{/}	{@s18}길드 레벨{/}				
 UI_20180517_003123	{@s18}Status{/}	{@s18}모집 상태{/}				
 UI_20180517_003124	{@s18}Recruiting{/}	{@s18}모집중{/}				
-UI_20180517_003125	{@st41}Applications	{@st41}가입 신청				
+UI_20180517_003125	{@st41}Apply to Join	{@st41}가입 신청				
 UI_20180517_003126	{@s18}Members{/}	{@s18}인원{/}				
 UI_20180517_003127	{@s18}Average Level{/}	{@s18}평균 레벨{/}				
 UI_20180517_003128	{@s18}Cover Page Text{/}	{@s18}홍보글{/}				
