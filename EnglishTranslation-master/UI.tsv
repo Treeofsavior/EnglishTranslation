@@ -2506,7 +2506,7 @@ UI_20161214_002505	{@black_18_b}Daily{/}	{@black_18_b}일간{/}
 UI_20161214_002506	{@black_18_b}Weekly (Reset every monday){/}	{@black_18_b}주간(월요일마다 초기화){/}				
 UI_20161214_002507	{@brown_16}Individual Participation{/}	{@brown_16}개인 참여{/}				
 UI_20161214_002508	Guild Authority	길드 권한				
-UI_20161221_002509	Are you sure you want to use the Rank Reset Voucher?	랭크 초기화 아이템을 사용하시겠습니까?{/}				
+UI_20161221_002509	Use the Rank Reset Voucher?	랭크 초기화 아이템을 사용하시겠습니까?{/}				
 UI_20161221_002510	The item will disappear from your{nl}inventory and your Rank choices will be reset.	사용한 아이템은 인벤토리에서 사라지며{nl}전체 랭크가 초기화 됩니다.{/}				
 UI_20161221_002511	{@st66d_y}Conditions and Precautions{/}	{@st66d_y}조건 및 주의 사항{/}				
 UI_20161221_002512	{@st58}No Items Equipped{/}	{@st59}장비 장착 상태{/}				
@@ -2963,11 +2963,11 @@ UI_20171128_002962	Selected Portal Quantity %s/%s 	선택한 포탈 개수 %s/%s
 UI_20171128_002963	{@st59}Close Portal Placed Shop UI{/}	{@st59}포탈 상점 등록 UI를 닫습니다{/}				
 UI_20171128_002964	Would you like to undo your last advancement?{/}	마지막 전직을 취소하고 되돌리시겠습니까?{/}				
 UI_20171128_002965	If you undo your current class advancement, the advancement will be undone and your current class EXP will disappear.{/}	현재 클래스의 전직을 취소하고 전직 이전으로 되돌아가며{nl}클래스 경험치는 사라집니다.{/}				
-UI_20171128_002966	* Rank down can only be used once during the same rank.{nl}Cannot be used continuously.	* 랭크 다운은 동일한 랭크에서 한 번만 사용할 수 있으며{nl}연속해서 사용할 수 없습니다.				
-UI_20171128_002967	* Lastly, Rank down cannot be used at a rank lower{nl}than the rank already being used.	* 마지막으로 랭크 다운을 사용한 랭크보다 낮은 랭크에서는{nl}이용이 불가능 합니다.				
-UI_20171128_002968	* Skills and Attributes of removed or adjusted class circles{nl}will be converted to points.	* 초기화로 인해 삭제 또는 서클이 내려가는 클래스는{nl}스킬과 특성을 초기화 후 포인트로 반환됩니다.				
-UI_20171128_002969	* Class-specific costumes received{nl}by Rank advancement will be deleted if the class is completely removed.	* 초기화로 인해 클래스가 완전히 삭제되는 경우에는{nl}전직 시 지급된 직업별 코스튬이 제거됩니다.				
-UI_20171128_002970	* You will return to the barracks after using the Voucher.	* 초기화 후에는 캐릭터 선택창으로 돌아갑니다.				
+UI_20171128_002966	* Rank down can only be used once during the same rank.{nl}It cannot be used repeatedly.	* 랭크 다운은 동일한 랭크에서 한 번만 사용할 수 있으며{nl}연속해서 사용할 수 없습니다.				
+UI_20171128_002967	* In addition, rank down cannot be used at a rank lower{nl}than a rank it has already been used at.	* 마지막으로 랭크 다운을 사용한 랭크보다 낮은 랭크에서는{nl}이용이 불가능 합니다.				
+UI_20171128_002968	* Skills and Attributes of removed or adjusted class circles{nl}will be converted back into points.	* 초기화로 인해 삭제 또는 서클이 내려가는 클래스는{nl}스킬과 특성을 초기화 후 포인트로 반환됩니다.				
+UI_20171128_002969	* Class-specific costumes received through rank advancement{nl}will be deleted if the class is completely removed.	* 초기화로 인해 클래스가 완전히 삭제되는 경우에는{nl}전직 시 지급된 직업별 코스튬이 제거됩니다.				
+UI_20171128_002970	* You will return to the barracks after confirming.	* 초기화 후에는 캐릭터 선택창으로 돌아갑니다.				
 UI_20171128_002971	{@st59}Rank Info{/}	{@st59}랭크 정보{/}				
 UI_20171128_002972	{@st66b}Simplify Buff Effects{/}	{@st66b}버프 이펙트 간소화{/}				
 UI_20171128_002973	{@st66b}Simplify Models{/}	{@st66b}모델 간소화{/}				
@@ -3171,7 +3171,7 @@ UI_20180517_003170	{@st43b}{s16}%s Points	{@st43b}{s16}%s 포인트
 UI_20180517_003171	Obtained [ %s] Badges	증표 [ %s 개] 획득				
 UI_20180517_003172	{@st66d}{s20}Returning in %s seconds.{/}	{@st66d}{s20}%s초 후에 귀환됩니다.{/}				
 UI_20180517_003173	{@st66d}Return{/}	{@st66d}귀환{/}				
-UI_20180517_003174	If you undo your current class advancement, the advancement will be undone and {@st66d_y}your current class EXP will disappear.{/}{/}	현재 클래스의 전직을 취소하고 전직 이전으로 되돌아가며{nl}{@st66d_y}클래스 경험치는 사라집니다.{/}{/}	UI_20171128_002965	If you undo your current class advancement, the advancement will be undone and your current class EXP will disappear.{/}	현재 클래스의 전직을 취소하고 전직 이전으로 되돌아가며{nl}클래스 경험치는 사라집니다.{/}	
+UI_20180517_003174	If you undo your current class advancement,{nl}the advancement will be undone and{nl}{@st66d_y}your current class EXP will disappear.{/}{/}	현재 클래스의 전직을 취소하고 전직 이전으로 되돌아가며{nl}{@st66d_y}클래스 경험치는 사라집니다.{/}{/}	UI_20171128_002965	If you undo your current class advancement, the advancement will be undone and your current class EXP will disappear.{/}	현재 클래스의 전직을 취소하고 전직 이전으로 되돌아가며{nl}클래스 경험치는 사라집니다.{/}	
 UI_20180517_003175	{@st45tw2}Conditions and Precautions{/}	{@st45tw2}조건 및 주의 사항{/}	UI_20161221_002511	{@st66d_y}Conditions and Precautions{/}	{@st66d_y}조건 및 주의 사항{/}	
 UI_20180517_003176	{@st66b}Respawn in Guild Tower{/}	{@st66b}길드 타워에서 부활하기{/}				
 UI_20180517_003177	{@st59}Guild Promotion (Alt + R){/}	{@st59}길드 홍보 (Alt + R){/}				
