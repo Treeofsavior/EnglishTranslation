@@ -1132,7 +1132,7 @@ UI_20150317_001131	N/A	별별벼려별
 UI_20150317_001132	%s race	%s 종족				
 UI_20150317_001133	N/A	표례스텨(싱뮬형)				
 UI_20150317_001134	Untradable	거래 불가				
-UI_20150317_001135	Unenhanceable	강화 불가				
+UI_20150317_001135	NO enhc	강화 불가				
 UI_20150317_001136	N/A	별별별별				
 UI_20150317_001137	Item Name	템이름				
 UI_20150317_001138	N/A	이 템을 착용하면 어쩌고 저쩌고				
@@ -1935,9 +1935,9 @@ UI_20151224_001934	{@st66b}Settings{/}	{@st66b}설정{/}
 UI_20151224_001935	{@st42b}Save{/}	{@st42b}저장{/}				
 UI_20151224_001936	{@st41}Party Name & Description{/}	{@st41}파티명과 설명{/}				
 UI_20151224_001937	Show Nearby Parties	주변 파티 정보 표시	UI_20150918_001792	{@st42}Show Nearby Parties{/}	{@st42}주변 파티 정보 표시{/}	
-UI_20151224_001938	Public Party	공개 파티 목록에 등록	UI_20150714_001599	{@st42}Public Party{/}	{@st42}공개 파티 목록에 등록{/}	
+UI_20151224_001938	Public Party	공개 파티 목록에 등록				
 UI_20151224_001939	Lv. Difference	레벨 차이				
-UI_20151224_001940	Use 'Recommend Party'	파티원 추천 기능 사용	UI_20150714_001601	{@st42}Use 'Recommend Party'{/}	{@st42}파티원 추천 기능 사용{/}	
+UI_20151224_001940	Use 'Recommend Party'	파티원 추천 기능 사용				
 UI_20151224_001941	{@st66b}Insert Party Invite Tag	{@st66b}파티 초대 태그 삽입				
 UI_20151224_001942	Competitive Mission	경쟁 미션				
 UI_20151224_001943	Unit	단위				
@@ -2629,7 +2629,7 @@ UI_20170330_002628	Expiration Date	기간만료
 UI_20170330_002629	Market silver instantly retrievable	마켓 판매금 즉시 수령				
 UI_20170330_002630	Registration Outside of Max./Min. Price Allowed	마켓 상/하한가 관계없이 물품 등록 가능				
 UI_20170330_002631	Movable via Team Storage	팀 창고 이용 가능				
-UI_20170418_002632	{@st66} If the purchase list doesn't show up properly due to temporary error, please try click the Retrieve all button for receiving item.{/}	{@st66}일시적인 오류로 구매 내역이 표시되지 않을 경우, 전체 수령 버튼을 클릭하여 수령을 시도해 보시기 바랍니다.{/}				
+UI_20170418_002632	{@st66} * If the purchase list doesn't show up properly due to temporary error, please try click the Retrieve all button for receiving item.{/}	{@st66}일시적인 오류로 구매 내역이 표시되지 않을 경우, 전체 수령 버튼을 클릭하여 수령을 시도해 보시기 바랍니다.{/}				
 UI_20170418_002633	{@st68}Reload{/}	{@st68}새로고침				
 UI_20170418_002634	{@st68}Retrieve all{/}	{@st68}전체수령				
 UI_20170418_002635	Required Points	필요 포인트				
@@ -2749,8 +2749,8 @@ UI_20170912_002748	Class Points %s	클래스 점수  %s점
 UI_20170912_002749	Team Level %s	팀 레벨 %s				
 UI_20170912_002750	Exploration	탐험				
 UI_20170912_002751	%s % Explored	총 탐사율 %s %				
-UI_20170912_002752	- Recommended Level	- 권장레벨				
-UI_20170912_002753	- Exploration	- 탐색율				
+UI_20170912_002752	#NAME?	- 권장레벨				
+UI_20170912_002753	#NAME?	- 탐색율				
 UI_20170912_002754	Type	종류				
 UI_20170912_002755	Acquisition Points %s	획득 점수 %s 점				
 UI_20170912_002756	Acquisition Points %s	획득점수 %s점				
@@ -3197,9 +3197,9 @@ UI_20180517_003196	{@st41b}{s14}{#0e7fe8}Magic	{@st41b}{s14}{#0e7fe8}매직
 UI_20180517_003197	{@st41b}{s14}{#a124d0}Rare	{@st41b}{s14}{#a124d0}레어				
 UI_20180517_003198	{@st41b}{s14}{#d92400}Unique	{@st41b}{s14}{#d92400}유니크				
 UI_20180517_003199	{@st41b}{s14}{#ffa800}Legend	{@st41b}{s14}{#ffa800}레전드				
-UI_20180517_003200	Cannot transcend	초월 불가				
-UI_20180517_003201	Cannot extract	추출 불가				
-UI_20180517_003202	Cannot extract sockets	소켓 추출 불가				
+UI_20180517_003200	NO trans	초월 불가				
+UI_20180517_003201	NO extrct	추출 불가				
+UI_20180517_003202	NO sockt	소켓 추출 불가				
 UI_20180517_003203	Main Weapon	주무기				
 UI_20180517_003204	Armor	갑옷				
 UI_20180517_003205	Bottom	바지				
