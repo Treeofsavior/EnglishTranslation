@@ -1,4 +1,4 @@
-UI_20150317_000001	{@st41b}Learn Attributes{nl}from respective masters of each class.{/}	{@st41b}각 클래스 마스터들에게서{nl}특성을 배울 수 있습니다.{/}				
+﻿UI_20150317_000001	{@st41b}Learn Attributes{nl}from respective masters of each class.{/}	{@st41b}각 클래스 마스터들에게서{nl}특성을 배울 수 있습니다.{/}				
 UI_20150317_000002	{@st43}Attribute List {/}	{@st43}특성 목록{/}				
 UI_20150317_000003	{@st59}Close{/}	{@st59}특성리스트를 닫습니다{/}				
 UI_20150317_000004	{@st43}Learn Attributes{/}	{@st43}특성 배우기{/}				
@@ -1280,7 +1280,7 @@ UI_20150317_001279	Windows	윈도우
 UI_20150317_001280	Status	스테이더스				
 UI_20150317_001281	Tab	탭				
 UI_20150317_001282	Image Item	이미지아이템				
-UI_20150317_001283	Effect	이펙트				
+UI_20150317_001283	 Effect	이펙트				
 UI_20150317_001284	Control Set	컨트롤셋				
 UI_20150317_001285	{@St41}Difficulty : %s	{@st41}난이도 : %s				
 UI_20150317_001286	{@St42}Remaining Time : %s	{@st42}남은 시간 : %s				
@@ -1773,7 +1773,7 @@ UI_20150807_001772	{@st41b}Details {img red_down_arrow 16 16}	{@st41b}상세 보
 UI_20150807_001773	{@st41b}Price :{/}	{@st41b}거래 정산 :{/}	UI_20150317_000632	{@st41b}Price{/}	{@st41b}거래 정산 ▶{/}	
 UI_20150807_001774	{@st41b}After Repair :{/}	{@st41b}예상 잔액 :{/}	UI_20150317_000633	{@st41b}Balance{/}	{@st41b}예상 잔액 ▶{/}	
 UI_20150918_001775	Camp Duration	캠프 유지 시간				
-UI_20150918_001776	Effect	효과				
+UI_20150918_001776	 Effect	효과				
 UI_20150918_001777	Camp duration is increased when it is renewed.{nl}Requires %s silver.	갱신시 캠프 유지시간이 증가되며{nl} %s실버가 소모됩니다.				
 UI_20150918_001778	Personal Storage	개인 창고				
 UI_20150918_001779	{@st41b}Type : {@sti7}%s{/}	{@st41b}타입 : {@sti7}%s{/}				
@@ -3580,3 +3580,222 @@ UI_20181017_003579	Trade Grade	거래 등급 안내
 UI_20181017_003580	Character Lv %s	캐릭터 레벨 %s				
 UI_20181017_003581	Team %s+ days old	팀 생성 %s일 이상				
 UI_20181017_003582	%s Revelations obtained	계시 %s개 획득				
+UI_20190104_003583	{@st66d}Extract Attribute Points	{@st66d}특성 포인트 추출				
+UI_20190104_003584	{@st59s}Consumes 100,000 silver to extract 1,000 attribute points{nl} to a single Attribute Point Scroll.	{@st59s}100,000실버를 소비하여 특성 포인트 1000당{nl}특성 포인트 스크롤 1개로 추출합니다.				
+UI_20190104_003585	Fee	수수료				
+UI_20190104_003586	%s Silver	%s 실버				
+UI_20190104_003587	Scrolls Extracted	추출할 특성 포인트 스크롤				
+UI_20190104_003588	Amount Spent	소비 실버				
+UI_20190104_003589	Points Extracted	추출 특성 포인트				
+UI_20190104_003590	Points Remaining	잔여 특성 포인트				
+UI_20190104_003591	{@st66b}Extract	{@st66b}추출				
+UI_20190104_003592	Collection Effects	컬렉션 효과				
+UI_20190104_003593	{@st59}Scout Tree{/}	{@st59}스카우트 계열{/}				
+UI_20190104_003594	{@st41b}Identification Cost{/} %s	{@st41b}감정 비용{/}%s				
+UI_20190104_003595	{@st59}Doll{/}	{@st59}인형{/}				
+UI_20190104_003596	{img silver 20 20}Price %s	{img silver 20 20}가격 %s				
+UI_20190104_003597	{@st44}Class List{/}	{@st44}클래스 목록{/}				
+UI_20190104_003598	{@st43}Current Class Info	{@st43}현재 클래스 정보				
+UI_20190104_003599	{@st43}Change Class Tree {img testquesten_button 30 30}	{@st43}클래스 변경 {img testquesten_button 30 30}				
+UI_20190104_003600	The maximum amount of points that can be earned is reset every Monday at 06:00, server time.{nl}Points can be earned as follows:{nl} {nl}- Connect to game: 10 points (5 additional points for players in a guild and players under Token effects){nl} - Successful fishing: 1 point per catch{nl}- Saalus Convent Mission: 15 points{nl}- Legend Raid: 20 points{nl} (Except for Earth Tower, where 5 points are earned every 5 levels){nl}- Uphill Defense Mission: 10 points{nl}- Unique Raid: 20 points{nl}- Level Dungeon: 10 points{nl}- Mercenary Post Mission: 10 points{nl}- Daily Quest: 10 points	획득 가능한 포인트량은 매주 월요일 6시에 초기화됩니다.{nl}포인트는 아래의 방법으로 획득할 수 있습니다.{nl} {nl}- 접속: 10 포인트 (PC방 접속 중, 길드 가입 중, 토큰 적용 중일 시 각 5 포인트 추가 획득){nl}- 낚시 성공: 1회 당 1 포인트{nl}- 살러스 수녀원 미션: 15 포인트{nl}- 레전드 레이드: 20 포인트{nl}  (단, 대지의 탑은 5층 단위로 5점씩 지급됩니다.){nl}- 업힐 디펜스 미션: 10 포인트{nl}- 유니크 레이드: 20 포인트{nl}- 레벨 던전: 10 포인트{nl}- 의뢰소 미션: 10 포인트{nl}- 일일 퀘스트: 10 포인트				
+UI_20190104_003601	{@st42}Weekly Points{/} {@st66d_y}(%s/%s){/}	{@st42}주간획득 포인트{/} {@st66d_y}(%s/%s){/}				
+UI_20190104_003602	{@st43}Advance	{@st43}전직하기				
+UI_20190104_003603	{@st66d_y}{#ffa800}Stat Growth Ratio	{@st66d_y}{#ffa800}스탯 성장 비율				
+UI_20190104_003604	{@st42}{#FFCC66}STR	{@st42}{#FFCC66}힘				
+UI_20190104_003605	{@st42}{#FFCC66}CON	{@st42}{#FFCC66}체력				
+UI_20190104_003606	{@st42}{#FFCC66}INT	{@st42}{#FFCC66}지능				
+UI_20190104_003607	{@st42}{#FFCC66}SPR	{@st42}{#FFCC66}정신				
+UI_20190104_003608	{@st42}{#FFCC66}DEX	{@st42}{#FFCC66}민첩				
+UI_20190104_003609	{@st43}Class Information{/}	{@st43}클래스 정보{/}				
+UI_20190104_003610	Close the class change mode.	클래스 변경 모드를 종료합니다.				
+UI_20190104_003611	{@st43}Select a class and click the Advance button.	{@st43}변경 할 클래스를 선택한 후에 전직하기 버튼을 눌러주세요.				
+UI_20190104_003612	{@st66b18}※ TP or items used for name changes cannot be refunded.{/}	{@st66b18}※이름 변경에 사용된 TP 또는 아이템은 환불되지 않습니다.{/}				
+UI_20190104_003613	{@st59b}Collection {nl}{@st59s}- Purchase the Collection Deck to add collectible items to your collection. {nl} - The collection hotkey will be enabled when you use the Collection Deck Item. {nl} {/}	{@st59b}컬렉션{nl}{@st59s} - 게임내 컬렉션 덱을 구해 아이템을 수집하면 해당 아이템 수집 가능{nl} - 컬렉션 덱 아이템 사용했을 경우 컬렉션 단축키가 활성화{nl}{/}	UI_20150317_000130	{@st59b}Collection {nl}{@st59s}- Purchase the Collection Deck to add collectible items to your collection. {nl} - The collection hotkey will be enabled when you use the Collection Deck Item. {nl} {/}	{@st59b}콜렉션{nl}{@st59s} - 게임내 콜렉션 덱을 구해 아이템을 수집하면 해당 아이템 수집 가능{nl} - 콜렉션 덱 아이템 사용했을 경우 콜렉션 단축키가 활성화{nl}{/}	
+UI_20190104_003614	{@st59}Close{/}	{@st59}컬렉션 정보를 닫습니다{/}	UI_20150317_000131	{@st59}Close{/}	{@st59}콜렉션 정보를 닫습니다{/}	
+UI_20190104_003615	{@st43}Collection{/}	{@st43}컬렉션{/}	UI_20150317_000132	{@st43}Collection{/}	{@st43}콜렉션{/}	
+UI_20190104_003616	{@st68b}{s18}Collection{/}	{@st68b}{s18}컬렉션 상태{/}	UI_20170313_002538	{@st68b}{s18}Collection{/}	{@st68b}{s18}콜렉션 상태{/}	
+UI_20190104_003617	{@st59}Search the name of a collection or effect.{/}	{@st59}컬렉션 이름 또는 효과로 검색 합니다.{/}	UI_20170313_002544	{@st59}Search the name of a collection or effect.{/}	{@st59}콜렉션 이름 또는 효과로 검색 합니다.{/}	
+UI_20190104_003618	ⓘ Reward lists are updated 1 hour after each session.{nl}ⓘ Rewards can be claimed only by the guild master. Claimed items are sent to the guild storage.{nl}ⓘ Beta test sessions offer no rewards.	ⓘ 점령 보상 목록은 콜로니전 종료 후 1시간 뒤에 갱신됩니다.{nl}ⓘ 보상 수령은 길드마스터만 가능하며, 수령된 아이템은 길드 보관함으로 이동됩니다.{nl}ⓘ Beta로 진행되는 길드 콜로니전에서는 점령 보상이 지급되지 않습니다.	UI_20180723_003384	ⓘ Victory rewards are applied 1 hour after the end of each GTW session.{nl}ⓘ Only the Guild Master can retrieve these rewards. The items are sent to your Guild Storage.	ⓘ 점령 보상 목록은 콜로니전 종료 후 1시간 뒤에 갱신됩니다.{nl}ⓘ 보상 수령은 길드마스터만 가능하며, 수령된 아이템은 길드 보관함으로 이동됩니다.	
+UI_20190104_003619	{s6} {nl}{/}{@st41d}{img colony_point_pic 24 24}Current Points{nl}{/}	{s6} {nl}{/}{@st41d}{img colony_point_pic 24 24}포인트 현황{nl}{/}				
+UI_20190104_003620	{s6} {nl}{/}{@st41d}{img colony_deploy_pic 24 24}Positions{/}	{s6} {nl}{/}{@st41d}{img colony_deploy_pic 24 24}배치 현황{/}				
+UI_20190104_003621	Utilities	유틸형				
+UI_20190104_003622	Deterrents	이동 방지형				
+UI_20190104_003623	Current Points	점령 포인트				
+UI_20190104_003624	Effects	적용 효과				
+UI_20190104_003625	{@st42}{s20}Victory Benefits	{@st42}{s20}점령 혜택				
+UI_20190104_003626	{@st66b}Adjust Tax Rate{/}	{@st66b}세율 조정{/}				
+UI_20190104_003627	{@st66b}Tax Collection{/}	{@st66b}세금 징수{/}				
+UI_20190104_003628	Target Cities	세율 적용 도시				
+UI_20190104_003629	Tax Rate	세율				
+UI_20190104_003630	Payment Day	지급일				
+UI_20190104_003631	Collecting Cities	세금 징수 도시				
+UI_20190104_003632	Remaining Allocation Period	남은 분배 기간				
+UI_20190104_003633	Tax	세금				
+UI_20190104_003634	Tax Allocation	세금 분배				
+UI_20190104_003635	Retrieve Tax	세금 수령				
+UI_20190104_003636	Allocated Sum	분배 금액				
+UI_20190104_003637	{@st66b}Important{/}	{@st66b}유의사항{/}				
+UI_20190104_003638	{@st66b}Taxable Goods{/}	{@st66b}세율 적용 항목{/}				
+UI_20190104_003639	{@st66b}Records{/}	{@st66b}세금 상세 이력{/}				
+UI_20190104_003640	{@st42}{s20}Tax Allocation	{@st42}{s20}세금 분배				
+UI_20190104_003641	Current Sum	현재 금액				
+UI_20190104_003642	Sending	보낼 금액				
+UI_20190104_003643	Remaining Funds	잔여 금액				
+UI_20190104_003644	Team: %s	팀명 %s				
+UI_20190104_003645	Amount	금액				
+UI_20190104_003646	{@st42}{s16}Send	{@st42}{s16}보내기				
+UI_20190104_003647	{@st42}{s20}Retrieve Taxes	{@st42}{s20}세금 수령				
+UI_20190104_003648	Remaining Period	남은 수령 기간				
+UI_20190104_003649	{@st42}{s20}Warp List	{@st42}{s20}워프 목록				
+UI_20190104_003650	Current Status	점령 현황				
+UI_20190104_003651	{img icon_item_silver 20 20}{@st41b}Proceed {/}{img white_right_arrow 15 18} %s	{img icon_item_silver 20 20}{@st41b}거래 정산 {/}{img white_right_arrow 15 18} %s				
+UI_20190104_003652	{@st41b}Items Bought{/} %s	{@st41b}구입 아이템{/} %s				
+UI_20190104_003653	{@st41b}Total spent vouchers: {/}	{@st41b}총 소비 교환권 : {/}				
+UI_20190104_003654	Do you wish to use the vouchers to exchange them for items?	교환권을 위 아이템으로 교환하시겠습니까?				
+UI_20190104_003655	You can add items to the Alchemy Workshop to use in skills.	연금공방에 아이템을 등록하여 스킬을 사용할 수 있습니다.				
+UI_20190104_003656	{@st43}Alchemy Workshop	{@st43}연금공방				
+UI_20190104_003657	Register items to consume with the Combustion skill.	컴버스천 스킬 사용시 소모될 재료를 등록해주세요.				
+UI_20190104_003658	Register HP potions to consume with the Sprinkle HP Potion skill.	스프링클 HP 포션 스킬 사용시 소모될 HP 포션을 등록해주세요.				
+UI_20190104_003659	Register SP potions to consume with the Sprinkle SP Potion skill.	스프링클 SP 포션 스킬 사용시 소모될 SP 포션을 등록해주세요.				
+UI_20190104_003660	{@st63}Receive the reward and leave.{/}	{@st63}보상을 획득하고 퇴장합니다.{/}				
+UI_20190104_003661	{@st63}Move to the next floor{/}	{@st63}다음층으로 이동{/}				
+UI_20190104_003662	{@st66b}{s16}* Items will remain tradable after being traded{nl}only if they possess no current trade restrictions.{/}{/}	{@st66b}{s16}*무제한 거래 가능 상태 이어야만, {nl}거래한 아이템의 속성이 그대로 유지됩니다.{/}{/}	UI_20180115_002980	{@st66b}{s16}*Items remain tradable only when there are trades left.{/}{/}	{@st66b}{s16}*잔여 거래 가능 횟수가 있어야만, {nl}거래한 아이템의 속성이 그대로 유지됩니다.{/}{/}	
+UI_20190104_003663	{s16}{@st66b}*{/}{@st66d_y}Trade Restrictions{/}{@st66b} means that {/} {@st66d_y}all items traded{nl}can no longer be traded or transferred via Team Storage{/}{@st66b}.{/}{/}	{s16}{@st66b}*{/}{@st66d_y}무제한 거래 불가{/}{@st66b} 상태에서는{/} {@st66d_y}거래한 모든 아이템이{nl} 팀 창고 이동 및 거래가 불가능{/}{@st66b}해집니다.{/}{/}	UI_20180115_002981	{s16}{@st66b}*{/}{@st66d_y}No Trades Left{/}{@st66b} means that {/} {@st66d_y}all items traded{nl}can no longer be traded or transferred via Team Storage{/}{@st66b}.{/}{/}	{s16}{@st66b}*{/}{@st66d_y}거래 가능 횟수 0{/}{@st66b} 상태에서는{/} {@st66d_y}거래한 모든 아이템이{nl} 팀 창고 이동 및 거래가 불가능{/}{@st66b}해집니다.{/}{/}	
+UI_20190104_003664	{s16}{@st66b}*{/}{@st66d_y}Event Tokens do not lift trading restrictions.{nl}{/} {@st66b}Please take note.{/}{/}	{s16}{@st66b}*{/}{@st66d_y}증정용 토큰으로는 무제한 거래 상태가 될 수 없습니다.{nl}{/} {@st66b}거래 시 주의해 주세요.{/}{/}	UI_20180115_002982	{s16}{@st66b}*{/}{@st66d_y}Event Tokens offer 0 trade counts.{nl}{/} {@st66b}Make sure to check the count before trading.{/}{/}	{s16}{@st66b}*{/}{@st66d_y}증정용 토큰에는 거래 가능 횟수가 없습니다.{nl}{/} {@st66b}거래 시 주의해 주세요.{/}{/}	
+UI_20190104_003665	{@st66d}The items below will be{nl}  {@st66d_y}character-bound.{nl}Team Storage NO, Personal Trade NO, Market NO{/}	{@st66d}아래 아이템은{nl}  {@st66d_y}캐릭터에게 귀속됩니다.{nl}팀 창고 이동, 개인 및 마켓 거래 불가{/}	UI_20180115_002985	{@st66d}The following items will become{nl}  {@st66d_y}untradable (Trade NO, Team Storage NO){/}.{/}	{@st66d}아래 아이템이{nl}  {@st66d_y}팀 창고 이동 및 거래 불가{/} 상태가 됩니다.{/}	
+UI_20190104_003666	Exchange Artifact	유물 교환				
+UI_20190104_003667	Token Benefits	토큰 혜택				
+UI_20190104_003668	{s18}Expiring soon.	{s18}곧 기간이 만료됩니다.	UI_20170330_002600	{s18}Items with Expiration Date	{s18}기간제 아이템 목록	
+UI_20190104_003669	{s18}Are you sure you want to close?	{s18}그래도 종료 하시겠습니까?	UI_20170330_002601	Item(s) close to expiration date. Close?	곧 기간이 만료됩니다. 종료하시겠습니까?	
+UI_20190104_003670	{@st66b}Upgrade	{@st66b}업그레이드				
+UI_20190104_003671	{@st66b}Shared Storage{/}	{@st66b}공용 창고{/}				
+UI_20190104_003672	ⓘ Guilds defending a Spot are automatically set as participants.{nl}ⓘ Only the Guild Master can change a guild's participation settings, and once they are set to  	ⓘ 스팟 점령 길드는 참가로 고정됩니다.{nl}ⓘ 참가 여부 옵션은 길드 마스터만 변경할 수 있으며, 	UI_20170912_002845	ⓘ Guilds with Spots seized are automatically participating.{nl}ⓘ After setting the status to  	ⓘ 스팟 점령 길드는 참가로 고정됩니다.{nl}ⓘ 참가 여부 옵션을 	
+UI_20190104_003673	, the role of Guild Master becomes unavailable for transfer.{nl}ⓘ Participation settings can only be changed until 5 minutes before the Territory Wars begin, or 1 minute after they end.{nl}ⓘ They can be changed regardless of whether your guild has a tower or not.{nl}ⓘ Guild members who abandoned their previous guild less than 14 days in the past cannot participate in GTW.	로 변경 시 길드 마스터 위임이 불가능합니다.{nl}ⓘ 참가 여부 옵션은 길드 콜로니전 시작 5분 전 부터 종료 1분 후까지 변경할 수 없습니다.{nl}ⓘ 참가 여부 옵션은 길드 타워의 설치 유무와 상관없이 변경할 수 있습니다.{nl}ⓘ 이전 길드 탈퇴일을 기점으로 14일 미만인 길드원은 길드 콜로니전에 참가할 수 없습니다.	UI_20170912_002846	, you cannot transfer the position of Guild Master.{nl}ⓘ Only a Templar Guild Master can change the participation status.{nl}ⓘ This option can only be changed until 5 minutes before the Territory Wars begin, or after 1 minute after they end.{nl}ⓘ The participation status can be changed regardless of whether your guild has a tower or not.	로 변경 시, 길드 마스터 위임이 불가능합니다.{nl}ⓘ 참가 여부 옵션은 템플러 클래스를 가진 길드 마스터만 변경할 수 있습니다.{nl}ⓘ 참가 여부 옵션은 길드 콜로니전 시작 5분 전 부터 종료 1분 후까지 변경할 수 없습니다.{nl}ⓘ 참가 여부 옵션은 길드 타워의 설치 유무와 상관없이 변경할 수 있습니다.	
+UI_20190104_003674	{@st41b}{s16}Victory Benefits	{@st41b}{s16}점령 혜택	UI_20180723_003385	{@st41b}{s16}Victory Rewards	{@st41b}{s16}점령 보상	
+UI_20190104_003675	City Tax	도시 세율				
+UI_20190104_003676	City Tax {img tip_questionmark 20 20}	징수될 도시 세금{img tip_questionmark 20 20}				
+UI_20190104_003677	Market Tax {img tip_questionmark 20 20}	징수될 마켓 세금{img tip_questionmark 20 20}				
+UI_20190104_003678	ⓘ Guilds that seized a Spot can use the Victory Benefits button to adjust city tax rates and collect tax.	ⓘ 점령 길드는 점령 혜택 버튼을 통해 도시의 세율 조정 및 세금 징수가 가능합니다	UI_20180413_003050	ⓘ Please see our official website at treeofsavior.com for more information on Territory Wars rewards and benefits during the beta testing period.	ⓘ Beta로 진행되는 길드 콜로니전의 점령 혜택은 홈페이지 내 공지사항을 통해 확인 바랍니다.	
+UI_20190104_003679	{@st43b}{s18}Items{/}	{@st43b}{s18}아이템{/}				
+UI_20190104_003680	{@st66b}Guild Mileage: %s{/}	{@st66b}길드 마일리지:%s{/}				
+UI_20190104_003681	{@st66b}{s18}Retrieve Items{/}	{@st66b}{s18}아이템 수령{/}				
+UI_20190104_003682	{@st43b}{s18}Transaction Records{/}	{@st43b}{s18}입고/출고 내역{/}				
+UI_20190104_003683	{@st66b}Show deposits only	{@st66b}입고만 보기				
+UI_20190104_003684	{@st66b}Show withdrawals only	{@st66b}출고만 보기				
+UI_20190104_003685	{@st41d}3 hours       	{@st41d}3시간       				
+UI_20190104_003686	{@st41d}10 hours       	{@st41d}10시간       				
+UI_20190104_003687	{@st41d}1 day       	{@st41d}1일       				
+UI_20190104_003688	{@st41d}3 days       	{@st41d}3일       				
+UI_20190104_003689	{@st41d}7 days       	{@st41d}7일       				
+UI_20190104_003690	{@st41d}1 month       	{@st41d}1개월       				
+UI_20190104_003691	{@st41d}2 months       	{@st41d}2개월       				
+UI_20190104_003692	{@st41d}3 months       	{@st41d}3개월       				
+UI_20190104_003693	ⓘ Every deposit/withdrawal equals 20 mileage.{nl}ⓘ Mileage is accumulated when guild members login, and when participating in guild quests and Territory Wars.	ⓘ 입고/출고 시 마일리지 20 차감 됩니다. {nl}ⓘ마일리지는 길드원 로그인, 길드 퀘스트, 콜로니전 참여를 통해서 적립됩니다.				
+UI_20190104_003694	Check online members with authority to accept applications	가입 승인 직급이 있는 접속한 길드원 표시				
+UI_20190104_003695	Show recruiting guilds only	가입 가능한 길드만 보기				
+UI_20190104_003696	Skip cube animation	큐브 애니메이션 스킵				
+UI_20190104_003697	{@st43}{s20}Team Use{/}	{@st43}{s20}팀 이용 현황{/}				
+UI_20190104_003698	Ranking	랭킹 정보				
+UI_20190104_003699	{@st43}News{/}	{@st43}뉴스{/}	UI_20170726_002688	{@st43}NEWS{/}	{@st43}이벤트 안내{/}	
+UI_20190104_003700	{@st59}Seals{/}	{@st59}인장{/}				
+UI_20190104_003701	{@st41b}Dismantlement Cost{/}%s	{@st41b}분해 비용{/}%s				
+UI_20190104_003702	{@st66d_y}Insert an Awakening Stone.{/}	{@st66d_y}각성석을 추가해주세요.{/}				
+UI_20190104_003703	Awakening Stone Item Name	각성석 아이템 이름				
+UI_20190104_003704	{@st66b}* Re-identifying an item maintains the number of stats and the groups (colors) they belong to. Only the particular stats and their values can change.{/}	{@st66b}* 재감정시 옵션 그룹(색상)과 옵션 개수는 유지되며, {nl}세부 옵션과 옵션 수치만 변경됩니다.{/}				
+UI_20190104_003705	{@st43}Enhance Seal	{@st43}인장 강화				
+UI_20190104_003706	{@st66d_y}{b}Main Seal	{@st66d_y}{b}주 옵션 인장				
+UI_20190104_003707	{@st43b}{s18}{b}Material	{@st43b}{s18}{b}재료 인장				
+UI_20190104_003708	Item Name	주 옵션 인장 아이템의 이름				
+UI_20190104_003709	{@st68b}{b}Base Chance: %s%	{@st68b}{b}기본 확률: %s%				
+UI_20190104_003710	{@st66d_y}Magic Stone Amplification + %s%	{@st66d_y}마정석 증폭 + %s%				
+UI_20190104_003711	{@st43}{s20}%s% Success Chance	{@st43}{s20}성공률 %s%				
+UI_20190104_003712	{@st42}Enhancement	{@st42}강화				
+UI_20190104_003713	{@st42}Magic Stone	{@st42}마정석				
+UI_20190104_003714	{img silver_pic 24 24} Price {img white_right_arrow 16 16} %s	{img silver_pic 24 24} 가격 {img white_right_arrow 16 16} %s				
+UI_20190104_003715	The item has been destroyed.	아이템이 파괴 되었습니다.				
+UI_20190104_003716	{@st42}OK	{@st42}확인				
+UI_20190104_003717	Extra Socket Cost %s : {#000000}%s{/} {nl}Gem Extraction Cost %s : {#000000}%s{/}	소켓 추가 비용 %s : {#000000}%s{/} {nl}젬 추출 비용 %s : {#000000}%s{/}	UI_20150714_001575	Additional Socket Cost : {#000000}%s{/} {nl}Gem Extraction Cost : {#000000}%s{/}	소켓 추가 비용 : {#000000}%s{/} {nl}젬 추출 비용 : {#000000}%s{/}	
+UI_20190104_003718	{@st59}Close the map.{/}	{@st59}지도를 닫습니다{/}				
+UI_20190104_003719	%s{@st42}{s14}{#ffff00}Cancel (Jump Key){/}	%s{@st42}{s14}{#ffff00}취소(점프 키){/}				
+UI_20190104_003720	{@st41b}Collection{/}	{@st41b}컬렉션{/}	UI_20170313_002554	{@st41b}Collection{/}	{@st41b}콜렉션{/}	
+UI_20190104_003721	{s20}Change class trees?{/}	{s20}계열 변경을 하시겠습니까?{/}				
+UI_20190104_003722	* After the class tree change, you will receive attribute points{nl}equivalent to the level of your attributes prior to the change.	* 계열 변경 전 올린 특성의 레벨은{nl}계열 변경 후 특성 포인트를 돌려드립니다.				
+UI_20190104_003723	* Class EXP Cards equivalent to the last Class Level{nl}you achieved will be sent to your inventory.	* 마지막 달성한 클래스 레벨을 확인해 그에 해당하는 {nl} 클래스 경험치 카드를 인벤토리로 지급합니다.				
+UI_20190104_003724	* You will return to the barracks after changing class trees.	* 계열 변경 후엔 캐릭터 선택창으로 돌아갑니다.				
+UI_20190104_003725	* You cannot change class trees{nl}if you have any unused EXP Recovery Cards in your inventory.	* 사용하지 않은 클래스 경험치 복구카드가 {nl} 있을 경우 계열 변경을 할 수 없습니다.				
+UI_20190104_003726	Are you sure you want to change to the selected class?{/}	선택하신 클래스를 변경하시겠습니까?{/}				
+UI_20190104_003727	Your class will be changed into the newly-selected class{nl}and {@st66d_y}Class Change Points will be consumed.{/}{/}	해당 클래스의 전직을 취소하고 선택한 클래스로 변경되며{nl}{@st66d_y}클래스 변경 포인트가 소모됩니다.{/}{/}	UI_20180517_003174	If you undo your current class advancement,{nl}the advancement will be undone and{nl}{@st66d_y}your current class EXP will disappear.{/}{/}	현재 클래스의 전직을 취소하고 전직 이전으로 되돌아가며{nl}{@st66d_y}클래스 경험치는 사라집니다.{/}{/}	
+UI_20190104_003728	* Skills and attributes of deleted{nl}classes will be returned as points.	* 변경으로 인해 삭제 되는 클래스는 스킬과{nl}특성을 초기화 후 포인트로 반환됩니다.				
+UI_20190104_003729	* Changing your class will remove the class costumes{nl}for classes you had previously advanced into.	* 클래스 변경을 진행하면 기존에 전직했던{nl} 클래스의 코스튬이 제거됩니다.				
+UI_20190104_003730	* You will return to your Lodge after confirming.	* 변경 후에는 캐릭터 선택창으로 돌아갑니다.				
+UI_20190104_003731	* Common attributes will also be reset,{nl}and attribute points will be returned.	* 변경 시 공용 특성도 초기화 되며,{nl}이때 투자한 특성 포인트는 반환됩니다.				
+UI_20190104_003732	{@st41b}Repair Cost{/} %s	{@st41b}수리 비용{/} %s				
+UI_20190104_003733	{@st66b}%sResurrect with a Mysterious Crystal%s{/}	{@st66b}%s신비한 크리스탈로 부활하기%s{/}				
+UI_20190104_003734	{@st42}{s20}Skills and Attributes	{@st42}{s20}스킬과 특성				
+UI_20190104_003735	{@st43}Craft Scroll	{@st43}주문서 제작	UI_20161005_002365	{@st43}Craft Spellbook	{@st43}스펠북 제작	
+UI_20190104_003736	{s18}Are you sure you want to use %s?{/}	{s18}%s 아이템을 사용하시겠습니까?{/}				
+UI_20190104_003737	This item will disappear from your inventory{nl}and %s will be reset.{/}	사용한 아이템은 인벤토리에서 사라지며{nl}%s가 초기화 됩니다.{/}				
+UI_20190104_003738	{@st66b}Overall Ranking 	{@st66b}통합 랭킹 				
+UI_20190104_003739	{@st59}Show overall ranking{/}	{@st59}초기화되지 않는 통합 랭킹을 보여줍니다{/}				
+UI_20190104_003740	{@st66b}Top 3 ranking players per class tree receive a{nl}{#003997} "Dimensional Incense Burner"{/}for the previous week's rankings. All players who participated in the week receive a set of{nl}{#003997} "Dimensional Potions"{/}{nl}according to their score.{nl} {nl}{s13}The week starts every Monday at 06:00 (server time).{nl} {nl}{s13}{#8e0000}Players who make it to the top 3 of more than one class tree receive only the rewards corresponding to their own highest ranking.{nl} {nl}When a player is excluded from a class tree ranking because of multiple entries, the player next to them takes their place in that ranking.	{@st66b}직업군별 랭킹 TOP 3 구원자분들에게는{nl}{#003997} "차원의 향로"{/}아이템을 전 시즌 랭킹 보상으로 지급하며 시즌에 참여한 구원자 분들께는 자신의 기록에 비례한 수량의{nl}{#003997} "차원의 포션"{/}{nl}을 보상으로 지급합니다.{nl} {nl}{s13}시즌은 매주 월요일 06시에 초기화 됩니다{nl} {nl}{s13}{#8e0000}각 직업군 TOP3 순위에 오른 구원자분이 다른 직업군 TOP3 순위에도 오른 경우 가장 높은 순위의 보상 1회만 받게 됩니다.{nl} {nl}위와 같은 상황에서 제외된 구원자분을 대신하여 해당 직업군의 다음 순위의 구원자분이 랭킹 보상을 지급받게 됩니다.	UI_20180629_003303	{@st66b}Top 10 ranking players receive a{nl}{#003997}"Dimensional Incense Burner"{/} for the previous week's rankings.{nl}Players who participated in the week receive a set of{nl}{#003997}"Dimensional Potions"{/} according to their score.{nl} {nl}{s13}The week starts every Monday at 06:00 (server time).	{@st66b}랭킹 TOP 10 구원자분들에게는{nl}{#003997} "차원의 향로"{/}아이템을 전 시즌 랭킹 보상으로 지급하며 시즌에 참여한 구원자 분들께는 자신의 기록에 비례한 수량의{nl}{#003997} "차원의 포션"{/}{nl}을 보상으로 지급합니다.{nl} {nl}{s13}시즌은 매주 월요일 06시에 초기화 됩니다	
+UI_20190104_003741	{@st66b}Scout	{@st66b}스카우트				
+UI_20190104_003742	{@st66b}{s16}Scout	{@st66b}{s16}스카우트				
+UI_20190104_003743	{@st59b}My Information{nl}{@st59s}- Stats: Leveling up enhances your 5 basic stats. {nl}- Information: This is information about your character based on your current stats and equipment. {nl}- Title: Titles can be earned by accomplishing achievements. {nl} {/}	{@st59b}내 정보{nl}{@st59s} - 스테이터스 : 레벨업으로 증가하는 5가지 능력{nl} - 정보 : 아이템 및 스테이터스 능력치에 따른 캐릭터 능력치 정보{nl} - 칭호 : 업적을 완료했을때 습득가능한 칭호{nl}{/}	UI_20150317_000709	{@st59b}My Information{nl}{@st59s}- Status : Use the points you earned by leveling up to enhance the 5 status attributes. {nl}- Information : This is information about your character based on your current status and equipment. {nl}- Title : Titles can be earned by accomplishing achievements. {nl} {/}	{@st59b}내 정보{nl}{@st59s} - 스테이터스 : 레벨업으로 얻은 포인트를 사용해서 5가지 능력 강화{nl} - 정보 : 아이템 및 스테이터스 능력치에 따른 캐릭터 능력치 정보{nl} - 칭호 : 업적을 완료했을때 습득가능한 칭호{nl}{/}	
+UI_20190104_003744	{@st66b}Compare Equipment{/}	{@st66b}장비 비교하기{/}				
+UI_20190104_003745	{@st66b}Show guild and team names in GTW{/}	{@st66b}콜로니전 길드 이름, 팀 이름 보기{/}				
+UI_20190104_003746	{@st66b}Show effect costumes in GTW{/}	{@st66b}콜로니전 이펙트 코스튬 효과 켜기{/}				
+UI_20190104_003747	{@st68b}{@st43b}{s18}{img clock_3 25 25}Time Remaining: %s{/}{/}	{@st68b}{@st43b}{s18}{img clock_3 25 25}남은 상점이용시간 : %s{/}{/}				
+UI_20190104_003748	99 Days 99 Hours 99 Minutes	99일 99시간 99분				
+UI_20190104_003749	  Exchange Vouchers available{/}	  보유중인 교환권{/}				
+UI_20190104_003750	  Remaining Exchange Vouchers{/}	  잔여 교환권{/}				
+UI_20190104_003751	Exchange Voucher to be used	장바구니 교환권				
+UI_20190104_003752	{@st66b}Class Tree Costume Exchange{/}	{@st66b}계열 코스튬 교환{/}				
+UI_20190104_003753	{@st66b}Rookie Player Shop{/}	{@st66b}신규유저 전용상점{/}				
+UI_20190104_003754	{@st66b}Returning Player Shop{/}	{@st66b}복귀유저 전용상점{/}				
+UI_20190104_003755	Trade your Exchange Vouchers{nl}for a costume	보유 중인 교환권을 {nl}코스튬으로 교환				
+UI_20190104_003756	{@st66}Use to apply transcendence Stage %s.{/}	{@st66}사용 시 %s초월로 변경됩니다.{/}	UI_20180418_003061	{@st66}Cannot use with transcended equipment items.{nl}Using it will change the item to Transcendence Stage %s.{/}	{@st66}이미 초월된 장비에는 사용할 수 없으며{nl}사용시 %s초월로 변경됩니다.{/}	
+UI_20190104_003757	{@st41}Horizontal (%s){/}	{@st41}가로 (%s){/}				
+UI_20190104_003758	{@st41}Vertical (%s){/}	{@st41}세로 (%s){/}				
+UI_20190104_003759	{@st41}Zoom In/Zoom Out (%s){/}	{@st41}확대/축소 (%s){/}				
+UI_20190104_003760	{@st41}Horizontal Camera (%s){/}	{@st41}카메라 가로 (%s){/}				
+UI_20190104_003761	{@st41}Vertical Camera (%s){/}	{@st41}카메라 세로 (%s){/}				
+UI_20190104_003762	{s16}See item tooltip	{s16}아이템 툴팁 보기				
+UI_20190104_003763	{b}Specialized Stats	{b}특화 능력치				
+UI_20190104_003764	{@st66d}Forgery	{@st66d}모조품				
+UI_20190104_003765	{#00fec5}{ol}Class Tree Change (available for 30 days){/}	{#00fec5}{ol}계열 변경 가능(1월 24일까지){/}				
+UI_20190104_003766	NO Awakening	각성 불가				
+UI_20190104_003767	{@st42}{s16} Exchange Voucher {/}{/}{img icon_item_exchange_costumeCoupon 32 32}{/}	{@st42}{s16}  소모 교환권 {/}{img icon_item_exchange_costumeCoupon 32 32}{/}				
+UI_20190104_003768	Spent Voucher	소비 교환권				
+UI_20190104_003769	Display selling items.	판매 목록에 포함시킵니다.				
+UI_20190104_003770	Sell	판매하기				
+UI_20190104_003771	{img white_right_arrow 24 24}{@st66d_y} Total Cost{/} %s	{img white_right_arrow 24 24}{@st66d_y} 총 강화 소비 비용{/} %s				
+UI_20190104_003772	{@41b}Completion	{@41b}달성도				
+UI_20190104_003773	{@st59}Register item in collection.{/}	{@st59}컬렉션 아이템을 등록합니다.{/}	UI_20170313_002565	{@st59}Register item in collection.{/}	{@st59}콜렉션 아이템을 등록합니다.{/}	
+UI_20190104_003774	Spot Area	점령지역이름				
+UI_20190104_003775	City	도시이름				
+UI_20190104_003776	{@sti7}{s30}{ds}Find Your Class	{@sti7}{s30}{ds}클래스 선택 가이드				
+UI_20190104_003777	{@st66d_y}What to know what class is right for you?{/}{nl}                                                                         Take the test and find out which classes{nl}best suit your style of gameplay!	{@st66d_y}어떤 직업을 골라야할지 고민된다면?{/}{nl}                                                                         적성검사를통해 내 플레이타입에{nl}맞는 직업 순위를 알아보세요!				
+UI_20190104_003778	{@st41b}{s16}Move	{@st41b}{s16}이동				
+UI_20190104_003779	{s16}{b}{ol}{ds}Details >>	{s16}{b}{ol}{ds}자세히 보기>>				
+UI_20190104_003780	Class Name	직업 이름				
+UI_20190104_003781	Change the selected class.	해당 클래스를 변경합니다.				
+UI_20190104_003782	You can change a class that is required for one of your current classes.	특정 클래스의 선행 직업인 경우 변경할 수 없습니다.				
+UI_20190104_003783	Party Member Name	파티원이름이에요				
+UI_20190104_003784	{@st43b}{s18}Skills	{@st43b}{s18}스킬				
+UI_20190104_003785	Skill Points:        %s/%s	스킬 포인트:        %s/%s				
+UI_20190104_003786	Related Attributes	연결 특성				
+UI_20190104_003787	{@st43b}{s18}Attributes	{@st43b}{s18}특성				
+UI_20190104_003788	{@st41d}Cancel	{@st41d}취소				
+UI_20190104_003789	Attribute Points	특성 포인트				
+UI_20190104_003790	Extract Attribute Points	특성 포인트 추출				
+UI_20190104_003791	{@st66}Extract	{@st66}추출				
+UI_20190104_003792	Purchase Attribute Points	특성 포인트 구매				
+UI_20190104_003793	{@st66}Purchase	{@st66}구매				
+UI_20190104_003794	{@st42}{s16}Apply	{@st42}{s16}적용				
+UI_20190104_003795	{@st42}{s16}Allocate	{@st42}{s16}분배				
+UI_20190104_003796	{@st41d}Receive	{@st41d}받기				
+UI_20190104_003797	{@st41b}{s16}Yes	{@st41b}{s16}예				
+UI_20190104_003798	{@st41b}{s16}No	{@st41b}{s16}아니오				
+UI_20190104_003799	Remaining Token Time: {#FF0000}%s{/}	남은 토큰 시간 : {#FF0000}%s{/}				
+UI_20190112_003800	{@st66}{s16}Extract	{@st66}{s16}추출				
+UI_20190112_003801	{@st66}{s16}Purchase	{@st66}{s16}구매				
