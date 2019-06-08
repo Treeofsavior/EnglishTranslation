@@ -38,6 +38,5 @@
 * ITEM - 
 * ETC - 
 
-#### Шаблон README.md взят у https://github.com/nusle, 
-Описание у https://forum.treeofsavior.com/t/v0-4-5-pro-tos-russian-translation-pro-tos/38348
+#### Шаблон README.md взят у https://github.com/nusle,https://github.com/Crashic 
 #### Обновлено 08.06.2019
