@@ -17,7 +17,7 @@
 • По всем вопросам к - https://vk.com/den17ka
 
 ## Статус перевода файлов:
-* UI - 3848/500
+* UI - 3848/602
 * SKILL - 
 * QUEST_UNUSED - 
 * QUEST_LV_0300 - 
