@@ -17,19 +17,19 @@
 • По всем вопросам к - https://vk.com/den17ka
 
 ## Статус перевода файлов:
-* ETC - 41877/0
-* INTL - 329/0
-* ITEM - 22470/0
-* QUEST - 10955/0
+* ETC - 42130/0
+* INTL - 328/0
+* ITEM - 226707/0
+* QUEST - 10990/0
 * QUEST_JOBSTEP - 3138/0
 * QUEST_LV_0100 - 17610/0
-* QUEST_LV_0200 - 11392/0
+* QUEST_LV_0200 - 11393/0
 * QUEST_LV_0300 - 8448/0
 * QUEST_LV_0400 - 5811/0
 * QUEST_LV_0500 - 21/0
-* QUEST_UNUSED - 3276/0
-* SKILL - 15676/0
-* UI - 3848/602 
+* QUEST_UNUSED - 5945/0
+* SKILL - 15819/0
+* UI - 3901/602 
  ## Название файла - количество строк/Переведено
 
 #### Шаблон README.md взят у https://github.com/nusle,https://github.com/Crashic 
