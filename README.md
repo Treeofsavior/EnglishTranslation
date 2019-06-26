@@ -24,7 +24,7 @@
 * QUEST_JOBSTEP - 3138/0
 * QUEST_LV_0100 - 17610/0
 * QUEST_LV_0200 - 11392/0
-* QUEST_LV_0300 - 8448/
+* QUEST_LV_0300 - 8448/0
 * QUEST_LV_0400 - 5811/0
 * QUEST_LV_0500 - 21/0
 * QUEST_UNUSED - 3276/0
@@ -34,4 +34,4 @@
 
 #### Шаблон README.md взят у https://github.com/nusle,https://github.com/Crashic 
 ## Информация будет обновляться и дополняться. 
-#### Обновлено 23.06.2019
+#### Обновлено 24.06.2019
