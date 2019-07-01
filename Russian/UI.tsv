@@ -337,7 +337,7 @@ UI_20150317_000336	{@st41}Создать{/}
 UI_20150317_000337	{@st41}%s %s шт				
 UI_20150317_000338	Карта местности				
 UI_20150317_000339	Местность разведана : 95.5%			
-UI_20150317_000340	{@st45tw}Местность разведана {/}				
+UI_20150317_000340	{@st45tw}Местность разведана %s% {/}				
 UI_20150317_000341	{@st59}Закрыть{/}		
 UI_20150317_000342	{@st41}Карта{/}				
 UI_20150317_000343	Shift(стереть), Ctrl(заполнить середину)				
@@ -360,7 +360,7 @@ UI_20150317_000359	{@st42b}Тип{/}
 UI_20150317_000360	{@st42b}Рек. ур.{/}			
 UI_20150317_000361	{@st42b}Высокий ур.{/}			
 UI_20150317_000362	{@st42b}Имя				
-UI_20150317_000363	{@st41b}Вернуть				
+UI_20150317_000363	{@st41b}Вернуть %s			
 UI_20150317_000364	{@st41b}Продать				
 UI_20150317_000365	{@st41b}Поиск				
 UI_20150317_000366	{@st59}Закрыть аукцион{/}			
@@ -375,7 +375,7 @@ UI_20150317_000374	{@st42b}Цена
 UI_20150317_000375	{@st42b}Скрыть имя продавца{/}				
 UI_20150317_000376	{@st41b}Добавить				
 UI_20150317_000377	Siege Coin			
-UI_20150317_000378	Someone was killed by someone	
+UI_20150317_000378	Кто-то был убит кем-то	
 UI_20150317_000379	{@st43}Мини-игры{/}				
 UI_20150317_000380	{@st49}Fire Catapult{/}				
 UI_20150317_000381	{@st44}Control directions{/}					
@@ -422,7 +422,7 @@ UI_20150317_000421	Часть 2
 UI_20150317_000422	Часть 3			
 UI_20150317_000423	Поздравляем! Ваш уровень повышен.				
 UI_20150317_000424	Item Alarm				
-UI_20150317_000425	Детали{/}			
+UI_20150317_000425	{@st64}Детали{/}			
 UI_20150317_000426	Как Играть				
 UI_20150317_000427	{@st42b} Перемещайте персонажа вниз, вверх, вправо, влево.{/}				
 UI_20150317_000428	{@st42b} Использовать{nl}обычную атаку{/}				
@@ -459,12 +459,12 @@ UI_20150317_000458	{@st41b}Создать группу
 UI_20150317_000459	{@st43}Публичный список групп {/}			
 UI_20150317_000460	{@st59b}Список групп {nl}{@st59s} - Поиск группы, в которую хотите вступить {nl} - Используйте настройки условий для поиска группы, в которую хотите вступить {/}				
 UI_20150317_000461	{@st59}Закрыть список групп{/}				
-UI_20150317_000462	Использовать поиск			
-UI_20150317_000463	Поделиться Заданием			
-UI_20150317_000464	Распределение EXP
-UI_20150317_000465	Распределение предметов				
+UI_20150317_000462	Поиск			
+UI_20150317_000463	Пoдeлитьcя			
+UI_20150317_000464	Опыт
+UI_20150317_000465	Вещи			
 UI_20150317_000466	{@st43}Пригласить		
-UI_20150317_000467	{@st41b}Пригласить				
+UI_20150317_000467	{@st41b}Пригласить{/}				
 UI_20150317_000468	{s18}{ol}{gr gradation1}Logout PC rules{/}				
 UI_20150317_000469	{ol}Действие для применения правил			
 UI_20150317_000470	{ol}Действие для применения правил				
@@ -523,7 +523,7 @@ UI_20150317_000522	{@st43}{s22}Информация о задании{/}
 UI_20150317_000523	Миссия выполнена			
 UI_20150317_000524	{@st41}Выполнено{/}			
 UI_20150317_000525	Информация о прогрессе миссии			
-UI_20150317_000526	{s18}{ol}{s18}{ol}Информация о задании		
+UI_20150317_000526	{s18}{ol}Информация о задании		
 UI_20150317_000527	{s16}Оставшиеся время			
 UI_20150317_000528	Использовать предмет для задания				
 UI_20150317_000529	Подсказка к заданию			
@@ -545,7 +545,7 @@ UI_20150317_000544	{@st60}Выйти из игры{/}
 UI_20150317_000545	{@st60}Настройки игры{/}				
 UI_20150317_000546	{@st60}Вернуться{/}				
 UI_20150317_000547	{@st41}Пропустить обучение{/}				
-UI_20150317_000548	{@st41}Пропустить обучение{/}				
+UI_20150317_000548	{@st41)Выбрать персонажа{/}				
 UI_20150317_000549	{@st41}Сменить пользователя{/}		
 UI_20150317_000550	{@st41}Выйти из игры{/}				
 UI_20150317_000551	{@st41}Вернуться{/}				
@@ -560,7 +560,7 @@ UI_20150317_000559	{@sti7}{s24}Распределение награды в ре
 UI_20150317_000560	{@st42b}Оставшееся время {@st43}%s{@st42b} секунд{/}				
 UI_20150317_000561	{@st41b}Увеличить число для подбора
 UI_20150317_000562	{@43b}{s22}No. раз подбора : {@st43}%s{/}				
-UI_20150317_000563	shadow_box tentativeremoval	shadow_box 			
+UI_20150317_000563	shadow_box tentativeremoval			
 UI_20150317_000564	{@st43}Ранги{/}			
 UI_20150317_000565	{@st59}Закрыть окно Рангов{/}		
 UI_20150317_000566	{@st41}Топ 100 по убийству монстров{/}				
@@ -588,7 +588,7 @@ UI_20150317_000587	Экипированное Снаряжение
 UI_20150317_000588	{Gr gradation1}Выбрать Все{/}				
 UI_20150317_000589	Выбрать Все			
 UI_20150317_000590	{Gr gradation1}Ремонт{/}			
-UI_20150317_000591	{@st43}Ремонт{/		
+UI_20150317_000591	{@st43}Ремонт{/}		
 UI_20150317_000592	Список предметов для ремонта				
 UI_20150317_000593	{@st41b}Стоимость Ремонта{/}	
 UI_20150317_000594	{@st41b}После Ремонта{/}		
@@ -670,660 +670,660 @@ UI_20150317_000669	{@st41}Посетить{/}
 UI_20150317_000670	{@st59}Посетить мою страницу{/}			
 UI_20150317_000671	{@st41}Продать{/}				
 UI_20150317_000672	{@st59}Продать предмет{/}				
-UI_20150317_000673	{@st43}Living{/}	{@st43}생 활{/}				
-UI_20150317_000674	{@st59}Close{/}	{@st59}생활을 닫습니다{/}				
-UI_20150317_000675	{@st41}View All{/}	{@st41}모두 보기{/}				
-UI_20150317_000676	{@st41}Create Map{/}	{@st41}맵 만들기{/}				
-UI_20150317_000677	{@st41}%s/min (%s in hand){/}	{@st41}%s/분 (%s 보유){/}				
-UI_20150317_000678	Keyboard Warrior	키보드워리어				
-UI_20150317_000679	{@st42}%s{/}{@st42_yellow}Level{/}	{@st42}%s{/}{@st42_yellow}레벨{/}				
-UI_20150317_000680	{@st41_yellow}Employment Time	{@st41_yellow}고용시간				
-UI_20150317_000681	{@st43}Graffiti{/}	{@st43}그래피티{/}				
-UI_20150317_000682	{@st59}Close{/}	{@st59}스프레이를 닫습니다{/}				
-UI_20150317_000683	{@st41b}Tip : Draw a picture in the frame below{/}	{@st41b}Tip : 아래 액자내에 그림을 그립니다.{/}				
-UI_20150317_000684	{@st41b}Colors{/}	{@st41b}색상{/}				
-UI_20150317_000685	{@st41b}Quantity{/}	{@st41b}수량{/}				
-UI_20150317_000686	{@st41b}Brush{/}	{@st41b}브러쉬{/}				
-UI_20150317_000687	{@st43}Draw{/}	{@st43}그리기{/}				
-UI_20150317_000688	{@st59}Draw the completed picture on the ground.{/}	{@st59}완성한 그림을 바닥에 그립니다.{/}				
-UI_20150317_000689	{@st41b}{a SAVE_EDIT_SPRAY}Save{/}{/}	{@st41b}{a SAVE_EDIT_SPRAY}저장{/}{/}				
-UI_20150317_000690	{@st59}Save drawings{/}	{@st59}그리고 있는 그림을 저장합니다.{/}				
-UI_20150317_000691	{@st41b}{a LOAD_EDIT_SPRAY}Load{/}{/}	{@st41b}{a LOAD_EDIT_SPRAY}불러오기{/}{/}				
-UI_20150317_000692	{@st59}Load previously drawn pictures.{/}	{@st59}그렸던 그림을 불러옵니다.{/}				
-UI_20150317_000693	{@st59}Selected color 1{/}	{@st59}선택한 색상1{/}				
-UI_20150317_000694	{@st59}Selected color 2{/}	{@st59}선택한 색상2{/}				
-UI_20150317_000695	{@st59}Color List{/}	{@st59}색상 목록{/}				
-UI_20150317_000696	{@st59}Selected Brush{/}	{@st59}선택한 브러시{/}				
-UI_20150317_000697	{@st59}Brush 1{/}	{@st59}브러시 1{/}				
-UI_20150317_000698	{@st59}Brush 2{/}	{@st59}브러시 2{/}				
-UI_20150317_000699	{@st59}Brush 3{/}	{@st59}브러시 3{/}				
-UI_20150317_000700	{@st59}Brush 4{/}	{@st59}브러시 4{/}				
-UI_20150317_000701	{@st59}Brush 5{/}	{@st59}브러시 5{/}				
-UI_20150317_000702	{@st59}Brush 6{/}	{@st59}브러시 6{/}				
-UI_20150317_000703	{@st49}People who like this{/}	{@st49}좋아하는 사람들{/}				
-UI_20150317_000704	{s20}{#050505}Describe whatever	{s20}{#050505}뭐가되었든 설명				
-UI_20150317_000705	{@st41} All {/}	{@st41} 전체 {/}				
-UI_20150317_000706	{@st41} Party {/}	{@st41} 파티 {/}				
-UI_20150317_000707	{@st41} Monster {/}	{@st41} 몬스터 {/}				
-UI_20150317_000708	{@st41b}{#f0dcaa}Remaining Status Points ▶ {@st46}%s	{@st41b}{#f0dcaa}남은 스테이터스 포인트 ▶ {@st46}%s				
-UI_20150317_000709	{@st59b}My Information{nl}{@st59s}- Status : Use the points you earned by leveling up to enhance the 5 status attributes. {nl}- Information : This is information about your character based on your current status and equipment. {nl}- Title : Titles can be earned by accomplishing achievements. {nl} {/}	{@st59b}내 정보{nl}{@st59s} - 스테이터스 : 레벨업으로 얻은 포인트를 사용해서 5가지 능력 강화{nl} - 정보 : 아이템 및 스테이터스 능력치에 따른 캐릭터 능력치 정보{nl} - 칭호 : 업적을 완료했을때 습득가능한 칭호{nl}{/}				
-UI_20150317_000710	{@st41b}Info{/}	{@st41b}정보{/}				
-UI_20150317_000711	{@st41b}Title{/}	{@st41b}칭호{/}				
-UI_20150317_000712	Show Class	직업 출력				
-UI_20150317_000713	Show Character Name	캐릭터 이름 출력				
-UI_20150317_000714	{@st59}Change Character Name{/}	{@st59}캐릭터 이름을 수정합니다{/}				
-UI_20150317_000715	{@st41b}Apply	{@st41b}적용				
-UI_20150317_000716	{@st59}Apply{/}	{@st59}스테이터스 분배를 적용합니다{/}				
-UI_20150317_000717	{@st41b}Cancel	{@st41b}취소				
-UI_20150317_000718	{@st59}Cancel{/}	{@st59}스테이터스 분배를 취소합니다{/}				
-UI_20150317_000719	PC Name	PC이름				
-UI_20150317_000720	{@st41_yellow}Level: {@st41}%s{/}	{@st41_yellow}레벨: {@st41}%s{/}				
-UI_20150317_000721	{@st41_yellow}Mercenary Skills	{@st41_yellow}용병 스킬				
-UI_20150317_000722	{@st43}Attack Effects{/}	{@st43}공격 효과{/}				
-UI_20150317_000723	{@st43}Defense Effects{/}	{@st43}방어 효과{/}				
-UI_20150317_000724	{@st43}Stat{/}	{@st43}스탯{/}				
-UI_20150317_000725	systemmenu_vertical tentative removal	systemmenu_vertical 잠정제거				
-UI_20150317_000726	{@st59}Character Information (F1){/}	{@st59}캐릭터 정보 (F1){/}				
-UI_20150317_000727	{@st59}Inventory (F2){/}	{@st59}인벤토리 (F2){/}				
-UI_20150317_000728	{@st59}Classes & Skills (F3){/}	{@st59}클래스와 스킬 (F3){/}				
-UI_20150317_000729	{@st59}Adventure Journal (F4){/}	{@st59}모험일지 (F4){/}				
-UI_20150317_000730	{@st59}Quests (F5){/}	{@st59}퀘스트 (F5){/}				
-UI_20150317_000731	{@st59}Party (F6){/}	{@st59}파티 (F6){/}				
-UI_20150317_000732	{@st59}Friends (F7){/}	{@st59}친구 (F7){/}				
-UI_20150317_000733	{@st59}Macro (F8) {/}	{@st59}매크로 (F8){/}				
-UI_20150317_000734	{@st59}Companion (F9) {/}	{@st59}컴패니언 (F9){/}				
-UI_20150317_000735	{@st59}Help (F10) {/}	{@st59}도움말 (F10){/}				
-UI_20150317_000736	{@st59}Системное меню (Esc){/}					
-UI_20150317_000737	{@st59}Necronomicon{/}	{@st59}네크로노미콘{/}				
-UI_20150317_000738	Help (F1)	도움말(F1)				
-UI_20150317_000739	Contents	내용				
-UI_20150317_000740	View Details	상세보기				
-UI_20150317_000741	{@st43}Game Settings{/}	{@st43}게임 설정{/}				
-UI_20150317_000742	{@st43}Game{/}	{@st43}게임{/}				
-UI_20150317_000743	{@st41b}Show Gained EXP{/}	{@st41b}경험치 획득량 표기{/}				
-UI_20150317_000744	{@st41b}Show Character Name{/}	{@st41b}캐릭터 이름 보기{/}				
-UI_20150317_000745	{@st41b}Show Team Name only{/}	{@st41b}팀 이름만 표시{/}				
-UI_20150317_000746	{@st41b}Show Quest Guide{/}	{@st41b}퀘스트 가이드 표시{/}				
-UI_20150317_000747	{@st43}Resolution{/}	{@st43}화면{/}				
-UI_20150317_000748	{@st43}Graphics{/}	{@st43}그래픽{/}				
-UI_20150317_000749	{@st41b}Full Screen{/}	{@st41b}전체 화면{/}				
-UI_20150317_000750	{@st41b}Windowed Mode{/}	{@st41b}창모드{/}				
-UI_20150317_000751	{@st43}Sound{/}	{@st43}사운드{/}				
-UI_20150317_000752	{@st41b}Sound Effects Volume (%s){/}	{@st41b}효과음 크기 (%s){/}				
-UI_20150317_000753	{@st41b}BGM Volume (%s){/}	{@st41b}음악 크기 (%s){/}				
-UI_20150317_000754	{@st41b}Volume (%s){/}	{@st41b}사운드 전체 크기 (%s){/}				
-UI_20150317_000755	{@st43}{b}Select Language{/}	{@st43}언어 선택{/}				
-UI_20150317_000756	{@st59}Close{/}	{@st59}게임 설정창을 닫습니다{/}				
-UI_20150317_000757	{@st41b}Min.requirement Mode {/}	{@st41b}최저 사양 모드{/}				
-UI_20150317_000758	{@st41b}View{/}	{@st41b}보기{/}				
-UI_20150317_000759	{@st59}Credits{/}	{@st59}만든 사람들{/}				
-UI_20150317_000760	Target buff window	타겟버프창				
-UI_20150317_000761	{@st46}IMC's picture	{@st46}IMC님의 그림				
-UI_20150317_000762	{@st46}%s's picture	{@st46}%s님의 그림				
-UI_20150317_000763	{@st46}Like	{@st46}좋아요				
-UI_20150317_000764	{@st46}Report	{@st46}신고				
-UI_20150317_000765	{@st46}Use preservatives	{@st46}보존제 사용				
-UI_20150317_000766	{@st46}Remove Picture	{@st46}그림 제거				
-UI_20150317_000767	Snow Hallucination	스노우할레이션				
-UI_20150317_000768	Bouquet	꽃다발				
-UI_20150317_000769	{@st41} Gifts	{@st41}선물				
-UI_20150317_000770	Please enter a quantity	개수를 입력하세요.				
-UI_20150317_000771	{@st53b}%s Wins %s Losses	{@st53b}%s 승 %s 패				
-UI_20150317_000772	{@st42}Today's Schedule	{@st42}오늘의 스케쥴				
-UI_20150317_000773	{@st53}Until Start :	{@st53}시작까지 :				
-UI_20150317_000774	{@st53b}Gifts received : ×%s	{@st53b}받은선물 : %s개				
-UI_20150317_000775	{@st43b}Send gift to %s{/}	{@st43b}%s님에게 선물{/}				
-UI_20150317_000776	{@st55_a}Next game	{@st55_a}다음 경기				
-UI_20150317_000777	{@st53}- Click on the name to spectate{nl}- Right-click to send a gift	{@st53}- 이름을 클릭하여 관전 가능{nl}- 우 클릭으로 선물가능				
-UI_20150317_000778	Center camera to my character	카메라를 나의 캐릭터로				
-UI_20150317_000779	{@st55_a}Congratulations!	{@st55_a}우승을 축하드립니다!				
-UI_20150317_000780	{@st42}Switch Camera	{@st42}카메라 전환				
-UI_20150317_000781	{@st44}Adventure Journal{/}	{@st44}모험일지{/}				
-UI_20150317_000782	{@st59}Change View Settings{/}	{@st59}표시 방식을 변경합니다{/}				
-UI_20150317_000783	{@st41}Statistics {/}	{@st41} 통계 {/}				
-UI_20150317_000784	{@st41}Crafting {/}	{@st41} 제조 {/}				
-UI_20150317_000785	{@st41}Hunt {/}	{@st41} 사냥 {/}				
-UI_20150317_000786	{@st41}Help {/}	{@st41} 도움말 {/}				
-UI_20150317_000787	{@st44}Wiki Page{/}	{@st44}위키페이지{/}				
-UI_20150317_000788	{@st42}Information{/}	{@st42}정보{/}				
-UI_20150317_000789	{@st42}Details{/}	{@st42}상세{/}				
-UI_20150317_000790	{@st42}Combat{/}	{@st42}전투{/}				
-UI_20150317_000791	{@st42}Acquire{/}	{@st42}획득{/}				
-UI_20150317_000792	{@st59}Close Page{/}	{@st59}페이지를 닫습니다{/}				
-UI_20150317_000793	{@st43}Battlefield	{@st43}배틀 필드				
-UI_20150317_000794	{@st59}Close Battlefield.	{@st59}배틀 필드를 닫습니다.				
-UI_20150317_000795	(Bronze 3)	(브론즈 3)				
-UI_20150317_000796	{@sti8}Points acquirable today : {nl}%s{/}	{@sti8}오늘의 획득가능 점수 : {nl}%s{/}				
-UI_20150317_000797	{@st41}Point Shop	{@st41}포인트샵				
-UI_20150317_000798	{@st41}Ranking	{@st41}랭킹				
-UI_20150317_000799	{@st42}Battlefield schedule	{@st42}배틀 필드 일정				
-UI_20150317_000800	{@st42}Recent Records	{@st42}최근 전적				
-UI_20150317_000801	{@st41}Receive EXP	{@st41}경험치 받기				
-UI_20150317_000802	{@st41}PvP Page	{@st41}PVP페이지				
-UI_20150317_000803	{@st41}Search	{@st41}검색				
-UI_20150317_000804	{@st43}Battlefield Rankings	{@st43}배틀 필드 랭킹				
-UI_20150317_000805	{@st59}Close Battlefield rankings	{@st59}배틀 필드랭킹을 닫습니다.				
-UI_20150317_000806	{@st56}Skill Name{/}	{@st56}스킬이름{/}				
-UI_20150317_000807	{@st41}Check coordinates{/}	{@st41}좌표 확인{/}				
-UI_20150317_000808	{@st41}Find{/}	{@st41}찾아가기{/}				
-UI_20150317_000809	{@st42b}Manage monster regen{/}	{@st42b}몬젠 관리{/}				
-UI_20150317_000810	{@st42b}Monster List{/}	{@st42b}몬스터 리스트{/}				
-UI_20150317_000811	{@st42b}Create UI{/}	{@st42b}UI 제작{/}				
-UI_20150317_000812	{@st42b}Map Fog{/}	{@st42b}맵 포그{/}				
-UI_20150317_000813	{@st42b}Create Map{/}	{@st42b}맵 제작{/}				
-UI_20150317_000814	{@st42b}Create Minimap{/}	{@st42b}미니맵 제작{/}				
-UI_20150317_000815	{@st42b}Dialog {/}	{@st42b}다이얼로그 {/}				
-UI_20150317_000816	{@st42b}Change Quest Rewards{/}	{@st42b}퀘스트 보상 수정{/}				
-UI_20150317_000817	{@st42b}Group regen{/}	{@st42b}그룹젠{/}				
-UI_20150317_000818	{@st42b}Set map location{/}	{@st42b}맵 위치지정{/}				
-UI_20150317_000819	{@st42b}Skills map{/}	{@st42b}스킬맵{/}				
-UI_20150317_000820	{@st42b}List of events{/}	{@st42b}이벤트 목록{/}				
-UI_20150317_000821	{@st42b}Check coordinates{/}	{@st42b}좌표 확인{/}				
-UI_20150317_000822	{@st42b} Check XAC, texture path{/}	{@st42b}XAC,텍스쳐경로확인{/}				
-UI_20150317_000823	{@st42b}Performance ON/OFF{/}	{@st42b}퍼포먼스ONOFF{/}				
-UI_20150317_000824	Dialog list	대사 리스트				
-UI_20150317_000825	Search	검색.				
-UI_20150317_000826	{@st41}Preview{/}	{@st41}미리보기{/}				
-UI_20150317_000827	{@st41}Off{/}	{@st41}끄기{/}				
-UI_20150317_000828	{@st41}Remove{/}	{@st41}제거{/}				
-UI_20150317_000829	{@st41}Save all{/}	{@st41}모두저장{/}				
-UI_20150317_000830	{@st41}Apply picture{/}	{@st41}그림적용{/}				
-UI_20150317_000831	{#FFFFFF}{ds}Select Event	 {#FFFFFF}{ds}이벤트선택				
-UI_20150317_000832	{#FFFFFF}{ds}Edit Event	 {#FFFFFF}{ds}이벤트편집				
-UI_20150317_000833	{ol}List	{ol}리스트				
-UI_20150317_000834	The name of the group to save	저장할 그룹의 이름				
-UI_20150317_000835	{@st42}Create New{/}	{@st42}새로만들기{/}				
-UI_20150317_000836	{@st41}Group regen{/}	{@st41}그룹젠{/}				
-UI_20150317_000837	{@st59}Enter monster name to search{/}	{@st59}검색할 몬스터의 이름을 입력합니다{/}				
-UI_20150317_000838	{@st59}Enter group name to save{/}	{@st59}저장할 그룹의 이름을 입력합니다{/}				
-UI_20150317_000839	{@st41}New group{/}	{@st41}새 그룹{/}				
-UI_20150317_000840	Filtering	필터링				
-UI_20150317_000841	{@st59}Enter filter{/}	{@st59}필터를 입력합니다{/}				
-UI_20150317_000842	{ol}Property Value	{ol}속성 값				
-UI_20150317_000843	Class List	클래스리스트				
-UI_20150317_000844	Apply to XML	XML에 적용				
-UI_20150317_000845	{#FFFFFF}{ds}Log	 {#FFFFFF}{ds}로그				
-UI_20150317_000846	{#FFFFFF}{ds}View all properties	 {#FFFFFF}{ds}모든속성보기 				
-UI_20150317_000847	Enter a keyword to search	검색어를 입력합니다.				
-UI_20150317_000848	All attribute values	모든 속성 값				
-UI_20150317_000849	{ol}Name	{ol}이름				
-UI_20150317_000850	{ol}Value	{ol}값				
-UI_20150317_000851	Rogue	로그				
-UI_20150317_000852	{ol}Revision	{ol}리비전				
-UI_20150317_000853	{ol}Rogue	{ol}로그				
-UI_20150317_000854	Class list	클래스 리스트				
-UI_20150317_000855	XML Conversion	XML변환				
-UI_20150317_000856	{ol}Class name	{ol}클래스네임				
-UI_20150317_000857	{ol}Property Name	{ol}속성이름				
-UI_20150317_000858	{ol}Changed value	{ol}변경값				
-UI_20150317_000859	{ol}Apply	{ol}반영				
-UI_20150317_000860	Open Folder	폴더열기				
-UI_20150317_000861	Check All	전체체크				
-UI_20150317_000862	History	히스토리				
-UI_20150317_000863	Rollback Value	값롤백				
-UI_20150317_000864	{ol}Select item	{ol}아이템 선택				
-UI_20150317_000865	Enter the name you want to search	검색할 이름을 입력합니다.				
-UI_20150317_000866	{@st42}Confirm{/}	{@st42}확인{/}				
-UI_20150317_000867	{@st41}Create UI{/}	{@st41}UI 제작{/}				
-UI_20150317_000868	{ol}Frame	{ol}프레임				
-UI_20150317_000869	{@st41}Frame{/}	{@st41}프레임{/}				
-UI_20150317_000870	{@st41}Button{/}	{@st41}버튼{/}				
-UI_20150317_000871	{@st41}Text{/}	{@st41}텍스트{/}				
-UI_20150317_000872	{@st42b}Normal{img btn_close}	{@st42b}일반{img btn_close}				
-UI_20150317_000873	{@st42b}Auction{img btn_close}	{@st42b}경매{img btn_close}				
-UI_20150317_000874	{@st41}Set map location{/}	{@st41}맵 위치지정{/}				
-UI_20150317_000875	{@st41}Rename{/}	{@st41}이름변경{/}				
-UI_20150317_000876	{@st59}Enter the words you want to filter{/}	{@st59}필터링할 내용을 입력합니다{/}				
-UI_20150317_000877	{@st41}Create{/}	{@st41}만들기{/}				
-UI_20150317_000878	{@st56}XML save{/}	{@st56}XML저장{/}				
-UI_20150317_000879	{@st56}Reset{/}	{@st56}초기화{/}				
-UI_20150317_000880	{@st56}Attribute{/}	{@st56}속성{/}				
-UI_20150317_000881	{@st56}Value{/}	{@st56}값{/}				
-UI_20150317_000882	{@st42}Content{/}	{@st42}내용{/}				
-UI_20150317_000883	{@st41}Undo{/}	{@st41}되돌리기{/}				
-UI_20150317_000884	{@st41}Save all{/}	{@st41}모두 저장{/}				
-UI_20150317_000885	{@st41}Open XML{/}	{@st41}XML열기{/}				
-UI_20150317_000886	{@st42b}Fixed Skill : 0{/}	{@st42b}고정스킬 : 0{/}				
-UI_20150317_000887	{@st42b}Fixed skill : %s{/}	{@st42b}고정스킬 : %s{/}				
-UI_20150317_000888	{@st42b}Mouse homing{/}	{@st42b}마우스호밍{/}				
-UI_20150317_000889	{@st42b}Skill name{/}	{@st42b}스킬이름{/}				
-UI_20150317_000890	{@st41}Monster list{/}	{@st41}몬스터 리스트{/}				
-UI_20150317_000891	{@st41}Performance Manager{/}	{@st41}퍼포먼스매니저{/}				
-UI_20150317_000892	{ol}Select Quest	{ol}퀘스트 선택				
-UI_20150317_000893	Enter quest name to search	검색할 퀘스트 이름을 입력합니다.				
-UI_20150317_000894	{ol}Select map	{ol}맵 선택				
-UI_20150317_000895	Enter map name to search	검색할 맵의 이름을 입력합니다.				
-UI_20150317_000896	{@st42}Current map{/}	{@st42}현재맵{/}				
-UI_20150317_000897	{ol}Map name	{ol}맵이름				
-UI_20150317_000898	{ol}Coordinates	{ol}좌표				
-UI_20150317_000899	{@st41}Change quest rewards{/}	{@st41}퀘스트 보상 수정{/}				
-UI_20150317_000900	{@st59}Enter quest to search{/}	{@st59}검색할 퀘스트를 입력합니다{/}				
-UI_20150317_000901	{@st59}Enter the item to search for{/}	{@st59}검색할 아이템을 입력합니다{/}				
-UI_20150317_000902	{@st42}EXP	{@st42}경험치				
-UI_20150317_000903	{ol}Basic rewards	{ol}기본 보상				
-UI_20150317_000904	{ol}Quantity	{ol}갯수				
-UI_20150317_000905	{ol}Additional rewards	{ol}추가 보상				
-UI_20150317_000906	{@st45}Frequently used cheats	{@st45}자주 사용한 치트				
-UI_20150317_000907	{@st41}Skills map{/}	{@st41}스킬맵{/}				
-UI_20150317_000908	{@st42}Ability{/}	{@st42}어빌리티{/}				
-UI_20150317_000909	{@st42}Warrior{/}	{@st42}전사{/}				
-UI_20150317_000910	{@st42}Wizard{/}	{@st42}위저드{/}				
-UI_20150317_000911	{@st42}Archer{/}	{@st42}궁수{/}				
-UI_20150317_000912	{@st42}Monk{/}	{@st42}몽크{/}				
-UI_20150317_000913	{@st42}Sorcerer{/}	{@st42}소서러{/}				
-UI_20150317_000914	{@st41}Skill{/}	{@st41}스킬반{/}				
-UI_20150317_000915	{@st59}XML load{/}	{@st59}xml 로드{/}				
-UI_20150317_000916	{@st41}Load{/}	{@st41}불러오기{/}				
-UI_20150317_000917	{@st59}Save as XML{/}	{@st59}xml로 저장{/}				
-UI_20150317_000918	{@st59}Reset Open Skill map{/}	{@st59}열려있는 스킬맵 리셋{/}				
-UI_20150317_000919	{@st41}Reset{/}	{@st41}리셋{/}				
-UI_20150317_000920	{@st59}Reset all Skill  maps{/}	{@st59}모든 스킬맵 리셋{/}				
-UI_20150317_000921	{@st41}Reset All{/}	{@st41}모두리셋{/}				
-UI_20150317_000922	{S18}Remove script	{s18}해제스크립트				
-UI_20150317_000923	{S18}String argument	{s18}문자열 인자				
-UI_20150317_000924	{s18}string 1 argument	{s18}숫자1 인자				
-UI_20150317_000925	{s18}string 2 argument	{s18}숫자2 인자				
-UI_20150317_000926	{s18}Max skill level	{s18}스킬 최대 레벨				
-UI_20150317_000927	{@st59}Remove script type box{/}	{@st59}해제 스크립트 입력창{/}				
-UI_20150317_000928	{@st59}Remove script argument{/}	{@st59}해제 스크립트 인자{/}				
-UI_20150317_000929	{@st59}Max skill level{/}	{@st59}스킬 최대 레벨{/}				
-UI_20150317_000930	{@st59}Save Property{/}	{@st59}속성 저장{/}				
-UI_20150317_000931	{@st41}Save Property{/}	{@st41}속성 저장{/}				
-UI_20150317_000932	{@st44}UI List{/}	{@st44}UI 목록{/}				
-UI_20150317_000933	{ds}Addon List	{ds}에드온 목록				
-UI_20150317_000934	{ds}Fixed frame list	{ds}고정프레임 목록				
-UI_20150317_000935	{@st42}UI list{/}	{@st42}UI 목록{/}				
-UI_20150317_000936	{@st59}show UI List{/}	{@st59}UI 목록을 보여준다{/}				
-UI_20150317_000937	{@st42}Adjust location{/}	{@st42}위치 조절{/}				
-UI_20150317_000938	{@st59}Adjust location{/}	{@st59}위치조절{/}				
-UI_20150317_000939	{@st42}Edit Property{/}	{@st42}속성 편집{/}				
-UI_20150317_000940	{@st59}Edit property{/}	{@st59}속성편집{/}				
-UI_20150317_000941	{@st42}Save{/}	{@st42}저장{/}				
-UI_20150317_000942	{@st59}Save{/}	{@st59}저장{/}				
-UI_20150317_000943	{@st44}Edit UI properties{/}	{@st44}UI 속성 편집{/}				
-UI_20150317_000944	{@St59}Character Selection{/}	{@st59}캐릭터선택{/}				
-UI_20150317_000945	{@St59}Logout{/}	{@st59}로그아웃{/}				
-UI_20150317_000946	{@St59}Settings{/}	{@st59}게임설정{/}				
-UI_20150317_000947	{@St59}Quit{/}	{@st59}게임종료{/}				
-UI_20150317_000948	{@st43}Lodge Settings{/}	{@st43}숙소 설정{/}				
-UI_20150317_000949	{@st59}Close{/}	{@st59}숙소 설정을 닫습니다{/}				
-UI_20150317_000950	{@St42_b}{s18}{#f5c384}Team Name{/}	{@st42_b}{s18}{#f5c384}팀 이름{/}				
-UI_20150317_000951	{@st59}Enter Team name {/}	{@st59}원하는 팀 이름을 입력하세요{/}				
-UI_20150317_000952	{@st59}Save Team Name{/}	{@st59}팀 이름을 저장합니다{/}				
-UI_20150317_000953	Provisional Delete	systemmenu_vertical 잠정삭제				
-UI_20150317_000954	{@St59}Close{/}	{@st59}배럭 꾸미기를 닫습니다{/}				
-UI_20150317_000955	{@St43}Lodge Decorating{/}	{@st43}배럭 꾸미기{/}				
-UI_20150317_000956	{@St41b}Theme{/}	{@st41b}   테마   {/}				
-UI_20150317_000957	{@St41b}Item Arrangement{/}	{@st41b}   물품배치   {/}				
-UI_20150317_000958	{@St41b}Name	{@st41b}이름				
-UI_20150317_000959	{@St41b}Price	{@st41b}가격				
-UI_20150317_000960	{@St41b}State	{@st41b}상태				
-UI_20150317_000961	{@St44}New Character{/}	{@st44}새 캐릭터{/}				
-UI_20150317_000962	{@St41b}{s22}Select Character Class{/}	{@st41b}{s22}생성을 원하는 클래스를 선택하세요{/}				
-UI_20150317_000963	{@St41b}Return{/}	{@st41b}생성 취소{/}				
-UI_20150317_000964	{@St59}Go back to your Lodge without creating a character	{@st59}캐릭터 생성을 취소합니다{/}				
-UI_20150317_000965	Change Character	캐릭터선택				
-UI_20150317_000966	{@St41}Character{/}	{@st41}캐릭터{/}				
-UI_20150317_000967	{@St59}Rotate clockwise{/}	{@st59}오른쪽으로 회전{/}				
-UI_20150317_000968	{@St59}Rotate counterclockwise{/}	{@st59}왼쪽으로 회전{/}				
-UI_20150317_000969	{@St43b}Character Rotation{/}	{@st43b}캐릭터 회전{/}				
-UI_20150317_000970	{@st43}Character Name{/}	{@st43}캐릭터 이름{/}				
-UI_20150317_000971	Enter a name{@st59} {/}	{@st59}이름을 입력합니다{/}				
-UI_20150317_000972	{@St43b}Choose Gender{/}	{@st43b}성별 선택{/}				
-UI_20150317_000973	{@St59}Female{/}	{@st59}여성{/}				
-UI_20150317_000974	{@St59}Male{/}	{@st59}남성{/}				
-UI_20150317_000975	{@st43b}Choose Hairstyle{/}	{@st43b}헤어 선택{/}				
-UI_20150317_000976	{@st59}Hairstyle 1{/}	{@st59}헤어1{/}				
-UI_20150317_000977	{@st59}Hairstyle 2{/}	{@st59}헤어2{/}				
-UI_20150317_000978	{@St59}Hairstyle 3{/}	{@st59}헤어3{/}				
-UI_20150317_000979	{@st59}Hairstyle 4{/}	{@st59}헤어4{/}				
-UI_20150317_000980	{@st59}Hairstyle 5{/}	{@st59}헤어5{/}				
-UI_20150317_000981	{@st59}Hairstyle 6{/}	{@st59}헤어6{/}				
-UI_20150317_000982	{@st59}Hairstyle 7{/}	{@st59}헤어7{/}				
-UI_20150317_000983	{@st59}Hairstyle 8{/}	{@st59}헤어8{/}				
-UI_20150317_000984	{@st59}Hairstyle 9{/}	{@st59}헤어9{/}				
-UI_20150317_000985	{@st59}Hairstyle 10{/}	{@st59}헤어10{/}				
-UI_20150317_000986	{@St43b}Select Class{/}	{@st43b}클래스 선택{/}				
-UI_20150317_000987	{@st59}Swordsman{/}	{@st59}소드맨{/}				
-UI_20150317_000988	{@st59}Wizard{/}	{@st59}위저드{/}				
-UI_20150317_000989	{@st59}Archer{/}	{@st59}아처{/}				
-UI_20150317_000990	{@st59}Cleric{/}	{@st59}클레릭{/}				
-UI_20150317_000991	{@St41b}Visit Barrack {/}	{@st41b}배럭방문{/}				
-UI_20150317_000992	{@St59}Visit the Barrack of another player.{/}	{@st59}다른 사람의 배럭을 방문합니다.{/}				
-UI_20150317_000993	{@St41b}Logout{/}	{@st41b}로그아웃{/}				
-UI_20150317_000994	{@St59}Move to the login screen{/}	{@st59}로그인 화면으로 이동합니다{/}				
-UI_20150317_000995	{@St41b}Exit Game{/}	{@st41b}게임종료{/}				
-UI_20150317_000996	{@St59}Выйти из Tree of Savior{/}	
-UI_20150317_000997	{@st41b}Select Channel{/}	{@st41b}게임을 시작할 채널을 선택하세요{/}				
-UI_20150317_000998	{@st43}Enter{/}	{@st43}게임 시작{/}				
-UI_20150317_000999	{@St59}Start the game with the selected character{/}	{@st59}선택한 캐릭터로 게임을 시작합니다{/}				
-UI_20150317_001000	{@St43}{s26}Team Name{/}	{@st43}{s26}팀 이름{/}				
-UI_20150317_001001	{@st59}Team Name{/}	{@st59}팀 이름{/}				
-UI_20150317_001002	{@st41b}Change Team Name{/}	{@st41b}팀 이름 변경{/}				
-UI_20150317_001003	{@st59}Change Team Name{/}	{@st59} 팀 이름을 변경합니다{/}				
-UI_20150317_001004	{@St41}Companion{/}	{@st41}컴패니언{/}				
-UI_20150317_001005	Chat Drag	채팅 드래그				
-UI_20150317_001006	{@St44}New Dialog Name{/}	{@st44}새로운 대화창 이름{/}				
-UI_20150317_001007	{@St42}Change{/}	{@st42}변경{/}				
-UI_20150317_001008	{@St44}New Window Name{/}	{@st44}새로운 창 이름{/}				
-UI_20150317_001009	{@St43}{s40}{gr gradation4}Character Creation{/}	{@st43}{s40}{gr gradation4}캐릭터 생성{/}				
-UI_20150317_001010	{@St59}Create a character{/}	{@st59}캐릭터를 생성합니다{/}				
-UI_20150317_001011	{@St59}Cancel character creation{/}	{@st59}생성을 취소합니다{/}				
-UI_20150317_001012	{@St59}Close{/}	{@st59}팀 이름 입력을 닫습니다{/}				
-UI_20150317_001013	{@St59}Create a team with the entered name{/}	{@st59}입력한 이름으로 팀을 생성합니다{/}				
-UI_20150317_001014	{@St43}{s30}{#f0dcaa}Enter your Team Name!	{@st43}{s30}{#f0dcaa}팀 이름 입력!				
-UI_20150317_001015	{@St41b}Your Team Name is a name that represents all your characters.{nl}This name will be used universally during trade, guild joining, conversation and more.{nl}         Team Name can be changed at any time using 150 TP.{/}	{@st41b} 팀 이름은 모든 캐릭터를 대표하는 이름입니다.{nl}자유롭게 바꿀 수 있는 팀 이름은 거래, 길드 가입, 대화 등에 사용되는 공용 이름입니다.{/}				
-UI_20150317_001016	Loading background	로딩 배경				
-UI_20150317_001017	Tip	팁				
-UI_20150317_001018	Game Tips	게임팁				
-UI_20150317_001019	Login	로그인				
-UI_20150317_001020	Account ID	계정				
-UI_20150317_001021	{@st59}Enter your Account ID{/}	{@st59}계정을 입력 하십시오{/}				
-UI_20150317_001022	Password	비밀번호				
-UI_20150317_001023	{@St59}Enter your password{/}	{@st59}비밀 번호를 입력하십시오{/}				
-UI_20150317_001024	{@St43}Войти{/}					
-UI_20150317_001025	{@St59}Подключиться к выбранному серверу{/}				
-UI_20150317_001026	{@st41b}Replay{/}	{@st41b}리플레이{/}				
-UI_20150317_001027	{@st41b}Single Mode{/}	{@st41b}싱글 모드{/}				
-UI_20150317_001028	{@St41b}Выйти из игры{/}			
-UI_20150317_001029	Save	저장				
-UI_20150317_001030	{@St59}If checked, your account will be saved{/}	{@st59}체크하면 계정을 저장합니다{/}				
-UI_20150317_001031	Список серверов				
-UI_20150317_001032	{@St59}Select Server{/}	{@st59}접속을 원하는 서버를 선택하여 주세요{/}				
-UI_20150317_001033	Login Title	로그인타이틀				
-UI_20150317_001034	[Closed Beta version]	[클로즈 베타 테스트 버전]				
-UI_20150317_001035	Options	옵션				
-UI_20150317_001036	Visibility Range	시야거리				
-UI_20150317_001037	{S20}{#BBBBBB}Visibility Range	{s20}{#BBBBBB}시야 거리				
-UI_20150317_001038	Visibility Range :	시야 거리 :				
-UI_20150317_001039	Character :	캐릭터 :				
-UI_20150317_001040	Background Objects :	배경 오브젝트 :				
-UI_20150317_001041	Topography - Grass (%) :	지형-풀(%) :				
-UI_20150317_001042	Topography-Tree (%) :	지형-트리 (%) :				
-UI_20150317_001043	Topography-objects(%) :	지형-오브젝트(%) :				
-UI_20150317_001044	Shadow	섀도우				
-UI_20150317_001045	{S20}{#BBBBBB}Shadow Mapping	{s20}{#BBBBBB}섀도우맵				
-UI_20150317_001046	Enable Shadow Mapping	섀도우맵 사용				
-UI_20150317_001047	Shadow Quality :	섀도우 품질 :				
-UI_20150317_001048	SSAO Use	SSAO 사용				
-UI_20150317_001049	SSAO Method :	SSAO 방식 :				
-UI_20150317_001050	SSAO Resolution :	SSAO 해상도 :				
-UI_20150317_001051	Water Reflection	물반사				
-UI_20150317_001052	{s20}{#BBBBBB}Water Reflection	{s20}{#BBBBBB}물 반사				
-UI_20150317_001053	Characters Water Reflection	캐릭터 물반사				
-UI_20150317_001054	Background Water Reflection	배경 물반사				
-UI_20150317_001055	{s20}{#BBBBBB}Glow Setup	{s20}{#BBBBBB}Glow 설정				
-UI_20150317_001056	Enable Glow	Glow 사용				
-UI_20150317_001057	{@st41}Attack{/}	{@st41}공격력{/}				
-UI_20150317_001058	{@St41}Defense{/}	{@st41}방어력{/}				
-UI_20150317_001059	{@st41}Support{/}	{@st41}보조{/}				
-UI_20150317_001060	{@st41}Difficulty{/}	{@st41}난이도{/}				
-UI_20150317_001061	{@st41}Hairstyle	{@st41}헤 어				
-UI_20150317_001062	{@st41}Rotation	{@st41}회 전				
-UI_20150317_001063	{@st43}Create Character	{@st43}캐릭터 생성				
-UI_20150317_001064	{@st59}Create Current Character{/}	{@st59}설정대로 캐릭터를 생성합니다{/}				
-UI_20150317_001065	{@st41b}Cancel	{@st41b}선택 취소				
-UI_20150317_001066	{@st59}Cancel Character Selection{/}	{@st59}캐릭터 선택을 취소합니다{/}				
-UI_20150317_001067	Character Information	캐릭터정보				
-UI_20150317_001068	{@st41}Bring Along	{@st41}함께하기				
-UI_20150317_001069	{@st59}After clicking this, select a character for the companion to follow you{/}	{@st59}클릭후 캐릭터를 선택하면 컴패니언이 따라다닙니다{/}				
-UI_20150317_001070	UI of Item Creation	아이템 생성 UI				
-UI_20150317_001071	{s24}Name :	{s24}이름 : 				
-UI_20150317_001072	{s16} STR :	{s16} 힘 : 				
-UI_20150317_001073	{s16} HP :	{s16} 체력 : 				
-UI_20150317_001074	{s16} AGI :	{s16} 민첩 : 				
-UI_20150317_001075	{s16} VIT :	{s16} 기력 : 				
-UI_20150317_001076	{s16} Force :	{s16} 도력 : 				
-UI_20150317_001077	{s18} Class Selection	{s18} 직업선택				
-UI_20150317_001078	{s18} Right Way Union	{s18} 정도연맹				
-UI_20150317_001079	{s18} Providence Evil Union	{s18} 천명마교				
-UI_20150317_001080	Hong Moo Moon	홍무문				
-UI_20150317_001081	Dae Do Cheon	대도천				
-UI_20150317_001082	Fire Swords	화선도				
-UI_20150317_001083	For adenomas hwageuk	용화극선종				
-UI_20150317_001084	Puncture sex	천자성				
-UI_20150317_001085	Yeonhwagyo	연화교				
-UI_20150317_001086	{S16}Gender and Appearance	{s16}성별 및 외모				
-UI_20150317_001087	Male	남				
-UI_20150317_001088	Female	여				
-UI_20150317_001089	Hair Adjustment	머리 조절				
-UI_20150317_001090	Key Adjustment	키 조절				
-UI_20150317_001091	Shoulder Width	어깨 넓이				
-UI_20150317_001092	Hand and Foot size	손, 발 크기				
-UI_20150317_001093	Chest Size	가슴 사이즈				
-UI_20150317_001094	Waist Size	허리 사이즈				
-UI_20150317_001095	Hip Size	골반 사이즈				
-UI_20150317_001096	{S18} Head Size	{s18} 머리크기				
-UI_20150317_001097	{S14} Height Adjustment	{s14} 키 조절				
-UI_20150317_001098	{S14} Shoulder Width	{s14} 어깨 넓이				
-UI_20150317_001099	{S14} Hand and Foot size	{s14} 손, 발 크기				
-UI_20150317_001100	{S14} Chest Size	{s14} 가슴 사이즈				
-UI_20150317_001101	{S14} Waist Size	{s14} 허리 사이즈				
-UI_20150317_001102	{S14} Pelvic Size	{s14} 골반 사이즈				
-UI_20150317_001103	Use Pre-set	미리설정값				
-UI_20150317_001104	Randomize	임의설정값				
-UI_20150317_001105	Create New Character	신규 인물 생성				
-UI_20150317_001106	Cancel Character Creation	인물 생성 취소				
-UI_20150317_001107	{@St43}{s40}{gr gradation4}Game Start{/}	{@st43}{s40}{gr gradation4}게임 시작{/}				
-UI_20150317_001108	{@St43}{s40}{gr gradation4}End Preview{/}	{@st43}{s40}{gr gradation4}미리보기 종료{/}				
-UI_20150317_001109	{@St43}{s40}{gr gradation4}Return to the Zone{/}	{@st43}{s40}{gr gradation4}존으로돌아가기{/}				
-UI_20150317_001110	{@St59}Return to the Zone.{/}	{@st59}다시 존으로 들어갑니다.{/}				
-UI_20150317_001111	{@St41b}Return{/}	{@st41b}돌아가기{/}				
-UI_20150317_001112	{@St59}Return to My Lodge.{/}	{@st59}나의 배럭으로 돌아갑니다.{/}				
-UI_20150317_001113	{@St43}{s24}LodgeName{/}	{@st43}{s24}배럭 이름{/}				
-UI_20150317_001114	{@St59}Lodge Name{/}	{@st59}배럭 이름{/}				
-UI_20150317_001115	{@st41b}Decorate{/}	{@st41b}꾸미기{/}				
-UI_20150317_001116	{@St59}Decorate Lodge{/}	{@st59}배럭 꾸미기{/}				
-UI_20150317_001117	{@St41b}Setup{/}	{@st41b}설  정{/}				
-UI_20150317_001118	{@St59}Barrack Settings{/}	{@st59}배럭 설정{/}				
-UI_20150317_001119	Customized Item frame	커스터마이즈 아이템 프레임				
-UI_20150317_001120	Green	녹색				
-UI_20150317_001121	Density	밀도				
-UI_20150317_001122	Like HP	체력이라던가				
-UI_20150317_001123	{@st59}Hair Accessories{/}	{@st59}헤어악세서리{/}				
-UI_20150317_001124	{@st59}Subsidiary Accessories{/}	{@st59}보조악세서리{/}				
-UI_20150317_001125	{@St42}Text{/}	{@st42}텍스트{/}				
-UI_20150317_001126	Basic content name	기본 콘텐츠 이름				
-UI_20150317_001127	Basic group name	기본 그룹 이름				
-UI_20150317_001128	Basic item name	기본 아이템 이름				
-UI_20150317_001129	Mr Kim	김평직				
-UI_20150317_001130	Weight : %s	무게 : %s				
-UI_20150317_001131	N/A	별별벼려별				
-UI_20150317_001132	%s race	%s 종족				
-UI_20150317_001133	N/A	표례스텨(싱뮬형)				
-UI_20150317_001134	Untradable	거래 불가				
-UI_20150317_001135	Cannot enhance	강화 불가				
-UI_20150317_001136	N/A	별별별별				
-UI_20150317_001137	Item Name	템이름				
-UI_20150317_001138	N/A	이 템을 착용하면 어쩌고 저쩌고				
-UI_20150317_001139	Lv and above	레벨 몇 이상				
-UI_20150317_001140	Everyone can equip	누구는 장착 가능				
-UI_20150317_001141	Maximum Sockets : ×%s	최대 소캣 %s개				
-UI_20150317_001142	Item Name	아이템 이륨				
-UI_20150317_001143	Sell Value : %s silver	상점 판매 가격 : %s 실버				
-UI_20150317_001144	How much	얼마				
-UI_20150317_001145	{@St42b}Full Exploration Rate of Siauliai{/}	{@st42b}샤울레이 전체 탐사율{/}				
-UI_20150317_001146	{@St42b}West Forest Area Explored{/}	{@st42b}서쪽숲 탐사율{/}				
-UI_20150317_001147	{@St18}Item{/}	{@st18}아이템{/}				
-UI_20150317_001148	{@St18}My Ranking{/}	{@st18}내 순위{/}				
-UI_20150317_001149	Diamond	다이야				
-UI_20150317_001150	Stamina +9.000	체력 플러스 구천				
-UI_20150317_001151	{@St18}Average{/}	{@st18}평균{/}				
-UI_20150317_001152	{@St42b}{s18}Workmanship{/}	{@st42b}{s18}숙련도{/}				
-UI_20150317_001153	{@St55_c}Item Name	{@st55_c}아이템 이름				
-UI_20150317_001154	{@St55_c}Memo Records	{@st55_c}메모 기록				
-UI_20150317_001155	{@St59}Enter a name. If you do not enter a name, the default name will be used.{/}	{@st59}이름을 입력합니다. 입력하지 않을경우 기본이름으로 제작됩니다.{/}				
-UI_20150317_001156	{@St59}Enter a memo{/}	{@st59}메모를 입력합니다{/}				
-UI_20150317_001157	{@St43}Produce items	{@st43}아이템 제작				
-UI_20150317_001158	{@st42b}%s Points {/}	{@st42b}%s 점{/}				
-UI_20150317_001159	{@st42b}%s{/}	{@st42b}%s 개{/}				
-UI_20150317_001160	{@st42b}%s Points {/}	{@st42b}%s점{/}				
-UI_20150317_001161	{@st42b}%s{/}	{@st42b}%s개{/}				
-UI_20150317_001162	{S16}{ol}per price	{s16}{ol}개당 가격				
-UI_20150317_001163	Total Price : 1	총 가격 :   1				
-UI_20150317_001164	{@St41}Help	{@st41}도움말				
-UI_20150317_001165	{@St41}Photo Description	{@st41}사진에 대한 설명				
-UI_20150317_001166	{@St41}Registration	{@st41}등록				
-UI_20150317_001167	{@St41}Name	{@st41}이  름				
-UI_20150317_001168	{@St41}Message	{@st41}메세지				
-UI_20150317_001169	{@St43}Name{/}	{@st43}이  름{/}				
-UI_20150317_001170	{@St41b}Message{/}	{@st41b}메세지{/}				
-UI_20150317_001171	{@St42b}Login{/}	{@st42b}로그인{/}				
-UI_20150317_001172	{@St41}Create a new conversation	{@st41}새 대화 만들기				
-UI_20150317_001173	{@St41}Full Conversation	{@st41}전체 대화				
-UI_20150317_001174	Region Name	지역이름				
-UI_20150317_001175	{@St41}Skill Names	{@st41}스킬이름				
-UI_20150317_001176	{@St41}Attribute Points	{@st41}특성포인트				
-UI_20150317_001177	{@St41}Class Name	{@st41}클래스이름				
-UI_20150317_001178	Character Name	케릭터 이름				
-UI_20150317_001179	{@Sti7}Delete{/}	{@sti7}삭제{/}				
-UI_20150317_001180	Character Level	케릭터 레벨				
-UI_20150317_001181	{@St42}Quest Sharing{/}	{@st42}퀘스트공유{/}				
-UI_20150317_001182	{@St42}EXP Sharing{/}	{@st42}경험치공유{/}				
-UI_20150317_001183	Character Memo	케릭터 메모				
-UI_20150317_001184	Average Party Level : {#FFFF00}%s{/}	파티 평균레벨 : {#FFFF00}%s{/}				
-UI_20150317_001185	Searching For : {#FFFF00}%s{/}	찾는 파티원 : {#FFFF00}%s{/}				
-UI_20150317_001186	Cleric / Archer	성직자 / 궁수				
-UI_20150317_001187	Quest Sharing : {#FFFF00}%s{/}	퀘스트 공유 : {#FFFF00}%s{/}				
-UI_20150317_001188	N/A	사아용				
-UI_20150317_001189	EXP Distribution : {#FFFF00}%s{/}	경험치 분배규칙 : {#FFFF00}%s{/}				
-UI_20150317_001190	Equally	규운등 분배				
-UI_20150317_001191	Item Distribution : {#FFFF00}%s{/}	아이템 분배규칙 : {#FFFF00}%s{/}				
-UI_20150317_001192	Randomly	래앤덤하게 분배				
-UI_20150317_001193	How do I	어떻게하면내가				
-UI_20150317_001194	You don't see who it is	누군지모를까				
-UI_20150317_001195	{@st41b}Adventure Journal Updated	{@st41b}모험일지에 등록되었습니다.				
-UI_20150317_001196	Menu Objects for Quest	퀘스트용 메뉴오브젝트				
-UI_20150317_001197	Quest Categories	퀘스트의 카테고리				
-UI_20150317_001198	Quest Object List	퀘스트의 리스트 오브젝트				
-UI_20150317_001199	N/A	퀘스트의 리스트 오브젝트-여기까지는 옛날꺼임				
-UI_20150317_001200	Line used on the roadmap	로드맵에서 사용하는 라인				
-UI_20150317_001201	Slot Object_Standard	슬롯 오브젝트_일반용				
-UI_20150317_001202	Slot Object_Cash Slot	슬롯 오브젝트_캐시슬롯				
-UI_20150317_001203	Character Details Type 1	캐릭터 상세 정보 타입1				
-UI_20150317_001204	Character Details Type 2	캐릭터 상세 정보 타입2				
-UI_20150317_001205	Inventory List Type 1	인벤토리 리스트 타입1				
-UI_20150317_001206	Inventory List Type 2	인벤토리 리스트 타입2				
-UI_20150317_001207	Inventory Slot Type	인벤토리 슬롯 타입				
-UI_20150317_001208	View item details on the Market	마켓에서 아이템 보기_디테일				
-UI_20150317_001209	Output of Item Name	아이템 이름 출력				
-UI_20150317_001210	Output of the number of remaining	남아 있는 개수를 출력				
-UI_20150317_001211	Output of Value	값을 출력				
-UI_20150317_001212	When you add it to cart	카트에 담았을 때				
-UI_20150317_001213	Output of total value	총합을 출력				
-UI_20150317_001214	For item output	아이템 출력용				
-UI_20150317_001215	Output of unit price	단가출력				
-UI_20150317_001216	Item category	아이템 카테고리				
-UI_20150317_001217	News	새 소식				
-UI_20150317_001218	{@St42b}Restart{/}	{@st42b}재시작{/}				
-UI_20150317_001219	Peltang Stang	펠탕스탕				
-UI_20150317_001220	99 Circle	99 서클				
-UI_20150317_001221	Defeat 8 Mad Vubbe	부베 망나니 8마리 처치				
-UI_20150317_001222	Tooltip	툴팁				
-UI_20150317_001223	EXP: sad{br}+1 Enchantment Crystal (Attack)	EXP : sad{br}+1 인챈트 크리스탈 (공격)				
-UI_20150317_001224	Apprentice Sword	어프렌티스 소드				
-UI_20150317_001225	Repair Durability :	수리 내구도 :				
-UI_20150317_001226	Repair Cost : 120 silver	수리비용 : 120 실버				
-UI_20150317_001227	Repair Cost : %s silver	수리비용 : %s 실버				
-UI_20150317_001228	{@st42b}Bids Count {@sti7}%s{/}	{@st42b}입찰수 {@sti7}%s{/}				
-UI_20150317_001229	{@st42b}Current Price {img icon_item_silver 20 20}{@st57}%s{/}	{@st42b}현재가 {img icon_item_silver 20 20}{@st57}%s{/}				
-UI_20150317_001230	{@St41}Buy immediately! {Img icon_item_silver 20 20}{@st57}%s{/}	{@st41}바로 구매! {img icon_item_silver 20 20}{@st57}%s{/}				
-UI_20150317_001231	{@St41b}Receive items{/}	{@st41b}아이템 수령{/}				
-UI_20150317_001232	{@st42b} Bidding Price {img icon_item_silver 20 20}{@st57}%s{/}	{@st42b}입찰금 {img icon_item_silver 20 20}{@st57} %s{/}				
-UI_20150317_001233	{@Sti7}Return	{@sti7}반환				
-UI_20150317_001234	{@St59}Head{/}	{@st59}머리{/}				
-UI_20150317_001235	{@St59}Left Bracelet{/}	{@st59}왼팔찌{/}				
-UI_20150317_001236	{@St59}Right Bracelet{/}	{@st59}오른팔찌{/}				
-UI_20150317_001237	{@St59}Costumes{/}	{@st59}의상{/}				
-UI_20150317_001238	{@st59}Ring2{/}	{@st59}링2{/}				
-UI_20150317_001239	Pet Name	펫이름				
-UI_20150317_001240	Chandler bundle	잡화상 묶음				
-UI_20150317_001241	West forest etc...	서쪽숲등				
-UI_20150317_001242	Consume TPs	NXP 소모				
-UI_20150317_001243	Category Name	카테고리이름				
-UI_20150317_001244	This is a Help	도움말 입니당				
-UI_20150317_001245	{@Sti7}%s Points{/}	{@sti7}%s 점{/}				
-UI_20150317_001246	{@st41b}%s Score	{@st41b}%s 점수				
-UI_20150317_001247	Clear Quest 25	퀘스트 클리어 25개				
-UI_20150317_001248	[Sub]Thron Forest	- [서브] 가시숲				
-UI_20150317_001249	{@St42}Equipped Item	{@st42}장착 아이템				
-UI_20150317_001250	{@St44}Rank %s Class Information{/}	{@st44}%s랭크 클래스 정보{/}				
-UI_20150317_001251	Advancement Alarm	몇차 전직 정보				
-UI_20150317_001252	Like Heart	하트라던가				
-UI_20150317_001253	N/A	쇼드뮨				
-UI_20150317_001254	Level %s	%s 레벨				
-UI_20150317_001255	Memo : {#666666}%s	메모 : {#666666}%s				
-UI_20150317_001256	Ayase	아야세				
-UI_20150317_001257	Relationship with %s	%s 님과의 관계 배지				
-UI_20150317_001258	{#FFFF33}%s{/} wants to become a friend{/}	{#FFFF33}%s{/} 님이 친구로 초대하였습니다{/}				
-UI_20150317_001259	{@St41b}Accept	{@st41b}수락				
-UI_20150317_001260	{@St41b}Decline	{@st41b}거절				
-UI_20150317_001261	{@St53b}Loading your friends list.	{@st53b}친구 목록을 로딩중입니다.				
-UI_20150317_001262	Level %s{/}	레벨 %s{/}				
-UI_20150317_001263	{@st41} Cancel	{@st41}취소				
-UI_20150317_001264	Please add the buff to sell.	판매할 버프를 등록해주세요.				
-UI_20150317_001265	Price : %s{/}	가격 : %s{/}				
-UI_20150317_001266	Amount Left	남은갯수				
-UI_20150317_001267	{@St41}Purchase	{@st41}구매				
-UI_20150317_001268	Amount Left : %s {/}	남은갯수 : %s{/}				
-UI_20150317_001269	{@St41}Item{/}	{@st41}아이템{/}				
-UI_20150317_001270	{@St41b} Memo	{@st41b}메모				
-UI_20150317_001271	{@St41b}Craft	{@st41b}제작				
-UI_20150317_001272	{@St41b}Price : %s{/}	{@st41b}가격 : %s{/}				
-UI_20150317_001273	{@Sti5}Price : %s{/}	{@sti5}가격 : %s{/}				
-UI_20150317_001274	{@Sti9} Party Quest (%s){/}	{@sti9}파티원 퀘스트 (%s){/}				
-UI_20150317_001275	{@st41_yellow} Exploration Rate: %s% {/}	{@st41_yellow}탐색율 %s%{/}				
-UI_20150317_001276	{@st41_yellow} Score: %s {/}	{@st41_yellow}획득점수 %s{/}				
-UI_20150317_001277	{@st42b}{b}Achievement Rate{/}	{@st42b}{b}달성율{/}				
-UI_20150317_001278	{@st59}Join Party Quest{/}	{@st59}파티 퀘스트 진행을 수락합니다{/}				
-UI_20150317_001279	Windows	윈도우				
-UI_20150317_001280	Status	스테이더스				
-UI_20150317_001281	Tab	탭				
-UI_20150317_001282	Image Item	이미지아이템				
-UI_20150317_001283	Effect	이펙트				
-UI_20150317_001284	Control Set	컨트롤셋				
-UI_20150317_001285	{@St41}Difficulty : %s	{@st41}난이도 : %s				
-UI_20150317_001286	{@St42}Remaining Time : %s	{@st42}남은 시간 : %s				
-UI_20150317_001287	{@St53}Item Crafting	{@st53}제조 중인 아이템				
-UI_20150323_001288	{@st59}Place your item here{/}	{@st59}아이템을 올려주세요{/}				
-UI_20150323_001289	{@st42}Cancel	{@st42}취 소				
-UI_20150323_001290	{@st42}Confirm	{@st42}확 인				
-UI_20150323_001291	{@st43}Briquetting{/}	{@st43}브리케팅{/}				
-UI_20150323_001292	Current Potential	현재 포텐셜				
-UI_20150323_001293	Consumable Material	소비 재료				
-UI_20150323_001294	Consume Quantity	소비 갯수				
-UI_20150323_001295	Quantity Available	보유 갯수				
-UI_20150323_001296	{@sti6}Transaction Record	{@sti6}거래 기록				
-UI_20150323_001297	{@st43}Base Camp	{@st43}거점				
-UI_20150323_001298	Signboard Title	간판 제목				
-UI_20150323_001299	{@st43}Build	{@st43}건설				
-UI_20150323_001300	{@stc1}Base Camp Lasting Time	{@stc1}거점 유지 시간				
-UI_20150323_001301	{@stc1}Effect	{@stc1}효과				
-UI_20150323_001302	{@stc1}Materials and Price	{@stc1}소비재료 및 비용				
-UI_20150323_001303	{@st41b}Base Camp	{@st41b}거점				
-UI_20150323_001304	{@st41b}Log	{@st41b}로그				
-UI_20150323_001305	{@st41b}Renew	{@st41b}시간 갱신				
-UI_20150323_001306	{@st59}Renews the lasting time.{/}	{@st59}유지 시간을 갱신합니다{/}				
-UI_20150323_001307	{@st41b}Base Camp Lasting Time	{@st41b}거점 유지 시간				
-UI_20150323_001308	{@st41b}Effect	{@st41b}효과				
-UI_20150323_001309	{@st42b}A base camp lasts for an additional 24 hours when renewed. Consumes %s silver.	{@st42b}갱신시 24시간 추가 거점이 유지되며 %s실버가 소모됩니다.				
-UI_20150323_001310	{@st41b}Personal Storage	{@st41b}개인 창고				
-UI_20150323_001311	{@stc1}Storing and taking items in and from storage costs %s silver.{/}	{@stc1}창고에 물품을 보관하고 찾을시에 %s실버가 소모됩니다.{/}				
-UI_20150323_001312	{@st41}{#ffff00}Lock Target{/}	{@st41}{#ffff00}타겟 고정{/}				
-UI_20150323_001313	{@st43}Refreshment Table	{@st43}배식 테이블				
-UI_20150323_001314	{@st41b}Food type	{@st41b}음식종류				
-UI_20150323_001315	{@st41b}Table	{@st41b}테이블				
-UI_20150323_001316	{@st59}Close{/}	{@st59}배식테이블을 닫습니다{/}				
-UI_20150323_001317	{@st43}Grimoire{/}	{@st43}그리모어{/}				
-UI_20150323_001318	{@st59}Close{/}	{@st59}그리모어 UI를 닫습니다{/}				
-UI_20150323_001319	My Summon Skill	내 소환 스킬				
-UI_20150323_001320	Main Card	메인 카드				
-UI_20150323_001321	Secondary Card	보조카드				
+UI_20150317_000673	{@st43}Дом{/}
+UI_20150317_000674	{@st59}Закрыть дом{/}
+UI_20150317_000675	{@st41}Посмотреть все{/}
+UI_20150317_000676	{@st41}Создать карту{/}
+UI_20150317_000677	{@st41}%s/мин (%s в работе){/}
+UI_20150317_000678	Клавиатура Warrior
+UI_20150317_000679	{@st42}%s{/}{@st42_yellow}Уровень{/}
+UI_20150317_000680	{@st41_yellow}Время занятости
+UI_20150317_000681	{@st43}Граффити{/}
+UI_20150317_000682	{@st59}Закрыть{/}
+UI_20150317_000683	{@st41b}Подсказка: Нарисуйте изображение в рамке{/}
+UI_20150317_000684	{@st41b}Цвета{/}
+UI_20150317_000685	{@st41b}Количество{/}
+UI_20150317_000686	{@st41b}Кисть{/}
+UI_20150317_000687	{@st43}Рисовать{/}
+UI_20150317_000688	{@st59}Нарисуйте завершенное изображение на земле.{/}
+UI_20150317_000689	{@st41b}{a SAVE_EDIT_SPRAY}Сохранить{/}{/}
+UI_20150317_000690	{@st59}Сохранить рисунок{/}
+UI_20150317_000691	{@st41b}{a LOAD_EDIT_SPRAY}Загрузить{/}{/}
+UI_20150317_000692	{@st59}Загрузить ваш рисунок.{/}
+UI_20150317_000693	{@st59}Выберите цвет 1{/}
+UI_20150317_000694	{@st59}Выберите цвет 2{/}
+UI_20150317_000695	{@st59}Список цветов{/}
+UI_20150317_000696	{@st59}Выбрать кисть{/}
+UI_20150317_000697	{@st59}Кисть 1{/}
+UI_20150317_000698	{@st59}Кисть 2{/}
+UI_20150317_000699	{@st59}Кисть 3{/}
+UI_20150317_000700	{@st59}Кисть 4{/}
+UI_20150317_000701	{@st59}Кисть 5{/}
+UI_20150317_000702	{@st59}Кисть 6{/}
+UI_20150317_000703	{@st49}Игроки которым это понравилось{/}
+UI_20150317_000704	{s20}{#050505}Описать всё
+UI_20150317_000705	{@st41} Все {/}
+UI_20150317_000706	{@st41} Группа {/}
+UI_20150317_000707	{@st41} Монстр {/}
+UI_20150317_000708	{@st41b}{#f0dcaa}Оставшиеся Очки Статуса ▶ {@st46}%s
+UI_20150317_000709	{@st59b}Информация{nl}{@st59s}- Способности : При повышении уровня, вы получаете очки, которые можно использовать для повышения 5 характеристик персонажа. {nl}- Информация : Информация о персонаже на основе его умений и экипировке. {nl}- Титул : Может быть получен за достижения. {nl} {/}
+UI_20150317_000710	{@st41b}Инфо.{/}
+UI_20150317_000711	{@st41b}Титул{/}
+UI_20150317_000712	Показать класс
+UI_20150317_000713	Показать имя персонажа
+UI_20150317_000714	{@st59}Изменить имя персонажа{/}
+UI_20150317_000715	{@st41b}Применить{/}
+UI_20150317_000716	{@st59}Применить{/}
+UI_20150317_000717	{@st41b}Отмена
+UI_20150317_000718	{@st59}Отмена{/}
+UI_20150317_000719	Имя компьютера
+UI_20150317_000720	{@st41_yellow}Уровень: {@st41}%s{/}
+UI_20150317_000721	{@st41_yellow}Способности наемников
+UI_20150317_000722	{@st43}Эффект атаки{/}
+UI_20150317_000723	{@st43}Эффект защиты{/}
+UI_20150317_000724	{@st43}Параметр{/}
+UI_20150317_000725	systemmenu_vertical tentative removal
+UI_20150317_000726	{@st59}Информация о персонаже (F1){/}
+UI_20150317_000727	{@st59}Инвентарь (F2){/}
+UI_20150317_000728	{@st59}Классы и Умения (F3){/}
+UI_20150317_000729	{@st59}Журнал приключений (F4){/}
+UI_20150317_000730	{@st59}Задания (F5){/}
+UI_20150317_000731	{@st59}Группа (F6){/}
+UI_20150317_000732	{@st59}Друзья (F7){/}
+UI_20150317_000733	{@st59}Макросы (F8) {/}
+UI_20150317_000734	{@st59}Питомец (F9) {/}
+UI_20150317_000735	{@st59}Справка (F10) {/}
+UI_20150317_000736	{@st59}Системное меню (Esc){/}
+UI_20150317_000737	{@st59}Некрономикон{/}
+UI_20150317_000738	Справка(F1)
+UI_20150317_000739	Содержание
+UI_20150317_000740	Показать детали
+UI_20150317_000741	{@st43}Настройки игры{/}
+UI_20150317_000742	{@st43}Игра{/}
+UI_20150317_000743	{@st41b}Показывать полученный опыт{/}
+UI_20150317_000744	{@st41b}Показывать имена персонажей{/}
+UI_20150317_000745	{@st41b}Показывать только Фамилии {/}
+UI_20150317_000746	{@st41b}Показать справочник по заданиям{/}
+UI_20150317_000747	{@st43}Разрешение{/}
+UI_20150317_000748	{@st43}Графика{/}
+UI_20150317_000749	{@st41b}Во весь экран{/}
+UI_20150317_000750	{@st41b}Оконный режим{/}
+UI_20150317_000751	{@st43}Звук{/}
+UI_20150317_000752	{@st41b}Громкость эффектов (%s){/}
+UI_20150317_000753	{@st41b}Громкость музыки (%s){/}
+UI_20150317_000754	{@st41b}Громкость (%s){/}
+UI_20150317_000755	{@St43}{b}Выбор языка {/}{/}
+UI_20150317_000756	{@st59}Закрыть{/}
+UI_20150317_000757	Мин. рекомендуемые настройки {@st41b} {/}
+UI_20150317_000758	{@st41b}Просмотреть{/}
+UI_20150317_000759	{@st59}Авторы{/}
+UI_20150317_000760	Целевое окно заклинаний
+UI_20150317_000761	{@st46}Насыщенная картинка
+UI_20150317_000762	{@st46}%s's картинка
+UI_20150317_000763	{@st46}Нравится
+UI_20150317_000764	{@st46}Пожаловаться
+UI_20150317_000765	{@st46}ВКЛ. preservatives
+UI_20150317_000766	{@st46}Удалить картинку
+UI_20150317_000767	Снежные Галлюцинации
+UI_20150317_000768	Букет
+UI_20150317_000769	{@st41}Подарки
+UI_20150317_000770	Пожалуйста, введите количество
+UI_20150317_000771	{@st53b}%s Побед %s Поражений
+UI_20150317_000772	{@st42}Расписание на сегодня
+UI_20150317_000773	{@st53}Начать:
+UI_20150317_000774	{@st53b}Подарков получено: ×%s
+UI_20150317_000775	{@st43b}Подарков отправлено на %s{/}
+UI_20150317_000776	{@st55_a}Следующая игра
+UI_20150317_000777	{@st53}- Нажмите на имя, что бы наблюдать{nl}- Правой кнопкой отправить подарок.
+UI_20150317_000778	Закрепить камеру на персонаже
+UI_20150317_000779	{@st55_a}Поздравляем!
+UI_20150317_000780	{@st42}Сменить камеру
+UI_20150317_000781	{@st44}Журнал приключений{/}
+UI_20150317_000782	{@st59}Изменить параметры просмотра{/}
+UI_20150317_000783	{@st41}Статистика {/}
+UI_20150317_000784	{@st41}Крафт {/}
+UI_20150317_000785	{@st41}Охота {/}
+UI_20150317_000786	{@st41}Помощь{/}
+UI_20150317_000787	{@st44}Страница Wiki{/}
+UI_20150317_000788	{@st42}Информация{/}
+UI_20150317_000789	{@st42}Детали{/}
+UI_20150317_000790	{@st42}Битва{/}
+UI_20150317_000791	{@st42}Получить{/}
+UI_20150317_000792	{@st59}Закрыть{/}
+UI_20150317_000793	{@st43}Поле боя
+UI_20150317_000794	{@st59}Покинуть поле боя.
+UI_20150317_000795	(Бронза 3)
+UI_20150317_000796	{@sti8}Очки заработанные сегодня: {nl}%s{/}
+UI_20150317_000797	{@st41}Магазин Славы
+UI_20150317_000798	{@st41}Ранги
+UI_20150317_000799	{@st42}Расписание Поля битвы
+UI_20150317_000800	{@st42}Последние записи
+UI_20150317_000801	{@st41}Получено опыта
+UI_20150317_000802	{@st41}Окно ПвП
+UI_20150317_000803	{@st41}Поиск
+UI_20150317_000804	{@st43}Рейтинг Поля битвы
+UI_20150317_000805	{@st59}Закрыть
+UI_20150317_000806	{@st56}Название умения {/}
+UI_20150317_000807	{@st41}Проверит координаты{/}
+UI_20150317_000808	{@st41}Найти{/}
+UI_20150317_000809	{@st42b}Управление возрождением монстров{/}
+UI_20150317_000810	{@st42b}Список монстров{/}
+UI_20150317_000811	{@st42b}Создать UI{/}
+UI_20150317_000812	{@st42b}Туман войны{/}
+UI_20150317_000813	{@st42b}Создать карту{/}
+UI_20150317_000814	{@st42b}Создать мини карту{/}
+UI_20150317_000815	{@st42b}Диалог {/}
+UI_20150317_000816	{@st42b}Изменить награду за задание{/}
+UI_20150317_000817	{@st42b}Возрождение группы{/}
+UI_20150317_000818	{@st42b}Установить местоположение на карте{/}
+UI_20150317_000819	{@st42b}Дерево умений{/}
+UI_20150317_000820	{@st42b}Список событий{/}
+UI_20150317_000821	{@st42b}Проверить координаты{/}
+UI_20150317_000822	{@st42b}Проверить XAC, путь текстур{/}
+UI_20150317_000823	{@st42b}Производительность ВКЛ/ВЫКЛ{/}
+UI_20150317_000824	Список диалогов
+UI_20150317_000825	Искать
+UI_20150317_000826	{@st41}Просмотр{/}
+UI_20150317_000827	{@st41}Выкл{/}
+UI_20150317_000828	{@st41}Удалить{/}
+UI_20150317_000829	{@st41}Сохранить все{/}
+UI_20150317_000830	{@st41}Применить изображение{/}
+UI_20150317_000831	{#FFFFFF}{ds}Выбрать событие
+UI_20150317_000832	{#FFFFFF}{ds}Редактировать событие
+UI_20150317_000833	{ol}Список
+UI_20150317_000834	Сохранить название группы
+UI_20150317_000835	{@st42}Создать новую{/}
+UI_20150317_000836	{@st41}Возрождение группы{/}
+UI_20150317_000837	{@st59}Введите имя монстра для поиска{/}
+UI_20150317_000838	{@st59}Введите название группы для поиска{/}
+UI_20150317_000839	{@st41}Новая группа{/}
+UI_20150317_000840	Отфильтровать
+UI_20150317_000841	{@st59}Применить фильтр{/}
+UI_20150317_000842	{ol}Значение свойства
+UI_20150317_000843	Список классов
+UI_20150317_000844	Применить к XML
+UI_20150317_000845	{#FFFFFF}{ds}Лог
+UI_20150317_000846	{#FFFFFF}{ds}Просмотреть все свойства
+UI_20150317_000847	Введите слово для поиска
+UI_20150317_000848	Все значения атрибутов
+UI_20150317_000849	{ol}Имя
+UI_20150317_000850	{ol}Значение
+UI_20150317_000851	Rogue
+UI_20150317_000852	{ol}Проверка
+UI_20150317_000853	{ol}Rogue
+UI_20150317_000854	Список классов
+UI_20150317_000855	Конвертировать в XML
+UI_20150317_000856	{ol}Название класса
+UI_20150317_000857	{ol}Название имущества
+UI_20150317_000858	{ol}Изменить значение
+UI_20150317_000859	{ol}Применить
+UI_20150317_000860	Открыть Папку
+UI_20150317_000861	Проверить все
+UI_20150317_000862	История
+UI_20150317_000863	Откат значения
+UI_20150317_000864	{ol}Выберите предмет
+UI_20150317_000865	Введите название для поиска
+UI_20150317_000866	{@st42}Подтвердить{/}
+UI_20150317_000867	{@st41}Создать UI{/}
+UI_20150317_000868	{ol}Рамка
+UI_20150317_000869	{@st41}Рамка{/}
+UI_20150317_000870	{@st41}Кнопка{/}
+UI_20150317_000871	{@st41}Текст{/}
+UI_20150317_000872	{@st42b}Нормальный{img btn_close}
+UI_20150317_000873	{@st42b}Аукцион{img btn_close}
+UI_20150317_000874	{@st41}Установить местоположение на карте{/}
+UI_20150317_000875	{@st41}Переименовать{/}
+UI_20150317_000876	{@st59}Введите слова для фильтра{/}
+UI_20150317_000877	{@st41}Создать{/}
+UI_20150317_000878	{@st56}Сохранить в XML{/}
+UI_20150317_000879	{@st56}Сброс{/}
+UI_20150317_000880	{@st56}Атрибут{/}
+UI_20150317_000881	{@st56}Значение{/}
+UI_20150317_000882	{@st42}Содержание{/}
+UI_20150317_000883	{@st41}Отменить{/}
+UI_20150317_000884	{@st41}Сохранить все{/}
+UI_20150317_000885	{@st41}Открыть XML{/}
+UI_20150317_000886	{@st42b}Исправленных Умений: 0{/}
+UI_20150317_000887	{@st42b}Исправленных умений: %s{/}
+UI_20150317_000888	{@st42b}Самонаведение Мышки{/}
+UI_20150317_000889	{@st42b}Название Умения{/}
+UI_20150317_000890	{@st41}Список монстров{/}
+UI_20150317_000891	{@st41}Окно производительности{/}
+UI_20150317_000892	{ol}Выбрать задание
+UI_20150317_000893	Введите название задания для поиска
+UI_20150317_000894	{ol}Выбрать карту
+UI_20150317_000895	Введите название карты для поиска
+UI_20150317_000896	{@st42}Текущая карта{/}
+UI_20150317_000897	{ol}Название карты
+UI_20150317_000898	{ol}Координаты
+UI_20150317_000899	{@st41}Изменить награду за задание{/}
+UI_20150317_000900	{@st59}Введите задание для поиска{/}
+UI_20150317_000901	{@st59}Введите элемент для поиска{/}
+UI_20150317_000902	{@st42}Опыт
+UI_20150317_000903	{ol}Основная награда
+UI_20150317_000904	{ol}Количество
+UI_20150317_000905	{ol}Дополнительная награда
+UI_20150317_000906	{@st45}Частота использования кодов
+UI_20150317_000907	{@st41}Дерево умений{/}
+UI_20150317_000908	{@st42}Способность{/}			
+UI_20150317_000909	{@st42}Warrior{/}					
+UI_20150317_000910	{@st42}Wizard{/}			
+UI_20150317_000911	{@st42}Archer{/}				
+UI_20150317_000912	{@st42}Monk{/}			
+UI_20150317_000913	{@st42}Sorcerer{/}		
+UI_20150317_000914	{@st41}Умение{/}
+UI_20150317_000915	{@st59}Загрузить Xml{/}
+UI_20150317_000916	{@st41}Загрузить{/}
+UI_20150317_000917	{@st59}Сохранить как xml{/}
+UI_20150317_000918	{@st59}Сбросить открытое дерево умений/}
+UI_20150317_000919	{@st41}Сбросить{/}
+UI_20150317_000920	{@st59}Сбросить все дерево умений{/}
+UI_20150317_000921	{@st41}Сбросить все{/}
+UI_20150317_000922	{S18}Удалить скрипт
+UI_20150317_000923	{S18}Строковый параметр
+UI_20150317_000924	{s18}Cтрока 1 аргумент
+UI_20150317_000925	{s18}Cтрока 2 аргумент
+UI_20150317_000926	{s18}Макс уровень умения
+UI_20150317_000927	{@st59}Удалить окно скрипта{/}
+UI_20150317_000928	{@st59}Удалить аргумент скрипта{/}
+UI_20150317_000929	{@st59}Макс уровень умения{/}
+UI_20150317_000930	{@st59}Сохранить свойство{/}
+UI_20150317_000931	{@st41}Сохранить свойство{/}
+UI_20150317_000932	{@st44}Список UI{/}
+UI_20150317_000933	{ds}Список Аддонов
+UI_20150317_000934	{ds}Фиксированная рамка списка
+UI_20150317_000935	{@st42}Список UI{/}
+UI_20150317_000936	{@st59}Показать cписок UI{/}
+UI_20150317_000937	{@st42}Регулировка положения{/}
+UI_20150317_000938	{@st59}Регулировка положения{/}
+UI_20150317_000939	{@st42}Редактировать свойства{/}
+UI_20150317_000940	{@st59}Редактировать свойства{/}
+UI_20150317_000941	{@st42}Сохранить{/}
+UI_20150317_000942	{@st59}Сохранить{/}
+UI_20150317_000943	{@st44}Редактировать настройки UI{/}
+UI_20150317_000944	{@St59}Выбор персонажа{/}
+UI_20150317_000945	{@St59}Перезайти{/}
+UI_20150317_000946	{@St59}Настройки{/}
+UI_20150317_000947	{@St59}Выход{/}
+UI_20150317_000948	{@st43}Настройки дома{/}
+UI_20150317_000949	{@st59}Закрыть настройки дома{/}
+UI_20150317_000950	{@St42_b}{s18}{#f5c384}Имя группы{/}
+UI_20150317_000951	{@st59}Введите имя группы {/}
+UI_20150317_000952	{@st59}Сохранить имя группы{/}
+UI_20150317_000953	Предварительное удаление systemmenu_vertical
+UI_20150317_000954	{@St59}Закрыть декорации дома{/}
+UI_20150317_000955	{@St43}Декорация дома{/}
+UI_20150317_000956	{@St41b}Тема{/}
+UI_20150317_000957	{@St41b}Расположение предмета{/}
+UI_20150317_000958	{@St41b}Имя
+UI_20150317_000959	{@St41b}Цена
+UI_20150317_000960	{@St41b}Состояние
+UI_20150317_000961	{@St44}Новый персонаж{/}
+UI_20150317_000962	{@St41b}{s22}Выберите класс персонажа{/}
+UI_20150317_000963	{@St41b}Назад{/}
+UI_20150317_000964	{@St59}Вернуться в Ваш дом для создания персонажа.
+UI_20150317_000965	Сменить персонажа
+UI_20150317_000966	{@St41}Персонаж{/}
+UI_20150317_000967	{@St59}Повернуть по часовой стрелке{/}
+UI_20150317_000968	{@St59}Повернуть против часовой стрелки/}
+UI_20150317_000969	{@St43b}Вращение персонажа{/}
+UI_20150317_000970	{@st43}Имя персонажа{/}
+UI_20150317_000971	Введите имя для {@st59} {/}
+UI_20150317_000972	{@St43b}Выберите Пол{/}
+UI_20150317_000973	{@St59}Девушка{/}
+UI_20150317_000974	{@St59}Парень{/}
+UI_20150317_000975	{@st43b}Выберите прическу{/}
+UI_20150317_000976	{@st59}Стиль волос 1{/}
+UI_20150317_000977	{@st59}Стиль волос 2{/}
+UI_20150317_000978	{@St59}Стиль волос 3{/}
+UI_20150317_000979	{@st59}Стиль волос 4{/}
+UI_20150317_000980	{@st59}Стиль волос 5{/}
+UI_20150317_000981	{@st59}Стиль волос 6{/}
+UI_20150317_000982	{@st59}Стиль волос 7{/}
+UI_20150317_000983	{@st59}Стиль волос 8{/}
+UI_20150317_000984	{@st59}Стиль волос 9{/}
+UI_20150317_000985	{@st59}Стиль волос 10{/}
+UI_20150317_000986	{@St43b}Выберите Класс{/}
+UI_20150317_000987	{@st59}Swordsman{/}
+UI_20150317_000988	{@st59}Wizard{/}
+UI_20150317_000989	{@st59}Archer{/}
+UI_20150317_000990	{@st59}Cleric{/}
+UI_20150317_000991	{@St41b}Посетить Дом {/}
+UI_20150317_000992	{@St59}Посетить дом другого игрока.{/}
+UI_20150317_000993	{@St41b}Перезайти{/}
+UI_20150317_000994	{@St59}Вернуться на экран выбора сервера{/}
+UI_20150317_000995	{@St41b}Выйти из игры{/}
+UI_20150317_000996	{@St59}Выйти из Tree of Savior{/}
+UI_20150317_000997	{@st41b}Выберите канал:{/}
+UI_20150317_000998	{@st43}Начать Игру{/}
+UI_20150317_000999	{@St59}Начать игру за выбранного персонажа{/}
+UI_20150317_001000	{@St43}{s26}Фамилия{/}
+UI_20150317_001001	{@st59}Фамилия{/}
+UI_20150317_001002	{@st41b}Изменить Фамилию{/}
+UI_20150317_001003	{@st59}Изменить Фамилию{/}
+UI_20150317_001004	{@St41}Питомец{/}
+UI_20150317_001005	Перетащить чат
+UI_20150317_001006	{@St44}Новое название диалога{/}
+UI_20150317_001007	{@St42}Изменить{/}
+UI_20150317_001008	{@St44}Новое название окна{/}
+UI_20150317_001009	{@St43}{s40}{gr gradation4}Создание персонажа{/}
+UI_20150317_001010	{@St59}Создать персонаж{/}
+UI_20150317_001011	{@St59}Отменить создание персонажа{/}
+UI_20150317_001012	{@St59}Закрыть{/}
+UI_20150317_001013	{@St59}Создать Семью с введенной Фамилией{/}
+UI_20150317_001014	{@St43}{s30}{#f0dcaa}Введите название Фамилии!
+UI_20150317_001015	{@St41b}Фамилия Семьи отображается на всех персонажах.{nl}Это общее название используется в игре при торговле, вступлении в гильдию, личных сообщениях и т.д..{nl}Фамилию в дальнейшем можно изменить (Стоимость 150 TP){/}
+UI_20150317_001016	Загрузка фона
+UI_20150317_001017	Подсказка
+UI_20150317_001018	Игровые подсказки
+UI_20150317_001019	Вход
+UI_20150317_001020	Аккаунт ID
+UI_20150317_001021	{@st59}Введите свой ID аккаунта{/}
+UI_20150317_001022	Пароль
+UI_20150317_001023	{@St59}Введите ваш пароль{/}
+UI_20150317_001024	{@St43}Старт{/}
+UI_20150317_001025	{@St59}Подключиться к выбранному серверу{/}
+UI_20150317_001026	{@st41b}Повтор{/}
+UI_20150317_001027	{@st41b}Одиночный режим{/}
+UI_20150317_001028	{@St41b}Выйти из игры{/}
+UI_20150317_001029	Сохранить
+UI_20150317_001030	{@St59}Если отмечено, ваш аккаунт будет сохранен{/}
+UI_20150317_001031	Список серверов:
+UI_20150317_001032	{@St59}Выберите сервер{/}
+UI_20150317_001033	Введите логин
+UI_20150317_001034	[Закрытое бета-тестирование]
+UI_20150317_001035	Опции
+UI_20150317_001036	Дальность видимости
+UI_20150317_001037	{S20}{#BBBBBB}Дальность видимости
+UI_20150317_001038	Дальность видимости :
+UI_20150317_001039	Персонаж :
+UI_20150317_001040	Фоновые объекты :
+UI_20150317_001041	Топография-Трава (%) :
+UI_20150317_001042	Топография-Деревья (%) :
+UI_20150317_001043	Топография-Объекты(%) :
+UI_20150317_001044	Тень
+UI_20150317_001045	{S20}{#BBBBBB}Затемнение карты
+UI_20150317_001046	Использование затемненной карты
+UI_20150317_001047	Качество теней :
+UI_20150317_001048	Использовать SSAO
+UI_20150317_001049	SSAO Способ :
+UI_20150317_001050	SSAO Разрешение :
+UI_20150317_001051	Отражения в воде
+UI_20150317_001052	{s20}{#BBBBBB}Отражения в воде
+UI_20150317_001053	Отражение персонажей в воде
+UI_20150317_001054	Отражение фона в воде
+UI_20150317_001055	{s20}{#BBBBBB}Настройки свечения
+UI_20150317_001056	Включить свечение
+UI_20150317_001057	{@st41}Атака{/}
+UI_20150317_001058	{@St41}Защита{/}
+UI_20150317_001059	{@st41}Поддержка{/}
+UI_20150317_001060	{@St41}Сложность{/}
+UI_20150317_001061	{@St41}{s14}Прическа
+UI_20150317_001062	{@st41}{s14}Вращение
+UI_20150317_001063	{@St43}Создать персонажа
+UI_20150317_001064	{@St59}Создать текущего персонажа{/}
+UI_20150317_001065	{@St41b}Отмена
+UI_20150317_001066	{@St59}Отменить выбор данного персонажа{/}
+UI_20150317_001067	Информация о персонаже
+UI_20150317_001068	{@st41}Взять с собой
+UI_20150317_001069	{@St59}Нажмите, затем выберите за каким персонажем следовать питомцу{/}
+UI_20150317_001070	Интерфейс создания предмета
+UI_20150317_001071	{S24}Имя :
+UI_20150317_001072	{S16} STR :
+UI_20150317_001073	{S16} HP :
+UI_20150317_001074	{S16} AGI :
+UI_20150317_001075	{S16} VIT :
+UI_20150317_001076	{S16} Force :
+UI_20150317_001077	{S18} Выбор класса
+UI_20150317_001078	{S18} Right Way Union
+UI_20150317_001079	{S18} Providence Evil Union
+UI_20150317_001080	Hong Moo Moon
+UI_20150317_001081	Dae Do Cheon
+UI_20150317_001082	Fire Swords
+UI_20150317_001083	For adenomas hwageuk
+UI_20150317_001084	Puncture sex
+UI_20150317_001085	Yeonhwagyo
+UI_20150317_001086	{S16}Пол и внешний вид
+UI_20150317_001087	Парень
+UI_20150317_001088	Девушка
+UI_20150317_001089	Прическа
+UI_20150317_001090	Управление
+UI_20150317_001091	Ширина плеч
+UI_20150317_001092	Размер рук и ног
+UI_20150317_001093	Ширина торса
+UI_20150317_001094	Ширин бедер
+UI_20150317_001095	Ширина талии
+UI_20150317_001096	{S18} Размер головы
+UI_20150317_001097	{S14} Рост
+UI_20150317_001098	{S14} Ширина плеч
+UI_20150317_001099	{S14} Размер рук и ног
+UI_20150317_001100	{S14} Ширина груди
+UI_20150317_001101	{S14} Ширина бедер
+UI_20150317_001102	{S14} Ширина таза
+UI_20150317_001103	Использовать предварительно установленный набор
+UI_20150317_001104	Случайно
+UI_20150317_001105	Создать нового персонажа
+UI_20150317_001106	Отменить создание персонажа
+UI_20150317_001107	{@St43}{s40}{gr gradation4}Начать играть{/}
+UI_20150317_001108	{@St43}{s40}{gr gradation4}Конец Предпросмотра{/}
+UI_20150317_001109	{@St43}{s40}{gr gradation4}Вернуться в область{/}
+UI_20150317_001110	{@St59}Вернуться в область.{/}
+UI_20150317_001111	{@St41b}Вернуться{/}
+UI_20150317_001112	{@St59}Вернуться в мой дом.{/}
+UI_20150317_001113	{@St43}{s24}Название дома{/}
+UI_20150317_001114	{@St59}Название Дома{/}
+UI_20150317_001115	{@st41b}Декорации{/}
+UI_20150317_001116	{@St59}Декорации дома{/}
+UI_20150317_001117	{@St41b}Настройка{/}
+UI_20150317_001118	{@St59}Настройки дома{/}
+UI_20150317_001119	Настройка рамки предметов
+UI_20150317_001120	Зеленый
+UI_20150317_001121	Плотность
+UI_20150317_001122	Как HP
+UI_20150317_001123	{@st59}Аксессуары для волос{/}
+UI_20150317_001124	{@st59}Дополнительные аксессуары{/}
+UI_20150317_001125	{@St42}Текст{/}
+UI_20150317_001126	Базовое название
+UI_20150317_001127	Базовое название группы
+UI_20150317_001128	Базовое название предмета
+UI_20150317_001129	Mr Kim
+UI_20150317_001130	Вес : %s
+UI_20150317_001131	N/A
+UI_20150317_001132	%S раса
+UI_20150317_001133	N/A
+UI_20150317_001134	Личное
+UI_20150317_001135	{s12}Нельзя{nl}улучшить
+UI_20150317_001136	N/A
+UI_20150317_001137	Название предмета
+UI_20150317_001138	N/A
+UI_20150317_001139	Уровень и выше
+UI_20150317_001140	Все могут одеть
+UI_20150317_001141	Максимальное количество слотов %s шт
+UI_20150317_001142	Название предмета
+UI_20150317_001143	Стоимость продажи: %s Серебра
+UI_20150317_001144	Стоимость
+UI_20150317_001145	{@St42b}Full Exploration Rate of Siauliai{/}
+UI_20150317_001146	{@St42b}West Forest Area Explored{/}
+UI_20150317_001147	{@St18}Предмет{/}
+UI_20150317_001148	{@St18}Мой ранг{/}
+UI_20150317_001149	Алмаз
+UI_20150317_001150	Выносливость +9.000
+UI_20150317_001151	{@St18}Средний{/}
+UI_20150317_001152	{@St42b}{s18}Мастерство{/}
+UI_20150317_001153	{@St55_c}Название предмета
+UI_20150317_001154	{@St55_c}Сохранить заметку
+UI_20150317_001155	{@St59}Укажите название. Если название не указано, будет использовано название по умолчанию.{/}
+UI_20150317_001156	{@St59}Написать заметку{/}
+UI_20150317_001157	{@St43}Создать предметы
+UI_20150317_001158	{@st42b}%s очков {/}
+UI_20150317_001159	{@st42b}%s{/}
+UI_20150317_001160	{@st42b}%s очков {/}
+UI_20150317_001161	{@st42b}%s{/}
+UI_20150317_001162	{S16}{ol}за цену
+UI_20150317_001163	Итого: 1
+UI_20150317_001164	{@St41}Справка
+UI_20150317_001165	{@St41}Название Изображения
+UI_20150317_001166	{@St41}Регистрация
+UI_20150317_001167	{@St41}Титул
+UI_20150317_001168	{@St41}Сообщение
+UI_20150317_001169	{@St43}Имя{/}
+UI_20150317_001170	{@St41b}Сообщения{/}
+UI_20150317_001171	{@St42b}Авторизоваться{/}
+UI_20150317_001172	{@St41}Создать новый диалог
+UI_20150317_001173	{@St41}Весь диалог
+UI_20150317_001174	Название региона
+UI_20150317_001175	{@St41}Название способностей
+UI_20150317_001176	{@St41}Очки атрибутов
+UI_20150317_001177	{@St41}Название класса
+UI_20150317_001178	Имя персонажа
+UI_20150317_001179	{@Sti7}Удалить{/}
+UI_20150317_001180	Уровень персонажа
+UI_20150317_001181	{@St42}Поделиться заданием{/}
+UI_20150317_001182	{@St42}Делить опыт{/}
+UI_20150317_001183	Персональные заметки
+UI_20150317_001184	Средний уровень группы : {#FFFF00}%s{/}
+UI_20150317_001185	Поиск для : {#FFFF00}%s{/}
+UI_20150317_001186	Cleric / Archer
+UI_20150317_001187	Поделиться заданием: {#FFFF00}%s{/}
+UI_20150317_001188	N/A
+UI_20150317_001189	Разделение опыта : {#FFFF00}%s{/}
+UI_20150317_001190	Равное деление
+UI_20150317_001191	Распределение предметов : {#FFFF00}%s{/}
+UI_20150317_001192	Распределять случайно
+UI_20150317_001193	Как я могу
+UI_20150317_001194	Ты не видишь кто это?
+UI_20150317_001195	{@st41b} Журнал обновлен.
+UI_20150317_001196	Меню целей для задания
+UI_20150317_001197	Категории задания
+UI_20150317_001198	Список целей
+UI_20150317_001199	N/A
+UI_20150317_001200	Маршрут проложен
+UI_20150317_001201	Slot Object_Standard
+UI_20150317_001202	Slot Object_Cash Slot
+UI_20150317_001203	Детали персонажа Тип 1
+UI_20150317_001204	Детали персонажа Тип 2
+UI_20150317_001205	Список инвентаря Тип 1
+UI_20150317_001206	Список инвентаря Тип 2
+UI_20150317_001207	Тип слотов инвентаря
+UI_20150317_001208	Посмотреть информацию о предмете на аукционе
+UI_20150317_001209	Конечное название предмета
+UI_20150317_001210	Вывод конечного числа
+UI_20150317_001211	Вывод стоимости
+UI_20150317_001212	Когда ты добавишь это в корзину
+UI_20150317_001213	Вывод общей стоимости
+UI_20150317_001214	Для вывода предмета
+UI_20150317_001215	Вывод цены за ед. товара
+UI_20150317_001216	Категория предмета
+UI_20150317_001217	Новости
+UI_20150317_001218	{@St42b}Перезапустить{/}
+UI_20150317_001219	Peltang Stang
+UI_20150317_001220	99 кругов
+UI_20150317_001221	Победить 8 Mad Vubbe
+UI_20150317_001222	Подсказка
+UI_20150317_001223	EXP: sad{br}+1 Улучшенный самоцвет (Атака)
+UI_20150317_001224	Меч ученика
+UI_20150317_001225	Восстановление Прочности :
+UI_20150317_001226	Стоимость ремонта : 120 Серебра
+UI_20150317_001227	Стоимость ремонта : %s серебра
+UI_20150317_001228	{@st42b}Ставка {@sti7}%s{/}
+UI_20150317_001229	{@st42b}Текущая цена {img icon_item_silver 20 20}{@st57}%s{/}
+UI_20150317_001230	{@St41}Купить немедленно! {Img icon_item_silver 20 20}{@st57}%s{/}
+UI_20150317_001231	{@St41b}Получить предметы{/}
+UI_20150317_001232	{@st42b} Предложить цену {img icon_item_silver 20 20}{@st57}%s{/}
+UI_20150317_001233	{@Sti7}Возврат
+UI_20150317_001234	{@St59}Головной убор{/}
+UI_20150317_001235	{@St59}Левый браслет{/}
+UI_20150317_001236	{@St59}Правый браслет{/}
+UI_20150317_001237	{@St59}Костюм{/}
+UI_20150317_001238	{@st59}Кольцо{/}
+UI_20150317_001239	Имя питомца
+UI_20150317_001240	Chandler bundle
+UI_20150317_001241	West forest etc...
+UI_20150317_001242	Потребляемые TP
+UI_20150317_001243	Название категории
+UI_20150317_001244	Это Справка
+UI_20150317_001245	{@Sti7}%s Очков{/}
+UI_20150317_001246	{@st41b}%s Рейтинг
+UI_20150317_001247	Завершено 25 заданий
+UI_20150317_001248	[Sub]Thron Forest
+UI_20150317_001249	{@St42}Экипированное снаряжение
+UI_20150317_001250	{@St44}Ранг %s Информация о классе{/}
+UI_20150317_001251	Распространение тревоги
+UI_20150317_001252	Like Heart
+UI_20150317_001253	N/A
+UI_20150317_001254	Уровень %s
+UI_20150317_001255	Заметка : {#666666}%s
+UI_20150317_001256	Ayase
+UI_20150317_001257	Взаимоотношения с %s
+UI_20150317_001258	{#FFFF33}%s{/} предлагает дружбу{/}
+UI_20150317_001259	{@St41b}Принять
+UI_20150317_001260	{@St41b}Отклонить
+UI_20150317_001261	{@St53b}Загрузить список ваших друзей.
+UI_20150317_001262	Уровень %s{/}
+UI_20150317_001263	{@st41} Отменить
+UI_20150317_001264	Пожалуйста, добавьте заклинание, для его продажи.
+UI_20150317_001265	Цена : %s{/}
+UI_20150317_001266	Оставшееся количество
+UI_20150317_001267	{@St41}Покупка
+UI_20150317_001268	Оставшееся количество:%s {/}
+UI_20150317_001269	{@St41}Предмет{/}
+UI_20150317_001270	{@St41b}Заметка
+UI_20150317_001271	{@St41b}Создать
+UI_20150317_001272	{@St41b}Цена : %s{/}
+UI_20150317_001273	{@Sti5}Цена : %s{/}
+UI_20150317_001274	{@Sti9} Задания группы(%s){/}
+UI_20150317_001275	{@st41_yellow}Исследование Карты %s% {/}
+UI_20150317_001276	{@st41_yellow} Счет: %s {/}
+UI_20150317_001277	{@st42b}{b}Количество Достижений{/}
+UI_20150317_001278	{@st59}Присоединиться к групповому заданию{/}
+UI_20150317_001279	Окна
+UI_20150317_001280	Статус
+UI_20150317_001281	Вкладка
+UI_20150317_001282	Изображение предмета
+UI_20150317_001283	Эффект
+UI_20150317_001284	Панель управления
+UI_20150317_001285	{@St41}Сложность : %s
+UI_20150317_001286	{@St42}Оставшееся время : %s
+UI_20150317_001287	{@St53}Создание предмета
+UI_20150323_001288	{@st59}Положите ваш предмет сюда{/}
+UI_20150323_001289	{@st42}Отменить
+UI_20150323_001290	{@st42}Подтвердить
+UI_20150323_001291	{@st43}Брикетирование{/}
+UI_20150323_001292	Текущий потенциал
+UI_20150323_001293	Потребляемые материалы
+UI_20150323_001294	Потребляемое количество
+UI_20150323_001295	Доступное количество
+UI_20150323_001296	{@sti6}Записать Сделку
+UI_20150323_001297	{@st43}Лагерь
+UI_20150323_001298	Название Вывески
+UI_20150323_001299	{@st43}Строить
+UI_20150323_001300	{@stc1}Лагерь на непродолжительное время
+UI_20150323_001301	{@stc1}Эффект
+UI_20150323_001302	{@stc1}Цена и материалы
+UI_20150323_001303	{@st41b}Лагерь
+UI_20150323_001304	{@st41b}Войти
+UI_20150323_001305	{@st41b}Обновить
+UI_20150323_001306	{@st59}Возобновляет прошлый раз.{/}
+UI_20150323_001307	{@st41b}Лагерь на непродолжительное время
+UI_20150323_001308	{@st41b}Эффект
+UI_20150323_001309	{@st42b}Лагерь длится 24 часа с момента его установки. Снимается %s серебра.
+UI_20150323_001310	{@st41b}Личный склад
+UI_20150323_001311	{@stc1}Забрать или оставить предмет на складе стоит %s серебра.{/}
+UI_20150323_001312	{@st41}{#ffff00}Зафиксировать Цель{/}
+UI_20150323_001313	{@st43}Стол закусок
+UI_20150323_001314	{@st41b}Тип еды
+UI_20150323_001315	{@st41b}Стол
+UI_20150323_001316	{@st59}Закрыть{/}
+UI_20150323_001317	{@st43}Гримуар{/}
+UI_20150323_001318	{@st59}Закрыть Гримуар{/}
+UI_20150323_001319	Мой навык призыва
+UI_20150323_001320	Основная карта
+UI_20150323_001321	Дополнительная карта			
 UI_20150323_001322	Stat	스텟				
-UI_20150323_001323	CON	콘				
-UI_20150323_001324	INT	인트				
-UI_20150323_001325	DEX	덱스				
-UI_20150323_001326	CRT	크리				
+UI_20150323_001323	CON					
+UI_20150323_001324	INT					
+UI_20150323_001325	DEX					
+UI_20150323_001326	CRT					
 UI_20150323_001327	{@st43}Set up Shop{/}	{@st43}상점 개설{/}				
 UI_20150323_001328	{@st41b}Settings	{@st41b}설정				
 UI_20150323_001329	Unit Price	개당 가격				
@@ -1619,7 +1619,7 @@ UI_20150714_001618	{@st41b}Unread Messages	{@st41b}안읽은 메세지함
 UI_20150714_001619	{@st43}{s22}Choose a character to receive the items.{/}	{@st43}{s22}아이템을 수령할 캐릭터를 선택해주세요.{/}				
 UI_20150714_001620	{@st41b}Enhance	{@st41b}강화				
 UI_20150714_001621	{@st66}Items requiring a repair	{@st66}수리 필요 아이템 목록				
-UI_20150714_001622	{@st43}Simoni	{@st43}시모니				
+UI_20150714_001622	{@st43}Simoni		
 UI_20150714_001623	{@st59}Повышение умений{/}
 UI_20150714_001624	{@st59}Закрыть{/}
 UI_20150714_001625	{@st43}Умения и Атрибуты{/}
