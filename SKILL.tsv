@@ -3402,7 +3402,7 @@ SKILL_20150401_003401	Damage of [Snow Rolling] Increase per Attribute level.
 SKILL_20150401_003402	Gather Corpse: Enhance
 SKILL_20150401_003403	Damage of [Gather Corpse] Increase per Attribute level.
 SKILL_20150401_003404	Flesh Cannon: Enhance
-SKILL_20150401_003405	Damage of [Flesh Canon] Increase per Attribute level.
+SKILL_20150401_003405	Damage of [Flesh Cannon] Increase per Attribute level.
 SKILL_20150401_003406	Flesh Cannon: Enhance 2
 SKILL_20150401_003407	Enhanced the damage of [Flesh Cannon] to Necromancer's 2nd Circle standards.
 SKILL_20150401_003408	Flesh Cannon: Enhance 3
@@ -3985,8 +3985,8 @@ SKILL_20150414_003984	Summon Familar: Splash
 SKILL_20150414_003985	When summoned familiar spirit explodes itself, there 1% chance per attribute level for it to damage nearby enemies.
 SKILL_20150414_003986	Sorcerer: SP Recovery
 SKILL_20150414_003987	Character's SP recovery increase by 1 per attribute level.
-SKILL_20150414_003988	Flesh Canon: Decompose
-SKILL_20150414_003989	There is a chance of enemy falling under decompose status for 30 seconds when attacked with [Flesh Canon]. Chance increases by 5% per attribute level.
+SKILL_20150414_003988	Flesh Cannon: Decompose
+SKILL_20150414_003989	There is a chance of enemy falling under decompose status for 30 seconds when attacked with [Flesh Cannon]. Chance increases by 5% per attribute level.
 SKILL_20150414_003990	Flesh Hoop: Demoralize
 SKILL_20150414_003991	Attak of enemies nearby the hoop after using [Flesh Hoop] decrease for 15 seconds. It turns back to normal when moving away from the hoop.
 SKILL_20150414_003992	Item Awakening: Quick
@@ -4492,7 +4492,7 @@ SKILL_20150714_004491	Increases the duration of [Confusion] from Lv. 2 by 2 seco
 SKILL_20150714_004492	Increases the damage dealt on an enemy with [Gather Corpse] by 1% per attribute level.
 SKILL_20150714_004493	Increases the damage dealt on an enemy with [Flesh Cannon] by 1% per attribute level.
 SKILL_20150714_004494	Increases the damage dealt on an enemy with [Flesh Hoop] by 1% per attribute level.
-SKILL_20150714_004495	When an enemy gets shot by [Flash Canon], it will fall into Decay status for 30 secs with a certain probability. The rate will increase by 5% per Attribute level.
+SKILL_20150714_004495	When an enemy gets shot by [Flash Cannon], it will fall into Decay status for 30 secs with a certain probability. The rate will increase by 5% per Attribute level.
 SKILL_20150714_004496	Create Shoggoth: Corruption
 SKILL_20150714_004497	Enemies near Shoggoth will be afflicted with [Corruption] for 10 seconds. Lasts for 1 minute per attribute level after Shoggoth is summoned.
 SKILL_20150714_004498	Disinter: Increased Range
@@ -7172,7 +7172,7 @@ SKILL_20161005_007171	Schwarzer Reiter 3rd Circle Required
 SKILL_20161005_007172	Warlock 2nd Circle Required
 SKILL_20161010_007173	Deals constant Holy property damage.
 SKILL_20161010_007174	Applies beneficial effects to allies.
-SKILL_20161010_007175	Adds +1 skill level for installment skills.
+SKILL_20161010_007175	Adds +1 skill level for Magic Circle skills.
 SKILL_20161010_007176	Server EXP Bonus
 SKILL_20161010_007177	EXP Event Bonus
 SKILL_20161010_007178	N/A
@@ -9969,10 +9969,10 @@ SKILL_20171128_009968	Challenger
 SKILL_20171128_009969	Increases Looting Chance.
 SKILL_20171128_009970	End Challenge
 SKILL_20171128_009971	You can no longer participate today.
-SKILL_20171128_009972	* Can equip [Two-handed Sword] type weapons{nl}* Increase AoE by 1 when equipped with a [Two-handed Sword].
+SKILL_20171128_009972	* Can equip [Two-handed Sword] type weapons{nl}* Increase AoE Attack Ratio by 1 when equipped with a [Two-handed Sword].
 SKILL_20171128_009973	* Can equip [One-handed Spear] type weapons{nl}* Increase attack range by 5 when equipped with a [One-handed Spear].
 SKILL_20171128_009974	* Can equip [Two-handed Spear] type weapons{nl}* Increase attack range by 10 when equipped with a [Two-handed Spear].
-SKILL_20171128_009975	* Can equip [Staff] type weapons{nl}* Increase AoE by 1 when equipped with a [Staff].
+SKILL_20171128_009975	* Can equip [Staff] type weapons{nl}* Increase AoE Attack Ratio by 1 when equipped with a [Staff].
 SKILL_20171128_009976	* Can equip [Two-handed Blunt Weapon] type weapons{nl}* Increase block penetration by 85 when equipped with a [Two-handed Blunt Weapon].
 SKILL_20171128_009977	Dragon Fall: Enhance
 SKILL_20171128_009978	* Increases damage dealt with [Dragon Fall] by 0.5% per attribute level
@@ -10178,7 +10178,7 @@ SKILL_20171128_010177	* Increases accuracy of [Fanatic Illusion] by 100 per attr
 SKILL_20171128_010178	* Increases critical damage dealt to enemies hit by the additional damage of Blind Faith by 10% per attribute level for 10 sec.
 SKILL_20171128_010179	Bulletmarker 1st Circle Required
 SKILL_20171128_010180	Bulletmarker 2nd Circle Required
-SKILL_20171128_010181	Canoneer 3rd Circle Required
+SKILL_20171128_010181	Canonneer 3rd Circle Required
 SKILL_20171128_010182	Taoist 2nd Circle Required
 SKILL_20171128_010183	Dragoon 3rd Circle Required
 SKILL_20171128_010184	Requires Dragon Soar Lv 11
@@ -15527,7 +15527,7 @@ SKILL_20190419_015526	Blood Curse: Enhance
 SKILL_20190419_015527	* Increases the skill factor of [Blood Curse] by 0.5% per attribute level{nl}* +10% added increase at maximum level
 SKILL_20190419_015528	Kurdaitcha: Enhance
 SKILL_20190419_015529	* Increases the skill factor of [Kurdaitcha] by 0.5% per attribute level{nl}* +10% added increase at maximum level
-SKILL_20190419_015530	* Grants immunity to Knock Back and Knockdowns while casting [Rune of Protection].{nl}* [Rune of Protection] Duration: 5 minutes
+SKILL_20190419_015530	* Grants immunity to Knockdowns and Knockbacks while the [Rune of Protection] buff is active.{nl}* [Rune of Protection] Duration: 5 minutes
 SKILL_20190419_015531	Micro Dimension: Confusion
 SKILL_20190419_015532	* Grants [Micro Dimension] a 5% chance per attribute level to inflict enemies with [Confusion] debuff for 8 seconds{nl}* Increases SP consumption by 20%
 SKILL_20190419_015533	* Enemies hit receive [Slow] debuff for seconds equal to the attribute level{nl}and receive non-property damage every 0.5 seconds{nl}* Increases SP consumption by 30%
@@ -15539,7 +15539,7 @@ SKILL_20190419_015538	Hole of Darkness: Black Hole
 SKILL_20190419_015539	* Enemies targeted by [Hole of Darkness] vanish from the sight of other players while the magic circle is active. They are unable to perform any actions while invisible but do not take damage{nl}* Targets reappear when magic circle duration is over and damage received from Hole of Darkness is increased by 50%{nl}* Increases cooldown by 10 seconds
 SKILL_20190419_015540	* Increases the block penetration rate of cannon skills{nl}by 6% per attribute level.
 SKILL_20190419_015541	* Increases critical rate of some Cannoneer and Matross skills by 1% per attribute level when in the [Kneeling Shot] state{nl}* Applies to the following skills: Cannon Blast, Cannon Shot, Shootdown, Siege Burst, Cannon Barrage, Fire and Run, Explosion, Crouching Strike, Canister Shot
-SKILL_20190419_015542	* Ignores part of the enemy's defense according to the type of armor{nl}* 2% per attribute level for Cloth and Leather, 4% per attribute level for Plate{nl}* Increases SP consumption of Canon skills by 10%
+SKILL_20190419_015542	* Ignores part of the enemy's defense according to the type of armor{nl}* 2% per attribute level for Cloth and Leather, 4% per attribute level for Plate{nl}* Increases SP consumption of Cannon skills by 10%
 SKILL_20190419_015543	* Applies 1% of additional attack per attribute level on Musketeer and Tiger Hunter skills{nl}* Reduces movement speed by 1
 SKILL_20190419_015544	* Deals 50% of the damage of [Down Fall] to enemies within a range of 40 from the skill's original target{nl}* Accelerates [Down Fall]'s cycle by 0.1 seconds{nl}* Targets: 3 + (Caster AoE Attack Ratio/3){nl}* Increases SP consumption by 50%
 SKILL_20190419_015545	* Increases [Blindside]'s Skill Factor and minimum critical rate by 0.5% per attribute level{nl}* +10% added increase at maximum level
@@ -15689,7 +15689,7 @@ SKILL_20190611_015688	Skill Factor: #{SkillFactor}#%{nl}Deals +50% additional da
 SKILL_20190611_015689	Hit the enemy with a flying knee kick. Deals additional damage against enemies under [Te Trong] debuff. Can be used only when the Ram Muay buff is active.
 SKILL_20190611_015690	Skill Factor: #{SkillFactor}#%{nl}Deals +100% additional damage against enemies under [Te Trong] debuff{nl}Can be used after adopting the Ram Muay stance
 SKILL_20190611_015691	Applies a buff that changes the cooldown of Te Kha, Sok Chiang, Te Trong and Khao Loi to 0.5 seconds and increases the chance of [Ram Muay] buff to cause additional hits. After the buff expires, the cooldown of Te Kha, Sok Chiang, Te Trong and Khao Loi applies as 30 seconds.
-SKILL_20190611_015692	Duration: #{CaptionRatio}# seconds{nl}Chacne to hit additionally increases by +#{CaptionRatio2}#%
+SKILL_20190611_015692	Duration: #{CaptionRatio}# seconds{nl}Chance to hit additionally increases by +#{CaptionRatio2}#%
 SKILL_20190611_015693	Aim at the upper part of the enemy and slash.{nl}Deals additional damage to targets under [Shock] debuff.
 SKILL_20190611_015694	Skill Factor: #{SkillFactor}#% x 4{nl}AoE Attack Ratio: #{SkillSR}#{nl}Deals +50% damage on enemies under [Shock] debuff
 SKILL_20190611_015695	Charge forward and deal damage and applies the [Shock] debuff to enemies you come in contact with. Your physical and magic defense increase momentarily after using Cavalry Charge.
@@ -15779,8 +15779,8 @@ SKILL_20190611_015778	Fanning Flag
 SKILL_20190611_015779	Rubric Flag
 SKILL_20190611_015780	Skiaclipse - Benevolence
 SKILL_20190611_015781	Healing: {img green_up_arrow 16 16} (5 x number of stacks)%
-SKILL_20190611_015782	Skiaclipese - Assault
-SKILL_20190611_015783	Damage: {img green_up_arrow 16 16} (1.24 x number of stacks)%{nl}Threat: -(5 x number of stacks)%
+SKILL_20190611_015782	Skiaclipse - Assault
+SKILL_20190611_015783	Damage: {img green_up_arrow 16 16} (1.25 x number of stacks)%{nl}Threat: -(5 x number of stacks)%
 SKILL_20190611_015784	Skiaclipse - Iron Wall
 SKILL_20190611_015785	Damage received: -(1.25 x number of stacks)%
 SKILL_20190611_015786	Skiaclipse - Exalt
@@ -15798,7 +15798,7 @@ SKILL_20190611_015797	NA
 SKILL_20190611_015798	NA
 SKILL_20190611_015799	NA
 SKILL_20190611_015800	NA
-SKILL_20190611_015801	* Can equip [Leather] armor{nl}* When 4 pieces of [Leather] armor are equipped, critical chance is increased by 20% (Maximum critical chance limit is also raised by 10%){nl}* When 4 [Leather] armor pieces are equipped, physical and magic damage is increased by 15%
+SKILL_20190611_015801	* Can equip [Leather] armor{nl}* When 4 pieces of [Leather] armor are equipped, critical chance is increased by 20% (Maximum critical chance limit is also raised by 10%){nl}* When 4 [Leather] armor pieces are equipped, Physical/Magic Damage +15%
 SKILL_20190611_015802	* Increases [Acrobatic Mount]'s mounted skill damage increasing effects by 0.5% per attribute level{nl}* +10% added increase at maximum level
 SKILL_20190611_015803	* Enemies hit by Evil Spirits have a 10% chance per attribute level to be afflicted with [Blind] for 10 seconds{nl}* Increases SP consumption by 10%
 SKILL_20190611_015804	* Creates a copy of ally installations within the range of [Micro Dimension]{nl}* Cloned targets will not be further duplicated{nl}* Increases SP consumption by 30%
