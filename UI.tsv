@@ -3917,9 +3917,149 @@ UI_20190802_003916	Regional League	지역리그
 UI_20190802_003917	{@st42}{s16}Retrieve	{@st42}{s16}수령				
 UI_20190828_003918	{@st66b}Dead Parts	{@st66b}데드 파츠 적용				
 UI_20190828_003919	{@st66b}Item Drop Effects{/}	{@st66b}아이템 드랍 이펙트 사용{/}				
-UI_20190930_003920	{@st48}%s Benefits{/}	{@st48}%s 혜택{/}
-UI_20190930_003921	All characters connected to the game receive a buff that{nl}{@st66d_y}increases the EXP earned when defeating monsters by +200%{/} for a 1-hour duration.	월드 내 접속중인 전체 캐릭터 대상으로{nl}{@st66d_y}몬스터 처치 시 경험치 200% 증가{/} 버프가 1시간동안 적용됩니다.
-UI_20190930_003922	Grants {@st66d_y}+1000 looting chance{/} buff{nl}and {@st66d_y}Large Companion{/}buff for a 24-hour duration to nearby players. 	피자 아이템을 사용한 캐릭터 대상으로{nl}{@st66d_y}주변 루팅 찬스 +1000 증가{/} 버프와{nl}{@st66d_y}컴패니언 크기 증가{/} 버프가 24시간 동안 적용됩니다. 
-UI_20190930_003923	Hover the mouse over the buff icon for details.{/}	텍스트 선택시 버프 내용이 상세하게 표시됩니다.{/}
-UI_20190930_003924	{/}{nl}Use item?{/}	{/}{nl}아이템을 사용하시겠습니까?{/}
-UI_20190930_003925	It will be removed from %s{nl}and applied only to {@st66d_y}%s{/}.{/}	사용한 %s {nl}인벤토리에서 사라지며 현재 {@st66d_y}%s{/}에만 적용됩니다.{/}
+UI_20191024_003920	{@st43}{s22}The Grimoire Master{/}	{@st43}{s22}그리모어를 찢어라{/}
+UI_20191024_003921	{@st59b}Monster Info.{nl}{@st59s} - You can view the monsters in your posession in the Monster Info. tab.{nl} - The monsters that you want to use must be registered in the main slot, which can be done by moving the monsters from the list at the bottom by holding and dragging the right-click button.{nl} - All monsters possess a Grade and a Potential.{nl}[Grade]{nl}   - Displays the monster's power level.{nl}   - Grades are divided into Normal, Magic and Legend which affects how a monster performs in battle.{nl}[Evolution Grade]{nl}   - All monsters can be evolved a maximum of two times. An evolution increases the number of skills available and the monster's stats.{nl}   - All monsters begin with a 1 Star Evolution Grade and can be evolved to 3 Stars maximum.{/}{nl}{st59b}Sale{nl}{@st59s} - You can also sell off the monsters in your posession in the Monster Info. tab.{nl} - You can earn [Event] Ancient Coin by selling your monsters and the amount of coins earned varies depending on the Grade of your monster.{nl} - Coins Earned{nl}   - Normal: 0, Magic: 1{nl}   - Unique: 2, Legend 3{nl}   * Amount of coins earned is independent of the monster's Evolution Grade.{/}{nl}{@st59b}Fusion{nl}{@st59s} - You can fuse 3 monsters of identical Grade to obtain a random monster of the same Grade.{nl} - There is also a 5% chance to obtain a monster of a higher grade by fusing the monsters.{/}{nl}{@st59b}Evolution{nl}{@st59s} - You can use 3 identical monsters to evolve your monster.{nl} - Evolution only works when using 3 identical monsters of the same Evolution Grade and will result in 1 identical monster with a +1 Evolution Grade.{nl} - The resulting monster's level will be identical to that of the monster with the highest level.{/}	{@st59b}몬스터 정보{nl}{@st59s} - 보유 중인 몬스터를 몬스터 정보 탭을 통해 확인할 수 있습니다.{nl} - 사용할 몬스터는 상단의 메인 슬롯에 등록을 해야 하며, 하단의 몬스터 목록에서 우 클릭하여 옮길수 있습니다.{nl} - 몬스터는 진화 등급과 등급의 속성을 가지고 있습니다.{nl} [등급]{nl}   - 몬스터 고유의 성능 등급을 나타냅니다.{nl}   - 등급은 노말/매직/유니크/레전드로 구별되며, 등급에 따라 몬스터 성능에 차등이 있습니다.{nl} [진화 등급]{nl}   - 모든 몬스터는 두 번의 진화가 가능하며, 진화 시 사용 스킬 개수와 스탯이 증가합니다.{nl}   - 모든 몬스터는 최초 1성으로 시작하며, 3성까지 진화가 가능합니다.{/}{nl}{@st59b}판매{nl}{@st59s} - 보유 중인 몬스터를 몬스터 정보 탭의 판매 버튼을 통해 판매할 수 있습니다.{nl} - 몬스터 판매 시 [이벤트] 고대 주화를 획득하며, 등급에 따라 획득하는 주화의 개수가 다릅니다.{nl} - 판매 시 획득 주화 개수{nl}   - 노말 : 0개, 매직 : 1개{nl}   - 유니크 : 2개, 레전드 : 3개{nl}   * 진화 등급에 영향받지 않습니다.{/}{nl}{@st59b}합성{nl}{@st59s} - 동일한 등급의 몬스터 3개를 소모하여 동일한 등급의 랜덤한 몬스터를 획득할 수 있습니다.{nl} - 5% 확률로 1단계 높은 등급의 몬스터를 획득할 수 있습니다.{/}{nl}{@st59b}진화{nl}{@st59s} - 동일한 몬스터 3개를 소모하여 몬스터를 진화시킬 수 있습니다.{nl} - 진화는 동일한 진화 등급의 몬스터로만 가능하며, 진화 시 1단계 높은 진화 등급의 몬스터를 획득합니다.{nl} - 진화 시 3개의 몬스터 중 가장 높은 몬스터의 레벨로 등장합니다.{/}
+UI_20191024_003922	{@st66b}{s16}Monster Info.{/}	{@st66b}{s16}몬스터 정보{/}
+UI_20191024_003923	Displays the information of registered monsters.	등록된 몬스터의 정보를 확인할 수 있습니다.
+UI_20191024_003924	{@st66b}{s16}Fusion{/}	{@st66b}{s16}합성{/}
+UI_20191024_003925	Allows you to fuse two monsters of equal grade to produce a new random monster of the same grade.{nl}5% chance of producing a monster of +1 grade.	동일한 등급의 몬스터로 동일한 등급의 랜덤한 몬스터를 획득할 수 있습니다.{nl} 5%확률로 한 등급이 높은 몬스터가 등장합니다.
+UI_20191024_003926	{@st66b}{s16}Evolve{/}	{@st66b}{s16}진화{/}
+UI_20191024_003927	3 identical monsters of identical grade can be use to evolve a monster.	진화 등급이 같은 동일한 몬스터 3개로 해당 몬스터를 진화시킬 수 있습니다.
+UI_20191024_003928	A synergy will occur when there are 2 or more monsters of identical species or property in your main slot.{nl}This synergy only takes effect inside [Event] Remnants of Bernice dungeon.	메인 슬롯의 몬스터 중 동일한 종족, 속성이 2개체이상 있을 경우, 조합 시너지가 발생합니다.{nl}해당 조합 시너지는 [이벤트] 베르니케의 파편 던전에서만 적용됩니다.
+UI_20191024_003929	{@st59}Arrange monster list.{/}	{@st59}몬스터 리스트를 정렬합니다.{/}
+UI_20191024_003930	{@st42b}{s18}Monster: %s/%s	{@st42b}{s18}몬스터 보유 수: %s/%s
+UI_20191024_003931	{@st42b}{s16}Time Remaining{/}	{@st42b}{s16}남은 시간{/}
+UI_20191024_003932	{@st42b}{s16}Monster (%s/%s){/}	{@st42b}{s16}남은 몬스터(%s/%s){/}
+UI_20191024_003933	{@st42b}{s14}First Completion Reward{/}	{@st42b}{s14}첫 클리어 보상{/}
+UI_20191024_003934	{@st42b}{s14}Stage Debuff{/}	{@st42b}{s14}Stage 디버프{/}
+UI_20191024_003935	{@st42b}{s14}Give Up{/}	{@st42b}{s14}포기하기{/}
+UI_20191024_003936	{@st59}Minimize BGM Player{/}	{@st59}BGM 플레이어를 최소화합니다{/}
+UI_20191024_003937	{@st59}Close BGM Player{/}	{@st59}BGM 플레이어를 닫습니다{/}
+UI_20191024_003938	{@st59}Play Music{/}	{@st59}음악을 재생합니다{/}
+UI_20191024_003939	{@st59}Previous Track{/}	{@st59}이전 음악 재생{/}
+UI_20191024_003940	{@st59}Next Track{/}	{@st59}다음 음악 재생{/}
+UI_20191024_003941	Music Play Time	음악 재생 시간
+UI_20191024_003942	{@st59}Change Skin{/}	{@st59}스킨 변경{/}
+UI_20191024_003943	{@st59}Play Random Track{/}	{@st59}랜덤 음악 재생{/}
+UI_20191024_003944	{@st59}Repeat{/}	{@st59}반복 재생{/}
+UI_20191024_003945	{@st59}Search Playlist{/}	{@st59}전체목록 검색{/}
+UI_20191024_003946	{@st59}Maximize BGM Player{/}	{@st59}BGM 플레이어를 최대화합니다{/}
+UI_20191024_003947	Category	분야
+UI_20191024_003948	{@st48}%s Benefits{/}	{@st48}%s 혜택{/}
+UI_20191024_003949	All characters connected to the game receive a buff that{nl}{@st66d_y}increases the EXP earned when defeating monsters by +200%{/} for a 1-hour duration.	월드 내 접속중인 전체 캐릭터 대상으로{nl}{@st66d_y}몬스터 처치 시 경험치 200% 증가{/} 버프가 1시간동안 적용됩니다.
+UI_20191024_003950	Grants {@st66d_y}+1000 looting chance{/} buff{nl}and {@st66d_y}Large Companion{/}buff for a 24-hour duration to nearby players. 	피자 아이템을 사용한 캐릭터 대상으로{nl}{@st66d_y}주변 루팅 찬스 +1000 증가{/} 버프와{nl}{@st66d_y}컴패니언 크기 증가{/} 버프가 24시간 동안 적용됩니다. 
+UI_20191024_003951	Hover the mouse over the text to display detailed buff information.{/}	텍스트 선택시 버프 내용이 상세하게 표시됩니다.{/}
+UI_20191024_003952	{/}{nl}Use item?{/}	{/}{nl}아이템을 사용하시겠습니까?{/}
+UI_20191024_003953	It will be removed from %s{nl}and applied only to {@st66d_y}%s{/}.{/}	사용한 %s {nl}인벤토리에서 사라지며 현재 {@st66d_y}%s{/}에만 적용됩니다.{/}
+UI_20191024_003954	{@st43}{s22}Goddess' Grace	{@st43}{s22}여신의 가호
+UI_20191024_003955	{@st41b}{s16}Remaining Time %s min %s sec	{@st41b}{s16}남은 시간 %s분 %s초
+UI_20191024_003956	{@st41b}{s16}x1	{@st41b}{s16}1회
+UI_20191024_003957	{@st41b}{s16} Silver	{@st41b}{s16} 돈
+UI_20191024_003958	{@st43}{s24}Offering	{@st43}{s24}봉헌
+UI_20191024_003959	{@st43}{s24}Confirm	{@st43}{s24}확인
+UI_20191024_003960	{@st66b}Expand Hangout	{@st66b}아지트 확장
+UI_20191024_003961	{@st66b}Hangout Info{/}	{@st66b}아지트 정보{/}
+UI_20191024_003962	Guild Hangout Expansion Level	길드 아지트 확장 단계
+UI_20191024_003963	{@st42}{s22}{#ffd739}Lv. %s{/}{/}{/}	{@st42}{s22}{#ffd739}%s 단계{/}{/}{/}
+UI_20191024_003964	Guild Hangout Expansion Lv and Info	길드 아지트 확장 단계 및 정보
+UI_20191024_003965	{@st41b}{s18}Lv. 1: %s{/}{/}	{@st41b}{s18}1 단계 : %s{/}{/}
+UI_20191024_003966	{@st41b}{s18}Lv. 2: %s{/}{/}	{@st41b}{s18}2 단계 : %s{/}{/}
+UI_20191024_003967	{@st41b}{s18}Lv. 3: %s{/}{/}	{@st41b}{s18}3 단계 : %s{/}{/}
+UI_20191024_003968	{@st41b}{s18}Lv. 4: %s{/}{/}	{@st41b}{s18}4 단계 : %s{/}{/}
+UI_20191024_003969	{@st41b}{s18}Lv. 5: %s{/}{/}	{@st41b}{s18}5 단계 : %s{/}{/}
+UI_20191024_003970	Guild Housing Facility Info	길드 하우징 시설 정보
+UI_20191024_003971	Contribution and Mileage	기여도 및 길드 마일리지 관리
+UI_20191024_003972	[Converting Contribution to Guild Mileage]{nl}- Conversion ratio of 1 (Guild Contribution) : 1 (Guild Mileage).{nl} {nl}[Converting Guild Mileage to Contribution]{nl}- Conversion Ratio of 10 (Guild Mileage) : 1 (Guild Contribution){nl}- This feature can only be used by the Guild Master.{nl} {nl}[Distributing Contribution to Members]{nl}- Distribution ratio of 1 (My Contribution): 1 (Member Contribution){nl}- This feature can only be used by the Guild Master.	[내 기여도를 길드 마일리지로 전환]{nl}- 1(길드 기여도) : 1(길드 마일리지)의 비율로 기여도가 길드 마일리지로 전환됩니다.{nl} {nl}[길드 마일리지를 기여도로 전환]{nl}- 10(길드 마일리지) : 1(길드 기여도)의 비율로 길드 마일리지가 기여도로 전환됩니다.{nl}- 해당 기능은 길드 마스터만 이용이 가능합니다.{nl} {nl}[길드원에게 기여도 분배]{nl}- 1(내 기여도) : 1(길드원 기여도)의 비율로 기여도를 길드원에게 분배할 수 있습니다.{nl}- 해당 기능은 길드 마스터만 이용이 가능합니다.
+UI_20191024_003973	{@st42}{s18}Guild Mileage: %s{/}{/}	{@st42}{s18}길드 마일리지 : %s{/}{/}
+UI_20191024_003974	{@st42}{s18}My Contribution: %s{/}{/}	{@st42}{s18}내 기여도 : %s{/}{/}
+UI_20191024_003975	{@st42}{s18}Exchange Contribution Points for Guild Mileage{/}{/}	{@st42}{s18}내 기여도를 길드 마일리지로 전환하기{/}{/}
+UI_20191024_003976	{@st42}{s18}Exchange Guild Mileage for Contribution Points{/}{/}	{@st42}{s18}길드 마일리지를 기여도로 전환하기{/}{/}
+UI_20191024_003977	{@st42}{s18}Distribute Contribution Points to Guild Members{/}{/}	{@st42}{s18}길드원에게 기여도 분배하기{/}{/}
+UI_20191024_003978	Guild Housing Points	길드 하우징 포인트 정보
+UI_20191024_003979	You can purchase Guild Housing Items and Facilities by using Housing Points.{nl}- Housing Points can be obtained using Guild Mileage at the ratio of 5 (Guild Mileage) : 1 (Housing Point).{nl}- Housing Points can only be purchased when your Guild has reached Guild Expansion Lv. 2 or above.{nl}- Crafting Workshops can be installed to increase the maximum Housing Points that you can possess.	하우징 포인트를 통해 길드 하우징 물품 및 시설을 구매할 수 있습니다.{nl}- 5(길드 마일리지) : 1(하우징 포인트) 비율로 각 하우징 포인트를 마일리지로 구매할 수 있습니다.{nl}- 길드 아지트 확장 단계가 2단계 이상인 경우에만 하우징 포인트 구매가 가능합니다.{nl}- 제작 공방소를 증축하여 각 하우징 포인트의 최대치를 늘릴 수 있습니다.
+UI_20191024_003980	{@st42}{s16}Idea{#ffd739}(+%s){/}{/}{/}	{@st42}{s16}독창성{#ffd739}(+%s){/}{/}{/}
+UI_20191024_003981	{@st42}{s16}Functionality{#ffd739}(+%s){/}{/}{/}	{@st42}{s16}기능성{#ffd739}(+%s){/}{/}{/}
+UI_20191024_003982	{@st42}{s16}Creativity{#ffd739}(+%s){/}{/}{/}	{@st42}{s16}예술성{#ffd739}(+%s){/}{/}{/}
+UI_20191024_003983	{@st42}{s16}Economy{#ffd739}(+%s){/}{/}{/}	{@st42}{s16}경제성{#ffd739}(+%s){/}{/}{/}
+UI_20191024_003984	{@st42}{s16}{#ff0000}Guild Mileage Cost (%s){/}{/}{/}	{@st42}{s16}{#ff0000}차감 길드 마일리지 (%s){/}{/}{/}
+UI_20191024_003985	{@st42}{s16}{#ffd739}Estimated Remaining Mileage: %s{/}{/}{/}	{@st42}{s16}{#ffd739}예상 잔여 마일리지 : %s{/}{/}{/}
+UI_20191024_003986	{@st42}{s18}Cancel{/}	{@st42}{s18}취소{/}
+UI_20191024_003987	{@st42}{s18}Save{/}	{@st42}{s18}저장{/}
+UI_20191024_003988	ⓘ Withdrawals/Deposits will consume 20 Mileage.{nl}ⓘ Mileages are earned everytime a Guild member logs in or certain in-game contents are completed by Guild Members (e.g. Challenge Mode Lv. 5, Unique Raid and Legend Raids).{nl}ⓘ Each member can accumulate a maximum of 100 Mileage by completing in-game contents and this maximum limit is reset every Monday at 06:00 AM server time.	ⓘ 입고/출고 시 마일리지 20 차감 됩니다. {nl}ⓘ마일리지는 길드원 로그인, 특정 콘텐츠 이용(챌린지 5단계 이상, 유니크 레이드, 레전드 레이드 클리어)을 통해서 적립됩니다.{nl}ⓘ특정 콘텐츠 이용을 통한 마일리지 적립은 길드원별 주간 100 까지 누적 적립 가능하며, 누적 적립은 매주 월요일 오전 6시에 초기화 됩니다.
+UI_20191024_003989	{@st42}Housing{/}	{@st42}하우징{/}
+UI_20191024_003990	{@st66d}Distribute Contribution Points	{@st66d}기여도 분배
+UI_20191024_003991	Distributed Contribution Points	분배할 기여도
+UI_20191024_003992	Remaining Contribution Points	잔여 기여도
+UI_20191024_003993	My Contribution Points	내 기여도
+UI_20191024_003994	{@st42b}{s16}Team Name %s	{@st42b}{s16}팀명 %s
+UI_20191024_003995	{@st42b}{s16}Contribution	{@st42b}{s16}기여도
+UI_20191024_003996	{@st66b}Distribute	{@st66b}분배
+UI_20191024_003997	{@st66d}Exchange %s	{@st66d}%s 전환
+UI_20191024_003998	Guild Mileage	길드 마일리지
+UI_20191024_003999	Exchange Rate	전환 비율
+UI_20191024_004000	%s Available for Exchange	전환 가능한 %s
+UI_20191024_004001	Enter the amount of %s to be exchanged.	전환할 %s를 입력하세요.
+UI_20191024_004002	%s Cost	소비 %s
+UI_20191024_004003	%s Remaining	잔여 %s
+UI_20191024_004004	{@st66b}Exchange	{@st66b}전환
+UI_20191024_004005	{@st43}{s22}Dismantle Mystic Tome	{@st43}{s22}신비한 서 분해
+UI_20191024_004006	Dismantle Complete	분해 완료
+UI_20191024_004007	{@st41b}{s18}Dismantle	{@st41b}{s18}분해 하기
+UI_20191024_004008	{@st41b}{s18}Confirm	{@st41b}{s18}확인
+UI_20191024_004009	{@st43}{s22}Craft Mystic Tome	{@st43}{s22}신비한 서 제작
+UI_20191024_004010	{@st41b}{s18}Goddess' Blessed Gem	{@st41b}{s18}여신의 축복석
+UI_20191024_004011	{@st41b}{s18}Craft	{@st41b}{s18}제작 하기
+UI_20191024_004012	{@st43}Exit Edit Mode{/}	{@st43}편집모드 취소{/}
+UI_20191024_004013	{@st43}{#97f72f}{s20}Install	{@st43}{#97f72f}{s20}설치
+UI_20191024_004014	{@st43}{#97f72f}{s20}Rotate	{@st43}{#97f72f}{s20}회전
+UI_20191024_004015	{@st66b}{s18}Uninstall?	{@st66b}{s18}철거 하시겠습니까?
+UI_20191024_004016	Furniture	가구
+UI_20191024_004017	{@st66b}{s18}Current Guild Funds: {@st66d_y}%s	{@st66b}{s18}소지 길드 자금 :{@st66d_y}%s
+UI_20191024_004018	{@st66b}{s18}Remaining Guild Funds: {ol}{s18}{#ec0000}%s	{@st66b}{s18}소비 길드 자금 :{ol}{s18}{#ec0000}%s
+UI_20191024_004019	{@st66b}{s18}You will no longer be able to use the functions related to the housing item after it is uninstalled and the uninstalled will be returned to the inventory.	{@st66b}{s18}해당 하우징 물품을 철거하면 관련 기능을 이용할 수 없으며, 철거된 물품은 아이템 창으로 이동합니다.
+UI_20191024_004020	{@st59b}Lab{nl}{@st59s}	{@st59b}연구소{nl}{@st59s}
+UI_20191024_004021	Lab	연구소
+UI_20191024_004022	{@st66b}{s18}Upgrade?	{@st66b}{s18}증축 하시겠습니까?
+UI_20191024_004023	Against Beast-type enemies	야수형 대상 강화
+UI_20191024_004024	{ol}{ds}{b}{s16}Maximum Skill Research Level %s	{ol}{ds}{b}{s16}스킬 연구 최대 레벨 %s
+UI_20191024_004025	{@st66b}{s18}Current Guild Funds: {@st66d_y}%s	{@st66b}{s18}소지 길드 자금 : {@st66d_y}%s
+UI_20191024_004026	{@st66b}{s18}Guild Funds Cost: {ol}{s18}{#ec000}%s	{@st66b}{s18}소비 길드 자금 : {ol}{s18}{#ec0000}%s
+UI_20191024_004027	{@st66b}{s18}Current Guild Mileage: {@st66d_y}%s	{@st66b}{s18}소지 길드 마일리지 : {@st66d_y}%s
+UI_20191024_004028	{@st66b}{s18}Guild Mileage Cost: {ol}{s18}{#ec000}%s	{@st66b}{s18}소비 길드 마일리지 : {ol}{s18}{#ec0000}%s
+UI_20191024_004029	{@st43}Housing Shop	{@st43}하우징 상점
+UI_20191024_004030	{@st59}Close Housing Shop{/}	{@st59}하우징 상점을 닫습니다{/}
+UI_20191024_004031	{@st66b}Landscaping	{@st66b}조경
+UI_20191024_004032	{@st66b}Facilities	{@st66b}시설
+UI_20191024_004033	{@st66b}Employment	{@st66b}계약서
+UI_20191024_004034	{@st59}Housing{/}	{@st59}하우징{/}
+UI_20191024_004035	{@st66b}{s18}Type{/}	{@st66b}{s18}종류{/}
+UI_20191024_004036	{@st59}BGM Player{/}	{@st59}BGM 플레이어{/}
+UI_20191024_004037	{@st66b}Tab 1	{@st66b}텝1
+UI_20191024_004038	{@st66b}Tab 2	{@st66b}텝2
+UI_20191024_004039	{@st43b}{s16}Mission Objectives Only	{@st43b}{s16}미션 목표만 보기
+UI_20191024_004040	* The attributes that have already been invested in{nl}will be refunded as Attribute Points after the Class Tree change.{nl}(The Arts learned will be reset as well.{nl}Attribute Points will be refunded but Mystic Tomes will not.)	* 계열 변경 전 올린 특성의 레벨은{nl}계열 변경 후 특성 포인트를 돌려드립니다.{nl}(아츠도 초기화 되며, 특성 포인트는 복구되지만,{nl}신비한 서는 복구되지 않습니다.)
+UI_20191024_004041	* The classes removed due to this change{nl}will have their attributes and skills returned as points.{nl}{#FF1122}Arts are not reset with class change.{nl}Please remember to use a Arts Reset Potion before changing your class.{/}	* 변경으로 인해 삭제 되는 클래스는 스킬과{nl}특성을 초기화 후 포인트로 반환됩니다.{nl}{#FF1122}클래스 변경으로는 아츠가 초기화 되지 않습니다.{nl}변경 전에 해당 클래스의 아츠 초기화 포션을 먼저{nl}사용하신 후 클래스를 변경하시기 바랍니다.{/}
+UI_20191024_004042	{@st66b}Maintain Target Skill UI{/}	{@st66b}대상 지정 스킬 UI 유지{/}
+UI_20191024_004043	{@st66b}Apply Background Effect	{@st66b}환경 이펙트 적용
+UI_20191024_004044	{@st66b}Apply Character Silhouettes	{@st66b}캐릭터 실루엣 적용
+UI_20191024_004045	{@st41b}{img icon_button_warning 36 36}Confirm	{@st41b}{img icon_button_warning 36 36}확인
+UI_20191024_004046	Guild Level Required for Expansion	확장에 필요한 길드 레벨
+UI_20191024_004047	Guild Funds Required for Expansion	확장에 필요한 길드 자금
+UI_20191024_004048	Guild Mileage Required for Expansion	확장에 필요한 길드 마일리지
+UI_20191024_004049	{@st41b}{s18}Lv. 1: %s{/}{/}{/}	{@st41b}{s18}1 단계 : %s{/}{/}{/}
+UI_20191024_004050	{@st41b}{s18}Lv. 2: %s{/}{/}{/}	{@st41b}{s18}2 단계 : %s{/}{/}{/}
+UI_20191024_004051	{@st41b}{s18}Lv. 3: %s{/}{/}{/}	{@st41b}{s18}3 단계 : %s{/}{/}{/}
+UI_20191024_004052	{@st41b}{s18}Lv. 4: %s{/}{/}{/}	{@st41b}{s18}4 단계 : %s{/}{/}{/}
+UI_20191024_004053	{@st41b}{s18}Lv. 5: %s{/}{/}{/}	{@st41b}{s18}5 단계 : %s{/}{/}{/}
+UI_20191024_004054	Expand Hangout	아지트 확장
+UI_20191024_004055	Increases combat efficacy against Humanoids	인간형 대상 강화
+UI_20191024_004056	{#5e4e3f}{s16}Reseach weapons that are effective against{nl}Plant-type monsters.	{#5e4e3f}{s16}식물형 타입의 몬스터에게 효과적인{nl}무기 연구를 진행합니다.
+UI_20191024_004057	{#5ae2e7}{@st43}{s16}Damage +0.4% per Buff Level	{#5ae2e7}{@st43}{s16}버프 레벨당 +0.4% 대미지 증가
+UI_20191024_004058	List	목록
+UI_20191024_004059	Rotate	회전
+UI_20191024_004060	{@st42b}{s16}Sell{/}	{@st42b}{s16}판매{/}
+UI_20191024_004061	Mission	미션 내용
+UI_20191024_004062	{@st42b}{s14}{#ffffff}Normal	{@st42b}{s14}{#ffffff}노말
+UI_20191024_004063	{@st42b}{s14}{#0e7fe8}Magic	{@st42b}{s14}{#0e7fe8}매직
+UI_20191024_004064	{@st42b}{s14}{#d92400}Unique	{@st42b}{s14}{#d92400}유니크
+UI_20191024_004065	{@st42b}{s14}{#ffa800}Legend	{@st42b}{s14}{#ffa800}레전드
