@@ -9586,7 +9586,7 @@ SKILL_20170912_009585	Temporarily enlarge you and your party member's offhand, i
 SKILL_20170912_009586	Shield, Physical Defense: +#{CaptionRatio}#{nl}Subweapon, Physical/Magic Attack: +#{CaptionRatio2}#{nl}Duration: #{CaptionTime}# seconds	방패, 물리 방어력 #{CaptionRatio}# 증가{nl}보조무기, 물리/마법 공격력 #{CaptionRatio2}# 증가{nl}지속시간 #{CaptionTime}#초
 SKILL_20170912_009587	Summon the devil of the card inserted in your grimoire. The attack and defense of the summoned devil will be set according to your character's level, and will increase by 5% for each star on the corresponding card. The grimoire can only equip Devil-type monster cards.	그리모어에 삽입한 카드의 악마를 소환합니다. 스킬 레벨에 따라 소환된 악마의 공격력, 방어력이 증가합니다. 카드의 별 숫자만큼 소환된 악마의 공격력, 방어력이 5%씩 추가로 증가합니다. 그리모어에는 악마형 몬스터 카드만 장착할 수 있습니다.
 SKILL_20170912_009588	Summons a Devil-type boss monster{nl}Devil's Additional Attack: #{CaptionRatio}#%{nl}Devil's Additional Defense: #{CaptionRatio}#%{nl}Duration: 900 seconds	악마형 보스 소환{nl}악마 추가 공격력 #{CaptionRatio}#%{nl}악마 추가 방어력 #{CaptionRatio}#%{nl}지속시간 900초
-SKILL_20170912_009589	Salamion's Level: #{CaptionRatio2}#{nl}Salamion's Additional Attack: #{CaptionRatio}#%{nl}Salamion's Additional Defense #{CaptionRatio}#%{nl}Duration: 300 seconds	살라미온 레벨 #{CaptionRatio2}#{nl}살라미온 추가 공격력 #{CaptionRatio}#%{nl}살라미온 추가 방어력 #{CaptionRatio}#%{nl}지속시간 300초
+SKILL_20170912_009589	Salamion's Level: #{CaptionRatio2}#{nl}Salamion's Additional Attack: #{CaptionRatio}#%{nl}Salamion's Additional Defense: #{CaptionRatio}#%{nl}Duration: 300 seconds	살라미온 레벨 #{CaptionRatio2}#{nl}살라미온 추가 공격력 #{CaptionRatio}#%{nl}살라미온 추가 방어력 #{CaptionRatio}#%{nl}지속시간 300초
 SKILL_20170912_009590	Shoggoth's Additional Damage: #{CaptionRatio}#%{nl}Shoggoth's Additional Defense: #{CaptionRatio}#%{nl}Consumes #{CaptionTime}# Corpse(s){nl}Duration: 900 seconds	쇼고스 추가 공격력 #{CaptionRatio}#%{nl}쇼고스 추가 방어력 #{CaptionRatio}#%{nl}사체 #{CaptionTime}#개 소비{nl}지속시간 900초
 SKILL_20170912_009591	Summons #{CaptionRatio}# Skeleton Soldiers{nl}Add. Skeleton Soldier attack #{CaptionRatio3}#%{nl}Consumes #{CaptionRatio2}# Corpse(s){nl}Duration 300 seconds{nl}Maximum Level: 5	해골 병사 #{CaptionRatio}#마리 소환{nl}해골 병사 추가 공격력 #{CaptionRatio3}#%{nl}사체 #{CaptionRatio2}#개 소비{nl}지속시간 300초{nl}5레벨 마스터
 SKILL_20170912_009592	Summons #{CaptionRatio}# Skeleton Archers{nl}Add. Skeleton Archer attack #{CaptionRatio3}#%{nl}Consumes #{CaptionRatio2}# Corpse(s){nl}Duration 300 seconds{nl}Maximum Level: 5	해골 궁수 #{CaptionRatio}#마리 소환{nl}해골 궁수 추가 공격력 #{CaptionRatio3}#%{nl}사체 #{CaptionRatio2}#개 소비{nl}지속시간 300초{nl}5레벨 마스터
@@ -15521,7 +15521,7 @@ SKILL_20190419_015520	Evil Spirit: Darkness	악령: 암흑
 SKILL_20190419_015521	* Enemies hit by Evil Spirits have a 1% chance per attribute level to be afflicted with [Blind] for 10 seconds{nl}* Increases SP consumption by 10%	* 악령에 피격되는 적이 특성 레벨당 1% 확률로{nl}    10초 동안 [암흑] 디버프{nl}* SP 소모 10%증가
 SKILL_20190419_015522	* When using [Blood Curse], HP consumption reduced to 40% but duration for [Cursed by Blood] increases by 7 seconds{nl}* Increases SP consumption by 30%	* [블러드 커스] 사용 시 HP 소모량이 40%로 감소하는 대신{nl}    적에게 부여하는 [피의 저주] 지속시간이 7초 증가{nl}* SP 소모 30%증가
 SKILL_20190419_015523	* Movement speed during [Kurdaitcha] increases to match normal walking speed{nl}* Cooldown increases by 10 seconds	* 스킬 [커다이챠] 중의 이동속도가 보통 뛰는 수준으로 증가{nl}* 재사용 대기시간 10초 증가
-SKILL_20190419_015524	& [Kundela Slash] hits multiple times{nl}if the enemy is affected by 2 or more debuffs{nl}* Maximum of 3 hits{nl}* Increases SP consumption by 30%	* 대상에게 적용 중인 디버프가 2개 이상일 경우{nl}   디버프 개수만큼 [쿤델라 슬래시] 연타 적용{nl}* 최대 3연타{nl}* SP 소모 30%증가
+SKILL_20190419_015524	* [Kundela Slash] hits multiple times{nl}if the enemy is affected by 2 or more debuffs{nl}* Maximum of 3 hits{nl}* Increases SP consumption by 30%	* 대상에게 적용 중인 디버프가 2개 이상일 경우{nl}   디버프 개수만큼 [쿤델라 슬래시] 연타 적용{nl}* 최대 3연타{nl}* SP 소모 30%증가
 SKILL_20190419_015525	* Increases damage against enemies under [Curse]{nl}by 10% per attribute level when using Dark-property attacks	* [저주] 디버프에 걸린 적을 어둠 속성 스킬로 공격 시{nl}    특성 레벨당 10% 대미지 증가
 SKILL_20190419_015526	Blood Curse: Enhance	블러드 커스: 강화
 SKILL_20190419_015527	* Increases the skill factor of [Blood Curse] by 0.5% per attribute level{nl}* +10% added increase at maximum level	* [블러드 커스]의 스킬 계수가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가
@@ -16060,7 +16060,7 @@ SKILL_20191024_016059	Buff Duration: #{CaptionTime}#sec{nl}Debuff Chance: #{Capt
 SKILL_20191024_016060	Rapidly fires at the targeted enemy. Each shot is ricocheted off the target and has increased chance of landing as a critical hit against Beast-type, Boss, and enemies equipped with Leather armor. Deals additional 50% damage against enemies in [Slow] and [Immobility] states.	타겟된 대상에게 사격합니다. 매 사격마다 도탄이 발생하고, 피격되는 적이 야수형, 보스 몬스터, 가죽 방어 타입 대상일 경우 치명타가 발생할 확률이 증가합니다. [슬로우] 또는 [이동불가] 상태의 적에게 50% 추가대미지가 적용됩니다.
 SKILL_20191024_016061	Skill Factor #{SkillFactor}#% x5 times{nl}Minimum critical rate #{CaptionRatio}#% to certain targets{nl} * Beast-type{nl} * Boss{nl} * Armor Type: Leather	스킬 계수 #{SkillFactor}#% x 5회{nl}특정 대상에게 최소 치명타 확률 #{CaptionRatio}#%{nl} * 야수형{nl} * 보스 몬스터{nl} * 방어 타입: 가죽
 SKILL_20191024_016062	Damage against bosses increase for the duration of the buff and the minimum critical rate increase effect is increased.	버프 지속 시간 동안 보스에게 주는 대미지가 증가 하며, 최소 치명타 증가 확률이 증가 합니다.
-SKILL_20191024_016063	Duration: 10 seconds{nl}Damage against bosses +#{CaptionRatio2}#{nl}Minimum critical rate increased by +#{CaptionRatio}#%	지속 시간 10초{nl} 보스에게 주는 대미지 #{CaptionRatio2}#% 증가{nl}최소 치명타 확률 #{CaptionRatio}#% 증가
+SKILL_20191024_016063	Duration: 10 seconds{nl}Damage against bosses +#{CaptionRatio2}#%{nl}Minimum critical rate increased by +#{CaptionRatio}#%	지속 시간 10초{nl} 보스에게 주는 대미지 #{CaptionRatio2}#% 증가{nl}최소 치명타 확률 #{CaptionRatio}#% 증가
 SKILL_20191024_016064	Skill Factor: #{SkillFactor}#%{nl}Chance to stun Beast-type enemies #{CaptionRatio}#%{nl}* Duration: 3.5 seconds	스킬 계수 #{SkillFactor}#%{nl}야수형 적에게 #{CaptionRatio}#% 확률로 스턴{nl} * 지속시간 3.5초
 SKILL_20191024_016065	Chance to remove buff on attack #{CaptionRatio}#%{nl}Buff duration: #{CaptionTime}# seconds{nl}Additional 100% critical rate for the duration of the buff.	공격시 #{CaptionRatio}#% 확률로 버프 해제{nl}버프 지속시간 #{CaptionTime}#초{nl} 사용시 지속 시간 동안 치명타 발생 100% 추가.
 SKILL_20191024_016066	Removes all removable debuffs affecting the target.	지정된 대상의 일반 해제 가능한 모든 디버프를 해제 합니다.
@@ -16357,7 +16357,7 @@ SKILL_20191024_016356	Halloween Effect	할로윈 이펙트
 SKILL_20191024_016357	Misrus - Legend Card	머즈루스 - 레전드 카드
 SKILL_20191024_016358	Shield target additional damage	실드 대상 추가 대미지
 SKILL_20191024_016359	Delicious Pizza	맛있는 피자
-SKILL_20191024_016360	You eat the Pizza!{nl}EXP earned from monsters ins increased by 200%.	피자를 먹었습니다!{nl}몬스터 처치 시 경험치가 200% 증가됩니다.
+SKILL_20191024_016360	You eat the Pizza!{nl}EXP earned from monsters is increased by 200%.	피자를 먹었습니다!{nl}몬스터 처치 시 경험치가 200% 증가됩니다.
 SKILL_20191024_016361	The Smell of Fresh Pizza	배달원의 피자 냄새
 SKILL_20191024_016362	You feel motivated by the smell of freshly cooked Pizza carried by the Delivery Savior!{nl}Your looting chance increases by +1000.{nl}(Buff is removed when a the Delivery Savior is not in your proximity.) 	배달원에게 피자 냄새가 납니다!{nl}의욕이 솟아 루팅 찬스가 1000 증가됩니다.{nl}(지역 이동 시 주변에 배달원이 없으면 버프가 삭제됩니다.) 
 SKILL_20191024_016363	EXP earned +50%	경험치 50% 증가
@@ -17071,7 +17071,7 @@ SKILL_20191024_017070	[Arts] Divine Machine Arrow: Enhanced Upgrade	[아츠] 신
 SKILL_20191024_017071	* Increases the Skill Factor of [Divine Machine Arrow] by 1.25% per attribute level	* [신기전]의 스킬 계수가 특성 레벨당 1.25% 증가
 SKILL_20191024_017072	* Increases the caster's AoE attack ratio by 3 when using [Circling]{nl}* Increases SP consumption by 100%	* 스킬 [서클링] 시전 시, 시전자의 광역공격 비율 3 추가 증가{nl}* SP 소모 100%증가
 SKILL_20191024_017073	[Arts] Hanging Shot: Dodge	[아츠] 행잉샷: 순간 회피
-SKILL_20191024_017074	* When using [Hanging Shot], your hawk will rescue you from an emergency, providing your temporary invincibility and decreasing damage taken by 30% for 5 seconds after [Hanging Shot] ends{nl}* Hanging Shot Duration: 3 seconds	* 행잉샷을 사용 시 위기에 순간에서 매가 구출하여 일시적으로 무적 상태가 되고, 행잉샷 버프가 끝난 이후 5초 동안 받는 피해 30% 감소{nl}* 행잉샷 지속시간 : 3초
+SKILL_20191024_017074	* When using [Hanging Shot], your hawk will rescue you from an emergency, providing you temporary invincibility and decreasing damage taken by 30% for 5 seconds after [Hanging Shot] ends{nl}* Hanging Shot Duration: 3 seconds	* 행잉샷을 사용 시 위기에 순간에서 매가 구출하여 일시적으로 무적 상태가 되고, 행잉샷 버프가 끝난 이후 5초 동안 받는 피해 30% 감소{nl}* 행잉샷 지속시간 : 3초
 SKILL_20191024_017075	[Arts] Pheasant: Enhanced Upgrade	[아츠] 멍텅구: 상급 강화
 SKILL_20191024_017076	* Increases the Skill Factor of [Pheasant] by 1.25% per attribute level	* [멍텅구]의 스킬 계수가 특성 레벨당 1.25% 증가
 SKILL_20191024_017077	[Arts] Sonic Strike: Enhanced Upgrade	[아츠] 음속타: 상급 강화
@@ -17292,7 +17292,7 @@ SKILL_20191024_017291	* Increases the Skill Factor of [Seed Bomb] by 1.25% per a
 SKILL_20191024_017292	[Arts] Thorn: Enhanced Upgrade	[아츠] 가시덩굴: 상급 강화
 SKILL_20191024_017293	* Increases the Skill Factor of [Thorn] by 1.25% per attribute level	* [가시덩굴]의 스킬 계수가 특성 레벨당 1.25% 증가
 SKILL_20191024_017294	[Arts] Divine Might: Ill Omen	[아츠] 디바인 마이트: 불길한 징조
-SKILL_20191024_017295	* The effects of [Divine Might] now only apply to enemies. [Divine Might] applies a debuff that causes enemy skills to be forced to level 1 for remaining every application on the skill. [Divine Might]'s cooldown is changed to 60 seconds.	* [디바인 마이트]의 효과가 적 캐릭터에게만 적용됩니다. [디바인 마이트] 디버프에 걸린 적이 스킬 시전 시 스킬 레벨이 적용 횟수의 절반 만큼 1레벨로 적용됩니다. [디바인 마이트]의 재사용 대기시간이 60초로 변경됩니다.
+SKILL_20191024_017295	* The effects of [Divine Might] now only apply to enemies. [Divine Might] applies a debuff that causes enemy skills to be forced to level 1 for every remaining application on the skill. [Divine Might]'s cooldown is changed to 60 seconds.	* [디바인 마이트]의 효과가 적 캐릭터에게만 적용됩니다. [디바인 마이트] 디버프에 걸린 적이 스킬 시전 시 스킬 레벨이 적용 횟수의 절반 만큼 1레벨로 적용됩니다. [디바인 마이트]의 재사용 대기시간이 60초로 변경됩니다.
 SKILL_20191024_017296	[Arts] Healing Factor: Close Healing	[아츠] 힐링 팩터: 근접 치료
 SKILL_20191024_017297	* Increases the buff duration of [Healing Factor] to 120 seconds, and the HP recovery cap is removed, but the continous healing effect only applies while the caster and target are close to one another. (Range: 100){nl}* The caster cannot apply [Healing Factor] to themself, and the duration of [Healing Factor: Heal Party] doesn't apply.	* [힐링 팩터] 버프의 지속시간이 120초로 증가하고 HP상한 제한이 사라지지만, HP 지속 회복 효과는 시전자와 대상이 가까이 있을 때만 발동됨. (거리 100){nl}* 시전자 자신은 [힐링 팩터] 버프의 효과가 적용되지 않으며, [힐링 팩터: 파티원 적용] 특성의 지속시간은 적용되지 않음
 SKILL_20191024_017298	[Arts] Incineration: Enhanced Upgrade	[아츠] 소각: 상급 강화
@@ -17420,7 +17420,7 @@ SKILL_20191024_017419	* Increases the Skill Factor of [Invasione] by 1.25% per a
 SKILL_20191024_017420	[Arts] Taglio: Enhanced Upgrade	[아츠] 탈리오: 상급 강화
 SKILL_20191024_017421	* Increases the Skill Factor of [Taglio] by 1.25% per attribute level	* [탈리오]의 스킬 계수가 특성 레벨당 1.25% 증가
 SKILL_20191024_017422	[Arts] Westraid: Final Roulette	[아츠] 웨스트레이드: 비장의 룰렛
-SKILL_20191024_017423	* [Westraid] now grants 100% increased critical strike chance instead of the original effect, and this effect decreases by 3.5% every second. (Decreases until at 30%)	* [웨스트레이드] 버프가 기존 효과 대신에 치명타 발생이 100% 증가하고, 치명타 발생 증가치가 1초마다 3.5%씩 감소합니다. (증가한 치명타 발생은 30%까지만 감소함)
+SKILL_20191024_017423	* [Westraid] now grants 100% increased critical rate instead of the original effect, and this effect decreases by 3.5% every second. (Decreases until at 30%)	* [웨스트레이드] 버프가 기존 효과 대신에 치명타 발생이 100% 증가하고, 치명타 발생 증가치가 1초마다 3.5%씩 감소합니다. (증가한 치명타 발생은 30%까지만 감소함)
 SKILL_20191024_017424	[Arts] Peacemaker: Shotgun	[아츠] 피스메이커: 산탄
 SKILL_20191024_017425	* [Peacemaker] spreads bullets around the target, dealing damage to enemies nearby. It no longer inflicts [Silence].	* [피스메이커] 스킬에 적중된 적 주변으로 탄알이 퍼져나가 주변 적들에게 피해를 줍니다. 대신 [침묵]디버프를 걸지 않습니다
 SKILL_20191024_017426	[Arts] Quick Draw: Enhanced Upgrade	[아츠] 퀵 드로우: 상급 강화
