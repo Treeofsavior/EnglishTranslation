@@ -13153,7 +13153,7 @@ SKILL_20190104_013152	Skill Factor: #{SkillFactor}#% x no. of hits{nl}Maximum Lo
 SKILL_20190104_013153	Dismantles statues and other obstacles in front of you while dealing damage to nearby enemies.{nl}Allows you to tear down the following:{nl}* Dievdirbys statues, except Vakarine{nl}* Ice Wall{nl}* Pavise, Stockade{nl}* Traps summoned by boss monsters	전면의 각종 조각상이나 장애물을 철거함과 동시에 인근의 적에게 피해를 줍니다.{nl}아래 나열한 개체을 철거 할 수 있습니다.{nl}* 바카리네 여신상을 제외한 딥디르비 조각상{nl}* 아이스 월, 더티 월{nl}* 파비스, 방책{nl}* 보스 몬스터가 소환하는 각종 트랩
 SKILL_20190104_013154	Additional Skill Factor: #{SkillFactor}#%{nl}Duration: #{CaptionTime}# seconds{nl}Basic Attack Speed: +10%	추가 스킬 계수 #{SkillFactor}#%{nl}지속시간 #{CaptionTime}#초{nl}기본 공격 속도 10% 증가
 SKILL_20190104_013155	Kneel down to improve your concentration. Increases your attack, attack speed and range. Using Kneeling Shot again will cancel your kneeling state.	집중력을 높이기 위해 앉아서 공격합니다. 공격력과 사정거리, 기본 공격 속도가 증가합니다. 닐링 샷을 한번 더 시전하면 닐링 샷 상태가 해제됩니다.
-SKILL_20190104_013156	Physical Damage: +#{CaptionRatio}#%{nl}Range: +35{nl}Basic Attack Speed: +250	물리 공격력 #{CaptionRatio}#% 증가{nl}사정거리 35 증가{nl}기본 공격 속도 250 증가
+SKILL_20190104_013156	Physical Attack: +#{CaptionRatio}#%{nl}Range: +35{nl}Basic Attack Speed: +250	물리 공격력 #{CaptionRatio}#% 증가{nl}사정거리 35 증가{nl}기본 공격 속도 250 증가
 SKILL_20190104_013157	Block and Shoot	블록 앤드 샷
 SKILL_20190104_013158	Increases your Block for a period of time. While the Block and Shoot buff is active, the first attack you perform after blocking another attack deals additional damage.	잠시 동안 블록이 증가합니다. 블록 앤드 샷 버프 중에는 블록 후에 자신의 다음 공격에 추가 대미지가 적용됩니다.
 SKILL_20190104_013159	Block: +#{CaptionRatio}#%{nl}Damage: +50%{nl}Duration: 300 seconds	블록 #{CaptionRatio}#% 증가{nl}대미지 50% 증가{nl}지속시간 300초
@@ -15405,7 +15405,7 @@ SKILL_20190419_015404	Duration: #{CaptionRatio}# seconds{nl}Consumes x1 Lensters
 SKILL_20190419_015405	Korup	코르프
 SKILL_20190419_015406	Reduces your maximum HP by 30% and adds 30% damage for each debuff the target is under. (Maximum of 240% additional damage.)	자신의 최대 HP를 30% 감소시키는 대신, 적 공격시에 적이 걸려 있는 디버프 개수당 30%의 추가 대미지를 줍니다. (추가 대미지는 최대 240%까지 적용됩니다.)
 SKILL_20190419_015407	Duration: 10 seconds{nl}Consumes x1 Riperium	버프 지속시간 10초{nl}리페리움 1개 소모
-SKILL_20190419_015408	Increases evasion against physical and magic attacks and reduces damage received from magic circles 	물리, 마법 공격력과 회피가 감소하고 마법진 공격에 받는 피해 증가 
+SKILL_20190419_015408	Decreases physical and magic attack, evasion, and increases damage received from magic circles 	물리, 마법 공격력과 회피가 감소하고 마법진 공격에 받는 피해 증가 
 SKILL_20190419_015409	Removes natural recovery and reduces magic defense	자연 회복이 불가능하고, 마법 방어력 하락
 SKILL_20190419_015410	Numb to pain	틍증에 무감각
 SKILL_20190419_015411	Grants additional Psychokinesis damage that increases in proportion to your minimum magic attack values. Also increases your Magic Critical Rate.	자신의 최소 마법 공격력에 비례하는 염속성 추가대미지를 입힙니다. 자신의 마법 치명타 확률이 증가합니다.
@@ -15436,7 +15436,7 @@ SKILL_20190419_015435	Immunity to [Slow], [Immobility], [Bound]	[슬로우][이�
 SKILL_20190419_015436	Compressed space expands rapidly after 1.5 seconds to deal additional damage	1.5초 후 압축된 공간이 급속도로 팽창하며 추가 대미지
 SKILL_20190419_015437	Reduces movement speed and increases non-property attacks	이동속도 감소와 무 속성 추가 대미지
 SKILL_20190419_015438	Rubric: Reduce Movement Speed	루브릭: 이동속도 감소
-SKILL_20190419_015439	Phantom pain	팬텀 페인
+SKILL_20190419_015439	Phantom Pain	팬텀 페인
 SKILL_20190419_015440	Continuous magic damage	지속적인 마법 대미지
 SKILL_20190419_015441	Menace Shot: Panic	메니스 샷: 패닉
 SKILL_20190419_015442	Immobility. Stops all actions in case of monsters	이동불가. 몬스터일 경우 행동도 멈춤
@@ -16173,7 +16173,7 @@ SKILL_20191024_016172	Time Travel Sickness	시간 여행 후유증
 SKILL_20191024_016173	Immune to Pass	패스 적용 불가 상태
 SKILL_20191024_016174	Periodically summons evil spirits when enemies are defeated	적 처치시 또는 주기적으로 악령 소환
 SKILL_20191024_016175	Reveals the enemy's weak spot to increase critical rate.{nl}Increases damage received from critical attacks by +30% with the Arts [Blindside: Focus].	약점을 노출시켜 치명타에 피격될 확률이 증가합니다.{nl}[약점공격: 집중] 아츠가 적용중일 때, 받는 치명타 피해량이 30% 증가합니다.
-SKILL_20191024_016176	Increases critical rate{nl}Increases looting chance by +500 when with the Arts [Omikuji: Financial Fortune] 	치명타 발생 증가{nl}[오미쿠지: 금전운] 아츠가 적용중일 때는 루팅찬스가 500 증가
+SKILL_20191024_016176	Increases critical rate.{nl}Increases Looting Chance by +500 instead with the Arts [Omikuji: Financial Fortune] active.	치명타 발생 증가{nl}[오미쿠지: 금전운] 아츠가 적용중일 때는 루팅찬스가 500 증가
 SKILL_20191024_016177	Great Blessing: Lucky Draw	대길: 초대박
 SKILL_20191024_016178	Armor durability does not go low.	장비의 내구도가 감소하지 않습니다.
 SKILL_20191024_016179	Latent Venom: Enervation	잠독백세 : 탈력
@@ -16223,8 +16223,8 @@ SKILL_20191024_016222	Damage Increase	대미지 증가
 SKILL_20191024_016223	Flesh Hoop: Shield	플레시 후프: 실드
 SKILL_20191024_016224	Leather Mastery: Plate	가죽 마스터리: 판금화
 SKILL_20191024_016225	Incoming damage increased by +5%	받는 대미지가 5% 감소합니다.
-SKILL_20191024_016226	Reduces incoming magic damage -15%	받는 마법 피해 15% 감소
-SKILL_20191024_016227	Increases Physical and Magic damage by +15%. Increases critical rate +20%{nl}(Max. critical rate is increased by 10% but does not stack with other effects that increase max. critical rate)	물리, 마법 대미지 15% 증가. 치명타 확률 20% 증가{nl}(최대 치명타 확률 상한선이 10% 증가. 단, 최대 치명타 확률 상한선 증가 효과는 중복되지 않음)
+SKILL_20191024_016226	Reduces incoming magic damage by -15%.	받는 마법 피해 15% 감소
+SKILL_20191024_016227	Increases Physical and Magic damage by +15%. Increases critical chance by +20%.{nl}(Max. critical chance is increased by 10% but does not stack with other effects that increase max. critical chance)	물리, 마법 대미지 15% 증가. 치명타 확률 20% 증가{nl}(최대 치명타 확률 상한선이 10% 증가. 단, 최대 치명타 확률 상한선 증가 효과는 중복되지 않음)
 SKILL_20191024_016228	Reduces incoming physical damage by -15%	받는 물리 피해 15% 감소
 SKILL_20191024_016229	Highlander: Immortality	하이랜더: 불멸
 SKILL_20191024_016230	Will soon be revived.	곧 다시 살아납니다.
@@ -16468,61 +16468,61 @@ SKILL_20191024_016467	Increases damage against Devil monsters by 0.4% per stack	
 SKILL_20191024_016468	Weapons Research - Devil (Solo)	특수 무기학 - 악마형(개인)
 SKILL_20191024_016469	Increases damage against Devil monsters by 0.2% per stack	악마형 몬스터에게 주는 대미지가 버프 중첩당 0.2% 증가
 SKILL_20191024_016470	Cloth Armor - Material (Group)	천 방어구 - 재질(단체)
-SKILL_20191024_016471	The effect will be granted based on the number of Cloth Armor equipped.{nl}Reduces damage received from monsters by 0.1% per armor	천 계열 방어구 착용 개수당 다음의 효과가 적용됩니다.{nl}몬스터에게 받는 대미지가 버프 중첩당 0.1% 감소
+SKILL_20191024_016471	The effect will be granted for each piece of Cloth Armor equipped.{nl}Reduces damage received from monsters by 0.1% per stack	천 계열 방어구 착용 개수당 다음의 효과가 적용됩니다.{nl}몬스터에게 받는 대미지가 버프 중첩당 0.1% 감소
 SKILL_20191024_016472	Cloth Armor - Material (Solo)	천 방어구 - 재질(개인)
-SKILL_20191024_016473	The effect will be granted based on the number of Cloth Armor equipped.{nl}Reduces damage received from monsters by 0.05% per armor	천 계열 방어구 착용 개수당 다음의 효과가 적용됩니다.{nl}몬스터에게 받는 대미지가 버프 중첩당 0.05% 감소
+SKILL_20191024_016473	The effect will be granted for each piece of Cloth Armor equipped.{nl}Reduces damage received from monsters by 0.05% per stack	천 계열 방어구 착용 개수당 다음의 효과가 적용됩니다.{nl}몬스터에게 받는 대미지가 버프 중첩당 0.05% 감소
 SKILL_20191024_016474	Leather Armor - Material (Group)	가죽 방어구 - 재질(단체)
-SKILL_20191024_016475	The effect will be granted based on the number of Leather Armor equipped.{nl}Reduces damage received from monsters by 0.1% per armor	가죽 계열 방어구 착용 개수당 다음의 효과가 적용됩니다.{nl}몬스터에게 받는 대미지가 버프 중첩당 0.1% 감소
+SKILL_20191024_016475	The effect will be granted for each piece of Leather Armor equipped.{nl}Reduces damage received from monsters by 0.1% per stack	가죽 계열 방어구 착용 개수당 다음의 효과가 적용됩니다.{nl}몬스터에게 받는 대미지가 버프 중첩당 0.1% 감소
 SKILL_20191024_016476	Leather Armor - Material (Solo)	가죽 방어구 - 재질(개인)
-SKILL_20191024_016477	The effect will be granted based on the number of Leather Armor equipped.{nl}Reduces damage received from monsters by 0.05% per armor	가죽 계열 방어구 착용 개수당 다음의 효과가 적용됩니다.{nl}몬스터에게 받는 대미지가 버프 중첩당 0.05% 감소
+SKILL_20191024_016477	The effect will be granted for each piece of Leather Armor equipped.{nl}Reduces damage received from monsters by 0.05% per stack	가죽 계열 방어구 착용 개수당 다음의 효과가 적용됩니다.{nl}몬스터에게 받는 대미지가 버프 중첩당 0.05% 감소
 SKILL_20191024_016478	Plate Armor - Material (Group)	판금 방어구 - 재질(단체)
-SKILL_20191024_016479	The effect will be granted based on the number of Plate Armor equipped.{nl}Reduces damage received from monsters by 0.1% per armor	판금 계열 방어구 착용 개수당 다음의 효과가 적용됩니다.{nl}몬스터에게 받는 대미지가 버프 중첩당 0.1% 감소
+SKILL_20191024_016479	The effect will be granted for each piece of Plate Armor equipped.{nl}Reduces damage received from monsters by 0.1% per stack	판금 계열 방어구 착용 개수당 다음의 효과가 적용됩니다.{nl}몬스터에게 받는 대미지가 버프 중첩당 0.1% 감소
 SKILL_20191024_016480	Plate Armor - Material (Solo)	판금 방어구 - 재질(개인)
-SKILL_20191024_016481	The effect will be granted based on the number of Plate Armor equipped.{nl}Reduces damage received from monsters by 0.05% per armor	판금 계열 방어구 착용 개수당 다음의 효과가 적용됩니다.{nl}몬스터에게 받는 대미지가 버프 중첩당 0.05% 감소
+SKILL_20191024_016481	The effect will be granted for each piece of Plate Armor equipped.{nl}Reduces damage received from monsters by 0.05% per stack	판금 계열 방어구 착용 개수당 다음의 효과가 적용됩니다.{nl}몬스터에게 받는 대미지가 버프 중첩당 0.05% 감소
 SKILL_20191024_016482	Cloth Armor - Functionality (Group)	천 방어구 - 기능성(단체)
-SKILL_20191024_016483	The effect will be granted based on the number of Cloth Armor equipped.{nl}SP Recovery +4 per armor{nl}Recovers extra 10% of SP Recovery every 20 seconds at 0.8% chance per armor	천 계열 방어구 착용 개수당 다음의 효과가 적용됩니다.{nl}- SP 회복력이 버프 중첩당 +4 증가{nl}- 20초 마다 버프 중첩당 0.8% 확률로 SP 회복력의 10%만큼 SP 추가 회복
+SKILL_20191024_016483	The effect will be granted for each piece of Cloth Armor equipped.{nl}SP Recovery +4 per stack{nl}Recovers extra 10% of SP Recovery every 20 seconds at 0.8% chance per stack	천 계열 방어구 착용 개수당 다음의 효과가 적용됩니다.{nl}- SP 회복력이 버프 중첩당 +4 증가{nl}- 20초 마다 버프 중첩당 0.8% 확률로 SP 회복력의 10%만큼 SP 추가 회복
 SKILL_20191024_016484	Cloth Armor - Functionality (Solo)	천 방어구 - 기능성(개인)
-SKILL_20191024_016485	The effect will be granted based on the number of Cloth Armor equipped.{nl}SP Recovery +2 per armor{nl}Recovers extra 10% of SP Recovery every 20 seconds at 0.4% chance per armor	천 계열 방어구 착용 개수당 다음의 효과가 적용됩니다.{nl}- SP 회복력이 버프 중첩당 +2 증가{nl}- 20초 마다 버프 중첩당 0.4% 확률로 SP 회복력의 10%만큼 SP 추가 회복
+SKILL_20191024_016485	The effect will be granted for each piece of Cloth Armor equipped.{nl}SP Recovery +2 per stack{nl}Recovers extra 10% of SP Recovery every 20 seconds at 0.4% chance per stack	천 계열 방어구 착용 개수당 다음의 효과가 적용됩니다.{nl}- SP 회복력이 버프 중첩당 +2 증가{nl}- 20초 마다 버프 중첩당 0.4% 확률로 SP 회복력의 10%만큼 SP 추가 회복
 SKILL_20191024_016486	Leather Armor - Functionality (Group)	가죽 방어구 - 기능성(단체)
-SKILL_20191024_016487	The effect will be granted based on the number of Leather Armor equipped.{nl}Maximum Stamina +0.2 per armor{nl}Reduces Stamina consumption by 0.4% per armor	가죽 계열 방어구 착용 개수당 다음의 효과가 적용됩니다.{nl}- 최대 스태미나가 버프 중첩당 +0.2 증가{nl}대시 중 스태미나 소모량이 버프 중첩당 0.4% 감소
+SKILL_20191024_016487	The effect will be granted for each piece of Leather Armor equipped.{nl}Maximum Stamina +0.2 per stack{nl}Reduces Stamina consumption by 0.4% per stack	가죽 계열 방어구 착용 개수당 다음의 효과가 적용됩니다.{nl}- 최대 스태미나가 버프 중첩당 +0.2 증가{nl}대시 중 스태미나 소모량이 버프 중첩당 0.4% 감소
 SKILL_20191024_016488	Leather Armor - Functionality (Solo)	가죽 방어구 - 기능성(개인)
-SKILL_20191024_016489	The effect will be granted based on the number of Leather Armor equipped.{nl}Maximum Stamina +0.1 per armor{nl}Reduces Stamina consumption by 0.2% per armor	가죽 계열 방어구 착용 개수당 다음의 효과가 적용됩니다.{nl}- 최대 스태미나가 버프 중첩당 +0.1 증가{nl}대시 중 스태미나 소모량이 버프 중첩당 0.2% 감소
+SKILL_20191024_016489	The effect will be granted for each piece of Leather Armor equipped.{nl}Maximum Stamina +0.1 per stack{nl}Reduces Stamina consumption by 0.2% per stack	가죽 계열 방어구 착용 개수당 다음의 효과가 적용됩니다.{nl}- 최대 스태미나가 버프 중첩당 +0.1 증가{nl}대시 중 스태미나 소모량이 버프 중첩당 0.2% 감소
 SKILL_20191024_016490	Plate Armor - Functionality (Group)	판금 방어구 - 기능성(단체)
-SKILL_20191024_016491	The effect will be granted based on the number of Plate Armor equipped.{nl}HP Recovery +16 per armor{nl}Recovers extra 10% of HP Recovery every 20 seconds at 0.8% chance per armor	판금 계열 방어구 착용 개수당 다음의 효과가 적용됩니다.{nl}HP 회복력이 버프 중첩당 +16 증가{nl}- 20초 마다 버프 중첩당 0.8% 확률로 HP 회복력의 10%만큼 HP 추가 회복
+SKILL_20191024_016491	The effect will be granted for each piece of Plate Armor equipped.{nl}HP Recovery +16 per stack{nl}Recovers extra 10% of HP Recovery every 20 seconds at 0.8% chance per stack	판금 계열 방어구 착용 개수당 다음의 효과가 적용됩니다.{nl}HP 회복력이 버프 중첩당 +16 증가{nl}- 20초 마다 버프 중첩당 0.8% 확률로 HP 회복력의 10%만큼 HP 추가 회복
 SKILL_20191024_016492	Plate Armor - Functionality (Solo)	판금 방어구 - 기능성(개인)
-SKILL_20191024_016493	The effect will be granted based on the number of Plate Armor equipped.{nl}HP Recovery +8 per armor{nl}Recovers extra 10% of HP Recovery every 20 seconds at 0.4% chance per armor	판금 계열 방어구 착용 개수당 다음의 효과가 적용됩니다.{nl}HP 회복력이 버프 중첩당 +8 증가{nl}- 20초 마다 버프 중첩당 0.4% 확률로 HP 회복력의 10%만큼 HP 추가 회복
+SKILL_20191024_016493	The effect will be granted for each piece of Plate Armor equipped.{nl}HP Recovery +8 per stack{nl}Recovers extra 10% of HP Recovery every 20 seconds at 0.4% chance per stack	판금 계열 방어구 착용 개수당 다음의 효과가 적용됩니다.{nl}HP 회복력이 버프 중첩당 +8 증가{nl}- 20초 마다 버프 중첩당 0.4% 확률로 HP 회복력의 10%만큼 HP 추가 회복
 SKILL_20191024_016494	Property Theory - Fire (Group)	원리 이해 - 불(단체)
-SKILL_20191024_016495	Additional damage from Fire Property +40 per armor	불 속성 추가 대미지가 버프 중첩당 +40 증가
+SKILL_20191024_016495	Additional damage from Fire Property +40 per stack	불 속성 추가 대미지가 버프 중첩당 +40 증가
 SKILL_20191024_016496	Property Theory - Fire (Solo)	원리 이해 - 불(개인)
-SKILL_20191024_016497	Additional damage from Fire Property +20 per armor	불 속성 추가 대미지가 버프 중첩당 +20 증가
+SKILL_20191024_016497	Additional damage from Fire Property +20 per stack	불 속성 추가 대미지가 버프 중첩당 +20 증가
 SKILL_20191024_016498	Property Theory - Ice (Group)	원리 이해 - 얼음(단체)
-SKILL_20191024_016499	Additional damage from Ice Property +40 per armor	얼음 속성 추가 대미지가 버프 중첩당 +40 증가
+SKILL_20191024_016499	Additional damage from Ice Property +40 per stack	얼음 속성 추가 대미지가 버프 중첩당 +40 증가
 SKILL_20191024_016500	Property Theory - Ice (Solo)	원리 이해 - 얼음(개인)
-SKILL_20191024_016501	Additional damage from Ice Property +20 per armor	얼음 속성 추가 대미지가 버프 중첩당 +20 증가
+SKILL_20191024_016501	Additional damage from Ice Property +20 per stack	얼음 속성 추가 대미지가 버프 중첩당 +20 증가
 SKILL_20191024_016502	Property Theory - Lightning (Group)	원리 이해 - 전기(단체)
-SKILL_20191024_016503	Additional damage from Lightning Property +40 per armor	전기 속성 추가 대미지가 버프 중첩당 +40 증가
+SKILL_20191024_016503	Additional damage from Lightning Property +40 per stack	전기 속성 추가 대미지가 버프 중첩당 +40 증가
 SKILL_20191024_016504	Property Theory - Lightning (Solo)	원리 이해 - 전기(개인)
-SKILL_20191024_016505	Additional damage from Lightning Property +20 per armor	전기 속성 추가 대미지가 버프 중첩당 +20 증가
+SKILL_20191024_016505	Additional damage from Lightning Property +20 per stack	전기 속성 추가 대미지가 버프 중첩당 +20 증가
 SKILL_20191024_016506	Property Theory - Poison (Group)	원리 이해 - 독(단체)
-SKILL_20191024_016507	Additional damage from Poison Property +40 per armor	독 속성 추가 대미지가 버프 중첩당 +40 증가
+SKILL_20191024_016507	Additional damage from Poison Property +40 per stack	독 속성 추가 대미지가 버프 중첩당 +40 증가
 SKILL_20191024_016508	Property Theory - Poison (Solo)	원리 이해 - 독(개인)
-SKILL_20191024_016509	Additional damage from Poison Property +20 per armor	독 속성 추가 대미지가 버프 중첩당 +20 증가
+SKILL_20191024_016509	Additional damage from Poison Property +20 per stack	독 속성 추가 대미지가 버프 중첩당 +20 증가
 SKILL_20191024_016510	Property Theory - Dark (Group)	원리 이해 - 어둠(단체)
-SKILL_20191024_016511	Additional damage from Dark Property +40 per armor	어둠 속성 추가 대미지가 버프 중첩당 +40 증가
+SKILL_20191024_016511	Additional damage from Dark Property +40 per stack	어둠 속성 추가 대미지가 버프 중첩당 +40 증가
 SKILL_20191024_016512	Property Theory - Dark (Solo)	원리 이해 - 어둠(개인)
-SKILL_20191024_016513	Additional damage from Dark Property +20 per armor	어둠 속성 추가 대미지가 버프 중첩당 +20 증가
+SKILL_20191024_016513	Additional damage from Dark Property +20 per stack	어둠 속성 추가 대미지가 버프 중첩당 +20 증가
 SKILL_20191024_016514	Property Theory - Holy (Group)	원리 이해 - 신성(단체)
-SKILL_20191024_016515	Additional damage from Holy Property +40 per armor	신성 속성 추가 대미지가 버프 중첩당 +40 증가
+SKILL_20191024_016515	Additional damage from Holy Property +40 per stack	신성 속성 추가 대미지가 버프 중첩당 +40 증가
 SKILL_20191024_016516	Property Theory - Holy (Solo)	원리 이해 - 신성(개인)
-SKILL_20191024_016517	Additional damage from Holy Property +20 per armor	신성 속성 추가 대미지가 버프 중첩당 +20 증가
+SKILL_20191024_016517	Additional damage from Holy Property +20 per stack	신성 속성 추가 대미지가 버프 중첩당 +20 증가
 SKILL_20191024_016518	Property Theory - Earth (Group)	원리 이해 - 땅(단체)
-SKILL_20191024_016519	Additional damage from Earth Property +40 per armor	땅 속성 추가 대미지가 버프 중첩당 +40 증가
+SKILL_20191024_016519	Additional damage from Earth Property +40 per stack	땅 속성 추가 대미지가 버프 중첩당 +40 증가
 SKILL_20191024_016520	Property Theory - Earth (Solo)	원리 이해 - 땅(개인)
-SKILL_20191024_016521	Additional damage from Earth Property +20 per armor	땅 속성 추가 대미지가 버프 중첩당 +20 증가
+SKILL_20191024_016521	Additional damage from Earth Property +20 per stack	땅 속성 추가 대미지가 버프 중첩당 +20 증가
 SKILL_20191024_016522	Property Theory - Psychokinesis (Group)	원리 이해 - 염(단체)
-SKILL_20191024_016523	Additional damage from Psychokinesis Property +40 per armor	염 속성 추가 대미지가 버프 중첩당 +40 증가
+SKILL_20191024_016523	Additional damage from Psychokinesis Property +40 per stack	염 속성 추가 대미지가 버프 중첩당 +40 증가
 SKILL_20191024_016524	Property Theory - Psychokinesis (Solo)	원리 이해 - 염(개인)
-SKILL_20191024_016525	Additional damage from Psychokinesis Property +20 per armor	염 속성 추가 대미지가 버프 중첩당 +20 증가
+SKILL_20191024_016525	Additional damage from Psychokinesis Property +20 per stack	염 속성 추가 대미지가 버프 중첩당 +20 증가
 SKILL_20191024_016526	Furniture Interaction	가구 상호 작용
 SKILL_20191024_016527	Fire-property Buff Combination	불 속성 조합 버프
 SKILL_20191024_016528	2 Combination: 50% chance of immunity against fire-property debuffs{nl}     10% chance to apply flame debuff on attack{nl}44 Combination: 100% chance of immunity against fire-property debuffs{nl}     20% chance to apply flame debuff on attack	2조합 : 불 속성 디버프 50% 면역{nl}            타격시 10% 확률로 화염 디버프{nl}44조합 : 불 속성 디버프 100% 면역{nl}            타격시 20% 확률로 화염 디버프
@@ -16875,7 +16875,7 @@ SKILL_20191024_016874	* Only one Skeleton Mage may be summoned and it lasts 600 
 SKILL_20191024_016875	[Arts] Gather Corpse: Enhanced Upgrade	[아츠] 게더 콥스: 상급 강화
 SKILL_20191024_016876	* Increases the Skill Factor of [Gather Corpse] by 1.25% per attribute level	* [게더 콥스]의 스킬 계수가 특성 레벨당 1.25% 증가
 SKILL_20191024_016877	[Arts] Create Shoggoth: Enhanced Upgrade	[아츠] 쇼고스 만들기: 상급 강화
-SKILL_20191024_016878	* Increases the Skill Factor of [Creat Shoggoth] by 1.25% per attribute level	* [쇼고스 만들기]의 스킬 계수가 특성 레벨당 1.25% 증가
+SKILL_20191024_016878	* Increases the Skill Factor of [Create Shoggoth] by 1.25% per attribute level	* [쇼고스 만들기]의 스킬 계수가 특성 레벨당 1.25% 증가
 SKILL_20191024_016879	[Arts] Flesh Cannon: Enhanced Upgrade	[아츠] 플레시 캐논: 상급 강화
 SKILL_20191024_016880	* Increases the Skill Factor of [Flesh Cannon] by 1.25% per attribute level	* [플레시 캐논]의 스킬 계수가 특성 레벨당 1.25% 증가
 SKILL_20191024_016881	[Arts] Flesh Hoop: Enhanced Upgrade	[아츠] 플레시 후프: 상급 강화
@@ -17345,7 +17345,7 @@ SKILL_20191024_017344	* Increases the Skill Factor of [Begone Demon] by 1.25% pe
 SKILL_20191024_017345	[Arts] Gohei: O-Gohei	[아츠] 고헤이: 오고헤이
 SKILL_20191024_017346	* Increases SP consumption of [Gohei] by +100% and removes the buffs from all enemies within 100 range.	* [고헤이]의 SP소모량이 100% 증가하고, 주변 100 범위 내의 적 버프를 제거합니다.
 SKILL_20191024_017347	[Arts] Omikuji: Financial Fortune	[아츠] 오미쿠지: 금전운
-SKILL_20191024_017348	* The chance for [Omikuji] to apply a Great Blessing is increased to 10%, and it has the following effects added to it.{nl}* Great Blessing Buff Duration: 30 minutes{nl}* Great Blessing: Increases Looting Chance by 500 and provides a 20% chance of preventing you from losing equipment durability for 1 minute.	* [오미쿠지]의 대길 확률이 10%로 변경되고, 대길 효과가 다음과 같은 효과로 적용됩니다.{nl}* 대길 버프 지속시간: 30분{nl}* 대길: 루팅 찬스 500 증가 및 20% 확률로 1분동안 장착한 장비의 내구도가 유지되는 버프 부여
+SKILL_20191024_017348	* The chance for [Omikuji] to apply a Great Blessing is increased to 10%, the critical rate bonus is removed, and it has the following effects instead.{nl}* Great Blessing Buff Duration: 30 minutes{nl}* Great Blessing: Increases Looting Chance by 500 and provides a 20% chance of preventing you from losing equipment durability for 1 minute.	* [오미쿠지]의 대길 확률이 10%로 변경되고, 대길 효과가 다음과 같은 효과로 적용됩니다.{nl}* 대길 버프 지속시간: 30분{nl}* 대길: 루팅 찬스 500 증가 및 20% 확률로 1분동안 장착한 장비의 내구도가 유지되는 버프 부여
 SKILL_20191024_017349	[Arts] Gohei: Enhanced Upgrade	[아츠] 고헤이: 상급 강화
 SKILL_20191024_017350	* Increases the Skill Factor of [Gohei] by 1.25% per attribute level	* [고헤이]의 스킬 계수가 특성 레벨당 1.25% 증가
 SKILL_20191024_017351	[Arts] Hamaya: Enhanced Upgrade	[아츠] 하마야: 상급 강화
