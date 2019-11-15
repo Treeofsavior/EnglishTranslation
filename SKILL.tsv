@@ -15750,7 +15750,7 @@ SKILL_20190611_015749	Duration: #{CaptionTime}# seconds{nl}Damage received: -#{C
 SKILL_20190611_015750	Use the power of Kabbalah to summon serpents that attack your enemies and remove debuffs from allies periodically.	카발라 마법으로 지면에 뱀을 소환하여 적을 공격하고, 아군의 디버프를 주기적으로 제거합니다.
 SKILL_20190611_015751	Skill Factor: #{SkillFactor}#% per 2 seconds{nl}Removes 1 ally debuff every 2 seconds{nl}Duration: 10 seconds{nl}Target: 10	2초당 스킬 계수 #{SkillFactor}#%{nl}2초마다 아군의 디버프 1개 제거{nl}지속시간 10초{nl}적용 대상 수 10
 SKILL_20190611_015752	Duration: #{CaptionTime}# seconds{nl}Maximum HP: +#{CaptionRatio}#%	지속시간 #{CaptionTime}#초{nl}최대 HP #{CaptionRatio}#% 증가
-SKILL_20190611_015753	Heal Factor: #{CaptionRatio}#% per 0.5 seconds{nl}Duration: #{CaptionTime}# seconds{nl}Consumes Holy Water x1	0.5초당 치유 계수 #{CaptionRatio}#%{nl}지속시간 #{CaptionTime}#초{nl}성수 10개 소비
+SKILL_20190611_015753	Heal Factor: #{CaptionRatio}#% per 0.5 seconds{nl}Duration: #{CaptionTime}# seconds{nl}Consumes Holy Water x10	0.5초당 치유 계수 #{CaptionRatio}#%{nl}지속시간 #{CaptionTime}#초{nl}성수 10개 소비
 SKILL_20190611_015754	Changes the type of enemies within range to Demon. Changed targets take 10% additional damage from Holy-property attacks.{nl}The duration of the effect on bosses vary depending on the grade of the boss.{nl}* Unique Raid Boss: 50%{nl}* Legend Raid Boss: 25%{nl}* Boruta: 12.5%	전방 범위 적의 종족을 악마형으로 변경합니다. 변경된 적은 신성 속성 공격에 10% 추가 피해를 입습니다.{nl}보스에게는 보스 등급에 따라 지속시간이 다르게 적용됩니다.{nl} * 유니크 레이드 보스 : 50%{nl} * 레전드 레이드 보스 : 25%{nl} * 보루타 : 12.5%
 SKILL_20190611_015755	Clap your hands twice. Increases the duration of ally installations in the proximity (Ice Wall and Spike Shooter not included).{nl}Skill effects do not stack.	자리에서 박수를 2번 칩니다. 자신 주변에 있는 아군의 [설치물] 지속시간이 증가합니다. (아이스 월, 스파이크 슈터 제외){nl}박수의 효과를 이미 받은 설치물은 효과가 적용되지 않습니다.
 SKILL_20190611_015756	Temporarily increases the player's critical chance and reduces the enemy's block when attacking enemies from behind.	적의 후방 공격 시 일시적으로 자신의 치명타 확률이 증가하고, 적의 블럭은 감소합니다.
@@ -17829,7 +17829,7 @@ SKILL_20191024_017828	Zealot Class Lv. 45	질럿 클래스 45레벨 달성
 SKILL_20191024_017829	[Immolation: Enhance] attribute Lv. 65	[이몰레이션: 강화] 특성 65 레벨 달성
 SKILL_20191024_017830	[Fanatic Illusion: Enhance] attribute Lv. 65	[파나틱 일루젼: 강화] 특성 65 레벨 달성
 SKILL_20191024_017831	[Emphatic Thrust: Enhance] attribute Lv. 65	[엠퍼시스 트러스트: 강화] 특성 65 레벨 달성
-SKILL_20191026_017832	Duration: #CaptionTime}# seconds{nl}Max. Level 1	지속시간 #{CaptionTime}#초{nl}1레벨 마스터
+SKILL_20191026_017832	Duration: #{CaptionTime}# seconds{nl}Max. Level 1	지속시간 #{CaptionTime}#초{nl}1레벨 마스터
 SKILL_20191026_017833	Bloody Battle	혈전
 SKILL_20191026_017834	Healing received is reduced by -10% per stack.	받는 힐량이 중첩당 10%씩 감소합니다.
 SKILL_20191026_017835	Skirmish	투쟁
