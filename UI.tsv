@@ -2797,7 +2797,7 @@ UI_20170912_002796	{@st66d_y}{s22}Stage %s Tackle Box{/}	{@st66d_y}{s22}%s 단�
 UI_20170912_002797	Max. %s slots{nl}Fished %s time(s)	최대 %s칸{nl}낚시 횟수 %s회				
 UI_20170912_002798	{img icon_item_tpBox_30 30 30}{@st43b}{s18}%s TP Upgrade{/}	{img icon_item_tpBox_30 30 30}{@st43b}{s18}%s TP 업그레이드{/}				
 UI_20170912_002799	{@st43}Image %s{/}	{@st43}이미지 %s{/}				
-UI_20170912_002800	Enter	등록				
+UI_20170912_002800	Register	등록				
 UI_20170912_002801	{@st59b}Enter image{nl}{@st59s}- Browse for an image and register it{nl}- Refresh to update the list, then select the image	{@st59b}이미지 등록{nl}{@st59s}-폴더 열기 버튼을 통해 폴더에 이미지를 등록{nl}-새로고침을 통해 리스트를 갱신, 선택 후 확인				
 UI_20170912_002802	{@st66b}{s18}Open folder	{@st66b}{s18}폴더 열기				
 UI_20170912_002803	Open the folder containing the image.	이미지 등록된 폴더를 열어줍니다.				
@@ -3809,7 +3809,7 @@ UI_20190201_003808	Fund Distribution	적립금 분배
 UI_20190201_003809	Retrieve Funds	적립금 수령				
 UI_20190201_003810	{@st66b}Applicable Items{/}	{@st66b}적립요율 적용 항목{/}	UI_20190104_003638	{@st66b}Taxable Goods{/}	{@st66b}세율 적용 항목{/}	
 UI_20190201_003811	{@st66b}Fund Records{/}	{@st66b}적립금 상세 이력{/}	UI_20190104_003639	{@st66b}Records{/}	{@st66b}세금 상세 이력{/}	
-UI_20190201_003812	{@st42}{s20}Fund Distribution	{@st42}{s20}적립금 분배	UI_20190104_003640	{@st42}{s20}Tax Allocation	{@st42}{s20}세금 분배	
+UI_20190201_003812	{@st42}{s20}Fund Distribution	{@st42}{s20}적립금 분배				
 UI_20190201_003813	{@st42}{s20}Retrieve Funds	{@st42}{s20}적립금 수령	UI_20190104_003647	{@st42}{s20}Retrieve Taxes	{@st42}{s20}세금 수령	
 UI_20190201_003814	City Tariff Rate	도시 적립요율	UI_20190104_003675	City Tax	도시 세율	
 UI_20190201_003815	City Tariff Funds{img tip_questionmark 20 20}	도시 적립금{img tip_questionmark 20 20}	UI_20190104_003676	City Tax {img tip_questionmark 20 20}	징수될 도시 세금{img tip_questionmark 20 20}	
@@ -3900,7 +3900,7 @@ UI_20190612_003899	{s16}{ol} Tracking Quests	{s16}{ol}추적 퀘스트	UI_201906
 UI_20190621_003900	{@st66b}Item trade counts and entry limits will be reset during weekly scheduled maintenance.{/}	{@st66b}탈트 및 실버 입장 횟수는 매주 화요일 점검 시에 초기화 됩니다.{/}				
 UI_20190621_003901	{@st43}{s22}Victory Cube{/}	{@st43}{s22}이벤트: 승부 큐브{/}	UI_20170912_002881	{@st43}{s22}Leticia's Secret Cube{/}	{@st43}{s22}레티샤 시크릿 큐브{/}	
 UI_20190802_003902	{@st42}{s20}Challenger's League	{@st42}{s20}챌린저스 리그				
-UI_20190802_003903	{@st42}{s20}Champion's League	{@st42}{s20}챔피언스 리그	UI_20190104_003625	{@st42}{s20}Victory Benefits	{@st42}{s20}점령 혜택	
+UI_20190802_003903	{@st42}{s20}Champion's League	{@st42}{s20}챔피언스 리그	UI_20190201_003812	{@st42}{s20}Fund Distribution	{@st42}{s20}적립금 분배	
 UI_20190802_003904	{@st41b}{s16}{b}Champions	{@st41b}{s16}{b}챔피언스 리그				
 UI_20190802_003905	{@st41b}{s16}{b}Challengers	{@st41b}{s16}{b}챌린저스 리그				
 UI_20190802_003906	Regional League	지역 리그				
@@ -4967,4 +4967,109 @@ UI_20210809_004966	Field hunt gain {img green_up_arrow 14 14}%s%	필드 사냥�
 UI_20210809_004967	Remaining Time : {#FF0000}%s{/}	남은 시간 : {#FF0000}%s{/}				
 UI_20210809_004968	{@st43}Entry is only possible when {s16} gear score or above or when the requirements are met.{/}	{@st43}{s16}기어 스코어 이상 및 특정 조건에 만족해야 입장이 가능합니다.{/}	UI_20210115_004684	{@st43}{s16}Entry is possible only when the conditions and item above a certain grade are met.{/}	{@st43}{s16}특정 등급 이상의 아이템과 조건을 만족해야 입장이 가능합니다.{/}	
 UI_20210820_004969	{@st66b}Due to the ranking calculation, you can not enter from 00:00 ~ 06:00 on Saturday.{nl}{s13}{#FF0000}※ Ranking is only registered by clearing Auto Match.{/}{/}{/}	{@st66b}랭킹 집계로 인해 토요일 00:00 ~ 06:00시 사이에는 입장이 불가능합니다.{nl}{s13}{#FF0000}※ 랭킹은 자동매칭을 통해서만 등록이 가능합니다.{/}{/}{/}	UI_20210809_004844	{@st66b}Due to the ranking calculation, you can not enter from 00:00 ~ 06:00 on Monday.{nl}{s13}{#FF0000}※ Ranking is only registered from Auto Match.{/}{/}{/}	{@st66b}랭킹 집계로 인해 월요일 00:00 ~ 06:00시 사이에는 입장이 불가능합니다.{nl}{s13}{#FF0000}※ 랭킹은 자동매칭을 통해서만 등록이 가능합니다.{/}{/}{/}	
-UI_20210906_004970	{@st66b}{s16}- Combine 3 Vaivora Visions to get a random Vaivora Vision.{nl}- Vaivora Vision with [Lv2] or above cannot be combined.{nl} - 1 [Vaivora Origin Stone] is given every time combining Vaivora. You can select and obtain 1 Vaivora Vision with 5 Vaivora Origin Stone.	{@st66b}{s16}- 3개의 바이보라 비전을 합성하여 무작위 바이보라 비전을 획득합니다. {nl} - [Lv2] 이상의 바이보라 비전은 합성이 불가능 합니다.{nl} - 바이보라 합성 이용 1회 마다 [바이보라 근원석] 아이템을 1개 획득합니다. 바이보라 근원석 5개로 원하는 바이보라 비전 1개를 선택하여 획득할 수 있습니다.	UI_20210809_004744	{@st66b}{s16}- Combine 3 Vaivora weapons to get a random Vaivora weapon.{nl}- Transmutated Vaivora equipment cannot be combined.{nl} - 1 [Vaivora Origin Stone] is given every time combining Vaivora. You can select and obtain 1 Vaivora Unique weapon with 5 Vaivora Origin Stone.	{@st66b}{s16}- 3개의 바이보라 무기를 합성하여 무작위 바이보라 무기를 획득합니다. {nl} - 연성된 바이보라 장비는 합성이 불가능 합니다.{nl} - 바이보라 합성 이용 1회 마다 [바이보라 근원석] 아이템을 1개 획득합니다. 바이보라 근원석 5개로 원하는 바이보라 유니크 무기 1개를 선택하여 획득할 수 있습니다.
+UI_20210906_004970	{@st66b}{s16}- Combine 3 Vaivora Visions to get a random Vaivora Vision.{nl}- Vaivora Vision with [Lv2] or above cannot be combined.{nl} - 1 [Vaivora Origin Stone] is given every time combining Vaivora. You can select and obtain 1 Vaivora Vision with 5 Vaivora Origin Stone.	{@st66b}{s16}- 3개의 바이보라 비전을 합성하여 무작위 바이보라 비전을 획득합니다. {nl} - [Lv2] 이상의 바이보라 비전은 합성이 불가능 합니다.{nl} - 바이보라 합성 이용 1회 마다 [바이보라 근원석] 아이템을 1개 획득합니다. 바이보라 근원석 5개로 원하는 바이보라 비전 1개를 선택하여 획득할 수 있습니다.	UI_20210809_004744	{@st66b}{s16}- Combine 3 Vaivora weapons to get a random Vaivora weapon.{nl}- Transmutated Vaivora equipment cannot be combined.{nl} - 1 [Vaivora Origin Stone] is given every time combining Vaivora. You can select and obtain 1 Vaivora Unique weapon with 5 Vaivora Origin Stone.	{@st66b}{s16}- 3개의 바이보라 무기를 합성하여 무작위 바이보라 무기를 획득합니다. {nl} - 연성된 바이보라 장비는 합성이 불가능 합니다.{nl} - 바이보라 합성 이용 1회 마다 [바이보라 근원석] 아이템을 1개 획득합니다. 바이보라 근원석 5개로 원하는 바이보라 유니크 무기 1개를 선택하여 획득할 수 있습니다.	
+UI_20210913_004971	Ark Level Up Scroll	아크 레벨업 스크롤				
+UI_20210913_004972	{@st66}Use to apply Lv.%s.{/}	{@st66}사용 시 %s레벨로 변경됩니다.{/}				
+UI_20210913_004973	{@st59}Accessories{/}	{@st59}액세서리{/}	UI_20210809_004859	{@st59}Accessory{/}	{@st59}악세사리{/}	
+UI_20210913_004974	{s14}All activated when registering one of the same types of accessory.{/}	{s14}같은 종류의 액세서리 중 하나만 선택하여 등록해도 모두 활성화됩니다.{/}	UI_20210809_004863	{s14}All activated when registering one of the same types of accessory.{/}	{s14}같은 종류의 악세사리 중 하나만 선택하여 등록해도 모두 활성화됩니다.{/}	
+UI_20210913_004975	{@st43}{s22}Item Register Voucher{/}	{@st43}{s22}아이템 개방권{/}				
+UI_20210913_004976	{@st41}Register the selected type of item in the equipment storage.{/}	{@st41}선택한 종류의 아이템을 보관함에서 활성화 시킵니다.{/}				
+UI_20210913_004977	{@st41b}Select{/}	{@st41b}선택{/}				
+UI_20210927_004978	{@st202}{s16}Basic Probability{/}{/}	{@st202}{s16}기본 확률{/}{/}				
+UI_20210927_004979	{@st202}{s16}Failure Adjusted ProbabilIty{/}{/}	{@st202}{s16}누적 실패 보정{/}{/}				
+UI_20210927_004980	{@st202}{s16}Success Probability{/}{/}	{@st202}{s16}성공 확률{/}{/}				
+UI_20210927_004981	{@st202}Extra Ingredient ▶ (%s% probabilty adjusted at failure){/}	{@st202}추가 재료 ▶ (실패 시 확률 %s% 보정){/}				
+UI_20211021_004982	{@st59}Close the Character Change window{/}	{@st59}캐릭터 교체창을 닫습니다{/}				
+UI_20211021_004983	{@st59b}Character Change{nl}{@st59s} - You can change to the previously registered character.{nl} - Only Lv.460 character can be changed.{nl} - Click the complete button after selecting the character to change the character.{nl} - You can change the character only 1 time.{/}	{@st59b}캐릭터 교체{nl}{@st59s} - 미리 등록한 캐릭터를 교체할 수 있습니다.{nl} - 교체 가능한 캐릭터는 Lv.460 인 캐릭터만 가능합니다.{nl} - 캐릭터 선택후 선택 완료 버튼 클릭시 캐릭터 교체가 이루어집니다.{nl} - 캐릭터 교체는 1회만 가능합니다.{/}				
+UI_20211021_004984	{@st43}Character Change{/}	{@st43}캐릭터 교체{/}				
+UI_20211021_004985	{@st41b}Character Change	{@st41b}캐릭터 교체				
+UI_20211021_004986	{@st43}Register Character to Change{/}	{@st43}교체 캐릭터 등록{/}				
+UI_20211021_004987	{@st61}{s18}How to register character to change{/}{nl} - List of character you can register appears when you click on the empty slot{nl} - Click on the character you want on the list to register{nl}{nl} {nl}{@st61}{s18}How to remove the character{/}{nl} - Remove by clicking the button 	{@st61}{s18}교체 캐릭터 등록 방법{/}{nl} - 빈 슬롯을 클릭하면 등록 가능한 캐릭터 목록이 등장{nl} - 캐릭터 목록 중, 원하는 캐릭터를 선택하여 등록{nl}{nl} {nl}{@st61}{s18}교체 캐릭터 해제 방법{/}{nl} - 등록된 캐릭터의 슬롯 우측 상단의 				
+UI_20211021_004988	on the right upper side of the registered character's slot.{nl}{nl} {nl}{@st61}{s18}List of characters appeared on the exchange character list{/}{nl} - Character with Lv.460 or above{nl}{#ff0000}*When the registered character hasn't met the Team Battle League participation condition, {nl}changing character during the Team Battle League is unavailable.{/}{nl}{#ff0000}* If the registered character is Healer class, you cannot change the character during the Team Battle League.{/}	버튼을 선택 후 해제{nl}{nl} {nl}{@st61}{s18}교체 캐릭터에 목록에 나타는 캐릭터 목록{/}{nl} - 캐릭터 Lv 460 이상인 캐릭터{nl}{#ff0000}*등록된 캐릭터가 팀 배틀 리그 참여 조건을 충족하지 못 한 경우,{nl}팀 배틀 리그 진행 중 캐릭터 교체가 불가합니다{/}{nl}{#ff0000}*등록된 캐릭터가 힐러 클래스이면 팀 배틀리그 진행 중 캐릭터 교체가 불가합니다{/}				
+UI_20211021_004989	{@st43}Character Selection{/}	{@st43}캐릭터 선택{/}				
+UI_20211021_004990	{@st61}{s18}Character Selection{/}{nl}- After registering the Character to change, log in to the corresponding character{nl}Please check if the equipment and setting meet the condition of changing the character.{nl}{#ff0000}*When the registered character hasn't met the Team Battle League participation condition, {nl}changing character during the Team Battle League is unavailable.{/}{nl}- Registering change character is saved per character.	{@st61}{s18}캐릭터 선택{/}{nl}- 교체 캐릭터 등록 후 해당 캐릭터로 접속하여 {nl}장비 및 관련 세팅이 교체 캐릭터의 조건을 충족하는지 1회 이상 확인이 필요합니다.{nl}{#ff0000}*등록된 캐릭터가 팀 배틀 리그 참여 조건을 충족하지 못 한 경우,{nl}팀 배틀 리그 진행 중 캐릭터 교체가 불가합니다{/}{nl}- 교체 캐릭터 등록은 캐릭터 단위로 저장됩니다.				
+UI_20211021_004991	{s6} {nl}{/}{@st41d}{img colony_point_pic 24 24}Battlefield Info.{nl}{/}	{s6} {nl}{/}{@st41d}{img colony_point_pic 24 24}전장 정보{nl}{/}				
+UI_20211021_004992	※ Left the Guild Territory	※ 콜로니 지역에서 벗어남				
+UI_20211021_004993	Guild Territory Info.	콜로니 지역 정보				
+UI_20211021_004994	%s{@st42}{s14}{#ffff00}Cancel{/}	%s{@st42}{s14}{#ffff00}취소{/}				
+UI_20211021_004995	Multiply	배수				
+UI_20211021_004996	{s24}Content Invitation	{s24}콘텐츠 초대장				
+UI_20211021_004997	You have reached Gear Score {#0033FF}460{/}!{nl}You can now play in	기어 스코어 {#0033FF}460{/} 를 달성하셨네요!{nl}이제 				
+UI_20211021_004998	{#0033FF}Exciting Dungeon{/}	{#0033FF}짱짱 재밌는 던전{/}				
+UI_20211021_004999	content.{nl}Reward x10 and additional reward will be given for clearing the content for the first time if you are a new or returning savior!{nl}Will you participate now?{nl}{nl}{nl}{#FF3333}※Even if	 콘텐츠를 이용하실 수 있습니다.{nl}신규, 복귀 구원자이실 때 최초 클리어 시 콘텐츠 보상 10배와 추가 보상 혜택이 있습니다!{nl}지금 참여하시겠습니까?{nl}{nl}{nl}{#FF3333}※ 				
+UI_20211021_005000	is selected,	를 선택하셔도 인벤토리의 				
+UI_20211021_005001	Content Invitation	콘텐츠 초대장				
+UI_20211021_005002	item at the inventory allows you check again when used.{/}	 아이템을 사용하여 다시 확인하실 수 있습니다.{/}				
+UI_20211021_005003	No	아니요				
+UI_20211021_005004	{ol}{s24}Contents Reward{/}	{ol}{s24}콘텐츠 보상{/}				
+UI_20211021_005005	{@st66d}{s22}Basic Reward of the content x%s + additional reward given{/}	{@st66d}{s22}해당 콘텐츠의 기본보상 %s배 + 추가 보상 지급{/}				
+UI_20211021_005006	{@st66d}{s20}Additional Reward List{/}	{@st66d}{s20}추가 보상 리스트{/}				
+UI_20211021_005007	{@st66d}{s19}{#FF3333}※ Reward that can be obtained by chance is excluded{/}	{@st66d}{s19}{#FF3333}※ 확률적으로 획득할 수 있는 보상 아이템은 제외됩니다{/}				
+UI_20211021_005008	{@st66d}{s19}{#FF3333}※ This reward can be received once per content and team{/}	{@st66d}{s19}{#FF3333}※ 해당 보상은 콘텐츠당 1회(팀당) 수령할 수 있습니다{/}				
+UI_20211021_005009	{img icon_item_silver 24 24}{@st41b}Consume %s Silver{nl}Remove card{/}	{img icon_item_silver 24 24}{@st41b}%s실버 소모{nl}카드 해제하기{/}	UI_20180320_003015	{img icon_item_silver 24 24}{@st41b}Consume %s Silver{nl}Unequip card without the level decrease{/}	{img icon_item_silver 24 24}{@st41b}%s실버 소모{nl}레벨 감소없이 카드 해제하기{/}	
+UI_20211021_005010	{@st43b}{s20}Group Chat Setting	{@st43b}{s20}채팅방 설정				
+UI_20211021_005011	{@st66b}{s16}Name	{@st66b}{s16}이름				
+UI_20211021_005012	{@st66b}{s16}Private	{@st66b}{s16}비공개				
+UI_20211021_005013	Password (4 ~ 8 letters)	비밀번호 (최소 4자 ~ 최대 8자)				
+UI_20211021_005014	{@st66b}Check	{@st66b}확인				
+UI_20211021_005015	{@st66b}{s18}Enter the name of new Group Chat	{@st66b}{s18}새 채팅방의 이름을 입력하세요				
+UI_20211021_005016	{@st66b}{s18} Password (4 ~ 8 letters)	{@st66b}{s18}비밀번호 (최소 4자 ~ 최대 8자)				
+UI_20211021_005017	{@st66b}Create	{@st66b}만들기				
+UI_20211021_005018	Are you new to the Guild Community?	길드 커뮤니티는 처음이신가요?				
+UI_20211021_005019	Select the Guild Chat to participate!	옆의 길드 채팅방을 선택해 참여하세요!				
+UI_20211021_005020	{@st41b}{s16}{b}Fund Distribution	{@st41b}{s16}{b}적립금 분배				
+UI_20211021_005021	{@st66b}{s16}Team Battle League Shop	{@st66b}{s16}팀 배틀리그 상점				
+UI_20211021_005022	{@st66b}{s16}Register Character to Change	{@st66b}{s16}교체 캐릭터 등록				
+UI_20211021_005023	{@st66b}{s16}Class Ranking Reward	{@st66b}{s16}클래스 순위 보상				
+UI_20211021_005024	{@st66b}Goddess{/}	{@st66b}가디스{/}				
+UI_20211021_005025	{@st66b}Skill Gem{/}	{@st66b}스킬 젬{/}	UI_20181017_003533	{@st66b}Monster Gems{/}	{@st66b}몬스터 젬{/}	
+UI_20211021_005026	{@st66b}Cyan Gem{/}	{@st66b}시안 젬{/}				
+UI_20211021_005027	{@st66b}Magenta Gem{/}	{@st66b}마젠타 젬{/}				
+UI_20211021_005028	{@st66b}Black Gem{/}	{@st66b}블랙 젬{/}				
+UI_20211021_005029	{@st66b}Aether Gem{/}	{@st66b}에테르 젬{/}				
+UI_20211021_005030	Sandra's Free Magnifier	산드라의 무료 감정 돋보기				
+UI_20211021_005031	Guild Territory Wars Battlefield Info.	길드 콜로니전 전장 정보				
+UI_20211021_005032	{@st43b}{s20}List of Mount	{@st43b}{s20}탈 것 목록				
+UI_20211021_005033	{@st59b}Summon Mount{nl}{@st59s}[Select Mount]{nl} - Select the portrait from the List of Mount{nl} * Use the	{@st59b}탈 것 소환{nl}{@st59s}[탈 것 선택]{nl} - 탈 것 목록에서 해당 탈 것의 초상화 선택{nl} *탈 것은 				
+UI_20211021_005034	Mount Voucher	탈 것 등록증				
+UI_20211021_005035	to register so that it can appear on the list{nl}{nl} {nl}[Remove Mount]{nl} - Re-select the selected portrait on the list to remove selection{nl}{nl} {nl}[Summon Mount]{nl} - Select the Mount you want and use Summon Mount skill.{nl} - Unable to use skill in special conditions such as mounted on the companion/during combat/during Heroic Tale/Incapable of Combat, etc{nl} * Class with Companion Riding attribute only receives effect of Mount while mounted on the companion{nl}{nl} {nl}[Remove Summon Mount]{nl} - Summon the Mount and re-use the Summon Mount skill to remove{nl} - Removed when the character is incapable of combat{nl} - Removed when entering the Heroic Tale{nl}{nl} {nl}[Effect of Mount]{nl} - You can check the details by hovering the mouse on the registered Mount	 아이템을 사용하여 등록되어야 목록에 등장{nl}{nl} {nl}[탈 것 선택 해제]{nl} - 탈 것 목록에서 선택된 탈 것의 초상화를 다시 선택하여 해제 가능{nl}{nl} {nl}[탈 것 소환하기]{nl} - 원하는 탈 것을 선택후 탈 것 소환 스킬을 사용{nl} - 컴패니언에 탑승한 상태/전투 중/영웅담 진행 중/사망 등, 특수한 상태에서는 스킬 사용 불가{nl} * 컴패니언 탑승 특성을 보유한 클래스는 컴패니언에 탑승한 상태에서 탈 것의 효과만 적용{nl}{nl} {nl}[탈 것 소환 해제하기]{nl} - 탈 것을 소환한 상태에서 탈 것 소환 스킬 재사용으로 해제{nl} - 캐릭터 사망 시, 해제{nl} - 영웅담 콘텐츠 진입 시, 해제{nl}{nl} {nl}[탈 것의 효과]{nl} - 등록된 탈 것에 마우스를 가져다 대면 세부 내용 표기				
+UI_20211021_005036	{@st43b}{s16}Currently applied Effect	{@st43b}{s16}적용중인 효과				
+UI_20211021_005037	{@st59b}List of Mount{/}	{@st59b}탈 것 목록{/}				
+UI_20211021_005038	{#FD9310}{s16}{ol}Main Quests{/}	{#FD9310}{s16}{ol}메인 퀘스트{/}	UI_20190612_003894	{s16}{ol} Main Quests	{s16}{ol}메인 퀘스트	
+UI_20211021_005039	{s16}{ol}Sub Quests{/}	{#0C6BFA}{s16}{ol}서브 퀘스트{/}	UI_20190612_003895	{s16}{ol} Sub Quests	{s16}{ol}서브 퀘스트	
+UI_20211021_005040	{#54AE17}{s16}{ol}Repeatable Quests{/}	{#54AE17}{s16}{ol}반복 퀘스트{/}	UI_20190612_003896	{s16}{ol} Repeatable Quests	{s16}{ol}반복 퀘스트	
+UI_20211021_005041	{#76683C}{s16}{ol}Party Quests	{#76683C}{s16}{ol}파티 퀘스트	UI_20190612_003897	{s16}{ol} Party Quests	{s16}{ol}파티 퀘스트	
+UI_20211021_005042	{#BD1854}{s16}{ol}Request Quest{/}	{#BD1854}{s16}{ol}의뢰 퀘스트{/}	UI_20190612_003898	{s16}{ol} Hethran Badge Quests	{s16}{ol}증표 퀘스트	
+UI_20211021_005043	Combine Skill Gem	스킬 젬 합성				
+UI_20211021_005044	{@st59b}Combine Skill Gem{nl} {nl}{@st59s} - Consume 5 skill gems regardless of type to receive 1 skill gem from all skill gems by chance.{nl} - Chance of skill gem class is determined according to the input skill gem.{nl} - 1 additional Skill Gem Fragment will be given after the combine.{nl} - Use 10 Skill Gem Fragment to receive 1 Skill Gem Selection Box.	{@st59b}스킬 젬 합성{nl} {nl}{@st59s} - 종류에 상관없이 스킬 젬 5개를 소모하여 전체 스킬 젬 중 스킬 젬 1개를 균등 확률로 획득할 수 있습니다.{nl} - 재료로 투입한 스킬 젬의 클래스 계열에 따라 획득할 스킬 젬의 계열 별 확률이 결정됩니다.{nl} - 합성 완료 후 추가적으로 스킬 젬 파편을 1개 획득합니다.{nl} - 스킬 젬 파편을 10개 모아서 사용하면 스킬 젬 선택 상자를 1개 획득합니다.				
+UI_20211021_005045	Expected Result	예상 결과				
+UI_20211021_005046	{@st43}{s22}There is no Class Ranking Reward{nl}for a basic class tree {nl}{nl}Please select another class and check the reward.	{@st43}{s22}기본 계열 클래스에는{nl}클래스 순위 보상이 없습니다.{nl}다른 클래스를선택하여 보상을 확인하세요				
+UI_20211021_005047	{@st41b}Mid Point	{@st41b}중앙 시점				
+UI_20211021_005048	Team 1	1 팀				
+UI_20211021_005049	Team 2	2 팀				
+UI_20211021_005050	{@st41}Detail	{@st41}세부 사항				
+UI_20211021_005051	{@st41b}You will return to the entering area in %s second(s)...{/}	{@st41b}%s초 후 입장 지역으로 돌아갑니다...{/}				
+UI_20211021_005052	{@st43}Result Details{/}	{@st43}결과 세부 정보{/}				
+UI_20211021_005053	Team 1	1팀				
+UI_20211021_005054	Damage Given	준 피해량				
+UI_20211021_005055	Damage Received	받은 피해량				
+UI_20211021_005056	Heal Given	준 힐량				
+UI_20211021_005057	Heal Received	받은 힐량				
+UI_20211021_005058	Team 2	2팀				
+UI_20211021_005059	{@st66b}Move{/}	{@st66b}이동하기{/}				
+UI_20211021_005060	Type and Name	계열 및 이름	UI_20160224_002120	Name & Class	이름 및 클래스	
+UI_20211021_005061	Group Chat Name	채팅방 이름				
+UI_20211021_005062	Show the message to the Group Chat, enter	채팅 창에 메시지를 표시하고, 				
+UI_20211021_005063	/<Name of Group Chat> <Contents>	/<채팅방 이름 일부> <할말>				
+UI_20211021_005064	to send message.	을 입력하여 바로 메시지를 보낼 수 있습니다.				
+UI_20211021_005065	{@st66d}<Unknown>{/}	{@st66d}<알수없음>{/}				
+UI_20211021_005066	{@st59}Removed the registered character.{/}	{@st59}등록된 캐릭터를 해제합니다.{/}				
+UI_20211021_005067	{@st42b}{s14}{ds}[Effect] : %s	{@st42b}{s14}{ds}[효과] : %s				
+UI_20211021_005068	Test Mount Effect	테스트용 기본 탈 것 효과				
+UI_20211021_005069	Retreat	퇴각				
+UI_20211021_005070	No Authority	권한 없음				
+UI_20211104_005071	{@st66d}{s21}Basic Reward of the content x%s + additional reward given{/}	{@st66d}{s21}해당 콘텐츠의 기본보상 %s배 + 추가 보상 지급{/}				
+UI_20211104_005072	{@st66d}{s19}Additional Reward List{/}	{@st66d}{s19}추가 보상 리스트{/}	UI_20211021_005006	{@st66d}{s20}Additional Reward List{/}	{@st66d}{s20}추가 보상 리스트{/}	
+UI_20211104_005073	{@st66d}{s18}{#FF3333}※ Reward that can be obtained by chance is excluded{/}	{@st66d}{s18}{#FF3333}※ 확률적으로 획득할 수 있는 보상 아이템은 제외됩니다{/}				
+UI_20211104_005074	{@st66d}{s18}{#FF3333}※ This reward can be received once per content and team{/}	{@st66d}{s18}{#FF3333}※ 해당 보상은 콘텐츠당 1회(팀당) 수령할 수 있습니다{/}	UI_20211021_005008	{@st66d}{s19}{#FF3333}※ This reward can be received once per content and team{/}	{@st66d}{s19}{#FF3333}※ 해당 보상은 콘텐츠당 1회(팀당) 수령할 수 있습니다{/}	
+UI_20211104_005075	{@st41}Create the selected type of item.{/}	{@st41}선택한 종류의 아이템을 생성합니다.{/}	UI_20210913_004976	{@st41}Register the selected type of item in the equipment storage.{/}	{@st41}선택한 종류의 아이템을 보관함에서 활성화 시킵니다.{/}	
